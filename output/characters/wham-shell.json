@@ -1,0 +1,49 @@
+{
+  "id": "wham-shell",
+  "name": "Wham-Shell",
+  "species": "Crab",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Giants",
+    "Gill Grunt and the Curse of the Fish Master",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Wham-Shell was the long-standing ruler of a kingdom deep in the oceans of Skylands that for a long time lived peacefully. That is, until his underwater utopia was invaded by a legion of oil-drilling trolls that scattered his people to the wind. Armed with a powerful mace that had been handed down from one king to the next for generations, Wham-Shell defeated the greedy trolls and drove them away. Soon after, he joined the Skylanders to help defend against this type of atrocity ever happening again.",
+  "personality": "Regal and heroic, Wham-Shell never forgets the common clams and protects the seas for all his worth. &#91; 3 &#93; As the son of an underwater king, he isn't used to being refused anything. &#91; 4 &#93; It is also said that he is usually a pretty together kind of guy. &#91; 5 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Wham-Shell",
+  "variants": [
+    {
+      "id": "wham-shell",
+      "variant_name": "Wham-Shell",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/ee/300px-Wham-Shell_03.jpg",
+      "attacks": [
+        "Malacostracan Mace",
+        "Starfish Bullets",
+        "King’s Mace",
+        "Poseidon Strike",
+        "Mega Trident"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Wham-Shell"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "chill",
+  "name": "Chill",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "Chill was the sworn guardian and personal protector of the Snow Queen. As captain of the queen's guard, her many heroic deeds earned her the respect of the entire ice kingdom. But when the Cyclops army began to expand their empire into the northern realms, the Snow Queen was taken prisoner during her watch and Chill has never forgiven herself for letting it happen. Ashamed and embarrassed, she left the Ice Kingdom behind and sworn never to return until she could reclaim her honor. Now as a member of the Skylanders, she remains courageous and strong, while always on the lookout for her lost queen.",
+  "personality": "As captain of the Queen's guard, Chill was once the most feared and respected of all the people in the Ice Kingdom. She is a proud, noble warrior - but not afraid to play dirty. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Chill",
+  "variants": [
+    {
+      "id": "chill",
+      "variant_name": "Chill",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Skylanders-chill-top630.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Chill"
+    }
+  ]
+}

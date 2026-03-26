@@ -1,0 +1,43 @@
+{
+  "id": "smash-hit",
+  "name": "Smash Hit",
+  "species": "Warsupial",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Smash Hit came from a long line of Warsupials - a rare species widely renowned for their skills in combat. But in more peaceful times, his people were responsible for locating and demolishing any remaining artifacts from the Arkeyan Empire that were deemed too dangerous to leave standing. Smash Hit liked his job because it allowed him to do what he loved most - break things! He was so skillful with his wrecking ball that he could single-handedly dismantle an entire Arkeyan Conquertron in under an hour and still have time for a snack. When Master Eon noticed his skill, he enlisted the talented Warsupial into a new wrecking crew he was forming to take on Kaos - the SuperChargers!",
+  "personality": "As his name suggests, Smash Hit loves demolishing objects (particularly remnants of the Arkeyans that were too dangerous to leave rusting). However when not battling evil, he tends to destroy old objects at the Skylanders Academy that no longer prove useful to its inhabitants ( Buzz in particular). He is also a real chatterbox when having a conversation, as revealed in his interactions with Buzz during his Quests in SuperChargers .",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Smash_Hit",
+  "variants": [
+    {
+      "id": "smash-hit",
+      "variant_name": "Smash Hit",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e7/Smash_Hit_Promo.jpg/revision/latest?cb=20151006092205",
+      "attacks": [
+        "Demolisher",
+        "Crushinator",
+        "Connect and Disconnect",
+        "Heap",
+        "G'Day"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Smash_Hit"
+    }
+  ]
+}

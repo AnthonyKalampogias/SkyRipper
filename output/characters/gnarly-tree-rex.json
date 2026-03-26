@@ -1,0 +1,45 @@
+{
+  "id": "gnarly-tree-rex",
+  "name": "Gnarly Tree Rex",
+  "species": "Ent",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Gnarly_Tree_Rex",
+  "variants": [
+    {
+      "id": "gnarly-tree-rex",
+      "variant_name": "Gnarly Tree Rex",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/GnarlyTreeRexPromo.jpg/revision/latest?cb=20121101161125",
+      "attacks": [
+        "Arbor Smash",
+        "Sequoia Charge",
+        "Big Thorn Shockwave Slam",
+        "Photosynthesis Cannon",
+        "Super Stampede"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Gnarly_Tree_Rex"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "stump-smash",
+  "name": "Stump Smash",
+  "species": "Ent",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Stump Smash Crosses the Bone Dragon",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Stump Smash was once a magical tree that spent most of his time sleeping peacefully in the forests of Skylands . Then one day he awoke to discover his entire forest had been chopped down and logged by trolls– himself included. His long branches were gone, leaving him with only powerful mallets for hands, which he used to smash the troll tree-cutting machines. Although still grumpy about what happened to him, Stump Smash has vowed to protect Skylands against those who would do it harm… especially trolls.",
+  "personality": "Prior to being cut down and logged, Stump Smash was a peaceful tree creature who spent most of his lifetime sleeping in the forest areas of his world, that is, until his incident with the Trolls . To this day, Stump Smash is still grouchy about what happened to him and takes his anger out on evil doers. He knows how to bare a grudge. Even after all these years he still seeks out trolls to teach them a lesson. He's no sap. &#91; 3 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Stump_Smash",
+  "variants": [
+    {
+      "id": "stump-smash",
+      "variant_name": "Stump Smash",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Stump_Smash_Promo.jpg",
+      "attacks": [
+        "Wood Hammer",
+        "Acorn Spit",
+        "Meganut",
+        "Thorn Bark",
+        "Stump Crusher Combos"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Stump_Smash"
+    }
+  ]
+}

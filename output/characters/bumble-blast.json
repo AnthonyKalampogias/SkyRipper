@@ -1,0 +1,44 @@
+{
+  "id": "bumble-blast",
+  "name": "Bumble Blast",
+  "species": "Anthropomorphic Beehive",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Stump Smash Crosses the Bone Dragon",
+  "world": [
+    "Radiant Mountains"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Bumble Blast started life as a humble beehive in the Radiant Mountains, where for ages the bees made the most sweetest, most magical honey in all of Skylands . When Kaos heard about this \"super honey\", he wanted all of it for himself and soon launched an attack on the peaceful Bees. But when his minions arrived to plunder everything the bees had created, they were met by Bumble Blast. He alone had been home to the bees and considered himself their protector. Using the power of the magic honey, Bumble Blast valiantly battled the evil minions, who felt his powerful sting that day. Afterward, Bumble Blast roamed Skylands as a protector of nature, where he soon joined with the Skylanders.",
+  "personality": "Protective to the extreme, Bumble Blast defends all wildlife, not just his beloved bees. He places himself in danger to defend others. &#91; 3 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Bumble_Blast",
+  "variants": [
+    {
+      "id": "bumble-blast",
+      "variant_name": "Bumble Blast",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Bumble_blast.jpg",
+      "attacks": [
+        "Beezooka",
+        "Honey Glob",
+        "Honey Beecon",
+        "Bee Armada",
+        "Honey Buzz Blast"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Bumble_Blast"
+    }
+  ]
+}

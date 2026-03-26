@@ -1,0 +1,41 @@
+{
+  "id": "elite-slam-bam",
+  "name": "Elite Slam Bam",
+  "species": "Yeti",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Slam_Bam",
+  "variants": [
+    {
+      "id": "elite-slam-bam",
+      "variant_name": "Elite Slam Bam",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a2/Eon%27s_Elite_Slam_Bam.jpg/revision/latest?cb=20170729040954",
+      "attacks": [
+        "Yeti Fists",
+        "Ice Prison",
+        "Arctic Explosion",
+        "Yeti Ice Shoes",
+        "Ice Knuckles"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Slam_Bam"
+    }
+  ]
+}

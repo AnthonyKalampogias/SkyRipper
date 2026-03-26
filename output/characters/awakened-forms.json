@@ -1,0 +1,30 @@
+{
+  "id": "awakened-forms",
+  "name": "Awakened Forms",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Awakened_Forms",
+  "variants": [
+    {
+      "id": "awakened-forms",
+      "variant_name": "Awakened Forms",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Awakened_Skylanders.png",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Awakened_Forms"
+    }
+  ]
+}

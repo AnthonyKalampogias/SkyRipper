@@ -1,0 +1,45 @@
+{
+  "id": "polar-whirlwind",
+  "name": "Polar Whirlwind",
+  "species": "Unicorn/Dragon Hybrid",
+  "gender": "Female",
+  "element": "Air",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Lost Islands",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Polar_Whirlwind",
+  "variants": [
+    {
+      "id": "polar-whirlwind",
+      "variant_name": "Polar Whirlwind",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Polar_Whirlwind1.jpg/revision/latest?cb=20130408180417",
+      "attacks": [
+        "Rainbow of Doom",
+        "Tempest Cloud",
+        "Dragon Flight",
+        "Duel Rainbows",
+        "Atomic Rainbow"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Polar_Whirlwind"
+    }
+  ]
+}

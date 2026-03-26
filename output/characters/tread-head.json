@@ -1,0 +1,43 @@
+{
+  "id": "tread-head",
+  "name": "Tread Head",
+  "species": "Unknown",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Dizzying Dunes"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "As an orphan from the Dizzying Dunes, Tread Head had always dreamed of racing. And after a summer of scavenging for parts, he finally managed to build a bike that would allow him to enter the local racing circuit. The other competitors laughed at the crudeness of his work, but Tread Head had built it for performance, not for style. So when the race began, he jumped out to a commanding lead. But as he entered a canyon, he suddenly found himself at a roadblock – of Goblin troops! Knowing the other racers were in danger, he pulled off the road and kicked up so much dust that the Goblins had no choice but to flee, allowing the other racers to pass safely. Tread Head may have lost the race that day, but he earned the respect of Master Eon , who would see to it that Tread Head would tread on evil wherever he goes!",
+  "personality": "Tread Head prefers substance over style. It's what inside that matters the most. The outside is just for show. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Tread_Head",
+  "variants": [
+    {
+      "id": "tread-head",
+      "variant_name": "Tread Head",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Tread_Head_Promo.jpg/revision/latest?cb=20141001165633",
+      "attacks": [
+        "Wheelie",
+        "Backfire Blast",
+        "Pedal to the Metal",
+        "Spike a Wheelie",
+        "Eat My Dust"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Tread_Head"
+    }
+  ]
+}

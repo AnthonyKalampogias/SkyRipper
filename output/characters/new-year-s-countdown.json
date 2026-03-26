@@ -1,0 +1,32 @@
+{
+  "id": "new-year-s-countdown",
+  "name": "New Year's Countdown",
+  "species": "Bomb Launcher",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Lost Islands (January 2014)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/New_Year's_Countdown",
+  "variants": [
+    {
+      "id": "new-year-s-countdown",
+      "variant_name": "New Year's Countdown",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Lost Islands (January 2014)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a4/New_Year%27s_Countdown.png/revision/latest?cb=20131231095454",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/New_Year's_Countdown"
+    }
+  ]
+}

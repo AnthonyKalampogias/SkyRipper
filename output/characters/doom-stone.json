@@ -1,0 +1,44 @@
+{
+  "id": "doom-stone",
+  "name": "Doom Stone",
+  "species": "Sentient Stone Statue",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Doom Stone was carved from the strongest and purest stone in Skylands , then magically brought to life by a wizard who was rather lazy and wanted someone strong to carry heavy things and perform other tasks around his castle. Doom Stone happily helped, and in his spare time learned the ancient ways of Stone Fighting should he ever need to protect the wizard, who became like a father to him. Sure enough the need arose when the wizard was kidnapped by his evil twin brother in order to steal his spells for himself. Doom Stone wasted no time in using the skills he learned to save his master. Afterward, the wizard knew Doom Stone had a greater calling and introduced him to Master Eon , who made him a Skylander.",
+  "personality": "Doom Stone is a fearsome opponent but is always happy to help his friends with any task. He is most likely to appear stony-faced in battle and least likely to stand around. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Doom_Stone",
+  "variants": [
+    {
+      "id": "doom-stone",
+      "variant_name": "Doom Stone",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/14/Doom_Stone_Promo.jpg",
+      "attacks": [
+        "Column Club",
+        "Stoney Spin",
+        "Living Statue",
+        "Sprin Right Around",
+        "Falling to Pieces"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Doom_Stone"
+    }
+  ]
+}

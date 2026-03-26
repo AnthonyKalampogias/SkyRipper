@@ -1,0 +1,41 @@
+{
+  "id": "pit-boss",
+  "name": "Pit Boss",
+  "species": "Pit Viper",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Great Twisty Mountains"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Pit Boss was a member of a powerful order of snake philosophers that lived high up in the Great Twisty Mountains. Travelers would come from miles around and make the treacherous climb just to seek out the snakes’ wisdom. Each visitor was permitted to ask one question, but Pit Boss became alarmed when the same question was asked by several different people – how to deal with the growing threat of Kaos ! With such a great concern, Pit Boss knew that it was time for action, not words. He left the Order of the Snake in search of this threat, and soon it was clear that Kaos was worse than Pit Boss had imagined. Knowing he could not stop Kaos on his own, Pit Boss joined the Skylanders , and due to his great wisdom and mystical powers, Master Eon enlisted him into the Sensei program as a Sorcerer Master.",
+  "personality": "Pit Boss' wisdom is said to have no bounds. &#91; 1 &#93; He has a love for certain \"S\" words that are related to snakes, such as the words 'snake', 'slither', 'serpent', and 'statistics'.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Pit_Boss",
+  "variants": [
+    {
+      "id": "pit-boss",
+      "variant_name": "Pit Boss",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b0/Pit_Boss_Promo.jpg/revision/latest?cb=20160914194009",
+      "attacks": [
+        "Snake Attack",
+        "Slithering Soul Snake",
+        "Viper Pits",
+        "Superior Slithering",
+        "Restless Reptiles"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Pit_Boss"
+    }
+  ]
+}

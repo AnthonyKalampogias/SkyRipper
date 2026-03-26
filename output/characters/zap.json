@@ -1,0 +1,50 @@
+{
+  "id": "zap",
+  "name": "Zap",
+  "species": "Water Dragon",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Giants",
+    "Gill Grunt and the Curse of the Fish Master",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Trigger Happy Targets the Evil Kaos",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators}}"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Zap was born into the royal family of water dragons, but a riptide washed him to a distant sea, where he was raised by electric eels. Growing up, he excelled in everything and even created a special gold harness that allows him to carry an endless electrical charge and shock things at a great distance. Zap also proved to be a gifted racer, outstripping any opponent... with the possible exception of the dolphins. With them, it became a good natured challenge to see who could keep up with Zap. But an electric current in his wake often reminded them who they were dealing with. Despite his mischievous streak, Zap grew to be a true protector of the seas and Skylands.",
+  "personality": "Zap is a friendly and mischevious water dragon, being revered by most of the sea creatures of Skylands who see him as a true dedicated guardian of both the seas and Skylands. He enjoys racing, being able to outstrip almost any opponent, and excels at everything he turns his claws to. Naturally curious and super-competitive, Zap is also a bit of a prankster, loving to shock his fellow Skylanders whenever he gets a chance. &#91; 3 &#93; However, he can be too curious for his own good and has a nose (or snout) for trouble, which can lead him and his fellow Skylanders into dangerous situations. &#91; 4 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Zap",
+  "variants": [
+    {
+      "id": "zap",
+      "variant_name": "Zap",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7c/288px-Zap_Promo.jpg",
+      "attacks": [
+        "Electric Bolt",
+        "Water Surge",
+        "Electro-Slime",
+        "Mega-Volt",
+        "Wave Rider"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Zap"
+    }
+  ]
+}

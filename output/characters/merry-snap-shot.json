@@ -1,0 +1,34 @@
+{
+  "id": "merry-snap-shot",
+  "name": "Merry Snap Shot",
+  "species": "Crocagator",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Lost Islands (December 2014)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Merry_Snap_Shot",
+  "variants": [
+    {
+      "id": "merry-snap-shot",
+      "variant_name": "Merry Snap Shot",
+      "edition": "Series 1",
+      "type": "Trap Master",
+      "game": "Skylanders: Lost Islands (December 2014)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/5f/Merry_Snap_Shot_Box.jpg/revision/latest?cb=20141201041200",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Merry_Snap_Shot"
+    }
+  ]
+}

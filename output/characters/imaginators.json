@@ -1,0 +1,38 @@
+{
+  "id": "imaginators",
+  "name": "Imaginators",
+  "species": "Various",
+  "gender": null,
+  "element": null,
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders Creator",
+    "Skylanders Academy (TV series)"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Imaginators",
+  "variants": [
+    {
+      "id": "imaginators",
+      "variant_name": "Imaginators",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/38/Imaginator_Example.jpg/revision/latest?cb=20160602084212",
+      "attacks": [
+        "Various"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Imaginators"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "giants",
+  "name": "Giants",
+  "species": "Various",
+  "gender": "Seven male (Bouncer, Crusher, Eye-Brawl, Hot Head, Swarm, Thumpback, Tree Rex)One female (Ninjini)",
+  "element": null,
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Spyro's Adventure (mentioned)",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": "The original Skylanders were the Giants, who united their powers to defeat the Arkeyan King . Ten thousand years ago, they banded together and fought for the freedom of Skylands against the Arkeyans, who ruled over Skylands with an iron fist. In a final battle against their adversary, the Giants were banished to Earth by the Iron Fist of Arkus , where they’ve been buried underground until recent days. As the years passed, the Giants became a myth. In Skylanders: Giants , the Portal Masters discovered and summoned the Giants back to Skylands to help the Skylanders fight Kaos before he could reawaken the Arkeyan army with the help of the Conquertron . In a race to reach the Lost City of Arkus , the Skylanders and their allies fought to keep Kaos from using the Iron Fist's powers, and the Giants remained in the team to help them in subsequent adventures.",
+  "wiki_url": "https://skylanders.fandom.com/wiki/Giants",
+  "variants": [
+    {
+      "id": "giants",
+      "variant_name": "Giants",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/76/Giants.jpg/revision/latest?cb=20230202022624",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Giants"
+    }
+  ]
+}

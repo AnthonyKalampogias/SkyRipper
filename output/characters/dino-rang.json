@@ -1,0 +1,51 @@
+{
+  "id": "dino-rang",
+  "name": "Dino-Rang",
+  "species": "Dinosaur",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Lost Islands",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes}}"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "For years, Dino-Rang trained to use the weapons of his tribe – earthen boomerangs. His people were skilled hunters in a world far away from the realm of Skylands . As he slept one night, a freak portal suddenly opened beneath him. Unsure of how or why he arrived in Skylands, Dino-Rang set out to explore the world that was suddenly his new home. Eventually becoming a Skylander, he now fights with his own brand of Dino-Justice, while seeking out the fabled Twin Diamond Boomerangs, which he believes could hold the clues to his greater destiny.",
+  "personality": "Unlike most unruly dinosaurs, Dino-Rang has a calm and collected demeanor. However, if anyone calls him a dragon by mistake, Dino-Rang will lose his cool, resulting in a furious display of whirling boomerangs. Even though he loves being a Skylander, he still dreams of the hunting plains of his homeland. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Dino-Rang",
+  "variants": [
+    {
+      "id": "dino-rang",
+      "variant_name": "Dino-Rang",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/32/Dino-Rang.jpg",
+      "attacks": [
+        "Stone Boomerangs",
+        "Boomerang Shield",
+        "Stonefist Traps",
+        "Dervish Shield",
+        "Volcanic Glass Boomerangs"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dino-Rang"
+    }
+  ]
+}

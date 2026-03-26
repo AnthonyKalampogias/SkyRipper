@@ -1,0 +1,30 @@
+{
+  "id": "core-skylanders",
+  "name": "Core Skylanders",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Core_Skylanders",
+  "variants": [
+    {
+      "id": "core-skylanders",
+      "variant_name": "Core Skylanders",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/12/Blades_Icon.png",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Core_Skylanders"
+    }
+  ]
+}

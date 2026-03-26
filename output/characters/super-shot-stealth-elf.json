@@ -1,0 +1,42 @@
+{
+  "id": "super-shot-stealth-elf",
+  "name": "Super Shot Stealth Elf",
+  "species": "Elf",
+  "gender": "Female",
+  "element": "Life",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "Unexpected Allies",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Super_Shot_Stealth_Elf",
+  "variants": [
+    {
+      "id": "super-shot-stealth-elf",
+      "variant_name": "Super Shot Stealth Elf",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b5/SuperShot_Stealth_Elf_Promo.jpg/revision/latest?cb=20150603223605",
+      "attacks": [
+        "Dagger Cannon",
+        "Say Hello",
+        "Circle Slash",
+        "Smog Slash",
+        "Distraction Destruction"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Super_Shot_Stealth_Elf"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "blastermind",
+  "name": "Blastermind",
+  "species": "Alien",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "Rift into Overdrive",
+  "world": [
+    "Sardonic Mountains"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Blastermind was once the \"hide and sheep\" champion of the Sardonic Mountains, where he and his friends played regularly. But when he was about to set a new Skylands record, the ground collapsed and Blastermind fell into a deep, mysterious cavern filled with shimmering crystals. As his friends circled the hole up top, they suddenly found themselves face to face with a dangerous Ham Dragon, who had felt the rumble of the collapse. Down below, Blastermind felt helpless. But fortunately, the cavern was filled with Psionic Power Crystals once used by the Ancients to amplify their thoughts. When the crystals \"heard\" Blastermind’s worried thoughts about saving his friends, they found him worthy – and bestowed upon him awesome psionic powers, which he used to get out of the hole and mentally blast the circling Ham Dragon. Soon after, Blastermind joined the Skylanders as part of the Trap Team, using his new Traptanium Psionic Helmet to fight evil everywhere!",
+  "personality": "Blastermind is very attuned to the feelings of others and tries hard to help his friends with their problems whenever he can. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Blastermind",
+  "variants": [
+    {
+      "id": "blastermind",
+      "variant_name": "Blastermind",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Blastermind_Promo.jpg/revision/latest?cb=20141212181923",
+      "attacks": [
+        "Brainwaves",
+        "Levitation",
+        "Tasty Waves",
+        "Mind Control",
+        "Brain Blowout"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Blastermind"
+    }
+  ]
+}

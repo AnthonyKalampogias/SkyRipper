@@ -1,0 +1,45 @@
+{
+  "id": "gusto",
+  "name": "Gusto",
+  "species": "Unknown",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Light in the Dark",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "The Kaos Trap",
+  "world": [
+    "Thunderclap Kingdom"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Gusto was once a cloud wrangler in the peaceful Thunderclap Kingdom, where he learned to master the wind under the guidance of the mysterious Cloud Dragon. But a day came when a fleet of dragon hunters appeared on the horizon, seeking to capture the fabled creature. Despite the danger, Gusto stepped forward to defend it. The hunters could see that Gusto was not a soldier and didn’t even have a real weapon – just a \"curved stick.\" However, he was no coward! And, throwing his large boomerang, Gusto hit his surprised opponents again and again – until the hunters surrendered and were forced to retreat. For standing up for himself and protecting the Cloud Dragon, Gusto was given a new Traptanium Boomerang and made part of the Trap Team!",
+  "personality": "Gusto is a big guy with heart of gold. Not actual gold, of course, but Gusto's heart is just as precious. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Gusto",
+  "variants": [
+    {
+      "id": "gusto",
+      "variant_name": "Gusto",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/49/Gusto_Promo.jpg/revision/latest?cb=20140724193737",
+      "attacks": [
+        "Traptanium Boomerang",
+        "Inhaler",
+        "The Breath of Life",
+        "BOOM-erang",
+        "Spin Like the Wind"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Gusto"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "dr-krankcase",
+  "name": "Dr. Krankcase",
+  "species": "Unknown/Cyborg hybrid",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders Issue 12",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": "Dr. Krankcase is polite and has a friendly disposition towards his enemies, even striking up small exchanges before and during a battle, and also makes puns referencing to his goo guns. He is still, however, a maniacal mad scientist who enjoys creating evil inventions and won't hesitate on unleashing them and his own abilities upon those who oppose him and the Doom Raiders. After his rehabilitation in Imaginators , Krankcase still holds great pride in his inventions, but now believes that science should be used for the greater \"GOO'D\" of Skylands , as he puts it.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Dr._Krankcase",
+  "variants": [
+    {
+      "id": "dr-krankcase",
+      "variant_name": "Dr. Krankcase",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Dr._Krankcase_Promo.jpg",
+      "attacks": [
+        "Trap Team=Goo Spray Spin Slide Lightning Hand"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dr._Krankcase"
+    }
+  ]
+}

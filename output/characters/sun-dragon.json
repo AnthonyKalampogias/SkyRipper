@@ -1,0 +1,36 @@
+{
+  "id": "sun-dragon",
+  "name": "Sun Dragon",
+  "species": "Dragon",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Spyro's Kingdom (scrapped)",
+  "appearances": [
+    "Spyro's Kingdom (scrapped)",
+    "Skylanders: The Beginning",
+    "Skylanders: SuperChargers (flashback)"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Sun_Dragon",
+  "variants": [
+    {
+      "id": "sun-dragon",
+      "variant_name": "Sun Dragon",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Spyro's Kingdom (scrapped)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d4/SunDragon_PrototypeToy.png/revision/latest?cb=20211011234236",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Sun_Dragon"
+    }
+  ]
+}

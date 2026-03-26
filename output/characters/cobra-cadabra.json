@@ -1,0 +1,44 @@
+{
+  "id": "cobra-cadabra",
+  "name": "Cobra Cadabra",
+  "species": "King Cobra",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylander: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Though Cobra Cadabra was an assistant to The Great Mabuni, a traveling magician that performed all over Skylands , he wanted more than anything to become a magician himself. Unfortunately, the guild of Mysteriously Mad Magic Masters of Mystery, who for centuries taught all of the greatest magicians, would not permit it. And so Mabuni decided to teach the cobra himself, even though it was forbidden. They studied everything together, from vanishing acts to snake charming. But when the guild discovered this, they sent a team of magic rabbit enforcers to punish them both. Although the beastly hares were the most powerful of their kind in Skylands, Cobra Cadabra remained brave. Playing an enchanted tune on his flute, he used what he had learned to cast a spell over the rabbits and lead them away. Upon hearing this, this guild was impressed by such a display of skill, and accepted the snake charmer as a member. Soon after, Cobra Cadabra was made a member of another group – the Skylanders!",
+  "personality": "Cobra Cadabra is a charmer, all right. He's brave too! When he plays an enchanting tune, everyone listens. Like a magician, he never reveals his secrets. &#91; 3 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Cobra_Cadabra",
+  "variants": [
+    {
+      "id": "cobra-cadabra",
+      "variant_name": "Cobra Cadabra",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylander: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Cobra_Cadabra_Promo.jpg/revision/latest?cb=20141001165633",
+      "attacks": [
+        "Magic Flute",
+        "Cobra Basket",
+        "Keep The Beat!",
+        "Reverb Riff",
+        "Basket Quintet"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Cobra_Cadabra"
+    }
+  ]
+}

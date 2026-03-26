@@ -1,0 +1,30 @@
+{
+  "id": "pop-fizz",
+  "name": "Pop Fizz",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "Nobody is quite sure who Pop Fizz was before he became an alchemist, least of all Pop Fizz himself. After many years of experimenting with magical potions, his appearance has changed quite significantly. In fact, no one even knows his original colour. But it’s widely known that he is a little crazy, his experiments are reckless, and the accidents they cause are too numerous to measure. Understandably, he has had a difficult time finding lab partners, or anyone that even wants to be near him. In hopes of making himself more appealing to others, he attempted to create the most effective charm potion ever — but that just turned him into a big, wild, berserker. Or maybe that’s just how he saw the potion working in the first place...",
+  "personality": "Pop Fizz is widely known as being a little crazy. The Skylander who puts the mad into a mad scientist, he is bubbling over with crazy amounts of enthusiasm. And that's before he's glugged from his bonkers beast beaker! &#91; 3 &#93; According to Pop Fizz, the reason he keeps drinking his potion, or soda, is that the effects keep him on edge, gives him powers and that it is \"soda-licious.\" He is also one of the few characters who fully understand Double Trouble 's language.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Pop_Fizz",
+  "variants": [
+    {
+      "id": "pop-fizz",
+      "variant_name": "Pop Fizz",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7b/PopFizz.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Pop_Fizz"
+    }
+  ]
+}

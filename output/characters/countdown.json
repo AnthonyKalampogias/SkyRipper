@@ -1,0 +1,47 @@
+{
+  "id": "countdown",
+  "name": "Countdown",
+  "species": "Walking Bomb Launcher",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Stump Smash Crosses the Bone Dragon",
+    "Skylanders: SuperChargers' (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Countdown was discovered by a group of Yetis who were snowboarding one particularly chilly morning when they came across a big bomb encased in ice. After bringing it back to their cabin, they were shocked when it actually came to life. No one, not even Countdown himself, has any memory of where he came from or how he ended up frozen in the mountains. Since becoming a Skylander, Master Eon has been graciously trying to help piece together fragments of his past. But this has proven difficult, as Countdown loses some of his memory every time he explodes – which happens a lot. In the meantime, Countdown has enjoyed working with Eon and fighting alongside the Skylanders to defend their world against evil – even though he occasionally forgets what he is doing.",
+  "personality": "Countdown blows up at a moment's notice, although there is one drawback. Everytime he explodes, he loses his memory all over again. &#91; 3 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Countdown",
+  "variants": [
+    {
+      "id": "countdown",
+      "variant_name": "Countdown",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Countdown_Art.jpg",
+      "attacks": [
+        "Bomb Head",
+        "Rocket Blast",
+        "Controlled Burst",
+        "Roaring Rockets",
+        "Boom Buddies",
+        "Triple Threat"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Countdown"
+    }
+  ]
+}

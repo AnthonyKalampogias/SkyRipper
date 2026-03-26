@@ -1,0 +1,46 @@
+{
+  "id": "small-fry",
+  "name": "Small Fry",
+  "species": "Rhino",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "The Kaos Trap",
+    "Skylanders: Trap Team",
+    "'Skylanders: Lost Islands",
+    "'Skylanders Issue 3",
+    "Skylanders Issue 12",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands Miniverse"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "The Skylander Minis started off as regular \" Sidekicks ,\" assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "personality": "Small Fry has a short temper. It makes him a little hot under the collar. Like his mentor, Fryno, Small Fry always tells the truth, even when others don't want to hear it. He hates it when people lie and cheat. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Small_Fry",
+  "variants": [
+    {
+      "id": "small-fry",
+      "variant_name": "Small Fry",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Small_Fry_Promo.jpg/revision/latest?cb=20140813084342",
+      "attacks": [
+        "Brawl",
+        "Heated",
+        "The Horn And The Hog",
+        "Hot Hands",
+        "Born to Ride"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Small_Fry"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "gill-runt",
+  "name": "Gill Runt",
+  "species": "Gillman",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "The Kaos Trap",
+    "Skylanders Issue 12",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands Miniverse"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Within the Skylands , a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse . Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "personality": "Gill Runt is the best friend anyone could ever have. He is trustworthy and loyal and he gets the job done. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Gill_Runt",
+  "variants": [
+    {
+      "id": "gill-runt",
+      "variant_name": "Gill Runt",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Gil_Runt_Promo.jpg",
+      "attacks": [
+        "Harpoon Gun",
+        "Water Cannon",
+        "Boiling Water Hose",
+        "Water Jet Pack",
+        "Anchor Cannon"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Gill_Runt"
+    }
+  ]
+}

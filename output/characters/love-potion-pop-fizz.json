@@ -1,0 +1,43 @@
+{
+  "id": "love-potion-pop-fizz",
+  "name": "Love Potion Pop Fizz",
+  "species": "Gremlin",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Potions are red. Potions are blue. Pop Fizz loves potions. And he drinks them all too! When his latest attempt to concoct the ultimate raspberry soda totally backfired, Pop Fizz was caught in a blast that turned him pink and gave him an alluring aroma. At least that's how he tells it. But with Valentine's Day right around the corner, the Skylanders are all wondering if Pop Fizz is telling the truth – or if there is a special someone that he's trying to impress!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Love_Potion_Pop_Fizz",
+  "variants": [
+    {
+      "id": "love-potion-pop-fizz",
+      "variant_name": "Love Potion Pop Fizz",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7c/LPPopFizz.png/revision/latest?cb=20170304031733",
+      "attacks": [
+        "Potion Lob",
+        "Beast Form",
+        "New Concoctions",
+        "Puddle of Pain",
+        "Raging Beast"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Love_Potion_Pop_Fizz"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "prism-break",
+  "name": "Prism Break",
+  "species": "Crystal Rock Golem",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Lost Islands",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators}}"
+  ],
+  "cameos": "*Spyro versus The Mega Monsters *Stump Smash Crosses the Bone Dragon *Return of the Dragon King *Rift into Overdrive",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Prism Break was once a fearsome Rock Golem who didn’t like to be disturbed. Then, an accidental cave-in left him buried underground. One hundred years later, a mining expedition digging for valuable jewels discovered him by chance with a well-placed blow from a pick axe – something Prism Break doesn’t talk about. After 100 years of solitude, he found that the pressure of the earth had transformed him emotionally as well as physically, turning his crude rocky arms into incredible gems with powerful energy. Grateful for being free of his earthly prison, Prism Break decided to put his new abilities to good use and dedicated himself to protecting Skylands .",
+  "personality": "Prism Break used to be a frightening rock golem who didn't like to be bothered. After being buried underground for 100 years in a cave-in, he gained a change of heart when a Mabu mining expedition freed him, and Prism Break dedicated himself in protecting the Mabu tribe and Skylands. While not as cranky as before, he still prefers his own company and keeps to himself until needed, although he's quick to use his precious gem-powered abilities to protect Skylands from attack. &#91; 3 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Prism_Break",
+  "variants": [
+    {
+      "id": "prism-break",
+      "variant_name": "Prism Break",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/da/Prism_Break.jpg",
+      "attacks": [
+        "Energy Beams",
+        "Shard Summon",
+        "Chained Refraction",
+        "Crystalline Armor",
+        "Focused Energy"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Prism_Break"
+    }
+  ]
+}

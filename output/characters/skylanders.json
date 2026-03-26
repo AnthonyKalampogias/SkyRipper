@@ -1,0 +1,30 @@
+{
+  "id": "skylanders",
+  "name": "Skylanders",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Skylanders",
+  "variants": [
+    {
+      "id": "skylanders",
+      "variant_name": "Skylanders",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/5d/Skylanders.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Skylanders"
+    }
+  ]
+}

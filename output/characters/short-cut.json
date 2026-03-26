@@ -1,0 +1,44 @@
+{
+  "id": "short-cut",
+  "name": "Short Cut",
+  "species": "Unknown",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Light in the Dark",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Short Cut was renowned for making the finest clothing in all of Skylands . With his magic shears, no thread was too thick, no cloth was too bunchy, and no pattern was too hard to follow. But one day, a fleet of flying sailing ships appeared overhead, crewed by raucous Skeleton Pirates . Having plundered a cargo of golden yarn from fortunetelling soothsayers, their leader demanded that Short Cut stitch together a magic hat that would tell him the futures of everyone in Skylands – or suffer the consequences! Not wanting to see his work used for evil, he bravely snuck onto the ship that night and sewed the pants and shirts of the sleeping pirates together so they were unable to fight. Short Cut then used his magic shears to cut the sails and wrap them around the ship, preventing the pirates from escaping. His brave actions caught the attention of Master Eon , who quickly made Short Cut a member of the Trap Team, where he now uses powerful Traptanium Shears to cut evil’s future short with every snip!",
+  "personality": "Short Cut can be a perfectionist, but only because he loves what he does. He puts a lot of time and energy into creating each masterpiece. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Short_Cut",
+  "variants": [
+    {
+      "id": "short-cut",
+      "variant_name": "Short Cut",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/86/Short_Cut_Promo.jpg/revision/latest?cb=20141001165634",
+      "attacks": [
+        "Traptanium Scissors",
+        "Phantom Puppets",
+        "Cutting Frenzy",
+        "Treacherous Tangle",
+        "Go Out with A Bang"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Short_Cut"
+    }
+  ]
+}

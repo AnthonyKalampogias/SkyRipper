@@ -1,0 +1,32 @@
+{
+  "id": "woodenem",
+  "name": "Woodenem",
+  "species": "Tree Monster",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Woodenem",
+  "variants": [
+    {
+      "id": "woodenem",
+      "variant_name": "Woodenem",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Woodenem_awe.png/revision/latest?cb=20121016113846",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Woodenem"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "enigma",
+  "name": "Enigma",
+  "species": "Unknown",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Light in the Dark",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "*Rift into Overdrive *Skylanders: Battlecast",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Summoned by a Mabu Mystic, Enigma comes from a nameless place \"between the worlds.\" Though the Mystic was really just looking for someone to play Skystones , he was quickly enraptured by Enigma's stories about his mysterious homeland. Unfortunately, the Darkness&#160;got wind of these stories, and seeking another realm to conquer, sent minions to lay siege on the gateway that remained open. Making matters worse, the Mabu had no idea how to close it. So, with a legion of minions fast approaching, Enigma chose to use his Sigil of Mystery to seal the doorway – cutting him off from his home forever. This large sacrifice caught the attention of the Trap Team, who welcomed Enigma and gave him a new home as a protector of Skylands . He now uses his Traptanium Sigil to put a world of hurt on evil everywhere!",
+  "personality": "Sometimes Enigma can be difficult to figure out. He's kind of like a puzzle. &#91; 2 &#93; &#160;Despite his reclusive nature, he possesses a courageous side as he willingly sacrificed his only gateway home to prevent the Darkness from entering his realm. In Ring of Heroes , he's inquisitive and spares no compliments for those who deserve it, but keeps it to himself when it comes to teamwork and focuses on the larger picture when it comes to villains.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Enigma",
+  "variants": [
+    {
+      "id": "enigma",
+      "variant_name": "Enigma",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/09/Enigma_Art.png/revision/latest?cb=20171116073607",
+      "attacks": [
+        "Mystic Staff",
+        "Invisibility Mode",
+        "Paradox Pound",
+        "Ninja Style",
+        "Eye Dash Combo"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Enigma"
+    }
+  ]
+}

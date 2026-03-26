@@ -1,0 +1,40 @@
+{
+  "id": "template-template",
+  "name": "Template Template",
+  "species": "Unknown",
+  "gender": "Unknown",
+  "element": "Non-Elemental",
+  "primary_game": "Skylanders: Swap Force (Console)",
+  "appearances": [
+    "Skylanders: Swap Force (Console)",
+    "Skylanders: SuperChargers",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Template_Template",
+  "variants": [
+    {
+      "id": "template-template",
+      "variant_name": "Template Template",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force (Console)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Template_Template_Swap_Force.png",
+      "attacks": [
+        "Tackle",
+        "Spin Attack",
+        "Slap"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Template_Template"
+    }
+  ]
+}

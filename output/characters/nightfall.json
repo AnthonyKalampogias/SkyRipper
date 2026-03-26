@@ -1,0 +1,43 @@
+{
+  "id": "nightfall",
+  "name": "Nightfall",
+  "species": "Dreadwalker",
+  "gender": "Female",
+  "element": "Dark",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Secret Agent Secrets",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "Unexpected Allies",
+  "world": [
+    "Fogshadow Tower"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Nightfall was a Dreadwalker from Fogshadow Tower, a mysterious fortress in the middle of the Poison Sea. While most Dreadwalkers stayed within the noxious cloud they called home, Nightfall preferred to dive into the black abyss and hunt the dark monsters that threatened her people. One day, as she was exploring a deep cavern in her submarine, the Sea Shadow, Nightfall came upon an enormous object that pulsed with a strange energy. It was gigantic, and before she could comprehend what she was looking at, it hatched! Out came a creature 100 times larger than anything she had ever seen! She fired the engines and raced back to warn her people. Just as the last citizens boarded an evacuation ship, the colossal head of the Leviathan broke the surface of the water and let out a terrible roar! Without hesitation, Nightfall rushed towards the monster, blasting it with everything she had while the others made their escape. This act of heroism caught the attention of Master Eon , and the rest is Skylander history!",
+  "personality": "As a Dark Skylander herself, Nightfall is considered pessimistic and brooding. When she became irritated by Stormblade's optimism, the lark called the Dreadwalker a \"walking bummer cloud\". She always has a threatening tone even towards her allies, and is implied by Buzz to skip training because of her overconfidence and pride. Nightfall hates being bored; she is inquisitive and energetic, and loves exploring. She cares deeply for her people, but has never cared about being popular or fitting in with the crowd. &#91; 3 &#93; Nightfall is also easy to anger, though she's quick to dial it back to just complaining.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Nightfall",
+  "variants": [
+    {
+      "id": "nightfall",
+      "variant_name": "Nightfall",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/6a/Nightfall_Art.jpg/revision/latest?cb=20150831080908",
+      "attacks": [
+        "Handy Hooks",
+        "Ambrush",
+        "Whip Lash",
+        "Splitting Hairs",
+        "Ambrush Rush"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Nightfall"
+    }
+  ]
+}

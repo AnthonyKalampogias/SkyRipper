@@ -1,0 +1,30 @@
+{
+  "id": "hex",
+  "name": "Hex",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "Long ago, Hex was a gifted and powerful sorceress who traveled deep into the underworld to confront the Undead Dragon King named Malefor , who made several attempts to capture her to learn her secrets. Though she successfully battled the dragon, Hex returned from the underworld changed – having unwillingly joined the ranks of the Undead. Many are wary of her since her transformation, suspecting she has used her powerful magic for evil purposes. But Eon trusts her, and views her as a valuable Skylander ally.",
+  "personality": "Since her Undead transformation, Hex has become spooky, mysterious, and even sinister, striking fear into the hearts of her enemies. She has also developed a fondness for skulls. It has been said that Hex has laughed only once since her transformation -- apparently at an incident involving Trigger Happy , Slam Bam , and a gold coin in the rear end. She also has a tendency to act on her own, even if it means not sharing her plans with her allies. Strangely in Skylanders: Battlecast , Hex appears more prideful in battle, as well as sounding more cynical, and like other Skylanders in it, will scold and sneer at the Battlecaster should they harass her by poking.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Hex",
+  "variants": [
+    {
+      "id": "hex",
+      "variant_name": "Hex",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/48/290px-Hex.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Hex"
+    }
+  ]
+}

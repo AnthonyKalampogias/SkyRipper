@@ -1,0 +1,45 @@
+{
+  "id": "chopper",
+  "name": "Chopper",
+  "species": "Tyrannosaurus Rex",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "The Kaos Trap",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "Return of the Dragon King",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Growing up, Chopper was much smaller than the rest of his dinosaur kin. But this didn’t bother him because he had big ideas. Ahead of the annual hunting competition to honor the village idol, Roarke Tunga, Chopper spent weeks building himself a super Gyro-Dino-Exo-Suit. When the competition began, he took the air – firing his missiles and chomping everything in his path. With Chopper on the verge of victory, the competition came to a sudden halt when the nearby volcano erupted, flooding the village with lava. Seeing the residents of his village trapped, Chopper quickly flew into action. One at a time, he airlifted everyone to safety. And was even able to save the village idol. For heroically using his head, Chopper was made a Skylander!",
+  "personality": "Chopper might be a little guy, but he's got big ideas. His passion and bravery always impress his teammates. &#91; 3 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Chopper",
+  "variants": [
+    {
+      "id": "chopper",
+      "variant_name": "Chopper",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/67/Chopper_Promo.jpg/revision/latest?cb=20140424001102",
+      "attacks": [
+        "Raptor Rockets",
+        "Chopper Blades",
+        "Roar!",
+        "Call of the Wild",
+        "The Bigger The Boom"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Chopper"
+    }
+  ]
+}

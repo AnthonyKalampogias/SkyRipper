@@ -1,0 +1,43 @@
+{
+  "id": "echo",
+  "name": "Echo",
+  "species": "Water Dragon",
+  "gender": "Female",
+  "element": "Water",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Echo lived in an undersea kingdom that was built around an enormous oyster shell, and at its center was the Pearl of Wisdom. Every day water dragons from all around the kingdom would come to ask questions of the Pearl. Because this was a sacred ritual, anyone living near the Pearl were required to speak only in whispers. This was challenging for Echo, who lived directly next to it. She had a gift – and it was loud – and often got her in trouble. One day, a gang of sea horses known as the Aqua Jocks rode into town and claimed the Pearl for themselves. They cast an unbreakable bubble around it and began dragging it away with enormous chains. The nearby water dragons, who had been quiet for so long, were unable to even call for help. Then Echo appeared – and with her loudest sonar blast, she shattered the bubble and blew the sea horses out of the kingdom! Her heroic actions caught the attention of Gill Grunt , who recruited her as a Skylander. Now Echo sounds off against evil all throughout Skylands !",
+  "personality": "Echo may seem reserved, but she can be feisty when the time comes for battle. &#91; 2 &#93; She can be rather noisy, not liking to do things quietly as she is a music lover. &#91; 3 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Echo",
+  "variants": [
+    {
+      "id": "echo",
+      "variant_name": "Echo",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Echo.jpg/revision/latest?cb=20221225035655",
+      "attacks": [
+        "Siren Scream",
+        "Bubble Bombs",
+        "Sonic Slam",
+        "Bubble Shield",
+        "Ultimate Pitch Control"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Echo"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "whisper-elf",
+  "name": "Whisper Elf",
+  "species": "Elf",
+  "gender": "Female",
+  "element": "Life",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "The Kaos Trap",
+    "Skylanders: Trap Team",
+    "Skylanders Issue 12",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands Miniverse"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Within the Skylands , a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse . Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "personality": "Whisper Elf is a ninja who knows her way around an enchanted forest or two. Like her mentor Stealth Elf, she will always tell you how she's feeling. That can be really awkward sometimes. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Whisper_Elf",
+  "variants": [
+    {
+      "id": "whisper-elf",
+      "variant_name": "Whisper Elf",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Whisper_Elf_Promo.jpg/revision/latest?cb=20140813155119",
+      "attacks": [
+        "Blade Slash",
+        "Stealth",
+        "Dragonfang Daggers",
+        "Arboreal Acrobatics",
+        "Elf Jitsu"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Whisper_Elf"
+    }
+  ]
+}

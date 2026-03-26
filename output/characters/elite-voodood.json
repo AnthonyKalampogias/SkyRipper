@@ -1,0 +1,39 @@
+{
+  "id": "elite-voodood",
+  "name": "Elite Voodood",
+  "species": "Orc",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Voodood",
+  "variants": [
+    {
+      "id": "elite-voodood",
+      "variant_name": "Elite Voodood",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Eon%27s_Elite_Voodood.jpg/revision/latest?cb=20170729040954",
+      "attacks": [
+        "Axe Reaver",
+        "Zipline Axe",
+        "Magical Tripwire",
+        "Extended Blade",
+        "Electro Axe"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Voodood"
+    }
+  ]
+}

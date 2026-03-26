@@ -1,0 +1,44 @@
+{
+  "id": "fiesta",
+  "name": "Fiesta",
+  "species": "Skeleton",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Dive, Dive, Dive!",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "Unexpected Allies",
+  "world": [
+    "The Underworld (Undead Fiesta)"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Despite being Undead, Fiesta had always been the life of the party. He was once the head member of a popular mariachi band in the personal court of Count Moneybone , who all undead citizens respected immensely. In his spare time, Fiesta and his bandmates played music for all of the new arrivals that entered the Underworld. However, a day came when the new arrivals were actually several Skylanders , who had come on a mission to stop Count Moneybone from unleashing a robot army on all of Skylands . Fiesta then realized that he, like so many others, had been fooled by the evil Count into thinking he was kind and generous – not the vengeful monster he truly was. Unbeknownst to the Skylanders, Fiesta and his bandmates helped to distract the robot army so they could infiltrate Moneybone’s mansion and put a stop to him. Even though the Skylanders were unaware, this act of bravery and defiance did catch the attention of Master Eon , who recruited him at once.",
+  "personality": "Although he comes from The Underworld , Fiesta is more free-spirited than most of its Undead inhabitants. He enjoys striking up parties as all who are good are invited (even if they go unannounced).",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Fiesta",
+  "variants": [
+    {
+      "id": "fiesta",
+      "variant_name": "Fiesta",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Fiesta_Art.jpg/revision/latest?cb=20150620202422",
+      "attacks": [
+        "Trumpet Concord",
+        "Amigos",
+        "Laid Low",
+        "Take It Away Amigos!",
+        "Diva"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Fiesta"
+    }
+  ]
+}

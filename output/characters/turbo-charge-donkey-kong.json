@@ -1,0 +1,42 @@
+{
+  "id": "turbo-charge-donkey-kong",
+  "name": "Turbo Charge Donkey Kong",
+  "species": "Kong",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Unexpected Allies",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Rift into Overdrive",
+  "world": [
+    "Donkey Kong Island"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Donkey Kong is a fun-loving powerhouse gifted with great strength and incredible agility. His insatiable curiosity and easy-going attitude led him to explore the rift that appeared in his native jungle and brought him to exciting new adventures in this world called Skylands . Donkey Kong's fearlessness and reflexes made him a welcome addition to the SuperChargers and also the perfect driver for the stunt-tacular Barrel Blaster vehicle.",
+  "personality": "Being one of Nintendo's most iconic protagonists, Donkey Kong is a carefree, lazy, intelligence-lacking, yet trustworthy hero on Donkey Kong Island. However on various occasions, he was forced to take action with his sidekick and best friend, Diddy Kong and other members of the Kong Family to reclaim their main priority, the Banana Hoard, from their common enemies, the Kremling Krew. Now as a SuperCharger, Donkey Kong is very competitive and agile on the battlefield; because he isn't as fast as Spitfire , Stormblade , or Stealth Elf , he tends to revert to Super Donkey Kong mode to keep up. He is also now deeply concerned for the safety of his fellow Skylanders and loved ones. Like all Life Skylanders, Donkey Kong prefers to keep his feet on the ground. At certain times, he can act a bit immature in the midst of battle, but is very protective of the defenseless. Despite his generally relaxed demeanor, he can easily get irritated when one mistakes him for a monkey, which is evidenced when Blubberbeard was introducing himself to the former and Bowser.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Turbo_Charge_Donkey_Kong",
+  "variants": [
+    {
+      "id": "turbo-charge-donkey-kong",
+      "variant_name": "Turbo Charge Donkey Kong",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/92/DonkeyKong_Skylanders.jpg/revision/latest?cb=20150909223215",
+      "attacks": [
+        "Primate Punch",
+        "Barrel Toss",
+        "Bongo Barrel",
+        "Super Donkey Kong",
+        "Barrels of Fun"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Turbo_Charge_Donkey_Kong"
+    }
+  ]
+}

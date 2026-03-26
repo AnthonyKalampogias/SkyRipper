@@ -1,0 +1,41 @@
+{
+  "id": "tidepool",
+  "name": "Tidepool",
+  "species": "Unknown",
+  "gender": "Female",
+  "element": "Water",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Long before she became a Sensei, Tidepool was an undercover agent for a top secret organization known as the Aqua Marines. However, one day she was betrayed by her superiors, who were part of an even more top secret organization intent on destroying Skylands. Using her spy training, Tidepool made it her personal mission to seek out every member of this evil shadow group and bring them to justice. This did not go unnoticed by Master Eon , who felt that someone of her caliber would be perfect to train new Skylanders as a Sensei of the Quickshot class. However, Tidepool was not easily convinced that she could even trust Eon and the Skylanders after being deceived by her last organization. To earn her trust, she requested that everyone pass a truth test that she would conduct. Thankfully, all of the members of the Skylanders Academy passed with flying colors... except for Flynn , who insisted that he was 50% Mabu and 50% enchilada sauce. Tidepool felt that he was 100% meathead.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Tidepool",
+  "variants": [
+    {
+      "id": "tidepool",
+      "variant_name": "Tidepool",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Tidepool_Promo.jpg/revision/latest?cb=20161112054952",
+      "attacks": [
+        "Squid Pistols",
+        "Squid Toss",
+        "Whale Tale",
+        "I'll ink to that",
+        "Squid Squabble"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Tidepool"
+    }
+  ]
+}

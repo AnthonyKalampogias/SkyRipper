@@ -1,0 +1,44 @@
+{
+  "id": "fire-kraken",
+  "name": "Fire Kraken",
+  "species": "Chinese Dragon",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Rift into Overdrive",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Raised on a small island surrounded by a vast ocean of fire, Fire Kraken was the swiftest, most agile warrior his tribe had ever seen. And when a fleet of Fire Troll ships arrived to steal the legendary Burning Heart, a huge elemental crystal that fueled the fiery seas, Fire Kraken leapt into action. Using a magical staff to control his natural ability to wield fire, he set the mighty ships ablaze, forcing the trolls into a hasty retreat. Having saved the Burning Heart as well as his homeland, Fire Kraken soon joined the Skylanders, where he knew his skills would help those in need.",
+  "personality": "A desire to help others burns in the heart of this young, hot-footed warrior. He likes playing with fire, and is less likely to burn out. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Fire_Kraken",
+  "variants": [
+    {
+      "id": "fire-kraken",
+      "variant_name": "Fire Kraken",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/17/Firekrakenartwork.jpg",
+      "attacks": [
+        "Sparkling Strikes",
+        "Dragon Parade",
+        "Glow Stick",
+        "Rising Charge",
+        "Year of the Dragon"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Fire_Kraken"
+    }
+  ]
+}

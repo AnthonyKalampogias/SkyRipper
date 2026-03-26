@@ -1,0 +1,45 @@
+{
+  "id": "stink-bomb",
+  "name": "Stink Bomb",
+  "species": "Mutant Skunk",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "*The Kaos Trap *Skylanders: Battlecast (card only)",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Stink Bomb studied martial arts under one of the greatest ninja masters in history, who believed that surprise was the key to finding your true self. Thus, his master would constantly jump out and frighten him, hoping that it would scare Stink Bomb into finding his innermost strength. On one such occasion, Stink Bomb was so surprised that he instinctively released a cloud of vapor so pungent that it caused his master to disappear and never return. With this newly discovered ability, Stink Bomb developed his own form of martial arts known as Kung Fume, and wandered the land teaching it to all those who wished to learn. It was not long before the news (and smell) of this new form reached Master Eon , who sought out the young ninja at once.",
+  "personality": "Resilient Stink Bomb didn't let his master's disappearance put him down. He developed the martial art Kung Fume and wandered Skylands teaching its whiffy ways. Like all Life Skylanders, Stink Bomb prefers to keep his feet on the ground.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Stink_Bomb",
+  "variants": [
+    {
+      "id": "stink-bomb",
+      "variant_name": "Stink Bomb",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/ff/Stink_Bomb_Promo_Art.jpg",
+      "attacks": [
+        "Skunk-Fu Stars",
+        "Skunk Cloud",
+        "One-Inch Palm",
+        "Hidden Tail",
+        "Noxious Ninja"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Stink_Bomb"
+    }
+  ]
+}

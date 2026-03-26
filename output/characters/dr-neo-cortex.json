@@ -1,0 +1,40 @@
+{
+  "id": "dr-neo-cortex",
+  "name": "Dr. Neo Cortex",
+  "species": "Human",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Wumpa Island"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "A wormhole has opened in Skylands and the great Aku Aku appears! He comes to announce the once-in-two-decades Synchronization Celebration -- it is the time when all the worlds align perfectly. All the inhabitants of Wumpa Island are having a&#160;huge party in the Wumpa Islands and want to invite the Skylanders . But Dr. Neo Cortex has created a sinister machine to harness this incredible energy for his own evil purposes, only to watch it go completely haywire. Now Dr. Neo Cortex must partner with Crash Bandicoot to stop the machine before Wumpa Islands are completely shaken apart!",
+  "personality": null,
+  "story": "In the Thumpin' Wumpa Islands Adventure Pack, Dr. Neo Cortex had planned an evil scheme for 20 years to create an army of unstoppable minions using the rhythmic energies of the Synchronization Celebration that took place on the Island. However his Cortex Matrix Chamber was hijacked by his minion Fake Crash , causing an explosion that sent Cortex rocketing towards the island beach. He is then forced to partner with his nemesis, Crash Bandicoot, and the Skylanders to stop Fake Crash from destroying Wumpa Island with bad rhythms. After Fake Crash's defeat, Cortex was dismayed that his Cortex Matrix Chamber was turned into a docile music box by Mags and was last seen glaring angrily at Crash.",
+  "wiki_url": "https://skylanders.fandom.com/wiki/Dr._Neo_Cortex",
+  "variants": [
+    {
+      "id": "dr-neo-cortex",
+      "variant_name": "Dr. Neo Cortex",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/3c/SI_Ilus_DrNeoCortex_FINAL_HiRes.jpg/revision/latest?cb=20160907090145",
+      "attacks": [
+        "Blaster Beam",
+        "Mask the Pain",
+        "What's Mine is Yours",
+        "N. Tropy's Slow Mo Flow",
+        "Boo Uka Boo Uka!"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dr._Neo_Cortex"
+    }
+  ]
+}

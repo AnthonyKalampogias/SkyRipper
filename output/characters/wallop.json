@@ -1,0 +1,43 @@
+{
+  "id": "wallop",
+  "name": "Wallop",
+  "species": "Unique Creature",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "The Kaos Trap",
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Return of the Dragon King",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes",
+    "Skylanders Issue 12"
+  ],
+  "cameos": null,
+  "world": [
+    "Mount Scorch"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "For generations, Wallop’s people used the volcanic lava pits of Mount Scorch to forge the most awesome weapons in all of Skylands. And Wallop was the finest apprentice any of the masters had ever seen. Using hammers in both of his mighty hands, he could tirelessly pound and shape the incredibly hot metal into the sharpest swords or the hardest axes. But on the day he was to demonstrate his skills to the masters of his craft, a fierce fire viper awoke from his deep sleep in the belly of the volcano. The huge snake erupted forth, attacking Wallop’s village. But, bravely charging the beast with his two massive hammers, Wallop was able to bring down the creature and save his village. Now with his Traptanium-Infused Hammers, he fights with the Skylanders to protect the lands from any evil that rises to attack!",
+  "personality": "Wallop is the best friend of Snap Shot , and is the hardest-working hero this side of Mount Scorch. His inventive mind is always looking for new ways to create. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Wallop",
+  "variants": [
+    {
+      "id": "wallop",
+      "variant_name": "Wallop",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/30/Wallop_Promo.jpg/revision/latest?cb=20140424001100",
+      "attacks": [
+        "Hammer Slam"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Wallop"
+    }
+  ]
+}

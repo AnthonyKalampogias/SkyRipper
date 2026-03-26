@@ -1,0 +1,36 @@
+{
+  "id": "grill-master-chop-chop",
+  "name": "Grill Master Chop Chop",
+  "species": "Arkeyan Skeleton",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: Lost Islands (August 2013)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Grill_Master_Chop_Chop",
+  "variants": [
+    {
+      "id": "grill-master-chop-chop",
+      "variant_name": "Grill Master Chop Chop",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Lost Islands (August 2013)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/84/Grill_Master_Chop_Chop_Promo.jpg/revision/latest?cb=20130803002205",
+      "attacks": [
+        "None"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Grill_Master_Chop_Chop"
+    }
+  ]
+}

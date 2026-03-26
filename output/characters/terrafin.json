@@ -1,0 +1,50 @@
+{
+  "id": "terrafin",
+  "name": "Terrafin",
+  "species": "Dirt Shark",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Terrafin Battles the Boom Brothers",
+    "Trigger Happy Targets the Evil Kaos",
+    "Skylanders: Trap Team",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators}}"
+  ],
+  "cameos": "*Spyro versus The Mega Monsters *Return of the Dragon King *Unexpected Allies",
+  "world": [
+    "The Dirt Seas"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Terrafin hails from The Dirt Seas, where it was common to swim, bathe, and even snorkel beneath the ground. But a powerful explosion in the sky created a blast wave that turned the ocean of sand into a vast sheet of glass, putting an end to Terrafin’s duty as the local lifeguard. Not one to stay idle, the brawny dirt shark found himself training in the art of boxing, and not long after he was local champ. Fighters came from all around to challenge him, but it was a chance meeting with a great Portal Master that led him to give up his title for a greater purpose.",
+  "personality": "Terrafin is a strong fighter and has a personality to match. He's rough and physically minded, and blunt in his dealings with others. His comments in the various Skylander videos suggest that he's got a personality based on B.A. Barracus from the A-Team TV series . He often states he's both a fighter and a lover. Nothing gets Terrafin on the ropes. If he's knocked down he gets straight back up again, coming back fighting from any scrap. He thinks with his fists, and sometimes his teeth. &#91; 2 &#93; Terrafin may be a little rough and ready, but he's always ready to use his mighty shark-fists to protect the innocent. &#91; 3 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Terrafin",
+  "variants": [
+    {
+      "id": "terrafin",
+      "variant_name": "Terrafin",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Terrafin.jpeg",
+      "attacks": [
+        "Shark Punch",
+        "Earth Swim",
+        "Brass Knuckles",
+        "Mega Bellyflop",
+        "Razorfin"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Terrafin"
+    }
+  ]
+}

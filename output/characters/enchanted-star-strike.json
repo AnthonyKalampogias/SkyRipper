@@ -1,0 +1,42 @@
+{
+  "id": "enchanted-star-strike",
+  "name": "Enchanted Star Strike",
+  "species": "Alien",
+  "gender": "Female",
+  "element": "Magic",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Enchanted_Star_Strike",
+  "variants": [
+    {
+      "id": "enchanted-star-strike",
+      "variant_name": "Enchanted Star Strike",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Enchanted_Star_Strike_Promo.jpg/revision/latest?cb=20140309233250",
+      "attacks": [
+        "Starfall",
+        "Star-Filled Sky",
+        "Your Biggest Fan",
+        "Star Light",
+        "Atom Splitter"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Enchanted_Star_Strike"
+    }
+  ]
+}

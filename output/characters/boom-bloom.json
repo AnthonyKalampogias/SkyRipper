@@ -1,0 +1,41 @@
+{
+  "id": "boom-bloom",
+  "name": "Boom Bloom",
+  "species": "Mutant Plant",
+  "gender": "Female",
+  "element": "Life",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Abandoned Factory"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Boom Bloom was created in the laboratory of a mad scientist! After using his mutation goo to change deadwood into evil creatures, Dr. Krankcase began experimenting with live plants! But it had a much different effect. Instead of becoming subservient villains, the mutated plants instantly rebelled against their creator and tried to destroy his goo factory. Dr. Krankcase and his henchmen were able to thwart all of these insurgent plants, except for one - Boom Bloom! Her mutation gave her extraordinary Ninja skills and a thorny whip, which she used to unleash a flurry of martial arts moves that forced Dr. Krankcase to flee his own factory and vow never to experiment on plants again. Now as a Sensei of the Ninja class, she uses her incredible abilities to teach new Skylanders how to protect nature... and unleash its fury!",
+  "personality": "Boom Bloom is soft spoken and polite, rarely using contractions. Despite this, she's headstrong and insensitive, making rash decisions without much thought and is easily confused and embarrassed. She still retains her memories of when she was a living tree, as well as the feelings of the ones that used to be with her.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Boom_Bloom",
+  "variants": [
+    {
+      "id": "boom-bloom",
+      "variant_name": "Boom Bloom",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Boom_Bloom_Promo.jpg/revision/latest?cb=20161112054948",
+      "attacks": [
+        "Whip Whap",
+        "Vine Entwine",
+        "Spore Seeds",
+        "Potent Pollen",
+        "Greener Grasps"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Boom_Bloom"
+    }
+  ]
+}

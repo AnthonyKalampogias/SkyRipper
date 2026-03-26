@@ -1,0 +1,34 @@
+{
+  "id": "frito-lay-skylanders",
+  "name": "Frito-Lay Skylanders",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Frito-Lay_Skylanders",
+  "variants": [
+    {
+      "id": "frito-lay-skylanders",
+      "variant_name": "Frito-Lay Skylanders",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/3b/FritoLayTrio.png/revision/latest?cb=20140520215012",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Frito-Lay_Skylanders"
+    }
+  ]
+}

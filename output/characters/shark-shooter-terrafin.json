@@ -1,0 +1,42 @@
+{
+  "id": "shark-shooter-terrafin",
+  "name": "Shark Shooter Terrafin",
+  "species": "Dirt Shark",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Ring of Heroes",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Unexpected Allies",
+  "world": [
+    "The Dirt Seas"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Shark_Shooter_Terrafin",
+  "variants": [
+    {
+      "id": "shark-shooter-terrafin",
+      "variant_name": "Shark Shooter Terrafin",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/Shark_Shooter_Terrafin.jpg/revision/latest?cb=20150619191845",
+      "attacks": [
+        "Ballistic Frenzy",
+        "Earth Swim Blast",
+        "Slam Support",
+        "Three Best Fins",
+        "Mentor Program"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Shark_Shooter_Terrafin"
+    }
+  ]
+}

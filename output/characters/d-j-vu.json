@@ -1,0 +1,45 @@
+{
+  "id": "d-j-vu",
+  "name": "Déjà Vu",
+  "species": "Unknown",
+  "gender": "Female",
+  "element": "Magic",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Champions",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "On a remote island in Skylands , Déjà Vu tirelessly worked on a machine that would make the perfect three-minute egg in half the time. After pouring over countless magic tomes, and even consulting the lost plans used to create the legendary Tower of Time , she finally completed construction of the huge machine. Unfortunately, a gang of evil giant sea slugs, searching for a way to acquire super speed, learned of her machine and set about to take it at all costs. Slow, but well armed, the massive slugs bore down on the island. But rather than allow her work be used for evil, Déjà Vu quickly jumped into action and set the clock’s hands to thirteen – causing a time overload. Caught up in the blast, she was given an amazing power over time, which she then used to stop the evil slugs in their tracks and spin them home. Now as a Skylander, Déjà Vu uses her incredible powers to turn back the clock on evil!",
+  "personality": "Déjà Vu has one of those personalities that makes think you might have met her before. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/D%C3%A9j%C3%A0_Vu",
+  "variants": [
+    {
+      "id": "d-j-vu",
+      "variant_name": "Déjà Vu",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/41/D%C3%A9j%C3%A0_Vu_Promo.jpg/revision/latest?cb=20140917183946",
+      "attacks": [
+        "Space-Time Shots",
+        "Past Selves",
+        "Time Shift",
+        "Explosion Déjà Vu",
+        "Warp Field"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/D%C3%A9j%C3%A0_Vu"
+    }
+  ]
+}

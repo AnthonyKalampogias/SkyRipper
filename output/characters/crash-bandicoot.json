@@ -1,0 +1,30 @@
+{
+  "id": "crash-bandicoot",
+  "name": "Crash Bandicoot",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "A wormhole has opened in Skylands and the great Aku Aku appears! He has come to announce the once-in-two-decades Synchronization Celebration--a time when all of the worlds align perfectly. All the inhabitants of Wumpa Island are having a party and they want to invite the Skylanders . But with Kaos on a quest to take over Skylands using his army of Doomlanders , the Skylanders must focus on stopping his evil plans. Never one to shy away from danger, the legendary marsupial Crash Bandicoot leaps through the wormhole to join the Skylanders in the ultimate battle against Kaos!",
+  "personality": "Crash is reckless and a little goofy, but heroic nonetheless. He appears to be clumsy even as a master of his brawling abilities, being able to lose time with his Sky-Chi should he entangle himself with the yo-yo.",
+  "story": "In the Thumpin' Wumpa Islands, Crash Bandicoot was celebrating the Synchronization Celebration with Aku Aku when Dr. Neo Cortex's latest evil scheme went haywire. Meanwhile, Spyro and Mags were on their way to Wumpa Island themselves, and Dr. Neo Cortex was praising his latest invention, the Cortex Matrix Chamber. However, one of his minions, Fake Crash, allowed his curiosity get him as he hijacked the machine, sending the scientist rocketing towards the start of the main island. Though reluctant to trust Cortex, Crash, Aku Aku, Spyro, Mags, and the Skylanders team up with the villain to get rid of the Bad Vibes. At the end of the level, Crash was seen pointing his pointer fingers at Dr. Cortex (possibly his way of complimenting him), but backed away when he saw Cortex getting angry.",
+  "wiki_url": "https://skylanders.fandom.com/wiki/Crash_Bandicoot",
+  "variants": [
+    {
+      "id": "crash-bandicoot",
+      "variant_name": "Crash Bandicoot",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Crash_Bandicoot_Imaginators_Art.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Crash_Bandicoot"
+    }
+  ]
+}

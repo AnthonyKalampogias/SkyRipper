@@ -1,0 +1,39 @@
+{
+  "id": "light-flashwing",
+  "name": "Light Flashwing",
+  "species": "Crystal Dragon",
+  "gender": "Female",
+  "element": "Light",
+  "primary_game": "Skylanders: Ring of Heroes",
+  "appearances": [
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Light Flashwing is the alter ego the jewel dragon Flashwing. The shiny crystals of Flashwing shows off its brilliance with the light. If the rock dragon, Bash , had originally met Light Flashwing and not the original ego, his love for her would've gone out of control. It's just an imagination, but just thinking about it makes you happy. But the power of Light Flashwing in the battlefield is not just an imagination, it actually helps the allies and defeats enemies. Look forward to her brilliant performance!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Light_Flashwing",
+  "variants": [
+    {
+      "id": "light-flashwing",
+      "variant_name": "Light Flashwing",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Ring of Heroes",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Light_Flashwing.jpg/revision/latest?cb=20181213185642",
+      "attacks": [
+        "Light Speed Lasers",
+        "Crystal Spin",
+        "Crystal Lighthouse",
+        "Crystal Dust"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Light_Flashwing"
+    }
+  ]
+}

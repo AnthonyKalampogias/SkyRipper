@@ -1,0 +1,41 @@
+{
+  "id": "blackout",
+  "name": "Blackout",
+  "species": "Dark Dragon",
+  "gender": "Male",
+  "element": "Dark",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Light in the Dark",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "Rift into Overdrive",
+  "world": [
+    "Realm of Dreams"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Blackout hails from the Realm of Dreams , where the collective imagination of all the creatures in the universe come together to create beautiful wonders... and terrible nightmares. At a young age, he was recruited into the Dark Stygian – a Dragon Clan whose chief responsibility was to create nightmares for evil creatures as a way to discourage them from doing more villainy. But the clan began to abuse their power, and soon spread nightmares far and wide for its own amusement. But Blackout would not stand for it. So he learned to teleport directly into the nightmares the clan created and fought the creatures within. Eventually, the nightmares reached as far as Master Eon , who witnessed Blackout’s courage within his own dreams. After helping him put a stop to the Dark Stygian, Eon then made Blackout a Skylander, serving as the protector of the Realm of Dreams and beyond!",
+  "personality": "Despite knowing of his sinister origins, Blackout shows bravery, compassion, and encouragement towards others. Like all Skylanders of his element, Blackout sees no relation between the Dark element and The Darkness .",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Blackout",
+  "variants": [
+    {
+      "id": "blackout",
+      "variant_name": "Blackout",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/42/Blackout_Promo.jpg/revision/latest?cb=20141218040403",
+      "attacks": [
+        "Wing WhipShadow OrbsBlack HoleA Spinning FinishDark Energy Clouds"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Blackout"
+    }
+  ]
+}

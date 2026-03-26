@@ -1,0 +1,43 @@
+{
+  "id": "power-punch-pet-vac",
+  "name": "Power Punch Pet Vac",
+  "species": "Sky Baron",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands Miniverse"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "This year, Pet Vac is aiming to reign supreme in the Annual Dragon Egg Hunt and break the all-time Skylander record for number of eggs collected (currently held by Sonic Boom ). Some say that having a suction gun gives Pet Vac an unfair advantage. But everyone knows better than to say that directly to the little Sky Baron , because despite being small, he packs a big punch!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Power_Punch_Pet-Vac",
+  "variants": [
+    {
+      "id": "power-punch-pet-vac",
+      "variant_name": "Power Punch Pet Vac",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/69/Power_Punch_Pet-Vac_Promo.jpg/revision/latest?cb=20150212014821",
+      "attacks": [
+        "Vac Blaster",
+        "Suction Gun",
+        "Jet Vac Jet Pack",
+        "Vac Blaster 9000",
+        "Fiester Fan"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Power_Punch_Pet-Vac"
+    }
+  ]
+}

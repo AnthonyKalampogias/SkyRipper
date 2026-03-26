@@ -1,0 +1,44 @@
+{
+  "id": "legendary-grim-creeper",
+  "name": "Legendary Grim Creeper",
+  "species": "Ghost",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Grim_Creeper",
+  "variants": [
+    {
+      "id": "legendary-grim-creeper",
+      "variant_name": "Legendary Grim Creeper",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/ae/L-Grim_Creeper_Promo_Art.jpg/revision/latest?cb=20131010161158",
+      "attacks": [
+        "Scythe Swing",
+        "Ghost Form",
+        "Polterguest Scythe",
+        "Sphere of Fear",
+        "It's Alive!"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Grim_Creeper"
+    }
+  ]
+}

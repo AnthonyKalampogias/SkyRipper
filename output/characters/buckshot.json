@@ -1,0 +1,41 @@
+{
+  "id": "buckshot",
+  "name": "Buckshot",
+  "species": "Sky-Faun",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "When Buckshot was young, he and his siblings were banished to the Magic Realm of Mysterious Mazes by an evil Spell Punk that wanted to rid Skylands of all Sky-Fauns. Buckshot spent years looking for a way out, but found no way to escape the enchanted labyrinth. Over time, however, the magic of the realm began to grow within him, strengthening his already formidable powers. While his siblings had lost all hope of freedom, Buckshot continued to test the boundaries of the maze, using his mystical bow and arrows to try to penetrate the walls around him. Eventually, Buckshot’s powers became so potent that he even learned how to teleport. With this new ability, he was finally able to open a portal back into Skylands and free his siblings. Now as a Sensei of the Bowslinger class, Buckshot always keeps one eye on the target – and the other on the lookout for the Spell Punk that had banished him!",
+  "personality": "Buckshot is cheerful and energetic, but apparently not exactly smart, as he failed classes and is unable to count his own Skylander stats.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Buckshot",
+  "variants": [
+    {
+      "id": "buckshot",
+      "variant_name": "Buckshot",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Buckshot_Promo.jpg/revision/latest?cb=20161112054954",
+      "attacks": [
+        "Spread Shot",
+        "Goat Portals",
+        "Through and Through",
+        "Not the Face!",
+        "Main Attraction"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Buckshot"
+    }
+  ]
+}

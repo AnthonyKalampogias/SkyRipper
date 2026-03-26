@@ -1,0 +1,46 @@
+{
+  "id": "blades",
+  "name": "Blades",
+  "species": "Dragon",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Champions",
+    "Return of the Dragon King",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "Rift into Overdrive",
+  "world": [
+    "Scalos Castle"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Blades came from a long line of dragons that guarded the dungeon of Scalos Castle, where the Golden Fear Serpent had slumbered for a century. Although it was considered an honor, Blades dreamed of becoming a knight so he could go on adventures in faraway lands. But one evening, a deafening roar shook the castle and a wave of fear swept over. The serpent had awoken! Fighting his fear with each step, Blades descended into the chamber. As he entered, the golden beast grinned and made Blades an offer - he would leave the kingdom unharmed and slumber for another hundred years, as long as Blades agreed to remain in the dungeon for eternity. Knowing the safety of the kingdom was more important than his ambition, Blades accepted the offer. Then suddenly, the fear was gone and the serpent vanished - for it turned out the only way to defeat the serpent was to confront his fear. News of this bravery soon found its way to Master Eon , who came to see Blades at once and made him a Skylander.",
+  "personality": "Blades is a brave and noble dragon despite his young age. He is willing to do whatever it takes to protect others from harm. Even if it means sacrificing himself to do it! &#91; 2 &#93; However, like most youngsters, Blades can be a headache. In I Am Legendary , while still attending the Skylanders Academy , he was&#160;cocky, reckless and full of himself, convinced that he didn't need anyone's help. He&#160;would call elder and experienced Skylanders 'old timers' and 'slow'. This trait diminished when he realized that working in a team was more effective than handling bad guys on his own.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Blades",
+  "variants": [
+    {
+      "id": "blades",
+      "variant_name": "Blades",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/ff/Blades.png/revision/latest?cb=20170304031523",
+      "attacks": [
+        "Wing Slice",
+        "Blade Shards",
+        "Cyclone Swirl",
+        "Crushing Cyclones",
+        "Slice Shards"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Blades"
+    }
+  ]
+}

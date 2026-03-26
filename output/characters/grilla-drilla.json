@@ -1,0 +1,45 @@
+{
+  "id": "grilla-drilla",
+  "name": "Grilla Drilla",
+  "species": "Drilla",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Drilla Empire"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "In the distant jungles of what was once the sprawling subterranean city of the Drilla Empire, Grilla Drilla served among the guards for the Drilla King. Every seven years, the king would select the bravest and strongest guard to become their leader. It was during the last selection ceremony that a troll mining operation broke through the ground above them and quickly snatched the king, wanting to know the location of the famed Drilla Diamond. Having never ventured above ground, Grilla Drilla risked everything to defeat the trolls and rescue the Drilla King. In return for his bravery, Grilla was selected as the new leader. But he instead decided to join the Skylanders, where he could protect even more residents of Skylands .",
+  "personality": "Never one to think of himself, Grilla Drilla gave up his jungle throne to become a Skylander, knowing it would mean he could protect even more people! &#91; 2 &#93; Grilla Drilla also follows rules to the letter - suspecting Boom Bloom 's eagerness to become a Skylander but still going through the process to ask for Master Eon 's advice on the matter.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Grilla_Drilla",
+  "variants": [
+    {
+      "id": "grilla-drilla",
+      "variant_name": "Grilla Drilla",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Grilla_Drilla_Promo_Art.jpg",
+      "attacks": [
+        "Punchy Monkey",
+        "Planted Turret",
+        "Monkey Call",
+        "Explosive Growth",
+        "Silverback"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Grilla_Drilla"
+    }
+  ]
+}

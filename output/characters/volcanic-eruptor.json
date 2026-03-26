@@ -1,0 +1,44 @@
+{
+  "id": "volcanic-eruptor",
+  "name": "Volcanic Eruptor",
+  "species": "Lava Monster",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Volcanic_Eruptor",
+  "variants": [
+    {
+      "id": "volcanic-eruptor",
+      "variant_name": "Volcanic Eruptor",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Volcanic_Eruptor.png/revision/latest?cb=20170304031915",
+      "attacks": [
+        "Lava Lob",
+        "Eruption",
+        "Mega Magma Balls",
+        "Heavy Duty Plasma",
+        "Super Eruption"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Volcanic_Eruptor"
+    }
+  ]
+}

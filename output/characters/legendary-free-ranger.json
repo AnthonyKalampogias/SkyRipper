@@ -1,0 +1,44 @@
+{
+  "id": "legendary-free-ranger",
+  "name": "Legendary Free Ranger",
+  "species": "Storm Chicken",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Free_Ranger",
+  "variants": [
+    {
+      "id": "legendary-free-ranger",
+      "variant_name": "Legendary Free Ranger",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Legendary_Free_Ranger.png/revision/latest?cb=20170304031628",
+      "attacks": [
+        "Stormblade Slash",
+        "Ride the Wind",
+        "Eyes of the Storm",
+        "Approaching Storm",
+        "Charged Blades"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Free_Ranger"
+    }
+  ]
+}

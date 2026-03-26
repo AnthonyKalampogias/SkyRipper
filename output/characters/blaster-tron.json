@@ -1,0 +1,38 @@
+{
+  "id": "blaster-tron",
+  "name": "Blaster-Tron",
+  "species": "Robot",
+  "gender": "Male",
+  "element": "Light",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Skylanders: SuperChargers (Skystone)",
+  "world": [
+    "The Future of Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Blaster-Tron_(character)",
+  "variants": [
+    {
+      "id": "blaster-tron",
+      "variant_name": "Blaster-Tron",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/86/Blaster-Tron.png",
+      "attacks": [
+        "Original= Future beam",
+        "Rocket pack"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Blaster-Tron_(character)"
+    }
+  ]
+}

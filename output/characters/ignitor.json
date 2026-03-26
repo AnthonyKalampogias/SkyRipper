@@ -1,0 +1,49 @@
+{
+  "id": "ignitor",
+  "name": "Ignitor",
+  "species": "Fire Spirit Knight",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "On his first quest as a knight, Ignitor was tricked by a cunning witch into wearing a magical suit of armor that he was told would resist fire from a dragon . But as it turned out, it was made of cursed steel. He journeyed to a dragon’s lair where a single blast of fire transformed him into a blazing spirit, binding him to the suit of armor for eternity. Despite this setback, Ignitor remains a spirited knight who is always fired up to protect Skylands from evil… and find the witch that tricked him.",
+  "personality": "Gallant and trustworthy, Ignatius changed his name to Ignitor and remains true to his pledge to use his powers to protect the innocent. &#91; 3 &#93; Since his encounter with the witch that gave him the cursed armor, he holds a dislike for witches.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Ignitor",
+  "variants": [
+    {
+      "id": "ignitor",
+      "variant_name": "Ignitor",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9f/270px-Sky_ignitor.jpg",
+      "attacks": [
+        "Flaming Sword",
+        "Flame Form Mortar",
+        "Scorching Blade",
+        "Fire Forged Armor",
+        "Flame Form"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Ignitor"
+    }
+  ]
+}

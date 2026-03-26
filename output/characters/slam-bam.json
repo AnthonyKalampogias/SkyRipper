@@ -1,0 +1,50 @@
+{
+  "id": "slam-bam",
+  "name": "Slam Bam",
+  "species": "Four-armed Yeti",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Eruptor Meets the Nightmare King",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Slam Bam lived alone on a floating glacier in a remote region of Skylands , where he spent his time ice surfing, eating snow cones, and sculpting amazing ice statues. It was a peaceful life, until Kaos destroyed the glacier, stranding Slam Bam on an iceberg that drifted through the skies for days. He awoke on Eon’s Island , where he was taken in and trained to become a Skylander. Now his ice sculptures serve as a frosty prison for any evil-doer that gets in his way.",
+  "personality": "Slam Bam can be a little frosty with folks he doesn't know, but soon thaws over time. Get on his bad side, however, and the polar pugilist will knock you out cold. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Slam_Bam",
+  "variants": [
+    {
+      "id": "slam-bam",
+      "variant_name": "Slam Bam",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f2/300px-SlamBam_01.jpg",
+      "attacks": [
+        "Yeti Fists",
+        "Ice Prison",
+        "Arctic Explosion",
+        "Yeti Ice Shoes",
+        "Ice Knuckles"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Slam_Bam"
+    }
+  ]
+}

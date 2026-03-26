@@ -1,0 +1,36 @@
+{
+  "id": "minis",
+  "name": "Minis",
+  "species": "Various",
+  "gender": null,
+  "element": null,
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands Miniverse"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "The Skylander Minis started off as regular \" Sidekicks \", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Minis",
+  "variants": [
+    {
+      "id": "minis",
+      "variant_name": "Minis",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Minis_Comic.jpg/revision/latest?cb=20160531051131",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Minis"
+    }
+  ]
+}

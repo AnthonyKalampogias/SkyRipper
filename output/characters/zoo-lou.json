@@ -1,0 +1,44 @@
+{
+  "id": "zoo-lou",
+  "name": "Zoo Lou",
+  "species": "Bear-like creature",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "*Stump Smash Crosses the Bone Dragon *The Kaos Trap *Trigger Happy Targets the Evil Kaos",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Descended from a long line of shamans, Zoo Lou traveled far and wide to the Seven Strange Strongholds – ancient, mysterious sites of great wonder in Skylands – where he studied the wisdom and fighting styles of the Seven Strange Mages. After many years of traveling and studying, Zoo Lou returned to find an army of trolls had invaded his sacred homeland to mine its natural magic resources. Zoo Lou’s warrior heart burned with fury. And having now mastered the enchanted art of communicating with nature and summoning animals, he unleashed his great mojo – attacking the trolls and single handedly freeing his lands once again. It was this heroic feat that caught the eye of Double Trouble , who then brought Zoo Lou to Master Eon and the Skylanders.",
+  "personality": "A wild and wooly warrior, Zoo Lou doesn't suffer fools gladly. He also is most likely to talk to animals, plants, and sometimes a pebble or two. &#91; 4 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Zoo_Lou",
+  "variants": [
+    {
+      "id": "zoo-lou",
+      "variant_name": "Zoo Lou",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Zoo_Lou_Promo_Art.jpg/revision/latest?cb=20130821200845",
+      "attacks": [
+        "Piggyback Ride",
+        "Raging Boar",
+        "Swoop Re-Loop",
+        "Thicker Pigskin",
+        "Hunger of the Wolf"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Zoo_Lou"
+    }
+  ]
+}

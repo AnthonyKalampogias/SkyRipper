@@ -1,0 +1,43 @@
+{
+  "id": "nitro-krypt-king",
+  "name": "Nitro Krypt King",
+  "species": "Knight Spirit possessing Arkeyan Armor",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Krypt_King",
+  "variants": [
+    {
+      "id": "nitro-krypt-king",
+      "variant_name": "Nitro Krypt King",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Nitro_Krypt_King_Promo.jpg/revision/latest?cb=20140912005820",
+      "attacks": [
+        "Traptanium Broadsword",
+        "The Swarm",
+        "Haunted Sword",
+        "Enchanted Armor",
+        "Stunning Sting"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Krypt_King"
+    }
+  ]
+}

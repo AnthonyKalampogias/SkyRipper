@@ -1,0 +1,44 @@
+{
+  "id": "scorp",
+  "name": "Scorp",
+  "species": "Scorpion",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Salt Flat Islands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Scorp was raised in the Salt Flat Islands, an endless flat plain of rock where every day is very hot. To keep themselves entertained, the residents live for the sport of Sting Ball, an extreme game that only the strongest play to become King of Sting -- a title Scorp had won numerous times. During his last championship game, the opposing team cheated by using an enchanted water gem to make it rain. But the spell got out of control and soon a raging thunderstorm flooded the land. Using his powerful claws and incredible agility, Scorp bravely battled the rising waters to retrieve the gem and hurl it far into the clouds, breaking the spell and saving everyone. Seeing how his abilities could be used for more than sport, Scorp soon sought out and joined the Skylanders.",
+  "personality": "Rough-and-tumble Scorp is a real tough guy, but his experience with the gem taught him he could use his amazing abilities for more than just sport. &#91; 3 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Scorp",
+  "variants": [
+    {
+      "id": "scorp",
+      "variant_name": "Scorp",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Scorp-promo.jpg/revision/latest?cb=20140617030938",
+      "attacks": [
+        "Emerald Crystal",
+        "Tail Sting",
+        "Shoulder Roll",
+        "Fuming Fissure",
+        "Cracked Crystal"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Scorp"
+    }
+  ]
+}

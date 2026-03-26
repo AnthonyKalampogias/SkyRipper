@@ -1,0 +1,30 @@
+{
+  "id": "trigger-happy",
+  "name": "Trigger Happy",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "Trigger Happy is more than his name -- it's his solution to every problem. Nobody knows from where he came. He just showed up one day in a small village, saving it from a group of terrorizing bandits by blasting gold coins everywhere with his custom-crafted shooters. Similar tales were soon heard from other villages, and his legend quickly grew. Now everyone in all of Skylands knows of the crazy goldslinger that will take down any bad guy... usually without bothering to aim.",
+  "personality": "Trigger Happy's solution to every problem is being, well, trigger-happy. He is known by the other Skylanders as a crazy gunslinger who will take down any evil-doer. The little gremlin always loved hearing about his friends' exploits in their fight against evil to the point of hopping from one foot to the other in excitement.&#160;He has shown to have a reckless and impatient side, as he's willing to dive into danger without waiting for commands, which can cause him to get himself hurt. &#91; 3 &#93; Trigger Happy also has a sense of humor, as he always liked nothing better than to hide a sheep or two in Hugo 's wardrobe most weekends to mess with the Mabu . &#91; 4 &#93; In Goldslinger , Trigger Happy shows a liking for roleplaying, passing as a dramatic Western fiction hero for the fun of it, and trying to convince Spyro to do similar in the future. Despite his reckless personality, there are moments when Trigger Happy can think of ideas that helped save the day, as his idea to have a Mask of Power -imbued Kaos harness all of the elements at once is what saved the Skylanders and gave Trigger Happy an opening to yank the mask off Kaos's face. In Skylanders: Battlecast , being a Tech Skylander, Trigger Happy shows great knowledge of fighting gear and machine customization, as seen previously in SuperChargers with his personally customized Gold Rusher .",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Trigger_Happy",
+  "variants": [
+    {
+      "id": "trigger-happy",
+      "variant_name": "Trigger Happy",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Sky_trigger2.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Trigger_Happy"
+    }
+  ]
+}

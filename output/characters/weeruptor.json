@@ -1,0 +1,30 @@
+{
+  "id": "weeruptor",
+  "name": "Weeruptor",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "The Skylander Minis started off as regular \" Sidekicks \", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "personality": "Much like Eruptor, Weeruptor has a bad temper. Even the slightest thing will make him angry. Sometimes he's just a typical hothead. He doesn't just hate evil; he wants to burn it to the ground until there's nothing left but a pile of ashes. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Weeruptor",
+  "variants": [
+    {
+      "id": "weeruptor",
+      "variant_name": "Weeruptor",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Weeruptor"
+    }
+  ]
+}

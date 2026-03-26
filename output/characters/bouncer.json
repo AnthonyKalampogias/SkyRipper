@@ -1,0 +1,47 @@
+{
+  "id": "bouncer",
+  "name": "Bouncer",
+  "species": "Robot",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Champions",
+    "Return of the Dragon King",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Long ago, Bouncer was an All-Star Roboto-Ball player. But when the Arkeyan Empire destroyed his home town and discontinued the games, he was converted into a security-bot and stationed in the mines. It was there that Bouncer encountered dozens of Mabu prisoners who remembered him fondly from his playing days. He quickly became a bit of a celebrity around the mines, and it wasn't long before this new adulation convinced him that he could be just as much of a hero in life as he was on the field. Thus, he decided to join the Skylanders and take a stand against the evil, Arkeyan overlords.",
+  "personality": "While still an All-Star Roboto-Ball player, Bouncer had a big, lively personality that helped popularized the sport. Even after he no longer plays the sport of Roboto-Ball, he still holds a sense of loyalty to his Mabu fanbase, who remembered the security-bot fondly from his playing days, and Bouncer became determined to defeat the Arkeyan King , not wanting to let his fans down when they were enslaved by the Arkeyans . Despite his dynamic personality, Bouncer holds little patience to those who are extremely arrogant and little regard to what's at hand, but keeps himself from getting too upset since he considers himself a jolly robot. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Bouncer",
+  "variants": [
+    {
+      "id": "bouncer",
+      "variant_name": "Bouncer",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/ec/SG_Illus_Bouncer_Crop_LoRes1.jpg/revision/latest?cb=20120930202737",
+      "attacks": [
+        "Fingerguns",
+        "Shoulder Rockets",
+        "I-Beam",
+        "Cooler I-Beam",
+        "Machine Fingerguns"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Bouncer"
+    }
+  ]
+}

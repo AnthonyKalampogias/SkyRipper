@@ -1,0 +1,35 @@
+{
+  "id": "sir-hoodington",
+  "name": "Sir Hoodington",
+  "species": "Unknown",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Creator",
+  "appearances": [
+    "Skylanders: Creator",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Sir_Hoodington",
+  "variants": [
+    {
+      "id": "sir-hoodington",
+      "variant_name": "Sir Hoodington",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Creator",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/59/Sir_Hoodington.png/revision/latest?cb=20161231001521",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Sir_Hoodington"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "swarm",
+  "name": "Swarm",
+  "species": "Giant Hornet/Hymenopteran Insect",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Lost Islands",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Return of the Dragon King",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Swarm was once a prince from a proud race of mysterious insect warriors that had built their entire civilization inside a giant honeycombed pyramid. Growing up as one of the 9,000 members of the royal family, he was never permitted to leave the hive. But unlike his brethren, there was a magical quality to Swarm that caused him to grow much larger than the rest of his kind. No longer able to fit amongst the rest of his colony, the young prince broke the long standing tradition and stepped out into the open world - where his size and strength would be put to good use in the legendary battle between the Giants and the Arkeyans .",
+  "personality": "Swarm is as adventurous as he is unique. He always adds a barbed insult to a stinging attack. He never gets caught short of ideas, always having a 'plan bee' up his sleeve. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Swarm",
+  "variants": [
+    {
+      "id": "swarm",
+      "variant_name": "Swarm",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/be/Swarm.jpg",
+      "attacks": [
+        "Barb Blades",
+        "Flight of the Wasp",
+        "Swarm Form",
+        "Sharpened Barbs",
+        "Stinger Shot"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Swarm"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "hammer-slam-bowser",
+  "name": "Hammer Slam Bowser",
+  "species": "Koopa",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Unexpected Allies",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Rift into Overdrive",
+  "world": [
+    "Mushroom Kingdom"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Bowser is the king of the Koopas and believes himself to be the supreme, unquestioned ruler of a kingdom far from Skylands . A hot-tempered and spiky-shelled warrior, he was transported to Skylands by traveling through a rift that had been created by Kaos ' terrible Sky Eater . The Skylanders sent out a distress call across all the dimensions to call for reinforcements, and for reasons known only to Bowser himself, he has decided to join this epic battle against Kaos and the Darkness in his Clown Cruiser as the newest and most lethal of all the SuperChargers!",
+  "personality": "Being one of Nintendo's most iconic antagonists, Bowser is very tyrannical,&#160;cruel, ruthless, and oppressive,&#160;willing to do whatever it takes to defeat his former nemesis Mario , and capture his love interest Princess Peach . Now as a SuperCharger, Bowser is a trustworthy warrior; courageous, selfless, and loyal to those who can't help themselves. He is still sinister, but in a good way (very similar to the SWAP Force Skylander, Rattle Shake ). He is also a very frightening fellow, as he managed to scare Buzz during his quest at Skylanders Academy . Like many of the Fire Skylanders, the Koopa King is shown to have a fiery temper, though he seems to be able to control it, much like Eruptor . Bowser is also highly intelligent, as in the past, he was able to construct various weapons and machinery single-handedly, though when it comes to combat, he has his Magikoopa assistants Kamek and Kammy do the thinking for him. He also clearly detests immaturity, as shown when he was trying to get Donkey Kong to pay attention to their brawl with Blubberbeard .",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Hammer_Slam_Bowser",
+  "variants": [
+    {
+      "id": "hammer-slam-bowser",
+      "variant_name": "Hammer Slam Bowser",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/17/Bowser_Art.jpg/revision/latest?cb=20151207114002",
+      "attacks": [
+        "Hammer Slam",
+        "Koopa Troopa!",
+        "Molten Bowser",
+        "Warp Pipe",
+        "Molten Hammer"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Hammer_Slam_Bowser"
+    }
+  ]
+}

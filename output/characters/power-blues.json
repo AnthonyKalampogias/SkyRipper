@@ -1,0 +1,30 @@
+{
+  "id": "power-blues",
+  "name": "Power Blues",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Power_Blues",
+  "variants": [
+    {
+      "id": "power-blues",
+      "variant_name": "Power Blues",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Power_Blues.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Power_Blues"
+    }
+  ]
+}

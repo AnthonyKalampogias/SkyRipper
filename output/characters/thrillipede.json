@@ -1,0 +1,41 @@
+{
+  "id": "thrillipede",
+  "name": "Thrillipede",
+  "species": "Millipede",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Flutter Bay"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Thrillipede served in the Millipede Military in the outer regions of Skylands . As the top pilot in his unit, Thrillipede was responsible for single-handedly blasting over 300 Greeble warships out of the sky! When the Great Greeble War came to an end, he returned to his hometown of Flutter Bay as a celebrated hero. He was the talk of the town and everyone wanted to shake the many hands of the famous young pilot. News of his heroics eventually made their way to Captain Flynn at the Skylanders Academy , who set out to determine if the stories were true. In a series of friendly challenges, the two pilots raced, soared through obstacles, and performed incredible stunts in front of a cheering Flutter Bay crowd. In each event, Thrillipede stood victorious, and was asked to join the Skylanders shortly after. Of course, Flynn later admitted that he “let him win” so that Thrillipede wouldn’t be embarrassed in front of his hometown.",
+  "personality": "Thrillipede is incredibly skilled in combat, but is very reserved when not battling evil. Despite not being a bird, he is very observant when riding his Buzz Wing, and has great knowledge on flight mechanics. In his SuperCharger Quest, he is also shown to be very modest, and holds a longstanding friendship with Buzz . Thrillipede flies fearless through the skies, zipping through the air without a care. He's committed to his duty, but freely admits he loves to wow the crowds. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Thrillipede",
+  "variants": [
+    {
+      "id": "thrillipede",
+      "variant_name": "Thrillipede",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/88/Thrillipede_Promo.jpg/revision/latest?cb=20150915190830",
+      "attacks": [
+        "Bug Bomb",
+        "Bug Brawl",
+        "Cocooned",
+        "Better Fly",
+        "Gnawing Gnats"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Thrillipede"
+    }
+  ]
+}

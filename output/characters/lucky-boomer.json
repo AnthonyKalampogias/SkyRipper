@@ -1,0 +1,34 @@
+{
+  "id": "lucky-boomer",
+  "name": "Lucky Boomer",
+  "species": "Troll",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Lost Islands (March 2013)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Lucky_Boomer",
+  "variants": [
+    {
+      "id": "lucky-boomer",
+      "variant_name": "Lucky Boomer",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Lost Islands (March 2013)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/84/Lucky_Boomer.png/revision/latest?cb=20130301210327",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Lucky_Boomer"
+    }
+  ]
+}

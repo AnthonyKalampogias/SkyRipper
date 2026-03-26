@@ -1,0 +1,34 @@
+{
+  "id": "buttered-pop-thorn",
+  "name": "Buttered Pop Thorn",
+  "species": "Pufferthorn",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Lost Islands June 2014",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Buttered_Pop_Thorn",
+  "variants": [
+    {
+      "id": "buttered-pop-thorn",
+      "variant_name": "Buttered Pop Thorn",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Lost Islands June 2014",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Buttered_Pop_Thorn_Promo.jpg/revision/latest?cb=20140602232122",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Buttered_Pop_Thorn"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "punk-shock",
+  "name": "Punk Shock",
+  "species": "Electric Eel",
+  "gender": "Female",
+  "element": "Water",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Wondrous Waters"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Daughter to the most royal family in Wondrous Waters, Punk Shock never really accepted her role as an undersea princess. She preferred a much more exciting life - hunting with her electric crossbow and listening to super-charged music. After journeying to the outer reaches of her kingdom to find adventure, Punk Shock returned home to discover adventure had found her. The kingdom and its people were magically frozen by the Snow Trolls , who were there to steal valuable treasure. Punk Shock used her awesomely charged crossbow to single handedly defeat the Snow Troll army and melt the ice that trapped her kingdom. Gill Grunt heard of the battle and quickly recruited Punk Shock into the Skylanders.",
+  "personality": "Punk Shock is a natural rebel. She is simply shocking when it comes to being told what to do. She dislikes acting in any way like a princess. &#91; 4 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Punk_Shock",
+  "variants": [
+    {
+      "id": "punk-shock",
+      "variant_name": "Punk Shock",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f0/Punkshock.jpg/revision/latest?cb=20131231034556",
+      "attacks": [
+        "Spark Shot",
+        "Splash Bomb",
+        "Spark Splash",
+        "H2Throw",
+        "Positively Charged"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Punk_Shock"
+    }
+  ]
+}

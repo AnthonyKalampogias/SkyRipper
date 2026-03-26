@@ -1,0 +1,43 @@
+{
+  "id": "eggsellent-weeruptor",
+  "name": "Eggsellent Weeruptor",
+  "species": "Lava Monster",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands Miniverse"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "It's springtime again and Weeruptor was chosen as this year's official mascot for the Annual Dragon Egg Hunt! Being new to this time honored tradition, he disguised himself as a candy-coated egg and proceeded to capture Spyro , Cynder , and Drobot within a Traptanium basket. Sort of missing the point of the occasion. But what he lacks in point-getting, he more than makes up for in “Eggsellence”!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Eggsellent_Weeruptor",
+  "variants": [
+    {
+      "id": "eggsellent-weeruptor",
+      "variant_name": "Eggsellent Weeruptor",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/41/Eggsellent_Weeruptor_Promo.jpg/revision/latest?cb=20150212014822",
+      "attacks": [
+        "Lava Lob",
+        "Eruption",
+        "Big Blob Lava Throw",
+        "Heavy Duty Plasma",
+        "Quick Eruption"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Eggsellent_Weeruptor"
+    }
+  ]
+}

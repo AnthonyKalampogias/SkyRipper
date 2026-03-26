@@ -1,0 +1,38 @@
+{
+  "id": "tae-kwon-crow",
+  "name": "Tae Kwon Crow",
+  "species": "Crow",
+  "gender": "Male",
+  "element": "Dark/Fire",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Trap Team (Console)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "*Skylanders: SuperChargers (Skystone) *SuperChargers Issue 5",
+  "world": [
+    "Skyhighlands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Tae_Kwon_Crow_(character)",
+  "variants": [
+    {
+      "id": "tae-kwon-crow",
+      "variant_name": "Tae Kwon Crow",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Tae_Kown_Crow.png",
+      "attacks": [
+        "Trap Team=*Samurai sword",
+        "Ninja stars"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Tae_Kwon_Crow_(character)"
+    }
+  ]
+}

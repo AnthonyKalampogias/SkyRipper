@@ -1,0 +1,30 @@
+{
+  "id": "breeze",
+  "name": "Breeze",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "The Skylander Minis started off as regular \" Sidekicks \", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "personality": "When Breeze blows into town - look out! She likes to keep things light and airy but can be a little stubborn from time to time. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Breeze",
+  "variants": [
+    {
+      "id": "breeze",
+      "variant_name": "Breeze",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/0f/Breeze_Promo.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Breeze"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "scratch",
+  "name": "Scratch",
+  "species": "Winged Cat",
+  "gender": "Female",
+  "element": "Air",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "Stump Smash Crosses the Bone Dragon (mentioned)",
+  "world": [
+    "Cats Eye Mountain"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "High in the peaks of Cats Eye Mountain sits a towering city of crystal and gold that can only be reached by creatures of the Air element . It was here that Scratch spent her youth soaring playfully in the clouds or exploring the endless number of crystal mines. One day, an army of Pirate Greebles arrived in a fleet of airships, looking to steal ancient magic crystals buried deep in the mountain. Donning specially made armor, Scratch led an epic battle against the pirates, using her incredible fighting skills to defend the crystals and the city. Tales of her heroism soon made their way to Jet-Vac , who traveled to Cats Eye Mountain and recruited Scratch to the Skylanders.",
+  "personality": "Scratch is a natural explorer, having investigated the crystal mines of her mountain home for days on end. She's still adventurous to this day. &#91; 4 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Scratch",
+  "variants": [
+    {
+      "id": "scratch",
+      "variant_name": "Scratch",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Scratch_Promo.jpg/revision/latest?cb=20140313203454",
+      "attacks": [
+        "Cat Scratch",
+        "Playful Pounce",
+        "Wing Spark",
+        "Sharpened Rubies",
+        "Speedy Sapphire"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Scratch"
+    }
+  ]
+}

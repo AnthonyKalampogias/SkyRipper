@@ -1,0 +1,42 @@
+{
+  "id": "flare-wolf",
+  "name": "Flare Wolf",
+  "species": "Fire Wolf",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "When Flare Wolf was young, he worked all summer to earn the coveted Fireworks Badge from the Wolf Scouts. In doing so, he had earned the right to light the fireworks in the annual St. Wigglewort's Day celebration - an honor of which Flare Wolf was extremely proud. But on the day of the celebration, a band of evil Ice Ogres attacked his village and took the entire community hostage! The only weapons at his disposal were the town's supply of fireworks they were saving for the evening festivities. One by one, Flare Wolf lit them in the center of the Ogre camp, launching a dazzling display of pyrotechnics that sent the Ogres running. Not only had Flare Wolf saved his village, he had also given its residents the most spectacular fireworks show they had seen in over 100 years! Even Master Eon was impressed, and offered Flare Wolf a position at the Academy as the Official Fireworks Launcher. But after seeing him in action, he quickly realized that Flare Wolf had much more to offer as a Sensei!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Flare_Wolf",
+  "variants": [
+    {
+      "id": "flare-wolf",
+      "variant_name": "Flare Wolf",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Flare_Wolf_Promo.jpg/revision/latest?cb=20161112054950",
+      "attacks": [
+        "Rockets Away",
+        "Ride the Rocket",
+        "Loop De Loop",
+        "Roman Candle",
+        "Pyrotechnist",
+        "Secret Weapon"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Flare_Wolf"
+    }
+  ]
+}

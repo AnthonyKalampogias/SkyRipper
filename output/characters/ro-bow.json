@@ -1,0 +1,41 @@
+{
+  "id": "ro-bow",
+  "name": "Ro-Bow",
+  "species": "Robot",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "There is no record of the person who originally built Ro-Bow. By the time his basic systems were fully online, his creator was nowhere to be found. Ro-Bow searched far and wide, but since his programming was incomplete, he was unable to communicate with anyone. Eventually he stumbled upon the remains of an old lair that had been built by Kaos , and discovered a strange device inside the Matter Refactoring Room. Ro-Bow was able to access the device and download a staggering amount of information from it, which gave him the ability to speak, albeit in a slightly strange language, as well as shoot driller arrows with pinpoint accuracy. He also acquired a lot of details about Kaos himself. Even though Ro-Bow's past was a mystery, his future became quite clear - his new prime directive was to seek out Master Eon and help fight evil. With this incredible archery knowledge and skills, there could be no better trainer for the Bowslinger Class, so Eon made him a Sensei on the spot.",
+  "personality": "Though it's unclear if it was caused by the speech patterns or the other way around, Ro-Bow is prideful and arrogant, constantly taunting his enemies even after a victory and complimenting his own characteristics.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Ro-Bow",
+  "variants": [
+    {
+      "id": "ro-bow",
+      "variant_name": "Ro-Bow",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/82/Ro-Bow_Promo.jpg",
+      "attacks": [
+        "Archer Combo",
+        "Whirling Destruct-O-Matic",
+        "Reinforced Arrows",
+        "Deconstruction Laser",
+        "Havoc Orb"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Ro-Bow"
+    }
+  ]
+}

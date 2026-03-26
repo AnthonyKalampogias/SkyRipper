@@ -1,0 +1,30 @@
+{
+  "id": "jet-vac",
+  "name": "Jet-Vac",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "Jet-Vac was the greatest, most daring flying ace in all of Windham. He was given his magical wings when he was young, as was the tradition for all Sky Barons. But when his homeland was raided, he chose to sacrifice his wings to a young mother so she could fly her children to safety. This act of nobility caught the attention of Master Eon , who sought out the young Sky Baron and presented him with a gift - a powerful vacuum device that would allow him to soar through the skies once again. Jet-Vac accepted the gift with gratitude, and now daringly fights evil alongside the other Skylanders.",
+  "personality": "Noble and courageous, Jet-Vac always thinks of others before himself. Now a Skylander, he soars where even eagles never dare. &#91; 4 &#93; In Full Blast , he's shown to be a bit of a defeatist, thinking his worth as a fighter is lost without a weapon. In Skylanders: Imaginators , Jet-Vac displays dedication in searching for what has been stolen from him, in his case, his lunch that was stored away within the Sky Fortress .",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Jet-Vac",
+  "variants": [
+    {
+      "id": "jet-vac",
+      "variant_name": "Jet-Vac",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Jet_Vac_Promo.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Jet-Vac"
+    }
+  ]
+}

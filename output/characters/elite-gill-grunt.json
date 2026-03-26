@@ -1,0 +1,42 @@
+{
+  "id": "elite-gill-grunt",
+  "name": "Elite Gill Grunt",
+  "species": "Gillman",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Of all the heroic Skylanders , there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon’s Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands !",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Gill_Grunt",
+  "variants": [
+    {
+      "id": "elite-gill-grunt",
+      "variant_name": "Elite Gill Grunt",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/25/Elite_Gill_Grunt.png/revision/latest?cb=20161108182744",
+      "attacks": [
+        "Harpoon Gun",
+        "Water Cannon",
+        "Boiling Water Hose",
+        "Water Jet Pack",
+        "Anchor Cannon"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Gill_Grunt"
+    }
+  ]
+}

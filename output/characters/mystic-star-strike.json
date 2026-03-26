@@ -1,0 +1,32 @@
+{
+  "id": "mystic-star-strike",
+  "name": "Mystic Star Strike",
+  "species": "Alien",
+  "gender": "Female",
+  "element": "Magic",
+  "primary_game": "Skylanders: Lost Islands(September 2014)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Mystic_Star_Strike",
+  "variants": [
+    {
+      "id": "mystic-star-strike",
+      "variant_name": "Mystic Star Strike",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Lost Islands(September 2014)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/05/Mystic_Star_Strike.jpg/revision/latest?cb=20210212005553",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Mystic_Star_Strike"
+    }
+  ]
+}

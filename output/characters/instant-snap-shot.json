@@ -1,0 +1,40 @@
+{
+  "id": "instant-snap-shot",
+  "name": "Instant Snap Shot",
+  "species": "Crocagator",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Trap Team (Tablet version)",
+  "appearances": [
+    "Skylanders: Trap Team (Tablet version)"
+  ],
+  "cameos": null,
+  "world": [
+    "Swamplands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Snap_Shot",
+  "variants": [
+    {
+      "id": "instant-snap-shot",
+      "variant_name": "Instant Snap Shot",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team (Tablet version)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Instant_Snap_Shot_Artwork.png/revision/latest?cb=20170303181309",
+      "attacks": [
+        "Traptanium Arrows",
+        "Crystal Slam",
+        "Sure Shot Croc",
+        "Arrowsplosion",
+        "Big Wave Torrent"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Snap_Shot"
+    }
+  ]
+}

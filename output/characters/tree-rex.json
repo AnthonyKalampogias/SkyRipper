@@ -1,0 +1,48 @@
+{
+  "id": "tree-rex",
+  "name": "Tree Rex",
+  "species": "Ent",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Return of the Dragon King",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "The Kaos Trap",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Long ago before the Giants protected Skylands, Tree Rex was a majestic tree living peacefully in the ancient woods. But this tranquil peace came to an end when the Arkeyans built a nearby factory to produce war machines. After years of his soil being poisoned by the magic and tech waste from the factory, he mutated into who he is now - a powerful Giant who will crush anything that threatens the natural order of things.",
+  "personality": "Tree Rex is a natural protector who is as wise as he is majestic, unwavering in his mission to protect Skylands from evil magic. &#91; 3 &#93; He has also dedicated his life to maintain the natural balance of all things. &#91; 4 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Tree_Rex",
+  "variants": [
+    {
+      "id": "tree-rex",
+      "variant_name": "Tree Rex",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Tree_Rex_Artwork.jpg/revision/latest?cb=20120604215621",
+      "attacks": [
+        "Arbor Smash",
+        "Sequoia Charge",
+        "Big Thorn Shockwave Slam",
+        "Photosynthesis Cannon",
+        "Super Stampede"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Tree_Rex"
+    }
+  ]
+}

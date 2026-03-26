@@ -1,0 +1,41 @@
+{
+  "id": "dark-turbo-charge-donkey-kong",
+  "name": "Dark Turbo Charge Donkey Kong",
+  "species": "Kong",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Donkey Kong Island"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Turbo_Charge_Donkey_Kong",
+  "variants": [
+    {
+      "id": "dark-turbo-charge-donkey-kong",
+      "variant_name": "Dark Turbo Charge Donkey Kong",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Dark_Donkey_Kong_Art.jpg/revision/latest?cb=20150909223339",
+      "attacks": [
+        "Primate Punch",
+        "Barrel Toss",
+        "Bongo Barrel",
+        "Super Donkey Kong",
+        "Barrels of Fun"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Turbo_Charge_Donkey_Kong"
+    }
+  ]
+}

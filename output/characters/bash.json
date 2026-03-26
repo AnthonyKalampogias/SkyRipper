@@ -1,0 +1,50 @@
+{
+  "id": "bash",
+  "name": "Bash",
+  "species": "Rock Dragon",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Spyro's Kingdom (Cancelled)",
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Lost Islands",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators}}"
+  ],
+  "cameos": "Return of the Dragon King",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Bash spent most of his early dragonhood staring into the sky, watching the flying creatures of Skylands soar amongst the clouds. Determined to join them, he learned how to curl himself into a ball and roll with incredible momentum in a vain attempt to take flight. Over the years, his skin hardened, forming a natural protective armor unlike any other creature. He now thunders through Skylands, leaving a wake of destruction against any who threaten it. Despite his thick skin, he still gets&#160;very touchy about his inability to fly.",
+  "personality": "Never tell Bash he can't do something. This resourceful, stubborn Skylander will keep on rolling until he's proved you wrong. He never gives up without a fight. &#91; 4 &#93; Despite his gruff disposition, Bash is very sensitive about his inability to fly.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Bash",
+  "variants": [
+    {
+      "id": "bash",
+      "variant_name": "Bash",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9c/Bash.jpg",
+      "attacks": [
+        "Tail Swipe",
+        "Rock Roll",
+        "Summoning: Stone Projection",
+        "Mace of Destruction",
+        "Gaia Hammer"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Bash"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "eye-brawl",
+  "name": "Eye-Brawl",
+  "species": "*Flying Eyeball/Headless Undead Giant",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Lost Islands",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Return of the Dragon King",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Dive, Dive, Dive!",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Throughout history, there have been many epic battles, though none more bizarre than the legendary brawl between the headless giant and the infamous flying eyeball. It all started with a staring contest, but with the headless giant having no eyes and the flying eyeball unable to blink, it soon escalated into an all out war as the two rivals fought fiercely throughout the land of the Undead for over a hundred years! With neither opponent down, the two combatants were eventually struck with the realization that if they were to combine their formidable powers, they would be a force to be reckoned with. By teaming up, the infamous flying eyeball and the headless giant became known as Eye-Brawl, one of the most powerful Skylanders ever known.",
+  "personality": "Eye-Brawl is hyper-observant. Nothing gets past him (without being thumped, that is). &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Eye-Brawl",
+  "variants": [
+    {
+      "id": "eye-brawl",
+      "variant_name": "Eye-Brawl",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Eye-Brawl_Promo.jpg/revision/latest?cb=20130118221730",
+      "attacks": [
+        "Haymaker",
+        "Eye Fly",
+        "An Eye In Team",
+        "The Pummeler",
+        "Awesome Occu-Blast"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Eye-Brawl"
+    }
+  ]
+}

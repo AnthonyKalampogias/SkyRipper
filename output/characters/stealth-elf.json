@@ -1,0 +1,30 @@
+{
+  "id": "stealth-elf",
+  "name": "Stealth Elf",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "As a small child, Stealth Elf awoke one morning inside the hollow of an old tree with no memory of how she got there. She was taken in by an unusually stealthy, ninja-like forest creature in the deep forest. Under his tutelage, she has spent the majority of her life training in the art of stealth fighting. After completing her training, she became a Skylander and set out into the world to uncover the mystery behind her origins.",
+  "personality": "Stealth Elf, like all elves, adores nature. She is considered to be a guardian protector of the forests and of Skylands . She may be a highly trained ninja, but sometimes Stealth Elf is known to have a sense of a rampaging Cyclops Mammoth . &#91; 3 &#93; She speaks her mind, whether others want to hear it or not. She can sneak her way into any enemy's territory, but can also be tactless. &#91; 4 &#93; Like all Life Skylanders, Stealth Elf prefers to keep her feet on the ground. Stealth Elf is also known to use trickery to get out of situations she doesn't feel like doing herself, using her decoys. &#91; 5 &#93; She also appears to be tomboyish aswell.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Stealth_Elf",
+  "variants": [
+    {
+      "id": "stealth-elf",
+      "variant_name": "Stealth Elf",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Stealth_Elf_Promo.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Stealth_Elf"
+    }
+  ]
+}

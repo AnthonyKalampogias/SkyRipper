@@ -1,0 +1,45 @@
+{
+  "id": "night-shift",
+  "name": "Night Shift",
+  "species": "Vampire",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Champions",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Batcrypt Mountains"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "From high up in the gloomy Batcrypt Mountains, Night Shift was a full-fledged baron and heir to a great fortune. But one day, he decided to leave it all behind to pursue his dream as a prizefighter. It wasn’t long before Night Shift became the undefeated phantom-weight champion of Skylands famous for his massive uppercut and for having once bitten an opponent in the ring. Unfortunately, a rule change made teleportation illegal and Night Shift was forced to give up his belt, officially ending his career as a boxer. Crestfallen over being disqualified from a sport he loved so dearly, his spirits picked up when he was sought out by Master Eon , who told him that his skill as a fighter could be put to great use as a member of the Skylanders.",
+  "personality": "Night Shift can come off a bit grumpy, due to being an Undead character. He values boxing, and is commonly considered by others as old-school. Whenever he hears the sound of a boxing bell however, he goes into a wild frenzy, punching anyone and anything around him. Night Shift always plays by the rules, so when the Skylands Boxing Federation banned Teleportation, he had to give up the sport he loved. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Night_Shift",
+  "variants": [
+    {
+      "id": "night-shift",
+      "variant_name": "Night Shift",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Night_Shift_Art.jpg",
+      "attacks": [
+        "One-Two Punch",
+        "Ethereal Shift",
+        "Vampire’s Bite",
+        "Float Like a Vampire",
+        "Infectious Smile"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Night_Shift"
+    }
+  ]
+}

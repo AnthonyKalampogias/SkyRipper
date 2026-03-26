@@ -1,0 +1,42 @@
+{
+  "id": "tri-tip",
+  "name": "Tri-Tip",
+  "species": "Triceratops",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Tri and Tri Again",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Long before he became a Sensei, Tri-Tip wandered Skylands searching for the mythical Warping Walnut Tree, rumored to never be at the same place long before moving to a new location. After many years, he found the tree - and just before it vanished once again, he took from it a Golden Walnut, which was said to reveal life’s purpose to those who could open it. But to his dismay, the enchanted walnut could not be cracked no matter how hard he struck it with his thick head. Realizing that only a weapon of immense power could crack the magical shell, and not his head, Tri-Tip forged a mighty mace and trained with the greatest warriors to become the ultimate Master of Smashing. But on the day when he was finally ready to open the shell, he paused. It was then that Tri-Tip realized his true purpose – one that the unopened walnut had been teaching him all along. His purpose in life was to use his skills to protect Skylands. He then gifted the unopened walnut to one of his students and left to join the Skylanders.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Tri-Tip",
+  "variants": [
+    {
+      "id": "tri-tip",
+      "variant_name": "Tri-Tip",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/99/Tri_Tip_Promo.jpg/revision/latest?cb=20160601125516",
+      "attacks": [
+        "Mace Smash",
+        "Dino Dash",
+        "Summon Fossil Traps",
+        "Mightier Mace",
+        "Historic Preservation"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Tri-Tip"
+    }
+  ]
+}

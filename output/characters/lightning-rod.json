@@ -1,0 +1,52 @@
+{
+  "id": "lightning-rod",
+  "name": "Lightning Rod",
+  "species": "Storm Giant",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Lost Islands",
+    "Skylanders: Giants",
+    "Lightning Rod Faces the Cyclops Queen",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Trigger Happy Targets the Evil Kaos",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes}}"
+  ],
+  "cameos": "Stump Smash Crosses the Bone Dragon",
+  "world": [
+    "The Cloud Kingdom"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Lightning Rod once lived in the majestic Cloud Kingdom , where his countless acts of heroism along with his winning smile and electric physique made him the most famous storm giant in the realm. He was a true celebrity, and the palace halls were littered with statues of the chiseled hero. But all the praise and admiration could never quite satisfy Rod, who yearned for something more. As luck would have it, he met an adventurous young dragon named Spyro , who told him fantastic stories of faraway places and dangerous adventures. Rod was spellbound, and he set off with Spyro to seek an audience with Eon to join the Skylanders.",
+  "personality": "Lightning Rod prides himself on being the most macho of all the other storm giants in Skylands &#91; 2 &#93; , though he isn't used to sharing the spotlight. He is brave, but can also be charming and charismatic. Lightning Rod even considers everyone else in Skylands to be 'girlie', especially girls, and few are brave enough to argue with him! &#91; 3 &#93; &#160;He is fully aware of his own monumental talents and is happy to blow his own trumpet, but happier to blast evildoers with thunder and lightning. &#91; 4 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Lightning_Rod",
+  "variants": [
+    {
+      "id": "lightning-rod",
+      "variant_name": "Lightning Rod",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/65/LightningRod_01.jpg",
+      "attacks": [
+        "Lightning Bolt",
+        "Grand Lightning Summoning",
+        "Thunderation",
+        "Zapper Field",
+        "Lightning Avatar"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Lightning_Rod"
+    }
+  ]
+}

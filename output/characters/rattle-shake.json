@@ -1,0 +1,46 @@
+{
+  "id": "rattle-shake",
+  "name": "Rattle Shake",
+  "species": "Rattlesnake",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Champions",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Some say Rattle Shake was the best tracker in the Cloudbreak Islands . Others say he could strike the center of a gold coin at a thousand paces. But the legend of Rattle Shake was immortalized when he found himself trapped by the Black Hat Gang, the infamous group of cowboys who literally were large cows... and evil ones at that. They threatened to plunder the local village unless Rattle Shake led them inside the magical volcano Mt. Cloudbreak , where they hoped to discover enchanted treasure. Badly outnumbered, the ever calm Rattle Shake magically summoned every snake in the area and overtook the notorious bovines in an epic fight. The tale of his heroism was heard by Master Eon , who then recruited him to the Skylanders.",
+  "personality": "Shake's enemies think he is sinister. In fact, so do some of his friends, but you can be sure that he's no slippery character - Rattle is a virtuous viper. &#91; 5 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Rattle_Shake",
+  "variants": [
+    {
+      "id": "rattle-shake",
+      "variant_name": "Rattle Shake",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/31/RattleShake2.jpg",
+      "attacks": [
+        "Deputy Snake",
+        "Fistful of Snake",
+        "Spring Loaded Snake",
+        "Snake Bite",
+        "Nasty Sssurprise"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Rattle_Shake"
+    }
+  ]
+}

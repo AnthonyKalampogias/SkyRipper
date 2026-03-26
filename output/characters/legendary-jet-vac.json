@@ -1,0 +1,47 @@
+{
+  "id": "legendary-jet-vac",
+  "name": "Legendary Jet-Vac",
+  "species": "Sky Baron",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Lost Islands",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Jet-Vac",
+  "variants": [
+    {
+      "id": "legendary-jet-vac",
+      "variant_name": "Legendary Jet-Vac",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d1/L-JetVac_Promo.jpg/revision/latest?cb=20170304031722",
+      "attacks": [
+        "Vac Blaster",
+        "Suction Gun",
+        "Jet Vac Jet Pack",
+        "Vac Blaster 9000",
+        "Fiester Fan"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Jet-Vac"
+    }
+  ]
+}

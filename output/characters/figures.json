@@ -1,0 +1,30 @@
+{
+  "id": "figures",
+  "name": "Figures",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Figures",
+  "variants": [
+    {
+      "id": "figures",
+      "variant_name": "Figures",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": null,
+      "image": null,
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Figures"
+    }
+  ]
+}

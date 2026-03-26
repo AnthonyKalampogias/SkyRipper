@@ -1,0 +1,46 @@
+{
+  "id": "smolderdash",
+  "name": "Smolderdash",
+  "species": "Fire spirit",
+  "gender": "Female",
+  "element": "Fire",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Trigger Happy Targets the Evil Kaos",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "*Stump Smash Crosses the Bone Dragon *Rift into Overdrive",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Smolderdash had always wanted to be a royal defender of the Fire Temple - home of the First Flame, a sacred torch that had been ignited by the original Fire Source. Unfortunately, she had been born during an eclipse and was believed by her people to be cursed, which prevented her from such an honor. But when Kaos stole the flame and used it to light the candles on his birthday cake, it was Smolderdash who went after it. Blazing like a comet, she dashed into Kaos' Lair, repelled the troll security force with her flaming whip, and retrieved the sacred flame just before Kaos blew out the candles. Smolderdash returned home as a champion of her people and was finally granted the honor of becoming a royal defender. But she graciously declined, having set a new goal for herself - to help fight against Kaos as a member of the Skylanders .",
+  "personality": "Smolderdash is as steely and determined as they come. She whips her enemies into shape, and doesn't take no for an answer. &#91; 3 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Smolderdash",
+  "variants": [
+    {
+      "id": "smolderdash",
+      "variant_name": "Smolderdash",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Smolderdash.png",
+      "attacks": [
+        "Flame Whip",
+        "Solar Orb",
+        "Eclipse",
+        "Super Giant",
+        "Solar Blast"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Smolderdash"
+    }
+  ]
+}

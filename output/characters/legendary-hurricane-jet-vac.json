@@ -1,0 +1,41 @@
+{
+  "id": "legendary-hurricane-jet-vac",
+  "name": "Legendary Hurricane Jet-Vac",
+  "species": "Sky Baron",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Windham"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Hurricane_Jet-Vac",
+  "variants": [
+    {
+      "id": "legendary-hurricane-jet-vac",
+      "variant_name": "Legendary Hurricane Jet-Vac",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c0/Legendary_Hurricane_Jet-Vac_Promo.jpg/revision/latest?cb=20150915000123",
+      "attacks": [
+        "Shooting the Breeze",
+        "Jet Turbine Vacuum",
+        "Somer-Assault",
+        "Category Pain",
+        "Turbulent Turbine"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Hurricane_Jet-Vac"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "bad-juju",
+  "name": "Bad Juju",
+  "species": "Skeleton Ghost",
+  "gender": "*Female (Bad Juju) *Male (Juju Junior)",
+  "element": "Air",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "*SuperChargers Issue 5",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": "If there's one thing the witch doctor loves, it's an afternoon nap. &#91; 3 &#93; Bad Juju loves to sleep, and those that disturb her must weather the consequences. &#91; 4 &#93; Despite being mean to a fault, she soon changed her villainous ways to become a better role model for her son; this is reflected in gameplay with Bad Juju playing defensively while near her son and aggressively while he is away. Meanwhile, Juju Junior is cheerful and always excited, eager to help his mother. Despite being a high-ranking servant of the Golden Queen for a long time, Bad Juju admitted to greatly disliking her after capture.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Bad_Juju_(character)",
+  "variants": [
+    {
+      "id": "bad-juju",
+      "variant_name": "Bad Juju",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/cd/BadJuju.png",
+      "attacks": [
+        "Trap Team=Lightning strike",
+        "Hurricane"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Bad_Juju_(character)"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "springtime-trigger-happy",
+  "name": "Springtime Trigger Happy",
+  "species": "Gremlin",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Every year the residents of Skylands gather together for the annual Dragon Egg Hunt, celebrating the arrival of spring time. In his enthusiasm for the event, Trigger Happy has dyed himself and his rocket in the pastel colors of the season. Now disguised as a dragon egg, his new mission is to end up in the basket of a lucky kid... and not a dragon!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Springtime_Trigger_Happy",
+  "variants": [
+    {
+      "id": "springtime-trigger-happy",
+      "variant_name": "Springtime Trigger Happy",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest?cb=20140311183832",
+      "attacks": [
+        "Gold Coin Shooters",
+        "Safe Cracker Bomb",
+        "Pot O' Gold",
+        "Golden Super Charge",
+        "Coinsplosion"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Springtime_Trigger_Happy"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "jawbreaker-character",
+  "name": "Jawbreaker (character)",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "Jawbreaker hailed from a race of robots that operated and maintained a vast underground complex of enormous machines that powered the legendary Sky Train, which traveled between a thousand different islands daily. Like many of his fellow robots, Jawbreaker led an ordered existence – full of rules and regulations – which he followed happily. However, one day a huge army of Gear Trolls invaded the subterranean complex. Known for being major train enthusiasts, they were set on taking over the Sky Train for their own evil use. Jawbreaker quickly jumped into action and used his massive fists to beat the trolls into retreat. His quick action and ability to think for himself made him an individual. For this he was made part of the Trap Team, where he now uses his Traptanium powered fists to deliver mighty blows to evil!",
+  "personality": "Jawbreaker likes being an individual, even though his robot pals think he should be more like them. Sometimes you've just got to dare to be different. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Jawbreaker_(character)",
+  "variants": [
+    {
+      "id": "jawbreaker-character",
+      "variant_name": "Jawbreaker (character)",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/16/Jawbreaker_Promo.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Jawbreaker_(character)"
+    }
+  ]
+}

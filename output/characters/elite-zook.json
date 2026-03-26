@@ -1,0 +1,41 @@
+{
+  "id": "elite-zook",
+  "name": "Elite Zook",
+  "species": "Bambazooker",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Zook",
+  "variants": [
+    {
+      "id": "elite-zook",
+      "variant_name": "Elite Zook",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/Eon%27s_Elite_Zook.jpg/revision/latest?cb=20170729040955",
+      "attacks": [
+        "Bazooka Attack",
+        "Foliage Barrier",
+        "Mortar Attack",
+        "Full Splinter Jacket",
+        "Exploding Shrapnel"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Zook"
+    }
+  ]
+}

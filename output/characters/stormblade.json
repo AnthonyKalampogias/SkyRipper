@@ -1,0 +1,45 @@
+{
+  "id": "stormblade",
+  "name": "Stormblade",
+  "species": "Lark",
+  "gender": "Female",
+  "element": "Air",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Secret Agent Secrets",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "From the moment she left the nest, Stormblade had always pushed the boundaries, seeking to travel further than anyone had ever gone. At a young age, she made the bold leap off of her home island and plummeted through the deep blue sky in an attempt to find the bottom of Skylands – only to find no such bottom existed. This did not fulfill her curiosity, nor did it sway her belief there was something else beyond the limits of her world. Soon she built a custom ship, the Sky Slicer, and raced to the furthest reaches of Skylands in search of its end – but no end could be found. She wanted answers, and so she came to the one person that could help her – Master Eon . The Portal Master instantly saw the unquenchable thirst for exploration that resided in Stormblade, and asked her to join the Skylanders on a very special mission that would take her through the uncharted rifts between worlds!",
+  "personality": "Stormblade is a fearless daredevil with an unquenchable thirst for adventure. She is naturally excited about things, including participating in missions and dedicating herself to training. Stormblade is also very confident in the good in people she looks up to, as seen in her attempts to redeem Ghost Roaster in Secret Agent Secrets . However, her tendency to not stick to one thought also makes her somewhat slow on the uptake, as seen on Story of Nightfall where she mistakes Nightfall's story about traumatized citizens to be about mind attacks from Leviathans .",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Stormblade",
+  "variants": [
+    {
+      "id": "stormblade",
+      "variant_name": "Stormblade",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Stormblade.jpg/revision/latest?cb=20150603210039",
+      "attacks": [
+        "Feather Blade Throw",
+        "Steeled Wings",
+        "Cyclone Surge",
+        "Wind Wall",
+        "Fist Full of Feathers"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Stormblade"
+    }
+  ]
+}

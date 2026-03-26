@@ -1,0 +1,45 @@
+{
+  "id": "fright-rider",
+  "name": "Fright Rider",
+  "species": "*Fright Rider: Undead Elf *Ozzy: Skeletal Ostrich",
+  "gender": "Male (both)",
+  "element": "Undead",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Lost Islands",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "*Gill Grunt and the Curse of the Fish Master *Trigger Happy Targets the Evil Kaos",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "(Disclaimer: this official biography mistakenly uses the names Fright (the ostrich) and Rider (the elf) Rider (Fright Rider) and his magnificent ostrich, Fright (Ozzy), were the finest jousting team in all of Skylands . But after winning the championship for the third straight year, a jealous competitor placed a curse on the elf that sent him to the land of Undead. Not wanting to be without his partner, Fright, who up until this point had been afraid of nearly everything, ate a bag of skele-oats that turned him into a skeleton so that he could brace the journey to the underworld to save his friend. Grateful for being rescued, Fright/Rider returned to the surface dedicated to helping others - while still dominating an occasional jousting tournament from time to time.",
+  "personality": "Gallant and brave, Fright Rider is always ready to rush headlong into action. &#91; 2 &#93; Together with Ozzy, they are a courageous pair, honour-bound to right wrongs wherever they roam. &#91; 3 &#93; Before becoming one of the Undead, Ozzy was terrified of pretty much everything. His list of fears included shadows, curtains, certain types of sandwiches and having a jousting spear accidentally plunged into his head. All that changed when he munched a bag of skele-oats so that he could be transformed into a skeleton and rescue Fright Rider. Now he isn't scared of much, apart from getting a spear through his skull. And certain types of sandwiches. &#91; 4 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Fright_Rider",
+  "variants": [
+    {
+      "id": "fright-rider",
+      "variant_name": "Fright Rider",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Fright_Rider_Promo.jpg/revision/latest?cb=20121102050400",
+      "attacks": [
+        "Melee Attacks",
+        "Jousting Charge",
+        "Burrow Bomber",
+        "Ghoul Glaive",
+        "Halberd Horror"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Fright_Rider"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "funny-bone",
+  "name": "Funny Bone",
+  "species": "Skeletal Dog",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Punch Line Island"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Funny Bone once lived on Punch Line Island – the funniest place in the Land of the Undead and home of the Eternal Chuckling Trees that magically make everyone laugh when the breeze tickles them. But after hearing stories of this, the evil Count Moneybone sent his minions to investigate if this magic could be used to make a \"Funny Bomb\" that would render Skylands helpless with laughter. Funny Bone was in the middle of burying his neighbors’ birthday cake on a breezeless day when the invaders arrived. Seeing their large axes, Funny Bone instantly knew that the Chuckling Trees were in danger. Without hesitation, he sprang into action, fighting off the minions and driving them from his humorous home. Now as a Skylander, Funny Bone delivers his own punch line to evil!",
+  "personality": "Funny Bone is very protective. He always knows when danger's afoot. How does he know? Well, let's just say he gets a funny feeling about it. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Funny_Bone",
+  "variants": [
+    {
+      "id": "funny-bone",
+      "variant_name": "Funny Bone",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/24/Funny_Bone.png/revision/latest?cb=20171116075227",
+      "attacks": [
+        "Bone Saw",
+        "Flying Bone Disc",
+        "Bone Paws",
+        "Supercharged Saw",
+        "Flying Bone Doom"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Funny_Bone"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "magna-charge",
+  "name": "Magna Charge",
+  "species": "Ultron Robot",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers' (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Return of the Dragon King",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Magna Charge came from the great race of Ultron robots, but was mysteriously created with a giant magnet head. This proved problematic, as his peers were all made of metal and were constantly being pulled towards him. As a result, Magna Charge was exiled to a faraway island, where he eventually learned to control his magnetic powers. After years of training, he returned to his home to demonstrate his abilities, but found everything completely destroyed. In searching for answers, Magna Charge caught the attention of Master Eon , who realized the unique Ultron soldier was a perfect candidate for the Skylanders.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Magna_Charge",
+  "variants": [
+    {
+      "id": "magna-charge",
+      "variant_name": "Magna Charge",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Magna_Charge_Art.jpg",
+      "attacks": [
+        "Magnet Cannon",
+        "Polarized Pickup",
+        "Magneto Ball",
+        "Eject",
+        "Plasma Shots"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Magna_Charge"
+    }
+  ]
+}

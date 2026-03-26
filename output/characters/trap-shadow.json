@@ -1,0 +1,44 @@
+{
+  "id": "trap-shadow",
+  "name": "Trap Shadow",
+  "species": "Sabre-toothed Tiger",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Once part of an elite tribe of hunters in a remote area of Skylands , Trap Shadow used his cat-like cunning, ingenious traps and mystical stealth abilities to catch nearly everything that could be caught. As a result, his fame around Skylands grew so much that it attracted the attention of an evil cadre of wizards. They plotted to capture Trap Shadow and use his abilities to ensnare the most uncatchable thing of all - Master Eon himself. But Trap Shadow could sense them coming from miles away. Outsmarted and outmaneuvered, each of the wizards was easily captured by Trap Shadow's bewildering array of traps and snares until they were all locked away for good. Having saved Master Eon, he quickly made Trap Shadow a Skylander.",
+  "personality": "The finest feline tracker of his tribe, Trap Shadow was the go-to cat if you wanted something caught. He mostly keeps to himself. However, since becoming a Skylander, he's been trying to become a team player. You have to get up early to catch Trap Shadow out - as the wicked wizards discovered. He sniffed out their plans and trapped them before they could trap him (or Eon, for that matter). &#91; 5 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Trap_Shadow",
+  "variants": [
+    {
+      "id": "trap-shadow",
+      "variant_name": "Trap Shadow",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a7/Trap_Shadow_Promo.jpg",
+      "attacks": [
+        "Clawing Shadow",
+        "Shadow Kick",
+        "Snap Trap",
+        "Prowl",
+        "Me-Ouch!"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Trap_Shadow"
+    }
+  ]
+}

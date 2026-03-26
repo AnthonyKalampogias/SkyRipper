@@ -1,0 +1,30 @@
+{
+  "id": "wind-up",
+  "name": "Wind-Up",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "Built in the enchanted workshop of a toymaker obsessed with time, Wind-Up was created to help keep his massive collection of complicated clocks working perfectly. But when the toymaker popped out of existence in a freak accident caused by putting hot cocoa in a cross-wired Arkeyan oven, Wind-Up found himself surrounded by an invading Cyclops platoon - with an eye towards claiming the toymaker's secrets for themselves. Using split-second timing, clockwork strategy, and his totally wound up energy, Wind-Up bravely sprang into action and handily defeated the Cyclops. He later joined the Skylanders to help swing the pendulum the other way in their fight against anything that threatens Skylands .",
+  "personality": "Wind-Up is always on time. Bursting with coiled-up energy, he's also always ready to spring into action. &#91; 3 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Wind-Up",
+  "variants": [
+    {
+      "id": "wind-up",
+      "variant_name": "Wind-Up",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/86/Windup.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Wind-Up"
+    }
+  ]
+}

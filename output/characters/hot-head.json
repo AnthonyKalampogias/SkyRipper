@@ -1,0 +1,45 @@
+{
+  "id": "hot-head",
+  "name": "Hot Head",
+  "species": "Fire Golem",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Rift into Overdrive",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Hot Head had always been a short tempered fire giant. But it was when magical oil was discovered in Skylands that fuel was really added to the fire. As exciting as the discovery was, the celebration lasted only 5 minutes - coming to an abrupt halt when Hot Head needed to cool off and plunged into the thick black pool, causing the entire island to explode! Though it would be another 2,000 years before magical oil was discovered again, the impact that it had on Hot Head was immediate. He was instantly infused with magical oil, giving him the ability to generate an infinite supply of fuel - making him incredibly volatile, highly combustible, and ready to torch anything that got in his way.",
+  "personality": "Impetuous is a good word to describe Hot Head. He just can't help himself. This giant Fire Golem is always burning with enthusiasm. He smothers his enemies in blazing blobs of burning oil first, and asks questions second. &#91; 3 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Hot_Head",
+  "variants": [
+    {
+      "id": "hot-head",
+      "variant_name": "Hot Head",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b2/Hot_Head_Promo.jpg/revision/latest?cb=20121117065411",
+      "attacks": [
+        "Flamefire Burst",
+        "Oil Blobs",
+        "Sizzle Shower",
+        "Turn Up the Heat!",
+        "Premium Grade"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Hot_Head"
+    }
+  ]
+}

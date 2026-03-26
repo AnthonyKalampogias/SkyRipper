@@ -1,0 +1,44 @@
+{
+  "id": "shroomboom",
+  "name": "Shroomboom",
+  "species": "One-Eyed Fly Agaric Mushroom",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Shroomboom was most unfortunate to have been born in a pizza topping garden belonging to Kaos . Growing up among his fellow fungi, he knew it was only a matter of time before a late night craving would bring about their demise. So Shroomboom took a twig and a strand of spider web and made a slingshot. One by one, he launched all of his friends over the garden fence before flinging himself over to join them. Then he guided them all to the edge of the island and leapt to freedom, using his mushroom cap to catch a friendly breeze. Now as a member of the Skylanders, Shroomboom continues to perform courageous deeds... but he can be hard to find on pizza night.",
+  "personality": "Courageous and determined, Shroomboom lets nothing stand in his way. He's always ready to parachute into danger, no matter the risk. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Shroomboom",
+  "variants": [
+    {
+      "id": "shroomboom",
+      "variant_name": "Shroomboom",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/41/Screenshot_48056.jpg",
+      "attacks": [
+        "Slingshot",
+        "Mushroom Ring",
+        "Bigger Boomshrooms",
+        "Bouncing Boomshrooms",
+        "Launch Paratroopers"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Shroomboom"
+    }
+  ]
+}

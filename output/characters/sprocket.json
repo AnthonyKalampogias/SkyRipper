@@ -1,0 +1,30 @@
+{
+  "id": "sprocket",
+  "name": "Sprocket",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "Sprocket was raised with all the privileges of a rich, proper Goldling. But she cared little for fancy things. Instead, she spent most of her time growing up in her uncle's workshop, learning how to build and fix his many mechanical inventions. But everything changed on the day her uncle mysteriously vanished. When she eventually discovered that Kaos had been behind his disappearance, she constructed a battle suit and went after him, leaving the luxury and comfort of her family's wealth behind. From that moment on, Sprocket was dedicated to fighting the forces of evil, whilst never losing hope that she would reunite with her beloved uncle.",
+  "personality": "Resourceful, Sprocket isn't one to sit back and let others do the work. She jumps in with both armored feet, creating solutions for every problem imaginable. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Sprocket",
+  "variants": [
+    {
+      "id": "sprocket",
+      "variant_name": "Sprocket",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Sprocket_Promo.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Sprocket"
+    }
+  ]
+}

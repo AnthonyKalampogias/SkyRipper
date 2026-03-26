@@ -1,0 +1,36 @@
+{
+  "id": "elite-chop-chop",
+  "name": "Elite Chop Chop",
+  "species": "Arkeyan Skeleton",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Of all the heroic Skylanders , there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon’s Elites are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands !",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Chop_Chop",
+  "variants": [
+    {
+      "id": "elite-chop-chop",
+      "variant_name": "Elite Chop Chop",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Elite_Chop_Chop_Promo.jpg/revision/latest?cb=20161108182734",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Chop_Chop"
+    }
+  ]
+}

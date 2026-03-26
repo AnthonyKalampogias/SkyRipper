@@ -1,0 +1,45 @@
+{
+  "id": "krypt-king",
+  "name": "Krypt King",
+  "species": "Knight Spirit possessing Arkeyan Armor",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "Rift into Overdrive",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "The perfect blend of sword and sorcery, Krypt King wandered Skylands for years as the disembodied spirit of a knight – until he found his way into the depths of an ancient Arkeyan weapon vault. Upon finding an enormously powerful suit of armor, the spirit decided to make it his own. Unfortunately, this triggered a long dormant auto defense system. With alarms blaring, a massive sealed chamber was opened, revealing a huge army of war machines. Krypt King launched himself towards the attack force, swinging his newly found giant sword until every machine was utterly destroyed. Realizing the power he wielded could serve a broader purpose, Krypt King sought out the Skylanders and was made a member of the Trap Team, where he now uses his massive Traptanium blade to cut down evil!",
+  "personality": "Krypt King may look imposing, but he's really just a curious spirit who's looking to settle down with the right suit of armor. &#91; 3 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Krypt_King",
+  "variants": [
+    {
+      "id": "krypt-king",
+      "variant_name": "Krypt King",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/44/Krypt_King_Promo.jpg/revision/latest?cb=20140619165830",
+      "attacks": [
+        "Traptanium Broadsword",
+        "The Swarm",
+        "Haunted Sword",
+        "Enchanted Armor",
+        "Stunning Sting"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Krypt_King"
+    }
+  ]
+}

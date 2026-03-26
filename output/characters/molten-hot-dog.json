@@ -1,0 +1,44 @@
+{
+  "id": "molten-hot-dog",
+  "name": "Molten Hot Dog",
+  "species": "Fire Dog",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Molten_Hot_Dog",
+  "variants": [
+    {
+      "id": "molten-hot-dog",
+      "variant_name": "Molten Hot Dog",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/99/Molten_Hot_Dog_Promo.jpg/revision/latest?cb=20130306023415",
+      "attacks": [
+        "Firebark",
+        "Wall of Fire",
+        "Comet Slam",
+        "Wall of More Fire",
+        "Super Comet"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Molten_Hot_Dog"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "wolfgang",
+  "name": "Wolfgang",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": "Wolfgang takes joy in terrorizing civilians with his ferocity and evil music. When irritated, he won't hesitate in challenging the authority of those stronger than him. He has a short fuse, but seems to care for his fellow Doom Raiders, referring to them at one point as his \"pack\" when a few of them were captured by the Skylanders . Despite his aggressive behavior, he is said to be optimistic of being rewarded for his music even when people don't appreciate the cacophony and flee in terror. &#91; 3 &#93; He is a werewolf that can make even other werewolves run in fear. &#91; 4 &#93; His wish to be recognized as a musician was the tipping point for him to turn over a new leaf. After his rehabilitation, Wolfgang is still somewhat agitated and aggressive in battle, but now towards those on the side of evil.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Wolfgang",
+  "variants": [
+    {
+      "id": "wolfgang",
+      "variant_name": "Wolfgang",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/13/Wolfgang_Promo.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Wolfgang"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "bushwhack",
+  "name": "Bushwhack",
+  "species": "Tree Elf",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders Issue 12",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Return of the Dragon King",
+  "world": [
+    "Arcadian Timberland"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Born to a race of tree elves who were protectors of the rich Arcadian Timberland, Bushwhack was supposed to be a ranger. But being the smallest of his clan, he was sent deep into the woods by the Chieftain to study with Arbo , known for helping the Skylanders rebuild the Core of Light . The tree spirit looked beyond Bushwhack’s size, and seeing that he had the heart of a warrior, taught him many secrets. Arbo even gifted him with an enchanted axe. So when a legion of Lumberjack Trolls invaded the forest and overpowered the elves, it was Bushwhack who set out to stop them. Drawing out the trolls, he used his enchanted axe and knowledge of the forest to capture them and destroy their tree-cutting machines. Afterward, Bushwhack not only was made a ranger but a Skylander. As part of the Trap Team, he now uses his Traptanium axe to whack evil wherever it grows!",
+  "personality": "Bushwhack has a warrior's heart in a tiny elf body. Size doesn't matter when it comes to his passion for heroism. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Bushwhack",
+  "variants": [
+    {
+      "id": "bushwhack",
+      "variant_name": "Bushwhack",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/68/Bushwhack_Promo.jpg/revision/latest?cb=20140813084342",
+      "attacks": [
+        "Traptanium Axe",
+        "Mystic Acorn",
+        "Headbash",
+        "An Axe to Grind",
+        "Bush's Shack"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Bushwhack"
+    }
+  ]
+}

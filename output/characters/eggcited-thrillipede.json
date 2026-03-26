@@ -1,0 +1,41 @@
+{
+  "id": "eggcited-thrillipede",
+  "name": "Eggcited Thrillipede",
+  "species": "Millipede",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Flutter Bay"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Thrillipede is all suited up and ready to defend his title as the reigning Dragon Egg Toss Champion. After last year's controversy, when Kaos wrongly accused him of coating several Dragon Eggs with sticky tape, Thrillipede is eager to show everyone that his egg tossing supremacy was no fluke. And to prove his point, he's agreed to enter the competition with one hand tied behind his back!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Eggcited_Thrillipede",
+  "variants": [
+    {
+      "id": "eggcited-thrillipede",
+      "variant_name": "Eggcited Thrillipede",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c6/Eggcited_Thrillipede_Promo.jpg/revision/latest?cb=20160302194139",
+      "attacks": [
+        "Bug Bomb",
+        "Bug Brawl",
+        "Cocooned",
+        "Better Fly",
+        "Gnawing Gnats"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Eggcited_Thrillipede"
+    }
+  ]
+}

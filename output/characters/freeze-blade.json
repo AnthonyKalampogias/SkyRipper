@@ -1,0 +1,47 @@
+{
+  "id": "freeze-blade",
+  "name": "Freeze Blade",
+  "species": "Ice Feline",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Frozen Wastelands of Vesh (originally)",
+    "Great Lava Lakes"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "When he was young, Freeze Blade's family moved from the Frozen Wastelands of Vesh to the Great Lava Lakes. As it turned out, this was a very difficult adjustment for Freeze Blade. Not only was he the sole one of his kind, it was also incredibly hot and there was no ice to skate on whatsoever. But over the years, he learned to fit in with the other fire-like creatures and even discovered he had a magical ability to ice skate on any surface... even bubbling lava. One day, while out setting a new frozen lava speed record, he came across Blast Zone , who had just been ambushed by some nasty Spell Punks . After Freeze Blade stepped in to defend him, Blast Zone was so impressed by his skill in battle that he introduced him to Master Eon , who invited him to join the Skylanders.",
+  "personality": "Freeze Blade slides into action without a thought of his own personal safety. He's always on the move, not one to stay in one place for long. He is known for making friends easily. Bullies, however, leave him cold. &#91; 3 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Freeze_Blade",
+  "variants": [
+    {
+      "id": "freeze-blade",
+      "variant_name": "Freeze Blade",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a6/Freeze_Blade_Promo.jpg",
+      "attacks": [
+        "Chakram Throw",
+        "Speedy Skate",
+        "Frostcicle",
+        "Ice Trail",
+        "Shaved Ice"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Freeze_Blade"
+    }
+  ]
+}

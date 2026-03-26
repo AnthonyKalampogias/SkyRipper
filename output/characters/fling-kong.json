@@ -1,0 +1,45 @@
+{
+  "id": "fling-kong",
+  "name": "Fling Kong",
+  "species": "Monkey",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Champions",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "As a royal protector of the legendary monkey idol Kubla-Wa, Fling Kong trained seriously in the mysterious art of Monk-Ru, a form of fighting using the power of air. He was a devoted student, always the first to arrive to training and the last to leave. One day, a troop of foul-smelling, well-armed Gorilla-Goos appeared, led by the infamous General Snot. Snot had heard stories about the idol, particularly that it was made of solid gold. The villains quickly seized control of the temple that housed the idol and were on the verge of taking it. But suddenly the smelly gorillas found themselves face to face with Fling Kong – who attacked with the power of a true Monk-Ru master! Using his flying rug and powerful vortex discs, he expertly defeated the Gorilla-Goos and saved the idol. Soon after, word of his actions spread to Master Eon . Now a Skylander, Fling Kong knocks the wind out of evil throughout all of the Skylands!",
+  "personality": "Fling Kong is no stranger to battle, but he prefers a little life of peace. He is committed to his training and is willing to do whatever it takes to fight for what is right. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Fling_Kong",
+  "variants": [
+    {
+      "id": "fling-kong",
+      "variant_name": "Fling Kong",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Fling_Kong.jpg/revision/latest?cb=20150901011412",
+      "attacks": [
+        "Power Discs",
+        "Magic Carpet Dash",
+        "Spiked!",
+        "Trick Shot",
+        "Smash 'N' Dash"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Fling_Kong"
+    }
+  ]
+}

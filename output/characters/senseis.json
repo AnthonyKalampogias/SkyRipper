@@ -1,0 +1,37 @@
+{
+  "id": "senseis",
+  "name": "Senseis",
+  "species": "Various",
+  "gender": null,
+  "element": null,
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Senseis",
+  "variants": [
+    {
+      "id": "senseis",
+      "variant_name": "Senseis",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Senseis.png/revision/latest?cb=20160902002408",
+      "attacks": [
+        "Various Sky-Chi"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Senseis"
+    }
+  ]
+}

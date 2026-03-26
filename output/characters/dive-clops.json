@@ -1,0 +1,44 @@
+{
+  "id": "dive-clops",
+  "name": "Dive-Clops",
+  "species": "Flying Eyeball",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Dive, Dive, Dive!",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "Unexpected Allies",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Believe it or not, Dive-Clops is actually the twin brother of Eye-Brawl . When he was young, his bat-wings were blasted off by pirates while flying over the Swirling Sea, causing him to plunge into the abyss below. After rolling on the bottom for several days, he was discovered by an underwater civilization of Jelly Dwarves . They were instantly fascinated by the bizarre looking eyeball and took him back to their Corral Castle, where they built him a magnificent dive suit that would allow him explore the depths of the sea. But everything changed when Dive-Clops decided to venture to the mysterious Whirlpool of Destiny deep within the ocean. As he got closer, he suddenly felt pulled by its immense power, and reemerged to discover that thousands of years had passed! Now with his destiny before him as a member of the Skylanders , Dive-Clops lets the minions of Kaos know that there are many dangers of the deep!",
+  "personality": "Dive-Clops is very observant, similar to his twin brother, Eye-Brawl. He also has great knowledge of aquatic mechanics and the oceans of Skylands .",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Dive-Clops",
+  "variants": [
+    {
+      "id": "dive-clops",
+      "variant_name": "Dive-Clops",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/72/Dive-Clops_Promo.jpg/revision/latest?cb=20150621194954",
+      "attacks": [
+        "Waterpedo",
+        "Sonar",
+        "Put the Eye in Geyser",
+        "Torpeslow",
+        "Sonar Smarts"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dive-Clops"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "rubble-rouser",
+  "name": "Rubble Rouser",
+  "species": "Rock Golem",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Rift into Overdrive",
+  "world": [
+    "Deep Mountain"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Hailing from a race of creatures who ate rock for a living, Rubble Rouser spent most days digging his way through the vastness of Deep Mountain mouthful by mouthful alongside the rest of his people. But Rubble Rouser found he could eat up far more ground with a swing of his hammer or spin of his drill. However, the leaders of his race wanted no part of changing the way they worked. That is, until the evil Rock Lords trapped them deep within the mountain. It was then that Rubble Rouser showed everyone the power of his ways by defeating the Rock Lords with his mighty hammer and drill. Afterward, the leaders encouraged Rubble Rouser to seek out the Skylanders, who readily welcomed him.",
+  "personality": "Rubble Rouser is always looking to improve the way things work - and for new rocks to pulverize with his hammer slam! &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Rubble_Rouser",
+  "variants": [
+    {
+      "id": "rubble-rouser",
+      "variant_name": "Rubble Rouser",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Rubble_Rouser_%282%29.png",
+      "attacks": [
+        "Hammer Swing",
+        "Deep Dig",
+        "Tools of the Trade",
+        "Minor Miners",
+        "Nailed it!"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Rubble_Rouser"
+    }
+  ]
+}

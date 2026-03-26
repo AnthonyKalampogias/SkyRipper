@@ -1,0 +1,41 @@
+{
+  "id": "birthday-bash-big-bubble-pop-fizz",
+  "name": "Birthday Bash Big Bubble Pop Fizz",
+  "species": "Gremlin",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "It is customary tradition at the Skylanders Academy for all of the Skylanders to gather around and sing the birthday song to the guest of honor. For fun, any Skylanders that arrives late must sing the birthday song solo in front of the entire Academy. But rather than seeing this as an embarrassment, Pop Fizz continues to see this as an opportunity to show off his new Big Bubble party instruments, and so he arrives late every time... much to the dismay of the party guests!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Birthday_Bash_Big_Bubble_Pop_Fizz",
+  "variants": [
+    {
+      "id": "birthday-bash-big-bubble-pop-fizz",
+      "variant_name": "Birthday Bash Big Bubble Pop Fizz",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Birthday_Bash_BB_Pop_Fizz.jpg/revision/latest?cb=20160111040932",
+      "attacks": [
+        "Bubble Blast",
+        "Bubbling Beast Form",
+        "Mixture Modifier",
+        "Larger Lungs",
+        "Better Beast"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Birthday_Bash_Big_Bubble_Pop_Fizz"
+    }
+  ]
+}

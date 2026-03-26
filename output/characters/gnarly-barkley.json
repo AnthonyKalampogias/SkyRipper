@@ -1,0 +1,39 @@
+{
+  "id": "gnarly-barkley",
+  "name": "Gnarly Barkley",
+  "species": "Ent",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands Miniverse"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Gnarly_Barkley",
+  "variants": [
+    {
+      "id": "gnarly-barkley",
+      "variant_name": "Gnarly Barkley",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/90/GnarlyBarkleyArtwork.png/revision/latest?cb=20170205043200",
+      "attacks": [
+        "Shockwave Slam Sequoia Stampede"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Gnarly_Barkley"
+    }
+  ]
+}

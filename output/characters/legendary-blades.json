@@ -1,0 +1,45 @@
+{
+  "id": "legendary-blades",
+  "name": "Legendary Blades",
+  "species": "Dragon",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Champions",
+    "Return of the Dragon King",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Blades",
+  "variants": [
+    {
+      "id": "legendary-blades",
+      "variant_name": "Legendary Blades",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Blades_Legendary.png/revision/latest?cb=20170304031545",
+      "attacks": [
+        "Wing Slice",
+        "Blade Shards",
+        "Cyclone Swirl",
+        "Crushing Cyclones",
+        "Slice Shards"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Blades"
+    }
+  ]
+}

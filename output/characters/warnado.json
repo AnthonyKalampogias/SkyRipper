@@ -1,0 +1,49 @@
+{
+  "id": "warnado",
+  "name": "Warnado",
+  "species": "Turtle",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Lost Islands",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators}}"
+  ],
+  "cameos": "Spyro versus The Mega Monsters",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Warnado was hatched in the fury of a rare and powerful Enchanted Twister. Although initially frightened and quite dizzy, over the passing years he grew to enjoy his whirling surroundings and learned many abilities and secrets of the Air Element. This led to Warnado becoming a powerful force and the only known turtle of his kind. Now, the only time he gets dizzy is when standing still.",
+  "personality": "One of the most powerful Air sorcerers of all time, Warnado is quick-witted and has lightning fast reflexes. &#91; 2 &#93; Because of his past, he is fond of roller coasters. &#91; 3 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Warnado",
+  "variants": [
+    {
+      "id": "warnado",
+      "variant_name": "Warnado",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/50/290px-Warnado_03.jpg",
+      "attacks": [
+        "Spin Attack",
+        "Summon Tornado",
+        "Sharp Shell",
+        "Whirlwind Flight",
+        "Turtle Slam"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Warnado"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "lob-star",
+  "name": "Lob-Star",
+  "species": "Lobster",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Light in the Dark",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Star City"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Hailing from the depths of the undersea kingdom of Star City, Lob-Star was the head chef of his own five-star restaurant, often cooking for the King Fish himself. However, few knew that Lob-Star had secretly been training in a mysterious art of fighting known only to a few crustaceans. For a while, Lob-Star was able to keep the peace while still keeping his hidden identity. But when a giant Leviathan threatened to swallow up Lob-Star’s guests and capture the King Fish himself, he had no choice but to swim into action. Calling on every trick his mysterious training had taught him, Lob-Star defeated the Leviathan and drove it out of Star City. For risking everything, Lob-Star was recruited by Master Eon to join the Skylanders . Now, as part of the Trap Team, he uses his powerful Traptanium Throwing Stars to serve up defeat to anyone who threatens Skylands !",
+  "personality": "Lob-Star is a disciplined crustacean and a hard worker. He has been able to accomplish great things by being patient and understanding in his studies. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Lob-Star",
+  "variants": [
+    {
+      "id": "lob-star",
+      "variant_name": "Lob-Star",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Lob-Star.png/revision/latest?cb=20141013023227",
+      "attacks": [
+        "Starshooter",
+        "Boiling Temper",
+        "Lob-Star Roll",
+        "Super Stars",
+        "Boiling Temper"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Lob-Star"
+    }
+  ]
+}

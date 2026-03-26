@@ -1,0 +1,45 @@
+{
+  "id": "blast-zone",
+  "name": "Blast Zone",
+  "species": "Furnace Knight",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "As a young furnace knight, Blast Zone was part of the Skylands Bomb Squad, specializing in the safe disarming and removal of troll bombs . But it was not long before the trolls got tired of Blast Zone constantly thwarting their evil plans, so they decided to go after the furnace knight himself. Late one night, an army of trolls snuck into Blast Zone’s village and threw 100 bombs down his chimney. Acting quickly, Blast Zone swallowed each bomb and then belched a jet of fire back at the invaders – sending them fleeing with their boots on fire. The tale of the attack eventually reached the ear of Master Eon , who knew the brave furnace knight had all the makings of a Skylander.",
+  "personality": "Fiery but disarming, Blast Zone always puts the safety of his friends first. He is always most likely to blow a fuse. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Blast_Zone",
+  "variants": [
+    {
+      "id": "blast-zone",
+      "variant_name": "Blast Zone",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Blast_Zone_Art.jpg",
+      "attacks": [
+        "Bomb Throw",
+        "Rocket Dash",
+        "Flame Breath",
+        "Ready For Blast Off",
+        "Flaming Bombs"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Blast_Zone"
+    }
+  ]
+}

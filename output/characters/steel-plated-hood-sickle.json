@@ -1,0 +1,39 @@
+{
+  "id": "steel-plated-hood-sickle",
+  "name": "Steel Plated Hood Sickle",
+  "species": "Reaper",
+  "gender": "Male",
+  "element": "Dark",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Steel_Plated_Hood_Sickle",
+  "variants": [
+    {
+      "id": "steel-plated-hood-sickle",
+      "variant_name": "Steel Plated Hood Sickle",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/16/Steel_Plated_Hood_Sickle_Promo.jpg/revision/latest?cb=20160924052738",
+      "attacks": [
+        "Dark Scythe Combo",
+        "Dark Dislocation",
+        "Dark Combo",
+        "More Remnants"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Steel_Plated_Hood_Sickle"
+    }
+  ]
+}

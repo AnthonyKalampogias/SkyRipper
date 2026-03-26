@@ -1,0 +1,54 @@
+{
+  "id": "gill-grunt",
+  "name": "Gill Grunt",
+  "species": "Gillman",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "The Machine of Doom",
+    "Skylanders: Lost Islands",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Giants",
+    "Gill Grunt and the Curse of the Fish Master",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Trigger Happy Targets the Evil Kaos",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes}}"
+  ],
+  "cameos": "*Spyro versus The Mega Monsters *The Kaos Trap *Trigger Happy Targets the Evil Kaos *Return of the Dragon King *Unexpected Allies",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Gill Grunt was a brave soul who joined the Gillmen military in search of adventure. While journeying through a misty lagoon in the clouds, he met an enchanting mermaid. He vowed to return to her after his tour. Keeping his promise, he came back to the lagoon years later, only to learn a nasty band of pirates had kidnapped the mermaid. Heartbroken, Gill Grunt began searching all over Skylands . Though he had yet to find her, he joined the Skylanders to help protect others from such evil, while still keeping an ever-watchful eye for the beautiful mermaid and the pirates who took her.",
+  "personality": "Gill Grunt is one fish who never lets evil off the hook, willing to protect people other than himself and his friends. Brave and courageous, he is a loyal companion to have at your side. Protective and determined, Gill is a bighearted Gillman who never, ever gives up. &#91; 3 &#93; He believes himself to be one of the greatest singers in history, while others find his singing to be dreadful; a trait shared by all Gillmen. In spite of this, Gill Grunt's friends (with the exception of Eruptor ) are too fond of him to tell the truth.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Gill_Grunt",
+  "variants": [
+    {
+      "id": "gill-grunt",
+      "variant_name": "Gill Grunt",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/65/Gill_Grunt_Promo.jpg",
+      "attacks": [
+        "Harpoon Gun",
+        "Water Cannon",
+        "Boiling Water Hose",
+        "Water Jet Pack",
+        "Anchor Cannon"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Gill_Grunt"
+    }
+  ]
+}

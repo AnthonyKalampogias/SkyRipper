@@ -1,0 +1,44 @@
+{
+  "id": "dark-wash-buckler",
+  "name": "Dark Wash Buckler",
+  "species": "Mermasquid",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "While on a special mission, a team of Skylanders discovered a secret lair where Kaos was experimenting with a new discovery – Petrified Darkness – which he initially intended to use to stage a coup against Skylands . In their fight to stop Kaos, the lair exploded, releasing a cloud of pure Darkness. The Skylanders knew they couldn’t let it escape, so they absorbed this energy, transforming them into dark versions of themselves. Fortunately, Spyro learned to tame that darkness within him long ago. So with his help, these Skylanders now have also learned to control it – combining its power with their own to fight Kaos and the forces of evil.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Wash_Buckler",
+  "variants": [
+    {
+      "id": "dark-wash-buckler",
+      "variant_name": "Dark Wash Buckler",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Dark_Wash_Buckler_Promo.jpg/revision/latest?cb=20130819004440",
+      "attacks": [
+        "Sword Slash",
+        "Bladesail",
+        "Bubble Blaster",
+        "Somersaulty",
+        "Octolash"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Wash_Buckler"
+    }
+  ]
+}

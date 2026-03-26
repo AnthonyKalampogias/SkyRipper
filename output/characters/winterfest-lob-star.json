@@ -1,0 +1,43 @@
+{
+  "id": "winterfest-lob-star",
+  "name": "Winterfest Lob-Star",
+  "species": "Lobster",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Star City"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Winter is here and the Skylanders are gearing up for the Great Annual Winterfest! Every year, the citizens of Skylands come together to celebrate the holiday season by participating in the most popular seasonal events including Sheep Skating, Bobbing for Chompies , and Angry Yeti Tipping. This year, Lob-Star plans on leveraging his legendary culinary skills to take home the coveted first place trophy in the Costume Baking Competition – with his licorice flavored suit and candy-coated frosted beard!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Winterfest_Lob-Star",
+  "variants": [
+    {
+      "id": "winterfest-lob-star",
+      "variant_name": "Winterfest Lob-Star",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/78/Winterfest_Lob-Star_promo.jpg/revision/latest?cb=20141202044314",
+      "attacks": [
+        "Starshooter",
+        "Boiling Temper",
+        "Lob-Star Roll",
+        "Super Stars",
+        "Boiling Temper"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Winterfest_Lob-Star"
+    }
+  ]
+}

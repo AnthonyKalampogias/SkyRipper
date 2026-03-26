@@ -1,0 +1,47 @@
+{
+  "id": "eye-small",
+  "name": "Eye-Small",
+  "species": "Headless Undead Flying Eyeball",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "The Kaos Trap",
+    "Skylanders: Trap Team",
+    "Skylanders Issue 12",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands Miniverse"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Within the Skylands , a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse . Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular \"Sidekicks,\" assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "personality": "Eye-Small may look like a cute little cyclops, but he'll jump into a fight at the bat of an eye. He's a scrapper like that. Eye-Small pays keen attention to detail. He notices just about everything. He is an eyeball, after all. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Eye-Small",
+  "variants": [
+    {
+      "id": "eye-small",
+      "variant_name": "Eye-Small",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/98/Eye_Small.jpg",
+      "attacks": [
+        "Haymaker",
+        "Eye Fly",
+        "An Eye In Team",
+        "The Pummeler",
+        "Awesome Occu-Blast"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Eye-Small"
+    }
+  ]
+}

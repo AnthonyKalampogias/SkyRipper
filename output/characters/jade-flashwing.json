@@ -1,0 +1,45 @@
+{
+  "id": "jade-flashwing",
+  "name": "Jade Flashwing",
+  "species": "Crystal Dragon",
+  "gender": "Female",
+  "element": "Earth",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Lost Islands",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Jade_Flashwing",
+  "variants": [
+    {
+      "id": "jade-flashwing",
+      "variant_name": "Jade Flashwing",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/36/Jade_Flashwing_Promo.jpg/revision/latest?cb=20130323035453",
+      "attacks": [
+        "Crystal Shards",
+        "Shimmering Spin",
+        "Surrounded by Shards",
+        "Luminous Lasers",
+        "Light Speed Lasers"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Jade_Flashwing"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "buddy-wrecking-ball",
+  "name": "Buddy Wrecking Ball",
+  "species": "Grub Worm",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Lost Islands (May 2013)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Buddy_Wrecking_Ball",
+  "variants": [
+    {
+      "id": "buddy-wrecking-ball",
+      "variant_name": "Buddy Wrecking Ball",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Lost Islands (May 2013)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Buddy_Wrecking_Ball_Promo.png/revision/latest?cb=20130504012619",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Buddy_Wrecking_Ball"
+    }
+  ]
+}

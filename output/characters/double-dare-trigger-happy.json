@@ -1,0 +1,41 @@
+{
+  "id": "double-dare-trigger-happy",
+  "name": "Double Dare Trigger Happy",
+  "species": "Gremlin",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Unexpected Allies",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Double_Dare_Trigger_Happy",
+  "variants": [
+    {
+      "id": "double-dare-trigger-happy",
+      "variant_name": "Double Dare Trigger Happy",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/73/Double_Dare_Trigger_Happy_Art.jpg/revision/latest?cb=20150831080427",
+      "attacks": [
+        "Fire Cracker",
+        "Crowd-Pleaser",
+        "Breaking Cannon",
+        "Hoop N' Holler",
+        "Can On and On"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Double_Dare_Trigger_Happy"
+    }
+  ]
+}

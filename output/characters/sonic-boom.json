@@ -1,0 +1,51 @@
+{
+  "id": "sonic-boom",
+  "name": "Sonic Boom",
+  "species": "Griffin",
+  "gender": "Female",
+  "element": "Air",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Lost Islands",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Terrafin Battles the Boom Brothers",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators}}"
+  ],
+  "cameos": "*Trigger Happy Targets the Evil Kaos *Return of the Dragon King",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Long ago, Sonic Boom took refuge high atop a mountain peak in the far reaches of Skylands , hoping to keep her griffin hatchlings safe. But despite her precautions, a devious wizard tracked her down and placed a wicked curse on the griffin eggs. Once hatched, the young hatchlings can live for only mere moments before they magically return to their shells... only to be hatched again in an endless cycle. Wanting to prevent such evil from happening to others, Sonic Boom joined the Skylanders and has trained her young to defend Skylands each time they are hatched.",
+  "personality": "Sonic Boom is described as the maternal individual of the Skylanders since she and her young are the only Skylanders who fight evil as a family. As protective as only a mother can be, maternal Sonic Boom shelters all who need help beneath her wings. &#91; 2 &#93; She also dislikes bullying.&#160;Sonic Boom can also be sensitive, as demonstrated in Terrafin Battles the Boom Brothers when she looked hurt after Terrafin yelled at the griffin in order to get through Sonic Boom's screeching.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Sonic_Boom",
+  "variants": [
+    {
+      "id": "sonic-boom",
+      "variant_name": "Sonic Boom",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Sonic_Boom_shot.jpg",
+      "attacks": [
+        "Sonic Roar",
+        "Egg Toss",
+        "Loudmouth",
+        "Let there be Flight",
+        "Egg Shocker"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Sonic_Boom"
+    }
+  ]
+}

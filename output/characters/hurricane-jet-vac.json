@@ -1,0 +1,42 @@
+{
+  "id": "hurricane-jet-vac",
+  "name": "Hurricane Jet-Vac",
+  "species": "Sky Baron",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "*Unexpected Allies *SuperChargers Issue 4 (comic cover) *Secret Agent Secrets (comic cover)",
+  "world": [
+    "Windham"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Hurricane_Jet-Vac",
+  "variants": [
+    {
+      "id": "hurricane-jet-vac",
+      "variant_name": "Hurricane Jet-Vac",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Hurricane_Jet-Vac_Art.jpg/revision/latest?cb=20150831080907",
+      "attacks": [
+        "Shooting the Breeze",
+        "Jet Turbine Vacuum",
+        "Somer-Assault",
+        "Category Pain",
+        "Turbulent Turbine"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Hurricane_Jet-Vac"
+    }
+  ]
+}

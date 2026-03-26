@@ -1,0 +1,39 @@
+{
+  "id": "nitro-skylanders",
+  "name": "Nitro Skylanders",
+  "species": "Various",
+  "gender": null,
+  "element": null,
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Skylanders",
+  "variants": [
+    {
+      "id": "nitro-skylanders",
+      "variant_name": "Nitro Skylanders",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": null,
+      "attacks": [
+        "Various"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Skylanders"
+    }
+  ]
+}

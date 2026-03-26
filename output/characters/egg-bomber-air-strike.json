@@ -1,0 +1,40 @@
+{
+  "id": "egg-bomber-air-strike",
+  "name": "Egg Bomber Air Strike",
+  "species": "*Unknown (Air Strike) *Blue Zephyr Falcon (Birdie)",
+  "gender": "Male (both)",
+  "element": "Air",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Zephyr Mountain"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Before he began training Brawlers, Air Strike trained birds – especially the rare Blue Zephyr Falcons. They were once one of Skylands’ most endangered species, but Air Strike taught them how to defend themselves from predators... and not fly into windows. Birds would come from all over Skylands to learn his proven techniques. But despite their new defensive skills, the Blue Zephyr Falcons continued to be hunted by a band of evil trolls , who liked to use their eggs in blue-bacon omelets. So it was time for Air Strike to strike back! He journeyed to the peak of the Zephyr Mountain and single handedly took down the trolls, rescuing the stolen eggs. After returning them to their mother, one of the eggs hatched, revealing a very energetic Falcon that would not leave his side. Air Strike named him “Birdie” – and together, they now use their skills to train Skylanders , despite Master Eon ’s crippling fear of falcons.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Egg_Bomber_Air_Strike",
+  "variants": [
+    {
+      "id": "egg-bomber-air-strike",
+      "variant_name": "Egg Bomber Air Strike",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Egg_Bomber_Air_Strike_Promo.jpg/revision/latest?cb=20161112131913",
+      "attacks": [
+        "Bird Brawl",
+        "Bird Dive Bomb",
+        "Spinning Bird Fist",
+        "Eye of the Storm",
+        "Free Range Eggs"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Egg_Bomber_Air_Strike"
+    }
+  ]
+}

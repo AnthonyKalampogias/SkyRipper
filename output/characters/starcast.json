@@ -1,0 +1,41 @@
+{
+  "id": "starcast",
+  "name": "Starcast",
+  "species": "Alien",
+  "gender": "Male",
+  "element": "Dark",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Unknown"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "No one knows where Starcast came from, including Starcast himself! He was first seen falling out of the sky and landing directly on top of Master Eon , after he had made a wish for a Ninja Master to train the new generation of Skylanders. While it appeared that Eon’s wish had come true, it was later revealed that Pop Fizz had simultaneously made a wish to get out of anger management lessons with the old Portal Master . Therefore, it was impossible to determine if Starcast was the result of one wish or the other. But after a brief martial arts display, it was clear to all that the mysterious Starcast was a very skilled ninja warrior. And seeing as how Master Eon had to walk around in crutches for the next few weeks, it was also clear that anger management class would have to be postponed – so it was a win-win!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Starcast",
+  "variants": [
+    {
+      "id": "starcast",
+      "variant_name": "Starcast",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f2/SI_Ilus_Starcast_FINAL.png/revision/latest?cb=20160817073729",
+      "attacks": [
+        "Interdimensional Shurikens",
+        "Megastar Surfer",
+        "Shadow Form Decoy",
+        "Star Stomp",
+        "Star of the Show"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Starcast"
+    }
+  ]
+}

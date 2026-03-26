@@ -1,0 +1,44 @@
+{
+  "id": "fryno",
+  "name": "Fryno",
+  "species": "Flaming Rhino",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "*The Kaos Trap *Return of the Dragon King",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Fryno was once a member of the notorious Blazing Biker Brigade and spent most of his youth riding around Skylands with the rest of his crew. But what Fryno did not realize was that, while he enjoyed a life of freedom and adventure, his crew was responsible for acts of burglary throughout Skylands . When Fryno discovered that he had been riding around with a bunch of villains, he burned with rage and demanded that they make amends for the wrong they had done. This resulted in an epic fight, which Fryno won, and the disbanding of the Blazing Biker Brigade. Fryno was in the midst of returning the valuables his crew had stolen when he met Master Eon , who was impressed with his good character and fighting abilities, and offered him a membership to a new crew -- the Skylanders .",
+  "personality": "Fryno is hot on honesty. In fact, liars and cheats make him flaming mad! &#91; 3 &#93; &#160;Being a firey rhino , he possesses a short temper, but is trying to keep his anger in check.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Fryno",
+  "variants": [
+    {
+      "id": "fryno",
+      "variant_name": "Fryno",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Fryno_Promo.jpg",
+      "attacks": [
+        "Brawl",
+        "Heated",
+        "The Horn And The Hog",
+        "Hot Hands",
+        "Born to Ride"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Fryno"
+    }
+  ]
+}

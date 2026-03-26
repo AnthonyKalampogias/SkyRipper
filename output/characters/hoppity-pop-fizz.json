@@ -1,0 +1,36 @@
+{
+  "id": "hoppity-pop-fizz",
+  "name": "Hoppity Pop Fizz",
+  "species": "Gremlin",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Lost Islands (April 2013)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Hoppity_Pop_Fizz",
+  "variants": [
+    {
+      "id": "hoppity-pop-fizz",
+      "variant_name": "Hoppity Pop Fizz",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Lost Islands (April 2013)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/79/Hoppity_Pop_Fizz_artwork.png/revision/latest?cb=20130430165105",
+      "attacks": [
+        "None"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Hoppity_Pop_Fizz"
+    }
+  ]
+}

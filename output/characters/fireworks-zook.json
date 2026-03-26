@@ -1,0 +1,34 @@
+{
+  "id": "fireworks-zook",
+  "name": "Fireworks Zook",
+  "species": "Bambazooker",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Lost Islands (July 2013)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Fireworks_Zook",
+  "variants": [
+    {
+      "id": "fireworks-zook",
+      "variant_name": "Fireworks Zook",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Lost Islands (July 2013)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Fireworks_Zook.jpg/revision/latest?cb=20131114032754",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Fireworks_Zook"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "kaos",
+  "name": "Kaos",
+  "species": "Kaos Klone",
+  "gender": "Male",
+  "element": "Kaos",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "With Kaos having discovered the power of Mind Magic to create Doomlanders , one of his first creations was none other than a clone of himself! Figuring that no one in the universe, including the Skylanders , could ever stand up to more than one Kaos, he unleashed his clone in his quest to take over Skylands . But to Kaos’ surprise, the clone –also being Kaos– wanted victory for himself! As a result, he decided to fight against his creator, in turn helping the Skylanders in their endeavor to defeat the real Kaos!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Kaos_(Sensei)",
+  "variants": [
+    {
+      "id": "kaos",
+      "variant_name": "Kaos",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/30/Kaos_Sensei_Promo.jpg/revision/latest?cb=20160817084040",
+      "attacks": [
+        "Brain Bash",
+        "Psychic Shot",
+        "Portal Practitioner",
+        "Boom Hands",
+        "I Think Therefore You Are"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Kaos_(Sensei)"
+    }
+  ]
+}

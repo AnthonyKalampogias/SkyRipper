@@ -1,0 +1,41 @@
+{
+  "id": "power-blue-splat",
+  "name": "Power Blue Splat",
+  "species": "Faun",
+  "gender": "Female",
+  "element": "Magic",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Splat grew up in a typical faun village which was perfectly manicured and orderly. Every day in school, she and her classmates would recite the same poems, play the same music, and paint the same picture – which was always a portrait of their great ancestor, Fluty Hoofdancer. But this didn’t suit Splat. The only art she wanted to learn was the art of war! After school, she would sneak off to the river and practice her own free form fighting technique against Chompies and other creatures that were causing trouble. When the elder fauns learned of this, they were outraged. But soon thereafter, a band of Drow attacked the village to steal their valuable art, and while the other fauns cowered in fear, Splat stood her ground. Unleashing her self-taught fighting style, she defended her village and sent the Drow running. Now as a member of the Skylanders, Splat makes quite the impression wherever she goes!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Power_Blue_Splat",
+  "variants": [
+    {
+      "id": "power-blue-splat",
+      "variant_name": "Power Blue Splat",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c2/PB_Splat.jpg/revision/latest?cb=20160302194748",
+      "attacks": [
+        "Artisan Arts",
+        "Heave Hue",
+        "Have an Inkling",
+        "Wet Paint",
+        "Running Colors"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Power_Blue_Splat"
+    }
+  ]
+}

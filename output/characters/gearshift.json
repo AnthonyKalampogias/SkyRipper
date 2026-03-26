@@ -1,0 +1,44 @@
+{
+  "id": "gearshift",
+  "name": "Gearshift",
+  "species": "Robot",
+  "gender": "Female",
+  "element": "Tech",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Light in the Dark",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Rift into Overdrive",
+  "world": [
+    "Metallana"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Gearshift was created on the Tech island of Metallana by King Mercurus, who considered the young robot to be his own daughter. But rather than performing royal duties, Gearshift preferred to spend her time in the oily depths of the kingdom among its workers, secretly tending to the huge subterranean machines. When her father discovered this, he was furious - but then a squadron of Undead Stormriders suddenly attacked. Learning that these marauders wanted to capture her father, Gearshift used her knowledge of the labyrinth below to hide him. Seizing the emblem of her people - The Great Gear - she used it to fight the Stormriders, inspiring the workers to rise up. Together, they drove the Stormriders out of Metallana and saved the kingdom. For this, Gearshift was made part of the Trap Team, using her new awesome Traptanium-forged gear to help defend Skylands .",
+  "personality": "Gearshift's passion and spirit are an inspiration to her teammates. She's also quick on her feet. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Gearshift",
+  "variants": [
+    {
+      "id": "gearshift",
+      "variant_name": "Gearshift",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/42/Gearshift_Promo.jpg/revision/latest?cb=20140610214032",
+      "attacks": [
+        "Traptanium Gear",
+        "Mode Toggle",
+        "Gear Grind",
+        "Spare Parts",
+        "Enhanced Fragmentation"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Gearshift"
+    }
+  ]
+}

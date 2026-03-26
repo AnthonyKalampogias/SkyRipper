@@ -1,0 +1,38 @@
+{
+  "id": "power-blue-ember",
+  "name": "Power Blue Ember",
+  "species": "Unknown",
+  "gender": "Female",
+  "element": "Fire",
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [
+    "Dragonfire Dojo"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Power_Blue_Ember",
+  "variants": [
+    {
+      "id": "power-blue-ember",
+      "variant_name": "Power Blue Ember",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/Phillip-worobey-ember-power-blue.jpg/revision/latest?cb=20230109004455",
+      "attacks": [
+        "Samurai Combo",
+        "Flame Geyser",
+        "Immolation",
+        "Inner Fire",
+        "Living Bomb Path"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Power_Blue_Ember"
+    }
+  ]
+}

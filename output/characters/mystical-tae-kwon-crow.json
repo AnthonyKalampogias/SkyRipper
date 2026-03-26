@@ -1,0 +1,40 @@
+{
+  "id": "mystical-tae-kwon-crow",
+  "name": "Mystical Tae Kwon Crow",
+  "species": "Crow",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skyhighlands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Mystical_Tae_Kwon_Crow",
+  "variants": [
+    {
+      "id": "mystical-tae-kwon-crow",
+      "variant_name": "Mystical Tae Kwon Crow",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/Mystical_Tae_Kwon_Crow_Promo.jpg/revision/latest?cb=20161112131915",
+      "attacks": [
+        "Shuriken Throw",
+        "Flame Kick",
+        "Buzzer Beak",
+        "Triple Shurikens",
+        "Triple Kicks"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Mystical_Tae_Kwon_Crow"
+    }
+  ]
+}

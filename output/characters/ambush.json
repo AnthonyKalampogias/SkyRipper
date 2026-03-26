@@ -1,0 +1,41 @@
+{
+  "id": "ambush",
+  "name": "Ambush",
+  "species": "Mystical Tree-Knight",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Mystical Bamboo Forest"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "There were many mysterious things in the Mystical Bamboo Forest, but none more so than Ambush. The forest was considered to be one of Skylands ’ greatest natural wonders, and no outsider, good or bad, was ever permitted to trespass. But that didn’t stop Kaos’ mother ! After deciding that the ancient trees would make an exquisite display in her Royal Courtyard, she commanded her army of chainsaw-wielding trolls to chop down the entire forest. This angered Ambush, the mystical tree-knight, who saw the atrocity and swore revenge! Wielding his mythic sword, he fought off the trolls and forced Kaos’ mother into hiding. When Master Eon heard the story, he knew that the mysterious sword master would make the ideal Sensei, and promised to “go green” himself if Ambush would join the Skylander team. Ambush now trains other Knights - and those who are not environmentally conscious cower in fear!",
+  "personality": "Ambush is direct with his words, and is protective of nature.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Ambush",
+  "variants": [
+    {
+      "id": "ambush",
+      "variant_name": "Ambush",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/85/Ambush_Promo.jpg/revision/latest?cb=20160614032110",
+      "attacks": [
+        "Whack Attack",
+        "Splintering Punch",
+        "Meditative Strike",
+        "Pruning the Hedges",
+        "Wood Knocks You!"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Ambush"
+    }
+  ]
+}

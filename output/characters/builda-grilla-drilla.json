@@ -1,0 +1,32 @@
+{
+  "id": "builda-grilla-drilla",
+  "name": "Builda Grilla Drilla",
+  "species": "Drilla",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Lost IslandsMay 2014",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Builda_Grilla_Drilla",
+  "variants": [
+    {
+      "id": "builda-grilla-drilla",
+      "variant_name": "Builda Grilla Drilla",
+      "edition": "Series 1",
+      "type": "Swap Force",
+      "game": "Skylanders: Lost IslandsMay 2014",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Builda_Grilla_Drilla.jpg/revision/latest?cb=20210212005932",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Builda_Grilla_Drilla"
+    }
+  ]
+}

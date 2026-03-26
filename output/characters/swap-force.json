@@ -1,0 +1,39 @@
+{
+  "id": "swap-force",
+  "name": "SWAP Force",
+  "species": "Various",
+  "gender": "All male",
+  "element": null,
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Cloudbreak Islands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/SWAP_Force",
+  "variants": [
+    {
+      "id": "swap-force",
+      "variant_name": "SWAP Force",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Swap_Force.png/revision/latest?cb=20210405015831",
+      "attacks": [
+        "Swapabilities"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/SWAP_Force"
+    }
+  ]
+}

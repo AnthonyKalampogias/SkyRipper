@@ -1,0 +1,44 @@
+{
+  "id": "trail-blazer",
+  "name": "Trail Blazer",
+  "species": "Flaming Unicorn",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Champions",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Trail Blazer was always hot tempered, especially when he saw anything as being unfair. One day, he came across another unicorn that was trapped in a net. But it wasn’t just any unicorn. It was the mythical Unocorn – a magical creature with a Churro Horn that sprinkled enchanted cinnamon throughout Skylands . Trail Blazer freed it at once. Soon after, the Dark Wizards who had set the trap returned, and were very angry to find their dastardly deed had been thwarted. But Trail Blazer was much more fired up – for it turned out the spicy cinnamon from the Churro Horn had somehow rubbed off on him and mixed with his elemental fire. So he was literally set ablaze with fury! He then ran fiery circles around the wizards, forcing them to flee and never return. After realizing his newfound fury could be used to fight evil everywhere, Trail Blazer sought out the Skylanders, who immediately welcomed him as a member.",
+  "personality": "Trail Blazer is a hot-tempered unicorn, being set ablaze when he saw anything unfair. However he also possesses a competitive spirit, which in one case causes him to discourage others.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Trail_Blazer",
+  "variants": [
+    {
+      "id": "trail-blazer",
+      "variant_name": "Trail Blazer",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/11/Trail_Blazier_Promo.png/revision/latest?cb=20150527220904",
+      "attacks": [
+        "Fireball",
+        "Roundhose Kick",
+        "Burning The Heat",
+        "Flaming Forms",
+        "Kick It Up A Notch"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Trail_Blazer"
+    }
+  ]
+}

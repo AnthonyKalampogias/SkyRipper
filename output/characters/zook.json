@@ -1,0 +1,48 @@
+{
+  "id": "zook",
+  "name": "Zook",
+  "species": "Bambazooker",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Cynder Confronts the Weather Wizard",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Return of the Dragon King",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Zook hails from a strange and unusual species called Bambazookers, who once lived their entire lives standing in place... until Zook discovered they could walk simply by stepping out of the mud. After that, he became a wandering hero, using his hand-carved bamboo tube as a bazooka that fires special explosive thorns. Campfire songs were even written about him. Now, Zook spends his time as a Skylander, figuring he can be an even bigger hero... and have even more songs written about him.",
+  "personality": "Zook is the cheeriest walking bamboo plant you will ever meet. He lives life to the fullest and wants to explore every last one of Skylands' many islands. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Zook",
+  "variants": [
+    {
+      "id": "zook",
+      "variant_name": "Zook",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/54/442px-Zook.jpg",
+      "attacks": [
+        "Bazooka Attack",
+        "Foliage Barrier",
+        "Mortar Attack",
+        "Full Splinter Jacket",
+        "Exploding Shrapnel"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Zook"
+    }
+  ]
+}

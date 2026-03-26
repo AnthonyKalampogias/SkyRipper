@@ -1,0 +1,52 @@
+{
+  "id": "whirlwind",
+  "name": "Whirlwind",
+  "species": "Unicorn Dragon\\\"Unidragon\"",
+  "gender": "Female",
+  "element": "Air",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Spyro's Kingdom (scrapped)",
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Lost Islands",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes}}"
+  ],
+  "cameos": "Return of the Dragon King",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Whirlwind is an air dragon with unicorn ancestry – two species that could not be more opposite in nature, which made her never quite fit in with either group. Other dragons were envious of her beauty, while unicorns shunned her for her ability to fly. But Whirlwind found peace within the dark and stormy clouds, where she learned to harness the tempest power within her. Despite her turbulent youth, she was the first to defend both dragons and unicorns when the trolls began hunting them, unleashing her ferocity in a brilliant and powerful rainbow that could be seen throughout many regions of Skylands . From that day forward, evil-doers would quake when dark clouds brewed, and run from the rainbow that followed the storm.",
+  "personality": "Whirlwind is as brave as she is graceful. Her mood swings can be as changeable as the weather, but since becoming a Skylander , she has tried to keep her temper in check. &#91; 3 &#93; &#160;However, she doesn't keep a calm head when provoked. &#91; 4 &#93; Whirlwind is strong-winged, wild and ferocious. But deep down, she is pure of heart, having held no grudge against the dragons and unicorns for shunning her.&#160;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Whirlwind",
+  "variants": [
+    {
+      "id": "whirlwind",
+      "variant_name": "Whirlwind",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Whirlwind.png",
+      "attacks": [
+        "Rainbow of Doom",
+        "Tempest Cloud",
+        "Dragon Flight",
+        "Duel Rainbows",
+        "Atomic Rainbow"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Whirlwind"
+    }
+  ]
+}

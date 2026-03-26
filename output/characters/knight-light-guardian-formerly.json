@@ -1,0 +1,43 @@
+{
+  "id": "knight-light-guardian-formerly",
+  "name": "Knight Light (guardian formerly)",
+  "species": "Unknown",
+  "gender": "Male",
+  "element": "Light",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Radiant City"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Before the destruction of the Core of Light left him stranded in the Light Realm, Knight Light was the protector of the Starlight – the source of light, wisdom and vast energy in Radiant City. But an evil villain known as Luminous wanted the Starlight for himself. Without warning, Luminous attacked, and the two took to the skies in an epic battle which lasted several days. In the end, Knight Light stood victorious and Luminous was imprisoned within Sunscraper Spire so that he could no longer pose a threat to Skylands . Now with his Traptanium blade, Knight Light fights alongside the Trap Team to keep evil at bay!",
+  "personality": "Knight Light is described as pure, gallant, righteous and illuminating. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Knight_Light",
+  "variants": [
+    {
+      "id": "knight-light-guardian-formerly",
+      "variant_name": "Knight Light (guardian formerly)",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/40/Knight_Light_Promo.jpg/revision/latest?cb=20141218040405",
+      "attacks": [
+        "Traptanium Scimitar",
+        "Prismatic Pounce",
+        "Hallowed Ground",
+        "Ascending Strike",
+        "Radiant Radius"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Knight_Light"
+    }
+  ]
+}

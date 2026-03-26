@@ -1,0 +1,42 @@
+{
+  "id": "bone-bash-roller-brawl",
+  "name": "Bone Bash Roller Brawl",
+  "species": "Vampire",
+  "gender": "Female",
+  "element": "Undead",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Unexpected Allies",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Bone_Bash_Roller_Brawl",
+  "variants": [
+    {
+      "id": "bone-bash-roller-brawl",
+      "variant_name": "Bone Bash Roller Brawl",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/39/Bone_Bash_Roller_Brawl_Art.jpg/revision/latest?cb=20150831080428",
+      "attacks": [
+        "Derby Duke",
+        "Fangerang",
+        "Love Bites",
+        "Serious Substitution",
+        "Eat Pavement"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Bone_Bash_Roller_Brawl"
+    }
+  ]
+}

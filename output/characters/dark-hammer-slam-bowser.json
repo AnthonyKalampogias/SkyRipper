@@ -1,0 +1,41 @@
+{
+  "id": "dark-hammer-slam-bowser",
+  "name": "Dark Hammer Slam Bowser",
+  "species": "Koopa",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Mushroom Kingdom"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Hammer_Slam_Bowser",
+  "variants": [
+    {
+      "id": "dark-hammer-slam-bowser",
+      "variant_name": "Dark Hammer Slam Bowser",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Dark_Bowser_Art.jpg/revision/latest?cb=20150909232559",
+      "attacks": [
+        "Hammer Slam",
+        "Koopa Troopa!",
+        "Molten Bowser",
+        "Warp Pipe",
+        "Molten Hammer"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Hammer_Slam_Bowser"
+    }
+  ]
+}

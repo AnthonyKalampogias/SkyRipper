@@ -1,0 +1,4832 @@
+[
+  {
+    "id": "admiral-thumpback",
+    "name": "Admiral Thumpback",
+    "element": "Water",
+    "primary_game": "Skylanders: Lost Islands (September 2013)",
+    "variant_count": 1,
+    "variant_types": [
+      "Giant"
+    ],
+    "variant_ids": [
+      "admiral-thumpback"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Admira%C5%82_Thumbpack.JPG/revision/latest?cb=20140816053424"
+  },
+  {
+    "id": "air-strike",
+    "name": "Air Strike",
+    "element": "Air",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "air-strike"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/75/Air_Strike_Promo.jpg"
+  },
+  {
+    "id": "ambush",
+    "name": "Ambush",
+    "element": "Life",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "ambush"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/85/Ambush_Promo.jpg/revision/latest?cb=20160614032110"
+  },
+  {
+    "id": "astroblast",
+    "name": "Astroblast",
+    "element": "Light",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "astroblast"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/34/Astroblast_Promo_Art.jpg/revision/latest?cb=20150928205136"
+  },
+  {
+    "id": "aurora",
+    "name": "Aurora",
+    "element": "Light",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "aurora"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/83/Aurora_Promo.jpg/revision/latest?cb=20160927195313"
+  },
+  {
+    "id": "autumn-stump-smash",
+    "name": "Autumn Stump Smash",
+    "element": "Life",
+    "primary_game": "Skylanders: Lost Islands (September 2013)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "autumn-stump-smash"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/88/Autumn_Stump_Smash_Promo.jpg/revision/latest?cb=20130905205040"
+  },
+  {
+    "id": "awakened-forms",
+    "name": "Awakened Forms",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "awakened-forms"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Awakened_Skylanders.png"
+  },
+  {
+    "id": "bad-breath",
+    "name": "Bad Breath",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Swap Force"
+    ],
+    "variant_ids": [
+      "bad-breath"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Bad_Breath.png/revision/latest?cb=20161031102516"
+  },
+  {
+    "id": "bad-juju",
+    "name": "Bad Juju",
+    "element": "Air",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "bad-juju"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/cd/BadJuju.png"
+  },
+  {
+    "id": "barbella",
+    "name": "Barbella",
+    "element": "Earth",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "barbella"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Barbella_Promo.jpg/revision/latest?cb=20160927200305"
+  },
+  {
+    "id": "barkley",
+    "name": "Barkley",
+    "element": "Life",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "barkley"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/44/Barkley_Promo.jpg/revision/latest?cb=20140813155839"
+  },
+  {
+    "id": "bash",
+    "name": "Bash",
+    "element": "Earth",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "bash"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/9/9c/Bash.jpg"
+  },
+  {
+    "id": "bat-spin",
+    "name": "Bat Spin",
+    "element": "Undead",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "bat-spin"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/05/Bat_Spin_Promo2.jpg/revision/latest?cb=20150320233553"
+  },
+  {
+    "id": "big-bubble-pop-fizz",
+    "name": "Big Bubble Pop Fizz",
+    "element": "Magic",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "big-bubble-pop-fizz"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/01/Big_Bubble_Pop_Fizz_Promo.jpg/revision/latest?cb=20150907034533"
+  },
+  {
+    "id": "birthday-bash",
+    "name": "Birthday Bash",
+    "element": "Earth",
+    "primary_game": "Skylanders: Lost Islands (November 2013)",
+    "variant_count": 1,
+    "variant_types": [
+      "Giant"
+    ],
+    "variant_ids": [
+      "birthday-bash"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/2/25/BirthdayBash.jpg/revision/latest?cb=20150524043515"
+  },
+  {
+    "id": "birthday-bash-big-bubble-pop-fizz",
+    "name": "Birthday Bash Big Bubble Pop Fizz",
+    "element": "Magic",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "birthday-bash-big-bubble-pop-fizz"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Birthday_Bash_BB_Pop_Fizz.jpg/revision/latest?cb=20160111040932"
+  },
+  {
+    "id": "blackout",
+    "name": "Blackout",
+    "element": "Dark",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "blackout"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/42/Blackout_Promo.jpg/revision/latest?cb=20141218040403"
+  },
+  {
+    "id": "blades",
+    "name": "Blades",
+    "element": "Air",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "blades"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/ff/Blades.png/revision/latest?cb=20170304031523"
+  },
+  {
+    "id": "blast-zone",
+    "name": "Blast Zone",
+    "element": "Fire",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "blast-zone"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Blast_Zone_Art.jpg"
+  },
+  {
+    "id": "blaster-tron",
+    "name": "Blaster-Tron",
+    "element": "Light",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "blaster-tron"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/86/Blaster-Tron.png"
+  },
+  {
+    "id": "blastermind",
+    "name": "Blastermind",
+    "element": "Magic",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "blastermind"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Blastermind_Promo.jpg/revision/latest?cb=20141212181923"
+  },
+  {
+    "id": "bone-bash-roller-brawl",
+    "name": "Bone Bash Roller Brawl",
+    "element": "Undead",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "bone-bash-roller-brawl"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/39/Bone_Bash_Roller_Brawl_Art.jpg/revision/latest?cb=20150831080428"
+  },
+  {
+    "id": "boom-bloom",
+    "name": "Boom Bloom",
+    "element": "Life",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "boom-bloom"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Boom_Bloom_Promo.jpg/revision/latest?cb=20161112054948"
+  },
+  {
+    "id": "boom-jet",
+    "name": "Boom Jet",
+    "element": "Air",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "boom-jet"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/9/9f/Boom_Jet_Promo_Art.jpg"
+  },
+  {
+    "id": "boomer",
+    "name": "Boomer",
+    "element": "Tech",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "boomer"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c4/290px-Boomer_Promo.jpg"
+  },
+  {
+    "id": "bop",
+    "name": "Bop",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "bop"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Bop_Promo.jpg"
+  },
+  {
+    "id": "bouncer",
+    "name": "Bouncer",
+    "element": "Tech",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "bouncer"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/ec/SG_Illus_Bouncer_Crop_LoRes1.jpg/revision/latest?cb=20120930202737"
+  },
+  {
+    "id": "breeze",
+    "name": "Breeze",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "breeze"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/0f/Breeze_Promo.jpg"
+  },
+  {
+    "id": "buckshot",
+    "name": "Buckshot",
+    "element": "Magic",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "buckshot"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Buckshot_Promo.jpg/revision/latest?cb=20161112054954"
+  },
+  {
+    "id": "buddy-wrecking-ball",
+    "name": "Buddy Wrecking Ball",
+    "element": "Magic",
+    "primary_game": "Skylanders: Lost Islands (May 2013)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "buddy-wrecking-ball"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Buddy_Wrecking_Ball_Promo.png/revision/latest?cb=20130504012619"
+  },
+  {
+    "id": "builda-grilla-drilla",
+    "name": "Builda Grilla Drilla",
+    "element": "Life",
+    "primary_game": "Skylanders: Lost IslandsMay 2014",
+    "variant_count": 1,
+    "variant_types": [
+      "Swap Force"
+    ],
+    "variant_ids": [
+      "builda-grilla-drilla"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Builda_Grilla_Drilla.jpg/revision/latest?cb=20210212005932"
+  },
+  {
+    "id": "bumble-blast",
+    "name": "Bumble Blast",
+    "element": "Life",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "bumble-blast"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Bumble_blast.jpg"
+  },
+  {
+    "id": "bushwhack",
+    "name": "Bushwhack",
+    "element": "Life",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "bushwhack"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/68/Bushwhack_Promo.jpg/revision/latest?cb=20140813084342"
+  },
+  {
+    "id": "buttered-pop-thorn",
+    "name": "Buttered Pop Thorn",
+    "element": "Air",
+    "primary_game": "Skylanders: Lost Islands June 2014",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "buttered-pop-thorn"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Buttered_Pop_Thorn_Promo.jpg/revision/latest?cb=20140602232122"
+  },
+  {
+    "id": "camo",
+    "name": "Camo",
+    "element": "Life",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "camo"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/05/Camo_02.jpg"
+  },
+  {
+    "id": "candy-coated-chopscotch",
+    "name": "Candy-Coated Chopscotch",
+    "element": "Undead",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "candy-coated-chopscotch"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/00/Candy-Coated_Chopscotch_Promo.jpg/revision/latest?cb=20161027193333"
+  },
+  {
+    "id": "chain-reaction",
+    "name": "Chain Reaction",
+    "element": "Tech",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "chain-reaction"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/89/Chain_Reaction_Promo.jpg/revision/latest?cb=20161112054955"
+  },
+  {
+    "id": "charming-cobra-cadabra",
+    "name": "Charming Cobra Cadabra",
+    "element": "Magic",
+    "primary_game": "Skylanders: Lost Islands (February 2015)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "charming-cobra-cadabra"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/33/Charming_Cobra_Cadabra.jpg/revision/latest?cb=20150212220920"
+  },
+  {
+    "id": "chill",
+    "name": "Chill",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "chill"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Skylanders-chill-top630.jpg"
+  },
+  {
+    "id": "chompy-mage",
+    "name": "Chompy Mage",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "chompy-mage"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Chompy_Mage_Promo.jpg"
+  },
+  {
+    "id": "chop-chop",
+    "name": "Chop Chop",
+    "element": "Undead",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "chop-chop"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/5/5f/Chop_Chop_Promo.jpg"
+  },
+  {
+    "id": "chopper",
+    "name": "Chopper",
+    "element": "Tech",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "chopper"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/67/Chopper_Promo.jpg/revision/latest?cb=20140424001102"
+  },
+  {
+    "id": "chopscotch",
+    "name": "Chopscotch",
+    "element": "Undead",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "chopscotch"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Chopscotch.png/revision/latest?cb=20160817103507"
+  },
+  {
+    "id": "cobra-cadabra",
+    "name": "Cobra Cadabra",
+    "element": "Magic",
+    "primary_game": "Skylander: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "cobra-cadabra"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Cobra_Cadabra_Promo.jpg/revision/latest?cb=20141001165633"
+  },
+  {
+    "id": "user-blog-cookiecake12347-episode-idea-1",
+    "name": "User blog:Cookiecake12347/episode idea 1",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "user-blog-cookiecake12347-episode-idea-1"
+    ],
+    "image": null
+  },
+  {
+    "id": "core-skylanders",
+    "name": "Core Skylanders",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "core-skylanders"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/12/Blades_Icon.png"
+  },
+  {
+    "id": "countdown",
+    "name": "Countdown",
+    "element": "Tech",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "countdown"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Countdown_Art.jpg"
+  },
+  {
+    "id": "crash-bandicoot",
+    "name": "Crash Bandicoot",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "crash-bandicoot"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Crash_Bandicoot_Imaginators_Art.jpg"
+  },
+  {
+    "id": "crusher",
+    "name": "Crusher",
+    "element": "Earth",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "crusher"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Crusher.jpg"
+  },
+  {
+    "id": "cupid-flameslinger",
+    "name": "Cupid Flameslinger",
+    "element": "Fire",
+    "primary_game": "Skylanders: Lost Islands (February 2013)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "cupid-flameslinger"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/19/Cupid_Flameslinger.jpg/revision/latest?cb=20130203075030"
+  },
+  {
+    "id": "cy",
+    "name": "Cy",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "cy"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Imaginator_Cy.png/revision/latest?cb=20161028195916"
+  },
+  {
+    "id": "cyclops-snail",
+    "name": "Cyclops Snail",
+    "element": "Water",
+    "primary_game": "Spyro's Kingdom (scrapped)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "cyclops-snail"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/a8/Spyro%27sKingdom_CyclopsSnail_Selection.jpg/revision/latest?cb=20211013035523"
+  },
+  {
+    "id": "cynder",
+    "name": "Cynder",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "cynder"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/2/27/Cynder_Promo.jpg"
+  },
+  {
+    "id": "dark-blast-zone",
+    "name": "Dark Blast Zone",
+    "element": "Fire",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "dark-blast-zone"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Dark_Blast_Zone_Promo.jpg/revision/latest?cb=20130819002755"
+  },
+  {
+    "id": "dark-edition-skylanders",
+    "name": "Dark Edition Skylanders",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "dark-edition-skylanders"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/43/Dark_Skylanders_Art.jpg"
+  },
+  {
+    "id": "dark-food-fight",
+    "name": "Dark Food Fight",
+    "element": "Life",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "dark-food-fight"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/a5/Dark_FoodFight_Promo.jpg/revision/latest?cb=20140721214825"
+  },
+  {
+    "id": "dark-golden-queen",
+    "name": "Dark Golden Queen",
+    "element": "Earth",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "dark-golden-queen"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Dark_Golden_Queen_Artwork.jpg/revision/latest?cb=20160914205613"
+  },
+  {
+    "id": "dark-hammer-slam-bowser",
+    "name": "Dark Hammer Slam Bowser",
+    "element": "Fire",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "dark-hammer-slam-bowser"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Dark_Bowser_Art.jpg/revision/latest?cb=20150909232559"
+  },
+  {
+    "id": "dark-king-pen",
+    "name": "Dark King Pen",
+    "element": "Water/Dark",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "dark-king-pen"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/da/Dark_King_Pen_Artwork.jpg/revision/latest?cb=20160914205652"
+  },
+  {
+    "id": "dark-slobber-tooth",
+    "name": "Dark Slobber Tooth",
+    "element": "Earth",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "dark-slobber-tooth"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/8c/Dark_Slobber_Tooth.jpg/revision/latest?cb=20230818001226"
+  },
+  {
+    "id": "dark-snap-shot",
+    "name": "Dark Snap Shot",
+    "element": "Water",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "dark-snap-shot"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/8d/Dark_Snap_Shot_Promo.jpg/revision/latest?cb=20140721141921"
+  },
+  {
+    "id": "dark-spitfire",
+    "name": "Dark Spitfire",
+    "element": "Fire/Dark",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "dark-spitfire"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Dark_Spitfire_Promo.jpg/revision/latest?cb=20150707195756"
+  },
+  {
+    "id": "dark-spyro",
+    "name": "Dark Spyro",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "dark-spyro"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/2/24/300px-Dark-Spyro_01.jpg"
+  },
+  {
+    "id": "dark-stealth-elf",
+    "name": "Dark Stealth Elf",
+    "element": "Life",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "dark-stealth-elf"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/a6/Dark_S3_Stealth_Elf.jpg/revision/latest?cb=20131122182237"
+  },
+  {
+    "id": "dark-super-shot-stealth-elf",
+    "name": "Dark Super Shot Stealth Elf",
+    "element": "Life",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "dark-super-shot-stealth-elf"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Dark_Super_Shot_Stealth_Elf_Promo.jpg/revision/latest?cb=20150909223446"
+  },
+  {
+    "id": "dark-turbo-charge-donkey-kong",
+    "name": "Dark Turbo Charge Donkey Kong",
+    "element": "Life",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "dark-turbo-charge-donkey-kong"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Dark_Donkey_Kong_Art.jpg/revision/latest?cb=20150909223339"
+  },
+  {
+    "id": "dark-wash-buckler",
+    "name": "Dark Wash Buckler",
+    "element": "Water",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "dark-wash-buckler"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Dark_Wash_Buckler_Promo.jpg/revision/latest?cb=20130819004440"
+  },
+  {
+    "id": "dark-wildfire",
+    "name": "Dark Wildfire",
+    "element": "Fire",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "dark-wildfire"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/83/Dark_Wildfire_Promo.jpg/revision/latest?cb=20140721141923"
+  },
+  {
+    "id": "dark-wolfgang",
+    "name": "Dark Wolfgang",
+    "element": "Undead",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "dark-wolfgang"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/03/Dark_Wolfgang_Artwork.jpg/revision/latest?cb=20160914205555"
+  },
+  {
+    "id": "deep-dive-gill-grunt",
+    "name": "Deep Dive Gill Grunt",
+    "element": "Water",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "deep-dive-gill-grunt"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/5/59/Deep_Dive_Gill_Grunt.jpg/revision/latest?cb=20150619185921"
+  },
+  {
+    "id": "dino-rang",
+    "name": "Dino-Rang",
+    "element": "Earth",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "dino-rang"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/32/Dino-Rang.jpg"
+  },
+  {
+    "id": "dive-clops",
+    "name": "Dive-Clops",
+    "element": "Water",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "dive-clops"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/72/Dive-Clops_Promo.jpg/revision/latest?cb=20150621194954"
+  },
+  {
+    "id": "doom-stone",
+    "name": "Doom Stone",
+    "element": "Earth",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "doom-stone"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/14/Doom_Stone_Promo.jpg"
+  },
+  {
+    "id": "double-dare-trigger-happy",
+    "name": "Double Dare Trigger Happy",
+    "element": "Tech",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "double-dare-trigger-happy"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/73/Double_Dare_Trigger_Happy_Art.jpg/revision/latest?cb=20150831080427"
+  },
+  {
+    "id": "double-trouble",
+    "name": "Double Trouble",
+    "element": "Magic",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "double-trouble"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/33/300px-Double-Trouble_03.jpg"
+  },
+  {
+    "id": "dr-krankcase",
+    "name": "Dr. Krankcase",
+    "element": "Tech",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "dr-krankcase"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Dr._Krankcase_Promo.jpg"
+  },
+  {
+    "id": "dr-neo-cortex",
+    "name": "Dr. Neo Cortex",
+    "element": "Tech",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "dr-neo-cortex"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/3c/SI_Ilus_DrNeoCortex_FINAL_HiRes.jpg/revision/latest?cb=20160907090145"
+  },
+  {
+    "id": "drill-sergeant",
+    "name": "Drill Sergeant",
+    "element": "Tech",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "drill-sergeant"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/f9/290px-Drill-Sergeant_03.jpg"
+  },
+  {
+    "id": "drobit",
+    "name": "Drobit",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "drobit"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e3/Drobit_Promo.jpg"
+  },
+  {
+    "id": "drobot",
+    "name": "Drobot",
+    "element": "Tech",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "drobot"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Tht.jpg"
+  },
+  {
+    "id": "dune-bug",
+    "name": "Dune Bug",
+    "element": "Magic",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "dune-bug"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Dune_Bug_Promo.jpg/revision/latest?cb=20141208065814"
+  },
+  {
+    "id": "d-j-vu",
+    "name": "Déjà Vu",
+    "element": "Magic",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "d-j-vu"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/41/D%C3%A9j%C3%A0_Vu_Promo.jpg/revision/latest?cb=20140917183946"
+  },
+  {
+    "id": "echo",
+    "name": "Echo",
+    "element": "Water",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "echo"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Echo.jpg/revision/latest?cb=20221225035655"
+  },
+  {
+    "id": "egg-bomber-air-strike",
+    "name": "Egg Bomber Air Strike",
+    "element": "Air",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "egg-bomber-air-strike"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Egg_Bomber_Air_Strike_Promo.jpg/revision/latest?cb=20161112131913"
+  },
+  {
+    "id": "eggcited-thrillipede",
+    "name": "Eggcited Thrillipede",
+    "element": "Life",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "eggcited-thrillipede"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c6/Eggcited_Thrillipede_Promo.jpg/revision/latest?cb=20160302194139"
+  },
+  {
+    "id": "eggsellent-weeruptor",
+    "name": "Eggsellent Weeruptor",
+    "element": "Fire",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "eggsellent-weeruptor"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/41/Eggsellent_Weeruptor_Promo.jpg/revision/latest?cb=20150212014822"
+  },
+  {
+    "id": "elite-boomer",
+    "name": "Elite Boomer",
+    "element": "Tech",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "elite-boomer"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/a9/Eon%27s_Elite_Boomer.jpg/revision/latest?cb=20170729040953"
+  },
+  {
+    "id": "elite-chop-chop",
+    "name": "Elite Chop Chop",
+    "element": "Undead",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "elite-chop-chop"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Elite_Chop_Chop_Promo.jpg/revision/latest?cb=20161108182734"
+  },
+  {
+    "id": "elite-dino-rang",
+    "name": "Elite Dino-Rang",
+    "element": "Earth",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "elite-dino-rang"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Eon%27s_Elite_Dino-Rang.jpg/revision/latest?cb=20170729040953"
+  },
+  {
+    "id": "elite-eruptor",
+    "name": "Elite Eruptor",
+    "element": "Fire",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "elite-eruptor"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest?cb=20161108182740"
+  },
+  {
+    "id": "elite-ghost-roaster",
+    "name": "Elite Ghost Roaster",
+    "element": "Undead",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "elite-ghost-roaster"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Eon%27s_Elite_Ghost_Roaster.jpg/revision/latest?cb=20170729040954"
+  },
+  {
+    "id": "elite-gill-grunt",
+    "name": "Elite Gill Grunt",
+    "element": "Water",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "elite-gill-grunt"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/2/25/Elite_Gill_Grunt.png/revision/latest?cb=20161108182744"
+  },
+  {
+    "id": "elite-slam-bam",
+    "name": "Elite Slam Bam",
+    "element": "Water",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "elite-slam-bam"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/a2/Eon%27s_Elite_Slam_Bam.jpg/revision/latest?cb=20170729040954"
+  },
+  {
+    "id": "elite-spyro",
+    "name": "Elite Spyro",
+    "element": "Magic",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "elite-spyro"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/07/Elitespyro.png/revision/latest?cb=20161108182747"
+  },
+  {
+    "id": "elite-stealth-elf",
+    "name": "Elite Stealth Elf",
+    "element": "Life",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "elite-stealth-elf"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/09/EliteStealthElf_illustration.png/revision/latest?cb=20161108182751"
+  },
+  {
+    "id": "elite-terrafin",
+    "name": "Elite Terrafin",
+    "element": "Earth",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "elite-terrafin"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e3/EliteTerraFin_illustration.png/revision/latest?cb=20161108182754"
+  },
+  {
+    "id": "elite-trigger-happy",
+    "name": "Elite Trigger Happy",
+    "element": "Tech",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "elite-trigger-happy"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/9/93/Elitetriggerhappy.png/revision/latest?cb=20161108182758"
+  },
+  {
+    "id": "elite-voodood",
+    "name": "Elite Voodood",
+    "element": "Magic",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "elite-voodood"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Eon%27s_Elite_Voodood.jpg/revision/latest?cb=20170729040954"
+  },
+  {
+    "id": "elite-whirlwind",
+    "name": "Elite Whirlwind",
+    "element": "Air",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "elite-whirlwind"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/05/EE_Whirlwind_Promo.jpg/revision/latest?cb=20161108182800"
+  },
+  {
+    "id": "elite-zook",
+    "name": "Elite Zook",
+    "element": "Life",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "elite-zook"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/Eon%27s_Elite_Zook.jpg/revision/latest?cb=20170729040955"
+  },
+  {
+    "id": "ember",
+    "name": "Ember",
+    "element": "Fire",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "ember"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/87/Emberpromo.jpg/revision/latest?cb=20160615082817"
+  },
+  {
+    "id": "enchanted-hoot-loop",
+    "name": "Enchanted Hoot Loop",
+    "element": "Magic",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "enchanted-hoot-loop"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Enchanted_Hoot_Loop_Promo.jpg/revision/latest?cb=20130927174341"
+  },
+  {
+    "id": "enchanted-star-strike",
+    "name": "Enchanted Star Strike",
+    "element": "Magic",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "enchanted-star-strike"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Enchanted_Star_Strike_Promo.jpg/revision/latest?cb=20140309233250"
+  },
+  {
+    "id": "enigma",
+    "name": "Enigma",
+    "element": "Magic",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "enigma"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/09/Enigma_Art.png/revision/latest?cb=20171116073607"
+  },
+  {
+    "id": "eon-s-elite",
+    "name": "Eon's Elite",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "eon-s-elite"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Eons-elite-logo.jpg"
+  },
+  {
+    "id": "eruptor",
+    "name": "Eruptor",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "eruptor"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/65/Erup3.jpg"
+  },
+  {
+    "id": "eye-brawl",
+    "name": "Eye-Brawl",
+    "element": "Undead",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "eye-brawl"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Eye-Brawl_Promo.jpg/revision/latest?cb=20130118221730"
+  },
+  {
+    "id": "eye-small",
+    "name": "Eye-Small",
+    "element": "Undead",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "eye-small"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/9/98/Eye_Small.jpg"
+  },
+  {
+    "id": "festive-edition-skylanders",
+    "name": "Festive Edition Skylanders",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "festive-edition-skylanders"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/38/Jingle_Bell_Chompy_Mage_Icon.png"
+  },
+  {
+    "id": "fiesta",
+    "name": "Fiesta",
+    "element": "Undead",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "fiesta"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Fiesta_Art.jpg/revision/latest?cb=20150620202422"
+  },
+  {
+    "id": "figures",
+    "name": "Figures",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "figures"
+    ],
+    "image": null
+  },
+  {
+    "id": "fire-dragon",
+    "name": "Fire Dragon",
+    "element": "Fire",
+    "primary_game": "Spyro's Kingdom (scrapped)",
+    "variant_count": 1,
+    "variant_types": [
+      "Giant"
+    ],
+    "variant_ids": [
+      "fire-dragon"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/9/94/Red_Spyro.png/revision/latest?cb=20200805210818"
+  },
+  {
+    "id": "fire-kraken",
+    "name": "Fire Kraken",
+    "element": "Fire",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "fire-kraken"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/17/Firekrakenartwork.jpg"
+  },
+  {
+    "id": "fireworks-zook",
+    "name": "Fireworks Zook",
+    "element": "Life",
+    "primary_game": "Skylanders: Lost Islands (July 2013)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "fireworks-zook"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Fireworks_Zook.jpg/revision/latest?cb=20131114032754"
+  },
+  {
+    "id": "fist-bump",
+    "name": "Fist Bump",
+    "element": "Earth",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "fist-bump"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/44/Fist_Bump_Promo.jpg/revision/latest?cb=20140917183945"
+  },
+  {
+    "id": "flameslinger",
+    "name": "Flameslinger",
+    "element": "Fire",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "flameslinger"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/06/Sky_flameslinger.jpg"
+  },
+  {
+    "id": "flare-wolf",
+    "name": "Flare Wolf",
+    "element": "Fire",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "flare-wolf"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Flare_Wolf_Promo.jpg/revision/latest?cb=20161112054950"
+  },
+  {
+    "id": "flashwing",
+    "name": "Flashwing",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "flashwing"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Earth_Flashwing.jpg"
+  },
+  {
+    "id": "fling-kong",
+    "name": "Fling Kong",
+    "element": "Air",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "fling-kong"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Fling_Kong.jpg/revision/latest?cb=20150901011412"
+  },
+  {
+    "id": "flip-flop-fryno",
+    "name": "Flip Flop Fryno",
+    "element": "Fire",
+    "primary_game": "Skylanders: Lost Islands (August 2014)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "flip-flop-fryno"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Flip_Flop_Fryno.jpg/revision/latest?cb=20140813024151"
+  },
+  {
+    "id": "flip-wreck",
+    "name": "Flip Wreck",
+    "element": "Water",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "flip-wreck"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/2/2a/Flip_Wreck.jpg/revision/latest?cb=20161214171853"
+  },
+  {
+    "id": "food-fight",
+    "name": "Food Fight",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "food-fight"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Food_Fight_Promo.jpg"
+  },
+  {
+    "id": "fortune-funny-bone",
+    "name": "Fortune Funny Bone",
+    "element": "Undead",
+    "primary_game": "Skylanders: Lost Islands(March 2015)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "fortune-funny-bone"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/46/Fortune_Funny_Bone_PNG.png/revision/latest?cb=20201208110129"
+  },
+  {
+    "id": "free-ranger",
+    "name": "Free Ranger",
+    "element": "Air",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "free-ranger"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Free_Ranger_Art.jpg"
+  },
+  {
+    "id": "freeze-blade",
+    "name": "Freeze Blade",
+    "element": "Water",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "freeze-blade"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/a6/Freeze_Blade_Promo.jpg"
+  },
+  {
+    "id": "fright-rider",
+    "name": "Fright Rider",
+    "element": "Undead",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "fright-rider"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Fright_Rider_Promo.jpg/revision/latest?cb=20121102050400"
+  },
+  {
+    "id": "frightful-fiesta",
+    "name": "Frightful Fiesta",
+    "element": "Undead",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "frightful-fiesta"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Frightful_Fiesta_Promo.jpg/revision/latest?cb=20150917204235"
+  },
+  {
+    "id": "frito-lay-skylanders",
+    "name": "Frito-Lay Skylanders",
+    "element": null,
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "frito-lay-skylanders"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/3b/FritoLayTrio.png/revision/latest?cb=20140520215012"
+  },
+  {
+    "id": "food-fight",
+    "name": "Food Fight",
+    "element": "Life",
+    "primary_game": "Skylanders: Lost Islands (October 2014)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "food-fight"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/79/Frosted-Food-Fight-final2.png/revision/latest?cb=20201208105521"
+  },
+  {
+    "id": "fryno",
+    "name": "Fryno",
+    "element": "Fire",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "fryno"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Fryno_Promo.jpg"
+  },
+  {
+    "id": "funny-bone",
+    "name": "Funny Bone",
+    "element": "Undead",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "funny-bone"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/2/24/Funny_Bone.png/revision/latest?cb=20171116075227"
+  },
+  {
+    "id": "gearshift",
+    "name": "Gearshift",
+    "element": "Tech",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "gearshift"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/42/Gearshift_Promo.jpg/revision/latest?cb=20140610214032"
+  },
+  {
+    "id": "ghost-roaster",
+    "name": "Ghost Roaster",
+    "element": "Undead",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "ghost-roaster"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Ghost_Roaster.jpg"
+  },
+  {
+    "id": "giants",
+    "name": "Giants",
+    "element": null,
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "giants"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/76/Giants.jpg/revision/latest?cb=20230202022624"
+  },
+  {
+    "id": "gill-grunt",
+    "name": "Gill Grunt",
+    "element": "Water",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "gill-grunt"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/65/Gill_Grunt_Promo.jpg"
+  },
+  {
+    "id": "gill-runt",
+    "name": "Gill Runt",
+    "element": "Water",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "gill-runt"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Gil_Runt_Promo.jpg"
+  },
+  {
+    "id": "gnarly-barkley",
+    "name": "Gnarly Barkley",
+    "element": "Life",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "gnarly-barkley"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/9/90/GnarlyBarkleyArtwork.png/revision/latest?cb=20170205043200"
+  },
+  {
+    "id": "gnarly-tree-rex",
+    "name": "Gnarly Tree Rex",
+    "element": "Life",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "gnarly-tree-rex"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/GnarlyTreeRexPromo.jpg/revision/latest?cb=20121101161125"
+  },
+  {
+    "id": "golden-queen",
+    "name": "Golden Queen",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "golden-queen"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/19/Golden_Queen_Promo_Art.jpeg"
+  },
+  {
+    "id": "gourmet-gusto",
+    "name": "Gourmet Gusto",
+    "element": "Air",
+    "primary_game": "Skylanders: Lost Islands May 2015",
+    "variant_count": 1,
+    "variant_types": [
+      "Trap Master"
+    ],
+    "variant_ids": [
+      "gourmet-gusto"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/db/Gourmet_Gusto.PNG/revision/latest?cb=20150501124811"
+  },
+  {
+    "id": "granite-crusher",
+    "name": "Granite Crusher",
+    "element": "Earth",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "granite-crusher"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Granite_Crusher_Promo.jpg/revision/latest?cb=20121008023755"
+  },
+  {
+    "id": "grave-clobber",
+    "name": "Grave Clobber",
+    "element": "Earth/Water",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "grave-clobber"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/d5/GraveClobber.png"
+  },
+  {
+    "id": "grill-master-chop-chop",
+    "name": "Grill Master Chop Chop",
+    "element": "Undead",
+    "primary_game": "Skylanders: Lost Islands (August 2013)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "grill-master-chop-chop"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/84/Grill_Master_Chop_Chop_Promo.jpg/revision/latest?cb=20130803002205"
+  },
+  {
+    "id": "grilla-drilla",
+    "name": "Grilla Drilla",
+    "element": "Life",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "grilla-drilla"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Grilla_Drilla_Promo_Art.jpg"
+  },
+  {
+    "id": "grim-creeper",
+    "name": "Grim Creeper",
+    "element": "Undead",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "grim-creeper"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Grim_Creeper_Promo_Art.jpg"
+  },
+  {
+    "id": "gusto",
+    "name": "Gusto",
+    "element": "Air",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "gusto"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/49/Gusto_Promo.jpg/revision/latest?cb=20140724193737"
+  },
+  {
+    "id": "hallows-eve-hex",
+    "name": "Hallows' Eve Hex",
+    "element": "Undead",
+    "primary_game": "Skylanders: Lost Islands(October 2014)",
+    "variant_count": 1,
+    "variant_types": [
+      "Swap Force"
+    ],
+    "variant_ids": [
+      "hallows-eve-hex"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/b3/Hallows_Eve_Hex_Promo.png/revision/latest?cb=20201201234532"
+  },
+  {
+    "id": "hammer-slam-bowser",
+    "name": "Hammer Slam Bowser",
+    "element": "Fire",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "hammer-slam-bowser"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/17/Bowser_Art.jpg/revision/latest?cb=20151207114002"
+  },
+  {
+    "id": "hard-boiled-flare-wolf",
+    "name": "Hard-Boiled Flare Wolf",
+    "element": "Fire",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "hard-boiled-flare-wolf"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/9/92/Hard-Boiled_Flare_Wolf_Promo.jpg/revision/latest?cb=20161114235316"
+  },
+  {
+    "id": "head-rush",
+    "name": "Head Rush",
+    "element": "Earth",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "head-rush"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Head_Rush_Promo.jpg/revision/latest?cb=20140813084343"
+  },
+  {
+    "id": "heartbreaker-buckshot",
+    "name": "Heartbreaker Buckshot",
+    "element": "Magic",
+    "primary_game": "Skylanders: Imaginators (scrapped, still in game files)",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "heartbreaker-buckshot"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Heartbreaker_Buckshot_Promo.jpg/revision/latest?cb=20161112131916"
+  },
+  {
+    "id": "hex",
+    "name": "Hex",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "hex"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/48/290px-Hex.jpg"
+  },
+  {
+    "id": "high-five",
+    "name": "High Five",
+    "element": "Life",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "high-five"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/5/59/High_Five.jpg/revision/latest?cb=20140922203655"
+  },
+  {
+    "id": "high-noon-trigger-happy",
+    "name": "High Noon Trigger Happy",
+    "element": "Tech",
+    "primary_game": "Skylanders: Battlecast",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "high-noon-trigger-happy"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/5/57/Quick_Draw_-_Special_Abilitycard.png/revision/latest?cb=20160801170117"
+  },
+  {
+    "id": "high-volt",
+    "name": "High Volt",
+    "element": "Tech",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "high-volt"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/01/High_Volt_Art.jpg/revision/latest?cb=20160801161736"
+  },
+  {
+    "id": "hijinx",
+    "name": "Hijinx",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "hijinx"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Hijinx_Promo.jpg"
+  },
+  {
+    "id": "holiday-wash-buckler",
+    "name": "Holiday Wash Buckler",
+    "element": "Water",
+    "primary_game": "Skylanders: Lost Islands (December 2013)",
+    "variant_count": 1,
+    "variant_types": [
+      "Swap Force"
+    ],
+    "variant_ids": [
+      "holiday-wash-buckler"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/46/HolidayWashBuckler.jpg/revision/latest?cb=20140704041631"
+  },
+  {
+    "id": "hood-sickle",
+    "name": "Hood Sickle",
+    "element": "Undead/Dark",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "hood-sickle"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/aa/Hood-Sickle_Promo.jpg"
+  },
+  {
+    "id": "hoot-loop",
+    "name": "Hoot Loop",
+    "element": "Magic",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "hoot-loop"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/77/HootLoop2.jpg"
+  },
+  {
+    "id": "hoppity-pop-fizz",
+    "name": "Hoppity Pop Fizz",
+    "element": "Magic",
+    "primary_game": "Skylanders: Lost Islands (April 2013)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "hoppity-pop-fizz"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/79/Hoppity_Pop_Fizz_artwork.png/revision/latest?cb=20130430165105"
+  },
+  {
+    "id": "hot-dog",
+    "name": "Hot Dog",
+    "element": "Fire",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "hot-dog"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Hot_Dog_Promo.jpg"
+  },
+  {
+    "id": "hot-head",
+    "name": "Hot Head",
+    "element": "Fire",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "hot-head"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/b2/Hot_Head_Promo.jpg/revision/latest?cb=20121117065411"
+  },
+  {
+    "id": "hurricane-jet-vac",
+    "name": "Hurricane Jet-Vac",
+    "element": "Air",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "hurricane-jet-vac"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Hurricane_Jet-Vac_Art.jpg/revision/latest?cb=20150831080907"
+  },
+  {
+    "id": "ignitor",
+    "name": "Ignitor",
+    "element": "Fire",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "ignitor"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/9/9f/270px-Sky_ignitor.jpg"
+  },
+  {
+    "id": "imaginators",
+    "name": "Imaginators",
+    "element": null,
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "imaginators"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/38/Imaginator_Example.jpg/revision/latest?cb=20160602084212"
+  },
+  {
+    "id": "instant-dive-clops",
+    "name": "Instant Dive-Clops",
+    "element": "Water",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "instant-dive-clops"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/de/Instant_Dive_Clops.jpg/revision/latest?cb=20151109183637"
+  },
+  {
+    "id": "instant-food-fight",
+    "name": "Instant Food Fight",
+    "element": "Life",
+    "primary_game": "Skylanders: Trap Team (Tablet version)",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "instant-food-fight"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Instant_Food_Fight_Artwork.png/revision/latest?cb=20170303181311"
+  },
+  {
+    "id": "instant-skylanders",
+    "name": "Instant Skylanders",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "instant-skylanders"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Instant_Food_Fight_Icon.png"
+  },
+  {
+    "id": "instant-snap-shot",
+    "name": "Instant Snap Shot",
+    "element": "Water",
+    "primary_game": "Skylanders: Trap Team (Tablet version)",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "instant-snap-shot"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Instant_Snap_Shot_Artwork.png/revision/latest?cb=20170303181309"
+  },
+  {
+    "id": "instant-spitfire",
+    "name": "Instant Spitfire",
+    "element": "Fire",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "instant-spitfire"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Instant_Spitfire.jpg/revision/latest?cb=20170213015025"
+  },
+  {
+    "id": "instant-super-shot-stealth-elf",
+    "name": "Instant Super Shot Stealth Elf",
+    "element": "Life",
+    "primary_game": "Skylanders: SuperChargers (iOS) (in the game files of the console versions)",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "instant-super-shot-stealth-elf"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Instant_Stealth_Elf.png/revision/latest?cb=20160129094820"
+  },
+  {
+    "id": "jade-fire-kraken",
+    "name": "Jade Fire Kraken",
+    "element": "Fire",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "jade-fire-kraken"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/42/Jade_Fire_Kraken_Promo.jpg/revision/latest?cb=20140624200704"
+  },
+  {
+    "id": "jade-flashwing",
+    "name": "Jade Flashwing",
+    "element": "Earth",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "jade-flashwing"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/36/Jade_Flashwing_Promo.jpg/revision/latest?cb=20130323035453"
+  },
+  {
+    "id": "jawbreaker-character",
+    "name": "Jawbreaker (character)",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "jawbreaker-character"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/16/Jawbreaker_Promo.jpg"
+  },
+  {
+    "id": "jet-vac",
+    "name": "Jet-Vac",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "jet-vac"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Jet_Vac_Promo.jpg"
+  },
+  {
+    "id": "jingle-bell-chompy-mage",
+    "name": "Jingle Bell Chompy Mage",
+    "element": "Life",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "jingle-bell-chompy-mage"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/05/Jingle_Bell_Chompy_Mage_Promo.jpg/revision/latest?cb=20161112131915"
+  },
+  {
+    "id": "jolly-bumble-blast",
+    "name": "Jolly Bumble Blast",
+    "element": "Life",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "jolly-bumble-blast"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Jolly_Bumble_Blast_Promo.jpg/revision/latest?cb=20131213214001"
+  },
+  {
+    "id": "ka-boom",
+    "name": "Ka-Boom",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "ka-boom"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Kaboom_Promo.jpg"
+  },
+  {
+    "id": "kaos",
+    "name": "Kaos",
+    "element": "Kaos",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "kaos"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/30/Kaos_Sensei_Promo.jpg/revision/latest?cb=20160817084040"
+  },
+  {
+    "id": "kickoff-countdown",
+    "name": "Kickoff Countdown",
+    "element": "Tech",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "kickoff-countdown"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Kickoff_Countdown_Promo.jpg/revision/latest?cb=20140530202351"
+  },
+  {
+    "id": "king-cobra-cadabra",
+    "name": "King Cobra Cadabra",
+    "element": "Magic",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "king-cobra-cadabra"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/fc/Kingcobracadabra.jpg/revision/latest?cb=20170205043202"
+  },
+  {
+    "id": "king-pen",
+    "name": "King Pen",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "king-pen"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/cf/King_Pen_Promo.jpg"
+  },
+  {
+    "id": "knight-light-guardian-formerly",
+    "name": "Knight Light (guardian formerly)",
+    "element": "Light",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "knight-light-guardian-formerly"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/40/Knight_Light_Promo.jpg/revision/latest?cb=20141218040405"
+  },
+  {
+    "id": "knight-mare",
+    "name": "Knight Mare",
+    "element": "Dark",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "knight-mare"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/79/Knight_Mare_Promo.jpg/revision/latest?cb=20141218040407"
+  },
+  {
+    "id": "knockout-jawbreaker",
+    "name": "Knockout Jawbreaker",
+    "element": "Tech",
+    "primary_game": "Skylanders: Lost Islands (November 2014)",
+    "variant_count": 1,
+    "variant_types": [
+      "Trap Master"
+    ],
+    "variant_ids": [
+      "knockout-jawbreaker"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c3/KO_Jawbreaker.jpg/revision/latest?cb=20141101091900"
+  },
+  {
+    "id": "krypt-king",
+    "name": "Krypt King",
+    "element": "Undead",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "krypt-king"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/44/Krypt_King_Promo.jpg/revision/latest?cb=20140619165830"
+  },
+  {
+    "id": "lava-lance-eruptor",
+    "name": "Lava Lance Eruptor",
+    "element": "Fire",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "lava-lance-eruptor"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/01/Lava_Lance_Eruptor_Artwork.jpeg/revision/latest?cb=20151110231734"
+  },
+  {
+    "id": "legendary-astroblast",
+    "name": "Legendary Astroblast",
+    "element": "Light",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-astroblast"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/84/L-Astroblast_Promo.jpg/revision/latest?cb=20151016202115"
+  },
+  {
+    "id": "legendary-bash",
+    "name": "Legendary Bash",
+    "element": "Earth",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-bash"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/L-Bash.jpg"
+  },
+  {
+    "id": "legendary-blades",
+    "name": "Legendary Blades",
+    "element": "Air",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-blades"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Blades_Legendary.png/revision/latest?cb=20170304031545"
+  },
+  {
+    "id": "legendary-bone-bash-roller-brawl",
+    "name": "Legendary Bone Bash Roller Brawl",
+    "element": "Undead",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-bone-bash-roller-brawl"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e4/11849849_1612633442332621_535269205_n.jpg/revision/latest?cb=20151017115428"
+  },
+  {
+    "id": "legendary-bouncer",
+    "name": "Legendary Bouncer",
+    "element": "Tech",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-bouncer"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/d7/L-Bouncer.jpg/revision/latest?cb=20170212044708"
+  },
+  {
+    "id": "legendary-bushwhack",
+    "name": "Legendary Bushwhack",
+    "element": "Life",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-bushwhack"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/be/LegendaryBushwhack.png/revision/latest?cb=20170304031643"
+  },
+  {
+    "id": "legendary-chill",
+    "name": "Legendary Chill",
+    "element": "Water",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-chill"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/16/Legendary_Chill_Promo.jpg/revision/latest?cb=20130325172626"
+  },
+  {
+    "id": "legendary-chop-chop",
+    "name": "Legendary Chop Chop",
+    "element": "Undead",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-chop-chop"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/cb/L-Chop_Chop.jpg"
+  },
+  {
+    "id": "legendary-d-j-vu",
+    "name": "Legendary Déjà Vu",
+    "element": "Magic",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-d-j-vu"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/74/DejaVu_Legendary.png/revision/latest?cb=20170304031600"
+  },
+  {
+    "id": "legendary-free-ranger",
+    "name": "Legendary Free Ranger",
+    "element": "Air",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-free-ranger"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Legendary_Free_Ranger.png/revision/latest?cb=20170304031628"
+  },
+  {
+    "id": "legendary-grim-creeper",
+    "name": "Legendary Grim Creeper",
+    "element": "Undead",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-grim-creeper"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/ae/L-Grim_Creeper_Promo_Art.jpg/revision/latest?cb=20131010161158"
+  },
+  {
+    "id": "legendary-hurricane-jet-vac",
+    "name": "Legendary Hurricane Jet-Vac",
+    "element": "Air",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-hurricane-jet-vac"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c0/Legendary_Hurricane_Jet-Vac_Promo.jpg/revision/latest?cb=20150915000123"
+  },
+  {
+    "id": "legendary-ignitor",
+    "name": "Legendary Ignitor",
+    "element": "Fire",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-ignitor"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/f2/L-Ignitor_Promo.jpg/revision/latest?cb=20170304031709"
+  },
+  {
+    "id": "legendary-jawbreaker",
+    "name": "Legendary Jawbreaker",
+    "element": "Tech",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-jawbreaker"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/66/JawBreaker_Legendary.png/revision/latest?cb=20170304031613"
+  },
+  {
+    "id": "legendary-jet-vac",
+    "name": "Legendary Jet-Vac",
+    "element": "Air",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-jet-vac"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/d1/L-JetVac_Promo.jpg/revision/latest?cb=20170304031722"
+  },
+  {
+    "id": "legendary-night-shift",
+    "name": "Legendary Night Shift",
+    "element": "Undead",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-night-shift"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c0/Legendary_Night_Shift_Promo.jpg/revision/latest?cb=20131113043702"
+  },
+  {
+    "id": "legendary-pit-boss",
+    "name": "Legendary Pit Boss",
+    "element": "Undead",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "legendary-pit-boss"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Legendary_Pit_Boss_Promo.jpg/revision/latest?cb=20161112131915"
+  },
+  {
+    "id": "legendary-skylanders",
+    "name": "Legendary Skylanders",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "legendary-skylanders"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/70/Legendary_Bash_Icon.png"
+  },
+  {
+    "id": "legendary-slam-bam",
+    "name": "Legendary Slam Bam",
+    "element": "Water",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-slam-bam"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/2/2a/L-SlamBam_Promo.jpg/revision/latest?cb=20170304031745"
+  },
+  {
+    "id": "legendary-spyro",
+    "name": "Legendary Spyro",
+    "element": "Magic",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-spyro"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/2/2c/L-Spyro.jpg"
+  },
+  {
+    "id": "legendarystealth-elf",
+    "name": "LegendaryStealth Elf",
+    "element": "Life",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendarystealth-elf"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/69/L-StealthElf_Promo.jpg/revision/latest?cb=20170304031802"
+  },
+  {
+    "id": "legendary-tri-tip",
+    "name": "Legendary Tri-Tip",
+    "element": "Earth",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "legendary-tri-tip"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/9/96/Legendary_Tri-Tip.jpg/revision/latest?cb=20161009005520"
+  },
+  {
+    "id": "legendary-trigger-happy",
+    "name": "Legendary Trigger Happy",
+    "element": "Tech",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-trigger-happy"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Legendary_Trigger_Happy.jpg"
+  },
+  {
+    "id": "legendary-zoo-lou",
+    "name": "Legendary Zoo Lou",
+    "element": "Life",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "legendary-zoo-lou"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Legendary-zoo-lou.png/revision/latest?cb=20170304031657"
+  },
+  {
+    "id": "light-flashwing",
+    "name": "Light Flashwing",
+    "element": "Light",
+    "primary_game": "Skylanders: Ring of Heroes",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "light-flashwing"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Light_Flashwing.jpg/revision/latest?cb=20181213185642"
+  },
+  {
+    "id": "light-hex",
+    "name": "Light Hex",
+    "element": "Light",
+    "primary_game": "Skylanders: Ring of Heroes",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "light-hex"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/34/Light_Hex_Model.png/revision/latest?cb=20180802221946"
+  },
+  {
+    "id": "light-jet-vac",
+    "name": "Light Jet-Vac",
+    "element": "Light",
+    "primary_game": "Skylanders: Ring of Heroes (Beta and 1.0)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "light-jet-vac"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e3/Light_Jet_Vac.png/revision/latest?cb=20180617154112"
+  },
+  {
+    "id": "lightcore-skylanders",
+    "name": "LightCore Skylanders",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Swap Force"
+    ],
+    "variant_ids": [
+      "lightcore-skylanders"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Lightcore_Logo.png"
+  },
+  {
+    "id": "lightning-rod",
+    "name": "Lightning Rod",
+    "element": "Air",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "lightning-rod"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/65/LightningRod_01.jpg"
+  },
+  {
+    "id": "lob-star",
+    "name": "Lob-Star",
+    "element": "Water",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "lob-star"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Lob-Star.png/revision/latest?cb=20141013023227"
+  },
+  {
+    "id": "love-potion-pop-fizz",
+    "name": "Love Potion Pop Fizz",
+    "element": "Magic",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "love-potion-pop-fizz"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/7c/LPPopFizz.png/revision/latest?cb=20170304031733"
+  },
+  {
+    "id": "lucky-boomer",
+    "name": "Lucky Boomer",
+    "element": "Tech",
+    "primary_game": "Skylanders: Lost Islands (March 2013)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "lucky-boomer"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/84/Lucky_Boomer.png/revision/latest?cb=20130301210327"
+  },
+  {
+    "id": "magna-charge",
+    "name": "Magna Charge",
+    "element": "Tech",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "magna-charge"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Magna_Charge_Art.jpg"
+  },
+  {
+    "id": "merry-snap-shot",
+    "name": "Merry Snap Shot",
+    "element": "Water",
+    "primary_game": "Skylanders: Lost Islands (December 2014)",
+    "variant_count": 1,
+    "variant_types": [
+      "Trap Master"
+    ],
+    "variant_ids": [
+      "merry-snap-shot"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/5/5f/Merry_Snap_Shot_Box.jpg/revision/latest?cb=20141201041200"
+  },
+  {
+    "id": "metal-mages",
+    "name": "Metal Mages",
+    "element": "Air",
+    "primary_game": "Skylanders: Trap Team (Console)",
+    "variant_count": 1,
+    "variant_types": [
+      "Giant"
+    ],
+    "variant_ids": [
+      "metal-mages"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Metal_Mage_Mystic_Mill_Troll.png/revision/latest?cb=20200513170339"
+  },
+  {
+    "id": "mini-jini",
+    "name": "Mini-Jini",
+    "element": "Magic",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "mini-jini"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Mini_jini.jpg"
+  },
+  {
+    "id": "minis",
+    "name": "Minis",
+    "element": null,
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "minis"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Minis_Comic.jpg/revision/latest?cb=20160531051131"
+  },
+  {
+    "id": "missile-tow-dive-clops",
+    "name": "Missile-Tow Dive-Clops",
+    "element": "Water",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "missile-tow-dive-clops"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Missile_Toe_Dive_Clops_Promo.jpg/revision/latest?cb=20151118070120"
+  },
+  {
+    "id": "molten-hot-dog",
+    "name": "Molten Hot Dog",
+    "element": "Fire",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "molten-hot-dog"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/9/99/Molten_Hot_Dog_Promo.jpg/revision/latest?cb=20130306023415"
+  },
+  {
+    "id": "mystic-star-strike",
+    "name": "Mystic Star Strike",
+    "element": "Magic",
+    "primary_game": "Skylanders: Lost Islands(September 2014)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "mystic-star-strike"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/05/Mystic_Star_Strike.jpg/revision/latest?cb=20210212005553"
+  },
+  {
+    "id": "mystical-bad-juju",
+    "name": "Mystical Bad Juju",
+    "element": "Air",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "mystical-bad-juju"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Mystical_Bad_Juju_Promo.jpg/revision/latest?cb=20161112131914"
+  },
+  {
+    "id": "mystical-tae-kwon-crow",
+    "name": "Mystical Tae Kwon Crow",
+    "element": "Fire",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "mystical-tae-kwon-crow"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/Mystical_Tae_Kwon_Crow_Promo.jpg/revision/latest?cb=20161112131915"
+  },
+  {
+    "id": "mysticat",
+    "name": "Mysticat",
+    "element": "Magic",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "mysticat"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/6d/Mysticat_Promo.jpg/revision/latest?cb=20160927195737"
+  },
+  {
+    "id": "new-year-s-countdown",
+    "name": "New Year's Countdown",
+    "element": "Tech",
+    "primary_game": "Skylanders: Lost Islands (January 2014)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "new-year-s-countdown"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/a4/New_Year%27s_Countdown.png/revision/latest?cb=20131231095454"
+  },
+  {
+    "id": "night-shift",
+    "name": "Night Shift",
+    "element": "Undead",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "night-shift"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Night_Shift_Art.jpg"
+  },
+  {
+    "id": "nightfall",
+    "name": "Nightfall",
+    "element": "Dark",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "nightfall"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/6a/Nightfall_Art.jpg/revision/latest?cb=20150831080908"
+  },
+  {
+    "id": "ninjini",
+    "name": "Ninjini",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "ninjini"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/78/Ninjini_Promo.jpg"
+  },
+  {
+    "id": "nitro-freeze-blade",
+    "name": "Nitro Freeze Blade",
+    "element": "Water",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "nitro-freeze-blade"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/9/9d/Nitro_Freeze_Blade.png/revision/latest?cb=20140315012421"
+  },
+  {
+    "id": "nitro-head-rush",
+    "name": "Nitro Head Rush",
+    "element": "Earth",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "nitro-head-rush"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/f2/MAIN-IMAGE_NitroHeadRush.png/revision/latest?cb=20170304031814"
+  },
+  {
+    "id": "nitro-krypt-king",
+    "name": "Nitro Krypt King",
+    "element": "Undead",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "nitro-krypt-king"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Nitro_Krypt_King_Promo.jpg/revision/latest?cb=20140912005820"
+  },
+  {
+    "id": "nitro-magna-charge",
+    "name": "Nitro Magna Charge",
+    "element": "Tech",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "nitro-magna-charge"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/78/Nitro_Magna_Charge.png/revision/latest?cb=20170304031832"
+  },
+  {
+    "id": "nitro-skylanders",
+    "name": "Nitro Skylanders",
+    "element": null,
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "nitro-skylanders"
+    ],
+    "image": null
+  },
+  {
+    "id": "obsidian-hot-head",
+    "name": "Obsidian Hot Head",
+    "element": "Fire",
+    "primary_game": "Skylanders: Battlecast",
+    "variant_count": 1,
+    "variant_types": [
+      "Giant"
+    ],
+    "variant_ids": [
+      "obsidian-hot-head"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/19/Fiery_Outburst_-_Special_Abilitycard.png/revision/latest?cb=20160801164959"
+  },
+  {
+    "id": "pain-yatta",
+    "name": "Pain-Yatta",
+    "element": "Magic",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "pain-yatta"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/38/Painyatta_Promo.jpg"
+  },
+  {
+    "id": "pet-vac",
+    "name": "Pet-Vac",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "pet-vac"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/PetVac_Promo.jpg"
+  },
+  {
+    "id": "pit-boss",
+    "name": "Pit Boss",
+    "element": "Undead",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "pit-boss"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/b0/Pit_Boss_Promo.jpg/revision/latest?cb=20160914194009"
+  },
+  {
+    "id": "polar-whirlwind",
+    "name": "Polar Whirlwind",
+    "element": "Air",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "polar-whirlwind"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Polar_Whirlwind1.jpg/revision/latest?cb=20130408180417"
+  },
+  {
+    "id": "pop-fizz",
+    "name": "Pop Fizz",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "pop-fizz"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/7b/PopFizz.jpg"
+  },
+  {
+    "id": "pop-thorn",
+    "name": "Pop Thorn",
+    "element": "Air",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "pop-thorn"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Pop_Thorn.jpg/revision/latest?cb=20131019000653"
+  },
+  {
+    "id": "power-blue-ember",
+    "name": "Power Blue Ember",
+    "element": "Fire",
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "power-blue-ember"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/Phillip-worobey-ember-power-blue.jpg/revision/latest?cb=20230109004455"
+  },
+  {
+    "id": "power-blue-splat",
+    "name": "Power Blue Splat",
+    "element": "Magic",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "power-blue-splat"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/c2/PB_Splat.jpg/revision/latest?cb=20160302194748"
+  },
+  {
+    "id": "power-blue-trigger-happy",
+    "name": "Power Blue Trigger Happy",
+    "element": "Tech",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "power-blue-trigger-happy"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/a9/PB_Double_Dare_Trigger_Happy.jpg/revision/latest?cb=20160308221955"
+  },
+  {
+    "id": "power-blues",
+    "name": "Power Blues",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "power-blues"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Power_Blues.jpg"
+  },
+  {
+    "id": "power-punch-pet-vac",
+    "name": "Power Punch Pet Vac",
+    "element": "Air",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "power-punch-pet-vac"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/69/Power_Punch_Pet-Vac_Promo.jpg/revision/latest?cb=20150212014821"
+  },
+  {
+    "id": "prism-break",
+    "name": "Prism Break",
+    "element": "Earth",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "prism-break"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/da/Prism_Break.jpg"
+  },
+  {
+    "id": "punch-pop-fizz",
+    "name": "Punch Pop Fizz",
+    "element": "Magic",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "punch-pop-fizz"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e7/Punch_pop_fizz.png/revision/latest?cb=20130414110714"
+  },
+  {
+    "id": "punk-shock",
+    "name": "Punk Shock",
+    "element": "Water",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "punk-shock"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/f0/Punkshock.jpg/revision/latest?cb=20131231034556"
+  },
+  {
+    "id": "quickdraw-rattle-shake",
+    "name": "Quickdraw Rattle Shake",
+    "element": "Undead",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "quickdraw-rattle-shake"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Quickdraw_Rattle_Shake.png/revision/latest?cb=20170304031847"
+  },
+  {
+    "id": "rattle-shake",
+    "name": "Rattle Shake",
+    "element": "Undead",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "rattle-shake"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/31/RattleShake2.jpg"
+  },
+  {
+    "id": "rip-tide",
+    "name": "Rip Tide",
+    "element": "Water",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "rip-tide"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Rip_Tide_cpromo.jpg/revision/latest?cb=20140617031054"
+  },
+  {
+    "id": "ro-bow",
+    "name": "Ro-Bow",
+    "element": "Tech",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "ro-bow"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/82/Ro-Bow_Promo.jpg"
+  },
+  {
+    "id": "rocky-egg-roll",
+    "name": "Rocky Egg Roll",
+    "element": "Earth",
+    "primary_game": "Skylanders: Lost Islands (April 2015)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "rocky-egg-roll"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/cb/Rocky_Egg_Roll.jpg/revision/latest?cb=20150401043011"
+  },
+  {
+    "id": "rocky-roll",
+    "name": "Rocky Roll",
+    "element": "Earth",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "rocky-roll"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Rocky_Roll_Promo.jpg/revision/latest?cb=20150315230107"
+  },
+  {
+    "id": "roller-brawl",
+    "name": "Roller Brawl",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "roller-brawl"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/8c/Roller_Brawl2.jpg"
+  },
+  {
+    "id": "royal-double-trouble",
+    "name": "Royal Double Trouble",
+    "element": "Magic",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "royal-double-trouble"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/69/Royal_Double_Trouble_.png/revision/latest?cb=20170306064121"
+  },
+  {
+    "id": "rubble-rouser",
+    "name": "Rubble Rouser",
+    "element": "Earth",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "rubble-rouser"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Rubble_Rouser_%282%29.png"
+  },
+  {
+    "id": "scarlet-ninjini",
+    "name": "Scarlet Ninjini",
+    "element": "Magic",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "scarlet-ninjini"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/5/59/Scarlet_Ninjini_Promo.jpg/revision/latest?cb=20130520181252"
+  },
+  {
+    "id": "scorp",
+    "name": "Scorp",
+    "element": "Earth",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "scorp"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Scorp-promo.jpg/revision/latest?cb=20140617030938"
+  },
+  {
+    "id": "scratch",
+    "name": "Scratch",
+    "element": "Air",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "scratch"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Scratch_Promo.jpg/revision/latest?cb=20140313203454"
+  },
+  {
+    "id": "senseis",
+    "name": "Senseis",
+    "element": null,
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "senseis"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Senseis.png/revision/latest?cb=20160902002408"
+  },
+  {
+    "id": "shark-shooter-terrafin",
+    "name": "Shark Shooter Terrafin",
+    "element": "Earth",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "shark-shooter-terrafin"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/Shark_Shooter_Terrafin.jpg/revision/latest?cb=20150619191845"
+  },
+  {
+    "id": "short-cut",
+    "name": "Short Cut",
+    "element": "Undead",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "short-cut"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/86/Short_Cut_Promo.jpg/revision/latest?cb=20141001165634"
+  },
+  {
+    "id": "shroomboom",
+    "name": "Shroomboom",
+    "element": "Life",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "shroomboom"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/41/Screenshot_48056.jpg"
+  },
+  {
+    "id": "sir-hoodington",
+    "name": "Sir Hoodington",
+    "element": "Fire",
+    "primary_game": "Skylanders: Creator",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "sir-hoodington"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/5/59/Sir_Hoodington.png/revision/latest?cb=20161231001521"
+  },
+  {
+    "id": "skeletal-cynder",
+    "name": "Skeletal Cynder",
+    "element": "Undead",
+    "primary_game": "Skylanders: Lost Islands (October 2013)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "skeletal-cynder"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/6f/Skeletal_Cynder.jpg/revision/latest?cb=20131114033837"
+  },
+  {
+    "id": "skylanders",
+    "name": "Skylanders",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "skylanders"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/5/5d/Skylanders.jpg"
+  },
+  {
+    "id": "slam-bam",
+    "name": "Slam Bam",
+    "element": "Water",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "slam-bam"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/f2/300px-SlamBam_01.jpg"
+  },
+  {
+    "id": "slobber-tooth",
+    "name": "Slobber Tooth",
+    "element": "Earth",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "slobber-tooth"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Slobber_Tooth_Promo_Art.jpg/revision/latest?cb=20130821081127"
+  },
+  {
+    "id": "small-fry",
+    "name": "Small Fry",
+    "element": "Fire",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "small-fry"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Small_Fry_Promo.jpg/revision/latest?cb=20140813084342"
+  },
+  {
+    "id": "smash-hit",
+    "name": "Smash Hit",
+    "element": "Earth",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "smash-hit"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e7/Smash_Hit_Promo.jpg/revision/latest?cb=20151006092205"
+  },
+  {
+    "id": "smolderdash",
+    "name": "Smolderdash",
+    "element": "Fire",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "smolderdash"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Smolderdash.png"
+  },
+  {
+    "id": "snap-shot",
+    "name": "Snap Shot",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "snap-shot"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/2/26/Snap_Shot_Promo.jpg"
+  },
+  {
+    "id": "snowler-brawl",
+    "name": "Snowler Brawl",
+    "element": "Undead",
+    "primary_game": "Skylanders: Lost Islands (December 2013)",
+    "variant_count": 1,
+    "variant_types": [
+      "Swap Force"
+    ],
+    "variant_ids": [
+      "snowler-brawl"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Snowler_Brawl_Promo.jpg/revision/latest?cb=20131218033249"
+  },
+  {
+    "id": "solar-flare-aurora",
+    "name": "Solar Flare Aurora",
+    "element": "Light",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "solar-flare-aurora"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest?cb=20161112131916"
+  },
+  {
+    "id": "sonic-boom",
+    "name": "Sonic Boom",
+    "element": "Air",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "sonic-boom"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Sonic_Boom_shot.jpg"
+  },
+  {
+    "id": "spitfire",
+    "name": "Spitfire",
+    "element": "Fire",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "spitfire"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Spitfire_Promo.jpg/revision/latest?cb=20150603211841"
+  },
+  {
+    "id": "splat",
+    "name": "Splat",
+    "element": "Magic",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "splat"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/4/44/Splat_Promo.jpg/revision/latest?cb=20150907034326"
+  },
+  {
+    "id": "spotlight",
+    "name": "Spotlight",
+    "element": "Light",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "spotlight"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Spotlight_Promo.jpg/revision/latest?cb=20221225040407"
+  },
+  {
+    "id": "springtime-trigger-happy",
+    "name": "Springtime Trigger Happy",
+    "element": "Tech",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "springtime-trigger-happy"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest?cb=20140311183832"
+  },
+  {
+    "id": "sprocket",
+    "name": "Sprocket",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "sprocket"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Sprocket_Promo.jpg"
+  },
+  {
+    "id": "spry",
+    "name": "Spry",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "spry"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/2/22/Spry_Promo.jpg"
+  },
+  {
+    "id": "spy-rise",
+    "name": "Spy Rise",
+    "element": "Tech",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "spy-rise"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Spyrise.jpg"
+  },
+  {
+    "id": "spyro",
+    "name": "Spyro",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "spyro"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/73/Spyro.jpg"
+  },
+  {
+    "id": "star-strike",
+    "name": "Star Strike",
+    "element": "Magic",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "star-strike"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/03/Star_Strike.jpg"
+  },
+  {
+    "id": "starcast",
+    "name": "Starcast",
+    "element": "Dark",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "starcast"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/f2/SI_Ilus_Starcast_FINAL.png/revision/latest?cb=20160817073729"
+  },
+  {
+    "id": "stealth-elf",
+    "name": "Stealth Elf",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "stealth-elf"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Stealth_Elf_Promo.jpg"
+  },
+  {
+    "id": "steel-plated-hood-sickle",
+    "name": "Steel Plated Hood Sickle",
+    "element": "Dark",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "steel-plated-hood-sickle"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/16/Steel_Plated_Hood_Sickle_Promo.jpg/revision/latest?cb=20160924052738"
+  },
+  {
+    "id": "steel-plated-smash-hit",
+    "name": "Steel Plated Smash Hit",
+    "element": "Earth",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "steel-plated-smash-hit"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/2/26/Steel_Plated_Smash_Hit_Promo.jpg/revision/latest?cb=20150916001718"
+  },
+  {
+    "id": "stink-bomb",
+    "name": "Stink Bomb",
+    "element": "Life",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "stink-bomb"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/ff/Stink_Bomb_Promo_Art.jpg"
+  },
+  {
+    "id": "stormblade",
+    "name": "Stormblade",
+    "element": "Air",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "stormblade"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Stormblade.jpg/revision/latest?cb=20150603210039"
+  },
+  {
+    "id": "stump-smash",
+    "name": "Stump Smash",
+    "element": "Life",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "stump-smash"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Stump_Smash_Promo.jpg"
+  },
+  {
+    "id": "sun-dragon",
+    "name": "Sun Dragon",
+    "element": "Life",
+    "primary_game": "Spyro's Kingdom (scrapped)",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "sun-dragon"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/d4/SunDragon_PrototypeToy.png/revision/latest?cb=20211011234236"
+  },
+  {
+    "id": "sunburn",
+    "name": "Sunburn",
+    "element": "Fire",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "sunburn"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e9/310px-Sunburn_01.jpg"
+  },
+  {
+    "id": "sundae-slobber-tooth",
+    "name": "Sundae Slobber Tooth",
+    "element": "Earth",
+    "primary_game": "Skylanders: Lost Islands (July 2014)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "sundae-slobber-tooth"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/2/2a/Sundae_Slobber_Tooth.jpg/revision/latest?cb=20140715010338"
+  },
+  {
+    "id": "super-shot-stealth-elf",
+    "name": "Super Shot Stealth Elf",
+    "element": "Life",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "super-shot-stealth-elf"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/b5/SuperShot_Stealth_Elf_Promo.jpg/revision/latest?cb=20150603223605"
+  },
+  {
+    "id": "superchargers",
+    "name": "SuperChargers",
+    "element": null,
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "superchargers"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/db/SuperChargers_intro.jpg/revision/latest?cb=20210109013930"
+  },
+  {
+    "id": "surfer-slam-bam",
+    "name": "Surfer Slam Bam",
+    "element": "Water",
+    "primary_game": "Skylanders: Lost Islands (June 2013)",
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "surfer-slam-bam"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Surfer_Slam_Bam_Promo.jpg/revision/latest?cb=20130604000016"
+  },
+  {
+    "id": "swap-force",
+    "name": "SWAP Force",
+    "element": null,
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "swap-force"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Swap_Force.png/revision/latest?cb=20210405015831"
+  },
+  {
+    "id": "swarm",
+    "name": "Swarm",
+    "element": "Air",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "swarm"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/be/Swarm.jpg"
+  },
+  {
+    "id": "tae-kwon-crow",
+    "name": "Tae Kwon Crow",
+    "element": "Dark/Fire",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "tae-kwon-crow"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Tae_Kown_Crow.png"
+  },
+  {
+    "id": "template-template",
+    "name": "Template Template",
+    "element": "Non-Elemental",
+    "primary_game": "Skylanders: Swap Force (Console)",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "template-template"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Template_Template_Swap_Force.png"
+  },
+  {
+    "id": "terrabite",
+    "name": "Terrabite",
+    "element": "Earth",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "terrabite"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/37/Terrabite_promo.jpg"
+  },
+  {
+    "id": "terrafin",
+    "name": "Terrafin",
+    "element": "Earth",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "terrafin"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Terrafin.jpeg"
+  },
+  {
+    "id": "thrillipede",
+    "name": "Thrillipede",
+    "element": "Life",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "thrillipede"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/88/Thrillipede_Promo.jpg/revision/latest?cb=20150915190830"
+  },
+  {
+    "id": "thumpback",
+    "name": "Thumpback",
+    "element": "Water",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "thumpback"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/36/Thumpback_-_.jpg/revision/latest?cb=20130220165740"
+  },
+  {
+    "id": "thumpling",
+    "name": "Thumpling",
+    "element": "Water",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "thumpling"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Thumpling.jpg/revision/latest?cb=20140813160158"
+  },
+  {
+    "id": "thunderbolt",
+    "name": "Thunderbolt",
+    "element": "Air",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "thunderbolt"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Thunderbolt.jpg/revision/latest?cb=20150901011301"
+  },
+  {
+    "id": "tidepool",
+    "name": "Tidepool",
+    "element": "Water",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "tidepool"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Tidepool_Promo.jpg/revision/latest?cb=20161112054952"
+  },
+  {
+    "id": "torch",
+    "name": "Torch",
+    "element": "Fire",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "torch"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Torch_Promo.jpg/revision/latest?cb=20140610214032"
+  },
+  {
+    "id": "trail-blazer",
+    "name": "Trail Blazer",
+    "element": "Fire",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "trail-blazer"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/11/Trail_Blazier_Promo.png/revision/latest?cb=20150527220904"
+  },
+  {
+    "id": "trap-shadow",
+    "name": "Trap Shadow",
+    "element": "Magic",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "trap-shadow"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/a/a7/Trap_Shadow_Promo.jpg"
+  },
+  {
+    "id": "trap-team",
+    "name": "Trap Team",
+    "element": null,
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "trap-team"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Trap_Team.png/revision/latest?cb=20141010205626"
+  },
+  {
+    "id": "tread-head",
+    "name": "Tread Head",
+    "element": "Tech",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "tread-head"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Tread_Head_Promo.jpg/revision/latest?cb=20141001165633"
+  },
+  {
+    "id": "tree-rex",
+    "name": "Tree Rex",
+    "element": "Life",
+    "primary_game": "Skylanders: Giants",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "tree-rex"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Tree_Rex_Artwork.jpg/revision/latest?cb=20120604215621"
+  },
+  {
+    "id": "tri-tip",
+    "name": "Tri-Tip",
+    "element": "Earth",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "tri-tip"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/9/99/Tri_Tip_Promo.jpg/revision/latest?cb=20160601125516"
+  },
+  {
+    "id": "trigger-happy",
+    "name": "Trigger Happy",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "trigger-happy"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Sky_trigger2.jpg"
+  },
+  {
+    "id": "trigger-snappy",
+    "name": "Trigger Snappy",
+    "element": "Tech",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "trigger-snappy"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Trigger_Snappy_Promo.jpg"
+  },
+  {
+    "id": "tuff-luck",
+    "name": "Tuff Luck",
+    "element": "Life",
+    "primary_game": "Skylander: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "tuff-luck"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/5/51/Tuff_Luck_Promo.jpg/revision/latest?cb=20240521091017"
+  },
+  {
+    "id": "turbo-charge-donkey-kong",
+    "name": "Turbo Charge Donkey Kong",
+    "element": "Life",
+    "primary_game": "Skylanders: SuperChargers",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "turbo-charge-donkey-kong"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/9/92/DonkeyKong_Skylanders.jpg/revision/latest?cb=20150909223215"
+  },
+  {
+    "id": "volcanic-eruptor",
+    "name": "Volcanic Eruptor",
+    "element": "Fire",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "volcanic-eruptor"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Volcanic_Eruptor.png/revision/latest?cb=20170304031915"
+  },
+  {
+    "id": "voodood",
+    "name": "Voodood",
+    "element": "Magic",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "voodood"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/38/Voodood_Promo.jpg"
+  },
+  {
+    "id": "wallop",
+    "name": "Wallop",
+    "element": "Earth",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "wallop"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/3/30/Wallop_Promo.jpg/revision/latest?cb=20140424001100"
+  },
+  {
+    "id": "warnado",
+    "name": "Warnado",
+    "element": "Air",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "warnado"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/5/50/290px-Warnado_03.jpg"
+  },
+  {
+    "id": "wash-buckler",
+    "name": "Wash Buckler",
+    "element": "Water",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "wash-buckler"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/6/63/Wash_Buckler_Art.jpg"
+  },
+  {
+    "id": "weeruptor",
+    "name": "Weeruptor",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "weeruptor"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg"
+  },
+  {
+    "id": "wham-shell",
+    "name": "Wham-Shell",
+    "element": "Water",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "wham-shell"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/ee/300px-Wham-Shell_03.jpg"
+  },
+  {
+    "id": "whirlwind",
+    "name": "Whirlwind",
+    "element": "Air",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "whirlwind"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Whirlwind.png"
+  },
+  {
+    "id": "whisper-elf",
+    "name": "Whisper Elf",
+    "element": "Life",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "whisper-elf"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Whisper_Elf_Promo.jpg/revision/latest?cb=20140813155119"
+  },
+  {
+    "id": "wild-storm",
+    "name": "Wild Storm",
+    "element": "Air",
+    "primary_game": "Skylanders: Imaginators",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "wild-storm"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/88/Wild_Storm_Artwork.jpg/revision/latest?cb=20161112115632"
+  },
+  {
+    "id": "wildfire",
+    "name": "Wildfire",
+    "element": "Fire",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "wildfire"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/b/b9/Wildfire_Promo.jpg/revision/latest?cb=20140610214032"
+  },
+  {
+    "id": "wind-up",
+    "name": "Wind-Up",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "wind-up"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/8/86/Windup.jpg"
+  },
+  {
+    "id": "winterfest-lob-star",
+    "name": "Winterfest Lob-Star",
+    "element": "Water",
+    "primary_game": "Skylanders: Trap Team",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "winterfest-lob-star"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/78/Winterfest_Lob-Star_promo.jpg/revision/latest?cb=20141202044314"
+  },
+  {
+    "id": "wolfgang",
+    "name": "Wolfgang",
+    "element": null,
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "wolfgang"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/1/13/Wolfgang_Promo.jpg"
+  },
+  {
+    "id": "woodenem",
+    "name": "Woodenem",
+    "element": "Life",
+    "primary_game": null,
+    "variant_count": 1,
+    "variant_types": [
+      "Core"
+    ],
+    "variant_ids": [
+      "woodenem"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Woodenem_awe.png/revision/latest?cb=20121016113846"
+  },
+  {
+    "id": "wrecking-ball",
+    "name": "Wrecking Ball",
+    "element": "Magic",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "wrecking-ball"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/5/55/Wrecking_Ball.jpg"
+  },
+  {
+    "id": "zap",
+    "name": "Zap",
+    "element": "Water",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "Sensei"
+    ],
+    "variant_ids": [
+      "zap"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/7/7c/288px-Zap_Promo.jpg"
+  },
+  {
+    "id": "zoo-lou",
+    "name": "Zoo Lou",
+    "element": "Life",
+    "primary_game": "Skylanders: Swap Force",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "zoo-lou"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Zoo_Lou_Promo_Art.jpg/revision/latest?cb=20130821200845"
+  },
+  {
+    "id": "zook",
+    "name": "Zook",
+    "element": "Life",
+    "primary_game": "Skylanders: Spyro's Adventure",
+    "variant_count": 1,
+    "variant_types": [
+      "SuperCharger"
+    ],
+    "variant_ids": [
+      "zook"
+    ],
+    "image": "https://static.wikia.nocookie.net/skylanders/images/5/54/442px-Zook.jpg"
+  }
+]

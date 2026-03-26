@@ -1,0 +1,46 @@
+{
+  "id": "pop-thorn",
+  "name": "Pop Thorn",
+  "species": "Pufferthorn",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Pop Thorn hails from a race of creatures known as Pufferthorns. Often considered one of the cutest creatures in all of Skylands, they are generally quite timid and puff out sharp spines when scared. It is this ability that long ago led to the unfortunate legacy of being used as combs by giant trolls everywhere, being the sharp spines are perfect for brushing out tangles from their long, matted hair. But not long ago, one Pufferthorn took a stand. Tired of his race being used for nothing more than good grooming, Pop Thorn used his naturally thorny abilities to stand up and fight back against the giant trolls. Soon after, Master Eon made Pop Thorn a Skylander. And to this day, no trolls dare to comb their hair.",
+  "personality": "Pop Thorn is sweetness and light until something ruffles his spines. Nothing needles him more than being taken for granted. He doesn't let anyone walk all over him, and ensures that his foes get the point. &#91; 4 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Pop_Thorn",
+  "variants": [
+    {
+      "id": "pop-thorn",
+      "variant_name": "Pop Thorn",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Pop_Thorn.jpg/revision/latest?cb=20131019000653",
+      "attacks": [
+        "Puff",
+        "Pop",
+        "Fresh Breath",
+        "Puffball Pound",
+        "Rollerpuff",
+        "Wind Trap"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Pop_Thorn"
+    }
+  ]
+}

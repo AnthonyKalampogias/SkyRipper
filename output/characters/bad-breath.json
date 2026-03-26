@@ -1,0 +1,30 @@
+{
+  "id": "bad-breath",
+  "name": "Bad Breath",
+  "species": "Grumblebum",
+  "gender": "Male",
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": "Bad Breath is easily startled or bothered, making him gassy. Despite his unpopularity with the other students, he appears to not mind, but too much stress has caused him to be temporarily put out of duty at the start of Season 1. Unknown to the rest, he sometimes uses empty rooms to burp for as long as he pleases. Though Bad Breath couldn't care less about the bullying from various students over his weakness, he has been shown to have great empathy, as he abhors other people being mistreated, going as far as to lose his temper when Cy becomes the target of the prejudiced cadets.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Bad_Breath",
+  "variants": [
+    {
+      "id": "bad-breath",
+      "variant_name": "Bad Breath",
+      "edition": "Series 1",
+      "type": "Swap Force",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Bad_Breath.png/revision/latest?cb=20161031102516",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Bad_Breath"
+    }
+  ]
+}

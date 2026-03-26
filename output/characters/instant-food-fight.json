@@ -1,0 +1,40 @@
+{
+  "id": "instant-food-fight",
+  "name": "Instant Food Fight",
+  "species": "Anthropomorphic Artichoke",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Trap Team (Tablet version)",
+  "appearances": [
+    "Skylanders: Trap Team (Tablet version)"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Food_Fight",
+  "variants": [
+    {
+      "id": "instant-food-fight",
+      "variant_name": "Instant Food Fight",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team (Tablet version)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Instant_Food_Fight_Artwork.png/revision/latest?cb=20170303181311",
+      "attacks": [
+        "Tomato Launcher",
+        "Blooms of Doom",
+        "Extra-Ripe Tomatoes",
+        "Heavy Harvest",
+        "Special Squash"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Food_Fight"
+    }
+  ]
+}

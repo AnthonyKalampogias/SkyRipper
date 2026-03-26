@@ -1,0 +1,41 @@
+{
+  "id": "dark-king-pen",
+  "name": "Dark King Pen",
+  "species": "Penguin",
+  "gender": "Male",
+  "element": "Water/Dark",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Cloudmelt Glaciers"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "King Pen hails from a militaristic unit of penguins who protect the Cloudmelt Glaciers. During an epic battle, King Pen was trapped in an avalanche and had to take refuge in a nearby cave for the remainder of the winter season. During his solitude, he was visited by a mysterious Yeti Master, named Snow Wah, who began teaching him an ancient combat style known as “Flipper-Fu”. King Pen was already a skilled fighter, but the wise teacher helped him to understand the spiritual and philosophical nature of warfare, turning the penguin into an unstoppable force. When he finally emerged from the cave, tales of his newfound abilities spread far and wide. When Master Eon caught wind, he recruited King Pen into his top secret training program, where he quickly rose up the ranks to become the leader of the Skylander Sensei. Years later, King Pen returned to the site of the avalanche to thank his teacher, but no evidence of Snow Wah or the cave was ever found – leaving many to wonder if the Yeti had ever existed at all. ( Skylanders: Ring of Heroes ) [ ] Shadow King Pen is an alter ego of King Pen, the respected leader of the Academy Sensei Group. This is before King Pen met his Yeti Master Snow Wah who taught him the spiritual and philosophical foundation of battle. As an outstanding warrior, Shadow King Pen was able to gain the attention of Master Eon and become a Skylander and an Academy sensei. However, he puts emphasis on being cold-headed and disciplined than being compassionate and on the results of physical training than spiritual training. The students are very afraid of Shadow King Pen, but he won't change his education policy. The actual battle against the evil forces would be much more brutal.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Dark_King_Pen",
+  "variants": [
+    {
+      "id": "dark-king-pen",
+      "variant_name": "Dark King Pen",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/da/Dark_King_Pen_Artwork.jpg/revision/latest?cb=20160914205652",
+      "attacks": [
+        "Penguin Combo",
+        "Frost Breath",
+        "Penguin Drill",
+        "Ice Charge Lvl 1: Ice Arena",
+        "Penguin Combos"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_King_Pen"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "birthday-bash",
+  "name": "Birthday Bash",
+  "species": "Rock Dragon",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: Lost Islands (November 2013)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Birthday_Bash",
+  "variants": [
+    {
+      "id": "birthday-bash",
+      "variant_name": "Birthday Bash",
+      "edition": "Series 1",
+      "type": "Giant",
+      "game": "Skylanders: Lost Islands (November 2013)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/25/BirthdayBash.jpg/revision/latest?cb=20150524043515",
+      "attacks": [
+        "None"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Birthday_Bash"
+    }
+  ]
+}

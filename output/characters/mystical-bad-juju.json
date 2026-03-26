@@ -1,0 +1,41 @@
+{
+  "id": "mystical-bad-juju",
+  "name": "Mystical Bad Juju",
+  "species": "Skeleton Ghost",
+  "gender": "Female",
+  "element": "Air",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": "Just like her name suggests, Bad Juju had always been bad. From her humble beginnings as a witch doctor, where she put curses on her patients instead of curing them, to being the Golden Queen’s right-hand sorceress, she had spent her entire life as a villain. Being captured by the Skylanders didn’t do much to change her attitude either. At least, that was the case until the day she conjured up more than she bargained for – a son named Juju Junior. That was when she finally decided it was time to come to change her lifestyle. She didn’t want to raise Juju Junior inside a prison thinking that his magical mother was a criminal. So she asked Master Eon to give her a chance to be a hero instead. As luck would have it, Eon was a looking for a Swashbuckler Sensei who could help train Imaginators the value of being good. Not bad for Bad Juju.",
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Mystical_Bad_Juju",
+  "variants": [
+    {
+      "id": "mystical-bad-juju",
+      "variant_name": "Mystical Bad Juju",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Mystical_Bad_Juju_Promo.jpg/revision/latest?cb=20161112131914",
+      "attacks": [
+        "Whirling Blades",
+        "Juju Junior",
+        "Windy Wail",
+        "Static Shock",
+        "Child Protection"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Mystical_Bad_Juju"
+    }
+  ]
+}

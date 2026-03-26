@@ -1,0 +1,41 @@
+{
+  "id": "legendary-bone-bash-roller-brawl",
+  "name": "Legendary Bone Bash Roller Brawl",
+  "species": "Vampire",
+  "gender": "Female",
+  "element": "Undead",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bone_Bash_Roller_Brawl",
+  "variants": [
+    {
+      "id": "legendary-bone-bash-roller-brawl",
+      "variant_name": "Legendary Bone Bash Roller Brawl",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e4/11849849_1612633442332621_535269205_n.jpg/revision/latest?cb=20151017115428",
+      "attacks": [
+        "Derby Duke",
+        "Fangerang",
+        "Love Bites",
+        "Serious Substitution",
+        "Eat Pavement"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bone_Bash_Roller_Brawl"
+    }
+  ]
+}

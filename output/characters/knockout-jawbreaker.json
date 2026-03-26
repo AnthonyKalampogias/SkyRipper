@@ -1,0 +1,34 @@
+{
+  "id": "knockout-jawbreaker",
+  "name": "Knockout Jawbreaker",
+  "species": "Robot",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Lost Islands (November 2014)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Knockout_Jawbreaker",
+  "variants": [
+    {
+      "id": "knockout-jawbreaker",
+      "variant_name": "Knockout Jawbreaker",
+      "edition": "Series 1",
+      "type": "Trap Master",
+      "game": "Skylanders: Lost Islands (November 2014)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c3/KO_Jawbreaker.jpg/revision/latest?cb=20141101091900",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Knockout_Jawbreaker"
+    }
+  ]
+}

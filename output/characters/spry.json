@@ -1,0 +1,30 @@
+{
+  "id": "spry",
+  "name": "Spry",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "The Skylander Minis started off as regular \" Sidekicks \", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "personality": "Spry is an eager young dragon who wants to fight evil whenever he can. He's good at learning things quickly, which is a very important part of teamwork. He can be a little impulsive from time to time, but that's just because he loves being a hero so much. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Spry",
+  "variants": [
+    {
+      "id": "spry",
+      "variant_name": "Spry",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/22/Spry_Promo.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Spry"
+    }
+  ]
+}

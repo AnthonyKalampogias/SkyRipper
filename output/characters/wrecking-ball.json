@@ -1,0 +1,50 @@
+{
+  "id": "wrecking-ball",
+  "name": "Wrecking Ball",
+  "species": "Grub",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Spyro's Kingdom (scrapped)",
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Lost Islands",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Stump Smash Crosses the Bone Dragon",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Wrecking Ball was once a tiny grub worm about to become the main ingredient in an old wizard’s cauldron of magic stew. But when he was dropped in, the wizard was shocked to see the little grub devour all of the soup and emerge from the cauldron 20 times larger and with a long, sticky tongue. The poor old wizard was even more surprised seconds later, when Wrecking Ball proceeded to swallow him whole. Eventually he ran, quite literally, into the powerful Portal Master Eon , who was intrigued by how he came to be and impressed with his unique abilities.",
+  "personality": "Possibly the most reckless of all the Skylanders, Wrecking Ball rolls into danger without thought for his own personal safety. This lively larva smashes anything in his path (often) by accident, and is always hungry, even when he's just eaten! &#91; 4 &#93; In some media, he possesses dog-like qualities.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Wrecking_Ball",
+  "variants": [
+    {
+      "id": "wrecking-ball",
+      "variant_name": "Wrecking Ball",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/55/Wrecking_Ball.jpg",
+      "attacks": [
+        "Tongue Whip",
+        "Forcefield Ball",
+        "Power Belch",
+        "Digestive Detonation",
+        "Tongue Grabber"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Wrecking_Ball"
+    }
+  ]
+}

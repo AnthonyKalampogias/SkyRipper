@@ -1,0 +1,45 @@
+{
+  "id": "rocky-roll",
+  "name": "Rocky Roll",
+  "species": "Rocky: Rock Digger Roll: Living Boulder",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Light in the Dark",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Rocky was a rock digger who wanted to make a difference, and Roll was a boulder that wanted to see the world. The two of them had known each other since they were young and in mining school together. They had shared the same goal – making the sacred journey to Peek’s Peak, where it was said that one’s destiny reveals itself. But time went on, and it wasn’t until many years later that they found each other traveling the same path towards the mythical peak. The connection that was established years before had finally taken shape, and the two realized they were meant to journey far and wide together – as Rocky Roll. After several adventures together, they met Master Eon by chance, who recognized that their connection was special. Now as an awesome Skylander duo, Rocky Roll will crush anything that threatens Skylands!",
+  "personality": "Rocky Roll loves helping others. There isn't anything they wouldn't do for their pals. Their friendship is as solid as a rock! &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Rocky_Roll",
+  "variants": [
+    {
+      "id": "rocky-roll",
+      "variant_name": "Rocky Roll",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Rocky_Roll_Promo.jpg/revision/latest?cb=20150315230107",
+      "attacks": [
+        "Spit Ball",
+        "Boulder Dash",
+        "Boulder Barrier",
+        "Super Spit Ball",
+        "Let's Roll!"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Rocky_Roll"
+    }
+  ]
+}

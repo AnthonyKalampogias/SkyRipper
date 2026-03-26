@@ -1,0 +1,34 @@
+{
+  "id": "flip-flop-fryno",
+  "name": "Flip Flop Fryno",
+  "species": "Rhinoceros",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Lost Islands (August 2014)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Flip_Flop_Fryno",
+  "variants": [
+    {
+      "id": "flip-flop-fryno",
+      "variant_name": "Flip Flop Fryno",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Lost Islands (August 2014)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Flip_Flop_Fryno.jpg/revision/latest?cb=20140813024151",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Flip_Flop_Fryno"
+    }
+  ]
+}

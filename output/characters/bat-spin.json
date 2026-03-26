@@ -1,0 +1,43 @@
+{
+  "id": "bat-spin",
+  "name": "Bat Spin",
+  "species": "Vampire",
+  "gender": "Female",
+  "element": "Undead",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "*The Kaos Trap *Rift into Overdrive",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Bat Spin hailed from the underworld, where as a child she was separated from her people. After spending months searching for them, she eventually was welcomed by a colony of magical bats who raised her as one of their own. After many peaceful years living with the bats, the colony was invaded by an army of undead trolls, who were set on stealing their magic to build an ultimate sonar weapon. Bat Spin quickly took action and used powerful abilities that she had learned growing up with the bats and essentially becoming one of them. She heroically defeated the trolls and saved the colony. This caught the attention of Master Eon , who saw at once she would make a worthy Skylander!",
+  "personality": "Bat Spin was born in the underworld , which makes her witchy in a good way. She's also pretty cool under pressure and isn't known to fly off the handle. &#91; 4 &#93; Her mannerisms in idle and win animations imply she might be still young, and strangely she sounds hesitant when given a hat or nickname.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Bat_Spin",
+  "variants": [
+    {
+      "id": "bat-spin",
+      "variant_name": "Bat Spin",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/05/Bat_Spin_Promo2.jpg/revision/latest?cb=20150320233553",
+      "attacks": [
+        "Bat Attack",
+        "Bat Swarm",
+        "Healing Bite",
+        "Mr. Dizzy",
+        "Bat-tle Cry"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Bat_Spin"
+    }
+  ]
+}

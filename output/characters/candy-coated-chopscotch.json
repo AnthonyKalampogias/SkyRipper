@@ -1,0 +1,40 @@
+{
+  "id": "candy-coated-chopscotch",
+  "name": "Candy-Coated Chopscotch",
+  "species": "Ghoul",
+  "gender": "Female",
+  "element": "Undead",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "The Underworld"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "The only thing that ever mattered to Chopscotch was mastering her weapon of choice, the giant axe, while rocking out to her favorite musical idol, Wolfgang . It never bothered her that she was short in stature or that all of the other ghouls in the Underworld laughed at the way she spoke in rhymes as she made up her own lyrics to Wolfgang’s guitar jams. So when Wolfgang joined the villainous Doom Raiders , she was devastated. But instead of letting it destroy her, she chose to put her axe skills to good use, and fought Wolfgang and his Moon Goons when they attempted to curse her entire town during an evil concert. Her willingness to stand up to her long time hero came as a surprise to everyone, and soon all of the villagers were speaking in rhymes in her honor. Soon after, she met Master Eon , who was so impressed at her fighting abilities and positive outlook that he recruited her as a Sensei for the Smasher Class. Now she teaches new Skylanders how to fight… and how to rhyme!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Candy-Coated_Chopscotch",
+  "variants": [
+    {
+      "id": "candy-coated-chopscotch",
+      "variant_name": "Candy-Coated Chopscotch",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/00/Candy-Coated_Chopscotch_Promo.jpg/revision/latest?cb=20161027193333",
+      "attacks": [
+        "Chop Chop Chop",
+        "Spin to Win",
+        "Lose Your Head",
+        "Jump Attract",
+        "Axe Frenzy"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Candy-Coated_Chopscotch"
+    }
+  ]
+}

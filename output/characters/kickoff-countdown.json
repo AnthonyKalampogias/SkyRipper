@@ -1,0 +1,41 @@
+{
+  "id": "kickoff-countdown",
+  "name": "Kickoff Countdown",
+  "species": "Bomb Launcher",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": "Countdown was discovered by a group of Yetis who were snowboarding one particularly chilly morning when they came across a big bomb encased in ice. After bringing it back to their cabin, they were shocked when it actually came to life. No one, not even Countdown himself, has any memory of where he came from or how he ended up frozen in the mountains. Since becoming a Skylander , Master Eon has been graciously trying to help piece together fragments of his past. But this has proven difficult, as Countdown loses some of his memory every time he explodes - which happens a lot. In the meantime, Countdown has enjoyed working with Eon and fighting alongside the Skylanders to defend their world against evil - even though he occasionally forgets what he is doing.",
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Kickoff_Countdown",
+  "variants": [
+    {
+      "id": "kickoff-countdown",
+      "variant_name": "Kickoff Countdown",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Kickoff_Countdown_Promo.jpg/revision/latest?cb=20140530202351",
+      "attacks": [
+        "Bomb Head",
+        "Rocket Blast",
+        "Controlled Burst",
+        "Boom Buddies",
+        "Triple Threat"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Kickoff_Countdown"
+    }
+  ]
+}

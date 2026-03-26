@@ -1,0 +1,30 @@
+{
+  "id": "ninjini",
+  "name": "Ninjini",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "Ninjini was the most renowned magical ninja from ancient times, long before the Arkeyans rose to power. But a dark sorceress, who was jealous of Ninjini's skill as a warrior, trapped her within an enchanted bottle to be imprisoned for all of eternity. Time stretched on, yet Ninjini remained steadfast and determined to escape - even mastering the dual sword technique within the solitude of her bottle. Over the years, her strength continued to grow until alas, through sheer force of will, she broke free! From that moment on, Ninjini made it her mission to help those in need as one of the first Skylanders, always carrying that enchanted bottle as a reminder of her own resilience.",
+  "personality": "An eternal optimist, Ninjini spins into battle, convinced she will always succeed come what may. &#91; 3 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Ninjini",
+  "variants": [
+    {
+      "id": "ninjini",
+      "variant_name": "Ninjini",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/78/Ninjini_Promo.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Ninjini"
+    }
+  ]
+}

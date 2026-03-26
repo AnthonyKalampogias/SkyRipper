@@ -1,0 +1,44 @@
+{
+  "id": "pain-yatta",
+  "name": "Pain-Yatta",
+  "species": "Walking Piñata",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Trap Team (Console)",
+    "Skylanders: Lost Islands",
+    "Light in the Dark",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": "Pain-Yatta is an aggressive and vengeful creature, taking out his frustration of being rejected by the Doom Raiders in his attempts to rule Skylands no matter how many would be harmed by his candy army. However his backstory and Ring of Heroes show he's gullible, and was easily tricked by the Doom Raiders into believing the Skylanders were responsible for the disappearance of his best friend, the Unocorn; and later by Kaos. In Imaginators , however, he seems to have become more carefree and mocking, treating his fights like a party, though he takes his responsibility in protecting Skylands very seriously.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Pain-Yatta_(character)",
+  "variants": [
+    {
+      "id": "pain-yatta",
+      "variant_name": "Pain-Yatta",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/38/Painyatta_Promo.jpg",
+      "attacks": [
+        "Original= Lollipop Slam",
+        "Candy Barf",
+        "Piñata Summon"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Pain-Yatta_(character)"
+    }
+  ]
+}

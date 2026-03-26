@@ -1,0 +1,41 @@
+{
+  "id": "steel-plated-smash-hit",
+  "name": "Steel Plated Smash Hit",
+  "species": "Warsupial",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "It is widely known that few Skylanders enjoy demolition more that Smash Hit. But after finishing runner-up to Crusher in last year's annual Destruct-o-Thon, Smash Hit decided to enter this year's competition better prepared. Now reinforced with indestructible Skytanium steel, the young Warsupial is primed and ready to smash anything and everything the competition can throw his way!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Steel_Plated_Smash_Hit",
+  "variants": [
+    {
+      "id": "steel-plated-smash-hit",
+      "variant_name": "Steel Plated Smash Hit",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/26/Steel_Plated_Smash_Hit_Promo.jpg/revision/latest?cb=20150916001718",
+      "attacks": [
+        "Demolisher",
+        "Crushinator",
+        "Connect and Disconnect",
+        "Heap",
+        "G'Day"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Steel_Plated_Smash_Hit"
+    }
+  ]
+}

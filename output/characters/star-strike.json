@@ -1,0 +1,44 @@
+{
+  "id": "star-strike",
+  "name": "Star Strike",
+  "species": "Alien",
+  "gender": "Female",
+  "element": "Magic",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "*The Kaos Trap *Return of the Dragon King",
+  "world": [
+    "Unknown"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Looking for a way to magically banish the Skylanders, Kaos poured through every dusty scroll and ancient tome he could find. Upon stumbling across a rare and extremely powerful spell, he began to recite its words. However, he sneezed midway through the incantation. As a result, instead of sending the Skylanders far away, Star Strike was plucked from her home in the distant cosmos and brought into Skylands . Surprised, Kaos thought he’d won a powerful new ally in the mysterious and reserved Star Strike. But she knew evil when she saw it and promptly unleashed her fierce magical powers on him. Word of her victory over Kaos spread quickly and she was soon asked by Master Eon to join the Skylanders.",
+  "personality": "You can't pull the wool over this bewitching alien's eyes. She's most likely to send evil into orbit with her star fall blast. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Star_Strike",
+  "variants": [
+    {
+      "id": "star-strike",
+      "variant_name": "Star Strike",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/03/Star_Strike.jpg",
+      "attacks": [
+        "Starfall",
+        "Star-Filled Sky",
+        "Your Biggest Fan",
+        "Star Light",
+        "Atom Splitter"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Star_Strike"
+    }
+  ]
+}

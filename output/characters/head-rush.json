@@ -1,0 +1,44 @@
+{
+  "id": "head-rush",
+  "name": "Head Rush",
+  "species": "Elf",
+  "gender": "Female",
+  "element": "Earth",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "Return of the Dragon King",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Head Rush was raised in a small village that had fallen under the spell of a powerful Harvest Sphinx, who forced the frightened villagers to plow the vast fields of golden grass for his own benefit. Although there were many villagers, no individual was brave enough to confront the Sphinx and put an end to its rule. But Head Rush believed there was a chance to fight back if she could somehow inspire her people to stand together. Charging through her village, Head Rush shouted a mighty yodel that woke the villagers from their spell! With the village behind her, she then led the charge to drive the Sphinx from the island for good. For her leadership and bravery, she was made part of the Trap Team, where she uses her giant Traptanium Horns to take charge of evil!",
+  "personality": "Head Rush's positive attitude is an inspiration to her friends. She may not think of herself as a great leader, but Master Eon and the Skylanders know that she is on a path to greatness. &#91; 3 &#93; In Ring of Heroes , she's supportive of her allies, always trying to find a quality that they might be overlooking in their skills.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Head_Rush",
+  "variants": [
+    {
+      "id": "head-rush",
+      "variant_name": "Head Rush",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Head_Rush_Promo.jpg/revision/latest?cb=20140813084343",
+      "attacks": [
+        "Traptanium Horns",
+        "Stomp",
+        "Mega Stomp",
+        "High Note",
+        "A Stomp To Remember"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Head_Rush"
+    }
+  ]
+}

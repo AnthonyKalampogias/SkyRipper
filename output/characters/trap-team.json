@@ -1,0 +1,38 @@
+{
+  "id": "trap-team",
+  "name": "Trap Team",
+  "species": "Various",
+  "gender": "Various",
+  "element": null,
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Trap_Team",
+  "variants": [
+    {
+      "id": "trap-team",
+      "variant_name": "Trap Team",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Trap_Team.png/revision/latest?cb=20141010205626",
+      "attacks": [
+        "Traptanium Weaponry"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Trap_Team"
+    }
+  ]
+}

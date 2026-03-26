@@ -1,0 +1,45 @@
+{
+  "id": "spy-rise",
+  "name": "Spy Rise",
+  "species": "Spider-like Robot",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Return of the Dragon King",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "From the moment he could crawl, Spy Rise wanted nothing more than to join his father in the family business as a private investigator. But after being hired by a shadowy figure to gather information on the Cloudbreak Islands , his father vanished, leaving Spy Rise alone to search for answers. He scoured the land for clues, using his immense skill in reconnaissance to track down his missing father, but all roads came up empty. Then one day, he received a tip from none other than Master Eon , which led him to a hidden lair near Mt. Cloudbreak , where he not only found his long lost father, but also uncovered an evil plot to take control of the magical volcano during the next eruption ceremony. With his father safe, Spy Rise decided to pursue a new career -- as a member of the Skylanders.",
+  "personality": "Spy Rise never gives up. The persistent P.I. sticks with a job until everything's wrapped up. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Spy_Rise",
+  "variants": [
+    {
+      "id": "spy-rise",
+      "variant_name": "Spy Rise",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Spyrise.jpg",
+      "attacks": [
+        "Spyder Blaster",
+        "Spyder Climb",
+        "Spyder Scanner S3",
+        "Spyder Mine",
+        "Spyder Sting"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Spy_Rise"
+    }
+  ]
+}

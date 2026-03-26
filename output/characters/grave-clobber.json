@@ -1,0 +1,38 @@
+{
+  "id": "grave-clobber",
+  "name": "Grave Clobber",
+  "species": "Living Stone Mummy",
+  "gender": "Male",
+  "element": "Earth/Water",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Skylanders: SuperChargers (Skystone)",
+  "world": [
+    "The Golden Desert"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": "Grave Clobber is aloof, violent, and intimidating with his attacks and threats. However, he appears to have a soft side, as he will take the time to say punny catchphrases and was seen calmly observing bugs in his Sensei Shrine cutscene before being disturbed by the Brawler Sensei Shrine. Whenever he is near others whom are smaller than he is, he unintentionally frightens them due to his imposing figure, but this does not bother him at all. Upon enlisting as a Skylander, he still retains his personality from when he was a villain, but he is now much more friendly and compassionate towards his allies. However, he is still perfectly willing to legitimately threaten and clobber anyone who poses a threat to Skylanders Academy or those who cannot defend themselves.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Grave_Clobber_(character)",
+  "variants": [
+    {
+      "id": "grave-clobber",
+      "variant_name": "Grave Clobber",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d5/GraveClobber.png",
+      "attacks": [
+        "Trap Team=Arm Sweep Ground Smash Bone Summon"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Grave_Clobber_(character)"
+    }
+  ]
+}

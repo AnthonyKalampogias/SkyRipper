@@ -1,0 +1,37 @@
+{
+  "id": "elite-dino-rang",
+  "name": "Elite Dino-Rang",
+  "species": "Dinosaur",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Dino-Rang",
+  "variants": [
+    {
+      "id": "elite-dino-rang",
+      "variant_name": "Elite Dino-Rang",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Eon%27s_Elite_Dino-Rang.jpg/revision/latest?cb=20170729040953",
+      "attacks": [
+        "Stone Boomerangs Boomerang Shield Stonefist Traps Dervish Shield Volcanic Glass Boomerangs"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Dino-Rang"
+    }
+  ]
+}

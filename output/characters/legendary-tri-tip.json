@@ -1,0 +1,40 @@
+{
+  "id": "legendary-tri-tip",
+  "name": "Legendary Tri-Tip",
+  "species": "Triceratops",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it. Legendary Tri-Tip has earned the honor to wear the prestigious Legendary Red and Gold Armor.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Tri-Tip",
+  "variants": [
+    {
+      "id": "legendary-tri-tip",
+      "variant_name": "Legendary Tri-Tip",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/96/Legendary_Tri-Tip.jpg/revision/latest?cb=20161009005520",
+      "attacks": [
+        "Mace Smash",
+        "Dino Dash",
+        "Summon Fossil Traps",
+        "Mightier Mace",
+        "Historic Preservation"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Tri-Tip"
+    }
+  ]
+}

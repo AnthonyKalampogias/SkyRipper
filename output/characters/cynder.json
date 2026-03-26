@@ -1,0 +1,30 @@
+{
+  "id": "cynder",
+  "name": "Cynder",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "While just an egg, Cynder was stolen by the henchmen of an evil dragon named Malefor and raised to do his bidding. For years, she spread fear throughout the land until she was defeated by Spyro the Dragon and freed from the grip of Malefor. But dark powers still flow through her, and despite her desire to make amends for her past, most Skylanders try to keep a safe distance... just in case.",
+  "personality": "Kidnapped as an egg by the evil Malefor , Cynder was brainwashed and trained in the ways of evil and darkness. She was a sinister dragon, a harbringer of despair and misery taught to strike fear into the hearts of Malefor's subjects and spread terror far and wide. However a speck of goodness burned somewhere in her black heart, which made her internally aware of the evil she was committing. After being freed from Malefor's spell, Cynder desires to make amends by battling evildoers with her dark powers, but she still struggles with her past. As a result of being corrupted under the Undead element, Cynder retains a wicked side and can occasionally be menacing, but she is trying hard to control her dark impulses from time to time. This ominous trait causes most of the Skylanders to try and keep a safe distance from Cynder just in case her inner darkness takes over. While she is loyal to the Skylanders, she is snarky, spiky when riled, witty, fierce and can be a terrifying force for good in the battle against the Darkness . Cynder also possesses a liking towards dark and brooding places, a trait shared by all Undead Skylanders. While she doesn't enjoy pranks or jokes of any kind &#91; 3 &#93; , she does have moments of being mischievous herself. &#91; 4 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Cynder",
+  "variants": [
+    {
+      "id": "cynder",
+      "variant_name": "Cynder",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/27/Cynder_Promo.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Cynder"
+    }
+  ]
+}

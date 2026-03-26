@@ -1,0 +1,51 @@
+{
+  "id": "sunburn",
+  "name": "Sunburn",
+  "species": "Phoenix/Dragon Hybrid",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Spyro's Kingdom (scrapped)",
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Giants",
+    "Skylanders: Lost Islands",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Stump Smash Crosses the Bone Dragon",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Born in the center of an active volcano, Sunburn is part dragon, part phoenix, and 100% fire power. He is very proud of his unique heritage, and is the only dragon and phoenix hybrid known to exist in Skylands . This rare combination makes him a desirable target for dark wizards and bounty hunters that seek to gain power by unlocking the secrets behind Sunburn’s ability to teleport. Joining the Skylanders gave Sunburn a way to help defend the world from evil, but also provided him with protection, as he remains one of the most sought after creatures in Skylands.",
+  "personality": "Like all dragons , Sunburn is quite the prankster, but hates evil with a passion. &#91; 3 &#93; He uses his powers of teleportation to play practical jokes on his Skylander buddies, appearing when they least expect it. He doesn't like to stay in one place for more than a minute at a time. &#91; 4 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Sunburn",
+  "variants": [
+    {
+      "id": "sunburn",
+      "variant_name": "Sunburn",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e9/310px-Sunburn_01.jpg",
+      "attacks": [
+        "Flamethrower Breath",
+        "Immolation Teleport",
+        "Blazethrower",
+        "Phoenix Dash",
+        "Infinite Flame"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Sunburn"
+    }
+  ]
+}

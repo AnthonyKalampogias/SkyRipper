@@ -1,0 +1,47 @@
+{
+  "id": "mini-jini",
+  "name": "Mini-Jini",
+  "species": "Elven Genie",
+  "gender": "Female",
+  "element": "Magic",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "The Kaos Trap",
+    "Skylanders: Trap Team",
+    "Skylanders Issue 12",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands Miniverse"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Within the Skylands , a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse . Everything there is smaller, including the Skylanders . The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures.&#160; The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "personality": "Mini-Jini always looks on the bright side of life. She believes in the power of positive thinking, and her good energy is infectious. Mini Jini is least likely to put a curse on everyone, as she the nice kind of genie. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Mini-Jini",
+  "variants": [
+    {
+      "id": "mini-jini",
+      "variant_name": "Mini-Jini",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Mini_jini.jpg",
+      "attacks": [
+        "Wishblades",
+        "Bottle Blast",
+        "Surrealistic Spheres",
+        "Abra-Ca-Stab-Bra",
+        "Juggling Act"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Mini-Jini"
+    }
+  ]
+}

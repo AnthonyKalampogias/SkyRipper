@@ -1,0 +1,45 @@
+{
+  "id": "grim-creeper",
+  "name": "Grim Creeper",
+  "species": "Ghost",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Eruptor Meets the Nightmare King",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "When he was young, Grim Creeper visited the prestigious Grim Acres School for Ghost Wrangling, hoping to attend as a student. But when the Scaremaster interviewed him, he found that Grim didn't have any of the usual training that other students had. Because of this, he was turned away. However, as the young Grim was about to leave, a herd of rampaging ghosts suddenly flooded the school -- carrying away the faculty and leaving the students to fend for themselves. Grim Creeper stood his ground -- not only defending the other students, but using his amazing reaping talents to fight back the ghosts and contain them until help could arrive. Now a Skylander, Grim is considered one of the best reapers ever to swing a scythe, proving that studies alone are no substitute for bravery, passion and true heroic spirit.",
+  "personality": "Grim Creeper may be grim by name and nature, but this reaper is passionate about fighting evil and will always be a hero through and through. He stands his ground whatever the situation. &#91; 5 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Grim_Creeper",
+  "variants": [
+    {
+      "id": "grim-creeper",
+      "variant_name": "Grim Creeper",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Grim_Creeper_Promo_Art.jpg",
+      "attacks": [
+        "Scythe Swing",
+        "Ghost Form",
+        "Polterguest Scythe",
+        "Sphere of Fear",
+        "It's Alive!"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Grim_Creeper"
+    }
+  ]
+}

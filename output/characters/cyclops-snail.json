@@ -1,0 +1,32 @@
+{
+  "id": "cyclops-snail",
+  "name": "Cyclops Snail",
+  "species": "Unknown",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Spyro's Kingdom (scrapped)",
+  "appearances": [],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "A creature from the sea, Tarclops is slow on land but fierce in water. Many years ago, Tarclops was sent to the islands by his father, King Cyclops, to the find a stolen relic that belongs to their underworld kingdom. &#91; 2 &#93;",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Cyclops_Snail",
+  "variants": [
+    {
+      "id": "cyclops-snail",
+      "variant_name": "Cyclops Snail",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Spyro's Kingdom (scrapped)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a8/Spyro%27sKingdom_CyclopsSnail_Selection.jpg/revision/latest?cb=20211013035523",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Cyclops_Snail"
+    }
+  ]
+}

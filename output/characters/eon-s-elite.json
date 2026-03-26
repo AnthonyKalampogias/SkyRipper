@@ -1,0 +1,30 @@
+{
+  "id": "eon-s-elite",
+  "name": "Eon's Elite",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon’s Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Eon's_Elite",
+  "variants": [
+    {
+      "id": "eon-s-elite",
+      "variant_name": "Eon's Elite",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Eons-elite-logo.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Eon's_Elite"
+    }
+  ]
+}

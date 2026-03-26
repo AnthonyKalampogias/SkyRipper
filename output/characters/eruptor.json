@@ -1,0 +1,30 @@
+{
+  "id": "eruptor",
+  "name": "Eruptor",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "Eruptor is a force of nature, hailing from a species that lived deep in the underground of a floating volcanic island until a massive eruption launched their entire civilization to the surface. He's a complete hot head -- steaming, fuming, and quite literally erupting over almost anything. To help control his temper, he likes to relax in lava pools, particularly because there are no crowds.",
+  "personality": "Eruptor is a hot head with a strong dislike for anything evil, so whenever something bad threatens his world, he quickly erupts... quite literally. When he isn't getting angry at the forces of Kaos , he's blowing a fuse and exploding with rage about smaller things, such as creaky floorboards and people not covering their mouths when they cough. &#91; 3 &#93; With his hot temper, Eruptor never shies away from speaking his mind. He also has a case of indigestion, prone to burping up a pool of molten lava whenever he feels nauseous, nervous or startled. A flaming force of nature, Eruptor still blows his top from time to time. He doesn't suffer fools gladly, but tries to keep his fiery temper in check. &#91; 4 &#93; In Skylanders: Imaginators , Eruptor is portrayed as a nervous lava monster who is afraid of a lot of things, such as bugs and Rats .",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Eruptor",
+  "variants": [
+    {
+      "id": "eruptor",
+      "variant_name": "Eruptor",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/65/Erup3.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Eruptor"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "wash-buckler",
+  "name": "Wash Buckler",
+  "species": "Mermasquid",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "The Kaos Trap",
+    "Skylanders: Trap Team",
+    "Return of the Dragon King",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Wash Buckler was an orphan Mermasquid, who grew up on one of the roughest pirate ships in Skylands . While most pirates were interested in pillaging and plundering, Wash Buckler had other ideas for the future of pirating. Over the years, he earned the respect of his crew and eventually convinced his fellow pirates that they didn’t all need to be cantankerous bad guys. Thus, they set forward doing heroic deeds. Of course, this new good guy image did not sit well with other pirating crews, who attempted to sabotage Wash Buckler at every turn. But he was no ordinary pirate, and he defended his ship and his crew against the many attacking hordes. It was then that Master Eon took notice of Wash Buckler and asked him to join the Skylanders .",
+  "personality": "Unlike most pirates, Wash Buckler is kind-hearted and true. He was never comfortable with pirating. &#91; 5 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Wash_Buckler",
+  "variants": [
+    {
+      "id": "wash-buckler",
+      "variant_name": "Wash Buckler",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/63/Wash_Buckler_Art.jpg",
+      "attacks": [
+        "Sword Slash",
+        "Bladesail",
+        "Bubble Blaster",
+        "Somersaulty",
+        "Octolash"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Wash_Buckler"
+    }
+  ]
+}

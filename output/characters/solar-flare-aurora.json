@@ -1,0 +1,40 @@
+{
+  "id": "solar-flare-aurora",
+  "name": "Solar Flare Aurora",
+  "species": "Unknown",
+  "gender": "Female",
+  "element": "Light",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Aurora is the niece of Master Eon . For years, he tried to keep her identity a secret so that she would remain safe from harm. But as she grew older, Aurora wanted nothing more than to become a Skylander , but Eon would not permit it. So without telling him, she wore a disguise and studied swordplay and combat arts under the name \"Boss Blades McSlashinator.\" Soon, everyone was talking about this new mysterious hero and her amazing abilities. Even Master Eon was notably impressed, but when he learned the skilled fighter was none other than his own niece, he once again refused her entry into the Skylanders team. However, before she could protest, Eon smiled and told her it was because he was immediately promoting her to his Sensei program, where she would train the Swashbuckler Class under her true name and identity. Although he did later admit that \"Boss Blades McSlashinator\" sounded pretty cool.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Solar_Flare_Aurora",
+  "variants": [
+    {
+      "id": "solar-flare-aurora",
+      "variant_name": "Solar Flare Aurora",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest?cb=20161112131916",
+      "attacks": [
+        "Double Sword Strike",
+        "Flash Dash",
+        "Light Burst",
+        "Sword Techniques",
+        "Forever Runner"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Solar_Flare_Aurora"
+    }
+  ]
+}

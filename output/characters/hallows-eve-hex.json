@@ -1,0 +1,36 @@
+{
+  "id": "hallows-eve-hex",
+  "name": "Hallows' Eve Hex",
+  "species": "Undead Elf",
+  "gender": "Female",
+  "element": "Undead",
+  "primary_game": "Skylanders: Lost Islands(October 2014)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Hallows'_Eve_Hex",
+  "variants": [
+    {
+      "id": "hallows-eve-hex",
+      "variant_name": "Hallows' Eve Hex",
+      "edition": "Series 1",
+      "type": "Swap Force",
+      "game": "Skylanders: Lost Islands(October 2014)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b3/Hallows_Eve_Hex_Promo.png/revision/latest?cb=20201201234532",
+      "attacks": [
+        "None"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Hallows'_Eve_Hex"
+    }
+  ]
+}

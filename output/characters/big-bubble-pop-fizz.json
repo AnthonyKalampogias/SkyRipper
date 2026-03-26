@@ -1,0 +1,41 @@
+{
+  "id": "big-bubble-pop-fizz",
+  "name": "Big Bubble Pop Fizz",
+  "species": "Gremlin",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Unexpected Allies",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Big_Bubble_Pop_Fizz",
+  "variants": [
+    {
+      "id": "big-bubble-pop-fizz",
+      "variant_name": "Big Bubble Pop Fizz",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/01/Big_Bubble_Pop_Fizz_Promo.jpg/revision/latest?cb=20150907034533",
+      "attacks": [
+        "Bubble Blast",
+        "Bubbling Beast Form",
+        "Mixture Modifier",
+        "Larger Lungs",
+        "Better Beast"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Big_Bubble_Pop_Fizz"
+    }
+  ]
+}

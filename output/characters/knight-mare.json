@@ -1,0 +1,45 @@
+{
+  "id": "knight-mare",
+  "name": "Knight Mare",
+  "species": "Dark Centaur",
+  "gender": "Female",
+  "element": "Dark",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Light in the Dark",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "Skylanders: Battlecast",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Before the destruction of the Core of Light left her stranded in the Dark Realm, Knight Mare was one of the Dark Centaurs who guarded The Oracle of Stones – an enchanted game of Dark Skystones that could predict the future. When it was stolen by an unknown force, Knight Mare was called upon to retrieve it. She knew it would be dangerous because if the Oracle was asked the wrong questions seven times, it would unleash a terrible curse upon all of Skylands . Fortunately, she found it in a cave – with a gang of Bicyclopes about to ask their seventh wrong question. With no time to lose, she charged forward, beating the fierce Bicyclopes and saving Skylands from the terrible curse. Now having joined the Trap Team, Knight Mare uses her hunting skills and Traptanium Lance to bring down evil everywhere!",
+  "personality": "Knight Mare is described as a solitary, stubborn, shadowy and skilled huntress. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Knight_Mare",
+  "variants": [
+    {
+      "id": "knight-mare",
+      "variant_name": "Knight Mare",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/79/Knight_Mare_Promo.jpg/revision/latest?cb=20141218040407",
+      "attacks": [
+        "Traptanium Flamberge",
+        "Shadow Joust",
+        "Battle Horn",
+        "More Clones",
+        "Shadow Stab"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Knight_Mare"
+    }
+  ]
+}

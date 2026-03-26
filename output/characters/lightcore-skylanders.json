@@ -1,0 +1,30 @@
+{
+  "id": "lightcore-skylanders",
+  "name": "LightCore Skylanders",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/LightCore_Skylanders",
+  "variants": [
+    {
+      "id": "lightcore-skylanders",
+      "variant_name": "LightCore Skylanders",
+      "edition": "Series 1",
+      "type": "Swap Force",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Lightcore_Logo.png",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/LightCore_Skylanders"
+    }
+  ]
+}

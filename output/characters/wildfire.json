@@ -1,0 +1,45 @@
+{
+  "id": "wildfire",
+  "name": "Wildfire",
+  "species": "Golden Lion",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "The Kaos Trap",
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Wildfire was once a young lion of the Fire Claw Clan, about to enter into the Rite of Infernos – a test of survival in the treacherous fire plains. However, because he was made of gold, he was treated as an outcast and not allowed to participate. But this didn’t stop him. That night, Wildfire secretly followed the path of the other lions, carrying only his father’s enchanted shield. Soon he found them cornered by a giant flame scorpion. Using the shield, he protected the group from the beast’s enormous stinging tail, giving them time to safely escape. And though Wildfire was injured in the fight, his father’s shield magically changed him – magnifying the strength that was already in his heart – making him the mightiest of his clan. Now part of the Trap Team, Wildfire uses his enormous Traptanium -bonded shield to defend any and all who need it!",
+  "personality": "Wildfire is a loyal lion with a heart of gold, but he can be fierce in battle. He's very protective of the Fire Claw Clan and is always ready to lend them a magical hand when they need it. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Wildfire",
+  "variants": [
+    {
+      "id": "wildfire",
+      "variant_name": "Wildfire",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b9/Wildfire_Promo.jpg/revision/latest?cb=20140610214032",
+      "attacks": [
+        "Traptainium Shield Bash",
+        "Chains of Fire",
+        "Heat Shield",
+        "Burning Bash",
+        "Lots of Chains"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Wildfire"
+    }
+  ]
+}

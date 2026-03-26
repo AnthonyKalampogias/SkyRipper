@@ -1,0 +1,30 @@
+{
+  "id": "roller-brawl",
+  "name": "Roller Brawl",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "Roller Brawl grew up with five older vampire brothers , who were all very big and overprotective. Being the smallest of her family, she learned how to use her speed and cunning to become one of the toughest jammers in the Undead Roller Derby League. It was during the championship match when she caught the eye of Kaos, who fell head-over-heels in love with her. But when her overprotective brothers stepped in, Kaos had them captured by Drow and taken prisoner. Roller Brawl swore revenge, but even with her impressive skills, she was no match for an entire Drow army. Having developed a strong distaste for evil, she joined up with the Skylanders to fight against Kaos – while never giving up on her search for her brothers.",
+  "personality": "Roller Brawl never gives up. Realizing that she was no match for the Drow on her own, she joined the Skylanders to fight the lovesick Kaos . &#91; 4 &#93; Her SuperChargers Quest also shows her to be extremely dedicated to her training, even guessing Buzz 's orders ahead of time. Her personality file lists her as cunning and resourceful, making her an ideal scout and spy.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Roller_Brawl",
+  "variants": [
+    {
+      "id": "roller-brawl",
+      "variant_name": "Roller Brawl",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/8c/Roller_Brawl2.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Roller_Brawl"
+    }
+  ]
+}

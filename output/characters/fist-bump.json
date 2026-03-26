@@ -1,0 +1,44 @@
+{
+  "id": "fist-bump",
+  "name": "Fist Bump",
+  "species": "Rock Panda",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Champions",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Return of the Dragon King",
+  "world": [
+    "Bumbling Bamboo Forest"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Fist Bump had long been the sleeping protector of the Bubbling Bamboo Forest, but awoke from a long hibernation when a horde of nasty purple Greebles arrived with gigantic rock-smashing machines. Intent on building a new base, their machines wreaked havoc – chewing up the land and spitting out billowing clouds of smoke into the enchanted air. Seeing this, Fist Bump was furious. Using his enormous stone fists, he hammered the ground with all his strength, creating a massive earthquake that sent huge shockwaves towards the Greeble camp. This reduced the machines to mere scrap and sent the Greebles running off in a panic. The act of bravery caught the attention of Terrafin , who brought Fist Bump to meet Master Eon . Now as a Skylander, Fist Bump makes evil quake wherever he goes!",
+  "personality": "Fist Bump is always the first person to shake things up at a party. He loves to get loose and rock out. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Fist_Bump",
+  "variants": [
+    {
+      "id": "fist-bump",
+      "variant_name": "Fist Bump",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/44/Fist_Bump_Promo.jpg/revision/latest?cb=20140917183945",
+      "attacks": [
+        "Panda Pound",
+        "Fault Line Slam",
+        "Seismic Slide",
+        "Fault Line in Glass Houses",
+        "Healing Bamboo"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Fist_Bump"
+    }
+  ]
+}

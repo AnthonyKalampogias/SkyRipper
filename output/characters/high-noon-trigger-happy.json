@@ -1,0 +1,36 @@
+{
+  "id": "high-noon-trigger-happy",
+  "name": "High Noon Trigger Happy",
+  "species": "Gremlin",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Battlecast",
+  "appearances": [
+    "Skylanders: Battlecast"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/High_Noon_Trigger_Happy",
+  "variants": [
+    {
+      "id": "high-noon-trigger-happy",
+      "variant_name": "High Noon Trigger Happy",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Battlecast",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/57/Quick_Draw_-_Special_Abilitycard.png/revision/latest?cb=20160801170117",
+      "attacks": [
+        "Quick Draw"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/High_Noon_Trigger_Happy"
+    }
+  ]
+}

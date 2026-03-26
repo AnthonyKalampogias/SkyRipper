@@ -1,0 +1,45 @@
+{
+  "id": "slobber-tooth",
+  "name": "Slobber Tooth",
+  "species": "Turtle Dinosaur",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Trigger Happy Targets the Evil Kaos",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Having been asleep for thousands of years, Slobber Tooth was awakened by the fiery eruption of two volcanic islands crashing together. Immediately sought out by Kaos to become one of his minions, Slobber Tooth was promised great power. But the gruff and headstrong fighter chose to follow his own path instead. For this, Kaos attacked his ancient petrified homeland. As the only one who could protect his hibernating race, Slobber Tooth fought tooth and tail against Kaos and his minions, ultimately driving them away. For his heroism, Master Eon asked Slobber Tooth to join the Skylanders, where he could continue defending Skylands against the evil Kaos.",
+  "personality": "Slobber Tooth is a gruff and headstrong fighter. Even though he was offered great power, he turned that down in order to follow his own path. He doesn't consider himself as a thinker to defeat Kaos 's minions, but only uses his head, literally. If in doubt, Slobber Tooth will head-butt something. Or tail-thwap it. Or bite it. Or sometimes all three! &#91; 2 &#93; He is also a ravenous eater.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Slobber_Tooth",
+  "variants": [
+    {
+      "id": "slobber-tooth",
+      "variant_name": "Slobber Tooth",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Slobber_Tooth_Promo_Art.jpg/revision/latest?cb=20130821081127",
+      "attacks": [
+        "Horn Swipe",
+        "Chomp & Chunk",
+        "Unstoppable Force",
+        "Snot Rocket",
+        "Fling"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Slobber_Tooth"
+    }
+  ]
+}

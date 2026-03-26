@@ -1,0 +1,34 @@
+{
+  "id": "food-fight",
+  "name": "Food Fight",
+  "species": "Anthropomorphic Artichoke",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Lost Islands (October 2014)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Frosted_Food_Fight",
+  "variants": [
+    {
+      "id": "food-fight",
+      "variant_name": "Food Fight",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Lost Islands (October 2014)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/79/Frosted-Food-Fight-final2.png/revision/latest?cb=20201208105521",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Frosted_Food_Fight"
+    }
+  ]
+}

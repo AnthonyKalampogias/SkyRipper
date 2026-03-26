@@ -1,0 +1,52 @@
+{
+  "id": "boomer",
+  "name": "Boomer",
+  "species": "Troll",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Spyro's Kingdom (Cancelled)",
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Lost Islands",
+    "The Machine of Doom",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Secret Agent Secrets",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes}}"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "As a young troll, Boomer loved to blow things up -- particularly sheep . Later, he was drafted into the troll army, where they gave him LOTS of things to blow up. However, Boomer soon realized the sole mission of the army was war and conquest. Even though he was a troll, these things didn't interest him. So he left the trolls after saving a town from being destroyed by them. Not long after, he was invited to be a Skylander -- the only troll ever to win such an honor. Now he uses his explosive skills to fight evil... much to the relief of sheep everywhere.",
+  "personality": "Blowing things up is apparently Boomer's answer to everything. He is also known for his love of blowing stuff up; a trait that is shared by all the other Trolls in Skylands . However unlike his brethren, Boomer isn't interested in war and conquest, so he turned his back on the troll lifestyle. He is considered a little odd; if at a great but dangerous height, Boomer enjoys every minute of falling or barreling down towards the ground at a frightening pace, since the resulting crash will make a huge 'boom'. Yet for being a troll he is disgusted by the sight of trolls. Boomer is bursting with manic energy, but is kind through and through. No wonder his troll mother never understood him. &#91; 4 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Boomer",
+  "variants": [
+    {
+      "id": "boomer",
+      "variant_name": "Boomer",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c4/290px-Boomer_Promo.jpg",
+      "attacks": [
+        "Dynamite Toss",
+        "Troll Smash",
+        "Troll Bomb",
+        "Bomblastic",
+        "Triple Bundle Dynamite"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Boomer"
+    }
+  ]
+}

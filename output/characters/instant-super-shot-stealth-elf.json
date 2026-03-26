@@ -1,0 +1,40 @@
+{
+  "id": "instant-super-shot-stealth-elf",
+  "name": "Instant Super Shot Stealth Elf",
+  "species": "Elf",
+  "gender": "Female",
+  "element": "Life",
+  "primary_game": "Skylanders: SuperChargers (iOS) (in the game files of the console versions)",
+  "appearances": [
+    "Skylanders: SuperChargers (iOS) (in the game files of the console versions)"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Super_Shot_Stealth_Elf",
+  "variants": [
+    {
+      "id": "instant-super-shot-stealth-elf",
+      "variant_name": "Instant Super Shot Stealth Elf",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers (iOS) (in the game files of the console versions)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Instant_Stealth_Elf.png/revision/latest?cb=20160129094820",
+      "attacks": [
+        "Dagger Cannon",
+        "Say Hello",
+        "Circle Slash",
+        "Smog Slash",
+        "Distraction Destruction"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Super_Shot_Stealth_Elf"
+    }
+  ]
+}

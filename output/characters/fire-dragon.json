@@ -1,0 +1,35 @@
+{
+  "id": "fire-dragon",
+  "name": "Fire Dragon",
+  "species": "Dragon",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Spyro's Kingdom (scrapped)",
+  "appearances": [
+    "Spyro's Kingdom (scrapped)",
+    "Skylanders: Giants (Game files)"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Fire_Dragon",
+  "variants": [
+    {
+      "id": "fire-dragon",
+      "variant_name": "Fire Dragon",
+      "edition": "Series 1",
+      "type": "Giant",
+      "game": "Spyro's Kingdom (scrapped)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/94/Red_Spyro.png/revision/latest?cb=20200805210818",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Fire_Dragon"
+    }
+  ]
+}

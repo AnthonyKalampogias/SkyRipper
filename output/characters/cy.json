@@ -1,0 +1,32 @@
+{
+  "id": "cy",
+  "name": "Cy",
+  "species": "Imaginator",
+  "gender": "Male",
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": "Being created from nothing into a full grown creature, Cy is clueless to the world around him or even his own abilities at first, but is a quick learner and even quicker to formulate plans at a whim. Though his love of puns and slowness to understand subtleties make him eccentric, Cy tries to help even if he has to change his ways or follow foolhardy plans. Despite his natural strategist abilities, the Imaginator can be driven to act without thinking if his friends are thought to be killed. Cy's literal-mindedness make him largely unaware of insults, however, the jealously of cadets towards his graduation without the Skylander Games ends up angering another Skylander . Oddly, Cy thinks other people are Imaginators like him, created fully sentient from parts thought up and stiched together magically.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Cy",
+  "variants": [
+    {
+      "id": "cy",
+      "variant_name": "Cy",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Imaginator_Cy.png/revision/latest?cb=20161028195916",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Cy"
+    }
+  ]
+}

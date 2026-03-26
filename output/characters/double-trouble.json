@@ -1,0 +1,50 @@
+{
+  "id": "double-trouble",
+  "name": "Double Trouble",
+  "species": "Tiki-Masked sorcerer",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Lost Islands",
+    "Skylanders: Giants",
+    "Skylanders: Battlegrounds",
+    "Lightning Rod Faces the Cyclops Queen",
+    "Skylanders: Swap Force",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes}}"
+  ],
+  "cameos": "Skylanders: Ring of Heroes",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Double Trouble was an adept spellcaster. On an expedition to find exotic ingredients for his potions, he traveled in search of a rare lily that was said to multiply the power of any spell. So thrilled was he when he found it, Double Trouble instantly ate the plant and performed a spell. Suddenly, there was a loud pop… then another… and another – until Double Trouble was surrounded by exact copies of himself. As it turned out, he had misunderstood the details about exactly what would multiply. But it didn’t matter, for he quickly realized the clones were delightful companions… never mind that they were only half his size and would explode on contact.",
+  "personality": "A loner at heart, Double Trouble discovered the joys of companionship through his clones. Always upbeat, the spirited shaman is a bundle of unearthly Eldritch energy. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Double_Trouble",
+  "variants": [
+    {
+      "id": "double-trouble",
+      "variant_name": "Double Trouble",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/33/300px-Double-Trouble_03.jpg",
+      "attacks": [
+        "Eldritch Beam",
+        "Conjure Exploding Double",
+        "Summon Magic Bomb",
+        "Arcane Eldritch Beam",
+        "Magical Cataclysm"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Double_Trouble"
+    }
+  ]
+}

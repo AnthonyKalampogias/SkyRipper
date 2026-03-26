@@ -1,0 +1,40 @@
+{
+  "id": "light-hex",
+  "name": "Light Hex",
+  "species": "Undead Elf",
+  "gender": "Female",
+  "element": "Light",
+  "primary_game": "Skylanders: Ring of Heroes",
+  "appearances": [
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Grammar adjusted from original version. Light Hex is the alter ego of the undead elf wizard Hex. This ego refuses to go back to being a talented wizard before becoming an undead. She used to control powerful magic in the past, but she was also clearly conceited - she turned into an undead because of her recklessness. Therefore, Light Hex accepts the power of the Light Element to embrace her allies, instead of the power that was strong yet cold-hearted. Of course, when it comes to dealing with evil forces, she will burn her enemies with the magic of light!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Light_Hex",
+  "variants": [
+    {
+      "id": "light-hex",
+      "variant_name": "Light Hex",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Ring of Heroes",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/34/Light_Hex_Model.png/revision/latest?cb=20180802221946",
+      "attacks": [
+        "Light Marble",
+        "Vanish into the Air",
+        "Light Rain",
+        "Recovery Light",
+        "Light Acceleration"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Light_Hex"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "frightful-fiesta",
+  "name": "Frightful Fiesta",
+  "species": "Skeleton",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Several Halloweens ago, the legendary Pumpkin Pixies challenged Fiesta and his mariachi band to a duel of music in the Land of the Undead . The Pixies began with a bone-chilling tune, but Fiesta immediately followed with a spooky song of his own. On and on they played, each song more haunting than the one before it. And soon, the entire pumpkin patch was dancing. What began as a challenge had turned into the party of the year! So impressed were the Pumpkin Pixies that they used their magic to make Fiesta an honorary pumpkin for that day – and every Halloween thereafter!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Frightful_Fiesta",
+  "variants": [
+    {
+      "id": "frightful-fiesta",
+      "variant_name": "Frightful Fiesta",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Frightful_Fiesta_Promo.jpg/revision/latest?cb=20150917204235",
+      "attacks": [
+        "Trumpet Concord",
+        "Amigos",
+        "Laid Low",
+        "Take It Away Amigos!",
+        "Diva"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Frightful_Fiesta"
+    }
+  ]
+}

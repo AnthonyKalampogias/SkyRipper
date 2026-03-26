@@ -1,0 +1,44 @@
+{
+  "id": "jolly-bumble-blast",
+  "name": "Jolly Bumble Blast",
+  "species": "Anthropomorphic Beehive",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "No other Skylander celebrates the holiday season quite like Bumble Blast. Every year, the magical bees that are under his protection decorate their mighty tree hero in wonderful festive colors. Then Bumble Blast makes it his mission to spread the cheer by blasting enchanted peppermint at anyone in need of a little holiday spirit. After all, 'tis the season to be jolly!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Jolly_Bumble_Blast",
+  "variants": [
+    {
+      "id": "jolly-bumble-blast",
+      "variant_name": "Jolly Bumble Blast",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Jolly_Bumble_Blast_Promo.jpg/revision/latest?cb=20131213214001",
+      "attacks": [
+        "Beezooka",
+        "Honey Glob",
+        "Honey Beecon",
+        "Bee Armada",
+        "Honey Buzz Blast"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Jolly_Bumble_Blast"
+    }
+  ]
+}

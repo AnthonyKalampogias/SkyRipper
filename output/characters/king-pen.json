@@ -1,0 +1,30 @@
+{
+  "id": "king-pen",
+  "name": "King Pen",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "King Pen hails from a militaristic unit of penguins who protect the Cloudmelt Glaciers. During an epic battle, King Pen was trapped in an avalanche and had to take refuge in a nearby cave for the remainder of the winter season. During his solitude, he was visited by a mysterious Yeti Master, named Snow Wah, who began teaching him an ancient combat style known as “Flipper-Fu”. King Pen was already a skilled fighter, but the wise teacher helped him to understand the spiritual and philosophical nature of warfare, turning the penguin into an unstoppable force. When he finally emerged from the cave, tales of his newfound abilities spread far and wide. When Master Eon caught wind, he recruited King Pen into his top secret training program, where he quickly rose up the ranks to become the leader of the Skylander Senseis. Years later, King Pen returned to the site of the avalanche to thank his teacher, but no evidence of Snow Wah or the cave was ever found – leaving many to wonder if the Yeti had ever existed at all.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/King_Pen",
+  "variants": [
+    {
+      "id": "king-pen",
+      "variant_name": "King Pen",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/cf/King_Pen_Promo.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/King_Pen"
+    }
+  ]
+}

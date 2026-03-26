@@ -1,0 +1,46 @@
+{
+  "id": "thumpback",
+  "name": "Thumpback",
+  "species": "Whale-like Behemoth",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "The Kaos Trap",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Thumpback was once a crew member of The Phantom Tide , the most fearsome pirate ship in all of Skylands . But the actual pirating part about being a pirate didn't interest Thumpback so much as the benefits that came with traveling on a large ship. After all, his real passion was fishing. But when his chance came to finally ensnare the most elusive creature in the sky - the Leviathan Cloud Crab - he was pulled over board and carried off into the horizon. This was actually quite fortunate, because sometime later The Phantom Tide and its entire crew were banished to the Chest of Exile . Thumpback’s pirating days were over, but his legend as one of the first Skylanders had only just begun.",
+  "personality": "Thumpback is steadfast, dependable, trustworthy, and gifted with the patience of an angler. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Thumpback",
+  "variants": [
+    {
+      "id": "thumpback",
+      "variant_name": "Thumpback",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/36/Thumpback_-_.jpg/revision/latest?cb=20130220165740",
+      "attacks": [
+        "Anchor Assault",
+        "Belly Flop",
+        "A Whale Of A Chomp",
+        "The Whalest Chomp",
+        "Now There's An Anchor!"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Thumpback"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "legendary-chill",
+  "name": "Legendary Chill",
+  "species": "Unknown",
+  "gender": "Female",
+  "element": "Water",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Lost Islands",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Chill",
+  "variants": [
+    {
+      "id": "legendary-chill",
+      "variant_name": "Legendary Chill",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/16/Legendary_Chill_Promo.jpg/revision/latest?cb=20130325172626",
+      "attacks": [
+        "Ice Javelin",
+        "Ice Wall",
+        "Glacial Bash",
+        "Cold Front",
+        "Imperial Armor"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Chill"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "nitro-magna-charge",
+  "name": "Nitro Magna Charge",
+  "species": "Ultron Robot",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers' (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Magna_Charge",
+  "variants": [
+    {
+      "id": "nitro-magna-charge",
+      "variant_name": "Nitro Magna Charge",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/78/Nitro_Magna_Charge.png/revision/latest?cb=20170304031832",
+      "attacks": [
+        "Magnet Cannon",
+        "Polarized Pickup",
+        "Magneto Ball",
+        "Eject",
+        "Plasma Shots"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Magna_Charge"
+    }
+  ]
+}

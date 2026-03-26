@@ -1,0 +1,46 @@
+{
+  "id": "hot-dog",
+  "name": "Hot Dog",
+  "species": "Fire Dog",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Terrafin Battles the Boom Brothers",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "*Return of the Dragon King *Skylanders: Battlecast",
+  "world": [
+    "Popcorn Volcano"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Hot Dog was born in the belly of the Popcorn Volcano. While on a nearby mission, a team of Skylanders had come across the stray fire pup when the volcano erupted and Hot Dog came rocketing straight into their camp, accidentally setting Gill Grunt 's tent on fire. Using his nose of danger, he helped the Skylanders complete their mission - even pouncing on a Lava Golem like a blazing comet when it threatened his new friends. After displaying such loyalty and bravery, Hot Dog was brought back to Eon's Citadel where he became a Skylander - and then he proceeded to bury Eon 's staff.",
+  "personality": "Hot Dog possesses a fierce loyalty to his friends, and true to his nature, he likes to bury things, especially imps . &#91; 3 &#93; &#160;He is always bounding around like an excitable puppy - which is exactly what he is. Not the kind of Skylander to go hungry, he is always on the lookout for a sizzling snack. &#91; 4 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Hot_Dog",
+  "variants": [
+    {
+      "id": "hot-dog",
+      "variant_name": "Hot Dog",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Hot_Dog_Promo.jpg",
+      "attacks": [
+        "Firebark",
+        "Wall of Fire",
+        "Comet Slam",
+        "Wall of More Fire",
+        "Super Comet"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Hot_Dog"
+    }
+  ]
+}

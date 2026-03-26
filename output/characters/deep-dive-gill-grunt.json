@@ -1,0 +1,42 @@
+{
+  "id": "deep-dive-gill-grunt",
+  "name": "Deep Dive Gill Grunt",
+  "species": "Gillman",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "*SuperChargers Issue 1 (comic cover) *SuperChargers Issue 3 (comic cover) *SuperChargers Issue 6 (comic cover) *Skylanders: Ring of Heroes (promo art)",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Deep_Dive_Gill_Grunt",
+  "variants": [
+    {
+      "id": "deep-dive-gill-grunt",
+      "variant_name": "Deep Dive Gill Grunt",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/59/Deep_Dive_Gill_Grunt.jpg/revision/latest?cb=20150619185921",
+      "attacks": [
+        "Trident Thrust",
+        "Power of the Seas",
+        "Typhoon Turbine Jetpack",
+        "Wave Jumper",
+        "Lightning Strikes"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Deep_Dive_Gill_Grunt"
+    }
+  ]
+}

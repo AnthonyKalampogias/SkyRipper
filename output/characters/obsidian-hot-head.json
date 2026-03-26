@@ -1,0 +1,36 @@
+{
+  "id": "obsidian-hot-head",
+  "name": "Obsidian Hot Head",
+  "species": "Fire Gollum",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Battlecast",
+  "appearances": [
+    "Skylanders: Battlecast"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Obsidian_Hot_Head",
+  "variants": [
+    {
+      "id": "obsidian-hot-head",
+      "variant_name": "Obsidian Hot Head",
+      "edition": "Series 1",
+      "type": "Giant",
+      "game": "Skylanders: Battlecast",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/19/Fiery_Outburst_-_Special_Abilitycard.png/revision/latest?cb=20160801164959",
+      "attacks": [
+        "Fiery Outburst"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Obsidian_Hot_Head"
+    }
+  ]
+}

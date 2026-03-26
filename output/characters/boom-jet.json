@@ -1,0 +1,45 @@
+{
+  "id": "boom-jet",
+  "name": "Boom Jet",
+  "species": "Unknown",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "*Return of the Dragon King *Rift into Overdrive",
+  "world": [
+    "Billowy Cloudplains"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "No matter what Boom Jet did, he always had to be the best. He could be seen day and night above his home in the Billowy Cloudplains gunning his engines and performing daredevil maneuvers as he trained to become the best sky surfer in all of Skylands . Unfortunately, Boom Jet never had a chance to compete for the championship because a day came that changed his life forever. The Darkness had come. And with his town on the verge of being completely consumed by the ominous evil force, Boom Jet took action. Using his incredible flying skills, he raced from house to house, rescuing all of the citizens and carrying them to safety… just before The Darkness destroyed his homeland. It was then he realized the protection of Skylands was more important than personal glory, so he sought out Master Eon to offer his services to the Skylanders.",
+  "personality": "Boom Jet is a complete daredevil, convinced that he always has to be the best as what he does and can seem full of himself at times. Luckily, he's as brave as he is boastful. &#91; 4 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Boom_Jet",
+  "variants": [
+    {
+      "id": "boom-jet",
+      "variant_name": "Boom Jet",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9f/Boom_Jet_Promo_Art.jpg",
+      "attacks": [
+        "Football Bomb",
+        "Wind Turbine",
+        "Air Strike",
+        "Mach 1",
+        "Storm Bomb"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Boom_Jet"
+    }
+  ]
+}

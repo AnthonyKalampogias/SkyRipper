@@ -1,0 +1,45 @@
+{
+  "id": "granite-crusher",
+  "name": "Granite Crusher",
+  "species": "Rock Golem",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Lost Islands",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Granite_Crusher",
+  "variants": [
+    {
+      "id": "granite-crusher",
+      "variant_name": "Granite Crusher",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Granite_Crusher_Promo.jpg/revision/latest?cb=20121008023755",
+      "attacks": [
+        "Crusher's Crusher",
+        "Turn to Stone",
+        "Rockslide",
+        "Ground Grinder",
+        "Cavelight Blast"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Granite_Crusher"
+    }
+  ]
+}

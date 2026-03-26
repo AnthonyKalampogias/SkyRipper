@@ -1,0 +1,30 @@
+{
+  "id": "snap-shot",
+  "name": "Snap Shot",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "Snap Shot came from a long line of Crocagators that lived in the remote Swamplands, where he hunted chompies for sport. After rounding up every evil critter in his homeland, Snap Shot ventured out into the world to learn new techniques that he could use to track down more challenging monsters. He journeyed far and wide, perfecting his archery skills with the Elves and his hunting skills with the wolves. Soon he was the most revered monster hunter in Skylands – a reputation that caught the attention of Master Eon . It then wasn’t long before Snap Shot became the leader of the Trap Masters, a fearless team of Skylanders that mastered legendary weapons made of pure Traptanium . It was this elite team that tracked down and captured the most notorious villains Skylands had ever known!",
+  "personality": "Snap Shot is a fearless crocagator who uses his wild tracking skills to hunt down evil monsters and eventually villains.&#160;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Snap_Shot",
+  "variants": [
+    {
+      "id": "snap-shot",
+      "variant_name": "Snap Shot",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/26/Snap_Shot_Promo.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Snap_Shot"
+    }
+  ]
+}

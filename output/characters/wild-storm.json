@@ -1,0 +1,41 @@
+{
+  "id": "wild-storm",
+  "name": "Wild Storm",
+  "species": "Unknown",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "By the time he was 10 years old, Wild Storm had already mastered the Air Blade. With no family of his own, he spent much of his youth traveling throughout Skylands , offering his combat services to the highest bidder as a soldier of fortune. On one such occasion, he was hired by Kaos to break into a pirate outpost in Skyhighlands to steal their legendary gold detector. But little did Wild Storm know, he was only being used by Kaos to scout their defenses – and he was captured by the pirates ! While imprisoned in the highest tower, the powerful winds blew through his cell, fueling his anger. But Wild Storm would not be contained! Harnessing the storm’s energy, he grew 3 times his size and exploded out of his prison – vowing to put a stop to Kaos once and for all. Soon after, he met Master Eon , who agreed to help him, provided Wild Storm would share his skills in swordsmanship with other Skylanders, as a Sensei of the Knight Class!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Wild_Storm",
+  "variants": [
+    {
+      "id": "wild-storm",
+      "variant_name": "Wild Storm",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/88/Wild_Storm_Artwork.jpg/revision/latest?cb=20161112115632",
+      "attacks": [
+        "Storm Strike",
+        "Lightning Bolt",
+        "Use Your Head!",
+        "Brute Edge",
+        "Cut Loose"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Wild_Storm"
+    }
+  ]
+}

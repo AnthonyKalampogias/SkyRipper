@@ -1,0 +1,49 @@
+{
+  "id": "drill-sergeant",
+  "name": "Drill Sergeant",
+  "species": "Arkeyan drill machine",
+  "gender": "Male",
+  "element": "Tech",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Lost Islands",
+    "Skylanders: Giants",
+    "Spyro versus The Mega Monsters",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Like many Arkeyan artifacts, Drill Sergeant was buried for centuries – a long forgotten remnant of an ancient powerful civilization. It was only a chance collision with a burrowing Terrafin that led to his systems firing up again. By Arkeyan custom, Drill Sergeant was then obligated to become Terrafin’s servant. This didn’t sit well with the dirt shark, so his first order as master was for Drill Sergeant to not serve him at all… a command he continues to follow zealously to this day.",
+  "personality": "Drill Sergeant was built and programmed to obey orders, which results in him calling everyone 'sir', which irritates some of his comrades. He follows rules to the letter, never wavering until the job is done. &#91; 3 &#93; As a valued member of the Skylanders, he is a free machine, answering to no one, but old habits of his Arkeyan programming hasn't yet diminished. Like all Tech Skylanders, Drill Sergeant is fascinated by machinery. &#91; 4 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Drill_Sergeant",
+  "variants": [
+    {
+      "id": "drill-sergeant",
+      "variant_name": "Drill Sergeant",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f9/290px-Drill-Sergeant_03.jpg",
+      "attacks": [
+        "Drill Rocket",
+        "Bulldoze Charge",
+        "Power Charge",
+        "Auto-Blaster",
+        "DX3000 - Drill Detonator"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Drill_Sergeant"
+    }
+  ]
+}

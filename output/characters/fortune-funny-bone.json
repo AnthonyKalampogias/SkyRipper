@@ -1,0 +1,34 @@
+{
+  "id": "fortune-funny-bone",
+  "name": "Fortune Funny Bone",
+  "species": "Skeletal Dog",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: Lost Islands(March 2015)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Punch Line Island"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Fortune_Funny_Bone",
+  "variants": [
+    {
+      "id": "fortune-funny-bone",
+      "variant_name": "Fortune Funny Bone",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Lost Islands(March 2015)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/46/Fortune_Funny_Bone_PNG.png/revision/latest?cb=20201208110129",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Fortune_Funny_Bone"
+    }
+  ]
+}

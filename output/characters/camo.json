@@ -1,0 +1,47 @@
+{
+  "id": "camo",
+  "name": "Camo",
+  "species": null,
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Return of the Dragon King",
+  "world": [
+    "Tree of Life"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Hatched at the roots of the Tree of Life , Camo is half-dragon, half-plant – with effervescent life energy flowing through his scaly leaves. This power allows him to cultivate fruits and vegetables at a highly-accelerated rate, which causes them to explode when they ripen. Camo’s unique gift caught the eye of Master Eon , initially because he was hungry and tried to eat a melon that exploded in his face. But upon realizing his true power, Eon convinced Camo to help the Skylanders protect their world.",
+  "personality": "Like most dragons, Camo loves a laugh. &#91; 2 &#93; He is a real prankster, with one of his favorite tricks creating fruit and vegetables that explode in your shocked face! &#91; 3 &#93; Despite his love of pranks, Camo is serious when it comes to protecting Skylands and its inhabitants.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Camo",
+  "variants": [
+    {
+      "id": "camo",
+      "variant_name": "Camo",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/05/Camo_02.jpg",
+      "attacks": [
+        "Sun Burst",
+        "Firecracker Vines",
+        "Searing Sun Blast",
+        "Melon Fountain",
+        "Peppers of Potency"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Camo"
+    }
+  ]
+}

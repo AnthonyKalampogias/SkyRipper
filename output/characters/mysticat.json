@@ -1,0 +1,41 @@
+{
+  "id": "mysticat",
+  "name": "Mysticat",
+  "species": "Sphinx",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "For centuries, Mysticat and the great Sphinxes guarded the entrance to the Enchanted Desert with their famous riddles, which few could solve. Mysticat was a curious creature, and had his own question that even he could not answer. He was puzzled as to why others wanted to enter the Enchanted Desert so badly. So he decided to venture himself to find the answer. But instead of finding answers, he was attacked by wandering gypsies and evil sand raiders that scoured the desert for lost treasure. After fighting them off with his impressive sorcery skills, he returned to the elders and explained what happened. It was then that they revealed the true nature of the desert to him. They told him that what he saw was a vision of his own destiny - and that he was meant to protect all of Skylands, not just the Enchanted Desert. Master Eon was then invited to enter the desert to meet Mysticat to see if their two destinies were intertwined. When Eon emerged the next day, it was clear to him that Mysticat was meant to be one of his best Senseis... and that he would one day shave his beard. But he kept that part to himself.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Mysticat",
+  "variants": [
+    {
+      "id": "mysticat",
+      "variant_name": "Mysticat",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/6d/Mysticat_Promo.jpg/revision/latest?cb=20160927195737",
+      "attacks": [
+        "Laser Painter",
+        "Paw Print",
+        "Help Meow-t",
+        "Cat-astrophic Chasers",
+        "The Feline's Mutual"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Mysticat"
+    }
+  ]
+}

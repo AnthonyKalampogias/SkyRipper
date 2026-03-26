@@ -1,0 +1,43 @@
+{
+  "id": "legendary-bushwhack",
+  "name": "Legendary Bushwhack",
+  "species": "Tree Elf",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Arcadian Timberland"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bushwhack",
+  "variants": [
+    {
+      "id": "legendary-bushwhack",
+      "variant_name": "Legendary Bushwhack",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/be/LegendaryBushwhack.png/revision/latest?cb=20170304031643",
+      "attacks": [
+        "Traptanium Axe",
+        "Mystic Acorn",
+        "Headbash",
+        "An Axe to Grind",
+        "Bush's Shack"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bushwhack"
+    }
+  ]
+}

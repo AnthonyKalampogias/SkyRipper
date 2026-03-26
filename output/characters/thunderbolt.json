@@ -1,0 +1,44 @@
+{
+  "id": "thunderbolt",
+  "name": "Thunderbolt",
+  "species": "Unknown",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Mount Cloudpierce"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Epically strong and heroically competitive, Thunderbolt grew up on legendary Mount Cloudpierce. Every year, his people held a contest to determine who would wield the Storm Sword – a legendary blade with the power to change the seasons in Skylands . To Thunderbolt, this would be a great honor. But on the day he won the contest and was about to be presented with the sword, a Frost Mage snatched it and plunged all of Skylands into a wintery deep-freeze. Undaunted, Thunderbolt bravely took chase. Riding twin bolts of chained lightning, he overtook the mage, reclaimed the sword, and restored balance to the weather systems in Skylands. For his heroic actions, Thunderbolt was made a member of the Trap Team, and he now uses his Traptanium Storm Sword to strike evil at every turn!",
+  "personality": "Thunderbolt is a fierce competitor who faces each opponent with honor and bravery. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Thunderbolt",
+  "variants": [
+    {
+      "id": "thunderbolt",
+      "variant_name": "Thunderbolt",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Thunderbolt.jpg/revision/latest?cb=20150901011301",
+      "attacks": [
+        "Traptanium Thundersword",
+        "Storm Clouds",
+        "Lightning Clouds",
+        "Direct Current",
+        "Stormier and Stormier"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Thunderbolt"
+    }
+  ]
+}

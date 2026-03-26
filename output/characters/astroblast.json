@@ -1,0 +1,42 @@
+{
+  "id": "astroblast",
+  "name": "Astroblast",
+  "species": "Unknown",
+  "gender": "Male",
+  "element": "Light",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "While on a secret mission in troll territory, Astroblast crash landed on a remote island where he stumbled upon an ancient relic not seen in thousands of years - a legendary Rift Engine . These magical machines were believed to have the power to travel through the portals between Skylands and other worlds! Shortly after the discovery, an army of trolls appeared on a nearby canyon ridge and quickly charged toward Astroblast. Knowing that the Rift Engine would be very dangerous in the wrong hands, he pulled out his pulse laser and prepared to defend the relic against the incoming horde. After an epic shootout, the trolls fled in defeat. When Astroblast then brought the relic back to his ship, the Sun Runner, it surged with power and a hologram of Master Eon appeared. Eon thanked him for saving the Rift Engine and beckoned him to return it to the Skylander Academy . Astroblast accepted the invitation and was made a Skylander shortly thereafter.",
+  "personality": "Astroblast is a curious type who won't back down from a fight. He's always prepared to protect people and relics from danger. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Astroblast",
+  "variants": [
+    {
+      "id": "astroblast",
+      "variant_name": "Astroblast",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/34/Astroblast_Promo_Art.jpg/revision/latest?cb=20150928205136",
+      "attacks": [
+        "Solar Flair",
+        "Asteroid Belt",
+        "Starsault",
+        "Surface of the Sun",
+        "Meteor Shower"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Astroblast"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "snowler-brawl",
+  "name": "Snowler Brawl",
+  "species": "Vampire",
+  "gender": "Female",
+  "element": "Undead",
+  "primary_game": "Skylanders: Lost Islands (December 2013)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Snowler_Brawl",
+  "variants": [
+    {
+      "id": "snowler-brawl",
+      "variant_name": "Snowler Brawl",
+      "edition": "Series 1",
+      "type": "Swap Force",
+      "game": "Skylanders: Lost Islands (December 2013)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Snowler_Brawl_Promo.jpg/revision/latest?cb=20131218033249",
+      "attacks": [
+        "None"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Snowler_Brawl"
+    }
+  ]
+}

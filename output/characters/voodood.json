@@ -1,0 +1,50 @@
+{
+  "id": "voodood",
+  "name": "Voodood",
+  "species": "Orc",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Lost Islands",
+    "Skylanders: Giants",
+    "Lightning Rod Faces the Cyclops Queen",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Secret Agent Secrets",
+    "Skylanders: Imaginators}}"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Voodood was a brave warrior among his people. During his rite of passage as a young orc, he entered the Cave of Trials to prove his worth. It was there he found much more than expected. Lured by a brilliant light, Voodood discovered the skeleton of an enormous dragon with an ornate axe buried where the heart would have been. The village was astonished when he exited the cave holding the legendary Axe Reaver and wearing the dragon skull on his head. Voodood quickly became warrior leader and defended his homeland from many beasts and invaders... until he was the last of his tribe. Soon after, he joined the Skylanders.",
+  "personality": "Voodood was known as a highly decorated soldier of his people, commanding a well-known team of dangerous warriors. When not fighting evil, he is constantly searching for new and exotic bones to expand his collection. Voodood also insists that he has a heart of gold, despite knowing about the Orcs' bad reputation. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Voodood",
+  "variants": [
+    {
+      "id": "voodood",
+      "variant_name": "Voodood",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/38/Voodood_Promo.jpg",
+      "attacks": [
+        "Axe Reaver",
+        "Zipline Axe",
+        "Magical Tripwire",
+        "Extended Blade",
+        "Electro Axe"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Voodood"
+    }
+  ]
+}

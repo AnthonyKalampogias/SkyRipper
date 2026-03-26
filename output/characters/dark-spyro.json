@@ -1,0 +1,30 @@
+{
+  "id": "dark-spyro",
+  "name": "Dark Spyro",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "Spyro is a rare magical dragon with the ability to harness the power of the other elements, though he prefers to master fire. However, this innate power also leaves him vulnerable to the influence of dark magic. When The Darkness is nearby, Spyro can channel his energy and combine its power with his own, becoming Dark Spyro. Over the years, he has learned to focus and control his power, using this dark magic to fight the forces of evil.",
+  "personality": "Dark Spyro is more wild, erratic, and darker than his normal counterpart, as seen in his Nintendo 3DS gameplay. While in this form, he is always at risk of being consumed by the dark magic. This process worries his fellow Skylanders at times as they fear that the evil forces may eventually corrupt their friend. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Spyro",
+  "variants": [
+    {
+      "id": "dark-spyro",
+      "variant_name": "Dark Spyro",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/24/300px-Dark-Spyro_01.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Spyro"
+    }
+  ]
+}

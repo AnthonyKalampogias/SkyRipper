@@ -1,0 +1,44 @@
+{
+  "id": "enchanted-hoot-loop",
+  "name": "Enchanted Hoot Loop",
+  "species": "Owl",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": "Hoot Loop was raised by a guild of magicians in Skylands' most famous traveling circus. At a young age, he perfected illusions and spells that only the very best of their guild could perform, and even mastered the art of teleportation! Soon enough, he became the star of the show, known far and wide as the Amazing Hoot Loop. However, one day an army of Greebles disguised as clowns invaded, determined to destroy the popular circus. It was then that Hoot Loop gave a performance that few would ever forget. Using his incredible powers, he fought off the invaders and saved the circus - to the raucous applause of the many spectators - including Master Eon , who presented Hoot Loop with an opportunity to learn some real magic as a member of the Skylanders.",
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Enchanted_Hoot_Loop",
+  "variants": [
+    {
+      "id": "enchanted-hoot-loop",
+      "variant_name": "Enchanted Hoot Loop",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Enchanted_Hoot_Loop_Promo.jpg/revision/latest?cb=20130927174341",
+      "attacks": [
+        "Dejaboom!",
+        "Hypnotism",
+        "Loop the Loop",
+        "Portable Hole",
+        "Tricked Ya!"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Enchanted_Hoot_Loop"
+    }
+  ]
+}

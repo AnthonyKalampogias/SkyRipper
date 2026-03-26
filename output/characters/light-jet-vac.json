@@ -1,0 +1,38 @@
+{
+  "id": "light-jet-vac",
+  "name": "Light Jet-Vac",
+  "species": "Sky Baron",
+  "gender": "Male",
+  "element": "Light",
+  "primary_game": "Skylanders: Ring of Heroes (Beta and 1.0)",
+  "appearances": [
+    "Skylanders: Ring of Heroes (Beta and 1.0)"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Light_Jet-Vac",
+  "variants": [
+    {
+      "id": "light-jet-vac",
+      "variant_name": "Light Jet-Vac",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Ring of Heroes (Beta and 1.0)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e3/Light_Jet_Vac.png/revision/latest?cb=20180617154112",
+      "attacks": [
+        "Vac Blaster",
+        "Shoot the Breeze!",
+        "Eagle-Air Gear"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Light_Jet-Vac"
+    }
+  ]
+}

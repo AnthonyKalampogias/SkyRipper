@@ -1,0 +1,34 @@
+{
+  "id": "sundae-slobber-tooth",
+  "name": "Sundae Slobber Tooth",
+  "species": "Turtle Dinosaur",
+  "gender": "Male",
+  "element": "Earth",
+  "primary_game": "Skylanders: Lost Islands (July 2014)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Sundae_Slobber_Tooth",
+  "variants": [
+    {
+      "id": "sundae-slobber-tooth",
+      "variant_name": "Sundae Slobber Tooth",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Lost Islands (July 2014)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/2a/Sundae_Slobber_Tooth.jpg/revision/latest?cb=20140715010338",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Sundae_Slobber_Tooth"
+    }
+  ]
+}

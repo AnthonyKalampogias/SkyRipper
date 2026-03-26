@@ -1,0 +1,46 @@
+{
+  "id": "spitfire",
+  "name": "Spitfire",
+  "species": "Flame Spirit",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Secret Agent Secrets",
+    "Biting Back",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "Unexpected Allies",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Spitfire was on pace to become the fastest driver in the Super Skylands Racing Circuit. With his lightning quick reflexes and nerves of steel, this tech enhanced flame spirit was absolutely unbeatable. But during the championship event at Skywinder Canyon, he was illegally bumped off course by a goblin racer and sent flying into the canyon wall in a fiery explosion! Most thought that this would put an end his racing career. But three weeks later, he was back on the track, more fired up than ever to claim the title. Unfortunately, it was then that all of Skylands fell under the rule of Kaos in his Sky Eating machine , and the racing came to an end. That’s when Spitfire was approached by Master Eon with an offer that could get him back behind the wheel as the new leader of an elite driving team – the Skylander Superchargers!",
+  "personality": "Spitfire is a spirited speed demon with lightning quick reflexes and nerves of steel. He is quite arrogant and overconfident, though the comics show Spitfire will keep it aside to act like a proper leader. He might be unbeatable, but Spitfire is no hothead. His bravery, determination and tenacity make him a fiery force to be reckoned with. &#91; 1 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Spitfire",
+  "variants": [
+    {
+      "id": "spitfire",
+      "variant_name": "Spitfire",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Spitfire_Promo.jpg/revision/latest?cb=20150603211841",
+      "attacks": [
+        "Butane Brawling",
+        "Flash Fire",
+        "Flamenado",
+        "Mega Marathon",
+        "Flamenado 2"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Spitfire"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "missile-tow-dive-clops",
+  "name": "Missile-Tow Dive-Clops",
+  "species": "Eyeball",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Every Skylander celebrates the holiday season in their own special way. For some, it means giving and receiving presents. For others, it means stuffing their face with festive food. For Dive-Clops it means hiding beneath the Academy archways to shoot candy-coated missiles at fellow Skylanders that pass by. To be fair, he does hang a sign that reads: \"Ho-Ho-Ho...Look Out Below!\" &#91; 1 &#93;",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Missile-Tow_Dive-Clops",
+  "variants": [
+    {
+      "id": "missile-tow-dive-clops",
+      "variant_name": "Missile-Tow Dive-Clops",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Missile_Toe_Dive_Clops_Promo.jpg/revision/latest?cb=20151118070120",
+      "attacks": [
+        "Waterpedo",
+        "Sonar",
+        "Put the Eye in Geyser",
+        "Torpeslow",
+        "Sonar Smarts"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Missile-Tow_Dive-Clops"
+    }
+  ]
+}

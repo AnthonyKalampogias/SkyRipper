@@ -1,0 +1,30 @@
+{
+  "id": "flashwing",
+  "name": "Flashwing",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": "Flashwing's true origins are a mystery, but her first appearance came when Bash made a wish that he could fly and looked up to see a shooting star streak across the sky and into a valley below. In the centre of the glowing impact crater was a large, brilliant geode - which suddenly cracked open to reveal Flashwing. Bash may not have soared that day, but his heart sure did, because Flashwing was beautiful... and lethal. As soon as Bash stepped closer, the gem dragon turned towards him. Not knowing if he was friend or foe, she blasted him off of the cliff with a full force laser pulse from her tail! Perhaps Bash flew that day after all.",
+  "personality": "Flashwing knows just how beautiful she appears and also how deadly she can be. She often tries to steal the spotlight from her fellow Skylanders, but her kind heart always shines through in the end. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Flashwing",
+  "variants": [
+    {
+      "id": "flashwing",
+      "variant_name": "Flashwing",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Earth_Flashwing.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Flashwing"
+    }
+  ]
+}

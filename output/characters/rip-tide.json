@@ -1,0 +1,45 @@
+{
+  "id": "rip-tide",
+  "name": "Rip Tide",
+  "species": "Fish",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Rip Tide was known far and wide as one of the best Aqua-Fighters in Skylands . He mastered a multitude of water techniques and astonished tournament spectators with his ability to adapt his fighting style to any opponent. Amongst his repertoire were Swordfish Fencing, Hammerhead Heaving, and even the rare Blubber Whale Wallop -- which he had used on numerous occasions in the legendary Rumble in the Reef. His unrivaled skill as a swordsman soon drew the attention of Master Eon . But when Kaos learned of this, he sent forth a legion of Squidface Brutes to stop Rip Tide before he could join the Skylanders... and everyone knows how that turned out, except for the Squidface Brutes, who after being knocked senseless can't remember a thing.",
+  "personality": "Highly adaptable, Rip Tide can master any fighting style in minutes. &#91; 1 &#93; In Skylanders: Battlecast , he has gallant and proud mannerisms.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Rip_Tide",
+  "variants": [
+    {
+      "id": "rip-tide",
+      "variant_name": "Rip Tide",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Rip_Tide_cpromo.jpg/revision/latest?cb=20140617031054",
+      "attacks": [
+        "Horn Tetra Attack",
+        "Fish Toss",
+        "Whale On 'Em",
+        "Nipping Needle Nose",
+        "Shark Surprise"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Rip_Tide"
+    }
+  ]
+}

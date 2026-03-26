@@ -1,0 +1,42 @@
+{
+  "id": "elite-stealth-elf",
+  "name": "Elite Stealth Elf",
+  "species": "Elf",
+  "gender": "Female",
+  "element": "Life",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Of all the heroic Skylanders , there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon’s Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands !",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Stealth_Elf",
+  "variants": [
+    {
+      "id": "elite-stealth-elf",
+      "variant_name": "Elite Stealth Elf",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/09/EliteStealthElf_illustration.png/revision/latest?cb=20161108182751",
+      "attacks": [
+        "Blade Slash",
+        "Stealth",
+        "Dragonfang Daggers",
+        "Arboreal Acrobatics",
+        "Elf Jitsu"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Stealth_Elf"
+    }
+  ]
+}

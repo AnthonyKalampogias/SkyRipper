@@ -1,0 +1,43 @@
+{
+  "id": "flip-wreck",
+  "name": "Flip Wreck",
+  "species": "Dolphin",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Bottlenose Bay"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Most of the dolphins of Bottlenose Bay spent their days playing in the waves. However, Flip Wreck was different. Always the adventurous one, he took it upon himself to be a self-appointed protector of his undersea world. One day, while exploring an underwater graveyard of shipwrecks, he came across a massive Ice Viking ship that was still intact. Suddenly, a huge crew of Ice Vikings burst out from inside and began leading an attack on the unarmed dolphin residents. Flip Wreck took off at once and quickly fastened together armor, shield, and sword using pieces from the nearby wrecks. He then single-handedly defeated the Ice Vikings, who retreated never to be seen again. For his heroic actions, Flip Wreck was made a Skylander and now turns the tide against evil in Skylands !",
+  "personality": "Flip Wreck might be the fearless protector of Bottlenose Bay and a hero to his dolphin friends but, don't worry, he doesn't let it go to his head. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Flip_Wreck",
+  "variants": [
+    {
+      "id": "flip-wreck",
+      "variant_name": "Flip Wreck",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/2a/Flip_Wreck.jpg/revision/latest?cb=20161214171853",
+      "attacks": [
+        "Sea Saw",
+        "Wheeling and Dealing",
+        "Wheel Shield Bash",
+        "Fish?!?",
+        "Sword Swells"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Flip_Wreck"
+    }
+  ]
+}

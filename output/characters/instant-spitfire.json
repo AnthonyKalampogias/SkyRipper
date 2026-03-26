@@ -1,0 +1,40 @@
+{
+  "id": "instant-spitfire",
+  "name": "Instant Spitfire",
+  "species": "Flame Spirit",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Spitfire",
+  "variants": [
+    {
+      "id": "instant-spitfire",
+      "variant_name": "Instant Spitfire",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Instant_Spitfire.jpg/revision/latest?cb=20170213015025",
+      "attacks": [
+        "Butane Brawling",
+        "Flash Fire",
+        "Flamenado",
+        "Mega Marathon",
+        "Flamenado 2"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Spitfire"
+    }
+  ]
+}

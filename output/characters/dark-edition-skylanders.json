@@ -1,0 +1,30 @@
+{
+  "id": "dark-edition-skylanders",
+  "name": "Dark Edition Skylanders",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Edition_Skylanders",
+  "variants": [
+    {
+      "id": "dark-edition-skylanders",
+      "variant_name": "Dark Edition Skylanders",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/43/Dark_Skylanders_Art.jpg",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Edition_Skylanders"
+    }
+  ]
+}

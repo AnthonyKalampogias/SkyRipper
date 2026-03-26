@@ -1,0 +1,34 @@
+{
+  "id": "holiday-wash-buckler",
+  "name": "Holiday Wash Buckler",
+  "species": "Mermasquid",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Lost Islands (December 2013)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Holiday_Wash_Buckler",
+  "variants": [
+    {
+      "id": "holiday-wash-buckler",
+      "variant_name": "Holiday Wash Buckler",
+      "edition": "Series 1",
+      "type": "Swap Force",
+      "game": "Skylanders: Lost Islands (December 2013)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/46/HolidayWashBuckler.jpg/revision/latest?cb=20140704041631",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Holiday_Wash_Buckler"
+    }
+  ]
+}

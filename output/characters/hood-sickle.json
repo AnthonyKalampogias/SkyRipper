@@ -1,0 +1,39 @@
+{
+  "id": "hood-sickle",
+  "name": "Hood Sickle",
+  "species": "Reaper",
+  "gender": "Male",
+  "element": "Undead/Dark",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Trap Team (Console)",
+    "Skylanders: SuperChargers",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Hood_Sickle_(character)",
+  "variants": [
+    {
+      "id": "hood-sickle",
+      "variant_name": "Hood Sickle",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/aa/Hood-Sickle_Promo.jpg",
+      "attacks": [
+        "Trap Team=Teleport",
+        "Ghost strike"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Hood_Sickle_(character)"
+    }
+  ]
+}

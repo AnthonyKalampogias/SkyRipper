@@ -1,0 +1,36 @@
+{
+  "id": "jingle-bell-chompy-mage",
+  "name": "Jingle Bell Chompy Mage",
+  "species": "Half-Wizard Half-Gargantuan Chompy",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Chompy Mountain"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Jingle_Bell_Chompy_Mage",
+  "variants": [
+    {
+      "id": "jingle-bell-chompy-mage",
+      "variant_name": "Jingle Bell Chompy Mage",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/05/Jingle_Bell_Chompy_Mage_Promo.jpg/revision/latest?cb=20161112131915",
+      "attacks": [
+        "Chompzooka! Talk to the Hand! Chompy Pile! Staff Shot Chompies to Go Please"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Jingle_Bell_Chompy_Mage"
+    }
+  ]
+}

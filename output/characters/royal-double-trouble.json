@@ -1,0 +1,46 @@
+{
+  "id": "royal-double-trouble",
+  "name": "Royal Double Trouble",
+  "species": "Tiki Masked Sorcerer.",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Double Trouble was an adept spellcaster. On an expedition to find exotic ingredients for his potions, he traveled in search of a rare lily that was said to multiply the power of any spell. So thrilled was he when he found it, Double Trouble instantly ate the plant and performed a spell. Suddenly, there was a loud pop… then another… and another – until Double Trouble was surrounded by exact copies of himself. As it turned out, he had misunderstood the details about exactly what would multiply. But it didn’t matter, for he quickly realized the clones were delightful companions… never mind that they were only half his size and would explode on contact.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Royal_Double_Trouble",
+  "variants": [
+    {
+      "id": "royal-double-trouble",
+      "variant_name": "Royal Double Trouble",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/69/Royal_Double_Trouble_.png/revision/latest?cb=20170306064121",
+      "attacks": [
+        "Eldritch Beam",
+        "Conjure Exploding Double",
+        "Summon Magic Bomb",
+        "Arcane Eldritch Beam",
+        "Magical Cataclysm"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Royal_Double_Trouble"
+    }
+  ]
+}

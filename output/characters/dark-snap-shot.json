@@ -1,0 +1,43 @@
+{
+  "id": "dark-snap-shot",
+  "name": "Dark Snap Shot",
+  "species": "Crocagator",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Swamplands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium – which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it – combining the dark power with their own to fight Kaos and the forces of evil.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Snap_Shot",
+  "variants": [
+    {
+      "id": "dark-snap-shot",
+      "variant_name": "Dark Snap Shot",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/8d/Dark_Snap_Shot_Promo.jpg/revision/latest?cb=20140721141921",
+      "attacks": [
+        "Traptanium Arrows",
+        "Crystal Slam",
+        "Sure Shot Croc",
+        "Arrowsplosion",
+        "Big Wave Torrent"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Snap_Shot"
+    }
+  ]
+}

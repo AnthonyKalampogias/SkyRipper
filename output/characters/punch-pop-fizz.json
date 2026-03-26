@@ -1,0 +1,45 @@
+{
+  "id": "punch-pop-fizz",
+  "name": "Punch Pop Fizz",
+  "species": "Gremlin",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Some of Pop Fizz's experiments end with a new potion to throw at his enemies. Others change the color of his fur completely, such as the one responsible for his red color. Sporting a new red coat, the change hasn't stopped Pop Fizz from continuing to mix his strange brews. The zany Skylander rushes into battle without hesitation, tossing his concoctions at his foes or drinking them to unleash the Berserker.&#160;",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Punch_Pop_Fizz",
+  "variants": [
+    {
+      "id": "punch-pop-fizz",
+      "variant_name": "Punch Pop Fizz",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e7/Punch_pop_fizz.png/revision/latest?cb=20130414110714",
+      "attacks": [
+        "Potion Lob",
+        "Beast Form",
+        "New Concoctions",
+        "Puddle of Pain",
+        "Raging Beast"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Punch_Pop_Fizz"
+    }
+  ]
+}

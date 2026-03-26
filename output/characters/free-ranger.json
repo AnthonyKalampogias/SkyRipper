@@ -1,0 +1,46 @@
+{
+  "id": "free-ranger",
+  "name": "Free Ranger",
+  "species": "Storm Chicken",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": "Return of the Dragon King",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Free Ranger was hatched during a storm when a thunderous bolt of lightning struck his egg. From that very moment, his destiny was clear – he would become the greatest storm chaser ever known! He spent his entire life pursuing hurricanes, spinning inside tornados, and riding lightning. But a day came when he encountered a storm unlike any other. It was unnatural and ominous, billowing with evil, and leaving only desolation in its wake. Free Ranger was standing at its edge, moments from boldly leaping into it, when he was stopped by none other than Master Eon . The wise Portal Master told him that it was The Darkness that raged before them, and if he were up to the challenge, he could join the Skylanders to help defend against it in the Cloudbreak Islands .",
+  "personality": "A real whirlwind, Free Ranger is sometimes too impetuous for his own good. &#91; 4 &#93; &#160;He has a love for bad weather, such as tornadoes, hurricanes and thunderstorms, and would often throw himself into them.&#160;He is most likely to talk about the weather; and least likely to stay indoors because it's raining. He is incredibly brave (but also a big chicken) and uncomfortable in confined spaces. &#91; 5 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Free_Ranger",
+  "variants": [
+    {
+      "id": "free-ranger",
+      "variant_name": "Free Ranger",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Free_Ranger_Art.jpg",
+      "attacks": [
+        "Stormblade Slash",
+        "Ride the Wind",
+        "Eyes of the Storm",
+        "Approaching Storm",
+        "Charged Blades"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Free_Ranger"
+    }
+  ]
+}

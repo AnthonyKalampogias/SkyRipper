@@ -1,0 +1,41 @@
+{
+  "id": "barbella",
+  "name": "Barbella",
+  "species": "Unknown",
+  "gender": "Female",
+  "element": "Earth",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Barbella was the best fitness trainer in all of Skylands. Not only did she possess otherworldly strength, she was also a firm believer that a healthy diet and exercise led to true happiness. With such a positive message to spread, Barbella decided to open her own fitness center called “Flex-a-lot”, where she hoped to instill good eating and workout habits with all of her patrons. But one day, the gelatinous villain known as The Gulper destroyed her gym, and it took all of Barbella’s strength to keep it from collapsing while everyone fled to safety. It was then that Barbella realized that bad guys were more hazardous to your health than anything else, so she began to train in the ways of the Sentinel, where she quickly became one of the greatest masters in the world!",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Barbella",
+  "variants": [
+    {
+      "id": "barbella",
+      "variant_name": "Barbella",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Barbella_Promo.jpg/revision/latest?cb=20160927200305",
+      "attacks": [
+        "Barbell Bash",
+        "Rocky Rep",
+        "Cubic Runic Rock",
+        "Gifts of the Deadlift",
+        "For the Crater Good"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Barbella"
+    }
+  ]
+}

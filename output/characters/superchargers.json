@@ -1,0 +1,39 @@
+{
+  "id": "superchargers",
+  "name": "SuperChargers",
+  "species": "Various",
+  "gender": null,
+  "element": null,
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/SuperChargers",
+  "variants": [
+    {
+      "id": "superchargers",
+      "variant_name": "SuperChargers",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/db/SuperChargers_intro.jpg/revision/latest?cb=20210109013930",
+      "attacks": [
+        "Various",
+        "Pilot Vehicles"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/SuperChargers"
+    }
+  ]
+}

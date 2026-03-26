@@ -1,0 +1,41 @@
+{
+  "id": "dark-golden-queen",
+  "name": "Dark Golden Queen",
+  "species": "Living Gold Statue",
+  "gender": "Female",
+  "element": "Earth",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "The Golden Desert"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Golden_Queen",
+  "variants": [
+    {
+      "id": "dark-golden-queen",
+      "variant_name": "Dark Golden Queen",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Dark_Golden_Queen_Artwork.jpg/revision/latest?cb=20160914205613",
+      "attacks": [
+        "Winged Scarabs",
+        "Golden Shockwave",
+        "Royal Guard",
+        "Golden Opportunity",
+        "Royal Treatment"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Golden_Queen"
+    }
+  ]
+}

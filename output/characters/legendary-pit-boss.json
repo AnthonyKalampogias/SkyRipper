@@ -1,0 +1,40 @@
+{
+  "id": "legendary-pit-boss",
+  "name": "Legendary Pit Boss",
+  "species": "Pit Viper",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Great Twisty Mountains"
+  ],
+  "quote": null,
+  "description": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Pit_Boss",
+  "variants": [
+    {
+      "id": "legendary-pit-boss",
+      "variant_name": "Legendary Pit Boss",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Legendary_Pit_Boss_Promo.jpg/revision/latest?cb=20161112131915",
+      "attacks": [
+        "Snake Attack",
+        "Slithering Soul Snake",
+        "Viper Pits",
+        "Superior Slithering",
+        "Restless Reptiles"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Pit_Boss"
+    }
+  ]
+}

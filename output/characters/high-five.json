@@ -1,0 +1,43 @@
+{
+  "id": "high-five",
+  "name": "High Five",
+  "species": "Dragon/Dragonfly Hybrid",
+  "gender": "Male",
+  "element": "Life",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "High Five is one of the most skilled sky racers of all the dragonflies. But as the fifth son of the Royal High Flying Dragonflies, he was not allowed to enter any of the racing tournaments that took place each year because of his age. Instead, he was forced to watch from the sidelines as his four older brothers competed for the coveted Trophy of Sparx , which legend has said holds magical properties. One year, during the biggest racing event of the season, High Five learned that the Troll Racing Team had stolen the valuable trophy and were going to use the race to cover their escape. He quickly took action, jumping into the race and using his amazing flying skills to weave and dodge his way to the front of the pack, where he caught up to the trolls and brought them down. For his actions, High Five was given the Trophy of Sparx. Even more importantly, he was made a Skylander, where he now helps protect Skylands from any evildoers.",
+  "personality": "High Five is full of energy and is super fast. When danger calls, he is the first to fly into battle. &#91; 4 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/High_Five",
+  "variants": [
+    {
+      "id": "high-five",
+      "variant_name": "High Five",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/59/High_Five.jpg/revision/latest?cb=20140922203655",
+      "attacks": [
+        "Poison Pellets",
+        "Buzz Dash",
+        "Poison Cloud",
+        "Cloud Control",
+        "Spin Cycle"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/High_Five"
+    }
+  ]
+}

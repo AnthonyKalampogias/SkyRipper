@@ -1,0 +1,44 @@
+{
+  "id": "torch",
+  "name": "Torch",
+  "species": "Unknown",
+  "gender": "Female",
+  "element": "Fire",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Champions",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Rift into Overdrive",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Torch’s childhood was spent working with her grandfather as a dragon keeper, where she helped tend to a stable of dragons that protected her village. One year, an evil Snow Dragon unleashed a terrible blizzard that trapped her entire homeland inside a massive ice glacier! Torch was the only one to escape. Having always been fearless, she set out at once to rescue the villagers and her dragons from their chilly fate. Armed with her Firespout Flamethrower, she fought hard through the treacherous conditions and bravely defeated the Snow Dragon in an epic battle. After the village was free from its icy doom, Torch returned home to find her grandfather missing. The only token left behind was his lucky flaming horseshoe. Now as a member of the Skylanders, Torch wields her powerful flamethrower as well as her lucky horseshoe in hopes it will one day lead her to the grandfather she had lost.",
+  "personality": "Torch is pretty fearless. Some might say she is hotheaded. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Torch",
+  "variants": [
+    {
+      "id": "torch",
+      "variant_name": "Torch",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Torch_Promo.jpg/revision/latest?cb=20140610214032",
+      "attacks": [
+        "Blazing Bellows",
+        "Flaming Horseshoes",
+        "Heating Up",
+        "Scorched Earth Policy",
+        "Extra Hot Shoes"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Torch"
+    }
+  ]
+}

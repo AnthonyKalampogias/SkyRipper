@@ -1,0 +1,30 @@
+{
+  "id": "instant-skylanders",
+  "name": "Instant Skylanders",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Skylanders",
+  "variants": [
+    {
+      "id": "instant-skylanders",
+      "variant_name": "Instant Skylanders",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Instant_Food_Fight_Icon.png",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Skylanders"
+    }
+  ]
+}

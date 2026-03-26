@@ -1,0 +1,34 @@
+{
+  "id": "charming-cobra-cadabra",
+  "name": "Charming Cobra Cadabra",
+  "species": "Cobra",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Lost Islands (February 2015)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Charming_Cobra_Cadabra",
+  "variants": [
+    {
+      "id": "charming-cobra-cadabra",
+      "variant_name": "Charming Cobra Cadabra",
+      "edition": "Series 1",
+      "type": "Core",
+      "game": "Skylanders: Lost Islands (February 2015)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/33/Charming_Cobra_Cadabra.jpg/revision/latest?cb=20150212220920",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Charming_Cobra_Cadabra"
+    }
+  ]
+}

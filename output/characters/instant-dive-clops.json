@@ -1,0 +1,40 @@
+{
+  "id": "instant-dive-clops",
+  "name": "Instant Dive-Clops",
+  "species": "Eyeball",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers (iOS) (in the game files of the console versions)"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Dive-Clops",
+  "variants": [
+    {
+      "id": "instant-dive-clops",
+      "variant_name": "Instant Dive-Clops",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/de/Instant_Dive_Clops.jpg/revision/latest?cb=20151109183637",
+      "attacks": [
+        "Waterpedo",
+        "Sonar",
+        "Put the Eye in Geyser",
+        "Torpeslow",
+        "Sonar Smarts"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Dive-Clops"
+    }
+  ]
+}

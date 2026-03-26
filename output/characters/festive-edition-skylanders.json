@@ -1,0 +1,30 @@
+{
+  "id": "festive-edition-skylanders",
+  "name": "Festive Edition Skylanders",
+  "species": null,
+  "gender": null,
+  "element": null,
+  "primary_game": null,
+  "appearances": [],
+  "cameos": null,
+  "world": [],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Festive_Edition_Skylanders",
+  "variants": [
+    {
+      "id": "festive-edition-skylanders",
+      "variant_name": "Festive Edition Skylanders",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/38/Jingle_Bell_Chompy_Mage_Icon.png",
+      "attacks": [],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Festive_Edition_Skylanders"
+    }
+  ]
+}

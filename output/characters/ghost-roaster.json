@@ -1,0 +1,50 @@
+{
+  "id": "ghost-roaster",
+  "name": "Ghost Roaster",
+  "species": "Skeletal Ghoul",
+  "gender": "Male",
+  "element": "Undead",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Spyro's Kingdom (Cancelled)",
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Lost Islands",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Secret Agent Secrets",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "There was a time when Ghost Roaster was neither a ghost nor a roaster. Instead he was a chef living in a village high in the mountains. One day, while clipping wool from a sheep to use in a recipe, he accidentally fell into the Valley of the Undead and transformed into a ghost-eating ghoul! After eating an entire spectral village, its Ethereal Ruler chained Ghost Roaster to a spiked ball as punishment -- its rattle heard as he wanders the night, warning nearby spirits. When Master Eon eventually heard of his predicament, he figured even a ghost eater could be useful. So he made Ghost Roaster a Skylander... after he promised to eat only evil ghosts.",
+  "personality": "Ghost Roaster is known for his relentless, undying appetite for ghosts (particularly evil ghosts). However, being a chef, he is good in the kitchen for making delicious recipes. Despite his scary behavior, he seems unfazed by pranks such as Camo 's. &#91; 2 &#93; In Secret Agent Secrets , Ghost Roaster's flaw is revealed to be a desire to have his work recognized, even if by the side of the villains. Years being put aside in favor of newcomer Skylanders made him bitter towards them, until Stormblade expressed respect for what he did regardless of his threats.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Ghost_Roaster",
+  "variants": [
+    {
+      "id": "ghost-roaster",
+      "variant_name": "Ghost Roaster",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Ghost_Roaster.jpg",
+      "attacks": [
+        "Chain Whip",
+        "Skull Charge",
+        "Ectoplasm Mode",
+        "Haunt",
+        "Nightmare Touch"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Ghost_Roaster"
+    }
+  ]
+}

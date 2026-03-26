@@ -1,0 +1,45 @@
+{
+  "id": "tuff-luck",
+  "name": "Tuff Luck",
+  "species": "Feline (Caracal)",
+  "gender": "Female",
+  "element": "Life",
+  "primary_game": "Skylander: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Light in the Dark",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Random Canyons"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "For many years, Tuff Luck and her tribe guarded the Fortunata Springs – the source of all good luck in Skylands . Though hidden in the Random Canyons, which move without warning to cover the hidden entrance to the magical waters, minions of Kaos located the springs and flew in sponge-tankers to drain every drop of the lucky liquid. Fortunately, Tuff Luck was patrolling the area and immediately jumped into action when she saw what was happening. Between her awesome skill and unbeatable good luck, she single-handedly drove off the minions. She then drank from the magical waters, as was custom for her tribe. Sensing a greater calling, Tuff Luck decided to leave her tribe to join the Trap Team, where she could do even more to help protect Skylands. Armed with her Traptanium Warblades, she always beats the odds – and evil – at every turn!",
+  "personality": "Tuff Luck has a lot of good stuff going for her. She is all about taking chances. Like the rest of her tribe, she is also very protective of the Fortunata Springs. &#91; 2 &#93;",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Tuff_Luck",
+  "variants": [
+    {
+      "id": "tuff-luck",
+      "variant_name": "Tuff Luck",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylander: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/51/Tuff_Luck_Promo.jpg/revision/latest?cb=20240521091017",
+      "attacks": [
+        "Traptanium Warblades",
+        "Pounce Mode",
+        "Warblade Stab",
+        "Poison Ivy",
+        "Wave Goodbye"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Tuff_Luck"
+    }
+  ]
+}

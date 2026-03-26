@@ -1,0 +1,41 @@
+{
+  "id": "ember",
+  "name": "Ember",
+  "species": "Unknown",
+  "gender": "Female",
+  "element": "Fire",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": null,
+  "world": [
+    "Dragonfire Dojo"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Ember was raised inside the Dragonfire Dojo, having come from a long line of Fire Sentinels that were skilled in the art of Dual-Blades. It was the dream of her father that Ember would follow their tradition and take over the family training facility, and so she practiced every day. She was naturally gifted, and soon even the greatest Dual-Blade Masters were no match for Ember. When Kaos heard of this, he took over her village and banned martial arts entirely, for fear of an uprising. But Ember fought back, unleashing an impressive barrage of Samurai pyrotechnics that drove the invaders away. Even though her village was free, she knew then that there was greater evil out there that needed to be stopped, and so she joined the Skylanders to train others in the art of the Sentinel Battle Class. One day though, Ember plans to return to her homeland and reopen her family’s school, but not until Skylands is safe once and for all.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Ember",
+  "variants": [
+    {
+      "id": "ember",
+      "variant_name": "Ember",
+      "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/87/Emberpromo.jpg/revision/latest?cb=20160615082817",
+      "attacks": [
+        "Samurai Combo",
+        "Flame Geyser",
+        "Immolation",
+        "Inner Fire",
+        "Living Bomb Path"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Ember"
+    }
+  ]
+}

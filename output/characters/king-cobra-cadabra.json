@@ -1,0 +1,43 @@
+{
+  "id": "king-cobra-cadabra",
+  "name": "King Cobra Cadabra",
+  "species": "King Cobra",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": null,
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": "Though Cobra Cadabra was an assistant to The Great Mabuni, a traveling magician that performed all over Skylands, he wanted more than anything to become a magician himself. Unfortunately, the guild of Mysteriously Mad Magic Masters of Mystery, who for centuries taught all of the greatest magicians, would not permit it. And so Mabuni decided to teach the cobra himself, even through it was forbidden. They studied everything together, from vanishing acts to snake charming. But when the guild discovered this, they sent a team of magic rabbit enforcers to punish them both. Although the beastly hares were the most powerful of their kind in Skylands, Cobra Cadabra remained brave. Playing an enchanted tune on his flute, he used what he had learned to cast a spell over the rabbits and lead them away. Upon hearing this, this guild was impressed by such a display of skill, and accepted the snake charmer as a member. Soon after, Cobra Cadabra was made a member of another group - the Skylanders!",
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/King_Cobra_Cadabra",
+  "variants": [
+    {
+      "id": "king-cobra-cadabra",
+      "variant_name": "King Cobra Cadabra",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/fc/Kingcobracadabra.jpg/revision/latest?cb=20170205043202",
+      "attacks": [
+        "Magic Flute",
+        "Cobra Basket",
+        "Keep The Beat!",
+        "Reverb Riff",
+        "Basket Quintet"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/King_Cobra_Cadabra"
+    }
+  ]
+}

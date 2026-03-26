@@ -1,0 +1,50 @@
+{
+  "id": "flameslinger",
+  "name": "Flameslinger",
+  "species": "Elf",
+  "gender": "Male",
+  "element": "Fire",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Lost Islands",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Stump Smash Crosses the Bone Dragon",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes}}"
+  ],
+  "cameos": "*Return of the Dragon King *Rift into Overdrive",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Flameslinger is an Elven archer with incredible aim. In fact, he is so good that he wears a blindfold just to prove it. When he was young, he rescued a fire spirit from a watery doom and was gifted an enchanted bow and magical fire boots that he now masterfully uses to defeat evil throughout Skylands . With the scorched earth he leaves behind, you can always tell where he has been.",
+  "personality": "Flameslinger is an elf who has the impression of being a show-off, having put on a blindfold to prove that he is an excellent archer with incredible aim. Despite this cocky image, he possesses a courageous heart, having saved a fire spirit from a watery fate when he was young.",
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Flameslinger",
+  "variants": [
+    {
+      "id": "flameslinger",
+      "variant_name": "Flameslinger",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/06/Sky_flameslinger.jpg",
+      "attacks": [
+        "Flaming Arrows",
+        "Fire Dash",
+        "Searing Arrows",
+        "Firestorm",
+        "Inferno Blast"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Flameslinger"
+    }
+  ]
+}

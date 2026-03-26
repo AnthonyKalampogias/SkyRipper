@@ -1,0 +1,44 @@
+{
+  "id": "dune-bug",
+  "name": "Dune Bug",
+  "species": "Rhinoceros Beetle",
+  "gender": "Male",
+  "element": "Magic",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": "Return of the Dragon King",
+  "world": [
+    "Skylands"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": "Hailing from a race of beetles changed by the powerful secrets hidden in a buried Arkeyan city, Dune Bug was next in line to become the defender of those secrets. As a small pupa, Dune Bug and his father would travel to the ruins where he learned to read the ancient writings using his father's magic staff. On the day Dune Bug was to be given his own magic staff, the city fell under attack by the evil Sand Mages of Doom, who were after the secret Arkeyan tomes. Knowing what he had to do, Dune Bug used his magic to defeat the Mages and bury the city deeper into the ground until it was forever out of their reach. Dune Bug earned his magic staff that day - and a place alongside the Skylanders.",
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Dune_Bug",
+  "variants": [
+    {
+      "id": "dune-bug",
+      "variant_name": "Dune Bug",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Dune_Bug_Promo.jpg/revision/latest?cb=20141208065814",
+      "attacks": [
+        "Mystic Missiles",
+        "Dune Ball",
+        "Dune Parade",
+        "Stunning Spread",
+        "Dune Bomb"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dune_Bug"
+    }
+  ]
+}

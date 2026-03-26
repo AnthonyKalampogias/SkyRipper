@@ -1,0 +1,36 @@
+{
+  "id": "metal-mages",
+  "name": "Metal Mages",
+  "species": "Troll",
+  "gender": "Male",
+  "element": "Air",
+  "primary_game": "Skylanders: Trap Team (Console)",
+  "appearances": [
+    "Skylanders: Trap Team (Console)"
+  ],
+  "cameos": null,
+  "world": [
+    "Mystic Mill"
+  ],
+  "quote": null,
+  "description": null,
+  "biography": null,
+  "personality": null,
+  "story": null,
+  "wiki_url": "https://skylanders.fandom.com/wiki/Metal_Mage",
+  "variants": [
+    {
+      "id": "metal-mages",
+      "variant_name": "Metal Mages",
+      "edition": "Series 1",
+      "type": "Giant",
+      "game": "Skylanders: Trap Team (Console)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Metal_Mage_Mystic_Mill_Troll.png/revision/latest?cb=20200513170339",
+      "attacks": [
+        "Electric Shield"
+      ],
+      "stats": null,
+      "wiki_url": "https://skylanders.fandom.com/wiki/Metal_Mage"
+    }
+  ]
+}
