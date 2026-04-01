@@ -9,15 +9,15 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": "",
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Before he began training Brawlers, Air Strike trained birds – especially the rare Blue Zephyr Falcons. They were once one of Skylands ' most endangered species, but Air Strike taught them how to defend themselves from predators... and not fly into windows. Birds would come from all over Skylands to learn his proven techniques. But despite their new defensive skills, the Blue Zephyr Falcons continued to be hunted by a band of evil trolls , who liked to use their eggs in blue-bacon omelets. So it was time for Air Strike to strike back! He journeyed to the peak of the Zephyr Mountain and single-handedly took down the trolls, rescuing the stolen eggs. After returning them to their mother, one of the eggs hatched, revealing a very energetic Falcon that would not leave his side. Air Strike named him “Birdie” – and together, they now use their skills to train Skylanders , despite Master Eon ’s crippling fear of falcons.",
-  "personality": null,
-  "story": null,
+  "quote": "Fight and Flight!",
+  "description": "Air Strike and Birdie are an Air elemental falconer Sensei and his Blue Zephyr Falcon friend in Skylanders: Imaginators that teach Imaginators of the Brawler Class. They are available in the Gryphon Park Observatory Adventure Pack.",
+  "biography": "Before he began training Brawlers, Air Strike trained birds – especially the rare Blue Zephyr Falcons. They were once one of Skylands' most endangered species, but Air Strike taught them how to defend themselves from predators... and not fly into windows. Birds would come from all over Skylands to learn his proven techniques. But despite their new defensive skills, the Blue Zephyr Falcons continued to be hunted by a band of evil trolls, who liked to use their eggs in blue-bacon omelets. So it was time for Air Strike to strike back! He journeyed to the peak of the Zephyr Mountain and single-handedly took down the trolls, rescuing the stolen eggs. After returning them to their mother, one of the eggs hatched, revealing a very energetic Falcon that would not leave his side. Air Strike named him “Birdie” – and together, they now use their skills to train Skylanders, despite Master Eon’s crippling fear of falcons.",
+  "personality": "",
+  "story": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Air_Strike",
   "variants": [
     {
@@ -34,7 +34,7 @@
         "Eye of the Storm",
         "Free Range Eggs"
       ],
-      "stats": null,
+      "stats": "Strength: 190, Defense: 200, Agility: 250, Luck: 160",
       "wiki_url": "https://skylanders.fandom.com/wiki/Air_Strike"
     }
   ]
