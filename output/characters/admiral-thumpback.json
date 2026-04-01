@@ -1,1 +1,34 @@
-{"id":"admiral-thumpback","name":"Admiral Thumpback","species":"Whale-like Behemoth","gender":"Male","element":"Water","primary_game":"Skylanders: Lost Islands (September 2013)","appearances":["Skylanders: Lost Islands"],"cameos":"","world":["Skylands"],"quote":"Admiral Thumpback has sailed into the kingdom!","description":"Admiral Thumpback is a sailor counterpart of Thumpback exclusive to Skylanders: Lost Islands.","biography":"Admiral Thumpback is a sailor counterpart of Thumpback exclusive to Skylanders: Lost Islands. Unlike the other Lost Islands-exclusive Skylanders, he cannot be owned from the Wishing Well. Instead, you can only get him by paying 2,000 Kudos.","personality":"","story":"","wiki_url":"https://skylanders.fandom.com/wiki/Admiral_Thumpback","variants":[{"id":"admiral-thumpback","variant_name":"Admiral Thumpback","edition":"Series 1","type":"Giant","game":"Skylanders: Lost Islands (September 2013)","image":"https://static.wikia.nocookie.net/skylanders/images/e/e6/Admirał_Thumbpack.JPG/revision/latest?cb=20140816053424","attacks":[],"stats":"","wiki_url":"https://skylanders.fandom.com/wiki/Admiral_Thumpback"}]}
+{
+  "id": "admiral-thumpback",
+  "name": "Admiral Thumpback",
+  "species": "Whale-like Behemoth",
+  "gender": "Male",
+  "element": "Water",
+  "primary_game": "Skylanders: Lost Islands (September 2013)",
+  "appearances": [
+    "Skylanders: Lost Islands"
+  ],
+  "cameos": "",
+  "world": [
+    "Skylands"
+  ],
+  "quote": "Admiral Thumpback has sailed into the kingdom!",
+  "description": "Admiral Thumpback is a sailor counterpart of Thumpback exclusive to Skylanders: Lost Islands.",
+  "biography": "Admiral Thumpback is a sailor counterpart of Thumpback exclusive to Skylanders: Lost Islands. Unlike the other Lost Islands-exclusive Skylanders, he cannot be owned from the Wishing Well. Instead, you can only get him by paying 2,000 Kudos.",
+  "personality": "",
+  "story": "",
+  "wiki_url": "https://skylanders.fandom.com/wiki/Admiral_Thumpback",
+  "variants": [
+    {
+      "id": "admiral-thumpback",
+      "variant_name": "Admiral Thumpback",
+      "edition": "Series 1",
+      "type": "Giant",
+      "game": "Skylanders: Lost Islands (September 2013)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Admirał_Thumbpack.JPG/revision/latest?cb=20140816053424",
+      "attacks": [],
+      "stats": "",
+      "wiki_url": "https://skylanders.fandom.com/wiki/Admiral_Thumpback"
+    }
+  ]
+}
