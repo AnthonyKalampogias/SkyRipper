@@ -8,26 +8,51 @@
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": "",
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": "Admiral Thumpback has sailed into the kingdom!",
   "description": "Admiral Thumpback is a sailor counterpart of Thumpback exclusive to Skylanders: Lost Islands.",
   "biography": "Admiral Thumpback is a sailor counterpart of Thumpback exclusive to Skylanders: Lost Islands. Unlike the other Lost Islands-exclusive Skylanders, he cannot be owned from the Wishing Well. Instead, you can only get him by paying 2,000 Kudos.",
   "personality": "",
-  "story": "",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "description",
+      "content": [
+        "Admiral Thumpback has sailed into the kingdom!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Admiral Thumpback is the only Lost Islands-exclusive Skylander to be a Giant.",
+    "He is also the first Lost Islands-exclusive version of a non-Core Skylander.",
+    "He is also the first ingame variant Giant exclusive to the tablet games (the second being Obsidian Hot Head).",
+    "He is the second Lost Islands Exclusive Skylander to be released on September (the other being Autumn Stump Smash).",
+    "He is also the first Lost Islands exclusive Skylander who was not available in the Wishing Well.",
+    "He is the only Lost Islands-exclusive Skylander to be bought by Kudos.",
+    "He is also the only Lost Islands-exclusive Skylander who is always available."
+  ],
+  "trailers": [],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Admiral_Thumpback",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "admiral-thumpback",
       "variant_name": "Admiral Thumpback",
-      "edition": "Series 1",
+      "edition": "Lost Islands Exclusive",
       "type": "Giant",
       "game": "Skylanders: Lost Islands (September 2013)",
       "image": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Admirał_Thumbpack.JPG/revision/latest?cb=20140816053424",
       "attacks": [],
-      "stats": "",
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Admiral_Thumpback"
     }
   ]
