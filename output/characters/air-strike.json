@@ -1,24 +1,259 @@
 {
   "id": "air-strike",
   "name": "Air Strike",
-  "species": "*Unknown (Air Strike) *Blue Zephyr Falcon (Birdie)",
+  "species": "Unknown (Air Strike) Blue Zephyr Falcon (Birdie)",
   "gender": "Male (both)",
   "element": "Air",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "",
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": "Fight and Flight!",
   "description": "Air Strike and Birdie are an Air elemental falconer Sensei and his Blue Zephyr Falcon friend in Skylanders: Imaginators that teach Imaginators of the Brawler Class. They are available in the Gryphon Park Observatory Adventure Pack.",
   "biography": "Before he began training Brawlers, Air Strike trained birds – especially the rare Blue Zephyr Falcons. They were once one of Skylands' most endangered species, but Air Strike taught them how to defend themselves from predators... and not fly into windows. Birds would come from all over Skylands to learn his proven techniques. But despite their new defensive skills, the Blue Zephyr Falcons continued to be hunted by a band of evil trolls, who liked to use their eggs in blue-bacon omelets. So it was time for Air Strike to strike back! He journeyed to the peak of the Zephyr Mountain and single-handedly took down the trolls, rescuing the stolen eggs. After returning them to their mother, one of the eggs hatched, revealing a very energetic Falcon that would not leave his side. Air Strike named him “Birdie” – and together, they now use their skills to train Skylanders, despite Master Eon’s crippling fear of falcons.",
   "personality": "",
-  "story": "",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Fight and Flight!"
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Say, Portal Master, wanna give your Imaginators a shot at the title? Well, let me at 'em, I'll make them tough.",
+        "And to be even tougher, they need to learn my secret technique for Brawlers.",
+        "Oh yeah!",
+        "Got it!",
+        "Up and coming!",
+        "You punks are looking for a fight, you sure found one!",
+        "C'mon, put up your dukes!",
+        "Those guys looked pretty tough, but they got no heart.",
+        "Hah, pulverized the bums! Yeah, sure, the bird helped a little, too.",
+        "How 'bout that, Birdie, all our training really paid off!",
+        "Pretty soon we'll be ready for a shot at the title.",
+        "Hear that, Birdie? Moving up the ranks!",
+        "These numbers ain't nothin' but numbers! Can't measure what's really inside a guy. Or bird...",
+        "Ring-a ding ding!",
+        "Sky-Chi smackdown!",
+        "Who wants some more of that, huh!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Air Strike and Birdie are one of the few playable duos in Skylanders (other duos are Fright Rider, Eye-Brawl, Eye-Small, Rocky Roll, Shrednaught and Bad Juju with Juju Junior).",
+    "Birdie's bladed wings and feet resemble Blades' weaponry. He also caws with the same sound as Whiskers.",
+    "The duo has a peculiar magic moment: Air Strike enters the game facing the wrong way before correcting himself, and Birdie enters it offscreen before flying to his friend.",
+    "In prototype versions of their figure, Birdie was a bright cyan.",
+    "When first placed on the portal, Air Strike grants Imaginators backpack wings that resemble Birdie's, and knuckles fashioned after metal wings when his Shrine is opened.",
+    "Air Strike is the only Sensei who doesn't use any kind of weapon in combat, as other Brawlers have wrist blades (King Pen), gloves with metal knuckles (Crash Bandicoot) or large natural gauntlets (Grave Clobber).",
+    "When Air Strike is driving a vehicle, Birdie is absent.",
+    "Air Strike is the first Air Skylander to have the word \"Air\" in his name.",
+    "Air Strike shares many physical similarities with Tread Head, including proportions, stature and facial features.",
+    "Air Strike's catchphrase (\"Fight and Flight!\") is a reference to the survival instinct, the fight or flight response, that prepares one for either fighting or fleeing a life or death situation.",
+    "Air Strike was the most difficult and expensive figure to make within the game's available budget, as there were so many parts on them that Toys For Bob struggled to get the cost down. As a result, Air Strike's colors had to be tweaked and parts of his and Birdie's armor had to be removed."
+  ],
+  "trailers": [],
+  "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games. Warning: These stats are not used in any of the Skylander games. They are only listed for completeness reasons. Basic Abilities: These abilities are available from the start of the game. Skylanders can buy new abilities from Persephone/Power Pods. Primal Elements: Gain the power of wind and lightning! What Goes Up: Improve the Falcon's attacks!",
   "wiki_url": "https://skylanders.fandom.com/wiki/Air_Strike",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Bird Brawl",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/05/Air_Strikeprimarypower.png",
+        "content": "Press Attack 1 to attack with or without the Falcon!",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Bird Dive Bomb",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Air_Strikesecondarypower.png",
+        "content": "Press Attack 2 to send out or call the Falcon down for a dive bomb attack - all with a trail of explosive feathers!",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Spinning Bird Fist!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/98/Air_Strikebasicupgrade1.png",
+        "content": "Press Attack 3 to attack with a special strike! The Falcon sucks enemies into the attack!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Storm Front Finish",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Air_Strikebasicupgrade2.png",
+        "content": "Add wind to the final hit of your Attack 1 four-combo attack!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "We Have Liftoff",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Air_Strikebasicupgrade3.png",
+        "content": "Sending up the Falcon will also launch nearby enemies and reflect enemy projectiles!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Side of Eggs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ec/Air_Strikebasicupgrade4.png",
+        "content": "Sending off the Falcon leaves an explosive egg you can hit - which contains a random prize!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Secret Falling Palm Strike!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Air_Strikesoulgempower.png",
+        "content": "Hold Attack 2 to launch yourself into the sky to do the Secret Falling Palm Strike technique!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 0,
+        "name": "Fight and Flight",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Air_Strikeskychipower.png",
+        "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi power! Press Attack 1 for an additional swift dash forward!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Primal Elements",
+        "abilities": [
+          {
+            "name": "Eye of the Storm",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a7/Air_Strikepath1upgrade1.png",
+            "content": "While the Falcon is out, you gain a windy aura that damages anything you touch and reduces damage you take!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Gale Force",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Air_Strikepath1upgrade2.png",
+            "content": "Your feather placements do more damage when they touch enemies and when they explode!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "One with the Elements",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6d/Air_Strikepath1upgrade3.png",
+            "content": "Every Bird Brawl attack shoots out wind power!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "What Goes Up",
+        "abilities": [
+          {
+            "name": "Free Range Eggs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Air_Strikepath2upgrade1.png",
+            "content": "The Side of Eggs upgrade now explodes into more valuable prizes!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Smooth Landing",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/20/Air_Strikepath2upgrade2.png",
+            "content": "While the Falcon is out, press Attack 1 thrice, HOLD Attack 1 to coordinate a devastating landing attack!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Chance of Showers",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Air_Strikepath2upgrade3.png",
+            "content": "Egg bombs fall from the sky while the Falcon is out.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "air-strike",
@@ -34,7 +269,44 @@
         "Eye of the Storm",
         "Free Range Eggs"
       ],
-      "stats": "Strength: 190, Defense: 200, Agility: 250, Luck: 160",
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "???"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "190"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "250"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "160"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Air_Strike"
     }
   ]
