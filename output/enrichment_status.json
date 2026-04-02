@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-02T18:38:03.997Z",
+  "last_run": "2026-04-02T18:50:17.495Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -8,6 +8,10 @@
     {
       "name": "Air Strike",
       "sha": "4d6e7be9a742b1635a9d9d3dd63b1766ba533d397e7c8051250ea1e14520a1d7"
+    },
+    {
+      "name": "Ambush",
+      "sha": "96e7288f952062ad852ef3ddd44afd1890c6286218c1c540e70a99f12db15ca9"
     }
   ]
 }
