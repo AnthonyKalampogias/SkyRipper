@@ -4,24 +4,333 @@
   "species": "Human",
   "gender": "Female",
   "element": "Light",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Aurora is the niece of Master Eon. For years, he tried to keep her identity a secret so that she would remain safe from harm. But as she grew older, Aurora wanted nothing more than to become a Skylander, but Eon would not permit it. So without telling him, she wore a disguise and studied swordplay and combat arts under the name \"Boss Blades McSlashinator.\" Soon, everyone was talking about this new mysterious hero and her amazing abilities. Even Master Eon was notably impressed, but when he learned the skilled fighter was none other than his own niece, he once again refused her entry into the Skylanders team. However, before she could protest, Eon smiled and told her it was because he was immediately promoting her to his Sensei program, where she would train the Swashbuckler Class under her true name and identity. Although he did later admit that \"Boss Blades McSlashinator\" sounded pretty cool.",
-  "personality": null,
-  "story": null,
+  "description": "Aurora is a Light elemental Sensei in Skylanders: Imaginators. She is the niece of the great Portal Master Eon and she trains Imaginators of the Swashbuckler Battle Class.",
+  "biography": "Aurora is the niece of Master Eon. For years, he tried to keep her identity a secret so that she would remain safe from harm. But as she grew older, Aurora wanted nothing more than to become a Skylander, but Eon would not permit it. So without telling him, she wore a disguise and studied swordplay and combat arts under the name 'Boss Blades McSlashinator.' Soon, everyone was talking about this new mysterious hero and her amazing abilities. Even Master Eon was notably impressed, but when he learned the skilled fighter was none other than his own niece, he once again refused her entry into the Skylanders team. However, before she could protest, Eon smiled and told her it was because he was immediately promoting her to his Sensei program, where she would train the Swashbuckler Class under her true name and identity. Although he did later admit that 'Boss Blades McSlashinator' sounded pretty cool.",
+  "quote": "The Speed of Light!",
+  "personality": "Aurora is determined, heroic, and clever. She demonstrated great persistence by training in secret under a pseudonym to prove her capabilities to her uncle, Master Eon. She carries herself with the confidence of a master swordswoman and takes pride in her family legacy while maintaining an optimistic and energetic 'Speed of Light' attitude.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Aurora is the niece of Master Eon. For years, he tried to keep her identity a secret so that she would remain safe from harm. But as she grew older, Aurora wanted nothing more than to become a Skylander, but Eon would not permit it. So without telling him, she wore a disguise and studied swordplay and combat arts under the name 'Boss Blades McSlashinator.' Soon, everyone was talking about this new mysterious hero and her amazing abilities. Even Master Eon was notably impressed, but when he learned the skilled fighter was none other than his own niece, he once again refused her entry into the Skylanders team. However, before she could protest, Eon smiled and told her it was because he was immediately promoting her to his Sensei program, where she would train the Swashbuckler Class under her true name and identity. Although he did later admit that 'Boss Blades McSlashinator' sounded pretty cool.",
+      "hasImage": true,
+      "imgPath": "[[IMG_2]]"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "The Speed of Light!"
+      ]
+    },
+    {
+      "quote_type": "Sensei Training Bonus",
+      "content": [
+        "A great adventure awaits us, Portal Master, and your Imaginators will benefit from my teachings!"
+      ]
+    },
+    {
+      "quote_type": "Secret Technique Bonus",
+      "content": [
+        "I have much to show Swashbucklers, like this secret technique."
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Enemies, hear my call!",
+        "The battle begins!",
+        "Enemies beware!",
+        "Let's go, Portal Master!",
+        "Haha, we sure lit it up, didn't we, Portal Master?",
+        "Heroism runs in the family!",
+        "Skylands is safe again, but for how long?",
+        "Ready to glow!",
+        "A guiding light!",
+        "Channel the light!",
+        "Light shall conquer darkness!",
+        "Let's brighten things up in here!",
+        "Watch this, Portal Master!",
+        "My light shall never go out!",
+        "I shall put these statistics to good use, Portal Master!",
+        "Master Eon has trained me well!",
+        "For Skylands!",
+        "Together, Portal Master, we can't be stopped!"
+      ]
+    },
+    {
+      "quote_type": "Solving Puzzles",
+      "content": [
+        "Splendid!",
+        "A most outstanding achievement!",
+        "Well done, Portal Master!"
+      ]
+    },
+    {
+      "quote_type": "Ability",
+      "content": [
+        "En garde!",
+        "Lightspeed!",
+        "Take that!",
+        "Steal thy self!",
+        "Flashy!",
+        "Sword strike!",
+        "Light it up!",
+        "Flash dash!",
+        "A moment of brilliance!",
+        "Into the light!"
+      ]
+    },
+    {
+      "quote_type": "Bounce Pad",
+      "content": [
+        "Into the light!",
+        "Up I go!",
+        "Skyward!"
+      ]
+    },
+    {
+      "quote_type": "Opening a Gate",
+      "content": [
+        "We shall bring light to this darkened territory!"
+      ]
+    },
+    {
+      "quote_type": "Level Up",
+      "content": [
+        "If only Master Eon could see me now!",
+        "Our light shines even brighter, Portal Master!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Her outfit resembles Master Eon's helmet and robes, however with different colors and the addition of the bust.",
+    "She also references his lines, for example the way he talks to the player at the start and end of every game.",
+    "She is the first Skylander to be related to a Portal Master, namely Master Eon.",
+    "In older versions of the game, her icon had her concept art, in which her helmet's horns were white and her robes had reversed colors.",
+    "Her outfit has pearlized paint in areas with white, and glossy effects in areas with black.",
+    "She is the only Skylander of the Light element to have visible pupils.",
+    "'Blades McSlashinator' is a possible reference to the Boaty McBoatface meme, in which internet users would create humorous names for objects using their attributes.",
+    "One of her upgrades, Dervish was one of the names used for the Sentinel Battle Class during development."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Imaginators Meet Master Aurora",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Imaginators_Meet_Master_Aurora"
+    },
+    {
+      "name": "Skylanders Imaginators - Aurora Soul Gem Preview",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Imaginators_-_Aurora_Soul_Gem_Preview"
+    }
+  ],
+  "gameplay": "Aurora is a Swashbuckler Sensei, meaning she dual-wields golden swords and uses fast-paced dashes and light-based explosions to overwhelm her foes. Her playstyle focuses on high mobility via her Flash Dash and area-of-effect damage with Light Burst swords. Her ultimate Sky-Chi ability, Flicker Flash, allows her to steer through enemies while dealing massive damage.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Aurora",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Double Sword Strike",
+        "imgPath": "[[IMG_3]]",
+        "content": "Press Attack 1 thrice to perform a double sword strike combo.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Flash Dash",
+        "imgPath": "[[IMG_4]]",
+        "content": "Press Attack 2 to dash and flip through your enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Light Burst",
+        "imgPath": "[[IMG_7]]",
+        "content": "Press Attack 3 to drop a light sword that slows enemies and explodes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Speed of Light",
+        "imgPath": "[[IMG_8]]",
+        "content": "Flash Dash is faster and does more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Brighter Light",
+        "imgPath": "[[IMG_9]]",
+        "content": "Light Burst swords knock enemies up and deal more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Extended Reach",
+        "imgPath": "[[IMG_10]]",
+        "content": "Double Sword Strike hits further and does more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Eon's Power",
+        "imgPath": "[[IMG_5]]",
+        "content": "Press and hold Attack 1 to unlock the true power of Eon, granting increased damage and armor.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 6,
+        "name": "Flicker Flash",
+        "imgPath": "[[IMG_6]]",
+        "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power! Use Left Stick to steer into enemies!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Akimo Master",
+        "abilities": [
+          {
+            "name": "Sword Techniques",
+            "imgPath": "[[IMG_11]]",
+            "content": "Press Attack 1 twice, Attack 2 for a Flash Dive combo. Press Attack 1 twice, Attack 3 for a X-Ray Shot combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Rapid Strike Mode",
+            "imgPath": "[[IMG_12]]",
+            "content": "Press Attack 1 rapidly to enter Rapid Strike mode.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Dervish",
+            "imgPath": "[[IMG_13]]",
+            "content": "Hitting enemies with Double Sword Strike combos speeds up your Double Sword Strike attacks.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Fastest Skylander Alive",
+        "abilities": [
+          {
+            "name": "Forever Runner",
+            "imgPath": "[[IMG_14]]",
+            "content": "Hold Attack 2 to continuously Flash Dash, and Flash Dash does more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Momentum",
+            "imgPath": "[[IMG_15]]",
+            "content": "Flash Dash now gives a 3 second damage boost to your Double Sword Strike attacks.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Explosive Finish",
+            "imgPath": "[[IMG_16]]",
+            "content": "You now drop Light Burst explosive swords during Flash Dash, and your Light Burst swords deal more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "aurora",
+      "id": "aurora-s1",
       "variant_name": "Aurora",
       "edition": "Series 1",
       "type": "Sensei",
@@ -34,7 +343,44 @@
         "Sword Techniques",
         "Forever Runner"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "240 / 480"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "20 / 68"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "10 / 40"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "170"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "325"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "180"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Aurora"
     }
   ]
