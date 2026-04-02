@@ -4,22 +4,289 @@
   "species": "Unknown",
   "gender": "Male",
   "element": "Light",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "While on a secret mission in troll territory, Astroblast crash landed on a remote island where he stumbled upon an ancient relic not seen in thousands of years - a legendary Rift Engine . These magical machines were believed to have the power to travel through the portals between Skylands and other worlds! Shortly after the discovery, an army of trolls appeared on a nearby canyon ridge and quickly charged toward Astroblast. Knowing that the Rift Engine would be very dangerous in the wrong hands, he pulled out his pulse laser and prepared to defend the relic against the incoming horde. After an epic shootout, the trolls fled in defeat. When Astroblast then brought the relic back to his ship, the Sun Runner, it surged with power and a hologram of Master Eon appeared. Eon thanked him for saving the Rift Engine and beckoned him to return it to the Skylander Academy . Astroblast accepted the invitation and was made a Skylander shortly thereafter.",
-  "personality": "Astroblast is a curious type who won't back down from a fight. He's always prepared to protect people and relics from danger. &#91; 2 &#93;",
-  "story": null,
+  "description": "Astroblast is the Light SuperCharger in Skylanders: SuperChargers. His signature vehicle is the Sun Runner. He has a Legendary counterpart named Legendary Astroblast.",
+  "biography": "While on a secret mission in troll territory, Astroblast crash landed on a remote island where he stumbled upon an ancient relic not seen in thousands of years - a legendary Rift Engine. These magical machines were believed to have the power to travel through the portals between Skylands and other worlds! Shortly after the discovery, an army of trolls appeared on a nearby canyon ridge and quickly charged toward Astroblast. Knowing that the Rift Engine would be very dangerous in the wrong hands, he pulled out his pulse laser and prepared to defend the relic against the incoming horde. After an epic shootout, the trolls fled in defeat. When Astroblast then brought the relic back to his ship, the Sun Runner, it surged with power and a hologram of Master Eon appeared. Eon thanked him for saving the Rift Engine and beckoned him to return it to the Skylander Academy. Astroblast accepted the invitation and was made a Skylander shortly thereafter.",
+  "personality": "Astroblast is a curious type who won't back down from a fight. He's always prepared to protect people and relics from danger.",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Ready, Set, Glow!"
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Ready, Set, Glow!",
+        "I'm on a mission!",
+        "Better take cover!",
+        "Target Acquired!",
+        "Mission Accomplished!",
+        "A giant leap forward!",
+        "All the right stuff!",
+        "I make my own luck!",
+        "Nothing I can't handle!",
+        "Was there ever a doubt!",
+        "Into the stratosphere!",
+        "Yes!",
+        "Alright!",
+        "Cool Souvenir.",
+        "Ooh, new crash helmet!",
+        "All systems go.",
+        "Ready for launch.",
+        "Bingo!",
+        "Yee haw!",
+        "You need to be more careful!",
+        "Modification complete.",
+        "Liftoff!",
+        "Blasting off!",
+        "Beaming up!",
+        "A new frontier!",
+        "Light the way!",
+        "Treasure!",
+        "Stardust!",
+        "Valuable artifacts!",
+        "Money!",
+        "Out of this world!",
+        "I'm in the ozone!",
+        "Everything checks out.",
+        "The only number that matters is número uno."
+      ]
+    },
+    {
+      "quote_type": "Quest Quotes",
+      "content": [
+        "Series EZ 9000, actually. Ain't no one better with it than me.",
+        "Thanks. Nothin' to it, though... as long as you're me.",
+        "You don't recognize it? This ship did the Kettle Corn Run in less than 12 minutes.",
+        "That's just the kind of stuff you can expect from a guy like me.",
+        "Guts is my middle name, Buzz -- right after \"Danger\".",
+        "Ha ha ha. Not too shabby, I agree. And thanks for recognizing my skill."
+      ]
+    }
+  ],
+  "trivia": [
+    "Astroblast is the only Light Skylander introduced in SuperChargers. He is also one of two Skylanders to be the only one of their respective element introduced in that game, the other being the Dark Skylander Nightfall.",
+    "Astroblast went through a number of alternative designs, including concepts with insectile wings, a star-shaped body, dual swords, a crystalline pickaxe, or a radiant shield. His full-colored, near-finalized design wears an orange-and-yellow spacesuit along with a translucent astronaut helmet.",
+    "Some people call Astroblast a Space Cowboy.",
+    "One of his quest quotes references Star Wars, with him talking about the Sun Runner in a similar manner to how Han Solo talks about his ship, the Millennium Falcon. Additionally, Astroblast mentions something called the Kettle Corn Run and how the Sun Runner cleared it in 12 minutes, referencing the Kessel Run and how the Millennium Falcon cleared it in twelve parsecs.",
+    "He is the second of at least five Skylanders with the ability to avoid being defeated (only in his Nova Hopper path and if his Supernova upgrade is purchased) by normal upgrades. The first is Night Shift, while the other three are Double Dare Trigger Happy, Crash Bandicoot and Ember.",
+    "He is the first Skylander whose name starts with an \"A\". The three others with this distinction are Ambush, Air Strike and Aurora.",
+    "The Solar Field upgrade in Imaginators gives Astroblast +20 Armor.",
+    "Astroblast is voiced by Neal McDonough, known for his portrayal of Lieutenant Lynn \"Buck\" Compton in Band of Brothers and Vincent Sofel in Paul Blart Mall Cop 2.",
+    "The triangular shape protruding from his pulse laser resembles a prism; this is fitting, as prisms are tools that can either refract light, or break up white light into its constituent spectral colors (aka, the colors of the rainbow).",
+    "Astroblast has similarities to Gemini Man from Mega Man 3. Their primary weapons are lasers that bounce off walls (Solar Flair from Astroblast, and Gemini Laser for Gemini Man). Astroblast and Gemini Man also have astronomy motifs in their designs (Astroblast resembles an astronaut and many of his quotes and upgrades are puns on space exploration, while Gemini Man was, alongside the other Robot Masters in the game, meant to be a space exploration/mining robot and is named after a constellation). Astroblast's head slightly resembles Gemini Man's helmet, specifically the 4-pronged crest.",
+    "Astroblast is also similar to Cosmic Wario from Wario: Master Of Disguise, as both are space-themed and use laser guns whose shots can ricochet off walls.",
+    "Since Astroblast is an astronaut-themed skylander, his idle animation could be a reference to Micheal Jackson's iconic dance, 'Moon Walk'"
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders SuperChargers Astroblast",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_SuperChargers_Astroblast"
+    },
+    {
+      "name": "Skylanders SuperChargers - Astroblast Soul Gem Preview (Ready, Set, Glow)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Astroblast_Soul_Gem_Preview_%28Ready%2C_Set%2C_Glow%29"
+    },
+    {
+      "name": "Meet the Skylanders SuperChargers Astroblast and Sun Runner",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_SuperChargers_Astroblast_and_Sun_Runner"
+    }
+  ],
+  "gameplay": "Astroblast can use his special class EZ 9000 laser gun to shoot enemies; the laser blasts bounce off walls and objects. He can also throw out space rocks; when he shoots a space rock, it floats up in the air and fires lasers in a wide area below it before crumbling to pieces. His third attack, gained through the Starsault upgrade, allows Astroblast to kick close enemies directly in front of him, and he can do this many times with very little delay between each kick. This combination of moves allows Astroblast to deal heavy damage from a distance, concentrate damage on a small area, and quickly knock back enemies that get too close before firing again. Unfortunately Astroblast is very fragile due to his low health and armor, meaning that players should be careful and take care when playing as him.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Astroblast",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Solar Flair",
+        "imgPath": "[[IMG_2]]",
+        "content": "Press Attack 1 to fire the condensed sunlight which bounces off walls.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Asteroid Belt",
+        "imgPath": "[[IMG_3]]",
+        "content": "Press Attack 2 to lob a prismatic space rock. Press Attack 1 to shoot the prism, creating an area of lasers that damage enemies in he area.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Starsault",
+        "imgPath": "[[IMG_5]]",
+        "content": "Press Attack 3 to kick close enemies and knock them away.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Solar Field",
+        "imgPath": "[[IMG_6]]",
+        "content": "Fast-moving light particles around you protect your suit, improving your armor. Additionally, Life Skylanders near you regenerate health.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Solar Powered",
+        "imgPath": "[[IMG_7]]",
+        "content": "Hold Attack 1 to charge up Solar Flair with the light of hotter and hotter suns. Release to shoot a high-powered laser at enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Space Rocks!",
+        "imgPath": "[[IMG_8]]",
+        "content": "Hold Attack 3 to bring down an explosive space rock.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Wool Encounters",
+        "imgPath": "[[IMG_4]]",
+        "content": "Hold Attack 3 to bring down a space rock inhabited by a creature with its own laser gun set to Blaaaaaast.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Cosmic Technology",
+        "abilities": [
+          {
+            "name": "Surface of the Sun",
+            "imgPath": "[[IMG_9]]",
+            "content": "Your Solar Field heats up and does damage to enemies that get too close.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Meatier Meteors",
+            "imgPath": "[[IMG_10]]",
+            "content": "Hold Attack 3 down longer to bring down a bigger (more explosive) space rock.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Star Light: Star Bright",
+            "imgPath": "[[IMG_11]]",
+            "content": "Rapidly press Attack 1 to fire Solar Flairs at its currently charged level. The charge will slowly diminish over time.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Nova Hopper",
+        "abilities": [
+          {
+            "name": "Meteor Shower",
+            "imgPath": "[[IMG_12]]",
+            "content": "Hold Attack 2 and release to lob multiple space rocks.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Full Spectrum",
+            "imgPath": "[[IMG_13]]",
+            "content": "When you shoot a space rock, the dust will last longer.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Supernova",
+            "imgPath": "[[IMG_14]]",
+            "content": "Once before you lose your last hit point, you will go supernova and gain half health.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "astroblast",
@@ -35,7 +302,48 @@
         "Surface of the Sun",
         "Meteor Shower"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "180 (Lv. 20: 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        },
+        {
+          "stat_name": "Top Speed",
+          "stat_value": "20"
+        },
+        {
+          "stat_name": "Acceleration",
+          "stat_value": "15"
+        },
+        {
+          "stat_name": "Handling",
+          "stat_value": "8"
+        },
+        {
+          "stat_name": "Firepower",
+          "stat_value": "9"
+        },
+        {
+          "stat_name": "Armour",
+          "stat_value": "13"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Astroblast"
     }
   ]
