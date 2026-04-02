@@ -4,21 +4,239 @@
   "species": "Mystical Tree-Knight",
   "gender": "Male",
   "element": "Life",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "",
+  "cameos": [],
   "world": [
     "Mystical Bamboo Forest"
   ],
-  "quote": "Weed 'Em and Reap!",
   "description": "Ambush is a Life Knight Sensei in Skylanders: Imaginators.",
   "biography": "There were many mysterious things in the Mystical Bamboo Forest, but none more so than Ambush. The forest was considered to be one of Skylands’ greatest natural wonders, and no outsider, good or bad, was ever permitted to trespass. But that didn’t stop Kaos’ mother! After deciding that the ancient trees would make an exquisite display in her Royal Courtyard, she commanded her army of chainsaw-wielding trolls to chop down the entire forest. This angered Ambush, the mystical tree-knight, who saw the atrocity and swore revenge! Wielding his mythic sword, he fought off the trolls and forced Kaos’ mother into hiding. When Master Eon heard the story, he knew that the mysterious sword master would make the ideal Sensei, and promised to “go green” himself if Ambush would join the Skylander team. Ambush now trains other Knights - and those who are not environmentally conscious cower in fear!",
   "personality": "Ambush is direct with his words, and is protective of nature.",
-  "story": "",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Weed 'Em and Reap!",
+        "Portal Master, I can teach your Imaginators the ways of nature, and no one, no one wants to mess with nature. - Sensei Training Bonus",
+        "And as a Knight, I am familiar with a secret technique that other Knights can learn. Too bad for everyone else. - Secret Technique Bonus",
+        "Cannot keep weeds out.",
+        "My spirit soars!",
+        "Cutting hedge!",
+        "Bamboo blitz!",
+        "I will plant the seed of doubt in these bad guys! - before a battle",
+        "Wise man one say, do not attack plants. Especially sentient ones.",
+        "I have brought peace to the troubled spirits - peace through big sword.",
+        "Knowledge is power. Power and experience balls. - leveling up",
+        "My hit points soar like an eagle!",
+        "My statistics are, of course, all natural. - checking stats",
+        "Wise man once say, Sky-Chi is cool. - Sky-Chi (Foreseen Victory)",
+        "By the power of Sky-Chi!",
+        "Respect nature! - after Sky-Chi"
+      ]
+    }
+  ],
+  "trivia": [
+    "His catchphrase is a pun on the saying \"Read 'em and weep!\", a common brag used by poker players when revealing their hand.",
+    "His upgrade path, \"The Master Splinterer\", could be a reference to the character Master Splinter from the Teenage Mutant Ninja Turtles franchise, while his other upgrade path, \"Go Go Forest Ranger\", could be a reference to the phrase \"Go Go Power Rangers!\" from the Power Rangers franchise.",
+    "His name means a long-established military tactic in which combatants take advantage of concealment and the element of surprise to attack unsuspecting enemy combatants from concealed positions, such as among dense underbrush or behind hilltops.",
+    "Even though Ambush is a Tree Knight, his armour is similar in design to a ninja's outfit.",
+    "Incidentally, his armour looks similar to Tuff Luck's armour, but with the addition of a fundoshi, a traditional Japanese loincloth.",
+    "He shares the same voice actor as Hood Sickle, J. B. Blanc.",
+    "He's the (only non-villain) Life Sensei to not be part of an Adventure pack.",
+    "His Sky-Chi voice line \"By the power of Sky-Chi!\" could be a reference to the phrase \"By the power of Grayskull!\" from the Masters of the Universe franchise."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Imaginators Meet Master Ambush",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Imaginators_Meet_Master_Ambush"
+    }
+  ],
+  "gameplay": "Ambush can hack and slash his enemies with his mythic sword. The sword can cause grass marks to grow on enemies, which will let it deal extra damage on later hits. Ambush can dash across the battlefield while causing bamboo shoots to erupt from behind him, finishing his dash with a shockwave of energy. He can even summon a field of sharp bamboo trees to erupt around him. His Sky-Chi allows him to focus his energy into a target symbol and mark enemies with it. After they are marked, Ambush dashes across the battlefield at lightning speed while slashing his enemies to deal great damage.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Ambush",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Whack Attack",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Ambushprimarypower.png/revision/latest?cb=20170505145509",
+        "content": "Press Attack 1 to use your sword.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Splintering Punch",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/01/Ambushsecondarypower.png/revision/latest?cb=20170505145514",
+        "content": "Press Attack 2 to knock your enemies back and then fly into them.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Meditative Strike",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c6/Ambushbasicupgrade1.png/revision/latest?cb=20170505145520",
+        "content": "Briefly stand still to charge up your sword attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Arboreal Upheaval",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Ambushbasicupgrade2.png/revision/latest?cb=20170505145524",
+        "content": "Press Attack 3 to summon bamboo trees that throw enemies into the air.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Leaf on the Wind",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/66/Ambushbasicupgrade3.png/revision/latest?cb=20170505145531",
+        "content": "Hold Attack 1 to perform a flying spin slash.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Mark of the Angry Tree",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/Ambushbasicupgrade4.png/revision/latest?cb=20170505145536",
+        "content": "Whack Attacks leave a mark on your enemies. On the third mark, that enemy will take extra damage. Marks weaken over time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Nature's Revenge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b9/Ambushsoulgempower.png/revision/latest?cb=20170505145542",
+        "content": "Hold Attack 3 to execute a stronger Arboreal Upheaval attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "The Master Splinterer",
+        "abilities": [
+          {
+            "name": "Pruning the Hedges",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/56/Ambushpath1upgrade1.png/revision/latest?cb=20170505145838",
+            "content": "Using Meditative Strikes when you get Marked Enemy bonus damage does even more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Slam Trunk",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/da/Ambushpath1upgrade2.png/revision/latest?cb=20170505145839",
+            "content": "During Whack Attack combos, hold Attack 2 to smash enemies with a giant bamboo tree.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Spinning Bamboo Piledriver",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Ambushpath1upgrade3.png/revision/latest?cb=20170505145845",
+            "content": "During Whack Attack combos, hold Attack 3 to pile drive a bamboo tree on top of enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Go Go Forest Ranger",
+        "abilities": [
+          {
+            "name": "Wood Knocks You!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d3/Ambushpath2upgrade1.png/revision/latest?cb=20170505145848",
+            "content": "Press Attack 3, then Attack 1 to send out large bamboo projectiles in all directions.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "The Sharing Tree",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Ambushpath2upgrade2.png/revision/latest?cb=20170505145853",
+            "content": "Splintering Punch now creates an area of effect giving Marks to your enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "A New Leaf on Life",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/39/Ambushpath2upgrade3.png/revision/latest?cb=20170505150004",
+            "content": "Arboreal Upheaval creates a zone of pain around you. Marks absorbed by Arboreal Upheaval increase this zone's duration.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "ambush",
@@ -34,7 +252,24 @@
         "Pruning the Hedges",
         "Wood Knocks You!"
       ],
-      "stats": "Strength: 300, Defense: 150, Agility: 150, Luck: 200",
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "300"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "200"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Ambush"
     }
   ]
