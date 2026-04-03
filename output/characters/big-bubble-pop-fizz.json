@@ -4,21 +4,256 @@
   "species": "Gremlin",
   "gender": "Male",
   "element": "Magic",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Unexpected Allies",
+  "cameos": [
+    "Unexpected Allies"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Big Bubble Pop Fizz is the SuperChargers counterpart of Pop Fizz in Skylanders: SuperChargers. His signature vehicle is the Soda Skimmer.",
+  "biography": "Big Bubble Pop Fizz is the SuperChargers counterpart of Pop Fizz in Skylanders: SuperChargers. His signature vehicle is the Soda Skimmer. He has a birthday counterpart called Birthday Bash Big Bubble Pop Fizz.",
+  "quote": "The Motion of the Potion!",
+  "personality": "Pop Fizz is known for being unpredictable and scatterbrained due to his many potion experiments. He is often seen enthusiastically testing new formulas, even if they have strange side effects on his memory or appearance.",
+  "story": [
+    {
+      "story_name": "Origin",
+      "content": "Big Bubble Pop Fizz is the SuperChargers counterpart of Pop Fizz in Skylanders: SuperChargers. His signature vehicle is the Soda Skimmer. He continues his alchemical experimentation with a new bubble-blowing sousaphone weapon.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/01/Big_Bubble_Pop_Fizz_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20150907034533"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "The Motion of the Potion!",
+        "Bubble up!",
+        "Potion power!",
+        "You got popped!",
+        "Mission accomplished!",
+        "Let's make some bubbles!",
+        "Hey!",
+        "Stay outta my way!",
+        "Now that's strong!"
+      ]
+    },
+    {
+      "quote_type": "Quest Quotes",
+      "content": [
+        "Umm... I think it was supposed to make my memory better, but I forgot -- AHHGGHH!!",
+        "Like I always say Buzz, you gotta always be prepared! AGHHH (snort)",
+        "Hahaha, yep. Carbonated propulsion.",
+        "Thanks, Buzz. We really like to mix it up.",
+        "Yeah, Buzz. I'm ready to put my potions in motion.",
+        "Thanks, Buzz... Cuz, sometimes these potions can be a little -- uh, unpredictable."
+      ]
+    }
+  ],
+  "trivia": [
+    "Despite the artwork depiction, Big Bubble Pop Fizz doesn't carry a beaker in-game.",
+    "Unlike his previous versions, Big Bubble Pop Fizz can remain in his Beast mode limitlessly.",
+    "His Beast mode now has three different colors based on whichever ability he possesses.",
+    "The figure's hair is not colored at the back, under his sousaphone-like weapon.",
+    "When placed on the portal, he says his official catchphrase and some of his quotes in a slightly different tone.",
+    "There is a glitch in SuperChargers that allows him to keep his berserker stance while in normal mode by changing his upgrade path."
+  ],
+  "trailers": [
+    {
+      "name": "Big Bubble Pop Fizz",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Big_Bubble_Pop_Fizz"
+    },
+    {
+      "name": "Skylanders SuperChargers - Big Bubble Pop Fizz's Soul Gem Preview (The Motion of the Potion)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Big_Bubble_Pop_Fizz%27s_Soul_Gem_Preview_(The_Motion_of_the_Potion)"
+    }
+  ],
+  "gameplay": "Pop Fizz uses a sousaphone-like weapon to blow bubbles that bounce toward enemies. He can also transform into a beast mode with claw attacks, which in this SuperCharger version, can be maintained limitlessly. He uses chemical reactions and a Mixture Modifier to change the effects and colors of his attacks.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Big_Bubble_Pop_Fizz",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Bubble Blast",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/Big_Bubble_Pop_Fizzprimarypower.png/revision/latest/scale-to-width-down/148?cb=20160110194400",
+        "content": "Press Attack 1 to blow bubbles that bounce on their way to enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Bubbling Beast Form",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Big_Bubble_Pop_Fizzsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20160110194436",
+        "content": "Press Attack 2 to transform into a beast. Press Attack 1 to attack nearby enemies with claws.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Mixture Modifier",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8a/Big_Bubble_Pop_Fizzbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20160110194614",
+        "content": "Press Attack 3 to cause a chemical reaction and transform the color and effects of liquid attacks.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Know Your Bases",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Big_Bubble_Pop_Fizzbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20160110194643",
+        "content": "All base liquid attacks do more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Genetic Engineering",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Big_Bubble_Pop_Fizzbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20160110194751",
+        "content": "Press Attack 3 while in beast mode to perform new attacks depending on the liquid color.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Side Effects",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Big_Bubble_Pop_Fizzbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20160110194814",
+        "content": "After reverting to normal Pop Fizz mode, gain a temporary defense boost.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Spiked Punch!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Big_Bubble_Pop_Fizzsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20160110194537",
+        "content": "While in beast mode, hold and release Attack 1 to pound the ground and knock all enemies in the area up!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Alchemic Maestro",
+        "abilities": [
+          {
+            "name": "Larger Lungs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0f/Big_Bubble_Pop_Fizzpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20160110194856",
+            "content": "Hold Attack 1 to perform improved liquid attacks depending on the current color.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "For Science!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Big_Bubble_Pop_Fizzpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20160110194930",
+            "content": "Hold Attack 3 while in normal form to constantly spew liquids that damage enemies in the nearby area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Follow The Formula",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Big_Bubble_Pop_Fizzpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20160110194957",
+            "content": "Mixture Modifier gains additional effects depending upon the liquid color.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Brass of the Beast",
+        "abilities": [
+          {
+            "name": "Better Beast",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Big_Bubble_Pop_Fizzpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20160110195053",
+            "content": "Hold Attack 3 to perform enhanced and longer versions of unique beast attacks.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Juiced Up!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Big_Bubble_Pop_Fizzpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20160110195116",
+            "content": "Melee attacks in Beast Form do more damage. I'm a monster, rawr!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Feed The Beast",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/48/Big_Bubble_Pop_Fizzpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20160110195155",
+            "content": "In Beast Mode, hold Attack 3 to perform Better Beast attacks. Press Attack 1 after using a Better Beast attack to do more damage with your claws.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "big-bubble-pop-fizz",
@@ -34,7 +269,28 @@
         "Larger Lungs",
         "Better Beast"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300 (max. 600)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "4 (max. 54)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Big_Bubble_Pop_Fizz"
     }
   ]
