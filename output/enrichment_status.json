@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-03T21:09:40.707Z",
+  "last_run": "2026-04-03T21:11:11.695Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -26,8 +26,8 @@
       "sha": "a1393a34e7d7152c301a0a2e1eddcb709a4a1cbe6360e089d4a5ceb48c1c3c9b"
     },
     {
-      "name": "Barbella",
-      "sha": "5be183c49c0b9cfb41fd0ecf544aa6f177509236e61faee3f6ca8eb58ad625bf"
+      "name": "Barkley",
+      "sha": "434426dfbe06dd766d6955ff539e3e5ec40cc989da76d99c87d029e0feb033ad"
     }
   ]
 }
