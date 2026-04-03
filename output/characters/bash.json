@@ -4,6 +4,7 @@
   "species": "Rock Dragon",
   "gender": "Male",
   "element": "Earth",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Spyro's Kingdom (Cancelled)",
@@ -16,24 +17,300 @@
     "Skylanders: Swap Force",
     "Skylanders: Trap Team",
     "Skylanders: SuperChargers (Racing)",
-    "Skylanders: Imaginators}}"
+    "Skylanders: Imaginators"
   ],
-  "cameos": "Return of the Dragon King",
+  "cameos": [
+    "Return of the Dragon King"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Bash spent most of his early dragonhood staring into the sky, watching the flying creatures of Skylands soar amongst the clouds. Determined to join them, he learned how to curl himself into a ball and roll with incredible momentum in a vain attempt to take flight. Over the years, his skin hardened, forming a natural protective armor unlike any other creature. He now thunders through Skylands, leaving a wake of destruction against any who threaten it. Despite his thick skin, he still gets&#160;very touchy about his inability to fly.",
-  "personality": "Never tell Bash he can't do something. This resourceful, stubborn Skylander will keep on rolling until he's proved you wrong. He never gives up without a fight. &#91; 4 &#93; Despite his gruff disposition, Bash is very sensitive about his inability to fly.",
-  "story": null,
+  "description": "Bash is a brown rock dragon who first appeared in Skylanders: Spyro's Adventure. He has a Legendary counterpart called Legendary Bash exclusive to the Toys 'R' Us Legendary Pack. He also has a birthday counterpart that became available on November 2013 in Skylanders: Lost Islands.",
+  "biography": "Bash spent most of his early dragonhood staring into the sky, watching the flying creatures of Skylands soar amongst the clouds. Determined to join them, he learned how to curl himself into a ball and roll with incredible momentum in a vain attempt to take flight. Over the years, his skin hardened, forming a natural protective armor unlike any other creature. He now thunders through Skylands, leaving a wake of destruction against any who threaten it. Despite his thick skin, he still gets very touchy about his inability to fly.",
+  "quote": "Rock and Roll!",
+  "personality": "Never tell Bash he can't do something. This resourceful, stubborn Skylander will keep on rolling until he's proved you wrong. He never gives up without a fight. Despite his gruff disposition, Bash is very sensitive about his inability to fly.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "From an early age there was something that set Bash apart. He was a dragon without wings! But Bash wasn't content to sit around feeling sorry for himself. He would curl up into a tight ball and make a terrific take-off. His speed as he careened across the plains was something to behold - and the more he rolled, the rougher and tougher his skin became. Then the dark day came. A huge flying machine was catching Bash's dragon friends in massive nets. Fired up with fury, he curled up and chased it to the very edge of his floating island. There, Bash launched himself like a bouncing bomb and busted through the side of the airship, creating a colossal hole for his friends to escape through. Having witnessed the entire event through his portal, Master Eon was blown away by Bash's courage and loyalty and made him a Skylander on the spot.",
+      "hasImage": false,
+      "imgPath": "none"
+    },
+    {
+      "story_name": "Relationships",
+      "content": "Since meeting Flashwing, Bash gets caught moping over her, seeing the gem dragon as his one true love.",
+      "hasImage": false,
+      "imgPath": "none"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Rock and Roll!",
+        "By a landslide!",
+        "Now I'm rockin'!",
+        "Let's rock!",
+        "Solid!",
+        "Rock time!",
+        "Time to rock!",
+        "Sweet!",
+        "Can't stop the rock!",
+        "Next time, dig deeper!",
+        "Grounded and pounded!",
+        "I can bash with the best!",
+        "Get ready to rock!",
+        "Here I come!",
+        "This is my turf!",
+        "Let the good times roll!",
+        "Bigger and boulder!",
+        "Yeah, rock it to me!",
+        "Liking these rocks!",
+        "Hey, these rock!",
+        "Hmm, mighty impressive!",
+        "Great!",
+        "I can definitely rock this!",
+        "Great name!",
+        "Call me whatever, I got thick skin!",
+        "Come on, let's get rollin'!",
+        "Getting stone cold out here!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Many fans mistake him for being a dinosaur due to his resemblance to an Ankylosaurus (and Triceratops, if he is equipped with the Triceratops Honor Guard Soul Gem power).",
+    "Over the years, Bash has jumped off cliffs, leapt from airships and even launched himself into the sky from a giant catapult in his attempts at flying.",
+    "One of his upgrades, Iron Tail, share its name with a Pokémon move.",
+    "Despite the upgrade description saying he rolls into a ball, Bash rolls more in the form of a wheel, like a Droideka from the Star Wars series.",
+    "Series 2 Bash has his Iron Tail and Triceratops Honor Guard upgrades, giving him a steel-plated skull and a metal plated tail.",
+    "His catchphrase is the base of Wrecking Ball's (\"Wreck-n-Roll!\") and Snap Shot's (\"Croc and Roll!\").",
+    "In Skylanders: Spyro's Adventure: Master Eon's Official Guide, it incorrectly states that he is a Tech Skylander.",
+    "He and Ghost Roaster both have spikeballs attached to them.",
+    "Bash's quote, \"Rock it to me!\" is a play on the term \"Sock it to me!\"",
+    "Bash is the first Skylander to have Triceratops-like features (the second being Tri-Tip).",
+    "Of the Series 2 Earth Skylanders in Giants, Bash is the only one without a Series 3 counterpart."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventure - Bash Trailer (Rock and Roll)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Bash_Trailer_(Rock_and_Roll)"
+    },
+    {
+      "name": "Meet the Skylanders Bash (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Bash_(extended)"
+    },
+    {
+      "name": "Skylanders- Spyro's Adventure - Bash Preview Trailer (Rock 'n' Roll)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders-_Spyro%27s_Adventure_-_Bash_Preview_Trailer_(Rock_%27n%27_Roll)"
+    },
+    {
+      "name": "Skylanders Giants - Meet the Skylanders - Series 2 Bash (Rock and Roll)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Series_2_Bash_%28Rock_and_Roll%29"
+    }
+  ],
+  "gameplay": "Bash uses his spiky tail to slam and strike his opponents away using a 360 degree tailspin. He can also summon rocks to rise from the ground to scramble his enemies. His signature attack is Rock Roll, which involves him curling up into a spiky ball and steamrolling into his enemies.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Bash",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Tail Swipe",
+        "imgPath": "Bashprimarypower.png",
+        "content": "Bash swings his tail around to attack a full 360 degrees of enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Rock and Roll",
+        "imgPath": "Bashsecondarypower.png",
+        "content": "Bash rolls into a ball to bowl over his enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Tennis Tail",
+        "imgPath": "Bashbasicupgrade1.png",
+        "content": "Deflect incoming objects with Tail Swipe.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Iron Tail",
+        "imgPath": "Bashbasicupgrade2.png",
+        "content": "Tail Swipe does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Summoning: Stone Projection",
+        "imgPath": "Bashbasicupgrade3.png",
+        "content": "Bash can summon up to three rock walls at a time and hit them with Tail Swipe to launch rocks.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Double Roll",
+        "imgPath": "Bashbasicupgrade4.png",
+        "content": "Bash can use the Roll attack twice as long.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Triceratops Honor Guard",
+        "imgPath": "Bashsoulgempower.png",
+        "content": "New armor makes Bash harder to hit. Armor +40.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Rolling Thunder",
+        "imgPath": "Bashwowpowpower.png",
+        "content": "While rolling, press Attack 3 to launch into the air and slam down.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Granite Dragon",
+        "abilities": [
+          {
+            "name": "Mace of Destruction",
+            "imgPath": "Bashpath1upgrade1.png",
+            "content": "Tail Swipe does MORE increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Summoning: Stone Uppercut",
+            "imgPath": "Bashpath1upgrade2.png",
+            "content": "Stone Projection does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Gaia Hammer",
+            "imgPath": "Bashpath1upgrade3.png",
+            "content": "Charge up Tail Swipe to make it deal extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Pulver Dragon",
+        "abilities": [
+          {
+            "name": "Pulver Roll",
+            "imgPath": "Bashpath2upgrade1.png",
+            "content": "Roll attack does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Earthen Force Roll",
+            "imgPath": "Bashpath2upgrade2.png",
+            "content": "Roll does MORE damage and can roll right through enemy attacks.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Continental Boulder",
+            "imgPath": "Bashpath2upgrade3.png",
+            "content": "Bash becomes giant while rolling, rolling faster and doing even more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "bash",
+      "id": "bash-s1",
       "variant_name": "Bash",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/9/9c/Bash.jpg",
       "attacks": [
@@ -43,7 +320,62 @@
         "Mace of Destruction",
         "Gaia Hammer"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "310 (Max 620)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Bash"
+    },
+    {
+      "id": "bash-s2",
+      "variant_name": "Bash",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b6/Series_2_Bash_Promo.jpg",
+      "attacks": [
+        "Tail Swipe",
+        "Rock Roll",
+        "Summoning: Stone Projection",
+        "Mace of Destruction",
+        "Gaia Hammer"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "45"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Bash"
     }
   ]
