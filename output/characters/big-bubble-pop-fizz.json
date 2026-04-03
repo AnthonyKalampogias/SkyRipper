@@ -19,13 +19,13 @@
   "description": "Big Bubble Pop Fizz is the SuperChargers counterpart of Pop Fizz in Skylanders: SuperChargers. His signature vehicle is the Soda Skimmer.",
   "biography": "Big Bubble Pop Fizz is the SuperChargers counterpart of Pop Fizz in Skylanders: SuperChargers. His signature vehicle is the Soda Skimmer. He has a birthday counterpart called Birthday Bash Big Bubble Pop Fizz.",
   "quote": "The Motion of the Potion!",
-  "personality": "Pop Fizz is known for being unpredictable and scatterbrained due to his many potion experiments. He is often seen enthusiastically testing new formulas, even if they have strange side effects on his memory or appearance.",
+  "personality": "Pop Fizz is known for being unpredictable and scatterbrained due to his many potion experiments. He is often seen enthusiastically testing new formulas, even if they have strange side effects on his memory or appearance. As he says, 'sometimes these potions can be a little -- uh, unpredictable.'",
   "story": [
     {
       "story_name": "Origin",
-      "content": "Big Bubble Pop Fizz is the SuperChargers counterpart of Pop Fizz in Skylanders: SuperChargers. His signature vehicle is the Soda Skimmer. He continues his alchemical experimentation with a new bubble-blowing sousaphone weapon.",
+      "content": "Big Bubble Pop Fizz is the SuperChargers counterpart of Pop Fizz in Skylanders: SuperChargers. His signature vehicle is the Soda Skimmer. He continues his alchemical experimentation with a new bubble-blowing sousaphone weapon, using his concoctions to transform into a powerful beast.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/01/Big_Bubble_Pop_Fizz_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20150907034533"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/01/Big_Bubble_Pop_Fizz_Promo.jpg/revision/latest?cb=20150907034533"
     }
   ],
   "quotes": [
@@ -60,8 +60,8 @@
     "Unlike his previous versions, Big Bubble Pop Fizz can remain in his Beast mode limitlessly.",
     "His Beast mode now has three different colors based on whichever ability he possesses.",
     "The figure's hair is not colored at the back, under his sousaphone-like weapon.",
-    "When placed on the portal, he says his official catchphrase and some of his quotes in a slightly different tone.",
-    "There is a glitch in SuperChargers that allows him to keep his berserker stance while in normal mode by changing his upgrade path."
+    "When he, Deep Dive Gill Grunt, Super Shot Stealth Elf and Bone Bash Roller Brawl are placed on the portal, they say their official catchphrases and some of their quotes in a slightly different tone of their voices.",
+    "In SuperChargers, there is a glitch that can make Big Bubble Pop Fizz have his berserker stance, even when he's in his normal mode by changing his upgrade path."
   ],
   "trailers": [
     {
@@ -72,10 +72,10 @@
     {
       "name": "Skylanders SuperChargers - Big Bubble Pop Fizz's Soul Gem Preview (The Motion of the Potion)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Big_Bubble_Pop_Fizz%27s_Soul_Gem_Preview_(The_Motion_of_the_Potion)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Big_Bubble_Pop_Fizz's_Soul_Gem_Preview_(The_Motion_of_the_Potion)"
     }
   ],
-  "gameplay": "Pop Fizz uses a sousaphone-like weapon to blow bubbles that bounce toward enemies. He can also transform into a beast mode with claw attacks, which in this SuperCharger version, can be maintained limitlessly. He uses chemical reactions and a Mixture Modifier to change the effects and colors of his attacks.",
+  "gameplay": "Big Bubble Pop Fizz uses a sousaphone-like weapon to blow bubbles that bounce on their way to enemies. He can transform into a beast by pressing Attack 2, where he uses claws for melee attacks. His SuperCharger form allows him to stay in beast mode indefinitely. He uses a Mixture Modifier to transform the color and effects of liquid attacks. After reverting to normal form, he receives a temporary defense boost.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Big_Bubble_Pop_Fizz",
   "abilities": {
     "basic": [
