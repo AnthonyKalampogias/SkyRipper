@@ -21,7 +21,7 @@
   ],
   "description": "Bat Spin is a vampire who is one of the Core Frito-Lay Skylanders for Skylanders: Trap Team.",
   "biography": "Bat Spin hailed from the underworld, where as a child she was separated from her people. After spending months searching for them, she eventually was welcomed by a colony of magical bats who raised her as one of their own. After many peaceful years living with the bats, the colony was invaded by an army of undead trolls, who were set on stealing their magic to build an ultimate sonar weapon. Bat Spin quickly took action and used powerful abilities that she had learned growing up with the bats and essentially becoming one of them. She heroically defeated the trolls and saved the colony. This caught the attention of Master Eon, who saw at once she would make a worthy Skylander!",
-  "quote": "No Rest for the Wicked!",
+  "quote": "“No Rest for the Wicked!”",
   "personality": "Bat Spin was born in the underworld, which makes her witchy in a good way. She's also pretty cool under pressure and isn't known to fly off the handle. Her mannerisms in idle and win animations imply she might be still young, and strangely she sounds hesitant when given a hat or nickname.",
   "story": [
     {
@@ -47,37 +47,37 @@
     {
       "quote_type": "Battle Cries",
       "content": [
-        "No Rest for the Wicked!",
-        "Let the bat-tle begin!",
-        "Unstoppable!",
-        "Spin for the win!",
-        "Power hungry!",
-        "The fright with bite!",
-        "The bigger, the bat-ter!",
-        "Beware the bat!",
-        "Fright and fright!",
-        "Bat spin!",
-        "Didn't even bat an eye!",
-        "Staking my claim!",
-        "So good its scary!",
-        "Let's go for a spin!",
-        "Take off!",
-        "Batter up!",
-        "Just winging it!",
-        "Up and away!",
-        "Mere mortals, ha ha!",
-        "All bark, no bite.",
-        "A big bite of treasure!",
-        "Jackpot!",
-        "Moving Beyond!",
-        "Fright on!",
-        "Eternal strength!",
-        "I'm batting a thousand!",
-        "Flying up the charts!",
-        "If only I could see myself in the mirror...",
-        "I look absolutely frightful! I love it!",
-        "I'm eternally grateful for this name.",
-        "I get chills hearing this name, really!"
+        "\"No Rest for the Wicked!\"",
+        "\"Let the bat-tle begin!\"",
+        "\"Unstoppable!\"",
+        "\"Spin for the win!\"",
+        "\"Power hungry!\"",
+        "\"The fright with bite!\"",
+        "\"The bigger, the bat-ter!\"",
+        "\"Beware the bat!\"",
+        "\"Fright and fright!\"",
+        "\"Bat spin!\"",
+        "\"Didn't even bat an eye!\"",
+        "\"Staking my claim!\"",
+        "\"So good its scary!\"",
+        "\"Let's go for a spin!\"",
+        "\"Take off!\"",
+        "\"Batter up!\"",
+        "\"Just winging it!\"",
+        "\"Up and away!\" - when using a bounce pad",
+        "\"Mere mortals, ha ha!\"",
+        "\"All bark, no bite.\"",
+        "\"A big bite of treasure!\" - when opening a treasure chest",
+        "\"Jackpot!\"",
+        "\"Moving Beyond!\" - when unlocking next area",
+        "\"Fright on!\" - when leveled up",
+        "\"Eternal strength!\"",
+        "\"I'm batting a thousand!\" - when viewing stats",
+        "\"Flying up the charts!\"",
+        "\"If only I could see myself in the mirror...\" - when wearing a hat",
+        "\"I look absolutely frightful! I love it!\"",
+        "\"I'm eternally grateful for this name.\" - when given a nickname",
+        "\"I get chills hearing this name, really!\""
       ]
     }
   ],
@@ -85,7 +85,8 @@
     "When first revealed for the Frito Lay contest, Bat Spin's image url revealed that her original name was Frightengale.",
     "Her game files in SuperChargers show a different name, Fright Bite.",
     "Her catchphrase originated from one of Cynder's battle cries.",
-    "She is the third vampire Skylander (the others being Night Shift and Roller Brawl). Like Night Shift, she speaks with a Transylvanian accent.",
+    "She is the third vampire Skylander (the others being Night Shift and Roller Brawl).",
+    "Like Night Shift, she speaks with a Transylvanian accent.",
     "She shares some similarities to Venger from the 1980s Dungeons & Dragons TV series. Both have red clothing and bat-like features.",
     "Her name might be a pun on 'backspin'.",
     "Bat Spin is voiced by Eliza Schneider, who is best known for voicing most of the female characters including Wendy Testaburger from the 4th to 7th seasons of South Park, She also voices Mags and Vampress Imaginators. Coincidentally, they are all Undead themed characters.",
@@ -101,7 +102,7 @@
     {
       "name": "Skylanders Trap Team - Bat Spin's Soul Gem Preview (No Rest For The Wicked)",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Trap_Team_-_Bat_Spin%27s_Soul_Gem_Preview_(No_Rest_For_The_Wicked)"
+      "url": "/wiki/File:Skylanders_Trap_Team_-_Bat_Spin's_Soul_Gem_Preview_(No_Rest_For_The_Wicked)"
     }
   ],
   "gameplay": "Bat Spin's gameplay revolves around summoning and managing pet bats that attack enemies. She can also transform into a Giant Bat to bite enemies and use a powerful screech attack. Her upgrade paths allow her to either improve her bat-summoning abilities with specific named bats or enhance her powerful Bat Form.",
@@ -197,7 +198,73 @@
         }
       }
     ],
-    "wow_pows": [],
+    "wow_pows": [
+      {
+        "season": 0,
+        "name": "Bat Friends (Primary Attack)",
+        "imgPath": "",
+        "content": "Press Y to summon up to 3 bats that will attack nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "season": 0,
+        "name": "Monster Bat (Secondary Attack)",
+        "imgPath": "",
+        "content": "Press X to transform into Monster Bat. You will be able to lunge foward by pressing Y. Press X to revert to normal while doing a screech that will damage anyone around.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "season": 0,
+        "name": "Bat Cyclone (requires level: 3)",
+        "imgPath": "",
+        "content": "Hold X to summon up to 3 bats that will spin around the character and damage enemies if they come in contact.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "season": 0,
+        "name": "Ball of Bats (requires level: 6)",
+        "imgPath": "",
+        "content": "Hold Y to charge up a ball of energy that will fire towards enemies when the input is released.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "season": 0,
+        "name": "Bat Squad (requires level: 9)",
+        "imgPath": "",
+        "content": "In Monster Bat form, press Y to summon 3 bats. Press Y again to fire them foward and explode while doing Area of Damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
     "upgrade_paths": [
       {
         "path_name": "Pet Purveyor",
@@ -301,23 +368,23 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "240"
+          "stat_value": "240 (max. 480)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "85"
+          "stat_value": "85 (max. 133)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "12"
+          "stat_value": "12 (max. 42)"
         },
         {
           "stat_name": "Critical Hit",
-          "stat_value": "50"
+          "stat_value": "50 (max. 100)"
         },
         {
           "stat_name": "Elemental Power",
-          "stat_value": "46"
+          "stat_value": "46 (max. 96)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Bat_Spin"
