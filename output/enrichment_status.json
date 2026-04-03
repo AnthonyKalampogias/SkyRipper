@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-03T14:45:49.587Z",
+  "last_run": "2026-04-03T14:47:36.887Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -22,8 +22,8 @@
       "sha": "2a3853498bf4c4325a7e8dfa4c36ee5994e1a04f40516c96c268a303e0e3c9e2"
     },
     {
-      "name": "Bad Juju",
-      "sha": "619df4d57b826e851864bd63ec90778fe85427cc902639ba41679cd48fab5acc"
+      "name": "Barbella",
+      "sha": "1d060b020eb620377784479d04aa08fb4807d20722586f957c551d3862e71d91"
     }
   ]
 }
