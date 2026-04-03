@@ -4,21 +4,267 @@
   "species": "Unknown",
   "gender": "Female",
   "element": "Earth",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Barbella was the best fitness trainer in all of Skylands. Not only did she possess otherworldly strength, she was also a firm believer that a healthy diet and exercise led to true happiness. With such a positive message to spread, Barbella decided to open her own fitness center called “Flex-a-lot”, where she hoped to instill good eating and workout habits with all of her patrons. But one day, the gelatinous villain known as The Gulper destroyed her gym, and it took all of Barbella’s strength to keep it from collapsing while everyone fled to safety. It was then that Barbella realized that bad guys were more hazardous to your health than anything else, so she began to train in the ways of the Sentinel, where she quickly became one of the greatest masters in the world!",
-  "personality": null,
-  "story": null,
+  "description": "Barbella is a crystalline Earth Sensei in Skylanders: Imaginators, who trains Imaginators of the Sentinel Battle Class.",
+  "biography": "Barbella was the best fitness trainer in all of Skylands. Not only did she possess otherworldly strength, she was also a firm believer that a healthy diet and exercise led to true happiness. With such a positive message to spread, Barbella decided to open her own fitness center called 'Flex-a-lot', where she hoped to instill good eating and workout habits with all of her patrons. But one day, the gelatinous villain known as The Gulper destroyed her gym, and it took all of Barbella's strength to keep it from collapsing while everyone fled to safety. It was then that Barbella realized that bad guys were more hazardous to your health than anything else, so she began to train in the ways of the Sentinel, where she quickly became one of the greatest masters in the world!",
+  "quote": "It's Crunch Time!",
+  "personality": "Barbella is a highly positive and dedicated fitness enthusiast who believes that true happiness comes from a healthy diet and exercise. She is characterized by her otherworldly strength and her selfless nature, as demonstrated when she held up her collapsing gym to save her patrons from The Gulper. Her realization that villains are the ultimate hazard to health drove her to apply her discipline toward mastering the ways of the Sentinel.",
+  "story": [
+    {
+      "story_name": "Character Development",
+      "content": "During Skylanders: Giants development, character designer I-Wei Huang started with the idea of a strong Water female Giant, but eventually developed the idea of a living statue character for the Earth element, first used to create the Weapon Master. Though the statue design would later be finalized as the Golden Queen, many of its ideas such as the square barbells, large armor and the textured skin would later surface in Imaginators with Barbella. Her pose, skin and barbells went through many attempts and iterations for a look that fit her concept perfectly.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Golden_Queen_Concepts_1.jpg/revision/latest/scale-to-width-down/185?cb=20160927192454"
+    },
+    {
+      "story_name": "Physical Traits",
+      "content": "Barbella is a crystalline, muscular woman wearing a black skintight jumpsuit with gold trim, stony armbands, and leg-warmers. She also has the golden sensei belt tied around her waist. She carries a boulder barbell.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "Barbella was the best fitness trainer in all of Skylands. Not only did she possess otherworldly strength, she was also a firm believer that a healthy diet and exercise led to true happiness. With such a positive message to spread, Barbella decided to open her own fitness center called 'Flex-a-lot', where she hoped to instill good eating and workout habits with all of her patrons. But one day, the gelatinous villain known as The Gulper destroyed her gym, and it took all of Barbella's strength to keep it from collapsing while everyone fled to safety. It was then that Barbella realized that bad guys were more hazardous to your health than anything else, so she began to train in the ways of the Sentinel, where she quickly became one of the greatest masters in the world!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Barbella_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20160927200305"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "It's Crunch Time!",
+        "I'll whip all your Imaginators into shape with my workout program!",
+        "And I can train all of your Sentinel Imaginators in this awesome secret technique.",
+        "Going, going, gong!",
+        "Bring it on, I'm always up for a challenge!",
+        "I should probably warn you: I've been training for this.",
+        "Work it!",
+        "Oh yeah, feel that burn!",
+        "No pain, no gain. Right, bad guys?",
+        "Nothing stands between me and where I want to go!",
+        "Oh, I'm in the zone right now!",
+        "And lift and smash!",
+        "And that's how you get results!",
+        "All that hard work has paid off!",
+        "I can definitely improve on these numbers!",
+        "Oh yeah, check out those measurements!",
+        "One, and two, and Sky-Chi!",
+        "I've been waiting for that!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Barbella is a pun on both barbells, a type of exercise equipment, and the Italian word bella, meaning beautiful.",
+    "Her name is also a pun on Barbarella.",
+    "Barbella is also an Italian surname.",
+    "In earlier versions of the game, Barbella had an icon based on concept art and had white instead of yellow hair.",
+    "Surprisingly, Barbella's element and battle class have more female senseis than males.",
+    "While most of the Senseis' garments consist of robes, tunics, and armor, Barbella's outfit is a jumpsuit with golden linen on the sleeves, pant leg, and even outlines around the chest like an actual chest plate with pauldrons.",
+    "Barbella is very similar to Crusher - Both are members of elite Skylander teams, are Earth elements, have very similar powers and weapons, and have nearly identical catchphrases.",
+    "She's the only Earth sensei without an alternate deco."
+  ],
+  "trailers": [],
+  "gameplay": "Barbella uses her super-strength and boulder barbells in battle. With her boulder barbells she can smash enemies, and even use them to summon rock constructs, ranging from a large pair of stone hands, or a runic cube that she can push at enemies with great force. Her Sky-Chi has her lift her barbells which causes crystal shards to shoot out towards her foes.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Barbella",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Barbell Bash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Barbellaprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170504204440",
+        "content": "Press Attack 1 to whack, thwack and smash with your Boulder Barbells.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Rocky Rep",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fd/Barbellasecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170504204445",
+        "content": "Press Attack 2 to create stone hands that pull enemies towards you.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Cubic Runic Rock",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/01/Barbellabasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504204453",
+        "content": "Press Attack 3 to conjure a giant rock that damages enemies near it and can be launched to explode into Rock Crystals.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Unsteady Ground",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Barbellabasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504204500",
+        "content": "Attack 1 triple-combo covers a larger area, dealing more bonus damage to closer enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Have a Gneiss Day",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/51/Barbellabasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504204510",
+        "content": "Rocky Rep's stone hands create Rock Crystals you can launch at foes with Barbell Bash.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Rocks in a Hard Place",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Barbellabasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170504204514",
+        "content": "Press Attack 2 during Rocky Rep to create Rock Crystals.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Taken for Granite",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/62/Barbellasoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170504204522",
+        "content": "Press Attack 2 five times to buff yourself. You take less damage. Rock Crystals spawn over time. Attack 1 pulls Rock Crystals.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Do You Even Lift?",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Barbellaskychipower.png/revision/latest/scale-to-width-down/148?cb=20170504204526",
+        "content": "The ultimate Sensei attack! Hold Special Attack for a Sensei-tional workout! Aim with Left Stick to shoot out Crystal Shards at your enemies!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Seismic Smasher",
+        "abilities": [
+          {
+            "name": "Gifts of the Deadlift",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Barbellapath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504213240",
+            "content": "Rock Crystals will pound the ground when you press Attack 1. Press Attack 1 thrice to create Rock Crystals.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Caving In",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/56/Barbellapath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504213246",
+            "content": "Barbell Bash does even more damage and the shockwave extends further.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Rocky Roads",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Barbellapath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504213252",
+            "content": "Press Attack 1 thrice to send out cascading earthquakes.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Ruler of Rocks",
+        "abilities": [
+          {
+            "name": "For the Crater Good",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/34/Barbellapath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504213256",
+            "content": "Damaging enemies sometimes spawns a Rock Crystal.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Rocky Rebound",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/07/Barbellapath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504213300",
+            "content": "Rock Crystals will return to their targets when they fly out.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Boulder and All the Wiser",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/39/Barbellapath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504213304",
+            "content": "Rock Crystals spawn more frequently when damaging enemies. Rock Crystals critically hit on their return trip.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "barbella",
@@ -34,7 +280,28 @@
         "Gifts of the Deadlift",
         "For the Crater Good"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "350 (max. 700)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "210"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "330"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "160"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Barbella"
     }
   ]
