@@ -4,31 +4,358 @@
   "species": "Furnace Knight",
   "gender": "Male",
   "element": "Fire",
+  "role": "SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
     "Skylanders: Lost Islands",
     "Skylanders: Trap Team",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "As a young furnace knight, Blast Zone was part of the Skylands Bomb Squad, specializing in the safe disarming and removal of troll bombs . But it was not long before the trolls got tired of Blast Zone constantly thwarting their evil plans, so they decided to go after the furnace knight himself. Late one night, an army of trolls snuck into Blast Zone’s village and threw 100 bombs down his chimney. Acting quickly, Blast Zone swallowed each bomb and then belched a jet of fire back at the invaders – sending them fleeing with their boots on fire. The tale of the attack eventually reached the ear of Master Eon , who knew the brave furnace knight had all the makings of a Skylander.",
-  "personality": "Fiery but disarming, Blast Zone always puts the safety of his friends first. He is always most likely to blow a fuse. &#91; 1 &#93;",
-  "story": null,
+  "description": "Blast Zone is a Fire furnace knight who is one of the SWAP Force Skylanders in Skylanders: Swap Force. He is one of the Starter Pack Skylanders for the game, the others being Wash Buckler and Ninja Stealth Elf. Blast Zone has a Dark counterpart called Dark Blast Zone, and his SWAP Force Ability is Rocket.",
+  "biography": "As a young furnace knight, Blast Zone was part of the Skylands Bomb Squad, specializing in the safe disarming and removal of troll bombs. But it was not long before the trolls got tired of Blast Zone constantly thwarting their evil plans, so they decided to go after the furnace knight himself. Late one night, an army of trolls snuck into Blast Zone’s village and threw 100 bombs down his chimney. Acting quickly, Blast Zone swallowed each bomb and then belched a jet of fire back at the invaders – sending them fleeing with their boots on fire. The tale of the attack eventually reached the ear of Master Eon, who knew the brave furnace knight had all the makings of a Skylander.",
+  "quote": "Blast and Furious!",
+  "personality": "Fiery but disarming, Blast Zone always puts the safety of his friends first. He is always most likely to blow a fuse.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "As a young furnace knight, Blast Zone was part of the Skylands Bomb Squad, specializing in the safe disarming and removal of troll bombs. But it was not long before the trolls got tired of Blast Zone constantly thwarting their evil plans, so they decided to go after the furnace knight himself.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "The Attack",
+      "content": "Late one night, an army of trolls snuck into Blast Zone’s village and threw 100 bombs down his chimney. Acting quickly, Blast Zone swallowed each bomb and then belched a jet of fire back at the invaders – sending them fleeing with their boots on fire.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Becoming a Skylander",
+      "content": "The tale of the attack eventually reached the ear of Master Eon, who knew the brave furnace knight had all the makings of a Skylander.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Blast and Furious!",
+        "Ashes to ashes!",
+        "A Blazing success!",
+        "Finders Keepers!",
+        "This is MY kind of place!",
+        "Burn and Learn!",
+        "In the zone!",
+        "Sweet!",
+        "Of gold and glory!",
+        "Burning Bright!",
+        "A Dish is best served HOT!",
+        "Fuel the fire!",
+        "Fire it up!",
+        "I am on a hot streak!",
+        "Maybe I AM a rocket scientist!",
+        "Looking hotter than ever!"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "Uh, yeah. But when we swap, nobody gets hurt.",
+        "Bombs away!",
+        "Let me in there",
+        "THERE WILL BE FIRE"
+      ]
+    }
+  ],
+  "trivia": [
+    "Blast Zone bears a slight resemblance to the Arkeyans.",
+    "He also bears a resemblance to the Fire Skylander, Ignitor, as both Skylanders are composed of flames and wear armor.",
+    "Early concepts of Blast Zone depict him as an armored flame spirit with a horned, bull-like head, or alternatively as a technological golem that launched bombs from holes in his arms.",
+    "Blast Zone's early name was 'Blast Off'.",
+    "His catchphrase is a play on 'Fast and Furious'.",
+    "Blast Zone is voiced by Jess Harnell, who is best known for voicing Captain Hero from Drawn Together, Wakko Warner from Animaniacs, Ironhide from the Transformers films and Cedric in Sofia the First.",
+    "Blast Zone looks similar to the Fire Geargolems, except that Fire Geargolems are larger and look more robotic.",
+    "When on Blast Zone's Ignition path, any projectiles used by Skylanders that pass through his wall of fire will catch fire just like his bombs do and deal 12% extra damage.",
+    "Blast Zone is the second Skylander to use round bombs while Boomer is the first.",
+    "He and Boom Jet are the only Rocket SWAP Force Skylanders.",
+    "He and Doom Stone both have their bottom half names rhyme.",
+    "He and Spy Rise are the only SWAP Force Skylanders to not wear a belt.",
+    "Blast Zone's name is a reference to the word 'blast zone,' an area that has been affected by an explosion."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Blast Zone (Blast and Furious)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Blast_Zone_(Blast_and_Furious)"
+    },
+    {
+      "name": "Skylanders Swap Force - Blast Zone Soul Gem Preview (Blast and Furious)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Blast_Zone_Soul_Gem_Preview_(Blast_and_Furious)"
+    }
+  ],
+  "gameplay": "Blast Zone is a Fire element SWAP Force Skylander with the Rocket movement power. His primary combat style involves throwing bombs and utilizing fire breath to create damaging walls of fire. On his top half, he can upgrade his bombs to become sticky or flaming projectiles, while his bottom half upgrades focus on rocket-dashing through enemies and leaving trails of fire in his wake.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Blast_Zone",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Bomb Throw",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Blast_Zonetopprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505000156",
+        "content": "Press Attack 1 to throw a bomb at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Rocket Dash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/96/Blast_Zonebottomprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505000214",
+        "content": "Hold Attack 2 to dash around with rocket boots.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Flame Breath",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Blast_Zonetopbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505000044",
+        "content": "Hold Attack 3 while turning to create a wall of fire that damages nearby enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 300,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Power Bombs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/Blast_Zonetopbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505000054",
+        "content": "Press Attack 1 to throw bombs that do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Sticky Bomb",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Blast_Zonetopbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505000113",
+        "content": "Hold Attack 1 to charge a Bomb, release to throw a timed sticky bomb.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Ready For Blast Off",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b3/Blast_Zonebottombasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505000005",
+        "content": "Hold Attack 2 to charge a rocket dash and deal damage to nearby enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 300,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Armor Plating",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/Blast_Zonebottombasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505000032",
+        "content": "Armor is increased. Hot off the steel presses!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Fuel for the Fire",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/35/Blast_Zonebottombasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505000230",
+        "content": "Hold Attack 2 to dash, dashing now lasts for as long as Attack 2 is held.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Bomb Party",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Blast_Zonetopsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505000205",
+        "content": "New armor enhancements allow two Bombs to be thrown at once!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Hot Feet",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Blast_Zonebottomsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505000224",
+        "content": "A fire trail is left behind while dashing that damages enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Ignition",
+        "abilities": [
+          {
+            "name": "Flaming Bombs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Blast_Zonetoppath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505000637",
+            "content": "Bombs catch fire when they pass through the fire wall created by Flame Breath, dealing increased damage in an area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Fired Up!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/Blast_Zonetoppath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505000642",
+            "content": "Flaming bombs do more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Reaction Satisfaction",
+        "abilities": [
+          {
+            "name": "Ring of Fire",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Blast_Zonetoppath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505001124",
+            "content": "Creating a full circle with Flame Breath causes a massive explosion.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Ring Blast",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/60/Blast_Zonetoppath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505001128",
+            "content": "Ring of Fire does increased damage in a larger area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Fuel Injected",
+        "abilities": [
+          {
+            "name": "Heat Wave",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/35/Blast_Zonebottompath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505000646",
+            "content": "A rocket-fueled fireball is shot out at the end of the dash.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Flamed",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/57/Blast_Zonebottompath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505000651",
+            "content": "A more powerful Heat Wave is shot out at the end of dashing.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Temperatures Rising",
+        "abilities": [
+          {
+            "name": "Tempered Fire",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dd/Blast_Zonebottompath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505001133",
+            "content": "A fiery aura appears after dashing which damages any nearby enemy.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Too Hot To Handle",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/af/Blast_Zonebottompath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505001139",
+            "content": "An even more powerful fire aura appears at the end of dashing.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "blast-zone",
       "variant_name": "Blast Zone",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Blast_Zone_Art.jpg",
       "attacks": [
@@ -38,7 +365,28 @@
         "Ready For Blast Off",
         "Flaming Bombs"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (Max 870)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Blast_Zone"
     }
   ]
