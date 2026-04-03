@@ -16,7 +16,7 @@
   "description": "Autumn Stump Smash is the Fall counterpart of Stump Smash in Skylanders: Lost Islands. He was only available in September 2013.",
   "biography": "Autumn Stump Smash is the Fall counterpart of Stump Smash in Skylanders: Lost Islands. He was only available in September 2013.",
   "quote": "Autumn Stump Smash has set in around your kingdom!",
-  "personality": "Not mentioned.",
+  "personality": "",
   "story": [
     {
       "story_name": "Background",
@@ -39,150 +39,14 @@
     "His English voice actor is Kevin Michael Richardson."
   ],
   "trailers": [],
-  "gameplay": "Autumn Stump Smash plays identically to the standard Stump Smash, utilizing his hammer-like hands to crush enemies and spitting acorns as a ranged attack. His unique aesthetic reflects the autumn season.",
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Autumn_Stump_Smash",
   "abilities": {
-    "basic": [
-      {
-        "name": "Pulverize",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Autumn_Stump_Smash_Promo.jpg/revision/latest?cb=20130905205040",
-        "content": "Autumn Stump Smash bashes his enemies with his giant hammer hands.",
-        "is_primary": true,
-        "is_secondary": false,
-        "price": 0,
-        "colors": {
-          "header": "#4D5",
-          "bg_content": "#BFB"
-        }
-      },
-      {
-        "name": "Acorn Spit",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Autumn_Stump_Smash_Promo.jpg/revision/latest?cb=20130905205040",
-        "content": "Spits out explosive acorns at distant enemies.",
-        "is_primary": false,
-        "is_secondary": true,
-        "price": 0,
-        "colors": {
-          "header": "#4D5",
-          "bg_content": "#BFB"
-        }
-      }
-    ],
-    "basic_upgrades": [
-      {
-        "name": "Double Smash",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Autumn_Stump_Smash_Promo.jpg/revision/latest?cb=20130905205040",
-        "content": "Increased damage for hammer attacks.",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 500,
-        "colors": {
-          "header": "#4D5",
-          "bg_content": "#BFB"
-        }
-      },
-      {
-        "name": "Acorn-topus",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Autumn_Stump_Smash_Promo.jpg/revision/latest?cb=20130905205040",
-        "content": "Acorns explode with a larger radius.",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 700,
-        "colors": {
-          "header": "#4D5",
-          "bg_content": "#BFB"
-        }
-      },
-      {
-        "name": "Hardened Bark",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Autumn_Stump_Smash_Promo.jpg/revision/latest?cb=20130905205040",
-        "content": "Increased defense and armor.",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 900,
-        "colors": {
-          "header": "#4D5",
-          "bg_content": "#BFB"
-        }
-      },
-      {
-        "name": "Mega-Combos",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Autumn_Stump_Smash_Promo.jpg/revision/latest?cb=20130905205040",
-        "content": "Unlock new hammer strike combinations.",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 1200,
-        "colors": {
-          "header": "#4D5",
-          "bg_content": "#BFB"
-        }
-      }
-    ],
-    "soulgems": [
-      {
-        "name": "Waterlogged",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Autumn_Stump_Smash_Promo.jpg/revision/latest?cb=20130905205040",
-        "content": "Autumn Stump Smash can now float on water and regenerates health while swimming.",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 4000,
-        "colors": {
-          "header": "#4D5",
-          "bg_content": "#BFB"
-        }
-      }
-    ],
-    "wow_pows": [
-      {
-        "season": 2,
-        "name": "Thorn Horns",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Autumn_Stump_Smash_Promo.jpg/revision/latest?cb=20130905205040",
-        "content": "Hold the primary attack button to release a massive thorn explosion.",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 5000,
-        "colors": {
-          "header": "#4D5",
-          "bg_content": "#BFB"
-        }
-      }
-    ],
-    "upgrade_paths": [
-      {
-        "path_name": "Smashmaster",
-        "abilities": [
-          {
-            "name": "Smashmaster Supreme",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Autumn_Stump_Smash_Promo.jpg/revision/latest?cb=20130905205040",
-            "content": "Maximum damage for all hammer attacks.",
-            "is_primary": false,
-            "is_secondary": false,
-            "price": 2200,
-            "colors": {
-              "header": "#4D5",
-              "bg_content": "#BFB"
-            }
-          }
-        ]
-      },
-      {
-        "path_name": "Nut-crafter",
-        "abilities": [
-          {
-            "name": "Nut-O-Matic",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Autumn_Stump_Smash_Promo.jpg/revision/latest?cb=20130905205040",
-            "content": "Spit multiple acorns at once.",
-            "is_primary": false,
-            "is_secondary": false,
-            "price": 2200,
-            "colors": {
-              "header": "#4D5",
-              "bg_content": "#BFB"
-            }
-          }
-        ]
-      }
-    ]
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
   },
   "variants": [
     {
@@ -192,10 +56,7 @@
       "type": "Core",
       "game": "Skylanders: Lost Islands (September 2013)",
       "image": "https://static.wikia.nocookie.net/skylanders/images/8/88/Autumn_Stump_Smash_Promo.jpg/revision/latest?cb=20130905205040",
-      "attacks": [
-        "Pulverize",
-        "Acorn Spit"
-      ],
+      "attacks": [],
       "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Autumn_Stump_Smash"
     }
