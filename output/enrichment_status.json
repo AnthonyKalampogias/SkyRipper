@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-03T15:07:17.216Z",
+  "last_run": "2026-04-03T21:01:46.164Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -24,6 +24,10 @@
     {
       "name": "Blastermind",
       "sha": "a1393a34e7d7152c301a0a2e1eddcb709a4a1cbe6360e089d4a5ceb48c1c3c9b"
+    },
+    {
+      "name": "Ambush",
+      "sha": "dcad9d1c7f7485866185447a6cc0c57daf78af3c5a3b2e770025dc18fb542b0f"
     }
   ]
 }
