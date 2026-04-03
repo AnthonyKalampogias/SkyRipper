@@ -78,16 +78,18 @@
     }
   ],
   "trivia": [
-    "Many fans mistake him for being a dinosaur due to his resemblance to an Ankylosaurus (and Triceratops, if he is equipped with the Triceratops Honor Guard Soul Gem power).",
-    "Over the years, Bash has jumped off cliffs, leapt from airships and even launched himself into the sky from a giant catapult in his attempts at flying.",
+    "Many fans mistake him for being a dinosaur due to his resemblance to an Ankylosaurus (and Triceratops, if he is equipped with the Triceratops Honor Guard Soul Gem power). He also bears a slight resemblance to Doedicurus with Postosuchus and Styracosaurus features.",
+    "Over the years, Bash has jumped off cliffs, leapt from airships and even launched himself into the sky from a giant catapult in his attempts at flying. He always makes a painful landing, but he refuses to give up and insists that one day he'll soar like the other dragons.",
     "One of his upgrades, Iron Tail, share its name with a Pokémon move.",
     "Despite the upgrade description saying he rolls into a ball, Bash rolls more in the form of a wheel, like a Droideka from the Star Wars series.",
     "Series 2 Bash has his Iron Tail and Triceratops Honor Guard upgrades, giving him a steel-plated skull and a metal plated tail.",
     "His catchphrase is the base of Wrecking Ball's (\"Wreck-n-Roll!\") and Snap Shot's (\"Croc and Roll!\").",
     "In Skylanders: Spyro's Adventure: Master Eon's Official Guide, it incorrectly states that he is a Tech Skylander.",
     "He and Ghost Roaster both have spikeballs attached to them.",
-    "Bash's quote, \"Rock it to me!\" is a play on the term \"Sock it to me!\"",
+    "Bash's quote, 'Rock it to me!' is a play on the term 'Sock it to me!'",
+    "In Swap Force, his Triceratops Honor Guard Soul Gem does change his appearance when he's wearing a hat. In SuperChargers, his Triceratops Honor Guard Soul Gem disappears when wearing a hat. Bop also shares the same error. The error was fixed for both in Imaginators.",
     "Bash is the first Skylander to have Triceratops-like features (the second being Tri-Tip).",
+    "Bash's promotional pictures show him with more teeth compared to his toy and in-game form. This however was corrected ever since Swap Force, where he does have many more teeth.",
     "Of the Series 2 Earth Skylanders in Giants, Bash is the only one without a Series 3 counterpart."
   ],
   "trailers": [
@@ -118,7 +120,7 @@
     "basic": [
       {
         "name": "Tail Swipe",
-        "imgPath": "Bashprimarypower.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Bashprimarypower.png/revision/latest?cb=20120214102322",
         "content": "Bash swings his tail around to attack a full 360 degrees of enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -130,7 +132,7 @@
       },
       {
         "name": "Rock and Roll",
-        "imgPath": "Bashsecondarypower.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Bashsecondarypower.png/revision/latest?cb=20120214102338",
         "content": "Bash rolls into a ball to bowl over his enemies.",
         "is_primary": false,
         "is_secondary": true,
@@ -144,7 +146,7 @@
     "basic_upgrades": [
       {
         "name": "Tennis Tail",
-        "imgPath": "Bashbasicupgrade1.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ee/Bashbasicupgrade1.png/revision/latest?cb=20120214102734",
         "content": "Deflect incoming objects with Tail Swipe.",
         "is_primary": false,
         "is_secondary": false,
@@ -156,7 +158,7 @@
       },
       {
         "name": "Iron Tail",
-        "imgPath": "Bashbasicupgrade2.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/15/Bashbasicupgrade2.png/revision/latest?cb=20120214102742",
         "content": "Tail Swipe does increased damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -168,7 +170,7 @@
       },
       {
         "name": "Summoning: Stone Projection",
-        "imgPath": "Bashbasicupgrade3.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/67/Bashbasicupgrade3.png/revision/latest?cb=20120214102751",
         "content": "Bash can summon up to three rock walls at a time and hit them with Tail Swipe to launch rocks.",
         "is_primary": false,
         "is_secondary": false,
@@ -180,7 +182,7 @@
       },
       {
         "name": "Double Roll",
-        "imgPath": "Bashbasicupgrade4.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/95/Bashbasicupgrade4.png/revision/latest?cb=20120214102800",
         "content": "Bash can use the Roll attack twice as long.",
         "is_primary": false,
         "is_secondary": false,
@@ -194,7 +196,7 @@
     "soulgems": [
       {
         "name": "Triceratops Honor Guard",
-        "imgPath": "Bashsoulgempower.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/76/Bashsoulgempower.png/revision/latest?cb=20120214102351",
         "content": "New armor makes Bash harder to hit. Armor +40.",
         "is_primary": false,
         "is_secondary": false,
@@ -209,7 +211,7 @@
       {
         "season": 2,
         "name": "Rolling Thunder",
-        "imgPath": "Bashwowpowpower.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Bashwowpowpower.png/revision/latest?cb=20140128112127",
         "content": "While rolling, press Attack 3 to launch into the air and slam down.",
         "is_primary": false,
         "is_secondary": false,
@@ -226,7 +228,7 @@
         "abilities": [
           {
             "name": "Mace of Destruction",
-            "imgPath": "Bashpath1upgrade1.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Bashpath1upgrade1.png/revision/latest?cb=20120214102811",
             "content": "Tail Swipe does MORE increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -238,7 +240,7 @@
           },
           {
             "name": "Summoning: Stone Uppercut",
-            "imgPath": "Bashpath1upgrade2.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Bashpath1upgrade2.png/revision/latest?cb=20120214102821",
             "content": "Stone Projection does increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -250,7 +252,7 @@
           },
           {
             "name": "Gaia Hammer",
-            "imgPath": "Bashpath1upgrade3.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/73/Bashpath1upgrade3.png/revision/latest?cb=20120214102829",
             "content": "Charge up Tail Swipe to make it deal extra damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -267,7 +269,7 @@
         "abilities": [
           {
             "name": "Pulver Roll",
-            "imgPath": "Bashpath2upgrade1.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Bashpath2upgrade1.png/revision/latest?cb=20120214102849",
             "content": "Roll attack does increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -279,7 +281,7 @@
           },
           {
             "name": "Earthen Force Roll",
-            "imgPath": "Bashpath2upgrade2.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Bashpath2upgrade2.png/revision/latest?cb=20120214102857",
             "content": "Roll does MORE damage and can roll right through enemy attacks.",
             "is_primary": false,
             "is_secondary": false,
@@ -291,7 +293,7 @@
           },
           {
             "name": "Continental Boulder",
-            "imgPath": "Bashpath2upgrade3.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Bashpath2upgrade3.png/revision/latest?cb=20120214102906",
             "content": "Bash becomes giant while rolling, rolling faster and doing even more damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -359,6 +361,26 @@
         "Gaia Hammer"
       ],
       "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "310 (Max 792)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        },
         {
           "stat_name": "Strength",
           "stat_value": "90"
