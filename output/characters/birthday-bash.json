@@ -4,32 +4,65 @@
   "species": "Rock Dragon",
   "gender": "Male",
   "element": "Earth",
+  "role": "Skylander",
   "primary_game": "Skylanders: Lost Islands (November 2013)",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "The party as arrived with Birthday Bash. Help us celebrate a year of Lost Islands",
+  "biography": "Birthday Bash is a birthday counterpart of Bash in Skylanders: Lost Islands. He represents the Lost Islands first anniversary.",
+  "quote": "The party as arrived with Birthday Bash. Help us celebrate a year of Lost Islands",
+  "personality": "Birthday Bash's personality is not explicitly detailed, but he serves as a celebratory figure for the anniversary of Lost Islands.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Birthday Bash is a birthday counterpart of Bash in Skylanders: Lost Islands. He represents the Lost Islands first anniversary.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/25/BirthdayBash.jpg/revision/latest?cb=20150524043515"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Description",
+      "content": [
+        "The party as arrived with Birthday Bash. Help us celebrate a year of Lost Islands"
+      ]
+    }
+  ],
+  "trivia": [
+    "He along with Surfer Slam Bam are the only Alter Ego Skylanders to have original artwork for Lost Islands.",
+    "His name is a play on the real term 'birthday bash', which is a birthday party.",
+    "Although Birthday Bash was supposed to represent the Lost Islands' first anniversary. Lost Islands actually was first released on October 6th 2012.",
+    "Birthday Bash is the first Lost Islands exclusive alter ego to be in the Earth Element.",
+    "There is also an arena Challenge in Skylanders: Giants called 'Birthday Bash'.",
+    "His name is shared by Birthday Bash Big Bubble Pop Fizz."
+  ],
+  "trailers": [],
+  "gameplay": "Birthday Bash is a birthday counterpart of Bash in Skylanders: Lost Islands. He represents the Lost Islands first anniversary.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Birthday_Bash",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "birthday-bash",
+      "id": "birthday-bash-alter-ego",
       "variant_name": "Birthday Bash",
-      "edition": "Series 1",
-      "type": "Giant",
-      "game": "Skylanders: Lost Islands (November 2013)",
+      "edition": "Alter Ego",
+      "type": "Alter Ego",
+      "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/2/25/BirthdayBash.jpg/revision/latest?cb=20150524043515",
       "attacks": [
         "None"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Birthday_Bash"
     }
   ]
