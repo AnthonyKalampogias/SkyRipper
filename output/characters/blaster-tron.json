@@ -4,34 +4,374 @@
   "species": "Robot",
   "gender": "Male",
   "element": "Light",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Skylanders: SuperChargers (Skystone)",
+  "cameos": [
+    "Skylanders: SuperChargers (Skystone)"
+  ],
   "world": [
     "The Future of Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Blaster-Tron is a futuristic robot who is one of the Light trappable villains in Skylanders: Trap Team. He later returns as a Sensei of the Knight Battle Class in Skylanders: Imaginators.",
+  "biography": "Blaster-Tron isn't just state-of-the-art technology, he literally is from the future. When the Skylanders traveled forward in time to stop Wolfgang, they ended up bringing back the renegade robot with hopes that they could learn from his advanced circuitry. Eon immediately noticed that he had an actual 'Good/Evil' switch that had been set to Evil. After flipping it to Good, Blaster-Tron was completely transformed. Besides going from bad robot to good robot, he ditched his blaster gun in exchange for a laser sword. No one knew exactly why, but as long as he was helping out the cause of justice, the Skylanders were happy. As a bonus, Master Eon noticed that his skill with the blade was second to none, and so he made Blaster-Tron a Sensei for the Knight Class, where he now gives 110% to training his students - which is technically possible because in the future, we figure out how to give more than 100%.",
+  "quote": "Target Acquired!",
+  "personality": "Blaster-Tron is a literal-minded robot with a personality heavily influenced by his programming. He often speaks in technical jargon, describing his actions and emotions as 'sequences' or 'detecting high amounts of ego.' Despite his futuristic origin and advanced weaponry, he frequently breaks the fourth wall, acknowledging game mechanics like XP balls, level ups, and the repetition of villain dialogue. Since being switched from 'Evil' to 'Good,' he is dedicated to the cause of justice, though he remains analytical and relies on scanners and prediction sensors to navigate the world.",
+  "story": [
+    {
+      "story_name": "Skylanders: Trap Team",
+      "content": "As the Skylanders were fighting through The Future of Skylands, Blaster-Tron attacked them with the help of four Brawlruses after they smashed a cluster of Traptanium. He was eventually shut down and trapped. After his capture, the heroes took him and Tae Kwon Crow to The Golden Desert for their Villain Quests. His quest was called 'Help Diggs Dig' where Diggs explained that they needed Blaster-Tron's magnetic abilities to unveil treasure. After completing the quest, he was awarded with coins and a new outfit.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Imaginators",
+      "content": "Blaster-Tron isn't just state-of-the-art technology, he literally is from the future. When the Skylanders traveled forward in time to stop Wolfgang, they ended up bringing back the renegade robot. Master Eon immediately noticed that he had an actual 'Good/Evil' switch and flipped it to Good. Besides going from bad robot to good robot, he ditched his blaster gun in exchange for a laser sword. As his skill with the blade was second to none, Master Eon made Blaster-Tron a Sensei for the Knight Class, where he now trains students with 110% effort.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Skylanders: Trap Team",
+      "content": [
+        "Enemy intro sequence complete.",
+        "Initiate taunting you sequence.",
+        "No need to engage your processing circuits. I have already run the numbers and taking me is the only logical choice.",
+        "Initiate capture sequence nnooooooowwww....!",
+        "Initiate captured in trap line. Emotions include confusion at first, then analysis of my new surroundings, then I would either follow it up with state of desire for revenge, some form of acceptance, or vague reference to the smell of mustard.",
+        "I have been reprogrammed. Engage good guy settings.",
+        "Reprogramming states that I comment on this Skylands Academy. It is very nice and different than what I am used to, the Skaletones are cool, etc.",
+        "Don't want to give away the story, but the Doom Raiders will ultimately fail. Trust me, I am from the future.",
+        "I am detecting a high amount of ego. Scanners indicate that subject FLYNN is in the area. Initiate eyeroll sequence. Ughhhhh...",
+        "Great!",
+        "Excellent!",
+        "Generic positive response.",
+        "My reprogramming states that I congratulate you.",
+        "My visual sensors detect you doing something good.",
+        "I support your actions.",
+        "Transition to gaaaaaaaaaaame!",
+        "The future is now!",
+        "Affirmative.",
+        "Tag detected.",
+        "Shoot lots of beams!",
+        "Future beams!",
+        "Beam multiplier initiated.",
+        "Rockets engage!",
+        "'Scuse me!",
+        "Charge initiated.",
+        "Elevation change!",
+        "Bounce mode!",
+        "Whee!",
+        "Fun has been achieved. Now, power must be recharged.",
+        "I am not programmed for pride, but still, not bad, right?",
+        "My victory sensors detect victory.",
+        "My circuits are not programmed to understand this thing you call humor...",
+        "My prediction sensors indicate that you'll need my assistance to interact with this object.",
+        "My sensors indicate that he is correct.",
+        "Quest message received. Suspension of disbelief circuits required for magnetic powers reference."
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Target Acquired!",
+        "I am programmed to reinforce connection between Senseis and Imaginators by increasing Imaginators' power.",
+        "And in addition, will further enhance Imaginators of the Knight Class with presentation of Secret Technique.",
+        "Sensors indicate that was good.",
+        "Success achieved at specific task.",
+        "Happiness circuits engaged.",
+        "Engage new gong mechanic.",
+        "You are no match for me; I have checked!",
+        "Initiate combat battle cry line!",
+        "Preparing to reduce enemies to XP balls!",
+        "Programming mandates I comment on this victory.",
+        "My victory sensors detect victory!",
+        "Number of enemies remaining: zero. Blaster-Tron status: victorious!",
+        "Stationary attack engaged!",
+        "Oh yeah!",
+        "Yes!",
+        "Set weapons to destroy!",
+        "Ultimate method of destruction!",
+        "Cool!",
+        "Secondary attack line!",
+        "Laser ball of pain!",
+        "Fear of taking damage evaded!",
+        "Want lasers everywhere!",
+        "Blaster-tron blasts!",
+        "Upgrade power!",
+        "Bounce initiated.",
+        "Elevation change.",
+        "wee!",
+        "New area is now accessible. Progression through game continues unabated.",
+        "Barrier removal sequence complete.",
+        "Level increased. Size temporarily increased. Sense of self satisfaction remains unaffected.",
+        "Sensors indicate that 'Level up' statement is correct.",
+        "Accuracy of numbers confirmed. Only attribute that cannot be measured is this thing you call 'love'.",
+        "I am not programed for pride, but still - not bad, right?",
+        "Target acquired. Attack initiated!",
+        "Initiate crazy Sky-Chi sequence.",
+        "End of line."
+      ]
+    }
+  ],
+  "trivia": [
+    "He is currently the only fully robotic playable character not part of the Tech element.",
+    "He is one of few Villains who do not resist capture (the others are Brawlrus, Eye Five, Luminous, Krankenstein, and Nightshade).",
+    "He is one of four villains who, upon being captured in a trap, vaguely reference the smell of mustard (the others are Tussle Sprout, Chompy Mage, and Chef Pepper Jack).",
+    "Blaster-Tron breaks the fourth wall in most of his sentences, announcing his transition to the game, pointing out recurring villain dialogue and discussing how his magnetic powers come out of nowhere for his Quest.",
+    "He has a forcefield present when battled as a villain that is absent in all of his playable forms.",
+    "Blaster-Tron and Bone Chompy have the ability to charge off their arenas which mostly lack walls or railings, being the only villains able to defeat themselves without any exploits as they go out of bounds.",
+    "Blaster-Tron and Pain-Yatta are the only non-Doom Raider characters to not have major changes in Imaginators, be it color scheme or element. However, while Blaster-Tron has a different weapon, Pain-Yatta just has a slightly altered lollipop.",
+    "Blaster-Tron is the only villain to have two different theme songs.",
+    "Blaster-Tron, Flameslinger, and Enigma are the only three Skylanders to not have visible eyes.",
+    "As of Imaginators, Blaster-Tron is the only Light Skylander to have none of his element's signature colors in any part of his design. However, his figure is slightly closer to silver colors than in the game.",
+    "He is the only Sensei with a Sky-Chi in which the primary attack button can be used during the sequence. Also, it drains the Sky-Chi meter much faster every time the primary attack button is pressed multiple times.",
+    "He is the only Sensei that is a hidden boss in Trap Team.",
+    "His Saber Slash ability is probably a reference to the Lightsabers from the Star Wars franchise.",
+    "His Sky-Chi is a play on the expression 'Can you believe it?'.",
+    "The quote 'End of Line' at the end of his Sky-Chi is a reference to the movie 'Tron'.",
+    "He, the Chompy Mage and Tae Kwon Crow are all villain Senseis who share the same voice actor, Alex Ness. Alex Ness also voices fellow villains Chill Bill, Brawlrus and Broccoli Guy, and fellow Skylanders Drobot, Lightning Rod and Double Trouble."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Imaginators Meet Blaster-Tron",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Imaginators_Meet_Blaster-Tron"
+    },
+    {
+      "name": "Skylanders Imaginators - Blaster-Tron Soul Gem Preview",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Imaginators_-_Blaster-Tron_Soul_Gem_Preview"
+    }
+  ],
+  "gameplay": "Blaster-Tron can fire a blast of energy at enemies that comes within range. He also has a rocket pack that allows him to fly forward in the direction he is facing. In Imaginators, his sword has taken the role of his gun, firing lasers and summoning various high tech attacks depending on how much it is charged. He also gained greater control of his rocket pack for more movement, and can now fire slow-moving rockets with electric tethers and force field bombs.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Blaster-Tron_(character)",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Saber Slash",
+        "imgPath": "Blaster-Tron_(character)primarypower.png",
+        "content": "Press Attack 1 to swing your sword and shoot lasers out of it. Combos up to three times.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Hologram Field",
+        "imgPath": "Blaster-Tron_(character)secondarypower.png",
+        "content": "Press Attack 2 to create an area that damages enemies and slows down their projectiles.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Taser Tethers",
+        "imgPath": "Blaster-Tron_(character)basicupgrade1.png",
+        "content": "Press Attack 3 to launch your rockets, connecting them with an energy beam. They become powered up when they enter a Hologram Field, increasing their damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Energy Extender",
+        "imgPath": "Blaster-Tron_(character)basicupgrade2.png",
+        "content": "Your extended Saber's lasers cause the Hologram Field to increase in damage. Hologram Field increases in size over time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Saber Sweep and Field Follower",
+        "imgPath": "Blaster-Tron_(character)basicupgrade3.png",
+        "content": "Hold Attack 1 to charge up a wide slash. Hold and release Attack 2 to create a weaker Hologram Field that follows you.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Sharper Sabers",
+        "imgPath": "Blaster-Tron_(character)basicupgrade4.png,",
+        "content": "Saber Slash does more damage. Press Attack 1, Attack 1, Attack 2 to pull enemies towards you. Press Attack 1, Attack 1, Attack 3 to launch enemies upwards.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Beaming with Delight",
+        "imgPath": "Blaster-Tron_(character)soulgempower.png",
+        "content": "Lasers from Saber Slash are stronger. Hold Attack 1 even longer to charge your Saber, then release Attack 1 to spin with your sword, shooting lasers around you.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Kaiju Believe it?",
+        "imgPath": "Blaster-Tron_(character)skychipower.png",
+        "content": "The ultimate Sensei attack! Hold Special Attack to enlarge to Sensei-tional proportions. Move with Left Stick to wreak havoc around you and press Attack 1 to cause area damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Supremacy of Sabers",
+        "abilities": [
+          {
+            "name": "Holographic Helpers",
+            "imgPath": "Blaster-Tron_(character)path1upgrade1.png",
+            "content": "Enter your Hologram Field to receive a damage boost for a short time.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Software Update",
+            "imgPath": "Blaster-Tron_(character)path1upgrade2.png",
+            "content": "Your sword does more damage. Attack 1, Attack 1, Attack 2 puts an explosive on enemies you pull. Attack 1, Attack 1, Attack 3 floats enemies in the air bit longer.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Get to the point!",
+            "imgPath": "Blaster-Tron_(character)path1upgrade3.png",
+            "content": "Signal a laser beam air strike every so often that focuses on a target. Any damage you do increases the frequency of this attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Brighter Light Show",
+        "abilities": [
+          {
+            "name": "Rocket Fuel",
+            "imgPath": "Blaster-Tron_(character)path2upgrade1.png",
+            "content": "Holding Attack 2 causes area damage around you.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Pocket Rockets",
+            "imgPath": "Blaster-Tron_(character)path2upgrade2.png",
+            "content": "Taser Tethers that enter a Hologram Field launch mini missiles that rain inside the field.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Lights Out!",
+            "imgPath": "Blaster-Tron_(character)path2upgrade3.png",
+            "content": "Hologram Field is stronger, pulls enemies in and causes an explosion. Occurs twice during the Field's duration.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "blaster-tron",
+      "id": "blaster-tron-sensei",
       "variant_name": "Blaster-Tron",
       "edition": "Series 1",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/8/86/Blaster-Tron.png",
       "attacks": [
-        "Original= Future beam",
-        "Rocket pack"
+        "Saber Slash",
+        "Hologram Field",
+        "Taser Tethers",
+        "Supremacy of Sabers",
+        "Brighter Light Show"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "280"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "330"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "190"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "150"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Blaster-Tron_(character)"
     }
   ]
