@@ -23,7 +23,7 @@
       "story_name": "Character Development",
       "content": "During Skylanders: Giants development, character designer I-Wei Huang started with the idea of a strong Water female Giant, but eventually developed the idea of a living statue character for the Earth element, first used to create the Weapon Master. Though the statue design would later be finalized as the Golden Queen, many of its ideas such as the square barbells, large armor and the textured skin would later surface in Imaginators with Barbella. Her pose, skin and barbells went through many attempts and iterations for a look that fit her concept perfectly.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Golden_Queen_Concepts_1.jpg/revision/latest/scale-to-width-down/185?cb=20160927192454"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Golden_Queen_Concepts_1.jpg/revision/latest?cb=20160927192454"
     },
     {
       "story_name": "Physical Traits",
@@ -35,7 +35,7 @@
       "story_name": "Biography",
       "content": "Barbella was the best fitness trainer in all of Skylands. Not only did she possess otherworldly strength, she was also a firm believer that a healthy diet and exercise led to true happiness. With such a positive message to spread, Barbella decided to open her own fitness center called 'Flex-a-lot', where she hoped to instill good eating and workout habits with all of her patrons. But one day, the gelatinous villain known as The Gulper destroyed her gym, and it took all of Barbella's strength to keep it from collapsing while everyone fled to safety. It was then that Barbella realized that bad guys were more hazardous to your health than anything else, so she began to train in the ways of the Sentinel, where she quickly became one of the greatest masters in the world!",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Barbella_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20160927200305"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Barbella_Promo.jpg/revision/latest?cb=20160927200305"
     }
   ],
   "quotes": [
@@ -284,6 +284,22 @@
         {
           "stat_name": "Health",
           "stat_value": "350 (max. 700)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
         },
         {
           "stat_name": "Strength",
