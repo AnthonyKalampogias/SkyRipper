@@ -3,27 +3,121 @@
   "name": "Bad Breath",
   "species": "Grumblebum",
   "gender": "Male",
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": null,
+  "element": "Unknown",
+  "role": "Skylander",
+  "primary_game": "Skylanders Academy",
+  "appearances": [
+    "Skylanders Unite!",
+    "Beard Science",
+    "The Skylands Are Falling!",
+    "Spyromania",
+    "Belly of the Beast",
+    "Pop Rocks",
+    "Sheep(ball) Dreams"
+  ],
+  "cameos": [
+    "Spyro",
+    "Stealth Elf",
+    "Eruptor",
+    "Pop Fizz",
+    "Jet-Vac",
+    "Cy",
+    "King Pen",
+    "Kaos",
+    "Glumshanks",
+    "Food Fight",
+    "Master Eon"
+  ],
+  "world": [
+    "Skylands",
+    "Skylander Academy",
+    "Skylander Games",
+    "Fire Viper's Belly"
+  ],
+  "description": "Bad Breath is a Skylander only featured in the Skylanders Academy television series. Of an unknown element, he possesses a powerful putrid breath to incapacitate enemies. Though he is officially a graduated Skylander, because of his anxiety and gastrointestinal issues, he still has to take part in cadet assignments.",
+  "biography": "Bad Breath is a character created exclusively for the show Skylanders Academy, designed as a figure of a non-ideal yet comedic Skylander. He possesses a powerful putrid breath that can incapacitate enemies and control its duration and strength to sicken targets far larger than himself. He is known to have great empathy, abhorring the mistreatment of others, which can trigger a significant temper.",
+  "quote": "Okay, everyone, plug your noses. It's about to get funky up in here!",
   "personality": "Bad Breath is easily startled or bothered, making him gassy. Despite his unpopularity with the other students, he appears to not mind, but too much stress has caused him to be temporarily put out of duty at the start of Season 1. Unknown to the rest, he sometimes uses empty rooms to burp for as long as he pleases. Though Bad Breath couldn't care less about the bullying from various students over his weakness, he has been shown to have great empathy, as he abhors other people being mistreated, going as far as to lose his temper when Cy becomes the target of the prejudiced cadets.",
-  "story": null,
+  "story": [
+    {
+      "story_name": "Season 1",
+      "content": "In Skylanders Unite!, Bad Breath was one of the cadets who took their test at the Skylander Games and passed. When Kaos stole The Book of Skylanders on Graduation Day, Bad Breath used his signature breath attack in an attempt to stop him, but Glumshanks shielded his master from the Skylander's putrid breath. He, along with the other Skylanders were then immobilized when Kaos froze The Book of Skylanders solid, which in turn froze all the Skylanders inscribed inside. After the battle, Bad Breath was absent when the Skylanders rescued Spyro from Kaos and Glumshanks. Eruptor revealed that Bad Breath got so scared when Kaos attacked that he kept burping uncontrollably, causing him to leave the Skylander team temporarily. Though he makes no major appearances for the rest of Season 1, he briefly appears in Beard Science as the only one left in the classroom for Eon's attempts to warn the school about his missing beard. In The Skylands Are Falling!, the Grumblebum is nearly taken away by the world-destroying storm, just barely caught by a building wall when the winds pull him from the ground.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Season 2",
+      "content": "Bad Breath was in class in Spyromania when Spyro interrupted it for a target practice session, though the dragon stopped him from joining in as the breath would've had far bigger consequences. In Belly of the Beast, Bad Breath was among the cadets who participated in the mission to rescue King Pen from the evil Fire Viper. While waiting on the battle plan, he found companionship in Cy, who then volunteered to be Bad Breath's senior advisor. The battle plan went awry, causing all of the Skylanders and cadets to be eaten by Fire Viper. While inside the serpent's digestive tract, the cadets began to blame Cy for their predicament, but they were reprimanded by Bad Breath. Eventually, encouraged by the team, Bad Breath released massive rancid fumes, leading Fire Viper to vomit the entire group. After making their escape, the cadets worked together with Bad Breath and Cy to defeat the villain.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Quotes",
+      "content": [
+        "Okay, everyone, plug your noses. It's about to get funky up in here!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Bad Breath is a character created exclusively for the show, as a figure of a non-ideal yet comedic Skylander.",
+    "Bad Breath made the pretzels in the Skylands Music Festival in Pop Rocks, however, because of his constant unhygienic state, Master Eon advised the guests to avoid his food once it was found out.",
+    "According to Food Fight in Belly of the Beast, Bad Breath's breath smells like flaming desert diapers at times.",
+    "In Sheep(ball) Dreams, Bad Breath's skin is mentioned to be furry.",
+    "Bad Breath's powers resemble those of the recurring enemy Malboro from the Final Fantasy series, who are known to have such a putrid smell, shown as the ability also named Bad Breath, that they can inflict multiple status ailments at once and severely cripple their target's skills.",
+    "Unlike other Grumblebum, he only has two eyes and no antlers. It is likely that Bad Breath is not mutated like the Grumblebum in Swap Force."
+  ],
+  "trailers": [],
+  "gameplay": "Bad Breath can use a particularly putrid breath when burping, with such a powerful smell that it can temporarily knock his targets out and stick to clothing forever. He can also control its duration and strength to sicken enemies far larger than him. When stressed or startled, he becomes gassy and may burp uncontrollably.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Bad_Breath",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Putrid breath",
+        "imgPath": "Bad_Breath.png",
+        "content": "Bad Breath possesses a powerful putrid breath to incapacitate enemies, with such a powerful smell that it can temporarily knock his targets out and stick to clothing forever.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Massive Rancid Fumes",
+        "imgPath": "Bad_Breath.png",
+        "content": "Bad Breath releases massive rancid fumes, leading even giant enemies to be incapacitated or repelled. This ability was powerful enough to cause the Fire Viper to vomit.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "bad-breath",
       "variant_name": "Bad Breath",
       "edition": "Series 1",
-      "type": "Swap Force",
-      "game": null,
+      "type": "TV Series Character",
+      "game": "Skylanders Academy",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Bad_Breath.png/revision/latest?cb=20161031102516",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Putrid breath",
+        "Massive Rancid Fumes"
+      ],
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Bad_Breath"
     }
   ]
