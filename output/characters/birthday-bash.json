@@ -5,7 +5,7 @@
   "gender": "Male",
   "element": "Earth",
   "role": "Skylander",
-  "primary_game": "Skylanders: Lost Islands (November 2013)",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
@@ -15,7 +15,7 @@
   ],
   "description": "The party as arrived with Birthday Bash. Help us celebrate a year of Lost Islands",
   "biography": "Birthday Bash is a birthday counterpart of Bash in Skylanders: Lost Islands. He represents the Lost Islands first anniversary.",
-  "quote": "The party as arrived with Birthday Bash. Help us celebrate a year of Lost Islands",
+  "quote": "",
   "personality": "Birthday Bash's personality is not explicitly detailed, but he serves as a celebratory figure for the anniversary of Lost Islands.",
   "story": [
     {
@@ -42,7 +42,7 @@
     "His name is shared by Birthday Bash Big Bubble Pop Fizz."
   ],
   "trailers": [],
-  "gameplay": "Birthday Bash is a birthday counterpart of Bash in Skylanders: Lost Islands. He represents the Lost Islands first anniversary.",
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Birthday_Bash",
   "abilities": {
     "basic": [],
