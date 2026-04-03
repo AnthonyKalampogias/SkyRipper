@@ -15,15 +15,15 @@
     "Skylands"
   ],
   "description": "Aurora is a Light elemental Sensei in Skylanders: Imaginators. She is the niece of the great Portal Master Eon and she trains Imaginators of the Swashbuckler Battle Class.",
-  "biography": "Aurora is the niece of Master Eon. For years, he tried to keep her identity a secret so that she would remain safe from harm. But as she grew older, Aurora wanted nothing more than to become a Skylander, but Eon would not permit it. So without telling him, she wore a disguise and studied swordplay and combat arts under the name 'Boss Blades McSlashinator.' Soon, everyone was talking about this new mysterious hero and her amazing abilities. Even Master Eon was notably impressed, but when he learned the skilled fighter was none other than his own niece, he once again refused her entry into the Skylanders team. However, before she could protest, Eon smiled and told her it was because he was immediately promoting her to his Sensei program, where she would train the Swashbuckler Class under her true name and identity. Although he did later admit that 'Boss Blades McSlashinator' sounded pretty cool.",
+  "biography": "Aurora is the niece of Master Eon. For years, he tried to keep her identity a secret so that she would remain safe from harm. But as she grew older, Aurora wanted nothing more than to become a Skylander, but Eon would not permit it. So without telling him, she wore a disguise and studied swordplay and combat arts under the name \"Boss Blades McSlashinator.\" Soon, everyone was talking about this new mysterious hero and her amazing abilities. Even Master Eon was notably impressed, but when he learned the skilled fighter was none other than his own niece, he once again refused her entry into the Skylanders team. However, before she could protest, Eon smiled and told her it was because he was immediately promoting her to his Sensei program, where she would train the Swashbuckler Class under her true name and identity. Although he did later admit that \"Boss Blades McSlashinator\" sounded pretty cool.",
   "quote": "The Speed of Light!",
   "personality": "Aurora is determined, heroic, and clever. She demonstrated great persistence by training in secret under a pseudonym to prove her capabilities to her uncle, Master Eon. She carries herself with the confidence of a master swordswoman and takes pride in her family legacy while maintaining an optimistic and energetic 'Speed of Light' attitude.",
   "story": [
     {
       "story_name": "Biography",
-      "content": "Aurora is the niece of Master Eon. For years, he tried to keep her identity a secret so that she would remain safe from harm. But as she grew older, Aurora wanted nothing more than to become a Skylander, but Eon would not permit it. So without telling him, she wore a disguise and studied swordplay and combat arts under the name 'Boss Blades McSlashinator.' Soon, everyone was talking about this new mysterious hero and her amazing abilities. Even Master Eon was notably impressed, but when he learned the skilled fighter was none other than his own niece, he once again refused her entry into the Skylanders team. However, before she could protest, Eon smiled and told her it was because he was immediately promoting her to his Sensei program, where she would train the Swashbuckler Class under her true name and identity. Although he did later admit that 'Boss Blades McSlashinator' sounded pretty cool.",
+      "content": "Aurora is the niece of Master Eon. For years, he tried to keep her identity a secret so that she would remain safe from harm. But as she grew older, Aurora wanted nothing more than to become a Skylander, but Eon would not permit it. So without telling him, she wore a disguise and studied swordplay and combat arts under the name \"Boss Blades McSlashinator.\" Soon, everyone was talking about this new mysterious hero and her amazing abilities. Even Master Eon was notably impressed, but when he learned the skilled fighter was none other than his own niece, he once again refused her entry into the Skylanders team. However, before she could protest, Eon smiled and told her it was because he was immediately promoting her to his Sensei program, where she would train the Swashbuckler Class under her true name and identity. Although he did later admit that \"Boss Blades McSlashinator\" sounded pretty cool.",
       "hasImage": true,
-      "imgPath": "[[IMG_2]]"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Aurora_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20160927195313"
     }
   ],
   "quotes": [
@@ -55,17 +55,14 @@
         "Haha, we sure lit it up, didn't we, Portal Master?",
         "Heroism runs in the family!",
         "Skylands is safe again, but for how long?",
-        "Ready to glow!",
-        "A guiding light!",
-        "Channel the light!",
-        "Light shall conquer darkness!",
+        "Together, Portal Master, we can't be stopped!",
         "Let's brighten things up in here!",
         "Watch this, Portal Master!",
         "My light shall never go out!",
         "I shall put these statistics to good use, Portal Master!",
         "Master Eon has trained me well!",
         "For Skylands!",
-        "Together, Portal Master, we can't be stopped!"
+        "Light shall conquer darkness!"
       ]
     },
     {
@@ -88,7 +85,10 @@
         "Light it up!",
         "Flash dash!",
         "A moment of brilliance!",
-        "Into the light!"
+        "Into the light!",
+        "Ready to glow!",
+        "A guiding light!",
+        "Channel the light!"
       ]
     },
     {
@@ -120,7 +120,7 @@
     "In older versions of the game, her icon had her concept art, in which her helmet's horns were white and her robes had reversed colors.",
     "Her outfit has pearlized paint in areas with white, and glossy effects in areas with black.",
     "She is the only Skylander of the Light element to have visible pupils.",
-    "'Blades McSlashinator' is a possible reference to the Boaty McBoatface meme, in which internet users would create humorous names for objects using their attributes.",
+    "\"Blades McSlashinator\" is a possible reference to the Boaty McBoatface meme, in which internet users would create humorous names for objects using their attributes.",
     "One of her upgrades, Dervish was one of the names used for the Sentinel Battle Class during development."
   ],
   "trailers": [
@@ -141,7 +141,7 @@
     "basic": [
       {
         "name": "Double Sword Strike",
-        "imgPath": "[[IMG_3]]",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/Auroraprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505162044",
         "content": "Press Attack 1 thrice to perform a double sword strike combo.",
         "is_primary": true,
         "is_secondary": false,
@@ -153,7 +153,7 @@
       },
       {
         "name": "Flash Dash",
-        "imgPath": "[[IMG_4]]",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Aurorasecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170505162049",
         "content": "Press Attack 2 to dash and flip through your enemies.",
         "is_primary": false,
         "is_secondary": true,
@@ -167,7 +167,7 @@
     "basic_upgrades": [
       {
         "name": "Light Burst",
-        "imgPath": "[[IMG_7]]",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Aurorabasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505162055",
         "content": "Press Attack 3 to drop a light sword that slows enemies and explodes.",
         "is_primary": false,
         "is_secondary": false,
@@ -179,7 +179,7 @@
       },
       {
         "name": "Speed of Light",
-        "imgPath": "[[IMG_8]]",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Aurorabasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505162100",
         "content": "Flash Dash is faster and does more damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -191,7 +191,7 @@
       },
       {
         "name": "Brighter Light",
-        "imgPath": "[[IMG_9]]",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e7/Aurorabasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505162106",
         "content": "Light Burst swords knock enemies up and deal more damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -203,7 +203,7 @@
       },
       {
         "name": "Extended Reach",
-        "imgPath": "[[IMG_10]]",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/39/Aurorabasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170505162111",
         "content": "Double Sword Strike hits further and does more damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -217,13 +217,13 @@
     "soulgems": [
       {
         "name": "Eon's Power",
-        "imgPath": "[[IMG_5]]",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/eb/Aurorasoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505162115",
         "content": "Press and hold Attack 1 to unlock the true power of Eon, granting increased damage and armor.",
         "is_primary": false,
         "is_secondary": false,
         "price": 4000,
         "colors": {
-          "header": "#FE7",
+          "header": "#d04c8e",
           "bg_content": "#FFB"
         }
       }
@@ -232,7 +232,7 @@
       {
         "season": 6,
         "name": "Flicker Flash",
-        "imgPath": "[[IMG_6]]",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/62/Auroraskychipower.png/revision/latest/scale-to-width-down/148?cb=20170505162122",
         "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power! Use Left Stick to steer into enemies!",
         "is_primary": false,
         "is_secondary": false,
@@ -249,7 +249,7 @@
         "abilities": [
           {
             "name": "Sword Techniques",
-            "imgPath": "[[IMG_11]]",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c2/Aurorapath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505162335",
             "content": "Press Attack 1 twice, Attack 2 for a Flash Dive combo. Press Attack 1 twice, Attack 3 for a X-Ray Shot combo.",
             "is_primary": false,
             "is_secondary": false,
@@ -261,7 +261,7 @@
           },
           {
             "name": "Rapid Strike Mode",
-            "imgPath": "[[IMG_12]]",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/Aurorapath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505162341",
             "content": "Press Attack 1 rapidly to enter Rapid Strike mode.",
             "is_primary": false,
             "is_secondary": false,
@@ -273,7 +273,7 @@
           },
           {
             "name": "Dervish",
-            "imgPath": "[[IMG_13]]",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3f/Aurorapath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505162344",
             "content": "Hitting enemies with Double Sword Strike combos speeds up your Double Sword Strike attacks.",
             "is_primary": false,
             "is_secondary": false,
@@ -290,7 +290,7 @@
         "abilities": [
           {
             "name": "Forever Runner",
-            "imgPath": "[[IMG_14]]",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Aurorapath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505162351",
             "content": "Hold Attack 2 to continuously Flash Dash, and Flash Dash does more damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -302,7 +302,7 @@
           },
           {
             "name": "Momentum",
-            "imgPath": "[[IMG_15]]",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Aurorapath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505162355",
             "content": "Flash Dash now gives a 3 second damage boost to your Double Sword Strike attacks.",
             "is_primary": false,
             "is_secondary": false,
@@ -314,7 +314,7 @@
           },
           {
             "name": "Explosive Finish",
-            "imgPath": "[[IMG_16]]",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Aurorapath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505162401",
             "content": "You now drop Light Burst explosive swords during Flash Dash, and your Light Burst swords deal more damage.",
             "is_primary": false,
             "is_secondary": false,
