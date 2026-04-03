@@ -105,19 +105,19 @@
     {
       "quote_type": "Battle Cries",
       "content": [
-        "The Spirit is Willing! (Junior) Yay!",
+        "The Spirit is Willing! (Junior)\"Yay!\"",
         "The spirits have chosen me to make your Imaginators strong, Portal Master!",
         "And I teach those Swashbucklers a thing or two, with my special Secret Technique Voodoo Magic!",
         "Oooh, you awakened the wrong spirits now!",
         "You'll be falling under the spell soon enough, ha ha!",
-        "Juju Junior! (Junior) Meee!",
-        "(Junior) Whoooa!",
-        "Go out and play, son! (Junior) Playtime!",
-        "Get them, son! (Junior) Here I come!",
-        "Come home son. (Junior) Okay Mama!",
-        "Where's my boy? (Junior) Right here!",
-        "Lightning make you strong! (Junior) Hmm-hmm!",
-        "Snack time, Junior! (Junior) Yay!",
+        "Juju Junior! (Junior)\"Meee!\"",
+        "(Junior)\"Whoooa!\"",
+        "Go out and play, son! (Junior)\"Playtime!\"",
+        "Get them, son! (Junior) \"Here I come!\"",
+        "Come home son. (Junior) \"Okay Mama!\"",
+        "Where's my boy? (Junior) \"Right here!\"",
+        "Lightning make you strong! (Junior) \"Hmm-hmm!\"",
+        "Snack time, Junior! (Junior) \"Yay!\"",
         "Eat up!",
         "Up high!",
         "Lifting the spirits!",
@@ -134,9 +134,9 @@
         "Hear that music...?",
         "Some things ya cannot measure with numbers - but still look pretty close!",
         "Stats? What kind of dark magic is this?!",
-        "Some voodoo for you too!",
+        "Some voodoo for you too! - Harnessing Havoc",
         "Ho ho! That's the spirit!",
-        "Where's my boy?! (Junior) Here comes Junior!"
+        "Where's my boy?! (Junior)\"Here comes Junior!\""
       ]
     }
   ],
@@ -144,17 +144,15 @@
     "When explaining her quest, she is incorrectly referred to as male ('He') by Glumshanks, eventhough she is female ('She'). She is also referred to as a male, ('he/him') by a Battlecast artist.",
     "She and Eye Scream are the only two female villains that are mistaken to be males in gameplay, either by the writers or the voice actors of Cali and Glumshanks.",
     "In game, she is slouched over but she straightens when she uses her attacks, as well as spinning her skull vertically or horizontally.",
-    "She is briefly seen in Stormblade's backstory in Dive, Dive, Dive!, being chased by the Sky Slicer, and shown with Grave Clobber in Biting Back's credits page.",
-    "Bad Juju speaks in a Jamaican accent, with a very slight warble filter.",
-    "She has upside-down versions of the Air symbol engraved into, or part of her eyes.",
-    "Bad Juju and Juju Junior have an eye-like appendage on the back of their skulls, which in Imaginators glows greenish.",
-    "In her toy form and in Ring of Heroes', the eye engraving is replaced with a ball with engravings, connecting the skull to the shoulders.",
+    "She is briefly seen in Stormblade's backstory in Dive, Dive, Dive!, being chased by the Sky Slicer, and shown with Grave Clobber in Biting Back's credits page. This is because she would've been a major villain in the next comic arc along with Grave Clobber, but it was cancelled during production.",
+    "Bad Juju speaks in a Jamaican accent, with a very slight warble filter. Bad Juju is voiced by Kimberly Brooks who also voices Echo, well known for her voice acting roles as Buena Girl from Mucha Lucha! and Jasper from Steven Universe.",
+    "She has upside-down versions of the Air symbol engraved into, or part of her eyes. The eye-like structure on Bad Juju's skull, as seen in both designs. Stranger still, Bad Juju and Juju Junior have an eye-like appendage on the back of their skulls, which in Imaginators glows greenish. It is unknown if it's their true eye or just another engraving, as in Trap Team it was entirely gold and flat. In her toy form and in Ring of Heroes', the eye engraving is replaced with a ball with engravings, connecting the skull to the shoulders. The reason for its inclusion in the mobile game, however, is unknown.",
     "On the official Skylanders website, she was mistakenly listed twice.",
-    "Bad Juju, Hood Sickle and Grave Clobber are the only Undead creatures to not be from that element. Oddly, she is the only one of them to not change elements in Imaginators.",
-    "Bad Juju is the third character to fight with the help of family members, after Sonic Boom and Eye-Brawl.",
-    "Her catchphrase is based on the Bible verse Matthew Ch.26:41, 'Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak'.",
+    "Bad Juju, Hood Sickle and Grave Clobber are the only Undead creatures to not be from that element. Oddly, she is the only one of them to not change elements in Imaginators. Additionally, only Grave Clobber had no color changes between games.",
+    "Bad Juju is the third character to fight with the help of family members, after Sonic Boom and Eye-Brawl. Bad Juju and Sonic Boom, alongside Hammer Slam Bowser, are the only known Skylanders to have children (Juju Junior, the baby griffins and Bowser Jr., respectively).",
+    "Her catchphrase is based on the Bible verse Matthew Ch.26:41, 'Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak', meaning that despite the individual's intention, the body might be a limitation. Bad Juju using only the first part of the quote might represent that she overcame her villainous drive to be a better mother to Juju Junior.",
     "She is the only Air Sensei to not come in an Adventure Pack.",
-    "For her idle animation, Bad Juju sharpens her blades against each other, or taunts while pointing forward."
+    "For her idle animation, Bad Juju sharpens her blades against each other, or taunts while pointing forward. She is one of the few Skylanders with multiple idle animations."
   ],
   "trailers": [
     {
@@ -368,10 +366,15 @@
       "edition": "Series 1",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/c/cd/BadJuju.png",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/cd/BadJuju.png/revision/latest?cb=20140915220323",
       "attacks": [
         "Lightning strike",
-        "Hurricane"
+        "Hurricane",
+        "Whirling Blades",
+        "Juju Junior",
+        "Windy Wail",
+        "Static Shock",
+        "Child Protection"
       ],
       "stats": [
         {
