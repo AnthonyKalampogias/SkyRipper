@@ -2,8 +2,9 @@
   "id": "bad-juju",
   "name": "Bad Juju",
   "species": "Skeleton Ghost",
-  "gender": "*Female (Bad Juju) *Male (Juju Junior)",
+  "gender": "Female (Bad Juju), Male (Juju Junior)",
   "element": "Air",
+  "role": "Villain, Ally, Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Trap Team",
@@ -11,16 +12,355 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "*SuperChargers Issue 5",
+  "cameos": [
+    "SuperChargers Issue 5"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": "If there's one thing the witch doctor loves, it's an afternoon nap. &#91; 3 &#93; Bad Juju loves to sleep, and those that disturb her must weather the consequences. &#91; 4 &#93; Despite being mean to a fault, she soon changed her villainous ways to become a better role model for her son; this is reflected in gameplay with Bad Juju playing defensively while near her son and aggressively while he is away. Meanwhile, Juju Junior is cheerful and always excited, eager to help his mother. Despite being a high-ranking servant of the Golden Queen for a long time, Bad Juju admitted to greatly disliking her after capture.",
-  "story": null,
+  "description": "Bad Juju is a witch doctor spirit who first appeared as one of the Air villains in Skylanders: Trap Team. She later appeared in Skylanders: SuperChargers, as one of the non-playable villain racers in the Racing Mode, driving an unnamed oddly-shaped vehicle with a duplicate of her skull on the front. In Skylanders: Imaginators, Bad Juju has traded a life of crime to become a Sensei, training Imaginators of the Swashbuckler Battle Class with a new appearance and accompanied by her son Juju Junior.",
+  "biography": "Just like her name suggests, Bad Juju had always been bad. From her humble beginnings as a witch doctor, where she put curses on her patients instead of curing them, to being the Golden Queen's right-hand sorceress, she had spent her entire life as a villain. Being captured by the Skylanders didn't do much to change her attitude either. At least, that was the case until the day she conjured up more then she bargained for - a son named Juju Junior. That was when she finally decided it was time to come to change her lifestyle. She didn't want to raise Juju Junior inside a prison thinking that his magical mother was a criminal. So she asked Master Eon to give her a chance to be a hero instead. As luck would have it, Eon was looking for a Swashbuckler Sensei who could help train Imaginators the value of being good. Not bad for Bad Juju.",
+  "quote": "The Spirit is Willing!",
+  "personality": "If there's one thing the witch doctor loves, it's an afternoon nap. Bad Juju loves to sleep, and those that disturb her must weather the consequences. Despite being mean to a fault, she soon changed her villainous ways to become a better role model for her son; this is reflected in gameplay with Bad Juju playing defensively while near her son and aggressively while he is away. Meanwhile, Juju Junior is cheerful and always excited, eager to help his mother. Despite being a high-ranking servant of the Golden Queen for a long time, Bad Juju admitted to greatly disliking her after capture.",
+  "story": [
+    {
+      "story_name": "Skylanders: Trap Team",
+      "content": "Bad Juju was first encountered in the Lair of the Golden Queen. When the Skylanders were battling their way through the Queen's homestead, they inadvertently awoke Bad Juju from her slumber, enraging her. Her attempts to subdue them with her magic failed and after her defeat, she was promptly trapped. After the Skylanders defeated the Golden Queen, they took the ghostly skeleton back to the lair for her Villain Quest with Glumshanks, called 'Remote Location'. He explained to the heroes that they both wanted to stop the Queen, so the Troll built a spare remote in hopes of shutting it down for good. However, he accidentally dropped it down a sandpit and needed Bad Juju to use her whirlwind to pick it up for him. After her task was complete, she was awarded with Glumshanks' thanks, a new outfit, and the Beetle Hat.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Imaginators",
+      "content": "Just like her name suggests, Bad Juju had always been bad. From her humble beginnings as a witch doctor, where she put curses on her patients instead of curing them, to being the Golden Queen's right-hand sorceress, she had spent her entire life as a villain. Being captured by the Skylanders didn't do much to change her attitude either. At least, that was the case until the day she conjured up more then she bargained for - a son named Juju Junior. That was when she finally decided it was time to come to change her lifestyle. She didn't want to raise Juju Junior inside a prison thinking that his magical mother was a criminal. So she asked Master Eon to give her a chance to be a hero instead. As luck would have it, Eon was looking for a Swashbuckler Sensei who could help train Imaginators the value of being good. Not bad for Bad Juju.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Quotes",
+      "content": [
+        "You awakened the wrong spirits now!",
+        "There no way you can escape Bad Juju anytime soon!"
+      ]
+    },
+    {
+      "quote_type": "Trap Quotes",
+      "content": [
+        "Choose as the spirits move ya!",
+        "Maybe you capture me now, but I still get revenge with voodooooooooo!",
+        "Me not so much mad that I got caught in the trap, but that I didn't think of doing the sorcery myself.",
+        "You want me to do good? Okay. But Good Juju doesn't have quite the same ring you know,",
+        "Here comes the Bad Jujuuuuuu!",
+        "I bring the magic!",
+        "See what Juju can do-joo!",
+        "This spirit is worthy, Portal Master!",
+        "Bad Juju take it from here!",
+        "Very nice indeed!",
+        "Good thing I have a head for puzzles, a couple of 'em in fact!",
+        "I like a good puzzzle, it's like casting a spell, but with a lot less potion.",
+        "Good comings!",
+        "Da bones say YES!",
+        "Mind the danger here, I tell ya!",
+        "Mind your step Skylander, this'll be very disappointing, I tell ya.",
+        "Have you seen the way that fly boy Flynn look at that adventure girl? He got a thing for Cali, I say!",
+        "I never liked that Golden Queen, I tell ya! Have you heard of 'all that glitters is not gold?' Well, that goes doubly for her!",
+        "This place is not so bad! All it needs a big fire pit, and maybe some shrunken heads!",
+        "Feel the power!!",
+        "Time for a spin!",
+        "Hocus pocus!",
+        "Voodoo Tornado!",
+        "Just a kiss of da lightning!",
+        "You'll get a charge out of this one!",
+        "As if there was any doubt! Ha!",
+        "Mission accomplished!",
+        "We have the real magic of teamwork right here!",
+        "A fine addition it is!",
+        "Your power looks low, Skylander. Time to call in the Juju!",
+        "I can see me power growing in here, now!",
+        "Hey, stop shaking me bones in here!",
+        "Stop shaking my bones here! They're not to read your fortune!",
+        "Time's up... The spirits have spoken.",
+        "For shame, I'm not ready for this now!",
+        "But this is the wrong time now!",
+        "I am ready to go, bring me in!",
+        "Now it is the time! Tag me! *muffled lightning*",
+        "The spirits are charged! *scary noises*",
+        "Bad Juju is ready to spill some spells.",
+        "Aah, they look like they would bring in wealth!",
+        "There's some things you can't measure with numbers, like da dark magic. Oh, wait, I guess you actually can!"
+      ]
+    },
+    {
+      "quote_type": "Vehicle Quotes",
+      "content": [
+        "How 'bout this?",
+        "Show respect to the Voodoo!",
+        "I'll get my revenge!",
+        "You're not fast enough!",
+        "Sooo slow!",
+        "Slowpoke!"
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "The Spirit is Willing! (Junior) Yay!",
+        "The spirits have chosen me to make your Imaginators strong, Portal Master!",
+        "And I teach those Swashbucklers a thing or two, with my special Secret Technique Voodoo Magic!",
+        "Oooh, you awakened the wrong spirits now!",
+        "You'll be falling under the spell soon enough, ha ha!",
+        "Juju Junior! (Junior) Meee!",
+        "(Junior) Whoooa!",
+        "Go out and play, son! (Junior) Playtime!",
+        "Get them, son! (Junior) Here I come!",
+        "Come home son. (Junior) Okay Mama!",
+        "Where's my boy? (Junior) Right here!",
+        "Lightning make you strong! (Junior) Hmm-hmm!",
+        "Snack time, Junior! (Junior) Yay!",
+        "Eat up!",
+        "Up high!",
+        "Lifting the spirits!",
+        "Bad Juju on the rise!",
+        "The spirits were with me on that one!",
+        "As if there was any doubt! Ha!",
+        "There's no keeping out the Bad Juju!",
+        "Ha ha! Bad Juju make good victory!",
+        "Oh ho ho! That's the spirit!",
+        "They're gonna start calling me Good Juju soon!",
+        "Pure magic!",
+        "Fear the power!",
+        "Things are looking good for da Bad Juju!",
+        "Hear that music...?",
+        "Some things ya cannot measure with numbers - but still look pretty close!",
+        "Stats? What kind of dark magic is this?!",
+        "Some voodoo for you too!",
+        "Ho ho! That's the spirit!",
+        "Where's my boy?! (Junior) Here comes Junior!"
+      ]
+    }
+  ],
+  "trivia": [
+    "When explaining her quest, she is incorrectly referred to as male ('He') by Glumshanks, eventhough she is female ('She'). She is also referred to as a male, ('he/him') by a Battlecast artist.",
+    "She and Eye Scream are the only two female villains that are mistaken to be males in gameplay, either by the writers or the voice actors of Cali and Glumshanks.",
+    "In game, she is slouched over but she straightens when she uses her attacks, as well as spinning her skull vertically or horizontally.",
+    "She is briefly seen in Stormblade's backstory in Dive, Dive, Dive!, being chased by the Sky Slicer, and shown with Grave Clobber in Biting Back's credits page.",
+    "Bad Juju speaks in a Jamaican accent, with a very slight warble filter.",
+    "She has upside-down versions of the Air symbol engraved into, or part of her eyes.",
+    "Bad Juju and Juju Junior have an eye-like appendage on the back of their skulls, which in Imaginators glows greenish.",
+    "In her toy form and in Ring of Heroes', the eye engraving is replaced with a ball with engravings, connecting the skull to the shoulders.",
+    "On the official Skylanders website, she was mistakenly listed twice.",
+    "Bad Juju, Hood Sickle and Grave Clobber are the only Undead creatures to not be from that element. Oddly, she is the only one of them to not change elements in Imaginators.",
+    "Bad Juju is the third character to fight with the help of family members, after Sonic Boom and Eye-Brawl.",
+    "Her catchphrase is based on the Bible verse Matthew Ch.26:41, 'Watch and pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak'.",
+    "She is the only Air Sensei to not come in an Adventure Pack.",
+    "For her idle animation, Bad Juju sharpens her blades against each other, or taunts while pointing forward."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Imaginators - Bad Juju Soul Gem Preview",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Imaginators_-_Bad_Juju_Soul_Gem_Preview"
+    },
+    {
+      "name": "Meet Bad Juju l Skylanders Imaginators l Skylanders",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_Bad_Juju_l_Skylanders_Imaginators_l_Skylanders"
+    }
+  ],
+  "gameplay": "Bad Juju can summon storms and whirlwinds to suck in enemies and call upon lightning strikes, and she can also teleport as seen in her introduction. In Imaginators, Bad Juju no longer fights alone, now with her son Juju Junior and wind spirits at her side. She also wields the Whirling Blades, which channel the wind spirits to power up the blades with an aura while alone, and a protective circle when accompanied by her son. She now takes full advantage of her detached head, keeping her focus on enemies as she spins for attacks and channels the wind to increase the duration of attacks and her speed; while Juju Junior can curse enemies and release static electricity when eating lightning. For their Sky-Chi, Bad Juju creates a lightning tether between her and her son, electrifying enemies that he runs into.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Bad_Juju_(character)",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Whirling Blades",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d9/Bad_Jujuprimarypower.png",
+        "content": "Press Attack 1 to slash your enemies down.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Juju Junior",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Bad_Jujusecondarypower.png",
+        "content": "Press Attack 2 to send Juju Junior out to make trouble. Press Attack 2 to call him back. Bad Juju has better defense with Junior but better attack power when Junior is out playing.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Windy Wail",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Bad_Jujubasicupgrade1.png",
+        "content": "Juju Junior does more damage and also has an area of effect attack when sent out.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Snack Attack",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Bad_Jujubasicupgrade2.png",
+        "content": "Press Attack 3 to feed Juju Junior a snack of lightning.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Airspeed Velocity",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Bad_Jujubasicupgrade3.png",
+        "content": "When Bad Juju isn't attacking, as she moves she will gradually become faster and faster.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Tornado Slash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bf/Bad_Jujubasicupgrade4.png",
+        "content": "Keep pressing Attack 1 to continually slash your enemies down.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Overeating",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Bad_Jujusoulgempower.png",
+        "content": "Hold Attack 3 to have Juju Junior explode with lightning.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 6,
+        "name": "Harnessing Havoc",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/42/Bad_Jujuskychipower.png",
+        "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi power! Use Left Stick to steer Junior into enemies!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Mother Nature",
+        "abilities": [
+          {
+            "name": "Static Shock",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Bad_Jujupath1upgrade1.png",
+            "content": "When Whirling Blades hits, another nearby enemy will get shocked with static electricity.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "A Storm of Blades",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b9/Bad_Jujupath1upgrade2.png",
+            "content": "Whirling Blades and Tornado Slash attacks do more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "A Cut-ter Cut-tastrophe",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/34/Bad_Jujupath1upgrade3.png",
+            "content": "After a Storm of Blades, send out flying blades in all directions.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "The Voodoo That You Do",
+        "abilities": [
+          {
+            "name": "Child Protection",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Bad_Jujupath2upgrade1.png",
+            "content": "When Juju Junior is called back, Bad Juju becomes temporarily invulnerable.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Voodoo Curse",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/90/Bad_Jujupath2upgrade2.png",
+            "content": "Enemies hit by Juju Junior become cursed. If Bad Juju damages one cursed enemy, they all take damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "The Main Attraction",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Bad_Jujupath2upgrade3.png",
+            "content": "When sent out, Juju Junior pulls enemies towards him before doing more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "bad-juju",
@@ -30,10 +370,23 @@
       "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/cd/BadJuju.png",
       "attacks": [
-        "Trap Team=Lightning strike",
+        "Lightning strike",
         "Hurricane"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "230 (max. 460)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "12 (max. 60)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Bad_Juju_(character)"
     }
   ]
