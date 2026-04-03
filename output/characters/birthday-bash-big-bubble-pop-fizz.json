@@ -4,26 +4,124 @@
   "species": "Gremlin",
   "gender": "Male",
   "element": "Magic",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Birthday Bash Big Bubble Pop Fizz is the birthday counterpart of Big Bubble Pop Fizz in Skylanders: SuperChargers.",
   "biography": "It is customary tradition at the Skylanders Academy for all of the Skylanders to gather around and sing the birthday song to the guest of honor. For fun, any Skylanders that arrives late must sing the birthday song solo in front of the entire Academy. But rather than seeing this as an embarrassment, Pop Fizz continues to see this as an opportunity to show off his new Big Bubble party instruments, and so he arrives late every time... much to the dismay of the party guests!",
-  "personality": null,
-  "story": null,
+  "quote": "The Motion of the Potion!",
+  "personality": "Pop Fizz is a showman who views the Academy's tradition of late-comers singing solo as an opportunity to demonstrate his musical talent with his Big Bubble party instruments. He intentionally arrives late to parties just to take the spotlight, showing a playful and somewhat mischievous nature.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "It is customary tradition at the Skylanders Academy for all of the Skylanders to gather around and sing the birthday song to the guest of honor. For fun, any Skylanders that arrives late must sing the birthday song solo in front of the entire Academy. But rather than seeing this as an embarrassment, Pop Fizz continues to see this as an opportunity to show off his new Big Bubble party instruments, and so he arrives late every time... much to the dismay of the party guests!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Birthday_Bash_BB_Pop_Fizz.jpg/revision/latest?cb=20160111040932"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "The Motion of the Potion!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He shares his name with Bash's Lost Islands alter ego, Birthday Bash.",
+    "In his toy form, the colors of his gloves are colored all the way up to his claws.",
+    "His Magic Rift Engine pedestal is colored glittery silver all over.",
+    "He and Legendary Bone Bash Roller Brawl currently have the longest name out of all the Skylanders, consisting of a whopping 28 letters.",
+    "In addition, the first four words in his name begin with the letter 'B'.",
+    "This is the only Alt Deco of Pop Fizz whose Beast Form is the same color as his original counterpart.",
+    "His promotional art appears in the Personality option for Imaginators.",
+    "In the in-game Collection, the profile of Birthday Bash Big Bubble Pop Fizz shows him wearing clown makeup and a red rubber nose."
+  ],
+  "trailers": [],
+  "gameplay": "Birthday Bash Big Bubble Pop Fizz uses musical party instruments to create bubbles for his attacks and can transform into a beast form. His gameplay revolves around managing his bubble projectiles and timing his transformations to maximize damage.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Birthday_Bash_Big_Bubble_Pop_Fizz",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Bubble Blast",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Birthday_Bash_BB_Pop_Fizz.jpg/revision/latest?cb=20160111040932",
+        "content": "A primary attack that launches bubble-based projectiles using party instruments.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Bubbling Beast Form",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Birthday_Bash_BB_Pop_Fizz.jpg/revision/latest?cb=20160111040932",
+        "content": "A secondary attack that allows Pop Fizz to transform into a powerful Bubbling Beast.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Mixture Modifier",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Birthday_Bash_BB_Pop_Fizz.jpg/revision/latest?cb=20160111040932",
+        "content": "Modifies the potion mixtures to enhance combat effectiveness.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Larger Lungs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Birthday_Bash_BB_Pop_Fizz.jpg/revision/latest?cb=20160111040932",
+        "content": "Increases lung capacity for more powerful bubble attacks.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Better Beast",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Birthday_Bash_BB_Pop_Fizz.jpg/revision/latest?cb=20160111040932",
+        "content": "An upgrade that further enhances the Bubbling Beast Form.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "birthday-bash-big-bubble-pop-fizz",
       "variant_name": "Birthday Bash Big Bubble Pop Fizz",
-      "edition": "Series 1",
+      "edition": "Special Edition",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Birthday_Bash_BB_Pop_Fizz.jpg/revision/latest?cb=20160111040932",
@@ -34,7 +132,44 @@
         "Larger Lungs",
         "Better Beast"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "325 (max. 650)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6 (max. 56)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "210"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "145"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "165"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "280"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Birthday_Bash_Big_Bubble_Pop_Fizz"
     }
   ]
