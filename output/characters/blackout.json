@@ -87,7 +87,7 @@
     {
       "name": "Skylanders Trap Team - Blackout's Soul Gem Preview (Darkness Falls)",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Trap_Team_-_Blackout%27s_Soul_Gem_Preview_(Darkness_Falls)"
+      "url": "/wiki/File:Skylanders_Trap_Team_-_Blackout's_Soul_Gem_Preview_(Darkness_Falls)"
     },
     {
       "name": "Skylanders Power Play Blackout",
@@ -177,7 +177,7 @@
     "soulgems": [
       {
         "name": "Supernova Black Hole",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/Blackoutsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20151004024013",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/Blackoutsoulgempower.png/revision/latest?cb=20151004024013",
         "content": "Shoot 2 Black Holes on top of each other to create a Supernova Black Hole.",
         "is_primary": false,
         "is_secondary": false,
@@ -207,7 +207,7 @@
           },
           {
             "name": "Whip It Up",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Blackoutpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504000459",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Blackoutpath1upgrade2.png/revision/latest?cb=20170504000459",
             "content": "Wing Whip, Shadow Blade and Warp Speed attacks do more damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -219,7 +219,7 @@
           },
           {
             "name": "Warp Speed",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/87/Blackoutpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504000538",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/87/Blackoutpath1upgrade3.png/revision/latest?cb=20170504000538",
             "content": "Hold Attack 1 to repeatedly teleport through enemies and piercing them with your horn.",
             "is_primary": false,
             "is_secondary": false,
@@ -236,7 +236,7 @@
         "abilities": [
           {
             "name": "Dark Energy Clouds",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Blackoutpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20151029025647",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Blackoutpath2upgrade1.png/revision/latest?cb=20151029025647",
             "content": "Shadow Orbs explode into massive Dark Energy.",
             "is_primary": false,
             "is_secondary": false,
@@ -248,7 +248,7 @@
           },
           {
             "name": "Under the Cover of Darkness",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Blackoutpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504000744",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Blackoutpath2upgrade2.png/revision/latest?cb=20170504000744",
             "content": "Blackout receives less damage when inside Dark Energy Clouds.",
             "is_primary": false,
             "is_secondary": false,
@@ -260,7 +260,7 @@
           },
           {
             "name": "Cloud Gravity",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Blackoutpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504000821",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Blackoutpath2upgrade3.png/revision/latest?cb=20170504000821",
             "content": "Hold Attack 2 to lift enemies inside a Dark Energy Cloud and damage all nearby enemies.",
             "is_primary": false,
             "is_secondary": false,
