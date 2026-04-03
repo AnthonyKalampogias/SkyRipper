@@ -4,32 +4,292 @@
   "species": "Dragon",
   "gender": "Male",
   "element": "Air",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
     "Champions",
     "Return of the Dragon King",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Rift into Overdrive",
+  "cameos": [
+    "Rift into Overdrive"
+  ],
   "world": [
     "Scalos Castle"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Blades came from a long line of dragons that guarded the dungeon of Scalos Castle, where the Golden Fear Serpent had slumbered for a century. Although it was considered an honor, Blades dreamed of becoming a knight so he could go on adventures in faraway lands. But one evening, a deafening roar shook the castle and a wave of fear swept over. The serpent had awoken! Fighting his fear with each step, Blades descended into the chamber. As he entered, the golden beast grinned and made Blades an offer - he would leave the kingdom unharmed and slumber for another hundred years, as long as Blades agreed to remain in the dungeon for eternity. Knowing the safety of the kingdom was more important than his ambition, Blades accepted the offer. Then suddenly, the fear was gone and the serpent vanished - for it turned out the only way to defeat the serpent was to confront his fear. News of this bravery soon found its way to Master Eon , who came to see Blades at once and made him a Skylander.",
-  "personality": "Blades is a brave and noble dragon despite his young age. He is willing to do whatever it takes to protect others from harm. Even if it means sacrificing himself to do it! &#91; 2 &#93; However, like most youngsters, Blades can be a headache. In I Am Legendary , while still attending the Skylanders Academy , he was&#160;cocky, reckless and full of himself, convinced that he didn't need anyone's help. He&#160;would call elder and experienced Skylanders 'old timers' and 'slow'. This trait diminished when he realized that working in a team was more effective than handling bad guys on his own.",
-  "story": null,
+  "description": "Blades is a blue dragon knight who is one of the Air Skylanders in Skylanders: Trap Team. He is released with the Nightmare Express Adventure Pack, and in a Triple Pack with Torch and Tidal Wave Gill Grunt. He was originally one of the three starter Skylanders in the first version of Skylanders: Ring of Heroes.",
+  "biography": "Blades came from a long line of dragons that guarded the dungeon of Scalos Castle, where the Golden Fear Serpent had slumbered for a century. Although it was considered an honor, Blades dreamed of becoming a knight so he could go on adventures in faraway lands. But one evening, a deafening roar shook the castle and a wave of fear swept over. The serpent had awoken! Fighting his fear with each step, Blades descended into the chamber. As he entered, the golden beast grinned and made Blades an offer - he would leave the kingdom unharmed and slumber for another hundred years, as long as Blades agreed to remain in the dungeon for eternity. Knowing the safety of the kingdom was more important than his ambition, Blades accepted the offer. Then suddenly, the fear was gone and the serpent vanished - for it turned out the only way to defeat the serpent was to confront his fear. News of this bravery soon found its way to Master Eon, who came to see Blades at once and made him a Skylander.",
+  "quote": "Looking Sharp!",
+  "personality": "Blades is a brave and noble dragon despite his young age. He is willing to do whatever it takes to protect others from harm. Even if it means sacrificing himself to do it! However, like most youngsters, Blades can be a headache. In I Am Legendary, while still attending the Skylanders Academy, he was cocky, reckless and full of himself, convinced that he didn't need anyone's help. He would call elder and experienced Skylanders 'old timers' and 'slow'. This trait diminished when he realized that working in a team was more effective than handling bad guys on his own.",
+  "story": [
+    {
+      "story_name": "Champions",
+      "content": "After joining the Skylanders, Blades became a student learning at the Skylanders Academy. During his training, he was able to achieve his Legendary status, becoming the youngest Skylander to ever gain it. When he was assigned by Master Eon by a mission with Night Shift, Trigger Happy, and Bouncer, Blades proved to be a handful, having gotten arrogant from his Legendary status achievement. Instead of waiting for his fellow Skylanders, Blades charged ahead and took down the leader of a group of Drow without getting information on the Machine Magus, which threatened all of Skylands. Night Shift and Bouncer scolded Blades for his actions and tried to explain to the young dragon about the value of being in a team. However, Blades shrugged off their words and claimed that he didn't need anyone's help. To prove that he was the greatest Legendary Skylander ever, Blades went on to take down the Machine Magus by himself, leaving Night Shift, Trigger Happy and Bouncer behind. Upon arrival, the young dragon managed to defeat a group of Drow Spearmen guards outside the stronghold, but was confronted by Magus, who used his machine, the Omni-Disruptor, to block Blades' connection to Portals. Without this connection, Blades was unable to call for help and summon his Legendary armor. He was quickly overwhelmed by the Omni-Disruptor's defenses, until Trigger Happy, Night Shift, and Bouncer arrived. Together as a team, with Blades included, they destroyed the Omni-Disruptor. With the machine in pieces, the Skylanders were able to summon their Legendary armor and ultimately defeat Magus and his Drow. After apprehending Magus and his group, Blades apologized to his friends for being a jerk throughout the mission. The young dragon proclaimed that he would surrender his Legendary status and hope to earn it back someday by proving that he can be part of a Skylander team. Bouncer was pleased that Blades learned his lesson, and encouraged the young Skylander to keep his Legendary status as he officially became part of the Skylander team.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Blades_Comic.jpg/revision/latest?cb=20150128055613"
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "When Malefor was preparing to attack the Skylanders Academy, Blades was one of the many Skylanders who were summoned to stop him. The dragon knight lead the flying Dragon Skylanders on an assault to attack Malefor's eyes, but they were all swiftly struck down by the evil dragon's fire breath. Despite having an advantage over Malefor, Blades and the other Skylanders were unprepared for the abilities Malefor's armor held and were ultimately defeated with a single tail strike. Malefor then proceeded to absorb the powers of Blades and the other Skylanders with a crystal to empower himself. When Spyro destroyed Malefor's crystal, the powers of the Skylanders he stole, including Blades', were returned to their rightful owners.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Looking Sharp!",
+        "I wield, you yield!",
+        "Cutting edge!",
+        "Success is mine!",
+        "Victory, anyway you slice it!",
+        "Living on the edge!",
+        "Blades to battle!",
+        "Ready to go!",
+        "Dragon blast!",
+        "Wind wing!",
+        "My turn!",
+        "Onward to victory!",
+        "Cutting in!",
+        "Your fate is sealed!",
+        "No fear!",
+        "Full power!",
+        "A fine hoard!",
+        "I'm the cut above the rest! Seriously!",
+        "Reaching new heights!"
+      ]
+    },
+    {
+      "quote_type": "Skylanders Issue #5",
+      "content": [
+        "'Bout time you guys caught up. Don't worry, I get it, you slow down when you get old. I'll give you a second to catch your breath and admire my victory.",
+        "Maybe it would take all of you, but this guy right here happens to be the youngest Skylander to ever achieve Legendary status. I don't need anybody's help.",
+        "The name is Blades, you dull Drow. And didn't your mothers ever tell you not to play with sharp objects? Someone could get hurt."
+      ]
+    }
+  ],
+  "trivia": [
+    "Blades is the second dragon Skylander of the Air element (the first being Whirlwind).",
+    "Blades is the second Air Skylander to have his Soul Gem located in the first level of the game (the first being Pop Thorn for Skylanders: Swap Force).",
+    "Coincidentally, they both come in Adventure Packs.",
+    "Like Sunburn and Flashwing, Blades is the third dragon with wings that cannot fly in the game.",
+    "He is voiced by Robin Atkin Downes, who is known for voicing Hoot Loop, and the Medic from Team Fortress 2.",
+    "Blades and Fist Bump can both perform combos, however, they are currently the only two Skylanders who cannot purchase any additional combos, regardless of which upgrade path is selected.",
+    "His armor was originally gray instead of blue.",
+    "He, Spyro, and Bash are currently the only known dragons with Legendary counterparts.",
+    "Blades is one of the few core Skylanders from Trap Team to have an in-game variant, the others being Food Fight, Déjà Vu, and Cobra Cadabra.",
+    "One of his upgrade paths, Shard Shooter, is a play on the term 'Sharp Shooter'.",
+    "The pun is also shared with Shark Shooter Terrafin.",
+    "In the Ring of Heroes comics, Blades has opposable thumbs, despite not having them in his regular appearance or ingame.",
+    "He and Sunburn are the only two dragon Skylanders to be included in adventure packs (Nightmare Express and Dragon's Peak)."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Blades",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Blades"
+    },
+    {
+      "name": "Skylanders Trap Team - Blades Soul Gem Preview (Looking Sharp)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Blades_Soul_Gem_Preview_(Looking_Sharp)"
+    },
+    {
+      "name": "Skylanders Power Play Blades",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Blades"
+    }
+  ],
+  "gameplay": "Wearing bladed armor, Blades is literally sharp everywhere on him, making it difficult for enemies to dodge his strikes. He can swipe and slash enemies with his bladed wings and tail, and even release a string of Blade Shards. Blades can also summon whirlwinds that can carry his Blade Shards to make them fly into his opponents for additional damage.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Blades",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Wing Slice",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Bladesprimarypower.png/revision/latest?cb=20150102043550",
+        "content": "Press Attack 1 for a Wing Slice attack. Press Attack 1, Attack 1, HOLD Attack 1 for a Tail Stab combo.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Blade Shards",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/Bladessecondarypower.png/revision/latest?cb=20150102043756",
+        "content": "Press Attack 2 to shoot Blade Shards into the ground; perform a Wing Slice to send them flying!",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Cyclone Swirl",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/Bladesbasicupgrade1.png/revision/latest?cb=20150102044133",
+        "content": "Press Attack 3 to create a Cyclone Swirl attack, damaging anything nearby.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Sharpened Wings",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/33/Bladesbasicupgrade2.png/revision/latest?cb=20150102044229",
+        "content": "Wing Slice attacks do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Shard Harder",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Bladesbasicupgrade3.png/revision/latest?cb=20150102044318",
+        "content": "Shoot more Blade Shards and at a farther distance.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Wind At Your Back",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/04/Bladesbasicupgrade4.png/revision/latest?cb=20150102044525",
+        "content": "Cyclone Swirl now follows you around and does extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Instant Swirl Shards!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/65/Bladessoulgempower.png/revision/latest?cb=20150102050155",
+        "content": "Cyclone Swirls automatically contain Blade Shards.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Wind Wielder",
+        "abilities": [
+          {
+            "name": "Follow Like The Wind",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/98/Bladespath1upgrade1.png/revision/latest?cb=20150102045048",
+            "content": "Cyclone Swirl follows you more closely and spins Blade Shards faster.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Crushing Cyclones",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Bladespath1upgrade2.png/revision/latest?cb=20150102050407",
+            "content": "Enemies inside Cyclone Swirl take increased damage from other attacks.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Shielding Swirl",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Bladespath1upgrade3.png/revision/latest?cb=20150102050408",
+            "content": "Cyclone Swirl is larger and can deflect enemy projectiles.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Shard Shooter",
+        "abilities": [
+          {
+            "name": "Slice Shards",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/12/Bladespath2upgrade1.png/revision/latest?cb=20150102050408",
+            "content": "Wing Slice attacks occasionally shoot Blade Shards.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Cutting Edge",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/Bladespath2upgrade2.png/revision/latest?cb=20150102050601",
+            "content": "Blade Shards do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Shard Shrapnel",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Bladespath2upgrade3.png/revision/latest?cb=20150102050648",
+            "content": "Blade Shards stick to enemies, causing more damage over time.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "blades",
       "variant_name": "Blades",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/f/ff/Blades.png/revision/latest?cb=20170304031523",
       "attacks": [
@@ -39,7 +299,28 @@
         "Crushing Cyclones",
         "Slice Shards"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "10"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Blades"
     }
   ]
