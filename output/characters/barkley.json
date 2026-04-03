@@ -4,6 +4,7 @@
   "species": "Ent",
   "gender": "Male",
   "element": "Life",
+  "role": "Sidekick / Mini",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -15,28 +16,154 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands Miniverse"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse . Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-  "personality": "Barkley will do anything to protect Skylands from dark magic. Mess with him and you'll be barking up the wrong tree! He loves and respects nature as much as his mentor, Tree Rex. &#91; 1 &#93;",
-  "story": null,
+  "description": "Barkley is one of the four Sidekicks in Skylanders: Giants. He is the miniature version of the Life Giant, Tree Rex. As a Mini Skylander, he is in the Nintendo 3DS Starter Pack of Skylanders: Trap Team along with the Trap Master, Gusto.",
+  "biography": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "quote": "Be Afraid Of The Bark!",
+  "personality": "Barkley will do anything to protect Skylands from dark magic. Mess with him and you'll be barking up the wrong tree! He loves and respects nature as much as his mentor, Tree Rex.",
+  "story": [
+    {
+      "story_name": "Personality",
+      "content": "Barkley loves and respects nature as much as his mentor, Tree Rex. He will do anything to protect Skylands from dark magic. Mess with him and you'll be barking up the wrong tree!",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "The Skylanders Sidekicks come from the Skylands Miniverse and have traveled to the Skylands to meet their regular-sized alter egos. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy until they were ready to defend Skylands side by side with their full grown counterparts.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official catchphrase",
+      "content": [
+        "Be Afraid Of The Bark!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Barkley is a play on the word tree bark which is a part of a tree. His name may also be a play on the type of bread 'Barley'.",
+    "In Giants, Barkley is the only sidekick whose name isn't a pun on their regular-sized counterparts.",
+    "He is the only Mini to appear in a starter pack. Coincidentally, he and Tree Rex are the only counterparts who are available in the Nintendo 3DS starter packs.",
+    "In the 3DS version, he calls himself 'Tree Rex' instead of 'Barkley'."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Barkley",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Barkley"
+    }
+  ],
+  "gameplay": "Barkley is a Life element Mini Skylander with attacks that mirror those of Tree Rex, including Arbor Smash, Sequoia Charge, Big Thorn Shockwave Slam, Photosynthesis Cannon, and Super Stampede. He serves as both a Sidekick and a fully playable Mini Skylander in later titles.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Barkley",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Arbor Smash",
+        "imgPath": "Arbor_Smash.png",
+        "content": "A powerful physical attack involving a smashing motion.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#E6FFED"
+        }
+      },
+      {
+        "name": "Sequoia Charge",
+        "imgPath": "Sequoia_Charge.png",
+        "content": "A charging attack inspired by the Sequoia tree.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#E6FFED"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Big Thorn Shockwave Slam",
+        "imgPath": "Big_Thorn_Shockwave_Slam.png",
+        "content": "A powerful slam that creates a shockwave with thorns.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#E6FFED"
+        }
+      },
+      {
+        "name": "Photosynthesis Cannon",
+        "imgPath": "Photosynthesis_Cannon.png",
+        "content": "A ranged attack using the power of photosynthesis.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#E6FFED"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Super Stampede",
+        "imgPath": "Super_Stampede.png",
+        "content": "A massive stampede attack that crushes enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#E6FFED"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "barkley",
+      "id": "barkley-giants",
       "variant_name": "Barkley",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Sidekick / Mini",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/44/Barkley_Promo.jpg/revision/latest?cb=20140813155839",
       "attacks": [
-        "Arbor Smash Sequoia Charge Big Thorn Shockwave Slam Photosynthesis Cannon Super Stampede"
+        "Arbor Smash",
+        "Sequoia Charge",
+        "Big Thorn Shockwave Slam",
+        "Photosynthesis Cannon",
+        "Super Stampede"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "100/150"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "110/150"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100/150"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "90/150"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Barkley"
     }
   ]
