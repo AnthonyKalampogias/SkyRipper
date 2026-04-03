@@ -1,29 +1,90 @@
 {
   "id": "awakened-forms",
   "name": "Awakened Forms",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "species": "Skylander Type",
+  "gender": "N/A",
+  "element": "Various",
+  "role": "Upgraded Form",
+  "primary_game": "Skylanders: Ring of Heroes",
+  "appearances": [
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Awakened Forms are a type of upgraded Skylanders in Skylanders: Ring of Heroes. Identified by purple star rarities, they are obtained by collecting a very large Soul Stones and Elemental Ores. Unlike other empowered forms in the series, this transformation appears to be a permanent change of the Skylander's outfit or appearance, into more elaborate accessories or additional armor.",
+  "biography": "As seen in the game's tutorial, this transformation can be deactivated in some way, as all Awakened Skylanders that help the dazed Portal Master are later summoned in their regular forms. In game, however, it is permanent; shown in the tutorial comics to be the materials and Soul Stones transforming into new patterns or armor on the Skylander.",
+  "quote": "Unlike other empowered forms in the series, this transformation appears to be a permanent change of the Skylander's outfit or appearance, into more elaborate accessories or additional armor.",
+  "personality": "Awakened Skylanders are stronger forms of Skylanders, gaining a new outfit and a large boost in stats. This transformation is a permanent change into more elaborate accessories or additional armor.",
+  "story": [
+    {
+      "story_name": "Permanent Transformation",
+      "content": "Awakened Forms are a type of upgraded Skylanders in Skylanders: Ring of Heroes. Identified by purple star rarities, they are obtained by collecting a very large Soul Stones and Elemental Ores. Unlike other empowered forms in the series, this transformation appears to be a permanent change of the Skylander's outfit or appearance, into more elaborate accessories or additional armor. As seen in the game's tutorial, this transformation can be deactivated in some way, as all Awakened Skylanders that help the dazed Portal Master are later summoned in their regular forms. In game, however, it is permanent; shown in the tutorial comics to be the materials and Soul Stones transforming into new patterns or armor on the Skylander.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Awakened_Skylanders.png"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Description",
+      "content": [
+        "Unlike other empowered forms in the series, this transformation appears to be a permanent change of the Skylander's outfit or appearance, into more elaborate accessories or additional armor."
+      ]
+    }
+  ],
+  "trivia": [
+    "The concept of Awakened Skylanders is similar to Awakening, a gameplay element present in Summoners War, another game from Com2Us, the developers of Ring of Heroes.",
+    "Awakened Hot Dog is a reference to Shishi, statues of armored guardian lions of Chinese mythology.",
+    "Awakened Fiesta is a subtle reference to La Parka, a masked luchador known for his outfit with stylized bones painted over the clothes.",
+    "Regular Awakened Stealth Elf wears a Hachimaki, a type of headband once used by Samurai to prevent head attacks and make helmets more comfortable to use.",
+    "Awakened Form versions of Trap Shadow, Double Trouble, Dune Bug, Fright Rider, Wind-Up, Bat Spin, Bushwhack, Night Shift, Stump Smash, Rubble Rouser and Shroomboom were planned for Ring of Heroes with concept art being released, but were scrapped due to the game's closure."
+  ],
+  "trailers": [],
+  "gameplay": "Awakened Skylanders are stronger forms of Skylanders, gaining a new outfit and a large boost in stats. They also upgrade one of their skills to a new form, with more powerful or different effects. These characters can still level up, use runes and upgrade their attacks as usual, with no additional cost.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Awakened_Forms",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "Skill Upgrade",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Awakened_Skylanders.png",
+        "content": "Awakened Skylanders upgrade one of their skills to a new form, with more powerful or different effects.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#EE82EE",
+          "bg_content": "#4B0082"
+        }
+      }
+    ],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "awakened-forms",
-      "variant_name": "Awakened Forms",
-      "edition": "Series 1",
-      "type": "Core",
-      "game": null,
+      "id": "awakened-forms-special",
+      "variant_name": "Awakened Form",
+      "edition": "Ring of Heroes",
+      "type": "Special form",
+      "game": "Skylanders: Ring of Heroes",
       "image": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Awakened_Skylanders.png",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Skill Upgrade"
+      ],
+      "stats": [
+        {
+          "stat_name": "Rarity",
+          "stat_value": "Purple Star"
+        },
+        {
+          "stat_name": "Requirement",
+          "stat_value": "Soul Stones and Elemental Ores"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Awakened_Forms"
     }
   ]
