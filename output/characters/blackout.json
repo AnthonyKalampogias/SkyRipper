@@ -4,6 +4,7 @@
   "species": "Dark Dragon",
   "gender": "Male",
   "element": "Dark",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -13,28 +14,303 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Rift into Overdrive",
+  "cameos": [
+    "Rift into Overdrive"
+  ],
   "world": [
     "Realm of Dreams"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Blackout hails from the Realm of Dreams , where the collective imagination of all the creatures in the universe come together to create beautiful wonders... and terrible nightmares. At a young age, he was recruited into the Dark Stygian – a Dragon Clan whose chief responsibility was to create nightmares for evil creatures as a way to discourage them from doing more villainy. But the clan began to abuse their power, and soon spread nightmares far and wide for its own amusement. But Blackout would not stand for it. So he learned to teleport directly into the nightmares the clan created and fought the creatures within. Eventually, the nightmares reached as far as Master Eon , who witnessed Blackout’s courage within his own dreams. After helping him put a stop to the Dark Stygian, Eon then made Blackout a Skylander, serving as the protector of the Realm of Dreams and beyond!",
-  "personality": "Despite knowing of his sinister origins, Blackout shows bravery, compassion, and encouragement towards others. Like all Skylanders of his element, Blackout sees no relation between the Dark element and The Darkness .",
-  "story": null,
+  "description": "Blackout is a black dragon who is the Dark Core Skylander in Skylanders: Trap Team.",
+  "biography": "Blackout hails from the Realm of Dreams, where the collective imagination of all the creatures in the universe come together to create beautiful wonders... and terrible nightmares. At a young age, he was recruited into the Dark Stygian – a Dragon Clan whose chief responsibility was to create nightmares for evil creatures as a way to discourage them from doing more villainy. But the clan began to abuse their power, and soon spread nightmares far and wide for its own amusement. But Blackout would not stand for it. So he learned to teleport directly into the nightmares the clan created and fought the creatures within. Eventually, the nightmares reached as far as Master Eon, who witnessed Blackout's courage within his own dreams. After helping him put a stop to the Dark Stygian, Eon then made Blackout a Skylander, serving as the protector of the Realm of Dreams and beyond!",
+  "quote": "Darkness Falls!",
+  "personality": "Despite knowing of his sinister origins, Blackout shows bravery, compassion, and encouragement towards others. Like all Skylanders of his element, Blackout sees no relation between the Dark element and The Darkness.",
+  "story": [
+    {
+      "story_name": "Light in the Dark",
+      "content": "After eating a piece of candy and being unconscious for an unknown amount of time, Blackout and Spotlight found themselves inside a strange place with an opening at the top. However, before they could do anything, the area started to become flooded with candy, threatening to drown the two Skylanders. Both Spotlight and Blackout were unable to break themselves out on their own, but by combining their Light and Dark powers, the two dragons managed to escape. They discovered that they had been inside a giant piñata with Arkeyan ruins, and quickly flew away to alert Master Eon. From afar, Pain-Yatta announced his plans of a 'candy catastrophe' that the Skylanders wouldn't be able to stop in time. After reporting back to Master Eon at the Skylanders Academy about what happened to them, Spotlight and Blackout soon discovered through Gearshift's report that Pain-Yatta used their Light and Dark powers to create an army of candy warriors to rule Skylands. Upon learning about Pain-Yatta's plan, Master Eon sent Spotlight and Blackout back to the Arkeyan ruins in order to find out any clues about the attack. Once there, the two dragons were ambushed by a horde of candy warriors until Knight Light and Knight Mare came to assist their fellow Skylanders. However they were soon confronted by Pain-Yatta, who released a wave of candy upon the four Light and Dark Skylanders. Blackout, Spotlight, Knight Light and Knight Mare became imprisoned inside Pain-Yatta's giant pinata to power him and his army of candy warriors during their impending conquest over Skylands. Should they use their powers of Light and Dark to try and escape their prison, they would only make Pain-Yatta and his army stronger. Eventually the Skylanders concocted a plan to overload the pinata with their powers, causing it to explode and allowing the Skylanders to escape. Despite absorbing the Light and Dark energies to empower himself, Pain-Yatta suddenly became sick from taking in too much power and his candy warriors around Skylands dropped to pieces, resulting in Pain-Yatta's defeat. At the Skylanders Academy, Master Eon congratulated the Light and Dark Skylanders for their efforts in saving Skylands once again with their Light and Dark abilities.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Blackout_Spotlight.png/revision/latest/scale-to-width-down/258?cb=20150526025726"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Darkness Falls!",
+        "Bring on the night!",
+        "Lights out!",
+        "Out of the shadows!",
+        "Eclipsing the competition!",
+        "The dark before the dawn!",
+        "Dark and dangerous!",
+        "Watch out!",
+        "Sharpening my wings!",
+        "Black as night!",
+        "Afraid of your shadow... Or mine?!",
+        "A shot in the dark!",
+        "Lights off!",
+        "Under the cover of darkness!",
+        "Sliding through!",
+        "Never a shadow of a doubt!",
+        "Made in the shade.",
+        "A dragon's keep!",
+        "The dark before the dawn!",
+        "Clear the way!",
+        "Night time!",
+        "Total eclipse!",
+        "Pitch black!",
+        "Tipping the scales!",
+        "Casting a long shadow. Very long.",
+        "Overshadowing all others.",
+        "There'll be no hiding wearing this hat!",
+        "A fine hat to keep me shaded.",
+        "Let's keep this name a mystery for now...",
+        "A powerful name for me."
+      ]
+    }
+  ],
+  "trivia": [
+    "Blackout is the only core Skylander of the Dark Element as of Imaginators.",
+    "A statue of Blackout is spotted along with the other Skylander statues in the Collection Chamber of the Eternal Archives in the Nintendo 3DS version of Skylanders: Trap Team. This was an early teaser for the character before he was officially announced along with Spotlight, Knight Light and Knight Mare in December 2014.",
+    "His name refers to the common term for a power outage.",
+    "Statues of Blackout can be seen on the ledges of the Midnight Museum.",
+    "The Legendary Treasure, Legendary Gargoyle, is based on Blackout.",
+    "Blackout's wings appear in the design of the Dark towers in Kaos Doom Challenges.",
+    "Although Blackout has wings, he cannot fly. However, the Cloud Gravity upgrade from his 'Prince of Darkness' path allows him to fly over enemies for a short time."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Blackout",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Blackout"
+    },
+    {
+      "name": "Skylanders Trap Team - Blackout's Soul Gem Preview (Darkness Falls)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Trap_Team_-_Blackout%27s_Soul_Gem_Preview_(Darkness_Falls)"
+    },
+    {
+      "name": "Skylanders Power Play Blackout",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Power_Play_Blackout"
+    }
+  ],
+  "gameplay": "Blackout can fire orbs of darkness from his horn and summon black holes with a flick of his wings. Using the powers of the Dark element, he can teleport through his black holes from one to place to another. His wings are elastic, allowing Blackout to stretch his wings and whip them at enemies.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Blackout",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Wing Whip",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/14/Blackoutprimarypower.png/revision/latest?cb=20150318082841",
+        "content": "Press Attack 1 to perform a Wing Whip. Press Attack 1, Attack 1, Attack 1 for a combo attack.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Shadow Orbs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/63/Blackoutsecondarypower.png/revision/latest?cb=20150318083007",
+        "content": "Press Attack 2 to shoot Shadow Orbs, which leave behind Darkness energy shockwaves.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Black Hole",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/Blackoutbasicupgrade1.png/revision/latest?cb=20150318083118",
+        "content": "Press Attack 3 to open up Black Holes that pull enemies in - hold and release the button to teleport yourself.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Darkness Overload",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Blackoutbasicupgrade2.png/revision/latest?cb=20150318083217",
+        "content": "Shoot a Shadow Orb into a Black Hole to create an explosive eruption.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Shadow Blade",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Blackoutbasicupgrade3.png/revision/latest?cb=20150318083305",
+        "content": "Jump and press Attack 1 to turn into a spinning Shadow Blade.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Take it Black",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Blackoutbasicupgrade4.png/revision/latest?cb=20150318083359",
+        "content": "Black Holes hold enemies longer and they do more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Supernova Black Hole",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/Blackoutsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20151004024013",
+        "content": "Shoot 2 Black Holes on top of each other to create a Supernova Black Hole.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Wing Warrior",
+        "abilities": [
+          {
+            "name": "A Spinning Finish",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/86/Blackoutpath1upgrade1.png/revision/latest?cb=20150318083451",
+            "content": "Press Attack 1, Attack 1, Attack 1 for a Ground Pound combo. Press Attack 1, Attack 1, Attack 1, Attack 1 to charge ahead as a Shadow Blade.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Whip It Up",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Blackoutpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504000459",
+            "content": "Wing Whip, Shadow Blade and Warp Speed attacks do more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Warp Speed",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/87/Blackoutpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504000538",
+            "content": "Hold Attack 1 to repeatedly teleport through enemies and piercing them with your horn.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Prince of Darkness",
+        "abilities": [
+          {
+            "name": "Dark Energy Clouds",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Blackoutpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20151029025647",
+            "content": "Shadow Orbs explode into massive Dark Energy.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Under the Cover of Darkness",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Blackoutpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504000744",
+            "content": "Blackout receives less damage when inside Dark Energy Clouds.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Cloud Gravity",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Blackoutpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504000821",
+            "content": "Hold Attack 2 to lift enemies inside a Dark Energy Cloud and damage all nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "blackout",
       "variant_name": "Blackout",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/42/Blackout_Promo.jpg/revision/latest?cb=20141218040403",
       "attacks": [
-        "Wing WhipShadow OrbsBlack HoleA Spinning FinishDark Energy Clouds"
+        "Wing Whip",
+        "Shadow Orbs",
+        "Black Hole",
+        "A Spinning Finish",
+        "Dark Energy Clouds"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260 (max. 520)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60 (max. 108)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40 (max. 90)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "35 (max. 85)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Blackout"
     }
   ]
