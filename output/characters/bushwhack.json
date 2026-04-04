@@ -4,6 +4,7 @@
   "species": "Tree Elf",
   "gender": "Male",
   "element": "Life",
+  "role": "Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -12,16 +13,261 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Return of the Dragon King",
+  "cameos": [
+    "Return of the Dragon King"
+  ],
   "world": [
     "Arcadian Timberland"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Born to a race of tree elves who were protectors of the rich Arcadian Timberland, Bushwhack was supposed to be a ranger. But being the smallest of his clan, he was sent deep into the woods by the Chieftain to study with Arbo , known for helping the Skylanders rebuild the Core of Light . The tree spirit looked beyond Bushwhack’s size, and seeing that he had the heart of a warrior, taught him many secrets. Arbo even gifted him with an enchanted axe. So when a legion of Lumberjack Trolls invaded the forest and overpowered the elves, it was Bushwhack who set out to stop them. Drawing out the trolls, he used his enchanted axe and knowledge of the forest to capture them and destroy their tree-cutting machines. Afterward, Bushwhack not only was made a ranger but a Skylander. As part of the Trap Team, he now uses his Traptanium axe to whack evil wherever it grows!",
-  "personality": "Bushwhack has a warrior's heart in a tiny elf body. Size doesn't matter when it comes to his passion for heroism. &#91; 2 &#93;",
-  "story": null,
+  "description": "Bushwhack is a tree elf who is one of the Life Trap Masters in Skylanders: Trap Team.",
+  "biography": "Born to a race of tree elves who were protectors of the rich Arcadian Timberland, Bushwhack was supposed to be a ranger. But being the smallest of his clan, he was sent deep into the woods by the Chieftain to study with Arbo, known for helping the Skylanders rebuild the Core of Light. The tree spirit looked beyond Bushwhack's size, and seeing that he had the heart of a warrior, taught him many secrets. Arbo even gifted him with an enchanted axe. So when a legion of Lumberjack Trolls invaded the forest and overpowered the elves, it was Bushwhack who set out to stop them. Drawing out the trolls, he used his enchanted axe and knowledge of the forest to capture them and destroy their tree-cutting machines. Afterward, Bushwhack not only was made a ranger but a Skylander. As part of the Trap Team, he now uses his Traptanium axe to whack evil wherever it grows!",
+  "quote": "Axe to the Max!",
+  "personality": "Bushwhack has a warrior's heart in a tiny elf body. Size doesn't matter when it comes to his passion for heroism.",
+  "story": [
+    {
+      "story_name": "Origin Story",
+      "content": "Born to a race of tree elves who were protectors of the rich Arcadian Timberland, Bushwhack was supposed to be a ranger. But being the smallest of his clan, he was sent deep into the woods by the Chieftain to study with Arbo, known for helping the Skylanders rebuild the Core of Light. The tree spirit looked beyond Bushwhack's size, and seeing that he had the heart of a warrior, taught him many secrets. Arbo even gifted him with an enchanted axe. So when a legion of Lumberjack Trolls invaded the forest and overpowered the elves, it was Bushwhack who set out to stop them. Drawing out the trolls, he used his enchanted axe and knowledge of the forest to capture them and destroy their tree-cutting machines. Afterward, Bushwhack not only was made a ranger but a Skylander. As part of the Trap Team, he now uses his Traptanium axe to whack evil wherever it grows!",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Axe to the Max!",
+        "Knock on wood!",
+        "Cut it out!",
+        "Right on!",
+        "You got axed!",
+        "Can't stop the chop!",
+        "Burying the hatchet!",
+        "The call of the wild!",
+        "Nature protect me! - when using Bushes Shack",
+        "Timber! - when using Soul Gem ability",
+        "Back in action! - when switched in",
+        "Natural selection!",
+        "Nature's bounty! - when opening a treasure chest",
+        "Lost and found!",
+        "Nature is calling! - when Traptanium Axe glows",
+        "My energy is growing!",
+        "Over the edge! - when leveling up",
+        "Full power!",
+        "Looks like I'm a natural! - when checking stats",
+        "Showing signs of growth!",
+        "My very own canopy! - when wearing a hat",
+        "An edgy new look for me!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Bushwhack is also a word for cutting or chopping down foliage to clear a path.",
+    "He is the only elven Skylander to have pupils and colored sclera.",
+    "As it appears, Bushwhack doesn't wear shoes. So he is also the only elven Skylander to be walking around barefoot.",
+    "Bushwhack is the second elven Skylander of the Life element, the first one being Stealth Elf. In addition, they both have Legendary counterparts.",
+    "He is voiced by Roger Craig Smith, who is known for being the current voice actor of Sonic the Hedgehog. Roger also voices Da Pinchy, and the Air SWAP Force Skylander, Boom Jet.",
+    "He and Jawbreaker are the only Trap Masters to have Legendary counterparts.",
+    "He, Voodood and Chopscotch use axes for weapons.",
+    "He, Stump Smash and Chompy Mage all use acorns to attack enemies. Stink Bomb also uses acorns to attack if his 'The Art of Acorns' upgrade path is chosen.",
+    "Despite numerous sources referencing his small stature, in game Bushwhack is actually taller than most other Skylanders.",
+    "Bushwhack was one of the many Skylanders planned to appear in Skylanders: Ring of Heroes. Before the game's closure, only concept art of his Awakened Form was released."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Bushwhack",
+      "isValid": false,
+      "url": ""
+    },
+    {
+      "name": "Skylanders Trap Team - Bushwhack's Soul Gem Preview (Axe to the Max)",
+      "isValid": false,
+      "url": ""
+    },
+    {
+      "name": "Skylanders Power Play- Bushwhack",
+      "isValid": false,
+      "url": ""
+    }
+  ],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Bushwhack",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Traptanium Axe",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Bushwhackprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505141324",
+        "content": "Press Button 1 to swing the Traptanium Axe. Press Button 1, 1 and hold 1 for a combo attack.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Mystic Acorn",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Bushwhacksecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170505141329",
+        "content": "Throw a Mystic Acorn that stuns enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Headbash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/15/Bushwhackbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505141333",
+        "content": "Press Button 3 for a powerful Headbash move, damaging anything nearby.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Nut Grenade!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Bushwhackbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505141339",
+        "content": "Acorns now explode on impact, doing more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "In a Nut Shell",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5b/Bushwhackbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505141344",
+        "content": "Get some new armor, taking reduced damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Thorn Tail",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Bushwhackbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170505141350",
+        "content": "Traptanium Axe attack now leaves a trail of thorns that damage enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Timber!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Bushwhacksoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505141355",
+        "content": "Jump and hold Button 3 to plant a giant tree, which is then cut down to smash whatever's below.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Axe Avenger",
+        "abilities": [
+          {
+            "name": "An Axe to Grind",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Bushwhackpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505141625",
+            "content": "Traptanium Axe does extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Combo Attacks",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/Bushwhackpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505141630",
+            "content": "Press Button 1, 1 and hold 2 for the Slash and Spin combo, and Button 2, 2 and hold 3 for Head first combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Go Nuts!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Bushwhackpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505141633",
+            "content": "Keep holding Button 3 after a Slash and Spin combo to shoot nuts in all directions.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Armor Awesomeness",
+        "abilities": [
+          {
+            "name": "Bush's Shack",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f8/Bushwhackpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505141638",
+            "content": "Hold Button 2 to create a leafy hut for protection and healing.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Primal Warrior",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/44/Bushwhackpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505141642",
+            "content": "Get new armor, taking reduced damage and doing extra damage with the Headbash Attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Spring Forward",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b4/Bushwhackpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505141650",
+            "content": "Hold Button 3 to dash forward and perform a super Headbash attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "bushwhack",
@@ -37,7 +283,24 @@
         "An Axe to Grind",
         "Bush's Shack"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "220"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "180"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "50"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Bushwhack"
     }
   ]
