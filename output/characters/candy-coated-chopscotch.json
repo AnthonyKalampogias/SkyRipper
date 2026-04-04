@@ -4,20 +4,113 @@
   "species": "Ghoul",
   "gender": "Female",
   "element": "Undead",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "The Underworld"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "The only thing that ever mattered to Chopscotch was mastering her weapon of choice, the giant axe, while rocking out to her favorite musical idol, Wolfgang . It never bothered her that she was short in stature or that all of the other ghouls in the Underworld laughed at the way she spoke in rhymes as she made up her own lyrics to Wolfgang’s guitar jams. So when Wolfgang joined the villainous Doom Raiders , she was devastated. But instead of letting it destroy her, she chose to put her axe skills to good use, and fought Wolfgang and his Moon Goons when they attempted to curse her entire town during an evil concert. Her willingness to stand up to her long time hero came as a surprise to everyone, and soon all of the villagers were speaking in rhymes in her honor. Soon after, she met Master Eon , who was so impressed at her fighting abilities and positive outlook that he recruited her as a Sensei for the Smasher Class. Now she teaches new Skylanders how to fight… and how to rhyme!",
-  "personality": null,
-  "story": null,
+  "description": "Candy-Coated Chopscotch is the Halloween counterpart of Chopscotch in Skylanders: Imaginators.",
+  "biography": "The only thing that ever mattered to Chopscotch was mastering her weapon of choice, the giant axe, while rocking out to her favorite musical idol, Wolfgang. It never bothered her that she was short in stature or that all of the other ghouls in the Underworld laughed at the way she spoke in rhymes as she made up her own lyrics to Wolfgang's guitar jams. So when Wolfgang joined the villainous Doom Raiders, she was devastated. But instead of letting it destroy her, she chose to put her axe skills to good use, and fought Wolfgang and his Moon Goons when they attempted to curse her entire town during an evil concert. Her willingness to stand up to her long time hero came as a surprise to everyone, and soon all of the villagers were speaking in rhymes in her honor. Soon after, she met Master Eon, who was so impressed at her fighting abilities and positive outlook that he recruited her as a Sensei for the Smasher Class. Now she teaches new Skylanders how to fight… and how to rhyme!",
+  "quote": "Chop 'til You Drop!",
+  "personality": "Chopscotch is a determined and positive ghoul who refuses to let her height or others' opinions get in her way. She is a dedicated fan of music and expresses herself through rhymes. She possesses a strong moral compass, even standing up to her own idol when he turned to evil.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "The only thing that ever mattered to Chopscotch was mastering her weapon of choice, the giant axe, while rocking out to her favorite musical idol, Wolfgang. It never bothered her that she was short in stature or that all of the other ghouls in the Underworld laughed at the way she spoke in rhymes as she made up her own lyrics to Wolfgang's guitar jams. So when Wolfgang joined the villainous Doom Raiders, she was devastated. But instead of letting it destroy her, she chose to put her axe skills to good use, and fought Wolfgang and his Moon Goons when they attempted to curse her entire town during an evil concert. Her willingness to stand up to her long time hero came as a surprise to everyone, and soon all of the villagers were speaking in rhymes in her honor. Soon after, she met Master Eon, who was so impressed at her fighting abilities and positive outlook that he recruited her as a Sensei for the Smasher Class. Now she teaches new Skylanders how to fight… and how to rhyme!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Candy-Coated_Chopscotch_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161027193333"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Chop 'til You Drop!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Candy-Coated Chopscotch is the Halloween-themed counterpart of the Undead Smasher, Chopscotch.",
+    "She is one of the few Senseis to have a seasonal variant released for the Skylanders: Imaginators game.",
+    "Her biography mentions her idol, Wolfgang, who is also an Undead Sensei in the same game."
+  ],
+  "trailers": [],
+  "gameplay": "As a Smasher Class Sensei, Candy-Coated Chopscotch uses her giant axe to deliver powerful melee attacks. Her fighting style includes a combination of rapid chops, spinning area-of-effect attacks, and the ability to use her own head as a weapon. She also uses rhythmic movements and jumping techniques to control the battlefield.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Candy-Coated_Chopscotch",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Chop Chop Chop",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7a/CandyCoatedChopscotchGameplay1.jpg/revision/latest/scale-to-width-down/185?cb=20161022143957",
+        "content": "Perform a series of axe chops to defeat enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#5e2d89",
+          "bg_content": "#2b2b2b"
+        }
+      },
+      {
+        "name": "Spin to Win",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/CandyCoatedChopscotchGameplay2.jpg/revision/latest/scale-to-width-down/185?cb=20161022144035",
+        "content": "Spin with the giant axe to deal damage to surrounding foes.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#5e2d89",
+          "bg_content": "#2b2b2b"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Lose Your Head",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/CandyCoatedChopscotchGameplay2.jpg/revision/latest/scale-to-width-down/185?cb=20161022144035",
+        "content": "Detach and throw your head at enemies for a ranged attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#5e2d89",
+          "bg_content": "#2b2b2b"
+        }
+      },
+      {
+        "name": "Jump Attract",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Candy-Coated_Chopscotch_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161027193333",
+        "content": "Perform a powerful jump that attracts nearby enemies toward the point of impact.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#5e2d89",
+          "bg_content": "#2b2b2b"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Axe Frenzy",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Candy-Coated_Chopscotch_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161027193333",
+        "content": "Unleash a devastating frenzy of axe strikes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#5e2d89",
+          "bg_content": "#2b2b2b"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "candy-coated-chopscotch",
@@ -33,7 +126,12 @@
         "Jump Attract",
         "Axe Frenzy"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Element/Class",
+          "stat_value": "Undead / Smasher"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Candy-Coated_Chopscotch"
     }
   ]
