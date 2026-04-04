@@ -15,15 +15,71 @@
     },
     {
       "name": "Aurora",
-      "sha": "bd7c2b106e1591f2d0c3f6353fcbc13850310cd444b89e689ec557d8d23460cf"
+      "sha": "2a3853498bf4c4325a7e8dfa4c36ee5994e1a04f40516c96c268a303e0e3c9e2"
     },
     {
-      "name": "Aurora",
-      "sha": "2a3853498bf4c4325a7e8dfa4c36ee5994e1a04f40516c96c268a303e0e3c9e2"
+      "name": "Ambush",
+      "sha": "dcad9d1c7f7485866185447a6cc0c57daf78af3c5a3b2e770025dc18fb542b0f"
+    },
+    {
+      "name": "Autumn Stump Smash",
+      "sha": "6f21e121d558067856535201e7716121816706c9970aab2e81e35edf2b966caa"
+    },
+    {
+      "name": "Awakened Forms",
+      "sha": "02c762e6b3821f4a9cc7899d9b0e6471aa51a1403566ee84541b06d605e4cc9d"
     },
     {
       "name": "Blastermind",
       "sha": "a1393a34e7d7152c301a0a2e1eddcb709a4a1cbe6360e089d4a5ceb48c1c3c9b"
+    },
+    {
+      "name": "Bad Breath",
+      "sha": "9617ce77bd123e2d790777a1f63714e463852bddcae9d1bb3cb57e6b74c185f8"
+    },
+    {
+      "name": "Bad Juju",
+      "sha": "ce20ffa0f2914075588270eed1db019e5b07fcfa08293fedf3c66cd1fd990dc9"
+    },
+    {
+      "name": "Barbella",
+      "sha": "5be183c49c0b9cfb41fd0ecf544aa6f177509236e61faee3f6ca8eb58ad625bf"
+    },
+    {
+      "name": "Barkley",
+      "sha": "434426dfbe06dd766d6955ff539e3e5ec40cc989da76d99c87d029e0feb033ad"
+    },
+    {
+      "name": "Bash",
+      "sha": "9bb253ffe5e9f516650f077c7d173d728de268bc47873a639b5a836c1f25fbc9"
+    },
+    {
+      "name": "Birthday Bash",
+      "sha": "82ee80f395fb742b5b032f5b4cd79fb607d73fa97b37fed932ac71384faf1f3d"
+    },
+    {
+      "name": "Birthday Bash Big Bubble Pop Fizz",
+      "sha": "f6a38a217a282272fc1d3c3414a217918ccbf59c9e6144ce97fed015c2e1c28e"
+    },
+    {
+      "name": "Big Bubble Pop Fizz",
+      "sha": "0a654ed2dbbbff07ffc2e59a35657a56ee3b3957aceae12894d18b66424d9509"
+    },
+    {
+      "name": "Bat Spin",
+      "sha": "07b6484bf9432d7ce75108bcb09bb445b4addb4e4bda37615e1d24cb54ce340b"
+    },
+    {
+      "name": "Blades",
+      "sha": "b2b710955d6ddd231e0109b5f68c8c0af3aab9a6c970b716ce42029e5a6f9975"
+    },
+    {
+      "name": "Blackout",
+      "sha": "4eff9070488b590fa6092c83017d0c5ba2df73e8d8577603764a4edee0767cff"
+    },
+    {
+      "name": "Blaster-Tron",
+      "sha": "fd785a7e2bd931a3f39c5b20b7afd4cbb54900db0b701c20fb3307cf6b759fe7"
     },
     {
       "name": "Blast Zone",
