@@ -4,20 +4,34 @@
   "species": "Grub Worm",
   "gender": "Male",
   "element": "Magic",
+  "role": "Skylander",
   "primary_game": "Skylanders: Lost Islands (May 2013)",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Buddy Wrecking Ball is the Spring counterpart of Wrecking Ball, available only on Skylanders: Lost Islands.",
+  "biography": "Buddy Wrecking Ball is the Spring counterpart of Wrecking Ball, available only on Skylanders: Lost Islands.",
+  "quote": "Buddy Wrecking Ball has sprouted into Skylands!",
+  "personality": "",
+  "story": [],
+  "quotes": [],
+  "trivia": [
+    "Buddy Wrecking Ball is the only spring themed variant that is not an Easter variant."
+  ],
+  "trailers": [],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Buddy_Wrecking_Ball",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "buddy-wrecking-ball",
@@ -27,7 +41,7 @@
       "game": "Skylanders: Lost Islands (May 2013)",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Buddy_Wrecking_Ball_Promo.png/revision/latest?cb=20130504012619",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Buddy_Wrecking_Ball"
     }
   ]
