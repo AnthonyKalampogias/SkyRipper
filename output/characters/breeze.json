@@ -1,29 +1,86 @@
 {
   "id": "breeze",
   "name": "Breeze",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": "The Skylander Minis started off as regular \" Sidekicks \", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-  "personality": "When Breeze blows into town - look out! She likes to keep things light and airy but can be a little stubborn from time to time. &#91; 1 &#93;",
-  "story": null,
+  "species": "Unicorn/Dragon Hybrid",
+  "gender": "Female",
+  "element": "Air",
+  "role": "Mini",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders Issue 12",
+    "Light in the Dark",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": [],
+  "world": [
+    "Skylands Miniverse"
+  ],
+  "description": "Breeze is the Mini counterpart of the Air Skylander, Whirlwind. She made her debut in Skylanders: Trap Team.",
+  "biography": "The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "quote": "Twists of Fury!",
+  "personality": "When Breeze blows into town - look out! She likes to keep things light and airy but can be a little stubborn from time to time.",
+  "story": [],
+  "quotes": [],
+  "trivia": [
+    "Breeze and Whirlwind are currently the only Skylanders capable of healing others.",
+    "She shares the same glitches with Whirlwind in Trap Team, including colorfully-glowing horn after failing to fully charge the \"Rainbow Singularity\" after taking flight."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Breeze",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Breeze"
+    }
+  ],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Breeze",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "breeze",
       "variant_name": "Breeze",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
+      "type": "Mini",
+      "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/0/0f/Breeze_Promo.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Rainbow of Doom",
+        "Tempest Cloud",
+        "Dragon Flight",
+        "Duel Rainbows",
+        "Atomic Rainbow"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 (max. 118)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50 (max. 100)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Breeze"
     }
   ]
