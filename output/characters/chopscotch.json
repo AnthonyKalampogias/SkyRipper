@@ -4,21 +4,275 @@
   "species": "Ghoul",
   "gender": "Female",
   "element": "Undead",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "The Underworld"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "The only thing that ever mattered to Chopscotch was mastering her weapon of choice, the giant axe, while rocking out to her favorite musical idol, Wolfgang . It never bothered her that she was short in stature or that all of the other ghouls in the Underworld laughed at the way she spoke in rhymes as she made up her own lyrics to Wolfgang’s guitar jams. So when Wolfgang joined the villainous Doom Raiders , she was devastated. But instead of letting it destroy her, she chose to put her axe skills to good use, and fought Wolfgang and his Moon Goons when they attempted to curse her entire town during an evil concert. Her willingness to stand up to her long time hero came as a surprise to everyone, and soon all of the villagers were speaking in rhymes in her honor. Soon after, she met Master Eon , who was so impressed at her fighting abilities and positive outlook that he recruited her as a Sensei for the Smasher Class. Now she teaches new Skylanders how to fight... and how to rhyme!",
+  "description": "Chopscotch is a short and young Undead ghoul and a Sensei in Skylanders: Imaginators, belonging to the Smasher Battle Class.",
+  "biography": "The only thing that ever mattered to Chopscotch was mastering her weapon of choice, the giant axe, while rocking out to her favorite musical idol, Wolfgang. It never bothered her that she was short in stature or that all of the other ghouls in the Underworld laughed at the way she spoke in rhymes as she made up her own lyrics to Wolfgang’s guitar jams. So when Wolfgang joined the villainous Doom Raiders, she was devastated. But instead of letting it destroy her, she chose to put her axe skills to good use, and fought Wolfgang and his Moon Goons when they attempted to curse her entire town during an evil concert. Her willingness to stand up to her long time hero came as a surprise to everyone, and soon all of the villagers were speaking in rhymes in her honor. Soon after, she met Master Eon, who was so impressed at her fighting abilities and positive outlook that he recruited her as a Sensei for the Smasher Class. Now she teaches new Skylanders how to fight... and how to rhyme!",
+  "quote": "Chop 'til You Drop!",
   "personality": "Chopscotch loves speaking in rhyme and wasn't bothered when the other ghouls of the Underworld made fun of her short stature.",
-  "story": null,
+  "story": [
+    {
+      "story_name": "Character Development",
+      "content": "Chopscotch was an odd one during production, in which the initial concept - that of a small skeleton girl with a giant axe - stayed very similar to the final design. Though her axe's size was alterered and tribalistic skull etchings were added to even out the cuteness of her design, little else needed adjustment in the end. During development, her name was Grim Cleaver.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Physical Traits",
+      "content": "Chopscotch is a short ghoul with a pink ponytail while holding a giant silver ax. Like all master senseis, Chopscotch wears black and gold accessories and has a golden karate belts tied around her waists.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Chop 'til You Drop!",
+        "This ghoul is here to take your Imaginators to school!",
+        "And if they're of the Smasher Class, I'll show them a Technique that's a total gas.",
+        "It's never wrong to hit a gong!",
+        "Nice try, but niceness only counts in horseshoes and pumpkin pie!",
+        "What's shakin', bacon?!",
+        "Looks like its time to pay the axe tax!",
+        "This bone has flown!",
+        "Axe-cellent!",
+        "Yippee skippy!",
+        "Hooray is what I say!",
+        "Another success, I must confess!",
+        "Can't stop the chop!",
+        "Don't do the crime if you can't do the time!",
+        "See you later, alligators, or whoever those guys were.",
+        "My power increases, enemies in pieces!",
+        "An apple a day keeps the stats saying 'heeey!'",
+        "Well begun is half done!",
+        "Rise and surprise!",
+        "Sky-Chi for me!",
+        "The best never rest!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Chopscotch is the only Skylander to speak in rhymes, though others only do so while singing.",
+    "Chopscotch is a pun on Hopscotch, a children's game about skipping rectangles marked on the ground, which she can do as part of her Soul Gem. Her Undead element might refer to the game's theme in some countries, about a journey in the afterlife.",
+    "Though short bodies lacking torsos are associated with the Ninja class, Chopscotch has these features and is a Smasher.",
+    "The patterns in Chopscotch's skull-like face resemble Bad Juju's.",
+    "Like Bad Juju, her face is detached from her body.",
+    "In her idle animation, Chopscotch takes her eyes out to inspect it before putting it back in her skull.",
+    "Unlike most characters with Undead particle effects, hers include bugs such as small spiders.",
+    "Chopscotch's voice actor, Hynden Walch, is known for voicing Starfire and Blackfire from Teen Titans, DC Superhero Girls and Teen Titans Go!, Viridi, the Goddess of Nature from Kid Icarus: Uprising, Harley Quinn from The Batman and Batman: Assault on Arkham, Princess Bubblegum from Adventure Time and Summer Hugglemonster in Henry Hugglemonster. She also voiced Crash Bandicoot's younger sister, Coco Bandicoot, in the 1999 game Crash Team Racing.",
+    "Her catchphrase is a play on 'Shop 'til you drop'.",
+    "Chopscotch is one of the few Skylanders who uses a detachable head as an attack (another one is Countdown).",
+    "Though she did appear in the original version of the game, she didn't in the revamped version of Ring of Heroes until a few weeks later."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Imaginators Meet Master Chopscotch",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=9Mqv62wEFzo"
+    }
+  ],
+  "gameplay": "Chopscotch can swing around her giant axe and use its weight to her advantage, being able to spin with it for long periods of time. She can also detach her head and duplicate it, creating a helper that will attack along, and conjure hopscotch titles, creating a blast of flashy Undead energy when she reaches the end.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Chopscotch",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Chop Chop Chop",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/38/Chopscotchprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170407023842",
+        "content": "Press Attack 1 to chop things up with your spooky axe.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Spin to Win",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8d/Chopscotchsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170407023800",
+        "content": "Press Attack 2 to spin your axe around and knock enemies back.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Lose Your Head",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Chopscotchbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170407024036",
+        "content": "Press Attack 3 to throw your head at enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Knock It Up",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/Chopscotchbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170407024059",
+        "content": "Enemies hit with Spin To Win now get knocked up in the air.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Sharpened Blade",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Chopscotchbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170407024310",
+        "content": "Chop Chop Chop does more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Two Heads Are Better",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/Chopscotchbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170407024129",
+        "content": "Hold Attack 3 to create a Head Minion helper.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Hopscotch",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c4/Chopscotchsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170407024803",
+        "content": "Press Attack 3 while jumping for a game of hopscotch and a temporary speed increase.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 6,
+        "name": "Skip-A-Head",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/04/Chopscotchskychipower.png/revision/latest/scale-to-width-down/148?cb=20170407024829",
+        "content": "Hold Special Attack to perform your Sky-Chi Power! Use Left Stick to drop exploding heads around your foes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Heavy Hitter",
+        "abilities": [
+          {
+            "name": "Jump Attract",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/76/Chopscotchpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170407024625",
+            "content": "Press Attack 1 while jumping to attract enemies to your axe.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Charge Up Axe",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6f/Chopscotchpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170407024651",
+            "content": "Hold Attack 1 to charge up a massive Axe Chop.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Headsplosion",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Chopscotchpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170407024716",
+            "content": "Hit a head with Charge Up Axe to blow it up!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Crazy Cutter",
+        "abilities": [
+          {
+            "name": "Axe Frenzy",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b9/Chopscotchpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170407025154",
+            "content": "Hold Attack 1 to create a Trail of Pain that does damage to enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Long Trails",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7d/Chopscotchpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170407025246",
+            "content": "Longer Trail of Pain",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Exploding Trails",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/Chopscotchpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170407025323",
+            "content": "Hit a Trail of Pain using Attack 1 from a jump to make it explode.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "chopscotch",
@@ -34,7 +288,24 @@
         "Jump Attract",
         "Axe Frenzy"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "250"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "160"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "310"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "60"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Chopscotch"
     }
   ]
