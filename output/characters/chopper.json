@@ -4,6 +4,7 @@
   "species": "Tyrannosaurus Rex",
   "gender": "Male",
   "element": "Tech",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -13,22 +14,270 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Return of the Dragon King",
+  "cameos": [
+    "Return of the Dragon King"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Growing up, Chopper was much smaller than the rest of his dinosaur kin. But this didn’t bother him because he had big ideas. Ahead of the annual hunting competition to honor the village idol, Roarke Tunga, Chopper spent weeks building himself a super Gyro-Dino-Exo-Suit. When the competition began, he took the air – firing his missiles and chomping everything in his path. With Chopper on the verge of victory, the competition came to a sudden halt when the nearby volcano erupted, flooding the village with lava. Seeing the residents of his village trapped, Chopper quickly flew into action. One at a time, he airlifted everyone to safety. And was even able to save the village idol. For heroically using his head, Chopper was made a Skylander!",
-  "personality": "Chopper might be a little guy, but he's got big ideas. His passion and bravery always impress his teammates. &#91; 3 &#93;",
-  "story": null,
+  "description": "Chopper is a T-Rex who is one of the core Tech Skylanders in Skylanders: Trap Team. Despite his small size, he is a mechanical genius who used his inventions to save his village from a volcanic eruption.",
+  "biography": "Growing up, Chopper was much smaller than the rest of his dinosaur kin. But this didn't bother him because he had big ideas. Ahead of the annual hunting competition to honor the village idol, Roarke Tunga, Chopper spent weeks building himself a super Gyro-Dino-Exo-Suit. When the competition began, he took the air – firing his missiles and chomping everything in his path. With Chopper on the verge of victory, the competition came to a sudden halt when the nearby volcano erupted, flooding the village with lava. Seeing the residents of his village trapped, Chopper quickly flew into action. One at a time, he airlifted everyone to safety. And was even able to save the village idol. For heroically using his head, Chopper was made a Skylander!",
+  "quote": "Dino Might!",
+  "personality": "Chopper might be a little guy, but he's got big ideas. His passion and bravery always impress his teammates.",
+  "story": [
+    {
+      "story_name": "The Kaos Trap",
+      "content": "Chopper was the only experienced Skylander onboard the Dread-Yacht when Flynn was transporting the Minis to the Skylanders Academy. The young dinosaur noticed a dazed Flynn walking right off the ship and quickly jumped after the Mabu pilot to catch him. Unfortunately, Flynn proved to be too heavy for Chopper, and they both landed in the snowy area of the Boney Islands. They eventually ended up crashing into the Skylands Museum, where they activated a holographic message from Eon explaining to them about the history of the Skylanders and how they were first banished to Earth. When Flynn received a bonk on the head, he recovered from his dazed state and frantically explained to Chopper that Kaos was impersonating Weeruptor aboard the Dread-Yacht and was planning on ruining the Skylanders Academy. Flynn and Chopper uncovered a nearby Autogyro and used it to fly out of the warehouse and make their way to the Academy. On their way to the Skylanders Academy, the pair came under attack by a horde of Troll Bombers. They were eventually rescued by the combined efforts of Cali, Tessa, the real Weeruptor, and Wildfire. As the group arrived at the Skylanders Academy, Kaos was already being driven out of the school by Food Fight.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Dino Might!",
+        "Back at it!",
+        "Blast from the past!",
+        "Extinction or you!",
+        "T-riffic!",
+        "Dino time!",
+        "Locked and loaded!",
+        "Fire in the hole!",
+        "The bigger the better!",
+        "Can't stop the chop!",
+        "Took you for a spin!",
+        "Oh yeah!",
+        "Right on!",
+        "Comin' at ya!",
+        "On a rampage!",
+        "Ooh, a new discovery",
+        "Fossil fuel!",
+        "Dino power!",
+        "Power blast!",
+        "I'm awesome, any way you spin it!",
+        "Looks like I'll stand the test of time!",
+        "Hey, watch the propeller!",
+        "Woah, where'd you dig up this hat?",
+        "Call me whatever you like, ooh like Chopper!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Chopper is the first dinosaur Skylander who is not of the Earth element.",
+    "He was originally set to be the Tech Giant of Skylanders: Giants, but as T-Rexes are more horizontal than vertical, Chopper didn't fit onto the portal with other toys. His successor is Bouncer.",
+    "His name and species may have been a reference to Chomper from The Land Before Time series.",
+    "He, Chop Chop and Chopscotch are the only Skylanders who have the word 'Chop' in their names.",
+    "Chopper appears to wear a pair of reddish fingerless gloves in the game even though his artwork and figure don't show them.",
+    "He and Krypt King were both planned to be in Giants, but were scrapped and redesigned to be later released for Trap Team.",
+    "Despite not having a flight upgrade, Chopper can fly by double tapping the jump button.",
+    "His catchphrase is a pun on 'dynamite.'",
+    "Chopper is one of designer I-Wei Huang's favorite Skylanders. According to Huang, Chopper is a Skylander who 'captured the essence' of his design, a character who broke all of the rules but worked nevertheless.",
+    "When you place Chopper in Skylanders: SuperChargers Racing, he will say 'Dino Time!' instead of 'Dino Might!'.",
+    "Tri-Tip 'stole' Chopper's catchphrase."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Chopper",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Chopper"
+    },
+    {
+      "name": "Skylanders Power Play Chopper",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Chopper"
+    },
+    {
+      "name": "Skylanders Trap Team - Chopper's Soul Gem Preview (Dino Might)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Chopper%27s_Soul_Gem_Preview_%28Dino_Might%29"
+    }
+  ],
+  "gameplay": "Chopper is an agile Tech Skylander who utilizes mechanical augmentations for aerial mobility and explosive firepower. He can fly by double-tapping the jump button, which allows him to rained down rockets from above. His abilities focus on a combination of long-range Raptor Rockets and close-quarters Chopper Blades, complemented by a powerful Roar attack that can be upgraded for massive range and damage.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Chopper",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Raptor Rockets",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Chopperprimarypower.png/revision/latest?cb=20150617000306",
+        "content": "Press Attack 1 to shoot Raptor Rockets.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Chopper Blades",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Choppersecondarypower.png/revision/latest?cb=20150617001409",
+        "content": "Press Attack 2 to fly into enemies with Chopper Blades.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Roar!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6d/Chopperbasicupgrade1.png/revision/latest?cb=20150617001844",
+        "content": "Press Attack 3 to unleash a powerful roar attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Rev'D Up Rockets",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/33/Chopperbasicupgrade2.png/revision/latest?cb=20150617002048",
+        "content": "Raptor Rockets do extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Homing Missiles",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/48/Chopperbasicupgrade3.png/revision/latest?cb=20150617002204",
+        "content": "Raptor Rockets seek out enemies for a sure hit.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Better Blades",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Chopperbasicupgrade4.png/revision/latest?cb=20150617002414",
+        "content": "Chopper Blades do extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Ultimate Dino Destruction",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/df/Choppersoulgempower.png/revision/latest?cb=20150617001602",
+        "content": "Press Jump twice to enter Flight Mode, then Press Attack 3 to release a rocket strike of epic proportions.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Roar Like Never Before",
+        "abilities": [
+          {
+            "name": "Call of the Wild",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Chopperpath1upgrade1.png/revision/latest?cb=20150617002523",
+            "content": "Roar attacks does extra damage and travels further.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "R.O.A.R. Missiles",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/42/Chopperpath1upgrade2.png/revision/latest?cb=20150617002723",
+            "content": "Hold Attack 1 to charge up Raptor Rockets to release super, Rage of All Raptor Missiles.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "King of the Jurassic Jungle",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f0/Chopperpath1upgrade3.png/revision/latest?cb=20150617002813",
+            "content": "Roar attack does maximum damage, with maximum range.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Blaster From the Past",
+        "abilities": [
+          {
+            "name": "The Bigger The Boom",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Chopperpath2upgrade1.png/revision/latest?cb=20150617002934",
+            "content": "Raptor Rockets create bigger explosions doing extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Props to You",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Chopperpath2upgrade2.png/revision/latest?cb=20150617003002",
+            "content": "Chopper Blades do maximum damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "More Missile",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Chopperpath2upgrade3.png/revision/latest?cb=20150617003026",
+            "content": "Hold Attack 1 to charge up Raptor Rockets to release bigger missiles doing more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "chopper",
       "variant_name": "Chopper",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core Skylander",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/6/67/Chopper_Promo.jpg/revision/latest?cb=20140424001102",
       "attacks": [
@@ -38,7 +287,20 @@
         "Call of the Wild",
         "The Bigger The Boom"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "250 / 500"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60 / 108"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "6 / 36"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Chopper"
     }
   ]
