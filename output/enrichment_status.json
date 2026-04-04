@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-03T21:24:19.903Z",
+  "last_run": "2026-04-04T21:09:37.327Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -160,6 +160,10 @@
     {
       "name": "Chompy Mage",
       "data": "52f3b1fdca244b526cff223f1e1f2a46fa08bf64"
+    },
+    {
+      "name": "chop-chop.json",
+      "sha": "d66432ee98d4adacde67271ae0c23e0ccefd1fa0"
     }
   ]
 }
