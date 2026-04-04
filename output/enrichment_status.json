@@ -136,6 +136,14 @@
     {
       "name": "Bushwhack",
       "sha": "eb8851b0e42618eef58d1bf16603e9df9adf84738cc5f91393e80ac695da967a"
+    },
+    {
+      "name": "Candy-Coated Chopscotch",
+      "sha": "f673a5e1600ac459da333b60d3684b5770783392d9a8e4b96a2ffd6869890133"
+    },
+    {
+      "name": "Camo",
+      "data": "54377e8d5f6099e6923136961ca4bde7ca6cf1538324b0ff5b4437a2fdf9c3a5"
     }
   ]
 }
