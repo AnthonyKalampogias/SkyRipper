@@ -1,29 +1,187 @@
 {
   "id": "chill",
   "name": "Chill",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": "Chill was the sworn guardian and personal protector of the Snow Queen. As captain of the queen's guard, her many heroic deeds earned her the respect of the entire ice kingdom. But when the Cyclops army began to expand their empire into the northern realms, the Snow Queen was taken prisoner during her watch and Chill has never forgiven herself for letting it happen. Ashamed and embarrassed, she left the Ice Kingdom behind and sworn never to return until she could reclaim her honor. Now as a member of the Skylanders, she remains courageous and strong, while always on the lookout for her lost queen.",
-  "personality": "As captain of the Queen's guard, Chill was once the most feared and respected of all the people in the Ice Kingdom. She is a proud, noble warrior - but not afraid to play dirty. &#91; 2 &#93;",
-  "story": null,
+  "species": "Unknown (Elf formerly)",
+  "gender": "Female",
+  "element": "Water",
+  "role": "Core Skylander",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [],
+  "world": [
+    "Ice Kingdom"
+  ],
+  "description": "Chill wears silver and ice blue armor with a blue long sleeved shirt and pants underneath. She has a silver helmet with three ice blue horns on the sides and wields a javelin and shield made of ice.",
+  "biography": "Chill was the sworn guardian and personal protector of the Snow Queen. As captain of the queen's guard, her many heroic deeds earned her the respect of the entire ice kingdom. But when the Cyclops army began to expand their empire into the northern realms, the Snow Queen was taken prisoner during her watch and Chill has never forgiven herself for letting it happen. Ashamed and embarrassed, she left the Ice Kingdom behind and sworn never to return until she could reclaim her honor.",
+  "quote": "Stay Cool!",
+  "personality": "Chill is a proud, noble warrior who takes her duty very seriously. She is disciplined and courageous, though her failure to protect the Snow Queen weighs heavily on her heart, driving her to reclaim her honor through service to Skyland.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "As sworn guardian of the Snow Queen and captain of the guard, Chill held an important position in the Ice Kingdom she called home. Loved by some, feared by others, respected by all, she was a legend in the making until the day a cyclops army kidnapped the queen when Chill wasn't looking. Heartbroken and ashamed, Chill abandoned the Ice Kingdom and set off to win back the respect and admiration she had lost. As a member of the Skylanders, Chill feels she has found purpose again, though she never stops searching for her lost queen.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Stay Cool!",
+        "Ice wall!",
+        "Narwhal!",
+        "Cold as ice!",
+        "I came, I saw, I conquered!",
+        "A chilling victory!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Chill speaks with a thick Russian accent.",
+    "She is voiced by Julie Nathanson.",
+    "Chill is one of the few Skylanders who can block with a shield.",
+    "She traverses water by levitating or skating over its surface."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Giants - Chill Preview Trailer",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=N4f0V8-qXzM"
+    }
+  ],
+  "gameplay": "Chill is a balanced fighter who uses her Ice Javelin for ranged attacks and her Ice Wall for area denial and defense. She can summon a narwhal for massive area damage and can upgrade her shield for better protection.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Chill",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Ice Javelin",
+        "imgPath": "icon_ice_javelin",
+        "content": "Press Attack 1 to throw a spinning ice javelin.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4682B4",
+          "bg_content": "#B0C4DE"
+        }
+      },
+      {
+        "name": "Ice Wall",
+        "imgPath": "icon_ice_wall",
+        "content": "Press Attack 2 to summon a wall of ice blocks for protection.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4682B4",
+          "bg_content": "#B0C4DE"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "The Great Wall",
+        "imgPath": "icon_great_wall",
+        "content": "Hold Attack 2 to extend the length of an ice wall.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4682B4",
+          "bg_content": "#B0C4DE"
+        }
+      },
+      {
+        "name": "Glacial Bash",
+        "imgPath": "icon_glacial_bash",
+        "content": "Press Attack 3 to bash enemies and ice wall blocks with your shield.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4682B4",
+          "bg_content": "#B0C4DE"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Call The Narwhal!",
+        "imgPath": "icon_narwhal",
+        "content": "Hold Attack 1 to charge and summon a narwhal friend to crash into enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#FFD700",
+          "bg_content": "#B0C4DE"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Orcastration!",
+        "imgPath": "icon_wowpow",
+        "content": "Hold Attack 2 longer and mini orcas appear inside the ice wall, then release to shatter the wall and launch orcas.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#FF4500",
+          "bg_content": "#B0C4DE"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Ice Lancer",
+        "abilities": [
+          {
+            "name": "Triple Javelins",
+            "imgPath": "icon_triple_javelin",
+            "content": "Throw three ice javelins at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4682B4",
+              "bg_content": "#B0C4DE"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "chill",
+      "id": "chill_s1",
       "variant_name": "Chill",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
-      "image": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Skylanders-chill-top630.jpg",
-      "attacks": [],
-      "stats": null,
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "img_chill_s1",
+      "attacks": [
+        "Ice Javelin",
+        "Ice Wall"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Chill"
     }
   ]
