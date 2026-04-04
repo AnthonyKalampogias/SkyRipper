@@ -4,6 +4,7 @@
   "species": "Arkeyan Skeleton",
   "gender": "Male",
   "element": "Undead",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -17,22 +18,301 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Return of the Dragon King",
+  "cameos": [
+    "Return of the Dragon King"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Chop Chop is an Undead Arkeyan warrior and one of the Core Skylanders in Skylanders: Spyro's Adventure. He has a Legendary counterpart called Legendary Chop Chop that was exclusive to the Legendary Triple Pack available only at Toys 'R' Us. His Series 3 Skylander is called Twin Blade Chop Chop.",
   "biography": "Chop Chop was once an elite warrior belonging to the ancient race of Arkeyan beings. Like many of the Arkeyans, he was created from a hybrid of elements - in his case, Undead magic and technology. Chop Chop is a relentless, highly-skilled soldier who wields a sword and shield made of an indestructible metal. With the Arkeyans having vanished long ago, Chop Chop wandered Skylands for centuries looking for his creators. Eventually, he was found by Eon and recruited as a Skylander.",
-  "personality": "With his skeletal frame, cold voice, and tremendous abilities, Chop Chop is often assumed to be a bit of a frightening fellow. In truth, he is a very frightening fellow. Despite that however, he appears to possess a sense of honor, as shown by his dedication to finding those who created him. Despite this, Chop Chop is known to use his shield to take the children of Skylands sledding. It is likely that the children enjoy this, though their screams make it difficult to tell &#91; 4 &#93;",
-  "story": null,
+  "quote": "Slice and Dice!",
+  "personality": "With his skeletal frame, cold voice, and tremendous abilities, Chop Chop is often assumed to be a bit of a frightening fellow. In truth, he is a very frightening fellow. Despite that however, he appears to possess a sense of honor, as shown by his dedication to finding those who created him. Despite this, Chop Chop is known to use his shield to take the children of Skylands sledding. It is likely that the children enjoy this, though their screams make it difficult to tell.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Centuries ago, the Giants of Skylands united in battle against the ruling Arkeyans. All that was left of the Arkeyans were their machines, toiling away evermore. One of those machines was Chop Chop, the last in a line of elite guards. But Chop Chop got fed up. There's nothing more tedious than being an Undead machine. It never seemed to end! So he stomped up to the surface to seek out new orders. Chop Chop wandered for centuries without a creator or a clue. Until that is, he stumbled upon another being who was the 'last of his kind'; Master Eon, the last Portal Master. No sooner had they met, Chop Chop's indestructible sword and shield were put to good use in the battle to protect the universe.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Slice and Dice!",
+        "My sword is yours!",
+        "Shield at the ready!",
+        "Bones to battle!",
+        "Bow to my sword!",
+        "In your service!",
+        "Bring on the next victim!",
+        "Another foe fractured!",
+        "For my master!",
+        "Does my power please you?",
+        "My strength is ever-growing!",
+        "This will strike fear into my opponents!",
+        "Make ready my armor!",
+        "Ah, tis a strong name."
+      ]
+    }
+  ],
+  "trivia": [
+    "Chop Chop, Chill, Doom Stone, Ignitor, Wildfire, Flip Wreck and High Volt are the only seven Skylanders who use shields. Ignitor, however, wears it as a part of his armor instead of using it for combat.",
+    "He resembles the skeletons from The 7th Voyage of Sinbad and Jason and the Argonauts. Both are skeletons that wield swords and shields.",
+    "Series 1 Chop Chop has translucent jewelry and coins on his pedestal, where as his Series 2 and 3 counterparts do not.",
+    "As he is an Arkeyan, several enemies and statues in their dwellings have helmets that resemble Chop Chop's.",
+    "As a Series 3 figure, he has shoulder pads with spikes. However, in the game, they don't show up on him or are related to any upgrades.",
+    "He, Shroomboom, Pop Thorn, Magna Charge, Blades, Jawbreaker, Spotlight, and Ambush all have their Soul Gems in the first level of their respective games.",
+    "He bears many similarities with Krypt King, as in development, Krypt King was designed to be an 'ultra' Chop Chop.",
+    "He is the only Skylander with an Elite counterpart in Trap Team who does not have a Sidekick or Mini based on him.",
+    "Chop Chop's helmet looks similar to Arthas from World of Warcraft.",
+    "He, Whirlwind and Spyro are the only three Skylanders with Elite counterparts who have not been reposed for Skylanders: SuperChargers.",
+    "During Wow Pow (Series 3) a small glitch can occur, where Chop Chop holds both blades in his hand.",
+    "There is also a glitch in Giants where, when striking the damage-immune portion of an Inhuman Shield enemy, Chop Chop will activate Vampiric Aura and gain health.",
+    "Twin Blade Chop Chop's artwork can be seen in the Season 1 intro of the Skylanders Academy TV series within The Book of Skylanders.",
+    "His Series 2 figure and artwork shows his sword and shield having the Demon Blade of The Underworld and Arkeyan Spectral Shield upgrades respectively, which is impossible to have simultaneously in-game.",
+    "Chop Chop's working name was originally Pandoran Elite."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Chop Chop (extended)",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Chop_Chop_(extended)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Chop Chop Preview Trailer (Slice and Dice)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Spyro%27s_Adventure_-_Chop_Chop_Preview_Trailer_(Slice_and_Dice)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure GamesCom 2011 Trailer - Chop Chop",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Spyro%27s_Adventure_GamesCom_2011_Trailer_-_Chop_Chop"
+    },
+    {
+      "name": "Meet the Skylanders Series 2 Chop Chop",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Series_2_Chop_Chop"
+    },
+    {
+      "name": "Meet the Skylanders Twin Blade Chop Chop",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Twin_Blade_Chop_Chop"
+    }
+  ],
+  "gameplay": "As a Skylander that uses sword and shield, Chop Chop can both fight and defend himself. Chop Chop can swing his sword in varying combos to attack enemies in front of him, and raising his shield will reduce damage taken from incoming attacks and reflect projectiles. After a few basic upgrades, he can perform a shield bash attack and unleash Bone Brambles that attack enemies directly in front of him for a distance. He can also upgrade his sword so that enemies defeated by it leave behind orbs that will heal him. Choosing the Vampiric Warrior path allows further upgrading to Chop Chop's Arkeyan Blade, catering towards a more aggressive if not reckless 'high risk, high reward' play style. Choosing the Undead Defender path allows further upgrading to Chop Chop's Arkeyan Shield, catering towards a more patient 'a good offense is a great defense' play style.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Chop_Chop",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Arkeyan Blade",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Chop_Chopprimarypower.png",
+        "content": "Slash away at Chop Chop's enemies with this ancient blade.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Arkeyan Shield",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/ff/Chop_Chopsecondarypower.png",
+        "content": "Hold down the button shown to protect Chop Chop from most attacks, and deflect projectiles as well.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Spiked Shield Bash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Chop_Chopbasicupgrade1.png",
+        "content": "Shield bash an enemy.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Vampiric Aura",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4c/Chop_Chopbasicupgrade2.png",
+        "content": "Sword does extra damage and Chop Chop regains health by defeating enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Shield Spartan",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Chop_Chopbasicupgrade3.png",
+        "content": "Move faster and block more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Bone Brambler",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b9/Chop_Chopbasicupgrade4.png",
+        "content": "Attack enemies with damaging Bone Brambles.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Cursed Bone Brambler",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c6/Chop_Chopsoulgempower.png",
+        "content": "Bone Brambles do extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Shield Skewer",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/95/Chop_Chopwowpowpower.png",
+        "content": "Hold Attack 1 and press Attack 1 to burst forward in a mega shield bash attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "season": 3,
+        "name": "Dice and Slice!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/22/Chop_Chopwowpow2power.png",
+        "content": "Hold Attack 1 to charge up Dual Sword Mode, then release a furious, two-sword attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Vampiric Warrior",
+        "abilities": [
+          {
+            "name": "Arkeyan Combat Master",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Chop_Choppath1upgrade1.png",
+            "content": "Unleash the spinning Arkeyan Cyclone attack and Arkeyan Leap.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Arkeyan Vorpal Blade",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b0/Chop_Choppath1upgrade2.png",
+            "content": "Sword attacks do even more increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Demon Blade of the Underworld",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Chop_Choppath1upgrade3.png",
+            "content": "Swords have longer range and do maximum damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Undead Defender",
+        "abilities": [
+          {
+            "name": "Arkeyan Spectral Shield",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Chop_Choppath2upgrade1.png",
+            "content": "Absorb and release incoming damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Shield Stun Bash",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/56/Chop_Choppath2upgrade2.png",
+            "content": "Shield Bash also stuns enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Demon Shield of the Shadows",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6f/Chop_Choppath2upgrade3.png",
+            "content": "Shield Bash does extra damage... and absorbed damage is automatically released.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "chop-chop",
+      "id": "chop-chop-s1",
       "variant_name": "Chop Chop",
       "edition": "Series 1",
-      "type": "Sensei",
+      "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/5/5f/Chop_Chop_Promo.jpg",
       "attacks": [
@@ -42,8 +322,183 @@
         "Arkeyan Vorpal Blade",
         "Vampiric Aura"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300 (Max: 600)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "10"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Chop_Chop"
+    },
+    {
+      "id": "chop-chop-s2",
+      "variant_name": "Chop Chop",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Series_2_Chop_Chop.jpg",
+      "attacks": [
+        "Sword Slash",
+        "Arkeyan Shield",
+        "Spiked Shield Bash",
+        "Arkeyan Vorpal Blade",
+        "Vampiric Aura",
+        "Shield Skewer"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300 (Max: 767)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "10"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Chop_Chop"
+    },
+    {
+      "id": "twin-blade-chop-chop",
+      "variant_name": "Twin Blade Chop Chop",
+      "edition": "Series 3",
+      "type": "Core",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/93/Chop_Chops3.png",
+      "attacks": [
+        "Sword Slash",
+        "Arkeyan Shield",
+        "Spiked Shield Bash",
+        "Arkeyan Vorpal Blade",
+        "Vampiric Aura",
+        "Dice and Slice!"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300 (Max: 900)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "10"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Chop_Chop"
+    },
+    {
+      "id": "legendary-chop-chop",
+      "variant_name": "Legendary Chop Chop",
+      "edition": "Legendary",
+      "type": "Core",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/5f/Chop_Chop_Promo.jpg",
+      "attacks": [
+        "Sword Slash",
+        "Arkeyan Shield",
+        "Spiked Shield Bash",
+        "Arkeyan Vorpal Blade",
+        "Vampiric Aura"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300 (Max: 600)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "10"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Chop_Chop"
+    },
+    {
+      "id": "elite-chop-chop",
+      "variant_name": "Elite Chop Chop",
+      "edition": "Eon's Elite",
+      "type": "Eon's Elite",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/5f/Chop_Chop_Promo.jpg",
+      "attacks": [
+        "Sword Slash",
+        "Arkeyan Shield",
+        "Spiked Shield Bash",
+        "Arkeyan Vorpal Blade",
+        "Vampiric Aura"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "900 (Max: 2700)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "10"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Chop_Chop"
     }
   ]
 }
