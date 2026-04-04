@@ -4,28 +4,44 @@
   "species": "Drilla",
   "gender": "Male",
   "element": "Life",
-  "primary_game": "Skylanders: Lost IslandsMay 2014",
+  "role": "SWAP Force",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "cameos": [],
+  "world": [
+    "Drilla Empire"
+  ],
+  "description": "Builda Grilla Drilla is a construction counterpart of Grilla Drilla in Skylanders: Lost Islands. He was available on May 2014.",
+  "biography": "Builda Grilla Drilla is a construction counterpart of Grilla Drilla in Skylanders: Lost Islands. He was available on May 2014.",
+  "quote": "Builda Grilla Drilla has come to fortify Skylands!",
+  "personality": "",
+  "story": [],
+  "quotes": [],
+  "trivia": [
+    "Builda Grilla Drilla is the first Alter Ego of a non-core Skylander to be available in the Wishing Well."
+  ],
+  "trailers": [],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Builda_Grilla_Drilla",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "builda-grilla-drilla",
       "variant_name": "Builda Grilla Drilla",
       "edition": "Series 1",
       "type": "Swap Force",
-      "game": "Skylanders: Lost IslandsMay 2014",
+      "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Builda_Grilla_Drilla.jpg/revision/latest?cb=20210212005932",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Builda_Grilla_Drilla"
     }
   ]
