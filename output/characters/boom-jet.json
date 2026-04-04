@@ -4,6 +4,7 @@
   "species": "Unknown",
   "gender": "Male",
   "element": "Air",
+  "role": "SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -13,16 +14,336 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": "*Return of the Dragon King *Rift into Overdrive",
+  "cameos": [
+    "Return of the Dragon King",
+    "Rift into Overdrive"
+  ],
   "world": [
     "Billowy Cloudplains"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "No matter what Boom Jet did, he always had to be the best. He could be seen day and night above his home in the Billowy Cloudplains gunning his engines and performing daredevil maneuvers as he trained to become the best sky surfer in all of Skylands . Unfortunately, Boom Jet never had a chance to compete for the championship because a day came that changed his life forever. The Darkness had come. And with his town on the verge of being completely consumed by the ominous evil force, Boom Jet took action. Using his incredible flying skills, he raced from house to house, rescuing all of the citizens and carrying them to safety… just before The Darkness destroyed his homeland. It was then he realized the protection of Skylands was more important than personal glory, so he sought out Master Eon to offer his services to the Skylanders.",
-  "personality": "Boom Jet is a complete daredevil, convinced that he always has to be the best as what he does and can seem full of himself at times. Luckily, he's as brave as he is boastful. &#91; 4 &#93;",
-  "story": null,
+  "description": "Boom Jet is a sky surfer who is one of the SWAP Force Skylanders in Skylanders: Swap Force. He is one of the Air element. His SWAP Force Ability is Rocket.",
+  "biography": "No matter what Boom Jet did, he always had to be the best. He could be seen day and night above his home in the Billowy Cloudplains gunning his engines and performing daredevil maneuvers as he trained to become the best sky surfer in all of Skylands. Unfortunately, Boom Jet never had a chance to compete for the championship because a day came that changed his life forever. The Darkness had come. And with his town on the verge of being completely consumed by the ominous evil force, Boom Jet took action. Using his incredible flying skills, he raced from house to house, rescuing all of the citizens and carrying them to safety… just before The Darkness destroyed his homeland. It was then he realized the protection of Skylands was more important than personal glory, so he sought out Master Eon to offer his services to the Skylanders.",
+  "quote": "Bombs Away!",
+  "personality": "Boom Jet is a complete daredevil, convinced that he always has to be the best as what he does and can seem full of himself at times. Luckily, he's as brave as he is boastful.",
+  "story": [
+    {
+      "story_name": "Character Development",
+      "content": "Boom Jet's Wind Turbine attack was inspired from the wind blow attack of the scrapped Skylander, Breezewing. Alternate concepts depict him with a mustache or feline ears, somewhat reminiscent of a fox. His color scheme was originally brown and red.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Bombs away!",
+        "Perfect!",
+        "Oh, yeah!",
+        "Right on!",
+        "Cool!",
+        "Sweet!",
+        "Definitely a top flight win!",
+        "Lower the boom on you!",
+        "A high-flying victory!",
+        "Take off!",
+        "Boom time!",
+        "Flying high!",
+        "Success is mine... again!",
+        "Right on target!",
+        "Ton and done!",
+        "Jet blast!",
+        "Boom time!",
+        "Well, looks like a new course ahead!",
+        "Propelling forward!",
+        "Getting ahead!",
+        "Yeah I'll take it!",
+        "Nice haul!",
+        "Soaring to new heights!",
+        "Firing at all cylinders!",
+        "Ooo, this works well with my goggles!",
+        "Now I look even cooler!",
+        "Got to give you props for this name!",
+        "An excellent new call sign!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Boom Jet's voice actor, Roger Craig Smith, is known for his voicework of the video game character, Sonic the Hedgehog. Roger Craig Smith also does the voice of Bushwhack and Da Pinchy from Skylanders: Trap Team.",
+    "Boom Jet and Doom Stone are the only two SWAP Force Skylanders to have first names that rhyme.",
+    "He slightly resembles an NFL quarterback.",
+    "According to developer Jeremy Russo, Boom Jet totally should have been Flynn's brother.",
+    "Boom Jet is one of the few Skylanders to have 'Boom' in his name (others include Boomer, Sonic Boom, Ka-Boom, Boom Bloom and Shroomboom).",
+    "Even though Boom Jet is never seen getting off of his propeller rocket, some of the other SWAP Force Skylanders' top halves are capable of doing that with his bottom half momentarily after performing their attacks (specifically ones with melee attacks).",
+    "If you pair his top half up with Fire Kraken's bottom half, then activate The Big One', and then 'Go Long!' (don't throw the bomb), when Boom Kraken comes back down after the Big One, he should have a blue bomb instead of a red one.",
+    "He and Bomb Shell both say 'Bombs away!' Coincidentally, they are both explosion-based characters neither of the Fire nor Tech elements.",
+    "If you swap Doom Stone's top half onto Boom Jet's bottom half, you get Doom Jet, which, coincidentally, shares its name with Kaos’s signature vehicle.",
+    "On the versus screen, Boom's fur is colored light tan and his helmet light blue and white, instead of its normal coloring.",
+    "The name of Boom Jet's bottom half, 'Jet', is the shortest of all the SWAP Force's bottom halves, having only three letters.",
+    "An Awakened version of Boom Jet was leaked in Skylanders: Ring of Heroes, but he never appeared in the final game.",
+    "Among the three Skylanders whose abilities originated from the scrapped Skylander Breezewing, Boom Jet is the only one who didn't appear in the 3DS Starter pack."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Boom Jet Gameplay Vignette (Bombs Away)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Boom_Jet_Gameplay_Vignette_(Bombs_Away)"
+    },
+    {
+      "name": "Skylanders Swap Force - Boom Jet Soul Gem Preview (Bombs Away)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Boom_Jet_Soul_Gem_Preview_(Bombs_Away)"
+    }
+  ],
+  "gameplay": "Skylanders can use abilities depending on their level. Starting Powers: Rocket Bomb (Primary Attack): Press (Y) to throw a rocket bomb. Air Assault (Secondary Attack): Press (X) to call in an air strike to attack your enemies. Rocket (SWAP Force Power): Press (L) to hover in mid-air and move quickly while ignoring gravity. While using this ability, you are still vulnerable to damage and enemy attacks. Upgrades: Giant Rocket Bomb (requires level: 3): Hold (Y) to charge up a giant rocket bomb that does more damage in a larger area. Smoke Trail (requires level: 6): Sprinting (A) leaves a trail of smoke clouds that will damage and stun enemies that come in contact with it. Bombing Run (requires level: 9): Air Strike (X) will also drop rocket bombs that deal extra damage to enemies.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Boom_Jet",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Football Bomb",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7d/Boom_Jettopprimarypower.png",
+        "content": "Press Attack 1 to throw a football sized bomb.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Wind Turbine",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Boom_Jetbottomprimarypower.png",
+        "content": "Hold Attack 2 to shoot wind at nearby enemies, pushing them backwards.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Air Strike",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/52/Boom_Jettopbasicupgrade1.png",
+        "content": "Press Attack 3 to call for help from the skies. An airstrike shoots projectiles at enemies on the ground.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 300,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Tight Spiral",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5f/Boom_Jettopbasicupgrade2.png",
+        "content": "Press Attack 1 to throw a football bomb that does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Go Long!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Boom_Jettopbasicupgrade3.png",
+        "content": "Hold Attack 1 to charge a football bomb, release to throw a Super Bomb.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Mach 1",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/41/Boom_Jetbottombasicupgrade1.png",
+        "content": "Press Attack 2 two times to dash forward. Hold Attack 2 to continue bashing quickly.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 300,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Ace Pilot",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Boom_Jetbottombasicupgrade2.png",
+        "content": "Speed is increased. Tuned up with brand new turbo.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Turbulence",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4d/Boom_Jetbottombasicupgrade3.png",
+        "content": "Hold Attack 2 to shoot three homing propellers at enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Supply Drop",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Boom_Jettopsoulgempower.png",
+        "content": "Air Strike has a chance to drop health supplies if health is low.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Mach 2",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Boom_Jetbottomsoulgempower.png",
+        "content": "Your base speed is increased and a large blast damages enemies at the beginning of the dash.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Storm Bomber",
+        "abilities": [
+          {
+            "name": "Storm Bomb",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f5/Boom_Jettoppath1upgrade1.png",
+            "content": "Hold Attack 1 to charge a football bomb, release to create storm clouds where the bomb lands that shock nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Unfriendly Skies",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/66/Boom_Jettoppath1upgrade2.png",
+            "content": "Storm Bomb does increased damage. Shocking!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Squad Leader",
+        "abilities": [
+          {
+            "name": "Bombers",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Boom_Jettoppath2upgrade1.png",
+            "content": "Air Strike now drops bombs that do damage in a larger area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Tight Formation",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Boom_Jettoppath2upgrade2.png",
+            "content": "Press Attack 3 to call in an Air Strike that does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Sky Writer",
+        "abilities": [
+          {
+            "name": "Sky Writing",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/77/Boom_Jetbottompath1upgrade1.png",
+            "content": "A smoke trail is left behind while dashing that stuns and damages enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Thick Smoke",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/Boom_Jetbottompath1upgrade2.png",
+            "content": "Sky Writing does increased damage and stays around longer.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Ace Gunner",
+        "abilities": [
+          {
+            "name": "Gun Ship",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Boom_Jetbottompath2upgrade1.png",
+            "content": "Press Attack 2 to shoot missiles from a powerful new mounted turret.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Rocket Fuel",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6d/Boom_Jetbottompath2upgrade2.png",
+            "content": "New turret designs make Gun Ship do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "boom-jet",
@@ -38,7 +359,28 @@
         "Mach 1",
         "Storm Bomb"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260 (max. 520)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6 (max. 56)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Boom_Jet"
     }
   ]
