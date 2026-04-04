@@ -1,319 +1,48 @@
 {
-  "id": "bumble-blast",
-  "name": "Bumble Blast",
-  "species": "Anthropomorphic Beehive",
+  "id": "builda-grilla-drilla",
+  "name": "Builda Grilla Drilla",
+  "species": "Drilla",
   "gender": "Male",
   "element": "Life",
-  "role": "Core Skylander",
-  "primary_game": "Skylanders: Swap Force",
+  "role": "SWAP Force",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
-    "Skylanders: Swap Force",
-    "Skylanders: Trap Team",
-    "Rift into Overdrive",
-    "Skylanders: SuperChargers (Racing)",
-    "Skylanders: Imaginators"
+    "Skylanders: Lost Islands"
   ],
-  "cameos": [
-    "Stump Smash Crosses the Bone Dragon"
-  ],
+  "cameos": [],
   "world": [
-    "Radiant Mountains"
+    "Drilla Empire"
   ],
-  "description": "Bumble Blast is a living, anthropomorphic beehive who is one of the core Skylanders in Skylanders: Swap Force. He is of the Life element, and is available in the Fiery Forge Battle Pack and in a single pack. He has a Christmas version called Jolly Bumble Blast who is available in a single pack.",
-  "biography": "Bumble Blast started life as a humble beehive in the Radiant Mountains, where for ages the bees made the most sweetest, most magical honey in all of Skylands. When Kaos heard about this \"super honey\", he wanted all of it for himself and soon launched an attack on the peaceful Bees. But when his minions arrived to plunder everything the bees had created, they were met by Bumble Blast. He alone had been home to the bees and considered himself their protector. Using the power of the magic honey, Bumble Blast valiantly battled the evil minions, who felt his powerful sting that day. Afterward, Bumble Blast roamed Skylands as a protector of nature, where he soon joined with the Skylanders.",
-  "quote": "The Perfect Swarm!",
-  "personality": "Protective to the extreme, Bumble Blast defends all wildlife, not just his beloved bees. He places himself in danger to defend others.",
-  "story": [
-    {
-      "story_name": "History",
-      "content": "Bumble Blast was an ordinary beehive that resided in the Radiant Mountains and was home to the bees that created the most sweetest and magical honey in Skylands for centuries. Unfortunately this caught the attention of Kaos, who wanted all of the honey for himself. He sent his minions to steal it, only for them to discover an angry beehive who was brought to life by the bee's magical honey. Bumble Blast was in no rush to give up the honey and made sure that the minions had a sting in their tails that day. He soon joined the ranks of the Skylanders and afterwards, became a protector of nature.",
-      "hasImage": false,
-      "imgPath": ""
-    },
-    {
-      "story_name": "Stump Smash Crosses the Bone Dragon",
-      "content": "Bumble Blast was one of the assembled Skylanders who attempted to fight against the rampaging Bone Dragon in the Giggling Forest, but was turned to stone. He was returned to normal when the Dragon agreed to un-freeze the petrified present characters.",
-      "hasImage": false,
-      "imgPath": ""
-    }
-  ],
-  "quotes": [
-    {
-      "quote_type": "Battle Cries",
-      "content": [
-        "The Perfect Swarm!",
-        "Buzz off!",
-        "Hive and seek!",
-        "Now that was a blast!",
-        "Piece of cake!",
-        "Going up!",
-        "Up high!",
-        "Payday!",
-        "Here we go!",
-        "More power!",
-        "Too easy!",
-        "Power Blast!",
-        "Let's check this place out!",
-        "Don't mind if I do!",
-        "Looking good!",
-        "Big and mighty.",
-        "Oh I look good!",
-        "A real tree-topper!",
-        "Big name for a big tree!",
-        "Sweet name..sorta",
-        "Beware the buzz!",
-        "You've barked up the wrong tree!"
-      ]
-    }
-  ],
+  "description": "Builda Grilla Drilla is a construction counterpart of Grilla Drilla in Skylanders: Lost Islands. He was available on May 2014.",
+  "biography": "Builda Grilla Drilla is a construction counterpart of Grilla Drilla in Skylanders: Lost Islands. He was available on May 2014.",
+  "quote": "Builda Grilla Drilla has come to fortify Skylands!",
+  "personality": "",
+  "story": [],
+  "quotes": [],
   "trivia": [
-    "He, Swarm and Hot Dog are the only Skylanders with bee related moves.",
-    "His 'Beezooka' slightly resembles the Beeshooter from Plants vs. Zombies Adventures. Although his upgrade descriptions say that his 'Beezooka' shoots bees, the insects that he shoots sting more than once so it is more likely that he shoots wasps or hornets.",
-    "In his character trailer, there is an error in which the symbol for the Earth element appears next to his name instead of the Life element.",
-    "His catchphrase, 'The Perfect Swarm', might be a play on The Perfect Storm.",
-    "He is voiced by David Sobolov, who voices Depth Charge in Beast Wars, Shockwave in Transformers Prime and Lobo in Young Justice and Injustice: Gods Among Us. He also voices Krypt King and the Stone Heads in Skylanders: Trap Team.",
-    "He shares some battle cries with Swarm.",
-    "He and Shroomboom share many similarities with each other: they're both Life element characters, they both use a projectile weapon, they both have a LightCore version, and they are both first available in a battle pack.",
-    "He shares similarities to Zook, as they are both plant-like creatures who are part of the Life element and wield bazooka-based weapons.",
-    "Even though Bumble Blast is shown to be right-handed, in his Soul Gem preview, he is holding his beezooka in his left hand. He may be ambidextrous.",
-    "Bumble Blast's personal quest is named 'Not the Bees!', referencing the remake of 'The Wicker Man'.",
-    "One of his quotes is a reference to the idiom 'barking up the wrong tree'.",
-    "If an Evilized Enemy is defeated while honeyed by Bumble Blast, the freed creature will continue to be honeyed, remaining yellow and moving slowly through its animations."
+    "Builda Grilla Drilla is the first Alter Ego of a non-core Skylander to be available in the Wishing Well."
   ],
-  "trailers": [
-    {
-      "name": "Meet the Skylanders Bumble Blast",
-      "isValid": true,
-      "url": "/wiki/File:Meet_the_Skylanders_Bumble_Blast"
-    },
-    {
-      "name": "Skylanders Swap Force - Bumble Blast Soul Gem Preview (The Perfect Swarm)",
-      "isValid": true,
-      "url": "/wiki/File:Skylanders_Swap_Force_-_Bumble_Blast_Soul_Gem_Preview_(The_Perfect_Swarm)"
-    },
-    {
-      "name": "Meet the Skylanders LightCore Bumble Blast",
-      "isValid": true,
-      "url": "/wiki/File:Meet_the_Skylanders_LightCore_Bumble_Blast"
-    }
-  ],
-  "gameplay": "Any unit that does not have abilities to run or dodge will feel his sting. Just cover them with honey and let the bees do their work.",
-  "wiki_url": "https://skylanders.fandom.com/wiki/Bumble_Blast",
+  "trailers": [],
+  "gameplay": "",
+  "wiki_url": "https://skylanders.fandom.com/wiki/Builda_Grilla_Drilla",
   "abilities": {
-    "basic": [
-      {
-        "name": "Beezooka",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Builda_Grilla_Drilla_Transparent.png/revision/latest/scale-to-width-down/185?cb=20210924033312",
-        "content": "Press Attack 1 to shoot honey homing bees at enemies.",
-        "is_primary": true,
-        "is_secondary": false,
-        "price": 0,
-        "colors": {
-          "header": "#4D5",
-          "bg_content": "#BFB"
-        }
-      },
-      {
-        "name": "Honey Glob",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/AirSymbolSkylanders.png/revision/latest/scale-to-width-down/18?cb=20160925223423",
-        "content": "Press Attack 2 to shoot a big ball of honey that will coat enemies in honey when hit.",
-        "is_primary": false,
-        "is_secondary": true,
-        "price": 0,
-        "colors": {
-          "header": "#4D5",
-          "bg_content": "#BFB"
-        }
-      }
-    ],
-    "basic_upgrades": [
-      {
-        "name": "Honey Beecon",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/98/DarkSymbolSkylanders.png/revision/latest/scale-to-width-down/18?cb=20160925223430",
-        "content": "Bees will always target and attack enemies coated in honey.",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 500,
-        "colors": {
-          "header": "#4D5",
-          "bg_content": "#BFB"
-        }
-      },
-      {
-        "name": "Hungry Bees",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/98/DarkSymbolSkylanders.png/revision/latest/scale-to-width-down/18?cb=20160925223430",
-        "content": "Bees deal increased damage against honeyed targets.",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 700,
-        "colors": {
-          "header": "#4D5",
-          "bg_content": "#BFB"
-        }
-      },
-      {
-        "name": "Hive Mine",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f8/EarthSymbolSkylanders.png/revision/latest/scale-to-width-down/18?cb=20160925223434",
-        "content": "Press Attack 3 to shoot a beehive into the ground. The hive explodes into honey when an enemy approaches it.",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 900,
-        "colors": {
-          "header": "#4D5",
-          "bg_content": "#BFB"
-        }
-      },
-      {
-        "name": "Painful Stings",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f8/EarthSymbolSkylanders.png/revision/latest/scale-to-width-down/18?cb=20160925223434",
-        "content": "Bees gain more powerful stingers, increasing their damage!",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 1200,
-        "colors": {
-          "header": "#4D5",
-          "bg_content": "#BFB"
-        }
-      }
-    ],
-    "soulgems": [
-      {
-        "name": "Bee-Pack Backpack",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/AirSymbolSkylanders.png/revision/latest/scale-to-width-down/18?cb=20160925223423",
-        "content": "Gain a beehive backpack that automatically launches bees at nearby foes.",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 4000,
-        "colors": {
-          "header": "#d04c8e",
-          "bg_content": "#BFB"
-        }
-      }
-    ],
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
     "wow_pows": [],
-    "upgrade_paths": [
-      {
-        "path_name": "Bee Keeper",
-        "abilities": [
-          {
-            "name": "Bee Armada",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/FireSymbolSkylanders.png/revision/latest/scale-to-width-down/18?cb=20160925223439",
-            "content": "Hold Attack 1 to charge the Beezooka, release to shoot three bees at once.",
-            "is_primary": false,
-            "is_secondary": false,
-            "price": 1700,
-            "colors": {
-              "header": "#4D5",
-              "bg_content": "#BFB"
-            }
-          },
-          {
-            "name": "Stirred up a Nest",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/FireSymbolSkylanders.png/revision/latest/scale-to-width-down/18?cb=20160925223439",
-            "content": "A new Beezooka now shoots even more bees that do increased damage!",
-            "is_primary": false,
-            "is_secondary": false,
-            "price": 2200,
-            "colors": {
-              "header": "#4D5",
-              "bg_content": "#BFB"
-            }
-          },
-          {
-            "name": "Queen Bee",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ee/LifeSymbolSkylanders.png/revision/latest/scale-to-width-down/18?cb=20160925223443",
-            "content": "Hold Attack 1 and charge the Beezooka even longer, release to shoot a Queen Bee that knocks enemies into the air.",
-            "is_primary": false,
-            "is_secondary": false,
-            "price": 3000,
-            "colors": {
-              "header": "#4D5",
-              "bg_content": "#BFB"
-            }
-          }
-        ]
-      },
-      {
-        "path_name": "Honey Tree",
-        "abilities": [
-          {
-            "name": "Honey Buzz Blast",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ee/LifeSymbolSkylanders.png/revision/latest/scale-to-width-down/18?cb=20160925223443",
-            "content": "Hold Attack 2 to charge a honey attack, release to shoot a honey glob that contains angry bees.",
-            "is_primary": false,
-            "is_secondary": false,
-            "price": 1700,
-            "colors": {
-              "header": "#4D5",
-              "bg_content": "#BFB"
-            }
-          },
-          {
-            "name": "Heavy Honey",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/LightSymbolSkylanders.png/revision/latest/scale-to-width-down/18?cb=20160925223446",
-            "content": "Honey attacks deal increased damage and slow enemies.",
-            "is_primary": false,
-            "is_secondary": false,
-            "price": 2200,
-            "colors": {
-              "header": "#4D5",
-              "bg_content": "#BFB"
-            }
-          },
-          {
-            "name": "Honeycomb Bark",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/LightSymbolSkylanders.png/revision/latest/scale-to-width-down/18?cb=20160925223446",
-            "content": "Armor is increased. Bark skin will sometimes drip out honey that coats enemy attackers.",
-            "is_primary": false,
-            "is_secondary": false,
-            "price": 3000,
-            "colors": {
-              "header": "#4D5",
-              "bg_content": "#BFB"
-            }
-          }
-        ]
-      }
-    ]
+    "upgrade_paths": []
   },
   "variants": [
     {
-      "id": "bumble-blast",
-      "variant_name": "Bumble Blast",
+      "id": "builda-grilla-drilla",
+      "variant_name": "Builda Grilla Drilla",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Bumble_blast.jpg",
-      "attacks": [
-        "Beezooka",
-        "Honey Glob",
-        "Honey Beecon",
-        "Bee Armada",
-        "Honey Buzz Blast"
-      ],
-      "stats": [
-        {
-          "stat_name": "Health",
-          "stat_value": "N/A"
-        },
-        {
-          "stat_name": "Speed",
-          "stat_value": "N/A"
-        },
-        {
-          "stat_name": "Armor",
-          "stat_value": "N/A"
-        },
-        {
-          "stat_name": "Critical Hit",
-          "stat_value": "N/A"
-        },
-        {
-          "stat_name": "Elemental Power",
-          "stat_value": "N/A"
-        }
-      ],
-      "wiki_url": "https://skylanders.fandom.com/wiki/Bumble_Blast"
+      "type": "Swap Force",
+      "game": "Skylanders: Lost Islands",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Builda_Grilla_Drilla.jpg/revision/latest?cb=20210212005932",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Builda_Grilla_Drilla"
     }
   ]
 }
