@@ -17,18 +17,20 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": [],
+  "cameos": [
+    "Skylanders Academy"
+  ],
   "world": [
     "Chompy Mountain"
   ],
-  "description": "The Chompy Mage is a former antagonist who first appeared as the boss of Wilikin Village in Skylanders: Giants. He is a wizard aligned with the Life element who has the ability to summon Chompies and transform into a giant Chompy. He formerly disliked anyone who isn't a Chompy, and always has a Chompy puppet on his left hand which he occasionally speaks for.",
+  "description": "The Chompy Mage is a former antagonist who first appeared as the boss of Wilikin Village in Skylanders: Giants. He is a wizard aligned with the Life element who has the ability to summon Chompies and transform into a giant Chompy. He formerly disliked anyone who isn't a Chompy, and always has a Chompy puppet on his left hand which he occasionally speaks for. His brother is the Sheep Mage.",
   "biography": "Believe it or not, the Chompy Mage actually hatched from inside a Chompy Pod. At least that is how his Chompy hand puppet tells the story. Having been raised by Chompies, it is no surprise that the old magician is a little strange. He simply grew up embracing the Chompy way - believing that Skylands would be a better place if everyone was a Chompy - an illegal enchantment which he has actually tried to perform on several occasions.",
   "quote": "Chompy Power!",
   "personality": "The Chompy Mage is obsessed with Chompies, so much that he dresses like one and formerly didn't like anyone who isn't a Chompy. Aside from that, he also appeared to have little to no respect for others but his own allies, constantly annoying Flynn until he warmed up to him during the credits of Giants. However, after becoming a Doom Raider, the Chompy Mage showed great respect towards his fellow villains, not intending to turn them into Chompies, knowing that doing so would anger them greatly. He's also convinced he is a natural singer, though other characters believe otherwise. His Chompy puppet appears to be a split personality or have a mind of its own occasionally, rather childish and carefree; it is seen mocking or looking away from other people during Trap Team cutscenes while the Mage appears to be paying attention to them, replying to him, and in SuperChargers staring down into another Chompy in their vehicle before the Chompy Mage shooed it away. In Battlecast, it also frequently replies to him and talks to the opponents. After his rehabilitation in Skylanders: Imaginators, the Chompy Mage still holds on to his love for Chompies, but he now believes that they should be used for good instead of evil. Additionally, he has made amends with every faculty member and Skylander at Skylanders Academy, meaning that he has buried every hatchet with his new allies and friends despite his past evildoing, but he still has some patching up to do with the Wilikins he pestered in Giants. However, he is willing to turn his enemies into Chompies only if they deserve it.",
   "story": [
     {
       "story_name": "History",
-      "content": "Believe it or not, the Chompy Mage actually hatched from inside a Chompy Pod. At least that is how his Chompy hand puppet tells the story. Having been raised by Chompies, it is no surprise that the old magician is a little strange. He simply grew up embracing the Chompy way - believing that Skylands would be a better place if everyone was a Chompy - an illegal enchantment which he has actually tried to perform on several occasions.",
+      "content": "Believe it or not, the Chompy Mage actually hatched from inside a Chompy Pod. At least that is how his Chompy hand puppet tells the story. Having been raised by Chompies, it is no surprise that the old magician is a little strange. He simply grew up embracing the Chompy way – believing that Skylands would be a better place if everyone was a Chompy – an illegal enchantment which he has actually tried to perform on several occasions.",
       "hasImage": false,
       "imgPath": "none"
     },
@@ -36,13 +38,13 @@
       "story_name": "Skylanders: Giants",
       "content": "The Chompy Mage was on his way to the annual Chompy Convention (ChompyCon), but got lost. He didn't want to ask for directions, so he pretended like he moved to Wilikin Village on purpose. The Chompy Mage then figured he would stay there for a while, practicing his magic, and then set out for the ChompyCon next year. However, his antics proved to be a nuisance to the Wilikins, eluding the residents by switching between the real world and the Wilikin world. Eventually, the Skylander confronted the Chompy Mage and defeated him at the edge of Wilikin Village. He later appeared in the credits, conversing with Flynn.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/10/ChompyMageSG.png/revision/latest/scale-to-width-down/288?cb=20250302131825"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/10/ChompyMageSG.png/revision/latest?cb=20250302131825"
     },
     {
       "story_name": "Skylanders: Trap Team",
-      "content": "Eventually, the Chompy Mage's forbidden magic to turn others into Chompies led him to be locked up inside Cloudcracker Prison, where he met the other Doom Raiders. Of course, they all thought he was completely crazy, but the Chompy Mage can see through the eyes of any Chompy in Skylands - and having a few billion little spies can come in handy when trying to enact revenge on the Skylanders. Plus, he could secure the Chompy vote for any sort of political elections that followed. The Chompy Mage, along with the other remaining members of the Doom Raiders, were freed from Cloudcracker Prison by Kaos who attempted to assume leadership over the villainous group. The Chompy Mage was sent by the Golden Queen to locate all the Traptanium needed to create their Ultimate Weapon. He confronted the Skylanders in his hot air balloon in an effort to stop them from reaching the Chompy Mountain entrance. After freeing Mabu Defense Force member Snuckles, the Skylanders faced the Chompy Mage atop the Chompy Head Spire, and, despite his many Chompies and his imposing Chompy forms, he was defeated once again.",
+      "content": "Eventually, the Chompy Mage's forbidden magic to turn others into Chompies led him to be locked up inside Cloudcracker Prison, where he met the other Doom Raiders. Of course, they all thought he was completely crazy, but the Chompy Mage can see through the eyes of any Chompy in Skylands — and having a few billion little spies can come in handy when trying to enact revenge on the Skylanders. Plus, he could secure the Chompy vote for any sort of political elections that followed. The Chompy Mage, along with the other remaining members of the Doom Raiders, were freed from Cloudcracker Prison by Kaos who attempted to assume leadership over the villainous group. The Chompy Mage was sent by the Golden Queen to locate all the Traptanium needed to create their Ultimate Weapon. He confronted the Skylanders in his hot air balloon in an effort to stop them from reaching the Chompy Mountain entrance. After freeing Mabu Defense Force member Snuckles, the Skylanders faced the Chompy Mage atop the Chompy Head Spire, and, despite his many Chompies and his imposing Chompy forms, he was defeated once again.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e0/ChompyMage_SkylandersTrapTeam.jpg/revision/latest/scale-to-width-down/290?cb=20200619083820"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e0/ChompyMage_SkylandersTrapTeam.jpg/revision/latest?cb=20200619083820"
     },
     {
       "story_name": "Skylanders: SuperChargers",
@@ -65,24 +67,34 @@
         "'Now let's see if you can dodge some of my evil magic! Dodge, dodge, dodge...'",
         "'Oh that's it then! I am through toying with you!!!' (as the Chompy Puppet) 'Me too!'",
         "'Whuh-uh-uh-uh-uht!!!!! That's MY sneaky trick! Well let's see how you do with even MORE evil magic!' (as the Chompy Puppet) 'YEAH!'",
-        "'I think I see the problem here! I'm not in the right form to defeat you.' (as the Chompy Puppet) *'CHOMPY POWER!'"
+        "'I think I see the problem here! I'm not in the right form to defeat you.' (as the Chompy Puppet) *'CHOMPY POWER!'*"
       ]
     },
     {
       "quote_type": "Skylanders: Trap Team",
       "content": [
         "'It is I, the Chompy Mage, and you are not Chompies so I don't like you! I don't like bridges either!'",
+        "'Now don't try to move too much while I blast you! (as the Chompy Puppet) It's go time!!!'",
+        "'Ah! What's the matter Skylander, Don't like being blasted it!'",
+        "'Ah! Blasted by my own cannon not fair!'",
+        "'Not again! I am going have to fly away now but when we meet again, I will Definitely make sure not to leave any cannons around for you to shoot me with!'",
         "'It is I, the Chompy Mage, and you are still not a Chompy. So I still don't like you!' (as the Chompy Puppet) 'Let's rock!'",
-        "'How irritating! I suppose I should make this a little tougher.' (as the Chompy Puppet) 'Round 2!'"
+        "'Chompies, Chompies, Chompies!'",
+        "'More Chompies, MORE!!!'",
+        "'How irritating! I suppose I should make this a little tougher.' (as the Chompy Puppet) 'Round 2!'",
+        "'I see the problem now: I'm not using all my powers to defeat you. Instead, I have just been incrementally increasing the difficulty. Well, that's about to change!'",
+        "'Chompy Mage like to dance. He also like to stompy. But thing he loves the most, is turn everyone to Chompy.' (Stone Head description)"
       ]
     },
     {
       "quote_type": "Trap Quotes",
       "content": [
+        "'The champ of chomp!' — Villain Vault",
         "'CHOMPY POWWWWEEERRRR!!!' - entering the game",
         "'Chompy-ing at the bit!'",
         "'Mage out of the cage!'",
         "'Why do we come back here after every adventure? Seems kinda weird.'",
+        "'I'm not really a numbers guy, I'm more of a Chompy guy.' - When checking stats",
         "'Well, it's not a Chompy, but still, I'm impressed. (as the Chompy Puppet) Wooord.' - Soul Gem"
       ]
     },
@@ -91,9 +103,13 @@
       "content": [
         "'Ready, Chompy puppet? (as the puppet) Oh, it's gonna get real!' - Battle Introduction",
         "'The bigger they are, the harder they chomp!' - Jumbo Chompy Form",
+        "'Chompy power!'",
         "'Feel the burn!' - Jumbo En Fuego Form",
+        "'Chompy rage!'",
         "'Let's play it cool!' - Jumbo Frigid Form",
-        "'Mess with the Chompy, get the teeth!' - Victory"
+        "'Mess with the Chompy, get the teeth!' - Victory",
+        "'Down you go!'",
+        "'And away we go!' - when defeated"
       ]
     },
     {
@@ -102,7 +118,8 @@
         "'Hahahaha! Now that I'm a Sensei, there is nothing your Imaginators can't 'ac-chomp-lish'.' - Sensei Training Bonus",
         "'Who dares enrage the mage?!' - entering a combat area",
         "'Sky-Chi? Ha! More like Chomp-Chi!' - Sky-Chi (BoingZooka!)",
-        "'I leveled up? Oh, it feels good to be a Skylander!' - when leveling up"
+        "'I leveled up? Oh, it feels good to be a Skylander!' - when leveling up",
+        "'And what class are we Chompy Puppet? (Chompy Puppet) Bazooker!'"
       ]
     }
   ],
@@ -112,20 +129,35 @@
     "Flynn has offered to help him find a new job.",
     "The Chompy Mage is the only Doom Raider who wasn't seen in the opening cutscene of Trap Team along with the other Doom Raiders.",
     "As he appears on the Dread-Yacht's dingy during the credits of Giants, it appears that he can teleport.",
-    "The Chompy Mage is very similar to his brother or cousin, the Sheep Mage.",
-    "The Chompy Mage is voiced by Alex Ness, who is the Chief of Staff at Toys for Bob.",
-    "He and Broccoli Guy are similar in many ways: both are Life-elemental Villains, carry staffs, and are voiced by Alex Ness.",
+    "The Chompy Mage is very similar to his brother or cousin, the Sheep Mage. Both have left hand puppets of their respective animals and transform into large versions of them.",
+    "He is also similar to Clopin in The Hunchback of Notre Dame; both have puppets of their favorite things.",
+    "His magic attack is similar to the Hydra's Life elemental powers, though lacking the bugs.",
+    "The Chompy Mage is one of the four trappable villains who vaguely references the smell of mustard when captured.",
+    "The Chompy Mage is the only Doom Raider and Sensei who first appeared in Giants.",
+    "Any hat he wears is placed on his Chompy Puppet's head, instead of his own.",
+    "The Chompy Mage is voiced by Alex Ness, who is the Chief of Staff at Toys for Bob. The voice was inspired by the 1980's version of Skeletor.",
     "The upgrade 'Get Thee to a Shrubbery!' references the Knights Who Say Ni in Monty Python & The Holy Grail.",
-    "Chompy Mage's regular figure was the only Skylander to be exclusively sold online and not in stores, as part of an Amazon-exclusive 5-pack."
+    "Chompy Mage's regular figure was exclusively sold online in an Amazon-exclusive 5-pack, making it one of the rarest Senseis."
   ],
-  "trailers": [],
+  "trailers": [
+    {
+      "name": "Alex Ness Halloween Costume",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=1CFR6QDSJgI"
+    },
+    {
+      "name": "Skylanders Ice Bucket Challenge",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=z260fM_nCp8"
+    }
+  ],
   "gameplay": "Being a wizard, the Chompy Mage has the ability to summon magic that can either be harmful or heal the Skylanders; switching the worlds will reverse their properties. He also has the ability to transform into a giant Chompy, and summon Chompies with a wave of his staff. The Chompy Mage can use his staff's magic to turn anyone into a Chompy. He can also summon a forcefield to protect himself, or teleport when the time calls for it. As a giant Chompy, the Chompy Mage can release eggs that would hatch into regular Chompies or Enfuego Chompy, depending on which world they are in. He can also blow gusts of wind, and inhale to draw the Skylander towards it to bite them. In Trap Team, the Chompy Mage reveals the ability to change into his Super Magma form while in his Chompy stage. In Skylanders: Battlecast, that is extended when he also shows the ability to change his element to Water and become a Jumbo Frigid Chompy, or become a Jumbo Enfuego Chompy with the Fire element.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Chompy_Mage",
   "abilities": {
     "basic": [
       {
         "name": "Chompzooka!",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/26/Chompy_Mageprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505153552",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/26/Chompy_Mageprimarypower.png/revision/latest?cb=20170505153552",
         "content": "Press Attack 1 to shoot live Chompies out of your 'bazooka'.",
         "is_primary": true,
         "is_secondary": false,
@@ -137,7 +169,7 @@
       },
       {
         "name": "Talk to the Hand!",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/13/Chompy_Magesecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170505153558",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/13/Chompy_Magesecondarypower.png/revision/latest?cb=20170505153558",
         "content": "Press Attack 2 and the puppet screams with a burst of life flavored magic (tastes like chicken).",
         "is_primary": false,
         "is_secondary": true,
@@ -151,7 +183,7 @@
     "basic_upgrades": [
       {
         "name": "Chompy Pile!",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/13/Chompy_Magebasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505153603",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/13/Chompy_Magebasicupgrade1.png/revision/latest?cb=20170505153603",
         "content": "Press Attack 3 to transform into a pile of angry Chompies! Press the Jump Button to jump out of the pile, which will keep going for a short distance on its own.",
         "is_primary": false,
         "is_secondary": false,
@@ -163,7 +195,7 @@
       },
       {
         "name": "Staff Shot",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/70/Chompy_Magebasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505153608",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/70/Chompy_Magebasicupgrade2.png/revision/latest?cb=20170505153608",
         "content": "Press and hold Attack 1 to launch a magical exploding staff.",
         "is_primary": false,
         "is_secondary": false,
@@ -175,7 +207,7 @@
       },
       {
         "name": "A Corn!",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fa/Chompy_Magebasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505153613",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fa/Chompy_Magebasicupgrade3.png/revision/latest?cb=20170505153613",
         "content": "Talk to the Hand! now coughs up exploding acorn. Mmmm... corns!",
         "is_primary": false,
         "is_secondary": false,
@@ -187,7 +219,7 @@
       },
       {
         "name": "What a Dashing Pile!",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/48/Chompy_Magebasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170505153619",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/48/Chompy_Magebasicupgrade4.png/revision/latest?cb=20170505153619",
         "content": "Press Attack 1 to dash forward when in pile form. Pile now does more damage!",
         "is_primary": false,
         "is_secondary": false,
@@ -201,7 +233,7 @@
     "soulgems": [
       {
         "name": "Chompies to Go Please",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9d/Chompy_Magesoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505153741",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9d/Chompy_Magesoulgempower.png/revision/latest?cb=20170505153741",
         "content": "Jump then press Attack 3 while in the air to break the Chompy pile up into individual minions.",
         "is_primary": false,
         "is_secondary": false,
@@ -216,7 +248,7 @@
       {
         "season": 1,
         "name": "BoingZooka!",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Chompy_Mageskychipower.png/revision/latest/scale-to-width-down/148?cb=20170505153746",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Chompy_Mageskychipower.png/revision/latest?cb=20170505153746",
         "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power and ride the BoingZooka like a Pogo Stick!",
         "is_primary": false,
         "is_secondary": false,
@@ -233,7 +265,7 @@
         "abilities": [
           {
             "name": "Bitey Chompies!",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b3/Chompy_Magepath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505154647",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b3/Chompy_Magepath1upgrade1.png/revision/latest?cb=20170505154647",
             "content": "Chompies now latch onto enemies and chew on them for a bit.",
             "is_primary": false,
             "is_secondary": false,
@@ -245,7 +277,7 @@
           },
           {
             "name": "Giant Bitey Chompies!",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/Chompy_Magepath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505154652",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/Chompy_Magepath1upgrade2.png/revision/latest?cb=20170505154652",
             "content": "Bitey Chompies transform into Large Chompies. Large Chompies hang around longer than Bitey Chompies.",
             "is_primary": false,
             "is_secondary": false,
@@ -257,7 +289,7 @@
           },
           {
             "name": "Pile Launcher!",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Chompy_Magepath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505154656",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Chompy_Magepath1upgrade3.png/revision/latest?cb=20170505154656",
             "content": "Chompies jump out of the pile and attack enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -274,7 +306,7 @@
         "abilities": [
           {
             "name": "Get Thee to a Shrubbery!",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/20/Chompy_Magepath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505154700",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/20/Chompy_Magepath2upgrade1.png/revision/latest?cb=20170505154700",
             "content": "Acorns now spout poisonous shrubbery.",
             "is_primary": false,
             "is_secondary": false,
@@ -286,7 +318,7 @@
           },
           {
             "name": "Here Lies a Chompy",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Chompy_Magepath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505154705",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Chompy_Magepath2upgrade2.png/revision/latest?cb=20170505154705",
             "content": "Chompies now leave behind shrubbery.",
             "is_primary": false,
             "is_secondary": false,
@@ -298,7 +330,7 @@
           },
           {
             "name": "Shrubsplode!",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Chompy_Magepath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505154709",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Chompy_Magepath2upgrade3.png/revision/latest?cb=20170505154709",
             "content": "Shrubs now explode! You win Shrub, you lose Shrub.",
             "is_primary": false,
             "is_secondary": false,
@@ -314,7 +346,7 @@
   },
   "variants": [
     {
-      "id": "chompy-mage",
+      "id": "chompy-mage-sensei",
       "variant_name": "Chompy Mage",
       "edition": "Series 1",
       "type": "Sensei",
@@ -346,6 +378,40 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Chompy_Mage"
+    },
+    {
+      "id": "jingle-bell-chompy-mage",
+      "variant_name": "Jingle Bell Chompy Mage",
+      "edition": "Holiday",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/94/Chompy_Mage_Sensei_Promo.jpg",
+      "attacks": [
+        "Chompzooka!",
+        "Talk to the Hand!",
+        "Chompy Pile!",
+        "Staff Shot",
+        "Chompies to Go Please"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "300"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "200"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Jingle_Bell_Chompy_Mage"
     }
   ]
 }
