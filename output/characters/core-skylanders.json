@@ -1,29 +1,71 @@
 {
   "id": "core-skylanders",
   "name": "Core Skylanders",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "species": "Various",
+  "gender": "Various",
+  "element": "Various",
+  "role": "Playable Characters",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team"
+  ],
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Core Skylanders are basic Skylanders that don't belong to any gimmick (Giants, SWAP Force, Trap Team, SuperChargers, Senseis).",
+  "biography": "Core Skylanders are basic Skylanders that don't belong to any gimmick (Giants, SWAP Force, Trap Team, SuperChargers, Senseis). The original 32 Skylanders in Skylanders: Spyro's Adventure are notably Core Skylanders. In addition, there are 8 new Core Skylanders in Skylanders: Giants, 16 in Skylanders: Swap Force, and 18 in Skylanders: Trap Team.",
+  "quote": "Basic Skylanders that don't belong to any gimmick.",
+  "personality": "Diverse",
+  "story": [
+    {
+      "story_name": "The Core Skylanders",
+      "content": "Core Skylanders are basic Skylanders that don't belong to any gimmick (Giants, SWAP Force, Trap Team, SuperChargers, Senseis). The original 32 Skylanders in Skylanders: Spyro's Adventure are notably Core Skylanders. In addition, there are 8 new Core Skylanders in Skylanders: Giants, 16 in Skylanders: Swap Force, and 18 in Skylanders: Trap Team. Skylanders: SuperChargers and Skylanders: Imaginators do not have any new Core Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Definition",
+      "content": [
+        "Core Skylanders are basic Skylanders that don't belong to any gimmick (Giants, SWAP Force, Trap Team, SuperChargers, Senseis).",
+        "The original 32 Skylanders in Skylanders: Spyro's Adventure are notably Core Skylanders."
+      ]
+    }
+  ],
+  "trivia": [
+    "The term 'Core Skylanders' might be in reference to the fact that the original 32 Core Skylanders were known to defend the Core of Light, with other Core Skylanders like Spotlight being confirmed to have been training to defend the Core as well.",
+    "As not all Core Skylanders were known to defend the Core of Light, this could just be a coincidence."
+  ],
+  "trailers": [],
+  "gameplay": "Core Skylanders are the standard playable characters throughout the Skylanders series. Unlike specialized groups, they do not possess specific mechanical gimmicks like giant size, swappable halves, or the ability to trap villains. SuperChargers and Imaginators do not have any new Core Skylanders.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Core_Skylanders",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "core-skylanders",
-      "variant_name": "Core Skylanders",
+      "id": "core-skylanders-original",
+      "variant_name": "Original 32",
       "edition": "Series 1",
-      "type": "Sensei",
-      "game": null,
+      "type": "Core",
+      "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/12/Blades_Icon.png",
       "attacks": [],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Type",
+          "stat_value": "Core"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Core_Skylanders"
     }
   ]
