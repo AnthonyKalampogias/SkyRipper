@@ -4,21 +4,281 @@
   "species": "Mutant Plant",
   "gender": "Female",
   "element": "Life",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
-    "Abandoned Factory"
+    "Abandoned Factory",
+    "Enchanted Elven Forest"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Boom Bloom is a mutant plant who is the Life Sensei of the Ninja Battle Class in Skylanders: Imaginators. She is available in the Enchanted Elven Forest Adventure Pack and is the main character of the fourth Skylanders: Ring of Heroes Episode Dungeon, The Flower that Bloomed from Scrap.",
   "biography": "Boom Bloom was created in the laboratory of a mad scientist! After using his mutation goo to change deadwood into evil creatures, Dr. Krankcase began experimenting with live plants! But it had a much different effect. Instead of becoming subservient villains, the mutated plants instantly rebelled against their creator and tried to destroy his goo factory. Dr. Krankcase and his henchmen were able to thwart all of these insurgent plants, except for one - Boom Bloom! Her mutation gave her extraordinary Ninja skills and a thorny whip, which she used to unleash a flurry of martial arts moves that forced Dr. Krankcase to flee his own factory and vow never to experiment on plants again. Now as a Sensei of the Ninja class, she uses her incredible abilities to teach new Skylanders how to protect nature... and unleash its fury!",
+  "quote": "Rooting Out Evil!",
   "personality": "Boom Bloom is soft spoken and polite, rarely using contractions. Despite this, she's headstrong and insensitive, making rash decisions without much thought and is easily confused and embarrassed. She still retains her memories of when she was a living tree, as well as the feelings of the ones that used to be with her.",
-  "story": null,
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Boom Bloom was created in the laboratory of a mad scientist! After using his mutation goo to change deadwood into evil creatures, Dr. Krankcase began experimenting with live plants! But it had a much different effect. Instead of becoming subservient villains, the mutated plants instantly rebelled against their creator and tried to destroy his goo factory. Dr. Krankcase and his henchmen were able to thwart all of these insurgent plants, except for one - Boom Bloom! Her mutation gave her extraordinary Ninja skills and a thorny whip, which she used to unleash a flurry of martial arts moves that forced Dr. Krankcase to flee his own factory and vow never to experiment on plants again. Now as a Sensei of the Ninja class, she uses her incredible abilities to teach new Skylanders how to protect nature... and unleash its fury!",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Other Appearances",
+      "content": "Boom Bloom’s Episode Dungeon expands on her origins. As soon as Boom Bloom was reformed into her current appearance, she became overwhelmed by her newfound sense of emotions and rampaged around Dr. Krankcase’s Abandoned Factory. Skylanders Flameslinger, Food Fight, Smolderdash and Tree Rex were assigned to investigate the disturbance and discovered Boom Bloom and other plantlike creatures wrecking the lab in their attempts to get revenge on Dr. Krankcase.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Rooting Out Evil!",
+        "Hear my voice, Portal Master, for it is the voice of someone who will make your Imaginators grow strong.",
+        "And if they want to really blossom, give your Ninjas plenty of sunlight, water, and my Secret Technique.",
+        "Dear enemies, your doom is in bloom!",
+        "Success is in full bloom!",
+        "Must be the season of the whip!",
+        "Can't we all just get along?",
+        "Go green!",
+        "Got it!",
+        "Nature does not hurry, yet everything is accomplished.",
+        "The land is mine to explore!",
+        "Nature has no barriers!",
+        "Spring-time!",
+        "I have blossomed into more awesomeness!",
+        "Another step towards nirvana!",
+        "My stats continue to blossom and grow.",
+        "It's like a beautiful garden - of numbers!",
+        "Nature calls!",
+        "Blessed be!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Boom Bloom's 'hair' resembles succulent plants, a classification for plants with fleshy, thick leaves. The classification includes cacti, asparagus and aloe, which resembles the 'hair' the most with its reddish leaf tips.",
+    "Boom Bloom is the third ninja Life Skylander, after Stealth Elf and Stink Bomb.",
+    "She is also the third Life Skylander to be a mutated plant, after Tree Rex and Food Fight.",
+    "Boom Bloom and Dr. Neo Cortex are the only Senseis to not have weapons of their battle class. Though she can fire the projectiles from her pigtail leaves, her primary weapon is a whip.",
+    "Boom Bloom is one of the few Skylanders to have boom in their name.",
+    "Boom Bloom is the second life Skylander whose name contains the word \"Boom\" (the first being Shroomboom).",
+    "Coincidentally, both Bloom Boom and Shroomboom were created through a villain's efforts.",
+    "Despite the official renderings of her figure, Boom Bloom, unlike the other Senseis, has the Life element symbol on her base instead of the Ninja battle class symbol.",
+    "On the Skylanders Website, her catchphrase was in a noticeably deeper voice.",
+    "Though Boom Bloom is of the Ninja class, none of her abilities relate to throwing blades; instead, she specializes in their secondary abilities of trapping enemies and crowd control.",
+    "Boom Bloom was the last Sensei (not counting the villains) added to Ring of Heroes.",
+    "She was also the last Skylander added to Ring of Heroes before the game was announced to be rebooted.",
+    "Boom Bloom is the only Skylander to have an episode dungeon in the revamp of ROH."
+  ],
+  "trailers": [
+    {
+      "name": "Meet Master Boom Bloom Skylanders Imaginators Skylanders",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_Master_Boom_Bloom_Skylanders_Imaginators_Skylanders"
+    },
+    {
+      "name": "Skylanders Imaginators - Boom Bloom Soul Gem Preview",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Imaginators_-_Boom_Bloom_Soul_Gem_Preview"
+    }
+  ],
+  "gameplay": "Boom Bloom utilizes her thorny whip for close-range combat and her vine entwine ability to pull enemies in for crowd control. She can also deploy spore seeds that, when hit, release damaging pollen or seeking spikes, allowing for area damage and strategic trapping of foes.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Boom_Bloom",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Whip Whap",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Boom_Bloomprimarypower.png/revision/latest?cb=20170505151228",
+        "content": "Press Attack 1 to swiftly snap your whip in front of you. Combos up to four times.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Vine Entwine",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Boom_Bloomsecondarypower.png/revision/latest?cb=20170505151233",
+        "content": "Tap Attack 2 to send vines out that pull enemies in after a short time. Hold Attack 2 to have the vines go farther before grabbing enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Spore Seeds",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2e/Boom_Bloombasicupgrade1.png/revision/latest?cb=20170505151239",
+        "content": "Press Attack 3 to grow Spore Seeds that damage enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Puff of Pollen",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Boom_Bloombasicupgrade2.png/revision/latest?cb=20170505151244",
+        "content": "Whip Whap does more damage and Spore Seeds now release damaging pollen when hit.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Spore Shower",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d9/Boom_Bloombasicupgrade3.png/revision/latest?cb=20170505151249",
+        "content": "Vine Entwine now pulls Spore Seeds in for a shower of seeking spikes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Plenty of Plants",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8a/Boom_Bloombasicupgrade4.png/revision/latest?cb=20170505151255",
+        "content": "Have a total of four Spore Seeds active at a time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Petal to the Mettle",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Boom_Bloomsoulgempower.png/revision/latest?cb=20170505151258",
+        "content": "Hold Attack 1 to rev up a vine wheel that explodes into four Spore Seeds.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 0,
+        "name": "Whipper Snapper",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Boom_Bloomskychipower.png/revision/latest?cb=20170505151303",
+        "content": "The ultimate Sensei Attack! Hold Special Attack to go for a spin with a Sensei-tionally large vine. Move with Left Stick to whip your enemies into shape!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Spore Seed Specialist",
+        "abilities": [
+          {
+            "name": "Potent Pollen",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0f/Boom_Bloompath1upgrade1.png/revision/latest?cb=20170505152327",
+            "content": "When hit, Spore Seeds cover a larger area and do more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Thorn Thrasher",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/73/Boom_Bloompath1upgrade2.png/revision/latest?cb=20170505152332",
+            "content": "Whip Whap does more damage and Spore Seeds shoot seeking spikes when hit.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "In Full Bloom",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Boom_Bloompath1upgrade3.png/revision/latest?cb=20170505152337",
+            "content": "Spore Seeds can cause an explosion when they are hit enough times.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Grow Green!",
+        "abilities": [
+          {
+            "name": "Greener Grasps",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7d/Boom_Bloompath2upgrade1.png/revision/latest?cb=20170505152342",
+            "content": "Vine Entwine's pull reaches farther and does more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Spikey Situations",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c4/Boom_Bloompath2upgrade2.png/revision/latest?cb=20170505152348",
+            "content": "Vine Entwine's burrowing spikes hit wider and do more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Hungry Herbivore",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/Boom_Bloompath2upgrade3.png/revision/latest?cb=20170505152351",
+            "content": "Vine Entwine now grows a plant that explodes for each pulled Spore Seed.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "boom-bloom",
@@ -34,7 +294,44 @@
         "Potent Pollen",
         "Greener Grasps"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "320 (max. 640)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "320"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "230"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "250"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Boom_Bloom"
     }
   ]
