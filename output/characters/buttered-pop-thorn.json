@@ -4,20 +4,42 @@
   "species": "Pufferthorn",
   "gender": "Male",
   "element": "Air",
+  "role": "Skylander",
   "primary_game": "Skylanders: Lost Islands June 2014",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Buttered Pop Thorn is a movie theater counterpart of Pop Thorn in Skylanders: Lost Islands.",
+  "biography": "Buttered Pop Thorn is a movie theater counterpart of Pop Thorn in Skylanders: Lost Islands.",
+  "quote": "Buttered Pop Thorn has popped into Skylands!!",
+  "personality": "",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Buttered Pop Thorn's description",
+      "content": [
+        "“Buttered Pop Thorn has popped into Skylands!!”"
+      ]
+    }
+  ],
+  "trivia": [
+    "Buttered Pop Thorn is the first Lost Islands variant to be an Air element.",
+    "His name is a pun of the phrase \"buttered pop corn\"."
+  ],
+  "trailers": [],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Buttered_Pop_Thorn",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "buttered-pop-thorn",
@@ -27,7 +49,7 @@
       "game": "Skylanders: Lost Islands June 2014",
       "image": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Buttered_Pop_Thorn_Promo.jpg/revision/latest?cb=20140602232122",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Buttered_Pop_Thorn"
     }
   ]
