@@ -4,21 +4,279 @@
   "species": "Robot",
   "gender": "Male",
   "element": "Tech",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Chain Reaction is a Tech Sensei of the Swashbuckler Battle Class in Skylanders: Imaginators.",
   "biography": "No matter what he was doing, Chain Reaction always prided himself at being the best at it. Despite his impressive skills, though, the two chainsaw swords he regularly wielded tended to scare most people away. As a result, Chain Reaction was often lonely. But that all changed the day he witnessed a group of young dwarves getting picked on by an evil gang of ninja rats, the dwarves looked at Chain Reaction as their hero, and followed him everywhere he went. While Chain Reaction appreciated the company, he knew that he could not protect them forever, so he decided to teach them all he knew so that they could one day protect themselves. Sometime later, Master Eon heard rumors about dwarves from a small village who had successfully defended themselves against a large army of ninja rats thanks to the teachings of a great master. He knew at once that he needed to find Chain Reaction and make him a Sensei.",
-  "personality": "Chain Reaction appears to very vain and conceited, constantly complimenting himself with adjectives such as \"handsome\" and \"charming\". However, he doesn't seem to brag too much on himself unlike certain Skylanders such as Lightning Rod and Ro-Bow , always remaining noble and humble when around others.",
-  "story": null,
+  "quote": "The Saw is Law!",
+  "personality": "Chain Reaction appears to very vain and conceited, constantly complimenting himself with adjectives such as 'handsome' and 'charming'. However, he doesn't seem to brag too much on himself unlike certain Skylanders such as Lightning Rod and Ro-Bow, always remaining noble and humble when around others.",
+  "story": [
+    {
+      "story_name": "Physical Traits",
+      "content": "Chain Reaction is a burly, metallic gold skinned humanoid with a beard made of chainsaw teeth that reaches to the top of his back, metal teeth, and beady, green featureless eyes. His armor consists of a black cap with a golden gear-like kabuto crest with shoulder guards, leg guards and arm guards, orange metallic shoes, and as well as black garbs with the symbol of the Tech element on the back and the signature golden Sensei belt. His weapons are two identical sword shaped chainsaws.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/89/Chain_Reaction_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161112054955"
+    },
+    {
+      "story_name": "Personality",
+      "content": "Chain Reaction appears to very vain and conceited, constantly complimenting himself with adjectives such as 'handsome' and 'charming'. However, he doesn't seem to brag too much on himself unlike certain Skylanders such as Lightning Rod and Ro-Bow, always remaining noble and humble when around others.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "No matter what he was doing, Chain Reaction always prided himself at being the best at it. Despite his impressive skills, though, the two chainsaw swords he regularly wielded tended to scare most people away. As a result, Chain Reaction was often lonely. But that all changed the day he witnessed a group of young dwarves getting picked on by an evil gang of ninja rats, the dwarves looked at Chain Reaction as their hero, and followed him everywhere he went. While Chain Reaction appreciated the company, he knew that he could not protect them forever, so he decided to teach them all he knew so that they could one day protect themselves. Sometime later, Master Eon heard rumors about dwarves from a small village who had successfully defended themselves against a large army of ninja rats thanks to the teachings of a great master. He knew at once that he needed to find Chain Reaction and make him a Sensei.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "'The Saw is Law!'",
+        "'To make your Imaginators super-studs like me, all they have to do is train with the chain!' - Sensei Training Bonus",
+        "'And if you have a Swashbuckler, I'll cut'em a deal, and a sweet Secret Technique.' - Secret Technique Bonus",
+        "'Ladies love a music man!' - ringing a Battle Gong",
+        "'Rrev it up!'",
+        "'The more the merrier!' - summoning an Invention",
+        "'Join the party!'",
+        "'Take that!'",
+        "'Don't let these good looks fool you, I mean business!' - after a battle",
+        "'What can I say, I'm a super-stud!'",
+        "'If only I could do this well with the ladies...!'",
+        "'Make way for the Stud Muffin!'",
+        "'I got game!'",
+        "'Lookin' good out there!'",
+        "'Bouncy bouncy!'",
+        "'There's just more of me to love!' - leveling up",
+        "'Cool, now I just need to find a date.'",
+        "'Don't forget how charming I am, too!' - checking stats",
+        "'Got to admit, I look pretty good on paper!'",
+        "'Chain mania!' - Sky-Chi - Saw and Conquer",
+        "'As powerful as I am handsome!' - End of Sky-Chi",
+        "'Let's Rrev it up!' - Swashbuckler Sensei Shrine"
+      ]
+    }
+  ],
+  "trivia": [
+    "His name is a term for a physics and chemistry phenomenon, where a reactive product or byproduct causes additional reactions to take place without extra input; this is similar to knocking down a line of dominoes.",
+    "He is the only male Swashbuckler Sensei.",
+    "He is also the only Swashbuckler Sensei without an in-game variant.",
+    "He is also the only non-villain Tech Sensei to not be part of an Adventure Pack.",
+    "When voice actor Charlie Adler, who was part of the Imaginators voice cast, was asked on social media who he voiced in the game, he responded, 'I'm not sure. I think Chain Reaction ....'."
+  ],
+  "trailers": [
+    {
+      "name": "Meet Chain Reaction l Skylanders Imaginators l Skylanders",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_Chain_Reaction_l_Skylanders_Imaginators_l_Skylanders"
+    },
+    {
+      "name": "Skylanders Imaginators - Chain Reaction Soul Gem Preview",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Imaginators_-_Chain_Reaction_Soul_Gem_Preview"
+    }
+  ],
+  "gameplay": "Chain Reaction uses dual chainsaw swords to perform rapid melee combos and can summon inventions that attack enemies. As a Sensei, he can perform the powerful Saw and Conquer Sky-Chi ability.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Chain_Reaction",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Chainsaw Combo",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Chain_Reactionprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506154221",
+        "content": "Press Attack 1 to slash. Press it thrice for a Chainsaw Combo.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Summon Invention",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/38/Chain_Reactionsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170506154230",
+        "content": "Press Attack 2 to summon an Invention. The Invention's attack speed scales with energy. This attack consumes all available energy.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Running With Chainsaws",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Chain_Reactionbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506154239",
+        "content": "Hold Attack 1 to cut through enemies while running around.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Thunderslam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Chain_Reactionbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506154248",
+        "content": "Press Attack 3 to leap into the sky and strike down at a targeted location.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Improved Energy Hoarding",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Chain_Reactionbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506154258",
+        "content": "Increases the maximum energy cap.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Overload",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Chain_Reactionbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506154307",
+        "content": "Hitting an Invention with Thunderslam causes it to explode.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Lightning God",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/Chain_Reactionsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506154314",
+        "content": "Shoots lightning down while aiming Thunderslam.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Saw and Conquer",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Chain_Reactionskychipower.png/revision/latest/scale-to-width-down/148?cb=20170506154324",
+        "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power! Drive a giant invention into you enemies! Use Left Stick to move around!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Lightning Chainsaw Combos",
+        "abilities": [
+          {
+            "name": "Charged Bolt",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Chain_Reactionpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506154638",
+            "content": "Chainsaw melee attacks create three charged bolts.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Improved Charged Bolt",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/23/Chain_Reactionpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506154646",
+            "content": "Chainsaw melee attacks create charged bolts whenever an enemy is damaged.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Chainsaw Combo Finishers",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4c/Chain_Reactionpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506154707",
+            "content": "Press Attack 1 twice, Attack 2 for a chainsaw rush combo. Or Attack 1 twice, Attack 3 for a short circuit berserker combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Manic Inventor",
+        "abilities": [
+          {
+            "name": "Maximum Energy",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Chain_Reactionpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506154715",
+            "content": "Increases the maximum energy cap.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Explosive Work",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Chain_Reactionpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506154726",
+            "content": "Inventions explode upon deactivation.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Lightning Nova",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/25/Chain_Reactionpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506154736",
+            "content": "Inventions emit electric shockwaves periodically.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "chain-reaction",
@@ -28,9 +286,30 @@
       "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/8/89/Chain_Reaction_Promo.jpg/revision/latest?cb=20161112054955",
       "attacks": [
-        "Chainsaw Combo Summon Invention Running With Chainsaws Thunderslam Overload"
+        "Chainsaw Combo",
+        "Summon Invention",
+        "Running With Chainsaws",
+        "Thunderslam",
+        "Overload"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "330"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "330"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "170"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Chain_Reaction"
     }
   ]
