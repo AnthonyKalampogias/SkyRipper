@@ -107,11 +107,19 @@
     },
     {
       "name": "Bouncer",
-      "sha": "81dc043fdf0496dacf2bb037146c7790809c94dd"
+      "sha": "....."
     },
     {
       "name": "Breeze",
       "sha": "81dc043fdf0496dacf2bb037146c7790809c94dd"
+    },
+    {
+      "name": "Buckshot",
+      "sha": ".."
+    },
+    {
+      "name": "Buddy Wrecking Ball",
+      "sha": "..."
     }
   ]
 }
