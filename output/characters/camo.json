@@ -1,9 +1,10 @@
 {
   "id": "camo",
   "name": "Camo",
-  "species": null,
+  "species": "Plant/Dragon Hybrid",
   "gender": "Male",
   "element": "Life",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -15,22 +16,284 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Return of the Dragon King",
+  "cameos": [
+    "Return of the Dragon King"
+  ],
   "world": [
     "Tree of Life"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Hatched at the roots of the Tree of Life , Camo is half-dragon, half-plant – with effervescent life energy flowing through his scaly leaves. This power allows him to cultivate fruits and vegetables at a highly-accelerated rate, which causes them to explode when they ripen. Camo’s unique gift caught the eye of Master Eon , initially because he was hungry and tried to eat a melon that exploded in his face. But upon realizing his true power, Eon convinced Camo to help the Skylanders protect their world.",
-  "personality": "Like most dragons, Camo loves a laugh. &#91; 2 &#93; He is a real prankster, with one of his favorite tricks creating fruit and vegetables that explode in your shocked face! &#91; 3 &#93; Despite his love of pranks, Camo is serious when it comes to protecting Skylands and its inhabitants.",
-  "story": null,
+  "description": "Camo is a plant/dragon hybrid core Skylander in Skylanders: Spyro's Adventure. His Series 2 counterpart is called Thorn Horn Camo.",
+  "biography": "Hatched at the roots of the Tree of Life, Camo is half-dragon, half-plant – with effervescent life energy flowing through his scaly leaves. This power allows him to cultivate fruits and vegetables at a highly-accelerated rate, which causes them to explode when they ripen. Camo’s unique gift caught the eye of Master Eon, initially because he was hungry and tried to eat a melon that exploded in his face. But upon realizing his true power, Eon convinced Camo to help the Skylanders protect their world.",
+  "quote": "Fruit Punch!",
+  "personality": "Like most dragons, Camo loves a laugh. He is a real prankster, with one of his favorite tricks creating fruit and vegetables that explode in your shocked face! Despite his love of pranks, Camo is serious when it comes to protecting Skylands and its inhabitants.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "This plant-dragon hybrid was born by the roots of the Tree of Life, and so possesses the amazing ability to speedily cultivate fruit and vegetables that explode when they are ripe (creating both an everyday eating hazard and a hilarious dinner-party prank). Master Eon found himself at the butt end of this juicy-fruit joke when he visited Camo's idyllic island. While out for a stroll, Eon spotted a perfect melon waiting to be picked. But as he bent over the scrumptious speciment, it exploded, splattering the Portal Master's robe and alarmed old face. As he wiped away the sticky seeds, Eon noticed a pair of prying eyes nearby, clearly enjoying the scene. Eventually, Camo stepped forward and introduced himself. Eon soon invited him to be a Skylander - and, on his days off, the Portal Master's personal gardener.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Fruit Punch!",
+        "Plenty of sun this way!",
+        "Off the bitter path!",
+        "Ha-cha cha!",
+        "Go green!",
+        "Hot potato!",
+        "Sccccrrrumtious victory!",
+        "Time for the harvest!",
+        "Jumping Peppers! I won!",
+        "Someone's been eating their vegatables!",
+        "Cultivating talent!",
+        "Oooh, extra shade!",
+        "Spicing things up!",
+        "Sounds exotic!",
+        "You can have your veggies, and name them too!"
+      ]
+    }
+  ],
+  "trivia": [
+    "When he's not protecting Skylands, Camo tends Eon's vegetable garden.",
+    "Camo's favorite food is exploding melons.",
+    "The peppers Camo that grow from his tail are among the hottest in all of Skylands. Only the Fire Skylander, Eruptor, has ever been able to eat a whole one. He appeared to have no lasting effects, but he did spend almost a week having to lie down in a darkened room afterwards, and he hasn't been able to look at spicy food since.",
+    "In Giants, Camo commonly says fruit and vegetable-related puns and jokes when he talks.",
+    "In Giants, Camo's melon attack grants him total invincibility while he is underground in his animation.",
+    "He, Spyro, Cynder and Whirlwind are the only four dragons originally from Spyro's Adventure to return in Swap Force.",
+    "Early Swap Force promo boxes at the time had the mistake of labeling Camo as a Series 3 character.",
+    "Camo's Wow Pow causes his vines to occasionally grow melons, however, this is not mentioned in the upgrade's description.",
+    "Camo's voice actor, André Sogliuzzo, is also the voice of Sparx (both the original and Skylanders incarnations).",
+    "Camo's name is derived from 'camouflage'."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventure - Camo Preview Trailer (Fruit Punch)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Camo_Preview_Trailer_(Fruit_Punch)"
+    },
+    {
+      "name": "Meet the Skylanders Camo (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Camo_(extended)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Camo Trailer (Fruit Punch)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Camo_Trailer_(Fruit_Punch)"
+    },
+    {
+      "name": "Skylanders Giants - Camo's Soul Gem Preview (Fruit Punch)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Camo%27s_Soul_Gem_Preview_%28Fruit_Punch%29"
+    },
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Thorn Horn Camo (Fruit Punch)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Thorn_Horn_Camo_%28Fruit_Punch%29"
+    }
+  ],
+  "gameplay": "As a result of being half plant and half dragon, Camo can quickly grow fruits and vegetables that explode when they become ripe. His standard attacks involves firing bursts of solar energy from his mouth and conjuring vines of peppers from his tail that explode like firecrackers at enemies around them. He can also grow a ring of melons around him and send them flying and exploding at surrounding enemies. His Wow Pow lets him grow exploding pumpkins that explode into smaller pumpkins.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Camo",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Sun Burst",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Camoprimarypower.png/revision/latest?cb=20120518060142",
+        "content": "Camo can blast enemies with concentrated life energy in the form of a tiny sun.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Firecracker Vines",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/67/Camosecondarypower.png/revision/latest?cb=20120518060122",
+        "content": "Conjure a vine of rapid growth and incredibly explosive bounty.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Searing Sun Blast",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/51/Camobasicupgrade1.png/revision/latest?cb=20120518060640",
+        "content": "Sun Blast does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Melon Fountain",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/be/Camobasicupgrade2.png/revision/latest?cb=20120518060713",
+        "content": "Send melons flying everywhere.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Firecracker Food",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Camobasicupgrade3.png/revision/latest?cb=20120518060757",
+        "content": "Firecracker Vines do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Vigorous Vines",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/62/Camobasicupgrade4.png/revision/latest?cb=20120518060827",
+        "content": "Firecracker Vines move quicker and further.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Orbiting Sun Shield",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Camosoulgempower.png/revision/latest?cb=20120518060202",
+        "content": "Create a Sun Blast shield.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Explosive Harvest",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/df/Camowowpowpower.png/revision/latest?cb=20160724101316",
+        "content": "Any melons can turn into explosive SUPERMELONS and launch at enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Vine Virtuoso",
+        "abilities": [
+          {
+            "name": "Martial Bounty",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/71/Camopath1upgrade1.png/revision/latest?cb=20120518061110",
+            "content": "Firecracker Vines create more exploding melons.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Peppers of Potency",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/34/Camopath1upgrade2.png/revision/latest?cb=20120518061148",
+            "content": "Firecracker Vines do even more increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Proliferation",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fc/Camopath1upgrade3.png/revision/latest?cb=20120518061424",
+            "content": "Create two Firecracker Vines at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Melon Master",
+        "abilities": [
+          {
+            "name": "Ring of Might",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Camopath2upgrade1.png/revision/latest?cb=20120518061447",
+            "content": "The Melon Fountain blasts out more melons.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Melon GMO",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Camopath2upgrade2.png/revision/latest?cb=20120518061510",
+            "content": "The Melon Fountain does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Melon Fortress",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5b/Camopath2upgrade3.png/revision/latest?cb=20120518061537",
+            "content": "Hide in the Melon Fountain, then send Melons flying.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "camo",
+      "id": "camo-s1",
       "variant_name": "Camo",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core Skylander",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/0/05/Camo_02.jpg",
       "attacks": [
@@ -40,7 +303,66 @@
         "Melon Fountain",
         "Peppers of Potency"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300 (max. 600)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "34 (max. 64)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Camo"
+    },
+    {
+      "id": "thorn-horn-camo",
+      "variant_name": "Thorn Horn Camo",
+      "edition": "Series 2",
+      "type": "Core Skylander",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Thorn_Horn_Camo.png",
+      "attacks": [
+        "Sun Burst",
+        "Firecracker Vines",
+        "Searing Sun Blast",
+        "Melon Fountain",
+        "Peppers of Potency"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300 (max. 600)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6 (max. 56)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Camo"
     }
   ]
