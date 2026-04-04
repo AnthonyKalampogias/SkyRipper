@@ -4,6 +4,7 @@
   "species": "Robot",
   "gender": "Male",
   "element": "Tech",
+  "role": "Giant",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -15,22 +16,300 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Bouncer is a Tech Skylander and one of the eight Giants in Skylanders: Giants. He also has a Legendary counterpart called Legendary Bouncer.",
   "biography": "Long ago, Bouncer was an All-Star Roboto-Ball player. But when the Arkeyan Empire destroyed his home town and discontinued the games, he was converted into a security-bot and stationed in the mines. It was there that Bouncer encountered dozens of Mabu prisoners who remembered him fondly from his playing days. He quickly became a bit of a celebrity around the mines, and it wasn't long before this new adulation convinced him that he could be just as much of a hero in life as he was on the field. Thus, he decided to join the Skylanders and take a stand against the evil, Arkeyan overlords.",
-  "personality": "While still an All-Star Roboto-Ball player, Bouncer had a big, lively personality that helped popularized the sport. Even after he no longer plays the sport of Roboto-Ball, he still holds a sense of loyalty to his Mabu fanbase, who remembered the security-bot fondly from his playing days, and Bouncer became determined to defeat the Arkeyan King , not wanting to let his fans down when they were enslaved by the Arkeyans . Despite his dynamic personality, Bouncer holds little patience to those who are extremely arrogant and little regard to what's at hand, but keeps himself from getting too upset since he considers himself a jolly robot. &#91; 1 &#93;",
-  "story": null,
+  "quote": "Deal with the Wheel!",
+  "personality": "While still an All-Star Roboto-Ball player, Bouncer had a big, lively personality that helped popularized the sport. Even after he no longer plays the sport of Roboto-Ball, he still holds a sense of loyalty to his Mabu fanbase, who remembered the security-bot fondly from his playing days, and Bouncer became determined to defeat the Arkeyan King, not wanting to let his fans down when they were enslaved by the Arkeyans. Despite his dynamic personality, Bouncer holds little patience to those who are extremely arrogant and little regard to what's at hand, but keeps himself from getting too upset since he considers himself a jolly robot.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Back in the day, Bouncer was an All-Star Roboto-Ball player, amazing his Mabu fans with his speed, accuracy and lively personality. His trick shots were famed across all of Skylands. His games were watched by thousands. Then the Arkeyans had to go and spoil everything by destroying his home town and outlawing Roboto-Ball. His fans were enslaved and sent to work in the mines. Bouncer was converted into a security robot and sent to the mines to make sure the Mabu didn't try any funny stuff. Down there in the dark, Bouncer met many Mabu who remembered his glory days on the field. Their sense of loyalty touched the hulking robot, and instead of doing the Arkeyans' dirty work, he decided to fight against them. Cheered on by his army of fans, Bouncer used his Roboto-Balls skills to free the slaves, then joined with the other Giants in the war against the Arkeyan King.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a8/Bouncer_Comic.png/revision/latest?cb=20150107063750"
+    },
+    {
+      "story_name": "Champions",
+      "content": "Bouncer was the most vocal about Blades when the young dragon's cocky and rebellious nature was threatening to ruin the mission of destroying the Machine Magus. He, Trigger Happy and Night Shift all shared doubts and concerns about Blades during a large portion of the mission until the dragon ran off to face Magus on his own. Frustrated by Blades' behavior, Bouncer considered 'shaking the scales right off' him, but was reassured by Night Shift that Blades would learn his lesson the hard way on his own. Bouncer, Night Shift and Trigger Happy came to Blades' rescue when the dragon had been overpowered by Magus and his defenses. Together as a team, the Skylanders defeated the Drow leader. Afterwards, Blades apologized for his actions and hoped to learn what it meant to be a Skylander. This earned Bouncer's respect, who then convinced Blades to keep his Legendary status as the dragon is now officially part of the Skylander's team.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/73/Bouncer_Night_Trigger_Happy.jpg/revision/latest?cb=20150128060059"
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "When Malefor was on his way to attack the Skylanders Academy, Bouncer, the Giants and other Skylanders were summoned to stop the evil dragon. The Giants managed to grab hold of the Malefor's tail to hold him down and allow their comrades to attack him all at once, but were caught off guard when the mechanical tail was also made as a weapon, allowing Malefor to knock the other Giants off-balance. Before the Skylanders can scatter, Malefor defeated them and the Giants with a single whip of his powerful tail. This allowed Malefor to absorb their powers with a crystal to make himself more powerful. Once the crystal was destroyed by Spyro, Bouncer and the other Skylanders were granted back their strength and powers.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Rift into Overdrive",
+      "content": "In response to the sky rifts appearing around Skylands, Bouncer and the other Giants were assigned to directly protect the Core of Light stationed at the Skylanders Academy in case of a direct assault. Bouncer expressed his fears and worries regarding the sky rifts that were threatening Skylands, but was calmed by Tree Rex. When Kaos captured Master Eon and demanded the Skylanders to surrender the Core of Light, Spyro sent out the Giants, who proceeded to break apart the whole island, hurling the rocky remains at the attacking airships.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Deal with the Wheel!",
+        "Oh yeah, the best there ever was!",
+        "Yeah! I'm the wheel deal!",
+        "Ha, shut down!",
+        "All systems go!",
+        "Wheel with this!",
+        "Maximum overdrive!",
+        "Go, rocket!",
+        "Rocket time!",
+        "Launch sequence!",
+        "Keep on rollin'!",
+        "Oh yeah!",
+        "All right!",
+        "Aw yeah!",
+        "Booyah!",
+        "Yeah!",
+        "Sweet!",
+        "Nice!",
+        "Burn out!",
+        "Overload!",
+        "Oh, critical mass!",
+        "Oh, show me the treasure!",
+        "Woah! Check out my stats.",
+        "Not too shabby, huh?",
+        "Aw yeah, I look good!",
+        "Aw, check this out!",
+        "Sure, change whatever you like!",
+        "Yeah, I can roll with that!"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "Yeah, that's ridiculous!",
+        "No sweat! We got your back!"
+      ]
+    }
+  ],
+  "trivia": [
+    "His name is probably based on bouncers, which are security guards for various exclusive locations.",
+    "During production of Giants, Chopper was originally going to be the Tech Giant, but as T-Rexes were more horizontal than vertical, he wouldn't fit on the Portal of Power. Eventually, the development team tried other ideas for the Tech Giant, including a Dark Arkeyan with miniguns for hands, until they created Bouncer.",
+    "Interestingly, he and Chopper both have the ability to fire missiles.",
+    "During Giants's early development, Bouncer's abilities/upgrades were differently named.",
+    "His Fingerguns resemble the hand gesture of the Oklahoma State Cowboys, as well as the gestures frequently used in the South Park episode 'Something You Can Do with Your Finger'.",
+    "He and Ninjini are the only Giants without legs.",
+    "His base is much smaller than the base of all other Giants.",
+    "Bouncer is voiced by Bumper Robinson, who also voices Bumblebee and Blitzwing in Transformers Animated, Rook Blonko and Bloxx in Ben 10: Omniverse and Falcon in 'Avengers Assemble.'",
+    "One of Bouncer's prototype color schemes has the same colors as Molten Hot Dog.",
+    "When first revealed at E3 2012, Bouncer's original biography states that he took too many hits to the head with a Roboto-Ball and decided to retire from the game, with the sport eventually fading away.",
+    "In Trap Team, Bouncer's jumping animation has been redone with him performing a backflip.",
+    "Bouncer and Eruptor are the only two Skylanders who don't sing their names near the music box in Flynn's Ship.",
+    "In the alpha version of Skylanders: Giants, Bouncer fired mini-fists instead of bouncy balls.",
+    "Bouncer's placeholder name was Robot Giant."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Giants - Bouncer Preview Trailer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Bouncer_Preview_Trailer"
+    },
+    {
+      "name": "Meet the Skylanders Bouncer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Bouncer"
+    },
+    {
+      "name": "Skylanders Giants - Bouncer's Soul Gem Preview (Deal with the Wheel)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Bouncer%27s_Soul_Gem_Preview_(Deal_with_the_Wheel)"
+    }
+  ],
+  "gameplay": "Bouncer's attacks include finger pistols, in which he shoots out some tiny bouncy balls, shoulder mounted cannons with which he fires powerful (and slow) missiles with a targeting computer, and can't move leaving him open to attack; and finally, I-Beam, where he shoots strong lasers from his eyes for close range combat, but it can overheat if used too long and it lowers his speed when using it.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Bouncer",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Fingerguns",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Bouncerprimarypower.png/revision/latest?cb=20121118021856",
+        "content": "Press the Attack 1 button to shoot rapid-fire, ricocheting bouncy balls.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Shoulder Rockets",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ac/Bouncersecondarypower.png/revision/latest?cb=20121118021957",
+        "content": "Press Attack 2 to launch rockets into the air that swiftly descend on enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "I-Beam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Bouncerbasicupgrade1.png/revision/latest?cb=20121118022116",
+        "content": "Press Attack 3 to fire concentrated laser eye beams.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Targeting Computer",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Bouncerbasicupgrade2.png/revision/latest?cb=20121118022136",
+        "content": "Hold Attack 2 to bring up a target and control where rockets land.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Machine Fingerguns",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fd/Bouncerbasicupgrade3.png/revision/latest?cb=20121118022153",
+        "content": "Press Attack 1 to repeatedly fire Fingerguns at an accelerated rate.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Cooler I-Beam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/75/Bouncerbasicupgrade4.png/revision/latest?cb=20121118022207",
+        "content": "Increases the damage of the I-Beam and reduces overheating.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Fists of Destruction",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6f/Bouncersoulgempower.png/revision/latest?cb=20121113063526",
+        "content": "While holding Attack 1, press Attack 2 to fire off rocket-powered homing fists.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Robot Rocketeer",
+        "abilities": [
+          {
+            "name": "Double Targets",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/70/Bouncerpath1upgrade1.png/revision/latest?cb=20121118022230",
+            "content": "Now target 6 enemies at a time with laser-guided rockets.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Rockets on Demand",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/Bouncerpath1upgrade2.png/revision/latest?cb=20121118022243",
+            "content": "While holding Attack 2, press Attack 1 to launch unlimited rockets.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Atomic Clouds",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Bouncerpath1upgrade3.png/revision/latest?cb=20121118022258",
+            "content": "Shoulder Rockets leave explosions that damage enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "I-Beam Supreme",
+        "abilities": [
+          {
+            "name": "Super Machine Fingerguns",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/01/Bouncerpath2upgrade1.png/revision/latest?cb=20121118030406",
+            "content": "Rate of fire for Fingerguns increases and they do more damage too.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Professionally Cool I-Beam",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Bouncerpath2upgrade2.png/revision/latest?cb=20121118030217",
+            "content": "I-Beam does even more damage yet overheats slower.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Laser Mines",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Bouncerpath2upgrade3.png/revision/latest?cb=20121118030242",
+            "content": "While holding Attack 3, press Attack 1 to drop laser mines.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "bouncer",
       "variant_name": "Bouncer",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Giant",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/e/ec/SG_Illus_Bouncer_Crop_LoRes1.jpg/revision/latest?cb=20120930202737",
       "attacks": [
@@ -40,7 +319,24 @@
         "Cooler I-Beam",
         "Machine Fingerguns"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "430 (max. 860)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60 (max. 108)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Bouncer"
     }
   ]
