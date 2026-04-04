@@ -4,7 +4,8 @@
   "species": "King Cobra",
   "gender": "Male",
   "element": "Magic",
-  "primary_game": "Skylander: Trap Team",
+  "role": "Core Skylander",
+  "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
@@ -12,23 +13,267 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Though Cobra Cadabra was an assistant to The Great Mabuni, a traveling magician that performed all over Skylands , he wanted more than anything to become a magician himself. Unfortunately, the guild of Mysteriously Mad Magic Masters of Mystery, who for centuries taught all of the greatest magicians, would not permit it. And so Mabuni decided to teach the cobra himself, even though it was forbidden. They studied everything together, from vanishing acts to snake charming. But when the guild discovered this, they sent a team of magic rabbit enforcers to punish them both. Although the beastly hares were the most powerful of their kind in Skylands, Cobra Cadabra remained brave. Playing an enchanted tune on his flute, he used what he had learned to cast a spell over the rabbits and lead them away. Upon hearing this, this guild was impressed by such a display of skill, and accepted the snake charmer as a member. Soon after, Cobra Cadabra was made a member of another group – the Skylanders!",
-  "personality": "Cobra Cadabra is a charmer, all right. He's brave too! When he plays an enchanting tune, everyone listens. Like a magician, he never reveals his secrets. &#91; 3 &#93;",
-  "story": null,
+  "description": "Cobra Cadabra is a Magic black King Cobra who was one of the Magic core Skylanders that first appeared in Skylanders: Trap Team.",
+  "biography": "Though Cobra Cadabra was an assistant to The Great Mabuni, a traveling magician that performed all over Skylands, he wanted more than anything to become a magician himself. Unfortunately, the guild of Mysteriously Mad Magic Masters of Mystery, who for centuries taught all of the greatest magicians, would not permit it. And so Mabuni decided to teach the cobra himself, even though it was forbidden. They studied everything together, from vanishing acts to snake charming. But when the guild discovered this, they sent a team of magic rabbit enforcers to punish them both. Although the beastly hares were the most powerful of their kind in Skylands, Cobra Cadabra remained brave. Playing an enchanted tune on his flute, he used what he had learned to cast a spell over the rabbits and lead them away. Upon hearing this, this guild was impressed by such a display of skill, and accepted the snake charmer as a member. Soon after, Cobra Cadabra was made a member of another group – the Skylanders!",
+  "quote": "Charmed and Ready!",
+  "personality": "Cobra Cadabra is a charmer, all right. He's brave too! When he plays an enchanting tune, everyone listens. Like a magician, he never reveals his secrets.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "Cobra Cadabra was an assistant to The Great Mabuni, a traveling magician. Despite the guild of Mysteriously Mad Magic Masters of Mystery forbidding it, Mabuni taught the cobra magic. When the guild sent magic rabbit enforcers to punish them, Cobra Cadabra bravely used his enchanted flute to lead them away. Impressed, the guild accepted him, and he eventually joined the Skylanders.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Cobra_Cadabra_Promo.jpg/revision/latest?cb=20141001165633"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Charmed and Ready!",
+        "You're hissstory!",
+        "Bask in my glory!",
+        "Ssso far, ssso good.",
+        "Spring ahead!",
+        "Winding through!",
+        "Slither hither!",
+        "Snake attack!",
+        "Snake shot!",
+        "Strike a chord!",
+        "You just got played",
+        "A slithering success!",
+        "Hitting all the notes!",
+        "Tuning in!",
+        "This looks charming.",
+        "A champion by any stretch!",
+        "A snake in the grassss!",
+        "Sssso far, sssso good!",
+        "Charmed...and dangerous!",
+        "A basketful of treasure!",
+        "Treasure on a grand scale!",
+        "Scaling up!",
+        "Tune up!",
+        "My stats are creeping up.",
+        "On a scale of one to ten, I'm an eleven!",
+        "A sleek new look for me!",
+        "Urgh, I look like a...basket case!",
+        "An enchanting new name!",
+        "This name sounds a bit out of tune..."
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the second snake Skylander in the series, after Rattle Shake and before Pit Boss. He is currently the only snake Skylander who is not in the Undead element.",
+    "Cobra Cadabra's name is a play on the magic word 'Abracadabra.'",
+    "His eyes constantly shrink and grow, a reference to snake hypnotism.",
+    "He is one of the few playable characters to use a musical instrument as a weapon. Additionally, each of the characters' weapons come from the four main instrument groups; Cobra Cadabra's flute: Woodwinds, Wolfgang's bone harp: Strings, Fiesta's trumpet: Brass, and Donkey Kong's bongo drums: Percussion.",
+    "Oddly, Cobra Cadabra does not hiss whenever he says the letter 'S.' As of Imaginators, he is the only snake character to not do so.",
+    "Not counting the variants, guests or SuperCharger versions of previous Skylanders, Cobra Cadabra has the highest amount of syllables in his name, specifically five.",
+    "Cobra Cadabra is bugged in Trap Team so that, if a cinematic or dialogue scene interrupts him while playing the flute, he will remain in his flute-playing position until the attack is used again.",
+    "If Cobra Cadabra is wearing a trinket which goes in his mouth, when he goes to play his flute, the trinket will temporarily disappear, only to reappear when he finishes playing.",
+    "In SuperChargers and Imaginatiors, when he plays his snake charmer's solo, his flute tune and music sounds different from how it did in Trap Team."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Cobra Cadabra",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Cobra_Cadabra"
+    },
+    {
+      "name": "Skylanders Trap Team - Cobra Cadabra's Soul Gem Preview (Charmed and Ready)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Cobra_Cadabra%27s_Soul_Gem_Preview_(Charmed_and_Ready)"
+    }
+  ],
+  "gameplay": "Cobra Cadabra can play his magical pungi flute, which launches magic notes that attack his enemies, or cast various spells through songs, one can put enemies under his control. His secondary attack allows him to launch cobra baskets which have cobra allies to attack his enemies. His third attack lets Cobra Cadabra launch himself out of his basket which damages enemies in his way, and land into other cobra baskets.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Cobra_Cadabra",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Magic Flute",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Cobra_Cadabraprimarypower.png/revision/latest?cb=20141221085107",
+        "content": "Press Attack 1 to magically blast enemies with your Magic Pungi Flute.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Cobra Basket",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Cobra_Cadabrasecondarypower.png/revision/latest?cb=20141221085240",
+        "content": "Press Attack 2 to lob Cobra Baskets, which damage nearby enemies to the beat.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Keep The Beat!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/Cobra_Cadabrabasicupgrade1.png/revision/latest?cb=20141221085603",
+        "content": "Magic Flute attack does more damage when played to the beat of the music.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Launch Cobra!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/02/Cobra_Cadabrabasicupgrade2.png/revision/latest?cb=20141221090020",
+        "content": "Press Attack 3 to launch forward out of the basket, damaging anything in your path.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Basket Party",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Cobra_Cadabrabasicupgrade3.png/revision/latest?cb=20141221090136",
+        "content": "Can have up to 10 Cobra Baskets active at once.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Pungi Power",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e9/Cobra_Cadabrabasicupgrade4.png/revision/latest?cb=20141221090240",
+        "content": "Magic Flute attack travels further and does more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Big Basket Bomb",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Cobra_Cadabrasoulgempower.png/revision/latest?cb=20170506013812",
+        "content": "Press Attack 3 to launch into active Cobra Baskets to create a massive explosion.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Concerto Cobra",
+        "abilities": [
+          {
+            "name": "Reverb Riff",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Cobra_Cadabrapath1upgrade1.png/revision/latest?cb=20170506013726",
+            "content": "Magic Flute music notes bounce off walls and enemies and can do extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Ultimate Flute Rock",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Cobra_Cadabrapath1upgrade2.png/revision/latest?cb=20170506013731",
+            "content": "Magic Flute attack does maximum damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Snake Charmer's Solo",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Cobra_Cadabrapath1upgrade3.png/revision/latest?cb=20170506013737",
+            "content": "Hold Attack 1 to play an enchanting song that charms enemies to fight for your cause.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Master of Baskets",
+        "abilities": [
+          {
+            "name": "Basket Quintet",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Cobra_Cadabrapath2upgrade1.png/revision/latest?cb=20170506013745",
+            "content": "Throw five Cobra Baskets at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Call and Response",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Cobra_Cadabrapath2upgrade2.png/revision/latest?cb=20170506013751",
+            "content": "Shoot Cobra Baskets with your Magic Flute to power them up.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "A Tisket, A Tasket",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Cobra_Cadabrapath2upgrade3.png/revision/latest?cb=20170506013757",
+            "content": "Hold Attack 2 to detonate all active Cobra Baskets.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "cobra-cadabra",
       "variant_name": "Cobra Cadabra",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": "Skylander: Trap Team",
+      "type": "Core",
+      "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Cobra_Cadabra_Promo.jpg/revision/latest?cb=20141001165633",
       "attacks": [
         "Magic Flute",
@@ -37,7 +282,28 @@
         "Reverb Riff",
         "Basket Quintet"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "36"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Cobra_Cadabra"
     }
   ]
