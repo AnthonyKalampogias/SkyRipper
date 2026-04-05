@@ -4,26 +4,126 @@
   "species": "Kong",
   "gender": "Male",
   "element": "Life",
+  "role": "Dark Edition SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Donkey Kong Island"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Dark Turbo Charge Donkey Kong is the Dark counterpart of Turbo Charge Donkey Kong in Skylanders: SuperChargers. His signature vehicle is the Dark Barrel Blaster.",
+  "biography": "Dark Turbo Charge Donkey Kong is the Dark counterpart of Turbo Charge Donkey Kong in Skylanders: SuperChargers. His signature vehicle is the Dark Barrel Blaster.",
+  "quote": "It's on like Donkey Kong!",
+  "personality": "As a Dark SuperCharger, he possesses a more intense and brooding nature compared to his standard counterpart, while retaining his legendary strength and loyalty.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Dark Turbo Charge Donkey Kong is the Dark counterpart of Turbo Charge Donkey Kong in Skylanders: SuperChargers. Having been infused with Dark Rift Engines, he possesses enhanced abilities and a signature vehicle known as the Dark Barrel Blaster.",
+      "hasImage": true,
+      "imgPath": "Dark_Donkey_Kong_Art.jpg"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "It's on like Donkey Kong!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Dark Turbo Charge Donkey Kong is the Dark counterpart of Turbo Charge Donkey Kong.",
+    "His signature vehicle is the Dark Barrel Blaster.",
+    "He was released as part of the Wii U Dark Edition Starter Pack for Skylanders: SuperChargers.",
+    "As a guest character, he is only playable on Nintendo platforms."
+  ],
+  "trailers": [
+    {
+      "name": "Dark Turbo Charge Donkey Kong Character Trailer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Dark_Turbo_Charge_Donkey_Kong"
+    }
+  ],
+  "gameplay": "Dark Turbo Charge Donkey Kong uses a combination of brute strength and barrel-based attacks to overcome his foes. He can transition into his Super Donkey Kong form for increased power and utilizes Bongo Barrels for area-of-effect damage.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Turbo_Charge_Donkey_Kong",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Primate Punch",
+        "imgPath": "Primate_Punch.png",
+        "content": "DK delivers a powerful punch to enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#2C3",
+          "bg_content": "#4D5"
+        }
+      },
+      {
+        "name": "Barrel Toss",
+        "imgPath": "Barrel_Toss.png",
+        "content": "Throws a barrel at enemies that explodes on impact.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#2C3",
+          "bg_content": "#4D5"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Bongo Barrel",
+        "imgPath": "Bongo_Barrel.png",
+        "content": "Release a barrel that creates a musical shockwave.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#2C3",
+          "bg_content": "#4D5"
+        }
+      },
+      {
+        "name": "Super Donkey Kong",
+        "imgPath": "Super_Donkey_Kong.png",
+        "content": "Transform into a more powerful version of Donkey Kong.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#2C3",
+          "bg_content": "#4D5"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Barrels of Fun",
+        "imgPath": "Barrels_of_Fun.png",
+        "content": "A massive barrel attack that causes widespread damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#2C3",
+          "bg_content": "#4D5"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "dark-turbo-charge-donkey-kong",
+      "id": "dark-turbo-charge-donkey-kong-variant-1",
       "variant_name": "Dark Turbo Charge Donkey Kong",
-      "edition": "Series 1",
+      "edition": "Dark Edition",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Dark_Donkey_Kong_Art.jpg/revision/latest?cb=20150909223339",
@@ -34,7 +134,24 @@
         "Super Donkey Kong",
         "Barrels of Fun"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "300"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "230"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Turbo_Charge_Donkey_Kong"
     }
   ]
