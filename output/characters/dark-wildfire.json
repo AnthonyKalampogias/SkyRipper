@@ -4,28 +4,53 @@
   "species": "Lion",
   "gender": "Male",
   "element": "Fire",
+  "role": "Dark Edition Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Dark Wildfire is the dark version of Wildfire from Skylanders: Trap Team.",
   "biography": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium – which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it – combining the dark power with their own to fight Kaos and the forces of evil.",
-  "personality": null,
-  "story": null,
+  "quote": "Bringing The Heat!",
+  "personality": "",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Bringing The Heat!"
+      ]
+    }
+  ],
+  "trivia": [],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Dark Wildfire",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Dark_Wildfire"
+    }
+  ],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Wildfire",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "dark-wildfire",
       "variant_name": "Dark Wildfire",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Dark Edition",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/8/83/Dark_Wildfire_Promo.jpg/revision/latest?cb=20140721141923",
       "attacks": [
@@ -35,7 +60,44 @@
         "Burning Bash",
         "Lots of Chains"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "???"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "240"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "100"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Wildfire"
     }
   ]
