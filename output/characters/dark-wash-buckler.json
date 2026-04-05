@@ -50,7 +50,68 @@
   "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Wash_Buckler",
   "abilities": {
-    "basic": [],
+    "basic": [
+      {
+        "name": "Sword Slash",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      },
+      {
+        "name": "Bladesail",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      },
+      {
+        "name": "Bubble Blaster",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      },
+      {
+        "name": "Somersaulty",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      },
+      {
+        "name": "Octolash",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      }
+    ],
     "basic_upgrades": [],
     "soulgems": [],
     "wow_pows": [],
