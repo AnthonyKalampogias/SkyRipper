@@ -4,21 +4,116 @@
   "species": "Living Gold Statue",
   "gender": "Female",
   "element": "Earth",
+  "role": "Dark Edition Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "The Golden Desert"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Dark Golden Queen is the Dark counterpart of the Golden Queen in Skylanders: Imaginators. She is included in the Dark Edition of Imaginators, along with Dark King Pen and Dark Wolfgang, and a Dark Doom Raider boss in Skylanders: Ring of Heroes.",
+  "biography": "Dark Golden Queen is the Dark counterpart of the Golden Queen in Skylanders: Imaginators. She is included in the Dark Edition of Imaginators, along with Dark King Pen and Dark Wolfgang, and a Dark Doom Raider boss in Skylanders: Ring of Heroes.",
+  "quote": "All that glitters is gold!",
+  "personality": "As a Dark counterpart to the Golden Queen, she likely shares her original's authoritative and greedy personality, but is manifested through the rare medium of black gold.",
+  "story": [
+    {
+      "story_name": "Origin",
+      "content": "Dark Golden Queen is the Dark counterpart of the Golden Queen in Skylanders: Imaginators. She is included in the Dark Edition of Imaginators, along with Dark King Pen and Dark Wolfgang, and a Dark Doom Raider boss in Skylanders: Ring of Heroes.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Dark_Golden_Queen_Artwork.jpg/revision/latest?cb=20160914205613"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "All that glitters is gold!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Dark Golden Queen is made of black gold; though it's not naturally found in real life, black gold can be obtained by a process in jewelry by various methods, including cobalt alloys or altering its surface.",
+    "This would mean that Dark Golden Queen, unlike the regular one, cannot be 24 karats, as she is not made of pure gold.",
+    "She is the second Dark counterpart that belongs to the Earth element, the first being Dark Slobber Tooth.",
+    "She, Dark Stealth Elf and Dark Super Shot Stealth Elf are the only dark edition counterparts of female Skylanders.",
+    "She is the only one of the three that is not a version of Stealth Elf."
+  ],
+  "trailers": [],
+  "gameplay": "In Skylanders: Imaginators, Dark Golden Queen possesses the same moveset as the standard Golden Queen. While she has specific Power Stats including Strength (80), Defense (200), Agility (150), and Luck (320), it is noted that these are for completeness and not actively used in the gameplay statistics.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Golden_Queen",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Winged Scarabs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Dark_Golden_Queen_Artwork.jpg/revision/latest?cb=20160914205613",
+        "content": "A primary attack where the Queen unleashes Winged Scarabs.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#568"
+        }
+      },
+      {
+        "name": "Golden Shockwave",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Dark_Golden_Queen_Artwork.jpg/revision/latest?cb=20160914205613",
+        "content": "A secondary attack that creates a Golden Shockwave to repel enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#568"
+        }
+      },
+      {
+        "name": "Royal Guard",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Dark_Golden_Queen_Artwork.jpg/revision/latest?cb=20160914205613",
+        "content": "A defensive move involving a Royal Guard.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#568"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Golden Opportunity",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Dark_Golden_Queen_Artwork.jpg/revision/latest?cb=20160914205613",
+        "content": "An upgrade that provides a Golden Opportunity for increased damage or wealth.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#568"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Royal Treatment",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Dark_Golden_Queen_Artwork.jpg/revision/latest?cb=20160914205613",
+        "content": "The ultimate attack providing the Royal Treatment to all foes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#568"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "dark-golden-queen",
@@ -34,7 +129,24 @@
         "Golden Opportunity",
         "Royal Treatment"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "320"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Golden_Queen"
     }
   ]
