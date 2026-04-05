@@ -4,6 +4,7 @@
   "species": "Unknown",
   "gender": "Female",
   "element": "Magic",
+  "role": "Core Slylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -13,22 +14,269 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "On a remote island in Skylands , Déjà Vu tirelessly worked on a machine that would make the perfect three-minute egg in half the time. After pouring over countless magic tomes, and even consulting the lost plans used to create the legendary Tower of Time , she finally completed construction of the huge machine. Unfortunately, a gang of evil giant sea slugs, searching for a way to acquire super speed, learned of her machine and set about to take it at all costs. Slow, but well armed, the massive slugs bore down on the island. But rather than allow her work be used for evil, Déjà Vu quickly jumped into action and set the clock’s hands to thirteen – causing a time overload. Caught up in the blast, she was given an amazing power over time, which she then used to stop the evil slugs in their tracks and spin them home. Now as a Skylander, Déjà Vu uses her incredible powers to turn back the clock on evil!",
-  "personality": "Déjà Vu has one of those personalities that makes think you might have met her before. &#91; 2 &#93;",
-  "story": null,
-  "wiki_url": "https://skylanders.fandom.com/wiki/D%C3%A9j%C3%A0_Vu",
+  "description": "Déjà Vu is one of the Magic core Skylanders in Skylanders: Trap Team. She is released in the Mirror of Mystery adventure pack.",
+  "biography": "On a remote island in Skylands, Déjà Vu tirelessly worked on a machine that would make the perfect three-minute egg in half the time. After pouring over countless magic tomes, and even consulting the lost plans used to create the legendary Tower of Time, she finally completed construction of the huge machine. Unfortunately, a gang of evil giant sea slugs, searching for a way to acquire super speed, learned of her machine and set about to take it at all costs. Slow, but well armed, the massive slugs bore down on the island. But rather than allow her work be used for evil, Déjà Vu quickly jumped into action and set the clock's hands to thirteen – causing a time overload. Caught up in the blast, she was given an amazing power over time, which she then used to stop the evil slugs in their tracks and spin them home. Now as a Skylander, Déjà Vu uses her incredible powers to turn back the clock on evil!",
+  "quote": "Did That Just Happen?",
+  "personality": "Déjà Vu has one of those personalities that makes think you might have met her before.",
+  "story": [
+    {
+      "story_name": "Champions",
+      "content": "Déjà Vu is the main protagonist of the comic issue. She battled her way to the finals of the Legendary Tournament, in which the champion is honored with a statue of themselves on permanent display. In the semi-finals, Déjà Vu's latest opponent was Torch. She won the round, but discovered that Trail Blazer, Fist Bump and Fling Kong were to be her next opponents after a short intermission. The male Skylanders taunted Déjà Vu by boasting that only one of them would become the champion, and it wasn't going to be her. Discouraged, Déjà Vu left the arena to have some time alone. She began doubting herself as being the most powerful Skylander until Spyro, the one who helps crown the champion of the Legendary Tournament, overheard Déjà Vu's words and encouraged her to believe in herself. The girl was reassured by Spyro's words, and when the Skylanders were called for the final round, Déjà Vu stepped back into the arena, confident and prepared for the challenge. During the finals, Fist Bump, Trail Blazer and Fling Kong ganged up on Déjà Vu, something she had guessed. Despite being outnumbered, she was able to defeat all three male Skylanders by leaving exploding duplicates of herself around them. Déjà Vu was then crowned the new Legendary Champion, with Fist Bump, Fling Kong and Trail Blazer seeing the error of their ways and congratulating her. Spyro created a statue of Déjà Vu in her honor, which now stands along with the statues of other past champions.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a2/Deja_Vu_Spyro.png/revision/latest/scale-to-width-down/180?cb=20150109100703"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Did That Just Happen?",
+        "Rewind!",
+        "Blast from the past!",
+        "Double the fun",
+        "Back up!",
+        "Repeat!",
+        "It's go time!",
+        "Here we go again!",
+        "A victory to remember!",
+        "Your time is up!",
+        "Back again!",
+        "Success is mine!",
+        "Land that time forgot.",
+        "Never look back!",
+        "Moving along...",
+        "Always in my prime!",
+        "Just a matter of time.",
+        "Déjà-boom!",
+        "Triumphant, again and again!",
+        "Second to none!",
+        "Ooh, treasure beyond measure!",
+        "Perfect timing!",
+        "Infinite Power!",
+        "Eternal Energy!",
+        "A mage for the ages!",
+        "Hm hm, standing the test of time!",
+        "Hm, timeless fashion!",
+        "Huh, an interesting look for me!",
+        "Hm, it's about time for a new name.",
+        "Oh, that's a stretch."
+      ]
+    }
+  ],
+  "trivia": [
+    "Déjà Vu has a stereotypical Russian accent.",
+    "Déjà Vu is also the feeling of having already experienced something that is actually happening for the first time.",
+    "Her name is French for 'Already Seen'.",
+    "She is the second female Magic Skylander to have her catchphrase end with a question mark (the first being Ninjini).",
+    "Déjà Vu is the third Skylander figure to have glow-in-the-dark eyes while Stealth Elf is the first and Whisper Elf is the second.",
+    "However, she is the first Magic element Skylander to have that concept."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Déjà Vu",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Déjà_Vu"
+    },
+    {
+      "name": "Skylanders Trap Team - Deja Vu's Soul Gem Preview (Did That Just Happen?)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Deja_Vu's_Soul_Gem_Preview_(Did_That_Just_Happen?)"
+    },
+    {
+      "name": "Skylanders Power Play- Deja Vu",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play-_Deja_Vu"
+    }
+  ],
+  "gameplay": "Déjà Vu is a Magic Skylander who wields the power of time. She can shoot homing time energy or create past versions of herself that act as exploding decoys. She can also manipulate time rifts to create damaging black holes, effectively controlling the battlefield through temporal duplication and spatial distortion.",
+  "wiki_url": "https://skylanders.fandom.com/wiki/Déjà_Vu",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Space-Time Shots",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/47/D%C3%A9j%C3%A0_Vuprimarypower.png/revision/latest/scale-to-width-down/148?cb=20140922043954",
+        "content": "Shoot a magical ball of time energy that homes in on enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Past Selves",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/70/D%C3%A9j%C3%A0_Vusecondarypower.png/revision/latest/scale-to-width-down/148?cb=20140922044034",
+        "content": "Press Button 2 to bring a version of your past self that explodes. Press Button 2 again to switch places with it.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Time Shift",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/D%C3%A9j%C3%A0_Vubasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20140922044051",
+        "content": "Press Button 3 to create a Time Rift, damaging all who touch it. Shoot the Time Rift to create a black hole.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Long-Term Memory",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/71/D%C3%A9j%C3%A0_Vubasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506014301",
+        "content": "Past Selves last longer and replay a longer history.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Time Rifts Aplenty",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/D%C3%A9j%C3%A0_Vubasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506014306",
+        "content": "Have more Time Rifts active at once. Time Rifts now attract Space-Time Shots.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Circular Logic",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/28/D%C3%A9j%C3%A0_Vubasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506014313",
+        "content": "Past Selves fire Time-Space Shots.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Black Hole Beldom",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/D%C3%A9j%C3%A0_Vusoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506014316",
+        "content": "Time Rifts now turn into massive black holes, releasing unstable time power",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Remember to Live",
+        "abilities": [
+          {
+            "name": "Explosion Déjà Vu",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d6/D%C3%A9j%C3%A0_Vupath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506015646",
+            "content": "When a Past Self explodes, the explosion is repeated 2 more times.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Time Heals All Wounds",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ac/D%C3%A9j%C3%A0_Vupath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506015651",
+            "content": "When a Past Self takes damage, you are healed.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Space-Time Duality",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/D%C3%A9j%C3%A0_Vupath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506015657",
+            "content": "Shoot two Space-Time Shots at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Live to Remember",
+        "abilities": [
+          {
+            "name": "Warp Field",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5d/D%C3%A9j%C3%A0_Vupath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506015703",
+            "content": "Shoot a Past Self to create a warp field, pulling enemies towards the Past Self.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Past Self Paralysis",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/37/D%C3%A9j%C3%A0_Vupath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506015707",
+            "content": "Past Selves do extra damage and freeze all nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Go Out With a Bang",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/47/D%C3%A9j%C3%A0_Vupath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506015712",
+            "content": "When a Past Self explodes, or when you switch with it, it releases Space-Time Shots.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "d-j-vu",
       "variant_name": "Déjà Vu",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core Slylander",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/41/D%C3%A9j%C3%A0_Vu_Promo.jpg/revision/latest?cb=20140917183946",
       "attacks": [
@@ -38,8 +286,29 @@
         "Explosion Déjà Vu",
         "Warp Field"
       ],
-      "stats": null,
-      "wiki_url": "https://skylanders.fandom.com/wiki/D%C3%A9j%C3%A0_Vu"
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "210 (420)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60 (108)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "60 (110)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46 (96)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Déjà_Vu"
     }
   ]
 }
