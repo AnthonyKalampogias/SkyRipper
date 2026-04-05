@@ -3,29 +3,142 @@
   "name": "Cy",
   "species": "Imaginator",
   "gender": "Male",
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [
-    "Skylands"
+  "element": "Undead",
+  "role": "Skylander",
+  "primary_game": "Skylanders Academy",
+  "appearances": [
+    "Missing Links",
+    "Belly of the Beast",
+    "Skylanders Academy"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": "Being created from nothing into a full grown creature, Cy is clueless to the world around him or even his own abilities at first, but is a quick learner and even quicker to formulate plans at a whim. Though his love of puns and slowness to understand subtleties make him eccentric, Cy tries to help even if he has to change his ways or follow foolhardy plans. Despite his natural strategist abilities, the Imaginator can be driven to act without thinking if his friends are thought to be killed. Cy's literal-mindedness make him largely unaware of insults, however, the jealously of cadets towards his graduation without the Skylander Games ends up angering another Skylander . Oddly, Cy thinks other people are Imaginators like him, created fully sentient from parts thought up and stiched together magically.",
-  "story": null,
+  "cameos": [],
+  "world": [
+    "Skylands",
+    "Arctic Isle"
+  ],
+  "description": "An Imaginator created from a Creation Crystal, Cy is a tactical genius with a unique set of built-in mechanical abilities. Though initially clueless about the world, he proved his worth by guiding Team Spyro to victory and becoming an official Skylander.",
+  "biography": "Cy is an Imaginator specifically designed to help protect the realm when no other Skylander would be able to answer a call to arms. Created from a Creation Crystal in King Pen's possession, he was used to assist Skylander teams in need of teamwork training. He is a skilled strategist and, after learning and training with Team Spyro, was able to direct them to fight Fire Viper and adapt to his attacks. After his time at the Academy, King Pen and Cy left to assist other teams throughout the land.",
+  "quote": "I'm the real peel!",
+  "personality": "Being created from nothing into a full grown creature, Cy is clueless to the world around him or even his own abilities at first, but is a quick learner and even quicker to formulate plans at a whim. Though his love of puns and slowness to understand subtleties make him eccentric, Cy tries to help even if he has to change his ways or follow foolhardy plans. Despite his natural strategist abilities, the Imaginator can be driven to act without thinking if his friends are thought to be killed. Cy's literal-mindedness make him largely unaware of insults, however, the jealously of cadets towards his graduation without the Skylander Games ends up angering another Skylander. Oddly, Cy thinks other people are Imaginators like him, created fully sentient from parts thought up and stiched together magically.",
+  "story": [
+    {
+      "story_name": "Season 1",
+      "content": "Cy is a Skylander specifically designed to help protect the realm when no other Skylander would be able to answer a call to arms. When Team Spyro had trouble working together as a team, King Pen allowed the Skylanders to build Cy from his Creation Crystal to help the Skylanders improve their talents while working cooperatively. Although Cy revealed that he had his own abilities, Team Spyro instead taught Cy their way of battling, keeping him from experimenting or adapting to the powers. This resulted in Cy copying their moves during their Fire Viper Training Simulation according to their own badly planned orders, causing Team Spyro to fail the test when he lost control over the abilities. Later on, the real Fire Viper attacked, and Cy decided to attempt the trial one last time using his own ideas. Guiding the team rather than the other way around, he adapted theirs and his own powers to distract the beast until they could subdue him. Cy then used his own abilities, thought to not be useful, to defeat the monster. Master Eon and King Pen congratulated their efforts and went back on their plans to disband the team and dismantle Cy.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dd/S1E3_Cy_Master_Eon_King_Pen.jpg/revision/latest/scale-to-width-down/278?cb=20170912182925"
+    },
+    {
+      "story_name": "Season 2",
+      "content": "Between his first and second appearance, Cy stopped his duty temporarily to help guard King Pen's home in Arctic Isle. In Belly of the Beast, Cy and King Pen came under attack by the vengeful Fire Viper, who then captured King Pen. The Imaginator managed to escape and alerted the Skylanders at Skylanders Academy of the situation. While coming up with a plan, Cy faced prejudice from the jealous cadets but befriended a cadet named Bad Breath. Team Spyro, the cadets, and Cy returned to Arctic Isle to save King Pen but witnessed Fire Viper devouring the sensei. This enraged Cy, causing him blindly attempt to attack Fire Viper and get easily eaten. Within the belly of Fire Viper, the cadets blame their predicament on Cy, but Bad Breath defended him. The heroes were eventually able to escape out of the serpent thanks to Bad Breath's noxious fumes. Afterwards, the cadets apologized to Cy, accepting him as an official Skylander.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/33/Cadets_Cy_BadBreath3.jpg/revision/latest/scale-to-width-down/264?cb=20180108224749"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "I'm the real peel!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Cy was voiced by British YouTube star Daniel Middleton, more commonly known by his channel name, TheDiamondMinecart or DanTDM.",
+    "Unlike the Imaginators from the games, Cy is not limited to a single Battle Class nor ability, though like them he can learn the abilities of his masters.",
+    "Unlike Sir Hoodington and other Imaginators in promo art, Cy uses the default coloring for all of his parts, resembling the Imaginators in TV adverts.",
+    "Cy's parts are as follows: The Bananana head with Human eyes; The Spyro Horns ears; The Tiki Chest; An altered version of the Robot Bouncer arms; Legs resembling a combination of the Skelelegs and Wolfgang Legs, which he calls 'Monster Legs'; An altered version of the Dragon Wings.",
+    "Dan Middleton was given a custom Imaginator figure by Activision with the corresponding parts.",
+    "The figure was from the Earth element, despite Cy's Crystal in the show perfectly matching one of the released Undead Crystals, sans the elemental symbol.",
+    "When Dan first placed Cy on the portal, his game name is actually 'C Four', but this is not given a known reason."
+  ],
+  "trailers": [],
+  "gameplay": "Cy uses a variety of built-in mechanical weapons like a potato cannon and vacuum arms. He is also a master strategist, able to adapt and coordinate team attacks in the heat of battle. While he initially lacks combat experience, his ability to learn and formulate plans on a whim makes him a formidable leader.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Cy",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Potato Cannon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Imaginator_Cy.png/revision/latest?cb=20161028195916",
+        "content": "A built-in cannon that fires potatoes at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#512888",
+          "bg_content": "#120121"
+        }
+      },
+      {
+        "name": "Vacuum Arms",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Imaginator_Cy.png/revision/latest?cb=20161028195916",
+        "content": "Mechanical arms with built-in vacuums used for suction and combat utility.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#512888",
+          "bg_content": "#120121"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Lighter (Left Index Finger)",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Imaginator_Cy.png/revision/latest?cb=20161028195916",
+        "content": "A functional lighter integrated into Cy's left index finger.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#512888",
+          "bg_content": "#120121"
+        }
+      },
+      {
+        "name": "Daggers",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Imaginator_Cy.png/revision/latest?cb=20161028195916",
+        "content": "A pair of daggers similar to Stealth Elf's, used for close-quarters defense.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#512888",
+          "bg_content": "#120121"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Strategic Mastery",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Imaginator_Cy.png/revision/latest?cb=20161028195916",
+        "content": "Cy utilizes his advanced tactical mind to direct allies, adapting their powers to subdue even the most powerful enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#512888",
+          "bg_content": "#120121"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "cy",
       "variant_name": "Cy",
       "edition": "Series 1",
-      "type": "Sensei",
-      "game": null,
+      "type": "Imaginator",
+      "game": "Skylanders Academy",
       "image": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Imaginator_Cy.png/revision/latest?cb=20161028195916",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Potato Cannon",
+        "Vacuum Arms",
+        "Lighter (Left Index Finger)",
+        "Daggers"
+      ],
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Cy"
     }
   ]
