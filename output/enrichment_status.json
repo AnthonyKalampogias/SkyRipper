@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-05T09:21:44.216Z",
+  "last_run": "2026-04-05T09:45:09.267Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -208,6 +208,58 @@
     {
       "name": "cynder.json",
       "sha": "ba759be3e23aba423a607decbc57c05f3ff6df84"
+    },
+    {
+      "name": "d-j-vu.json",
+      "sha": "6735af6590c05bf75cf16438829adb14ba1c7da7"
+    },
+    {
+      "name": "dark-blast-zone.json",
+      "sha": "32f09ac4be5f58508edd7709765961e7d825e06f"
+    },
+    {
+      "name": "dark-edition-skylanders.json",
+      "sha": "ae1684c3ac2ac5a2728d51ec81492b75d80f0c82"
+    },
+    {
+      "name": "dark-food-fight.json",
+      "sha": "2d660dc79b854bed5fa1c88f5ddf4f0501e211a1"
+    },
+    {
+      "name": "dark-golden-queen.json",
+      "sha": "7ebbb79108cdd66601c3999fd9b53479b628a744"
+    },
+    {
+      "name": "dark-hammer-slam-bowser.json",
+      "sha": "40d28ee4ada39198db067cc984cc4808e23377ee"
+    },
+    {
+      "name": "dark-king-pen.json",
+      "sha": "9804a163d36e4e358fcba25bb73bfa72acee1a65"
+    },
+    {
+      "name": "dark-slobber-tooth.json",
+      "sha": "d12eaca1b1959029f9ebd0ab11cdd289b525927e"
+    },
+    {
+      "name": "dark-snap-shot.json",
+      "sha": "9e763efcc57825a874f4195338d0989a46d1bcdd"
+    },
+    {
+      "name": "dark-spitfire.json",
+      "sha": "3b77420321348037f4646b89d22c4113d96ef382"
+    },
+    {
+      "name": "dark-spyro.json",
+      "sha": "bea88cbf7bed33e0b038ab6d43ff22fa002d984f"
+    },
+    {
+      "name": "dark-stealth-elf.json",
+      "sha": "65caaeab2ac93db7286b15cf6e90964fe8ef8019"
+    },
+    {
+      "name": "dark-super-shot-stealth-elf.json",
+      "sha": "7d37834820b5b17094096b3af5e8d7b4a57188df"
     }
   ]
 }
