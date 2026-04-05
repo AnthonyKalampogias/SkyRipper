@@ -4,6 +4,7 @@
   "species": "Anthropomorphic Artichoke",
   "gender": "Male",
   "element": "Life",
+  "role": "Dark Edition Skylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -11,22 +12,124 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Dark Food Fight is a dark version of Food Fight from Skylanders: Trap Team.",
   "biography": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium – which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it – combining the dark power with their own to fight Kaos and the forces of evil.",
-  "personality": null,
-  "story": null,
+  "quote": "Eat This!",
+  "personality": "Fortunately, they have learned to control it – combining the dark power with their own to fight Kaos and the forces of evil.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium – which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it – combining the dark power with their own to fight Kaos and the forces of evil.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a5/Dark_FoodFight_Promo.jpg"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Eat This!"
+      ]
+    }
+  ],
+  "trivia": [
+    "This is the only alter ego of Food Fight available as a toy. The rest of Food Fight's alter egos are digital-only.",
+    "He was the last Skylander to receive a Power Play."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Dark Food Fight",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Dark_Food_Fight"
+    },
+    {
+      "name": "Skylanders Power Play Dark Foodfight",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Power_Play_Dark_Foodfight"
+    }
+  ],
+  "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games. Dark Food Fight uses his Tomato Launcher and Blooms of Doom to overwhelm enemies.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Food_Fight",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Tomato Launcher",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a5/Dark_FoodFight_Promo.jpg",
+        "content": "A rapid-fire tomato launcher that pelts enemies with juicy projectiles.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Blooms of Doom",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a5/Dark_FoodFight_Promo.jpg",
+        "content": "Launch blooms that explode and cause damage to surrounding enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Extra-Ripe Tomatoes",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a5/Dark_FoodFight_Promo.jpg",
+        "content": "Tomatoes are extra-ripe, causing even more damage on impact.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Heavy Harvest",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a5/Dark_FoodFight_Promo.jpg",
+        "content": "The harvest is heavy, increasing the size and area of tomato blasts.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Special Squash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a5/Dark_FoodFight_Promo.jpg",
+        "content": "A powerful squash attack that deals massive area damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "dark-food-fight",
       "variant_name": "Dark Food Fight",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Dark Edition",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/a/a5/Dark_FoodFight_Promo.jpg/revision/latest?cb=20140721214825",
       "attacks": [
@@ -36,7 +139,24 @@
         "Heavy Harvest",
         "Special Squash"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "180"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Food_Fight"
     }
   ]
