@@ -4,6 +4,7 @@
   "species": "Turtle Dinosaur",
   "gender": "Male",
   "element": "Earth",
+  "role": "Dark Edition Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -12,22 +13,118 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Dark Slobber Tooth is the Dark counterpart of Slobber Tooth in Skylanders: Swap Force. He is only available in the Dark Edition of the game, along with four other Dark Skylanders.",
   "biography": "While on a special mission, a team of Skylanders discovered a secret lair where Kaos was experimenting with a new discovery -- Petrified Darkness -- which he initially intended to use to stage a coup against Skylands. In their fight to stop Kaos, the lair exploded, releasing a cloud of pure Darkness. The Skylanders knew they couldn't let it escape, so they absorbed this energy, transforming them into dark versions of themselves. Fortunately, Spyro learned to tame that darkness within him long ago. So with his help, these Skylanders now have also learned to control it -- combining its power with their own to fight Kaos and the forces of evil.",
-  "personality": null,
-  "story": null,
+  "quote": "Clobber and Slobber!",
+  "personality": "Dark Slobber Tooth has learned to control the darkness within him, combining its power with his own to fight Kaos and the forces of evil.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "While on a special mission, a team of Skylanders discovered a secret lair where Kaos was experimenting with a new discovery -- Petrified Darkness -- which he initially intended to use to stage a coup against Skylands. In their fight to stop Kaos, the lair exploded, releasing a cloud of pure Darkness. The Skylanders knew they couldn't let it escape, so they absorbed this energy, transforming them into dark versions of themselves. Fortunately, Spyro learned to tame that darkness within him long ago. So with his help, these Skylanders now have also learned to control it -- combining its power with their own to fight Kaos and the forces of evil.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Clobber and Slobber!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the first Dark counterpart that belongs to the Earth element, the second being Dark Golden Queen."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Dark Slobber Tooth",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Dark_Slobber_Tooth"
+    }
+  ],
+  "gameplay": "Dark Slobber Tooth features five primary attacks: Horn Swipe, Chomp & Chunk, Unstoppable Force, Snot Rocket, and Fling. His console statistics start with 300 Health, 35 Speed, 30 Armor, 3 Critical Hit, and 35 Elemental Power.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Slobber_Tooth",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Horn Swipe",
+        "imgPath": "",
+        "content": "Dark Slobber Tooth uses his horns to swipe at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Chomp & Chunk",
+        "imgPath": "",
+        "content": "Dark Slobber Tooth chomps down on enemies and chunks them away.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Unstoppable Force",
+        "imgPath": "",
+        "content": "Increases the power and momentum of attacks.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Snot Rocket",
+        "imgPath": "",
+        "content": "Fires a projectile snot rocket at distant foes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Fling",
+        "imgPath": "",
+        "content": "A powerful move that flings enemies into the air.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "dark-slobber-tooth",
       "variant_name": "Dark Slobber Tooth",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Dark Edition",
+      "type": "Dark",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/8/8c/Dark_Slobber_Tooth.jpg/revision/latest?cb=20230818001226",
       "attacks": [
@@ -37,7 +134,28 @@
         "Snot Rocket",
         "Fling"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300/600"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35/83"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30/60"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "3/53"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "35/85"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Slobber_Tooth"
     }
   ]
