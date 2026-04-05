@@ -4,32 +4,357 @@
   "species": "Walking Bomb Launcher",
   "gender": "Male",
   "element": "Tech",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
     "Skylanders: Lost Islands",
     "Skylanders: Trap Team",
     "Stump Smash Crosses the Bone Dragon",
-    "Skylanders: SuperChargers' (Racing)",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Battlecast",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Countdown is an anthropomorphic bomb launcher who is one of the newer Tech core Skylanders released alongside Skylanders: Swap Force.",
   "biography": "Countdown was discovered by a group of Yetis who were snowboarding one particularly chilly morning when they came across a big bomb encased in ice. After bringing it back to their cabin, they were shocked when it actually came to life. No one, not even Countdown himself, has any memory of where he came from or how he ended up frozen in the mountains. Since becoming a Skylander, Master Eon has been graciously trying to help piece together fragments of his past. But this has proven difficult, as Countdown loses some of his memory every time he explodes – which happens a lot. In the meantime, Countdown has enjoyed working with Eon and fighting alongside the Skylanders to defend their world against evil – even though he occasionally forgets what he is doing.",
-  "personality": "Countdown blows up at a moment's notice, although there is one drawback. Everytime he explodes, he loses his memory all over again. &#91; 3 &#93;",
-  "story": null,
+  "quote": "I'm the Bomb!",
+  "personality": "Countdown blows up at a moment's notice, although there is one drawback. Everytime he explodes, he loses his memory all over again.",
+  "story": [
+    {
+      "story_name": "Development",
+      "content": "Countdown was originally conceived as a clockwork contraption with maniacal limbs, mechanical eyes, a backpack of bombs, and large eyebrows. During production, as Countdown, players could stand on his detached head and try to walk around on it. This feature would have shipped, except that it allowed players to jump over multiple progression gates.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Physical Apperance",
+      "content": "Countdown is a robotic bomb launcher with mechanical legs, a clock on his chest and small rockets for hands, which he can fire at enemies. His head is a big round black bomb, with a flaming fuse. When his head is launched it turns red. If it explodes, it reappers after about two seconds. However he will lose his memory whenever he loses his head.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Personality",
+      "content": "Countdown blows up at a moment's notice, although there is one drawback. Everytime he explodes, he loses his memory all over again.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "Countdown was discovered by a group of Yetis who were snowboarding one particularly chilly morning when they came across a big bomb encased in ice. After bringing it back to their cabin, they were shocked when it actually came to life. No one, not even Countdown himself, has any memory of where he came from or how he ended up frozen in the mountains. Since becoming a Skylander, Master Eon has been graciously trying to help piece together fragments of his past. But this has proven difficult, as Countdown loses some of his memory every time he explodes – which happens a lot. In the meantime, Countdown has enjoyed working with Eon and fighting alongside the Skylanders to defend their world against evil – even though he occasionally forgets what he is doing.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "I'm the Bomb!",
+        "The fuse can't lose!",
+        "Don't lose your head!",
+        "Sky rocket!",
+        "Direct hit!",
+        "Blast ahead!",
+        "Blowing through!",
+        "Blow it up!",
+        "That was a blast!",
+        "Oh yeah!",
+        "Three...two...one...",
+        "Alarmed and armed!",
+        "Tick-tock boom!",
+        "Alright!",
+        "Bombs away!",
+        "Right on target!",
+        "Bada-boom!",
+        "Whoo-hoo-hoo-hoooo!",
+        "Aha! Hahahaha!",
+        "Ahahahaha-haha!",
+        "Whoo-hoo!",
+        "Yippee!",
+        "Atomic!",
+        "Bomb blast!",
+        "Yeah! Shell it out!",
+        "Payload!",
+        "Ooh, I'm a smart-bomb",
+        "Outlast and outblast!",
+        "This look blows me away!",
+        "Hope this stays on my head",
+        "A bang up name!",
+        "Yeah, that name is the bomb!"
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Let the countdown begin!",
+        "Armed and alarmed!",
+        "Brace for impact!",
+        "Light the fuse!",
+        "I'm the bomb!",
+        "Bringing the boom!",
+        "Count me in!",
+        "Heading in!",
+        "Taking off!",
+        "Time's up!",
+        "Explosive!",
+        "A bang-up job!",
+        "Atomic!",
+        "Right on target!",
+        "Perfect time!",
+        "Payload!",
+        "Boom!",
+        "Bam!",
+        "Heads up... Direct hit!",
+        "Perfect strike!",
+        "Blastoff!",
+        "Going out with a bang!",
+        "Gears and tears!",
+        "Shelling it out!",
+        "Going to have a blast!",
+        "Going to lower the boom...",
+        "Asta la boom!",
+        "La bomba!",
+        "Try better next time!",
+        "Direct hit!",
+        "Count me out.",
+        "Totally defused...",
+        "That was a dud...",
+        "Guess I bombed.",
+        "Blew you away!",
+        "The fuse can't lose!",
+        "Hey!",
+        "Easy there...!",
+        "Should I be alarmed?",
+        "I don't have time for this.",
+        "Tick tock!",
+        "Gonna blow a fuse!",
+        "Blowing up!",
+        "Blasting ahead!"
+      ]
+    }
+  ],
+  "trivia": [
+    "As a LightCore figure, his bomb head is coloured red, indicating his ability to detach his explosive head. However, his fully-lit fuse lights up orange.",
+    "Though based on LightCore Countdown's gameplay figure, he doesn't seem to light up in-game, making him the only LightCore character to do so.",
+    "He also, has a soccer ball (football) counterpart called Kickoff Countdown.",
+    "Countdown resembles N.Trance from Crash Bandicoot.",
+    "Just as Ghost Roaster is capable of dying in the hub level using his Ectoplasm attack, Countdown can die in the hub level using his Self-Destruct attack in the 3DS version of Swap Force.",
+    "His bomb head flips upside down, as he jumps.",
+    "Countdown was originally called 'Dabomb.' Many of his early voice lines were nonvocal grunts or giggles.",
+    "Some of Countdown's abilities are similar to Alisa Bosconovitch from Tekken 6. Both characters use their arms as rockets and can detonate their heads.",
+    "Countdown, Stump Smash, Prism Break, Drill Sergeant and Eruptor are the only bipedal Skylanders without hands.",
+    "Countdown is voiced by Richard Tatum, who is notable for voicing Agent 9 the Monkey from the classic Spyro series.",
+    "In the 3DS version, LightCore Countdown's face isn't red, but his usual black.",
+    "He is similar to Grinnade, who is also a walking bomb and can summon smaller bomb allies.",
+    "Despite him smiling on his artwork, Countdown is rarely ever seen smiling in gameplay.",
+    "Oddly, while his lit fuse is orange in his toy form and in his promotional art, his Swap Force portrait has a green fuse."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Countdown",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Countdown"
+    },
+    {
+      "name": "Skylanders Swap Force - Countdown Soul Gem Preview (I'm the Bomb)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Countdown_Soul_Gem_Preview_(I%27m_the_Bomb)"
+    },
+    {
+      "name": "Meet the Skylanders LightCore Countdown",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_LightCore_Countdown"
+    }
+  ],
+  "gameplay": "Countdown can detonate his own head, or self destruct, he can shoot his rocket hands, and summon bomb allies to attack enemies in his place. In Skylanders: Battlecast, he is an incredibly risky fighter with most of his abilities causing damage to himself or even his allies, but with a low energy cost in compensation. His Gear is a Bombrero, which explodes on both the owner and the enemy when attacked, and his special ability is Short Fuse, blasting the enemy for moderate damage but himself as well.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Countdown",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Bomb Head",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Countdownprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170429160302",
+        "content": "Press Attack 2 to shoot a Bomb Head that explodes and damages enemies in a large area.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Rocket Blast",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/Countdownsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170429160350",
+        "content": "Press Attack 1 to fire a rocket.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Controlled Burst",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/70/Countdownbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170429160425",
+        "content": "Hold Attack 1 to charge a rocket, release to shoot a large rocket that deals increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Roaring Rockets",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Countdownbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170429160455",
+        "content": "Rockets do increased damage. Kaboom!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Explosive Friendship",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Countdownbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170429160519",
+        "content": "Press Attack 3 to summon a bomb ally that explodes near enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Hefty Concussion",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/15/Countdownbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170429160551",
+        "content": "Press Attack 2 to shoot a more powerful Bomb Head that does increased damage. Press Attack 1 again to detonate the Bomb Head.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Self-Destruct",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ea/Countdownsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170429160704",
+        "content": "Hold Attack 2 for a short amount of time to cause a massive amount of damage to every enemy nearby.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Bomb Buddies Forever",
+        "abilities": [
+          {
+            "name": "Boom Buddies",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Countdownpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170429160817",
+            "content": "Press Attack 3 to summon a bomb ally that explodes near enemies. Can now have four bomb allies at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Bombing Blitzers",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Countdownpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170429160850",
+            "content": "Bomb allies do increased damage. Adorable and explosive!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Lingering Sparks",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Countdownpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170429160941",
+            "content": "Bomb allies shoot flames from their fuses that damage nearby enemies",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Rocketeer",
+        "abilities": [
+          {
+            "name": "Triple Threat",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/16/Countdownpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170429161501",
+            "content": "Hold Attack 1 to charge a rocket, release to shoot a large rocket and two smaller rockets.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Warhead Hands",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Countdownpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170429161551",
+            "content": "All rocket attacks do even more damage. Danger! Explosive hugs!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Mega Mortar",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5d/Countdownpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170429161621",
+            "content": "Controlled Burst does increased damage in a larger area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "countdown",
+      "id": "countdown-s1",
       "variant_name": "Countdown",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Countdown_Art.jpg",
       "attacks": [
@@ -40,7 +365,99 @@
         "Boom Buddies",
         "Triple Threat"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (max. 580)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "115"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "45"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Countdown"
+    },
+    {
+      "id": "countdown-lc",
+      "variant_name": "LightCore Countdown",
+      "edition": "LightCore",
+      "type": "Core",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/5b/LightCore_Countdown_Promo.jpg",
+      "attacks": [
+        "Bomb Head",
+        "Rocket Blast",
+        "Controlled Burst",
+        "Roaring Rockets",
+        "Boom Buddies",
+        "Triple Threat"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (max. 580)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "105"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "45"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Countdown"
     }
   ]
