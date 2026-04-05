@@ -4,26 +4,117 @@
   "species": "Koopa",
   "gender": "Male",
   "element": "Fire",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Mushroom Kingdom"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Dark Hammer Slam Bowser is a Dark Edition SuperCharger from the Fire element, originating from the Mushroom Kingdom.",
+  "biography": "Dark Hammer Slam Bowser is the Dark counterpart of Hammer Slam Bowser in Skylanders: SuperChargers. His signature vehicle is the Dark Clown Cruiser.",
+  "quote": "Showtime!",
+  "personality": "Not specified in the records, but Bowser maintains his powerful and commanding presence as a Koopa King.",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Character Selection",
+      "content": [
+        "Dark Hammer Slam Bowser!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Dark Hammer Slam Bowser is one of the guest characters from the Nintendo franchise.",
+    "He is the Dark counterpart of Hammer Slam Bowser."
+  ],
+  "trailers": [
+    {
+      "name": "Dark Hammer Slam Bowser Character Trailer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Dark_Hammer_Slam_Bowser"
+    }
+  ],
+  "gameplay": "In combat, Dark Hammer Slam Bowser utilizes a combination of hammer strikes and Koopa-themed abilities. His move set includes Hammer Slam, summoning Koopa Troopas, and transforming into Molten Bowser. He can also use Warp Pipes for mobility.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Hammer_Slam_Bowser",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Hammer Slam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Dark_Bowser_Art.jpg",
+        "content": "A powerful melee attack using Bowser's hammer.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#ff4444",
+          "bg_content": "#ffdcdc"
+        }
+      },
+      {
+        "name": "Koopa Troopa!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Dark_Bowser_Art.jpg",
+        "content": "Summons a Koopa Troopa to aid in battle.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#ff4444",
+          "bg_content": "#ffdcdc"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Molten Bowser",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Dark_Bowser_Art.jpg",
+        "content": "Bowser transforms into his molten form for enhanced damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#ff4444",
+          "bg_content": "#ffdcdc"
+        }
+      },
+      {
+        "name": "Warp Pipe",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Dark_Bowser_Art.jpg",
+        "content": "Uses a Warp Pipe to teleport or travel across the battlefield.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#ff4444",
+          "bg_content": "#ffdcdc"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Molten Hammer",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Dark_Bowser_Art.jpg",
+        "content": "An ultimate hammer attack infused with molten lava.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3000,
+        "colors": {
+          "header": "#ff4444",
+          "bg_content": "#ffdcdc"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "dark-hammer-slam-bowser",
+      "id": "dark-hammer-slam-bowser-dark-edition",
       "variant_name": "Dark Hammer Slam Bowser",
-      "edition": "Series 1",
+      "edition": "Dark Edition",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Dark_Bowser_Art.jpg/revision/latest?cb=20150909232559",
@@ -34,7 +125,44 @@
         "Warp Pipe",
         "Molten Hammer"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "300"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "280"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "130"
+        },
+        {
+          "stat_name": "Top Speed",
+          "stat_value": "17"
+        },
+        {
+          "stat_name": "Acceleration",
+          "stat_value": "7"
+        },
+        {
+          "stat_name": "Handling",
+          "stat_value": "8"
+        },
+        {
+          "stat_name": "Firepower",
+          "stat_value": "18"
+        },
+        {
+          "stat_name": "Armour",
+          "stat_value": "20"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Hammer_Slam_Bowser"
     }
   ]
