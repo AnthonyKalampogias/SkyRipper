@@ -1,29 +1,358 @@
 {
   "id": "cynder",
   "name": "Cynder",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
+  "species": "Dragon",
+  "gender": "Female",
+  "element": "Undead",
+  "role": "Core Skylander",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Giants",
+    "Spyro versus The Mega Monsters",
+    "Skylanders: Swap Force",
+    "Cynder Confronts the Weather Wizard",
+    "Skylanders: Trap Team",
+    "Trigger Happy Targets the Evil Kaos",
+    "Return of the Dragon King",
+    "Skylanders: SuperChargers Racing",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [
+    "Skylanders Issue 12",
+    "Rift into Overdrive"
+  ],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Cynder is a violet dragon who is one of the Undead Core Skylanders in Skylanders: Spyro's Adventure. Originally a black-hearted harbinger of despair raised by Malefor, she was freed by Spyro and now uses her dark powers to fight for good.",
   "biography": "While just an egg, Cynder was stolen by the henchmen of an evil dragon named Malefor and raised to do his bidding. For years, she spread fear throughout the land until she was defeated by Spyro the Dragon and freed from the grip of Malefor. But dark powers still flow through her, and despite her desire to make amends for her past, most Skylanders try to keep a safe distance... just in case.",
-  "personality": "Kidnapped as an egg by the evil Malefor , Cynder was brainwashed and trained in the ways of evil and darkness. She was a sinister dragon, a harbringer of despair and misery taught to strike fear into the hearts of Malefor's subjects and spread terror far and wide. However a speck of goodness burned somewhere in her black heart, which made her internally aware of the evil she was committing. After being freed from Malefor's spell, Cynder desires to make amends by battling evildoers with her dark powers, but she still struggles with her past. As a result of being corrupted under the Undead element, Cynder retains a wicked side and can occasionally be menacing, but she is trying hard to control her dark impulses from time to time. This ominous trait causes most of the Skylanders to try and keep a safe distance from Cynder just in case her inner darkness takes over. While she is loyal to the Skylanders, she is snarky, spiky when riled, witty, fierce and can be a terrifying force for good in the battle against the Darkness . Cynder also possesses a liking towards dark and brooding places, a trait shared by all Undead Skylanders. While she doesn't enjoy pranks or jokes of any kind &#91; 3 &#93; , she does have moments of being mischievous herself. &#91; 4 &#93;",
-  "story": null,
+  "quote": "Volts and Lightning!",
+  "personality": "Kidnapped as an egg by the evil Malefor, Cynder was brainwashed and trained in the ways of evil and darkness. She was a sinister dragon, a harbinger of despair and misery taught to strike fear into the hearts of Malefor's subjects and spread terror far and wide. However a speck of goodness burned somewhere in her black heart, which made her internally aware of the evil she was committing. After being freed from Malefor's spell, Cynder desires to make amends by battling evildoers with her dark powers, but she still struggles with her past. As a result of being corrupted under the Undead element, Cynder retains a wicked side and can occasionally be menacing, but she is trying hard to control her dark impulses from time to time. While she is loyal to the Skylanders, she is snarky, spiky when riled, witty, fierce and can be a terrifying force for good in the battle against the Darkness.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "While still in her egg, Cynder was stolen by the henchmen of the evil Dragon King named Malefor. He brought the youngster up as a black-hearted harbinger of despair, but deep inside Malefor's monstrous apprentice shone a small speck of goodness. It was none other than Spyro who released Cynder from Malefor's grip by defeating her in battle. Once defeated, the red mist lifted and the spell of evil was broken. Cynder quickly renounced her evil ways and vowed to fight for good.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/20/Corrupted_Cynder_Spyro.png/revision/latest/scale-to-width-down/274?cb=20150422191844"
+    },
+    {
+      "story_name": "Cynder Confronts the Weather Wizard",
+      "content": "Cynder and Zook were relaxing in the sunrays at the Cloudless Desert, though the violet dragon felt that they were wasting time when they should looking for the next fragment to the Mask of Power. Soon, Hex arrived via portal to inform Cynder and Zook that Master Eon has requested their presence, but were forced into action when a freak rainstorm caused the sand dunes of the desert to start pulling the surrounding Mabu beachgoers underground like quicksand. After saving the inhabitants, the trio of Skylanders returned to Eon's citadel where they learned that there have been numerous unusual weather strikes in parts of Skylands.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Cynder_Zook_Cloudless_Desert.jpg/revision/latest/scale-to-width-down/336?cb=20140613054140"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Volts and Lightning!",
+        "Leading the charge!",
+        "Fully charged!",
+        "All charged up!",
+        "No rest for the wicked!",
+        "Time for trouble!",
+        "Born to scorch!",
+        "Never stood a chance!",
+        "Hehe, I'm to die for!",
+        "Wicked!",
+        "I'd tell you nice try, but it wasn't!",
+        "This should give me a jolt!",
+        "I'm wicked, so what?",
+        "This is my kind of place!",
+        "You call that a challenge?",
+        "My power will haunt you!",
+        "Shocking abilities, aren't they?",
+        "Becoming, isn't it?",
+        "Never looked better!",
+        "Power is scary!",
+        "Take flight!"
+      ]
+    },
+    {
+      "quote_type": "Media Quotes",
+      "content": [
+        "Pop Fizz, enough with the soda.",
+        "If they're so real, then where are they?",
+        "We've been spotted!",
+        "Uh uh, I don't think so!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Like Spyro, Cynder is also a recognizable Skylander, since they both appeared in a game series outside the Skylanders franchise: the Spyro series.",
+    "Cynder's appearance is similar to her Legend of Spyro: Dawn of the Dragon counterpart.",
+    "In the Darklight Crypt, there are head statues that resemble Cynder at the entrance to the maze.",
+    "Before her egg was taken by Malefor's minions, Cynder had a biological mother.",
+    "Though Cynder is one of few who speaks English in Spyro's Adventure, she does not say her official catchphrase until Skylanders: Giants.",
+    "The symbol on Cynder's forehead is the Brand of the Undead, which unleashes ghostly allies from beyond the grave.",
+    "Cynder's spiked collar and bracelets are part of the Undead punk fashion.",
+    "Cynder was planned to have a Series 4 figure for Skylanders: Trap Team, featuring her wearing silver armor on her wings and back, but she was scrapped from the final toy lineup."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventure - Cynder Trailer (Volts and Lightning)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Spyro%27s_Adventure_-_Cynder_Trailer_(Volts_and_Lightning)"
+    },
+    {
+      "name": "Meet the Skylanders Cynder (extended)",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Cynder_(extended)"
+    },
+    {
+      "name": "Skylanders Giants - Meet the Skylanders - Series 2 Cynder (Volts and Lightning)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Series_2_Cynder_%28Volts_and_Lightning%29"
+    }
+  ],
+  "gameplay": "Due to her exposure to the darkness of Malefor's corruption, Cynder gained powers of the Undead element, such as breathing dark electricity and temporarily turning into a shadowy apparition to dash past enemies, leaving behind a trail of ghostly allies that can attack opponents. Being a dragon, Cynder has the ability to fly using her wings, increasing her movement speed and and defence while doing so. Her Series 2 Wow Pow allows her to summon a spectral thunderbolt from above, and her Series 3 Wow Pow allows her to transform into a giant exploding skull.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Cynder",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Spectral Lightning",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Cynderprimarypower.png/revision/latest?cb=20120404061034",
+        "content": "Press and hold your primary power button to shock enemies with bolts of lightning.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Shadow Dash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Cyndersecondarypower.png/revision/latest?cb=20120404061049",
+        "content": "Dash forward in shadow form. Ghost allies are summoned in your wake.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Cynder Flight",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9d/Cynderbasicupgrade1.png/revision/latest?cb=20120404061131",
+        "content": "Press the button to fly.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Black Lightning",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a8/Cynderbasicupgrade2.png/revision/latest?cb=20120404061146",
+        "content": "Spectral Lightning does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Double Spooky!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Cynderbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20121127074147",
+        "content": "Ghosts do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Shadow Reach",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/31/Cynderbasicupgrade4.png/revision/latest?cb=20120404061223",
+        "content": "Shadow Dash range is increased.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Haunted Ally",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Cyndersoulgempower.png/revision/latest?cb=20120404061118",
+        "content": "A ghost ally travels with you and damages enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Lightning Rain",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/34/Cynderwowpowpower.png/revision/latest?cb=20160724124532",
+        "content": "While flying, press Attack 2 to bring a great lightning blast down from the sky.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "season": 3,
+        "name": "Skull-Splosion!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/31/Cynderwowpow2power.png/revision/latest?cb=20160724101153",
+        "content": "While in a Shadow Dash, hold Attack 2 to morph into a giant skull, which explodes on release.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Nether Wielder",
+        "abilities": [
+          {
+            "name": "Unstable Forces",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Cynderpath1upgrade1.png/revision/latest?cb=20120420190604",
+            "content": "Hitting a ghost with spectral lightning makes it explode, damaging enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Breath Control",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ac/Cynderpath1upgrade2.png/revision/latest?cb=20120420190622",
+            "content": "Spectral Lightning hold duration is increased.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Breath of Power",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/24/Cynderpath1upgrade3.png/revision/latest?cb=20120420190944",
+            "content": "Spectral Lightning damages enemies in a larger area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Shadowdancer",
+        "abilities": [
+          {
+            "name": "Death Bound",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Cynderpath2upgrade1.png/revision/latest?cb=20120420203442",
+            "content": "Enemies hit by ghosts move slower.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Ghost Haunter",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ec/Cynderpath2upgrade2.png/revision/latest?cb=20120420203616",
+            "content": "Ghosts last longer and have a greater attack range.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Shadow Strike",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Cynderpath2upgrade3.png/revision/latest?cb=20120420203659",
+            "content": "Shadow Dash does damage to enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "cynder",
+      "id": "cynder_s1",
       "variant_name": "Cynder",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
+      "type": "Core",
+      "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/2/27/Cynder_Promo.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Spectral Lightning",
+        "Shadow Dash",
+        "Cynder Flight",
+        "Black Lightning",
+        "Shadow Reach"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "39"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Cynder"
     }
   ]
