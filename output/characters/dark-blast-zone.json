@@ -4,6 +4,7 @@
   "species": "Furnace Knight",
   "gender": "Male",
   "element": "Fire",
+  "role": "Dark Edition SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -11,22 +12,118 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "While on a special mission, a team of Skylanders discovered a secret lair where Kaos was experimenting with a new discovery -- Petrified Darkness -- which he initially intended to use to stage a coup against Skylands . In their fight to stop Kaos, the lair exploded, releasing a cloud of pure Darkness. The Skylanders knew they couldn't let it escape, so they absorbed this energy, transforming them into dark versions of themselves. Fortunately, Spyro learned to tame that darkness within him long ago. So with his help, these Skylanders now have also learned to control it -- combining its power with their own to fight Kaos and the forces of evil.",
-  "personality": null,
-  "story": null,
+  "description": "Dark Blast Zone is the Dark alter ego of Blast Zone in Skylanders: Swap Force.",
+  "biography": "While on a special mission, a team of Skylanders discovered a secret lair where Kaos was experimenting with a new discovery -- Petrified Darkness -- which he initially intended to use to stage a coup against Skylands. In their fight to stop Kaos, the lair exploded, releasing a cloud of pure Darkness. The Skylanders knew they couldn't let it escape, so they absorbed this energy, transforming them into dark versions of themselves. Fortunately, Spyro learned to tame that darkness within him long ago. So with his help, these Skylanders now have also learned to control it -- combining its power with their own to fight Kaos and the forces of evil.",
+  "quote": "Blast and Furious!",
+  "personality": "Dark Blast Zone is a disciplined Furnace Knight who has mastered the darkness within himself. He is dedicated to protecting Skylands and uses his transformed powers to combat Kaos and his forces.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "While on a special mission, a team of Skylanders discovered a secret lair where Kaos was experimenting with a new discovery -- Petrified Darkness -- which he initially intended to use to stage a coup against Skylands. In their fight to stop Kaos, the lair exploded, releasing a cloud of pure Darkness. The Skylanders knew they couldn't let it escape, so they absorbed this energy, transforming them into dark versions of themselves. Fortunately, Spyro learned to tame that darkness within him long ago. So with his help, these Skylanders now have also learned to control it -- combining its power with their own to fight Kaos and the forces of evil.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Dark_Blast_Zone_Promo.jpg/revision/latest?cb=20130819002755"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Blast and Furious!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Dark Blast Zone resembles the Black Knight Ghost from Scooby Doo 2: Monsters Unleashed."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Dark Blast Zone",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Dark_Blast_Zone"
+    }
+  ],
+  "gameplay": "Dark Blast Zone uses fire-based attacks and rocket-powered movement. As a member of the SWAP Force, his top half can be combined with other SWAP Force bottom halves to create new ability combinations. His primary attacks include Bomb Throw and Flame Breath, while his Rocket power allows for high-speed traversal.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Blast_Zone",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Bomb Throw",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Dark_Blast_Zone_Promo.jpg/revision/latest?cb=20130819002755",
+        "content": "Dark Blast Zone throws explosive bombs at enemies to deal high area damage.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#B22222",
+          "bg_content": "#FFA500"
+        }
+      },
+      {
+        "name": "Rocket Dash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Dark_Blast_Zone_Promo.jpg/revision/latest?cb=20130819002755",
+        "content": "Using his rocket boots, Dark Blast Zone dashes forward, leaving a trail of fire and damaging anyone in his path.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#B22222",
+          "bg_content": "#FFA500"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Flame Breath",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Dark_Blast_Zone_Promo.jpg/revision/latest?cb=20130819002755",
+        "content": "Dark Blast Zone exhales a stream of fire that deals continuous damage to enemies in front of him.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#B22222",
+          "bg_content": "#FFA500"
+        }
+      },
+      {
+        "name": "Flaming Bombs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Dark_Blast_Zone_Promo.jpg/revision/latest?cb=20130819002755",
+        "content": "Dark Blast Zone's bombs now deal increased fire damage and have a larger explosion radius.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#B22222",
+          "bg_content": "#FFA500"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Ready For Blast Off",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Dark_Blast_Zone_Promo.jpg/revision/latest?cb=20130819002755",
+        "content": "The ultimate rocket dash that leaves a massive explosion at the start and end of the dash.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#B22222",
+          "bg_content": "#FFA500"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "dark-blast-zone",
+      "id": "dark-blast-zone-variant",
       "variant_name": "Dark Blast Zone",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Dark Edition",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Dark_Blast_Zone_Promo.jpg/revision/latest?cb=20130819002755",
       "attacks": [
@@ -36,7 +133,24 @@
         "Ready For Blast Off",
         "Flaming Bombs"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "190"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "130"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "50"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Blast_Zone"
     }
   ]
