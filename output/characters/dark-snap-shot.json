@@ -4,6 +4,7 @@
   "species": "Crocagator",
   "gender": "Male",
   "element": "Water",
+  "role": "Dark Edition Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -11,22 +12,119 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Swamplands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Dark Snap Shot is the dark counterpart of Snap Shot in Skylanders: Trap Team.",
   "biography": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium – which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it – combining the dark power with their own to fight Kaos and the forces of evil.",
-  "personality": null,
-  "story": null,
+  "quote": "Croc and Roll!",
+  "personality": "Fortunately, they have learned to control it – combining the dark power with their own to fight Kaos and the forces of evil.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium – which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it – combining the dark power with their own to fight Kaos and the forces of evil.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8d/Dark_Snap_Shot_Promo.jpg/revision/latest?cb=20140721141921"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Croc and Roll!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Dark Snap Shot has more health than his original counterpart.",
+    "This is the only alter ego of Snap Shot available as a toy. The rest of Snap Shot's alter egos are digital-only."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Dark Snap Shot",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Dark_Snap_Shot"
+    }
+  ],
+  "gameplay": "Dark Snap Shot features increased health compared to his normal counterpart. As a Trap Master, he uses Traptanium-based attacks like Traptanium Arrows and Crystal Slam to defeat enemies. These are the starting and maximum Statistics for this Skylander in the Skylanders games.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Snap_Shot",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Traptanium Arrows",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8d/Dark_Snap_Shot_Promo.jpg",
+        "content": "Shoot powerful Traptanium arrows at enemies from a distance.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#E0F7FA"
+        }
+      },
+      {
+        "name": "Crystal Slam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8d/Dark_Snap_Shot_Promo.jpg",
+        "content": "Slam the Traptanium bow into the ground to create a crystal shockwave.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#E0F7FA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Sure Shot Croc",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8d/Dark_Snap_Shot_Promo.jpg",
+        "content": "Increases the accuracy and damage of arrows.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#E0F7FA"
+        }
+      },
+      {
+        "name": "Arrowsplosion",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8d/Dark_Snap_Shot_Promo.jpg",
+        "content": "Arrows explode on impact, dealing area damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#E0F7FA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Big Wave Torrent",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8d/Dark_Snap_Shot_Promo.jpg",
+        "content": "Unleash a massive torrent of water that washes away all enemies in its path.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#E0F7FA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "dark-snap-shot",
+      "id": "dark-snap-shot-dark-edition",
       "variant_name": "Dark Snap Shot",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Dark Edition",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/8/8d/Dark_Snap_Shot_Promo.jpg/revision/latest?cb=20140721141921",
       "attacks": [
@@ -36,7 +134,44 @@
         "Arrowsplosion",
         "Big Wave Torrent"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 / 580"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 / 118"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 / 54"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 / 80"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46 / 96"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "130"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "130"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "220"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "120"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Snap_Shot"
     }
   ]
