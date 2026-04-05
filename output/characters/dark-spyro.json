@@ -1,29 +1,374 @@
 {
   "id": "dark-spyro",
   "name": "Dark Spyro",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
+  "species": "Dragon",
+  "gender": "Male",
+  "element": "Magic / Dark",
+  "role": "Dark Edition Skylander",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Lost Islands",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [],
+  "world": [
+    "Unknown"
+  ],
+  "description": "Dark Spyro is the dark counterpart of Spyro who comes with the Nintendo 3DS version of Skylanders: Spyro's Adventure and in a single pack in certain countries. He is currently the only variant to have a different catchphrase and moveset (3DS only) than his normal counterpart. He has a Series 3 Mega Ram counterpart. In Skylanders: Ring of Heroes, Dark Spyro has been renamed as Shadow Spyro and is part of the Dark element.",
   "biography": "Spyro is a rare magical dragon with the ability to harness the power of the other elements, though he prefers to master fire. However, this innate power also leaves him vulnerable to the influence of dark magic. When The Darkness is nearby, Spyro can channel his energy and combine its power with his own, becoming Dark Spyro. Over the years, he has learned to focus and control his power, using this dark magic to fight the forces of evil.",
-  "personality": "Dark Spyro is more wild, erratic, and darker than his normal counterpart, as seen in his Nintendo 3DS gameplay. While in this form, he is always at risk of being consumed by the dark magic. This process worries his fellow Skylanders at times as they fear that the evil forces may eventually corrupt their friend. &#91; 1 &#93;",
-  "story": null,
+  "quote": "Lights Out!",
+  "personality": "Dark Spyro is more wild, erratic, and darker than his normal counterpart, as seen in his Nintendo 3DS gameplay. While in this form, he is always at risk of being consumed by the dark magic. This process worries his fellow Skylanders at times as they fear that the evil forces may eventually corrupt their friend.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Spyro had some sensational skills. Unlike the other Skylanders, he could harness the power of every element, but still preferred his original favorite - Fire. But there was a sinister side to Spyro's ability. Master Eon observed this first-hand when The Darkness attempted to corrupt the Core of Light. Spyro began to shudder and shake. His purple skin seemed to flush and flare as dark magic flowed through him like lightning. Only Master Eon's speedily cast spells saved Spyro from a foul fate. With time, and Eon's tutelage, Spyro had learned to master this dark magic know-how. And when he harnessed energy, he transformed into Dark Spyro! However, only Spyro's brave heart and careful control prevented him from being consumed by darkness.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Lights Out!"
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Lights Out"
+      ]
+    }
+  ],
+  "trivia": [
+    "Dark Spyro's voice is described as one that isn't recognizable by those around him. 'It was deeper, with an edge they'd never heard before - like something from the depths of a nightmare.'",
+    "Dark Spyro originated from The Legend of Spyro series, as Spyro the Dragon's dark form.",
+    "Unlike his Legend of Spyro counterpart, Dark Spyro is capable of controlling his dark impulses.",
+    "Despite having a completely different catchphrase, Dark Spyro still says normal Spyro's catchphrase in the games.",
+    "Dark Spyro was the only 'Dark' variant until the Dark Skylanders made their debut. Before Swap Force, his scales were also dark purple, and were changed to black like the other variants.",
+    "Dark Spyro is the first Alter Ego to be reposed."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Dark Spyro (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Dark_Spyro_(extended)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Dark Spyro Trailer (Lights Out)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Dark_Spyro_Trailer_(Lights_Out)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventures Extraction- Dark Spyro",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventures_Extraction-_Dark_Spyro"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Dark Spyro Preview (Lights Out)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Dark_Spyro_Preview_(Lights_Out)"
+    },
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Dark Mega Ram Spyro (Lights Out)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Dark_Mega_Ram_Spyro_(Lights_Out)"
+    }
+  ],
+  "gameplay": "Although Dark Spyro has the exact same abilities as Spyro in the console version of Skylanders: Spyro's Adventure (and thus the same as Legendary Spyro, with only a color swap), his changes are quite dramatic in the Nintendo 3DS versions of the game and later handheld installments. In the Nintendo 3DS versions, Spyro and Legendary Spyro are quite masterful shooting just regular fireballs and using their Horn Charge. However, Dark Spyro is more adept at physical slashes and using magical thunder. At first he can use only a three-hit slashing combo, and of course dash and jump, and is also one of the characters able to glide. As he levels up, he learns to shoot thunder balls (which he can later run over to get power and speed boosts) and shoot powerful rays of lightning energy.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Spyro",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Dragon's Fire",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/33/Spyroprimarypower.png/revision/latest?cb=20120214014825",
+        "content": "Dark Spyro breathes balls of flame from his mouth, incinerating enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Charge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Spyrosecondarypower.png/revision/latest?cb=20120214014839",
+        "content": "Dark Spyro runs head down knocking over enemies with his horns.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Long Range Raze",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Spyrobasicupgrade1.png/revision/latest?cb=20120214015246",
+        "content": "Enhancing Dark Spyro's lung capacity, this ability lets Spyro shoot flameballs that travel much farther than before.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Spyro's Flight",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0a/Spyrobasicupgrade2.png/revision/latest?cb=20120214015300",
+        "content": "Can fly over water and move at great speed.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Sprint Charge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Spyrobasicupgrade3.png/revision/latest?cb=20120214015320",
+        "content": "Dark Spyro is able to charge for a longer distance with this upgrade.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Triple Flameballs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Spyrobasicupgrade4.png/revision/latest?cb=20120214015336",
+        "content": "Shoot 3 Flameballs instead of one.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Spyro's Earth Pound",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/31/Spyrosoulgempower.png/revision/latest?cb=20120214015212",
+        "content": "Dark Spyro performs a devastating dive-bomb head smash while flying, damaging enemies all around him.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 3,
+        "name": "Head Start!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/Spyrowowpow2power.png/revision/latest?cb=20160724102201",
+        "content": "Summon a magic worm ally at the end of your charge and send it after your enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Sheep Burner Spyro",
+        "abilities": [
+          {
+            "name": "Fire Shield",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fd/Spyropath1upgrade1.png/revision/latest?cb=20120214015358",
+            "content": "This upgrade generates fire shields around Dark Spyro when he uses his Flameball attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Exploding Fireblast",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/47/Spyropath1upgrade2.png/revision/latest?cb=20120214015411",
+            "content": "Dark Spyro's central Flameball ignites into an explosive force that not only does more damage but hits multiple enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "The Daybringer Flame",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a8/Spyropath1upgrade3.png/revision/latest?cb=20120214015422",
+            "content": "Hold down the primary power button to build up this attack, which generates a flame so big and bright it is said to bring daylight to the sky.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Blitz Spyro",
+        "abilities": [
+          {
+            "name": "Stun Charge",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/65/Spyropath2upgrade1.png/revision/latest?cb=20120214015721",
+            "content": "Enemies hit by Dark Spyro's charge become temporarily stunned.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Comet Dash",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Spyropath2upgrade2.png/revision/latest?cb=20120214015735",
+            "content": "A magic aura surrounds Dark Spyro's horns imbuing them with extra power and damage that burns enemies in its path.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Ibex's Wrath Charge",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b0/Spyropath2upgrade3.png/revision/latest?cb=20120214015749",
+            "content": "Find Dark Spyro's extra gear. With this upgrade, Dark Spyro builds up speed and such a destructive force that it causes the very air around him to ignite into the magical form of fiery ibex horns.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "dark-spyro",
+      "id": "dark-spyro-s1",
       "variant_name": "Dark Spyro",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
+      "type": "Core",
+      "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/2/24/300px-Dark-Spyro_01.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Dragon's Fire",
+        "Charge",
+        "Fire Shield"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Spyro"
+    },
+    {
+      "id": "dark-mega-ram-spyro-s3",
+      "variant_name": "Dark Mega Ram Spyro",
+      "edition": "Series 3",
+      "type": "Core",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9a/S3_Dark_Spyro.jpg",
+      "attacks": [
+        "Dragon's Fire",
+        "Charge",
+        "Head Start!"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "75"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "110"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "65"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Spyro"
+    },
+    {
+      "id": "shadow-spyro-roh",
+      "variant_name": "Shadow Spyro",
+      "edition": "Ring of Heroes",
+      "type": "Alter Ego",
+      "game": "Skylanders: Ring of Heroes",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/24/300px-Dark-Spyro_01.jpg",
+      "attacks": [
+        "Dark Fire Shot",
+        "Enraged Charge",
+        "Capture Opportunity",
+        "Smooth Scales"
+      ],
+      "stats": [
+        {
+          "stat_name": "Dark Fire Shot Damage",
+          "stat_value": "85% of ATK"
+        },
+        {
+          "stat_name": "Enraged Charge Damage",
+          "stat_value": "121% of ATK"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Spyro"
     }
   ]
