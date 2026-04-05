@@ -4,27 +4,123 @@
   "species": "Elf",
   "gender": "Female",
   "element": "Life",
+  "role": "Dark Edition SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Dark Super Shot Stealth Elf is the Dark Edition counterpart of Super Shot Stealth Elf in Skylanders: SuperChargers. She is exclusive to Dark Edition Starter Packs for the Xbox and PlayStation platforms.",
   "biography": "While on a special mission, a team of Skylanders discovered a secret lair where Kaos was experimenting with a new discovery -- Petrified Darkness -- which he initially intended to use to stage a coup against Skylands. In their fight to stop Kaos, the lair exploded, releasing a cloud of pure Darkness. The Skylanders knew they couldn't let it escape, so they absorbed this energy, transforming them into dark versions of themselves. Fortunately, Spyro learned to tame that darkness within him long ago. So with his help, these Skylanders now have also learned to control it -- combining its power with their own to fight Kaos and the forces of evil.",
-  "personality": null,
-  "story": null,
+  "quote": "Silent but Deadly!",
+  "personality": "Dark Super Shot Stealth Elf is a courageous hero who has learned to tame the darkness within her, using it as a weapon against the forces of Kaos.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "While on a special mission, a team of Skylanders discovered a secret lair where Kaos was experimenting with a new discovery -- Petrified Darkness -- which he initially intended to use to stage a coup against Skylands. In their fight to stop Kaos, the lair exploded, releasing a cloud of pure Darkness. The Skylanders knew they couldn't let it escape, so they absorbed this energy, transforming them into dark versions of themselves. Fortunately, Spyro learned to tame that darkness within him long ago. So with his help, these Skylanders now have also learned to control it -- combining its power with their own to fight Kaos and the forces of evil.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Dark_Super_Shot_Stealth_Elf_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20150909223446"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Silent but Deadly!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Unlike Dark Stealth Elf, Dark Super Shot Stealth Elf has black skin.",
+    "She, Dark Stealth Elf and Dark Golden Queen are the only dark edition counterparts of female Skylanders.",
+    "She's the only Dark Edition SuperCharger whose signature vehicle doesn't have a dark edition counterpart.",
+    "In Imaginators, when viewing the Skylanders collection, her character icon shows her official render from SuperChargers, but in regular gameplay, it shows the icon for her Series 3 counterpart instead.",
+    "She shares the same problem with Legendary Jet-Vac."
+  ],
+  "trailers": [],
+  "gameplay": "In combat, Dark Super Shot Stealth Elf utilizes her Dagger Cannon for ranged attacks and her agility to close the distance for melee strikes. She can create distractions to confuse enemies and uses 'Smog Slash' to maintain control over the battlefield. Her stats emphasize Speed and Agility, making her a fast-paced attacker.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Super_Shot_Stealth_Elf",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Dagger Cannon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Dark_Super_Shot_Stealth_Elf_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20150909223446",
+        "content": "Fires projectiles from her signature weapon.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Say Hello",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Dark_Super_Shot_Stealth_Elf_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20150909223446",
+        "content": "A quick melee strike to engage enemies up close.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Circle Slash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Dark_Super_Shot_Stealth_Elf_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20150909223446",
+        "content": "A spinning blade attack that damages all surrounding enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Smog Slash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Dark_Super_Shot_Stealth_Elf_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20150909223446",
+        "content": "Releases a cloud of dark smog to confuse and damage foes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Distraction Destruction",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Dark_Super_Shot_Stealth_Elf_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20150909223446",
+        "content": "The ultimate distraction technique to decimate foes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "dark-super-shot-stealth-elf",
       "variant_name": "Dark Super Shot Stealth Elf",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Dark Edition SuperCharger",
       "game": "Skylanders: SuperChargers",
       "image": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Dark_Super_Shot_Stealth_Elf_Promo.jpg/revision/latest?cb=20150909223446",
       "attacks": [
@@ -34,7 +130,44 @@
         "Smog Slash",
         "Distraction Destruction"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "240 / 480"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 / 98"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 / 42"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 / 58"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 / 75"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "190"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "220"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "190"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Super_Shot_Stealth_Elf"
     }
   ]
