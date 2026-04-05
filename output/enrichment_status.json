@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-04T21:15:28.766Z",
+  "last_run": "2026-04-05T09:21:44.216Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -188,6 +188,26 @@
     {
       "name": "Countdown",
       "sha": "..."
+    },
+    {
+      "name": "crusher.json",
+      "sha": "472a3740dc6753b88f07e843cacd18c29fdca9e1"
+    },
+    {
+      "name": "cupid-flameslinger.json",
+      "sha": "1807fd15d61b52cb52df6538b7e70cf05de67ba5"
+    },
+    {
+      "name": "cy.json",
+      "sha": "e1906fa519e63e2f5b703b66c89441543932ff35"
+    },
+    {
+      "name": "cyclops-snail.json",
+      "sha": "1a9258ad4f9af6b31ef9ded4bc67448f98015a36"
+    },
+    {
+      "name": "cynder.json",
+      "sha": "ba759be3e23aba423a607decbc57c05f3ff6df84"
     }
   ]
 }
