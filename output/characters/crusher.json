@@ -4,6 +4,7 @@
   "species": "Rock Golem",
   "gender": "Male",
   "element": "Earth",
+  "role": "Giant",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -16,22 +17,347 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [
+    "Steel Plated Smash Hit"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Crusher is a rock golem Earth Skylander and one of the eight Giants in Skylanders: Giants. He also has a black counterpart called Granite Crusher, whose gems are blue instead of green.",
   "biography": "Crusher knew from the moment he put on his father's mining helmet that his true passion in life was crushing rocks. He was fascinated with rock-lore and traveled all throughout Skylands in search of rare minerals to pulverize with his powerful hand-crafted rock hammer, which is also named Crusher. But along his travels, he discovered that the evil Arkeyan King was also searching for rocks-to melt down into weapons of war. Crusher's fury built up like an avalanche. After all, crushing was his job! So he put aside his life's passion and decided to use his hammer for a greater purpose- crushing Arkeyan Robots.",
-  "personality": "Single-minded and completely unstoppable, Crusher crashes through any situation with the subtlety of a three-ton hammer. He's also incredibly thick-skinned - probably because his skin's made of stone. &#91; 2 &#93;",
-  "story": null,
+  "quote": "It's Crush Hour!",
+  "personality": "Single-minded and completely unstoppable, Crusher crashes through any situation with the subtlety of a three-ton hammer. He's also incredibly thick-skinned - probably because his skin's made of stone.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "The big Stone Golem, Crusher is fascinated by rocks. Inspired by his father, who was a miner, Crusher would travel across Skylands in search of rare and interesting stones and minerals. Then, when he found a particularly fascinating specimen, he would take great delight in smashing it to smithereens! You see Crusher, as his name suggests, loves to crush things. He especially likes to crush rocks. Big rocks, small rocks, shiny rocks, pointy rocks. Basically, if it starts with 'R' and ends with 'OCKS', it had better watch out when Crusher is around. Armed with his huge hammer, which he also calls Crusher (his imagination isn't exactly his strong point), this Giant spent many happy years wandering around and smashing stuff to bits. Until, that is, he discovered that the Arkeyan King was pinching all the rocks for his own evil ends. That day Crusher discovered there was something even more fun to do than smashing rocks. Smashing Arkeyans!",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "When Malefor was on his way to attack the Skylanders Academy, Crusher, the Giants and the other Skylanders were summoned to stop the evil dragon. The Giants managed to grab hold of the Malefor's tail to hold him down, but were caught off guard when the mechanical tail was also made as a weapon. In the end, all Skylanders, including the Giants, were defeated in a single blow by Malefor's tail swipe, allowing the evil Undead Dragon King to absorb their powers to make himself more stronger.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "It's Crush Hour!",
+        "Rubble trouble!",
+        "I totally rock!",
+        "Reform!",
+        "All right!",
+        "Rock on!",
+        "Rockin'!",
+        "Piledriver!",
+        "Rocked it!",
+        "Crushing time!",
+        "Crushing it!",
+        "I'm a smash hit!",
+        "Hammer it home!",
+        "Lower the boom!",
+        "Nailed it!",
+        "You got pulverized!",
+        "Right on!",
+        "Got it!",
+        "Sweet!",
+        "Oh yeah!",
+        "Yeah!",
+        "Yes!",
+        "Can't stop now!",
+        "Powering through.",
+        "Wow those are big numbers!",
+        "Looking pretty solid.",
+        "This rocks!",
+        "This is a new look for me.",
+        "Ok, I can roll with that!",
+        "I dig the new name!"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "No sweat! We got your back!"
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Rock on!",
+        "Hammer it home!",
+        "Ready to roll!",
+        "Let's do it!",
+        "Hammer it up!",
+        "It's Crush Hour!",
+        "Back in the fight!",
+        "Crush time!",
+        "Rolling out!",
+        "Crush you later!",
+        "Breaking new ground!",
+        "Piling it on!",
+        "Rockin'!",
+        "Solid!",
+        "Paydirt!",
+        "Power play!",
+        "Strong!",
+        "Smashin'!",
+        "Hammer slammer!",
+        "Dropping the hammer!",
+        "Unstoppable!",
+        "Rock solid!",
+        "A real eye opener.",
+        "Look me in the eye!",
+        "Rock slide!",
+        "Rock and roll!",
+        "This one's for you, pops.",
+        "Thanks for everything, pops.",
+        "You got rocked!",
+        "Pulverized...",
+        "Going down...!",
+        "Rolled over...",
+        "A crushing blow!",
+        "Rock bottom...",
+        "Landslide victory!",
+        "Crushed it!",
+        "Two words: big hammer.",
+        "Big, right?",
+        "Huh?",
+        "Totally chiseled!",
+        "What's with the pounding?!",
+        "Let's get to work!",
+        "On a roll!",
+        "Bigger and boulder!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Some of Crusher's prototype names include Earth Titan, Rock Giant and Earth Giant.",
+    "Crusher slightly resembles the Giant from the movie, The Iron Giant.",
+    "In the earliest alpha build of Giants, Crusher is bugged so that he appears to dance within the Skylander menu. His abilities/upgrades are differently named and arranged than the final versions.",
+    "He is mentioned in Steel Plated Smash Hit's biography as the winner of the last year's Destruct-o-Thon as of Superchargers.",
+    "Crusher resembles the Egg Hammer from Sonic Heroes.",
+    "He has crystals all over his body, so he might be a Crystal Golem like Prism Break.",
+    "Crusher is the only Giant who can lift a boulder with one hand, carrying the hammer in the other.",
+    "His catchphrase is a play on 'It's Rush Hour!' A reference to when a main road has a lot of heavy traffic.",
+    "He has the highest health out of all the Giants.",
+    "In a Happy Meal interview, Crusher reveals that he wears glasses, listens to rock music, and tried calling his hammer 'Frank'.",
+    "He is voiced by Kevin Sorbo, who also portrays Hercules in Hercules: the Legendary Journeys.",
+    "Crusher, Prism Break and Jade Flashwing have green crystals around their bodies.",
+    "Crusher, Thumpback and Ninjini are the only three Giants to have weapons that are not a part of their bodies.",
+    "If the Rock Grinder path is taken, Crusher has the most powerful primary weapon out of all the Giants, his hammer doing 50 damage.",
+    "He is one of the few Skylanders with hammer-like abilities (others include Stump Smash, Rubble Rouser, Wallop, and Hammer Slam Bowser).",
+    "He slightly resembles Knack as both can reassemble their bodies.",
+    "His Turn to Stone move is similar to Medusa's powers in Greek mythology.",
+    "His battle cry 'Hammer it Home!' eventually became the earth Trap Master, Wallop's catchphrase.",
+    "The name of one of his upgrades, 'Hammer Daddy,' is similar to the original name of Krypt King, 'Chop Chop Daddy.'",
+    "His toy figure's hammer handle has symbols carved into it.",
+    "Crusher and Wham-Shell are the only Skylanders to change their 'Need to Rest' animations between games."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Giants - Crusher Preview Trailer (It's Crush Hour!)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Crusher_Preview_Trailer_(It%27s_Crush_Hour!)"
+    },
+    {
+      "name": "Meet the Skylanders Crusher",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Crusher"
+    },
+    {
+      "name": "Skylanders Giants - Crusher Soul Gem Preview (It's Crush Hour)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Crusher_Soul_Gem_Preview_(It%27s_Crush_Hour)"
+    }
+  ],
+  "gameplay": "Crusher attacks with his large, menacing hammer (also named Crusher) and his secondary attack, shooting eye beams that turn enemies to stone. He can also self-destruct to scatter his rocky parts, but has the ability to reform. In Skylanders: Battlecast, he can also change his composition to endure more attacks or raise his attack. His Special Ability is Golem's Strength, increasing his power, and his signature Gear is his father's hammer, aptly titled My Father's Hammer, which corresponds to his Hammer Daddy console upgrade and doubles his damage.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Crusher",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Crusher's Crusher",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3f/Crusherprimarypower.png/revision/latest?cb=20121118041945",
+        "content": "Press Attack 1 to swing the big hammer, also named 'Crusher'.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Turn To Stone",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/15/Crushersecondarypower.png/revision/latest?cb=20121118042024",
+        "content": "Press Attack 2 button to shoot eye beams that turn enemies to stone.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Ground Grinder",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/be/Crusherbasicupgrade1.png/revision/latest?cb=20121118042230",
+        "content": "Hold Attack 1 to hit the ground so hard that it makes a crack in the ground that damages enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Rockslide",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5f/Crusherbasicupgrade2.png/revision/latest?cb=20121118020413",
+        "content": "Press Attack 3 to break apart into boulders running over anything in their path.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Super Crusher",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Crusherbasicupgrade3.png/revision/latest?cb=20121118020432",
+        "content": "Hammer does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Cavelight Blast",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/11/Crusherbasicupgrade4.png/revision/latest?cb=20121118020528",
+        "content": "While holding Attack 2, press Attack 1 to launch a pulse of energy that damages enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Rockslidin' Out",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Crushersoulgempower.png/revision/latest?cb=20121118015520",
+        "content": "Hold Attack 3 to steer Rockslide boulders around.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Rock Grinder",
+        "abilities": [
+          {
+            "name": "Crusher Combos",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/62/Crusherpath1upgrade1.png/revision/latest?cb=20170504053241",
+            "content": "Press Attack 1, Attack 1, Hold Attack 2 for Hammer Throw. Press Attack 1, Attack 1, Hold Attack 3 for 360 spin.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Hammer Daddy",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/68/Crusherpath1upgrade2.png/revision/latest?cb=20170504053255",
+            "content": "Hammer takes the face of Crusher's father and does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Triple Ground Grinder",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a9/Crusherpath1upgrade3.png/revision/latest?cb=20170504053306",
+            "content": "Hold Attack 1 to hit the ground and make three cracks appear to damage enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Rubble Master",
+        "abilities": [
+          {
+            "name": "Controlled Rockslide",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/73/Crusherpath2upgrade1.png/revision/latest?cb=20121118020757",
+            "content": "Control the direction of your Rockslide attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Boulder Bombs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Crusherpath2upgrade2.png/revision/latest?cb=20121118020810",
+            "content": "While in a Rockslide, press Attack 1 to detonate boulders.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Bedrock Armor",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/38/Crusherpath2upgrade3.png/revision/latest?cb=20121118020824",
+            "content": "Special rock from deep within the earth provides increased armor.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "crusher",
       "variant_name": "Crusher",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Giant",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Crusher.jpg",
       "attacks": [
@@ -41,7 +367,28 @@
         "Ground Grinder",
         "Cavelight Blast"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "470 (max. 940)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "20 (max. 68)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40 (max. 90)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Crusher"
     }
   ]
