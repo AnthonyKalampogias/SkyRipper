@@ -4,30 +4,60 @@
   "species": "Elf",
   "gender": "Male",
   "element": "Fire",
-  "primary_game": "Skylanders: Lost Islands (February 2013)",
+  "role": "Skylander",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Love is in the air with the arrival of Cupid Flameslinger. Cupid Flameslinger was the Valentine's Day exclusive version of Flameslinger, only available on Skylanders: Lost Islands. In the months of February 2013 and 2014, he provides 25-percent more gold. He was able to be won in Willy's Wishing Well or could be purchased for 1500 Gems.",
+  "biography": "Cupid Flameslinger was the Valentine's Day exclusive version of Flameslinger, only available on Skylanders: Lost Islands. In the months of February 2013 and 2014, he provides 25-percent more gold. He was able to be won in Willy's Wishing Well or could be purchased for 1500 Gems.",
+  "quote": "Love is in the air with the arrival of Cupid Flameslinger.",
+  "personality": "As a festive Valentine's Day version of Flameslinger, he brings a celebratory spirit to the Skylands, focused on sharing the love and increasing the gold collection of his allies.",
+  "story": [
+    {
+      "story_name": "Cupid Flameslinger",
+      "content": "Cupid Flameslinger was the Valentine's Day exclusive version of Flameslinger, only available on Skylanders: Lost Islands. In the months of February 2013 and 2014, he provides 25-percent more gold. He was able to be won in Willy's Wishing Well or could be purchased for 1500 Gems.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Cupid_Flameslinger.jpg/revision/latest?cb=20130203075030"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Description",
+      "content": [
+        "Love is in the air with the arrival of Cupid Flameslinger."
+      ]
+    }
+  ],
+  "trivia": [
+    "Cupid Flameslinger is the first Lost Islands-exclusive Skylander.",
+    "He is also the first festive Skylander.",
+    "He is the only Valentine's Day Skylander not to be of the Magic element."
+  ],
+  "trailers": [],
+  "gameplay": "In the months of February 2013 and 2014, Cupid Flameslinger provides 25-percent more gold to the player in Skylanders: Lost Islands. He was able to be won in Willy's Wishing Well or could be purchased for 1500 Gems.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Cupid_Flameslinger",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "cupid-flameslinger",
       "variant_name": "Cupid Flameslinger",
-      "edition": "Series 1",
-      "type": "Core",
-      "game": "Skylanders: Lost Islands (February 2013)",
+      "edition": "Special",
+      "type": "Alter Ego",
+      "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/19/Cupid_Flameslinger.jpg/revision/latest?cb=20130203075030",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Cupid_Flameslinger"
     }
   ]
