@@ -4,21 +4,118 @@
   "species": "Millipede",
   "gender": "Male",
   "element": "Life",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Flutter Bay"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Eggcited Thrillipede is the Easter counterpart of Thrillipede in Skylanders: SuperChargers.",
   "biography": "Thrillipede is all suited up and ready to defend his title as the reigning Dragon Egg Toss Champion. After last year's controversy, when Kaos wrongly accused him of coating several Dragon Eggs with sticky tape, Thrillipede is eager to show everyone that his egg tossing supremacy was no fluke. And to prove his point, he's agreed to enter the competition with one hand tied behind his back!",
-  "personality": null,
-  "story": null,
+  "quote": "All Hands on Deck!",
+  "personality": "Eggcited Thrillipede is a confident and highly competitive athlete. He is extremely proud of his status as the Dragon Egg Toss Champion and is willing to go to extreme lengths, such as fighting with one hand tied behind his back, to prove that his skills are genuine.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Thrillipede is all suited up and ready to defend his title as the reigning Dragon Egg Toss Champion. After last year's controversy, when Kaos wrongly accused him of coating several Dragon Eggs with sticky tape, Thrillipede is eager to show everyone that his egg tossing supremacy was no fluke. And to prove his point, he's agreed to enter the competition with one hand tied behind his back!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c6/Eggcited_Thrillipede_Promo.jpg/revision/latest/scale-to-width-down/267?cb=20160302194139"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "All Hands on Deck!"
+      ]
+    }
+  ],
+  "trivia": [
+    "While his eyes are normal in his promotional art, Eggcited Thrillipede's eyes in the games proper are completely black."
+  ],
+  "trailers": [
+    {
+      "name": "OFFICIAL Skylanders SuperChargers Action Clips Eggcited Thrillipede",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:OFFICIAL_Skylanders_SuperChargers_Action_Clips_Eggcited_Thrillipede"
+    }
+  ],
+  "gameplay": "Eggcited Thrillipede utilizes bug bombs and brawling techniques to defeat his foes. His moveset focuses on projectile explosions and trapping enemies in cocoons, while also having the ability to summon gnats to deal continuous damage.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Eggcited_Thrillipede",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Bug Bomb",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/EggcitedThrillipede_Screenshot2.jpg/revision/latest/scale-to-width-down/185?cb=20230809224536",
+        "content": "Throws explosive bug bombs at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#E8F5E9"
+        }
+      },
+      {
+        "name": "Bug Brawl",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/EggcitedThrillipede_Screenshot2.jpg/revision/latest/scale-to-width-down/185?cb=20230809224536",
+        "content": "Engages in close-quarters combat with multiple limbs.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#E8F5E9"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Cocooned",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4d/EggcitedThrillipede_Screenshot.jpg/revision/latest/scale-to-width-down/185?cb=20230809224318",
+        "content": "Traps enemies in a sticky cocoon to immobilize them.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#E8F5E9"
+        }
+      },
+      {
+        "name": "Better Fly",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4d/EggcitedThrillipede_Screenshot.jpg/revision/latest/scale-to-width-down/185?cb=20230809224318",
+        "content": "Enhances flight capabilities for better mobility.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#E8F5E9"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Gnawing Gnats",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/62/Eggcited_Thrillipede_Figure.png/revision/latest/scale-to-width-down/185?cb=20241030020846",
+        "content": "Summons a swarm of gnats that persistently attack and distract enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#E8F5E9"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "eggcited-thrillipede",
@@ -34,7 +131,24 @@
         "Better Fly",
         "Gnawing Gnats"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Power",
+          "stat_value": "210"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "150"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Eggcited_Thrillipede"
     }
   ]
