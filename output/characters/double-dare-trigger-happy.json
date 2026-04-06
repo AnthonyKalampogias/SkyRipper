@@ -4,21 +4,261 @@
   "species": "Gremlin",
   "gender": "Male",
   "element": "Tech",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Unexpected Allies",
+  "cameos": [
+    "Unexpected Allies"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Double Dare Trigger Happy is the SuperCharger counterpart of Trigger Happy in Skylanders: SuperChargers. His signature vehicle is the Gold Rusher.",
+  "biography": "As a result of being transformed by a Rift Engine, Trigger Happy's abilities changed drastically, though he is still able to shoot coins rapidly out of his flaming pistols. He can summon a barrier of pyrotechnics to do group damage with his secondary ability, Crowd-Pleaser. When upgraded further, his tertiary ability, Breaking Cannon, Trigger Happy can shoot himself out of an actual cannon and damage enemies on impact. After purchasing his Soul Gem, He's Safe!, the gremlin gunslinger will be able to revive himself after being defeated.",
+  "quote": "No Gold, No Glory!",
+  "personality": "Double Dare Trigger Happy greatly resembles a stereotypical daredevil, often seen shooting himself out of a cannon with little regard for his safety. Despite his normal counterpart being capable of speech in various media, Double Dare Trigger Happy is known to not talk very much.",
+  "story": [
+    {
+      "story_name": "Rift Engine Transformation",
+      "content": "As a result of being transformed by a Rift Engine, Trigger Happy's abilities changed drastically, though he is still able to shoot coins rapidly out of his flaming pistols. He can summon a barrier of pyrotechnics to do group damage with his secondary ability, Crowd-Pleaser.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/73/Double_Dare_Trigger_Happy_Art.jpg/revision/latest?cb=20150831080427"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "No Gold, No Glory!",
+        "I win, hahaha, big time!",
+        "Vroom vroom!",
+        "Take that!",
+        "I'm gonna win, I'm gonna win! Hahaha!",
+        "Gimme the gold, hahaha!",
+        "Mine, mine, mine, hahaha!",
+        "Hahaha! Me at my best!"
+      ]
+    },
+    {
+      "quote_type": "Quest Quotes",
+      "content": [
+        "Hahaha! Yeah! Snakes! Train, train, train!",
+        "Secret! Hahaha!",
+        "Zoom, zoom, zoom! Hahaha!",
+        "No gold, no glory! Hahaha!",
+        "Pow, pow, pow! Lemme at 'em!",
+        "HAHAHA! BANG! BANG! BANG! HAHAHA!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Despite his normal counterpart being capable of speech in Skylanders: Imaginators, the Skylanders comics, books and other media, Double Dare Trigger Happy doesn't talk very much.",
+    "He greatly resembles a stereotypical daredevil, especially since he can shoot himself out of a cannon.",
+    "Double Dare Trigger Happy is the second Skylander that can revive after being defeated, the first being Night Shift and the third being Crash Bandicoot.",
+    "One of his quotes is a reference to the movie Snakes on a Plane.",
+    "Concept art includes sketches of Double Dare Trigger Happy with a hat, sunglasses, a gun adorned with a flag, or spacesuit-like armor.",
+    "Very few characters have less regard for their safety than Trigger Happy. So, of course, he's a daredevil!"
+  ],
+  "trailers": [
+    {
+      "name": "OFFICIAL Skylanders SuperChargers Action Clips Double Dare Trigger Happy",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:OFFICIAL_Skylanders_SuperChargers_Action_Clips_Double_Dare_Trigger_Happy"
+    },
+    {
+      "name": "Skylanders SuperChargers - Double Dare Trigger Happy's Soul Gem Preview (No Gold, No Glory)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Double_Dare_Trigger_Happy's_Soul_Gem_Preview_(No_Gold,_No_Glory)"
+    },
+    {
+      "name": "Meet the Skylanders SuperChargers Double Dare Trigger Happy and Gold Rusher",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_SuperChargers_Double_Dare_Trigger_Happy_and_Gold_Rusher"
+    }
+  ],
+  "gameplay": "In Skylanders: SuperChargers Racing, Double Dare Trigger Happy is classified as an all-rounder driver. His stats are erratic, with good Top Speed and Handling, and great Acceleration, resembling Intermediate class drivers. His Firepower is high, while his major downside is his below average Armour. As a SuperCharger, he has access to vehicle mods, receiving major stat boosts when paired with his signature vehicle, the Gold Rusher.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Double_Dare_Trigger_Happy",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Fire Cracker",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/04/Double_Dare_Trigger_Happyprimarypower.png/revision/latest?cb=20170506151938",
+        "content": "Press Attack 1 rapidly to shoot your Fire Cracker.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Crowd-Pleaser",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/15/Double_Dare_Trigger_Happysecondarypower.png/revision/latest?cb=20170506151944",
+        "content": "Press Attack 2 to shoot off pyrotechnics and damage enemies around you.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Breaking Cannon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3f/Double_Dare_Trigger_Happybasicupgrade1.png/revision/latest?cb=20170506151953",
+        "content": "Press Attack 3 to shoot yourself out of a Cannon! Enemies in the way will be damaged by the force of the impact.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Hoop N' Holler",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e3/Double_Dare_Trigger_Happybasicupgrade2.png/revision/latest?cb=20170506152002",
+        "content": "Hold Attack 1 to charge up and shoot out of a fire hoop. Jumping or shooting yourself through it causes it to explode.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Just Warming Up",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Double_Dare_Trigger_Happybasicupgrade3.png/revision/latest?cb=20170506152013",
+        "content": "Ignite your weapons, making them cause more damage to enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Can On and On",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0f/Double_Dare_Trigger_Happybasicupgrade4.png/revision/latest?cb=20170506152022",
+        "content": "Press Attack 3 to shoot yourself out of a Cannon over a greater distance! Enemies in the way will be damaged by the force of impact.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "He's Safe!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a9/Double_Dare_Trigger_Happysoulgempower.png/revision/latest?cb=20170506152043",
+        "content": "Once, revive after being defeated and jump out of a huge safe!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Spontaneous Performer",
+        "abilities": [
+          {
+            "name": "Hot Feet Hoop",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Double_Dare_Trigger_Happypath1upgrade1.png/revision/latest?cb=20170506152427",
+            "content": "Hold Attack 1 to charge up and shoot out a fire hoop. Jumping or shooting yourself through it causes it to explode and will cause you to gain increased movement.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Acrobatic",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/14/Double_Dare_Trigger_Happypath1upgrade2.png/revision/latest?cb=20170506152432",
+            "content": "Hold Attack 1 while jumping to charge up your fire ring and jump through it.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Fire And Forget",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Double_Dare_Trigger_Happypath1upgrade3.png/revision/latest?cb=20170506152439",
+            "content": "When you charge up your cannon, you'll shoot out a fire ring in front of you to burst through immediately.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Made for the Spotlight",
+        "abilities": [
+          {
+            "name": "Cannon Crash",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Double_Dare_Trigger_Happypath2upgrade1.png/revision/latest?cb=20170506152454",
+            "content": "Press Attack 2 while charging your cannon to shoot up into the air and do a large amount of to nearby enemies when landing.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Pay Day!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/63/Double_Dare_Trigger_Happypath2upgrade2.png/revision/latest?cb=20170506152504",
+            "content": "Press Attack 2 to damage enemies around you and pull in coins and food drops.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Making It Rain!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4d/Double_Dare_Trigger_Happypath2upgrade3.png/revision/latest?cb=20170506152510",
+            "content": "Hold Attack 1 while jumping to unleash a gun barrage on your enemies below!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "double-dare-trigger-happy",
@@ -34,7 +274,28 @@
         "Hoop N' Holler",
         "Can On and On"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Double_Dare_Trigger_Happy"
     }
   ]
