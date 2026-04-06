@@ -4,6 +4,7 @@
   "species": "Water Dragon",
   "gender": "Female",
   "element": "Water",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -11,22 +12,276 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Echo lived in an undersea kingdom that was built around an enormous oyster shell, and at its center was the Pearl of Wisdom. Every day water dragons from all around the kingdom would come to ask questions of the Pearl. Because this was a sacred ritual, anyone living near the Pearl were required to speak only in whispers. This was challenging for Echo, who lived directly next to it. She had a gift – and it was loud – and often got her in trouble. One day, a gang of sea horses known as the Aqua Jocks rode into town and claimed the Pearl for themselves. They cast an unbreakable bubble around it and began dragging it away with enormous chains. The nearby water dragons, who had been quiet for so long, were unable to even call for help. Then Echo appeared – and with her loudest sonar blast, she shattered the bubble and blew the sea horses out of the kingdom! Her heroic actions caught the attention of Gill Grunt , who recruited her as a Skylander. Now Echo sounds off against evil all throughout Skylands !",
-  "personality": "Echo may seem reserved, but she can be feisty when the time comes for battle. &#91; 2 &#93; She can be rather noisy, not liking to do things quietly as she is a music lover. &#91; 3 &#93;",
-  "story": null,
+  "description": "Echo holds the ability to release powerful sound waves by screaming, and breathe explosive bubbles that pump with the musical beat. She can also create a sonic slam to knock away her enemies.",
+  "biography": "Echo lived in an undersea kingdom that was built around an enormous oyster shell, and at its center was the Pearl of Wisdom. Every day water dragons from all around the kingdom would come to ask questions of the Pearl. Because this was a sacred ritual, anyone living near the Pearl were required to speak only in whispers. This was challenging for Echo, who lived directly next to it. She had a gift - and it was loud - and often got her in trouble. One day, a gang of sea horses known as the Aqua Jocks rode into town and claimed the Pearl for themselves. They cast an unbreakable bubble around it and began dragging it away with enormous chains. The nearby water dragons, who had been quiet for so long, were unable to even call for help. Then Echo appeared - and with her loudest sonar blast, she shattered the bubble and blew the sea horses out of the kingdom! Her heroic actions caught the attention of Gill Grunt, who recruited her as a Skylander. Now Echo sounds off against evil all throughout Skylands!",
+  "quote": "Let's Make Some Noise!",
+  "personality": "Echo may seem reserved, but she can be feisty when the time comes for battle. She can be rather noisy, not liking to do things quietly as she is a music lover.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "Echo lived in an undersea kingdom that was built around an enormous oyster shell, and at its center was the Pearl of Wisdom. Every day water dragons from all around the kingdom would come to ask questions of the Pearl. Because this was a sacred ritual, anyone living near the Pearl were required to speak only in whispers. This was challenging for Echo, who lived directly next to it. She had a gift - and it was loud - and often got her in trouble. One day, a gang of sea horses known as the Aqua Jocks rode into town and claimed the Pearl for themselves. They cast an unbreakable bubble around it and began dragging it away with enormous chains. The nearby water dragons, who had been quiet for so long, were unable to even call for help. Then Echo appeared - and with her loudest sonar blast, she shattered the bubble and blew the sea horses out of the kingdom! Her heroic actions caught the attention of Gill Grunt, who recruited her as a Skylander. Now Echo sounds off against evil all throughout Skylands!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Echo.jpg/revision/latest/scale-to-width-down/268?cb=20221225035655"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "'Let's Make Some Noise!'",
+        "'Splashdown!'",
+        "'Sonar strike!'",
+        "'Sounding off!'",
+        "'Bubble up!' - when using Bounce Pads",
+        "'Wheeee!'",
+        "'Shout it out!'",
+        "'Quake in my wake!'",
+        "'You should've taken a dive!'",
+        "'The sound of victory!'",
+        "'Bubble blast!'",
+        "'Sweet!'",
+        "'Singing a different tune!'",
+        "'Coming through, loud and clear!'",
+        "'More to explore!'",
+        "'Breaking through!'",
+        "'Surging ahead!'",
+        "'Taking the plunge!'",
+        "'Diving right in!'",
+        "'Power wave!' - when leveled up",
+        "'Serve it up!'",
+        "'Oooh, gifts of the sea!' - when opening a treasure chest",
+        "'An overflow of riches!'",
+        "'Reaching a high watermark!' - when viewing stats",
+        "'Some noteworthy numbers!'",
+        "'Looking in tune with the times!' - when selecting a hat",
+        "'I have good vibes wearing this.'",
+        "'This name is music to my ears!' - when given a nickname",
+        "'Sounds a little out of tune!'"
+      ]
+    }
+  ],
+  "trivia": [
+    "She is named after a reflection of sound, like a same sound coming back to you when you shout, which can occur within a hallway with no soft materials, or when up in the mountains. Also known as an 'echo'",
+    "Sound travels 4.3 times faster underwater, giving her Water Elemental background a poetic sense of irony.",
+    "She is the second dragon Skylander in the Water element (the first being Zap).",
+    "Despite being a dragon, Echo resembles a seahorse.",
+    "When she's idle or still, Echo dances and moves to the beat of the music she's listening to with her seashell headphones, with three different variations.",
+    "She has the loudest roar out of all the other dragons.",
+    "Despite being able to scream or roar loudly, she is not a big mouthed dragon. In fact, Echo has the smallest mouth out of all the other dragons.",
+    "Her mouth is tiny, and she doesn't have any teeth. Much like all the other known female dragons, such as Cynder, Flashwing, Spotlight and Whirlwind.",
+    "In her Sing along path in Trap Team, the Ultrasound upgrade when fully charged is one of the strongest attacks that a Skylander could do.",
+    "While charging up the Ultrasound attack, it disrupts the theme music of any level or villain battles momentarily replacing it with dance music as Echo dances.",
+    "Echo has a great resemblance to the Dazzlings such as Sonata Dusk from the animated superhero/musical film, My Little Pony Equestria Girls 2: Rainbow Rocks, namely the fact Sonata Dusk and Echo share the same color scheme of light/dark blue and are mainly underwater adapted quadrupeds with powerful song abilities.",
+    "Her siren scream ability is similar to 'Echo Echo' from Ben 10 : Alien Force / Ben 10 : Ultimate Alien.",
+    "Coincidentally, her voice actor Kimberly Brooks would later voice a character also named Echo from a completely different series, Oddballs.",
+    "Both Echo and Cynder wear punk-styled jewelry on their neck and front legs."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Echo",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Echo"
+    },
+    {
+      "name": "Skylanders Trap Team - Echo's Soul Gem Preview (Let's Make Some Noise)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Echo%27s_Soul_Gem_Preview_(Let%27s_Make_Some_Noise)"
+    },
+    {
+      "name": "Skylanders Power Play Echo",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Echo"
+    }
+  ],
+  "gameplay": "Echo holds the ability to release powerful sound waves by screaming, and breathe explosive bubbles that pump with the musical beat. She can also create a sonic slam to knock away her enemies.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Echo",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Siren Scream",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Echoprimarypower.png/revision/latest?cb=20150315072428",
+        "content": "Press Attack 1 for a Siren Scream, damaging enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Bubble Bombs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/Echosecondarypower.png/revision/latest?cb=20150318081214",
+        "content": "Press Attack 2 to create explosive bubbles that move to the beat.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Sonic Slam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/73/Echobasicupgrade1.png/revision/latest?cb=20150318081138",
+        "content": "Press Attack 3 to create a sonic slam, damaging enemies on the ground.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Pitch Control",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/db/Echobasicupgrade2.png/revision/latest?cb=20150318081315",
+        "content": "Can hold the Siren Scream notes for longer, doing more damaging.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "4-Beat",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/57/Echobasicupgrade3.png/revision/latest?cb=20150403184545",
+        "content": "Deploy up to 4 Bubble bombs at any time, which now do extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Subsonic",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Echobasicupgrade4.png/revision/latest?cb=20150318081430",
+        "content": "Sonic Slam now creates an aftershock that deals extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Call of the Siren",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2b/Echosoulgempower.png/revision/latest?cb=20150315073440",
+        "content": "Use Siren Scream on a Bubble Bomb to put enemies in a painful trance.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Bubble Up!",
+        "abilities": [
+          {
+            "name": "Bubble Shield",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/73/Echopath1upgrade1.png/revision/latest?cb=20150315072748",
+            "content": "Hold Attack 2 to protect yourself in a bubble that absorbs damage until it pops.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Power Pop",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7e/Echopath1upgrade2.png/revision/latest?cb=20150403182846",
+            "content": "All Bubble Bombs do MAXIMUM damage at an increased range.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Burst My Bubble",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Echopath1upgrade3.png/revision/latest?cb=20150315072929",
+            "content": "While in a Bubble Shield, press Attack 3 to make it explode and damage nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Singalong",
+        "abilities": [
+          {
+            "name": "Ultimate Pitch Control",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Echopath2upgrade1.png/revision/latest?cb=20150318081527",
+            "content": "Hold Attack 1 indefinitely for an never-ending Siren Scream.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Scream Out",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/98/Echopath2upgrade2.png/revision/latest?cb=20150315073212",
+            "content": "Quickly press Attack 1 again after a Siren Scream to deliver a powerful shout attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Ultrasound",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d6/Echopath2upgrade3.png/revision/latest?cb=20150403183436",
+            "content": "Hold Attack 3 to charge the Sonic Slam attack and unleash another, more powerful burst.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "echo",
       "variant_name": "Echo",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Echo.jpg/revision/latest?cb=20221225035655",
       "attacks": [
@@ -36,7 +291,28 @@
         "Bubble Shield",
         "Ultimate Pitch Control"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "42"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Echo"
     }
   ]
