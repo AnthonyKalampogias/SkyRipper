@@ -4,6 +4,7 @@
   "species": "Rhinoceros Beetle",
   "gender": "Male",
   "element": "Magic",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -12,22 +13,265 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Return of the Dragon King",
+  "cameos": [
+    "Return of the Dragon King"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Dune Bug is a Magic Flying Rhinoceros beetle Skylander from Skylanders: Swap Force.",
   "biography": "Hailing from a race of beetles changed by the powerful secrets hidden in a buried Arkeyan city, Dune Bug was next in line to become the defender of those secrets. As a small pupa, Dune Bug and his father would travel to the ruins where he learned to read the ancient writings using his father's magic staff. On the day Dune Bug was to be given his own magic staff, the city fell under attack by the evil Sand Mages of Doom, who were after the secret Arkeyan tomes. Knowing what he had to do, Dune Bug used his magic to defeat the Mages and bury the city deeper into the ground until it was forever out of their reach. Dune Bug earned his magic staff that day - and a place alongside the Skylanders.",
-  "personality": null,
-  "story": null,
+  "quote": "Can't Beat the Beetle!",
+  "personality": "Dune Bug is a noble and dedicated defender of ancient secrets. Having been raised to protect Arkeyan knowledge, he is both studious and courageous. He demonstrates a strong sense of duty, as shown when he buried his own city to keep it out of the hands of the evil Sand Mages of Doom.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Using magic to mutate beetles sounds like a recipe for disaster, but when ancient Arkeyan secrets did just that, things somehow worked out for the best and a noble bug race was born. One young beetle, by the name of Dune Bug, dedicated himself to guarding those Arkeyan secrets from the forces of darkness. When evil came calling, Dune Bug sent it packing, and drove his city deeper underground where it remains safely out of harm's way.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Can't Beat the Beetle!",
+        "Sweet!",
+        "A force to be reckoned with!",
+        "I'm on a roll!",
+        "Another triumph!",
+        "Perfect!",
+        "Up and away!",
+        "The beetle to battle!",
+        "The beetle goes on!",
+        "Score for the scarab!",
+        "Beetle blast!",
+        "More power!",
+        "My journey lies ahead!",
+        "Pushing on!",
+        "Rolling through!",
+        "This is no mirage!",
+        "A Pharaoh's fortune!",
+        "I think I need an Abacus!",
+        "Might as well be hieroglyphics!",
+        "A fancy look for me... too fancy!",
+        "A look for the ages!",
+        "Doesn't bug me one bit!",
+        "So let it be written!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Dune Bug's name is a play on 'Dune Buggy'.",
+    "It may also be a pun on 'Junebug' which is a type of scarab beetle.",
+    "Dune Bug resembles a Japanese rhinoceros beetle.",
+    "He shares one of the same quotes with Roller Brawl, 'I'm on a roll!'",
+    "When he purchases 'Hardened Shell' from his upgrade path, 'Dune Mage', he will turn gold all over.",
+    "He is the second Magic Skylander who can fly while Spyro is the first.",
+    "In spite of trusting the Skylanders, Dune Bug never reveals the location of his ancestral home to them, not even to Master Eon.",
+    "Dune Bug's British accent, his catchphrase and his species name might be a reference to The Beatles.",
+    "Dune Bug slightly resembles Eatle from Ben 10 Ultimate Alien and the Pokémon Karrablast.",
+    "Dune Bug is the second insect Skylander (the first being Swarm, the third being High Five, and the fourth being Thrillipede).",
+    "Dune Bug is voiced by Nolan North, who is the current voice actor for Deadpool in most MARVEL animated media.",
+    "Dune Bug was one of the many Skylanders planned to appear in Skylanders: Ring of Heroes. Before the game's closure, only concept art of his Awakened Form was released."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Dune Bug (Can't Beat the Beetle)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Dune_Bug_(Can't_Beat_the_Beetle)"
+    },
+    {
+      "name": "Skylanders Swap Force - Dune Bug Soul Gem Preview (Can't Beat the Beetle)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Dune_Bug_Soul_Gem_Preview_(Can't_Beat_the_Beetle)"
+    }
+  ],
+  "gameplay": "Dune Bug utilizes his magic staff and a rolling Dune Ball to control the battlefield. He can shoot magical beams, explosive orbs, or dune grenades to trap and damage enemies. His high mobility allows him to hover in the air to increase speed and generate shockwaves or sparks of magic while in flight. His unique quest involves rolling his Dune Ball for a total of 5000 feet.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dune_Bug",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Mystic Missiles",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/33/Dune_Bugprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505192457",
+        "content": "Press Attack 1 to shoot magical beams of energy from a staff.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Dune Ball",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Dune_Bugsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170505192501",
+        "content": "Hold Attack 2 to create a large magical ball that can be rolled around and scoop up enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Dune Parade",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/66/Dune_Bugbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505192505",
+        "content": "Hold Attack 2 to create a Dune Ball. Move the Dune Ball to make it grow, increasing damage, size, and how many enemies can be trapped.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Debilitating Dunes",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/Dune_Bugbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505192512",
+        "content": "Hold Attack 2 to create a Dune Ball. Move the Dune Ball over enemies to trap them. Press Attack 1 to shoot enemies in the Dune Ball and do increased damage to them.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Bursting Magic",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/67/Dune_Bugbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505192518",
+        "content": "Hold Attack 1 to fire rapid streams of powerful magic from a new staff.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Buzzing Beetle",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/91/Dune_Bugbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170505192522",
+        "content": "Press Attack 3 to hover in the air. Speed is increased while hovering!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Buggy Buddy",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Dune_Bugsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505192545",
+        "content": "Press Attack 2 twice to summon Buggy, a little bug who rides a dune ball and rolls up nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Scarab Sage Path",
+        "abilities": [
+          {
+            "name": "Stunning Spread",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/39/Dune_Bugpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505193037",
+            "content": "Hold Attack 1 for a short time to charge the staff, release to shoot three powerful exploding orbs of magic at enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Scarab Power",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2e/Dune_Bugpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505193043",
+            "content": "Gain a new golden staff that shoots magic projectiles that do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Magic Scarab Ride",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5d/Dune_Bugpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505193050",
+            "content": "Jump while hovering to create a large shockwave that damages nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Dune Mage Path",
+        "abilities": [
+          {
+            "name": "Dune Bomb",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ac/Dune_Bugpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505193236",
+            "content": "Hold Attack 1 for a short time to charge the staff, release to shoot a dune grenade that traps enemies and explodes.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Hardened Shell",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Dune_Bugpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505193241",
+            "content": "Armor is increased. A new hardened shell reduces damage taken.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Sparking Wings",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/20/Dune_Bugpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505193245",
+            "content": "Press Attack 3 to hover, causing sparks of magic to shoot out from behind.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "dune-bug",
+      "id": "dune-bug-s1",
       "variant_name": "Dune Bug",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Dune_Bug_Promo.jpg/revision/latest?cb=20141208065814",
       "attacks": [
@@ -37,7 +281,28 @@
         "Stunning Spread",
         "Dune Bomb"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260 (max. 520)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "25 (max. 73)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "4 (max. 54)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dune_Bug"
     }
   ]
