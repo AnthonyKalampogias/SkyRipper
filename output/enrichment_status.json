@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-05T09:45:09.267Z",
+  "last_run": "2026-04-06T20:13:36.232Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -260,6 +260,86 @@
     {
       "name": "dark-super-shot-stealth-elf.json",
       "sha": "7d37834820b5b17094096b3af5e8d7b4a57188df"
+    },
+    {
+      "name": "dark-turbo-charge-donkey-kong.json",
+      "sha": "2c4a66acdc2e863bf35a26d07b8875855958306b"
+    },
+    {
+      "name": "dark-wash-buckler.json",
+      "sha": "b2f134be8bce806cc4b777ce0cc7cd5bf3faf350"
+    },
+    {
+      "name": "dark-wildfire.json",
+      "sha": "39d43446b0e7e65a048c8838ff067abcc2421878"
+    },
+    {
+      "name": "dark-wolfgang.json",
+      "sha": "10b4daecd6870995679ae50c5f8eccba0e48e0b8"
+    },
+    {
+      "name": "deep-dive-gill-grunt.json",
+      "sha": "4c36735fc5341be76f14e5303bdc75d3d7a4440f"
+    },
+    {
+      "name": "dino-rang.json",
+      "sha": "28f33b13d1a8baa735ad48a0f8f2120d0dc8ea68"
+    },
+    {
+      "name": "dive-clops.json",
+      "sha": "cd8e15309a12d0f4c078a0317d3fc9e72270f573"
+    },
+    {
+      "name": "doom-stone.json",
+      "sha": "7ccbc08fb0f24a851559b0ee35aae53379109303"
+    },
+    {
+      "name": "double-dare-trigger-happy.json",
+      "sha": "a46a9b1af6d4e4dce497778035936e353d22f29a"
+    },
+    {
+      "name": "double-trouble.json",
+      "sha": "7ce541d1112cdae0dbb5dc93c7d251977193f2f4"
+    },
+    {
+      "name": "dr-krankcase.json",
+      "sha": "804b10b69614cec494625b49dc6d964f84f35808"
+    },
+    {
+      "name": "dr-neo-cortex.json",
+      "sha": "a1123c339ba2d5cb652588c061b973b43e03d2a1"
+    },
+    {
+      "name": "drill-sergeant.json",
+      "sha": "5cef44840dfea65df816891031e82233fb416b78"
+    },
+    {
+      "name": "drobit.json",
+      "sha": "fb49a595ef84831d43c386f10e2e9e2b33d8e52e"
+    },
+    {
+      "name": "drobot.json",
+      "sha": "31b35129028fb58a80003bd78a79b97daa056931"
+    },
+    {
+      "name": "dune-bug.json",
+      "sha": "3c9a10413d8735ad6b5c769a596c4edc536d75d5"
+    },
+    {
+      "name": "echo.json",
+      "sha": "3fafcc959d1b12886afdc1154e8eb84d2bad00e3"
+    },
+    {
+      "name": "egg-bomber-air-strike.json",
+      "sha": "ea8545540ef8bb7d688e9b8fa9d275f815ba065a"
+    },
+    {
+      "name": "eggcited-thrillipede.json",
+      "sha": "6049da375c0dc5c9465f2fb17357a4cfb0877d87"
+    },
+    {
+      "name": "eggsellent-weeruptor.json",
+      "sha": "4133910ac5c0a97f4e68c24e7cc89afd09f470eb"
     }
   ]
 }
