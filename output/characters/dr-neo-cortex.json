@@ -4,20 +4,272 @@
   "species": "Human",
   "gender": "Male",
   "element": "Tech",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Wumpa Island"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "A wormhole has opened in Skylands and the great Aku Aku appears! He comes to announce the once-in-two-decades Synchronization Celebration -- it is the time when all the worlds align perfectly. All the inhabitants of Wumpa Island are having a&#160;huge party in the Wumpa Islands and want to invite the Skylanders . But Dr. Neo Cortex has created a sinister machine to harness this incredible energy for his own evil purposes, only to watch it go completely haywire. Now Dr. Neo Cortex must partner with Crash Bandicoot to stop the machine before Wumpa Islands are completely shaken apart!",
-  "personality": null,
-  "story": "In the Thumpin' Wumpa Islands Adventure Pack, Dr. Neo Cortex had planned an evil scheme for 20 years to create an army of unstoppable minions using the rhythmic energies of the Synchronization Celebration that took place on the Island. However his Cortex Matrix Chamber was hijacked by his minion Fake Crash , causing an explosion that sent Cortex rocketing towards the island beach. He is then forced to partner with his nemesis, Crash Bandicoot, and the Skylanders to stop Fake Crash from destroying Wumpa Island with bad rhythms. After Fake Crash's defeat, Cortex was dismayed that his Cortex Matrix Chamber was turned into a docile music box by Mags and was last seen glaring angrily at Crash.",
+  "description": "Neo Cortex is a a short, yellow-skinned and large-headed man with a giant 'N' symbol located on his forehead, bigger lip with a spiky goatee, bald head with hair on the sides of it and a thick black strand on top, and with large red circles under his eyes. He wears a lab coat with black arms and legs, accompanied with yellow gloves. In one hand, he holds a laser blaster.",
+  "biography": "Doctor Neo Periwinkle Cortex is a professional scientist born in Peoria, Illinois, and is the main antagonist of the Crash Bandicoot series. He is Crash Bandicoot's arch-nemesis and creator. In Skylanders: Imaginators, a wormhole has opened in Skylands and the great Aku Aku appears! He comes to announce the once-in-two-decades Synchronization Celebration -- it is the time when all the worlds align perfectly. All the inhabitants of Wumpa Island are having a huge party in the Wumpa Islands and want to invite the Skylanders. But Dr. Neo Cortex has created a sinister machine to harness this incredible energy for his own evil purposes, only to watch it go completely haywire. Now Dr. Neo Cortex must partner with Crash Bandicoot to stop the machine before Wumpa Islands are completely shaken apart!",
+  "quote": "MWAHAHAHAHAHAAA!!!",
+  "personality": "Dr. Neo Cortex is a professional scientist with a massive ego and a volatile temperament. As a long-time antagonist, he is defined by his deep-seated hatred for Crash Bandicoot and his relentless pursuit of world domination. Despite his brilliance, he is often frustrated by the failures of his own machines and the incompetence of his henchmen. While he is capable of working with his enemies when a greater threat arises, he remains untrustworthy and smug about his superior intellect.",
+  "story": [
+    {
+      "story_name": "Thumpin' Wumpa Islands",
+      "content": "In the Thumpin' Wumpa Islands Adventure Pack, Dr. Neo Cortex had planned an evil scheme for 20 years to create an army of unstoppable minions using the rhythmic energies of the Synchronization Celebration that took place on the Island. However his Cortex Matrix Chamber was hijacked by his minion Fake Crash, causing an explosion that sent Cortex rocketing towards the island beach. He is then forced to partner with his nemesis, Crash Bandicoot, and the Skylanders to stop Fake Crash from destroying Wumpa Island with bad rhythms. After Fake Crash's defeat, Cortex was dismayed that his Cortex Matrix Chamber was turned into a docile music box by Mags and was last seen glaring angrily at Crash.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3c/SI_Ilus_DrNeoCortex_FINAL_HiRes.jpg/revision/latest/scale-to-width-down/268?cb=20160907090145"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Story Quotes",
+      "content": [
+        "At last! 20 years of meticulous planning, preparations and machinations have all built to this single moment! The fathomless rhythmic energies of Wumpa Island itself shall power my Cortex Matrix Chamber and create an unstoppable army of loyal minions! And this time, none of my stupid henchmen will be around to ruin it for me! MWAHAHAHAHA!",
+        "What have you done to my beautiful machine?!"
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "MWAHAHAHAHAHAAA!!!",
+        "Let's get those Imaginators ready for total world domi- I mean, awesomely heroic do-gooding! And stuff.",
+        "And when you want to put your mind to learning some Secret Sorcerer Techniques, you just say so!",
+        "If you're looking to make your Imaginators more powerful, you have come to the right place!",
+        "And I of course possess a highly classified, supremely secret, scientifically approached, technique just for Sorcerers!",
+        "How do you like them apples?",
+        "Another win for Cortex!",
+        "Do you want to see power?!",
+        "The tables have turned!",
+        "You never had a chance!",
+        "Patience is not my virtue.",
+        "The doctor is in!",
+        "Can't stop progress!",
+        "I'm back, baby!",
+        "You can hear me growing smarter!",
+        "Ooh, Who knew you could improve on perfection."
+      ]
+    }
+  ],
+  "trivia": [
+    "Cortex and Boom Bloom are the only Senseis to not have a weapon from their battle classes. While Cortex can turn his weapon into a staff, he mainly wields a gun.",
+    "Cortex is the first Skylander to be human, though because of his original series' art style, he does not appear to be one.",
+    "His name is a pun on neocortex, the largest part of the brain.",
+    "Just as with Crash, characters in Thumpin' Wumpa Islands will have custom dialogue if you play as Cortex.",
+    "He and Crash are two of the characters to also act as Adventure Pack figures, adding Thumpin' Wumpa Islands to the game.",
+    "Despite being the only Guest Star who is able to talk freely, like the other Guest Stars, he does not have a catchphrase.",
+    "Cortex is the second villain who did not appear in Trap Team to have a Skylander figurine.",
+    "He and Crash Bandicoot are the first and only guest characters that can be played on any gaming console.",
+    "On his figure he has white sleeves. However, in-game he has black sleeves.",
+    "The name of Cortex's first 'Gadgets Galore' ability, 'N. Tropy's Slow Mo Flow', is a reference to Dr. N. Tropy.",
+    "Dr. Neo Cortex and Dr. Krankcase are the only playable characters labeled as doctors.",
+    "One of Cortex's Wonderful Wizardry upgrades 'Mask in the Mirror' is perhaps a play on the Michael Jackson song Man in the Mirror.",
+    "His Soul Gem ability's name is a play on 'Wanted: Dead or Alive'."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Imaginators: All Cortex voice lines",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=ccYoRYfokpU"
+    }
+  ],
+  "gameplay": "Dr. Neo Cortex is a Sorcerer-class Sensei who utilizes advanced technology and mystical masks in combat. He relies on his blaster for primary ranged damage and can deploy mines that launch enemies into one another. Cortex gains mobility through his hoverboard and can summon Uka Uka for both defense and offensive area control. His Sky-Chi ability, Rehabilita-Laser, allows him to fire a massive laser beam that can be aimed with precision across the battlefield.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dr._Neo_Cortex",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Blaster Beam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/da/Dr._Neo_Cortexprimarypower.png/revision/latest/scale-to-width-down/148?cb=20161116134256",
+        "content": "Press Attack 1 to shoot enemies with the blaster pistol.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Mask the Pain",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/96/Dr._Neo_Cortexsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20161116134313",
+        "content": "Press Attack 2 to damage and push back nearby enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "What's Mine is Yours",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Dr._Neo_Cortexbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20161116134843",
+        "content": "Press Attack 3 to throw a mine. Mines will try to launch enemies towards other mines.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Hoverboard",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5c/Dr._Neo_Cortexbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20161116134859",
+        "content": "Hold Attack 3 to ride a hoverboard and knock enemies around before it explodes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Multi-Mine",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Dr._Neo_Cortexbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20161116134911",
+        "content": "Press Attack 3 to throw a mine that launches another mine upon landing.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Mask Horray-Aid",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/01/Dr._Neo_Cortexbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20161116134922",
+        "content": "Press Attack 2 to block projectiles during Uka Uka's attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Wanted: Dead or Up High",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/56/Dr._Neo_Cortexsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20161116134334",
+        "content": "Hold Attack 1 to transform the gun into a staff and release to knock nearby enemies up. Keep pressing Attack 1 to shoot the knocked up enemies and keep them up there.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "Rehabilita-Laser",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Dr._Neo_Cortexskychipower.png/revision/latest/scale-to-width-down/148?cb=20161116134516",
+        "content": "The Ultimate Sensei attack! Hold Special Attack to use your Sky-Chi Power! Use Left Stick to target where the laser will go!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Gadgets Galore",
+        "abilities": [
+          {
+            "name": "N. Tropy's Slow Mo Flow",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Dr._Neo_Cortexpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20161116135216",
+            "content": "Hold Attack 2 and release to place an N. Tropy Staff which damages enemies on impact and slows enemies in an area for a while.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Insane Bolt",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Dr._Neo_Cortexpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20161116135229",
+            "content": "Shooting while N. Tropy's staff is active makes the device shoot sparks randomly in the area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Blaster Fracture",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Dr._Neo_Cortexpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20161116135249",
+            "content": "Being struck by an Insane Bolt powers up the Blaster Beam. Laser shots split into multiple projectiles for a short time. Insane Bolts try to land nearby until a boost is granted!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Wonderful Wizardry",
+        "abilities": [
+          {
+            "name": "Boo Uka Boo Uka!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f8/Dr._Neo_Cortexpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20161116135537",
+            "content": "Press Attack 2 to damage and push back enemies in a line straight ahead. Projectiles in the way are destroyed.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Mask in the Mirror",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Dr._Neo_Cortexpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20161116135552",
+            "content": "Uka Uka now defends the area for a short time when a projectile is successfully blocked. Uka Uka also now explodes projectiles when he blocks them, dealing damage in the area around the deflection.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "You Do That Voodoo",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/59/Dr._Neo_Cortexpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20161116135601",
+            "content": "Hold Attack 2 to control Uka Uka and knock enemies around all over the battlefield.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "dr-neo-cortex",
@@ -33,7 +285,24 @@
         "N. Tropy's Slow Mo Flow",
         "Boo Uka Boo Uka!"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "260"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "220"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dr._Neo_Cortex"
     }
   ]
