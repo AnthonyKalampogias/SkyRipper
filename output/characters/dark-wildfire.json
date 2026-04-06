@@ -19,7 +19,14 @@
   "biography": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium – which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it – combining the dark power with their own to fight Kaos and the forces of evil.",
   "quote": "Bringing The Heat!",
   "personality": "",
-  "story": [],
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium – which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it – combining the dark power with their own to fight Kaos and the forces of evil.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
   "quotes": [
     {
       "quote_type": "Catchphrase",
@@ -39,7 +46,68 @@
   "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Wildfire",
   "abilities": {
-    "basic": [],
+    "basic": [
+      {
+        "name": "Traptainium Shield Bash",
+        "imgPath": "",
+        "content": "Traptainium Shield Bash",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#333333",
+          "bg_content": "#E0E0E0"
+        }
+      },
+      {
+        "name": "Chains of Fire",
+        "imgPath": "",
+        "content": "Chains of Fire",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#333333",
+          "bg_content": "#E0E0E0"
+        }
+      },
+      {
+        "name": "Heat Shield",
+        "imgPath": "",
+        "content": "Heat Shield",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#333333",
+          "bg_content": "#E0E0E0"
+        }
+      },
+      {
+        "name": "Burning Bash",
+        "imgPath": "",
+        "content": "Burning Bash",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#333333",
+          "bg_content": "#E0E0E0"
+        }
+      },
+      {
+        "name": "Lots of Chains",
+        "imgPath": "",
+        "content": "Lots of Chains",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#333333",
+          "bg_content": "#E0E0E0"
+        }
+      }
+    ],
     "basic_upgrades": [],
     "soulgems": [],
     "wow_pows": [],
