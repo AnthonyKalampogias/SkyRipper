@@ -4,6 +4,7 @@
   "species": "Tiki-Masked sorcerer",
   "gender": "Male",
   "element": "Magic",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -16,24 +17,293 @@
     "Skylanders: Swap Force",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators",
-    "Skylanders: Ring of Heroes}}"
+    "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Skylanders: Ring of Heroes",
+  "cameos": [
+    "Skylanders: Ring of Heroes"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Double Trouble is a magical sorcerer with a red and brown tiki mask face with yellow trimmings, feathery hair, green eyes, and a yellow mouth. His skin is blue and he's wearing a dry grass skirt with a small bone in the middle, and wooden armbands. He even holds a magical staff, shaped like a clawed hand holding a green orb. Curtain upgrades give his staff a battleaxe shape or a tiki shape.",
   "biography": "Double Trouble was an adept spellcaster. On an expedition to find exotic ingredients for his potions, he traveled in search of a rare lily that was said to multiply the power of any spell. So thrilled was he when he found it, Double Trouble instantly ate the plant and performed a spell. Suddenly, there was a loud pop… then another… and another – until Double Trouble was surrounded by exact copies of himself. As it turned out, he had misunderstood the details about exactly what would multiply. But it didn’t matter, for he quickly realized the clones were delightful companions… never mind that they were only half his size and would explode on contact.",
-  "personality": "A loner at heart, Double Trouble discovered the joys of companionship through his clones. Always upbeat, the spirited shaman is a bundle of unearthly Eldritch energy. &#91; 2 &#93;",
-  "story": null,
+  "quote": "Boom Shock-A-Laka!",
+  "personality": "A loner at heart, Double Trouble discovered the joys of companionship through his clones. Always upbeat, the spirited shaman is a bundle of unearthly Eldritch energy.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Double Trouble once lived all on his lonesome in a tropical Skylands rainforest. Here, he foraged for rare roots and exotic plants for his potions. During one such forage, the solitary sorcerer discovered the Whispering Water Lily, a wondrous plant said to multiply the strength of any spell. Straight away, he tried it out. He greedily gobble d the lily down, and then... Belch! Gurgle! Pop! Three tiny copies of himself appeared from nowhere. It seemed that he had slightly misunderstood the lily's powers. Luckily, his clones were charming, clever and cute - and he could certainly do with companionship. There was just one drawback: the clones had an annoying tendency to explode on contact. Still, they turned out to be exactly what Master Eon was looking for, so the hallowed one wasted no time in making Double Trouble a Skylander. Double Trouble was the one who discovered Zoo Lou and saw his potential after the furry shaman drove off the trolls that had invaded his homeland.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Lightning Rod Faces the Cyclops Queen",
+      "content": "Double Trouble was on board Flynn's balloon with Hugo and Warrior Librarian, Squirmgrub, when they were on their way to the Storm Titan Games to inform Master Eon of the location of the next segment to the Mask of Power. However Lightning Rod's stray hammer crashed into the air balloon, causing it to spiral out of control. The passengers were saved from the crash by Drobot, and Hugo afterwards informed Eon of the next fragment to the Mask of Power. Despite not being able to communicate with the other characters, Master Eon and Pop Fizz are both able to understand what Double Trouble is saying. The shaman was sent to Tempest Towers with Lightning Rod, Drobot, Pop Fizz, Cali, and Flynn to retrieve the Air fragment that was believed to be a Land Whale. Along the way, Double Trouble's clone managed to sneak on board Kaos's Drow zeppelin after the evil Portal Master captured Cali for the path to Tempest Towers. It is revealed the shaman can see through the eyes of his doubles. Once the Skylanders managed to get to Tempest Towers before Kaos, Double Trouble and Flynn were left outside the city wall to keep an eye out for Kaos. While Kaos attempted to enter the Cyclops city, Double Trouble and Flynn snuck on aboard the Drow zeppelin to rescue Cali just before the evil Portal Master and his army of Drow engaged in an all-out battle with the Cyclops Queen and her army.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0a/Hugo_Double_Trouble.jpg/revision/latest/scale-to-width-down/248?cb=20130919182719"
+    },
+    {
+      "story_name": "Skylanders: Spyro's Adventure",
+      "content": "There are three things that would have been running through Double Trouble's mind during his frozen state: Magic, Magic, and Magic! That's right! This crazy masked, magical guru has spent so long thinking about the subject that he's hardly ever made a friend in his life. Aww!",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Boom Shock-A-Locka!",
+        "Ooga booga boo!",
+        "Hah ooga good!",
+        "Ooga ba booooga, ooga ba booooga, ooga ba booooga, ooga ba boo!",
+        "Ooga booga booga!",
+        "Ooga booga boooo!",
+        "Ooga ooga comin' throoga!",
+        "Open booga!",
+        "Ooga booga check it out booga!",
+        "Level ooga up booga!",
+        "Ooga ba-booga up!",
+        "Ooga ooga riches!",
+        "Booga treasure!",
+        "Mmmbooga alright!",
+        "Ooga booga oh yeah!",
+        "Ooga booga lookin' gooba!",
+        "Ooga booga looks goodooga!",
+        "Ooga booga like it!",
+        "Ooga? Ok booga.",
+        "Shwooga booga booga let's go booga booga!",
+        "Ooga booga not doin' muchabooga..."
+      ]
+    }
+  ],
+  "trivia": [
+    "When Double Trouble hits a sheep with his Eldritch Beam, the sheep will change color.",
+    "The eyes on Double Trouble's mask blink, therefore they are his real eyes.",
+    "In Skylanders: Spyro's Adventure, Swap Force, Trap Team, SuperChargers and Imaginators, the mouth on Double Trouble's mask opens while he says his catchphrase, meaning that his mask could potentially be his actual face.",
+    "Double Trouble is one of many Skylanders who can summon helpers (others include Sonic Boom, Warnado, Terrafin, Eye-Brawl, and Hot Head).",
+    "He is one of three original Skylanders who can fly without the use of wings or jetpacks (the others being Warnado and Hex).",
+    "Series 2 Double Trouble has the Arcane Eldritch Beam upgrade, giving him an axe-like staff. Also, in his Series 2 figure form, he has a mini double by his side.",
+    "Double Trouble has a unique figure available in the Skylanders: Battlegrounds starter pack, which is often referred to by the community as Series 1.5 Double Trouble.",
+    "Sometimes, Double Trouble will sing his 'Ooga Booga' quote in a style of Ride of the Valkyries.",
+    "His catchphrase, 'Boom Shock-A-Lacka!' is a pun on Marv Albert and Tim Kitzrow's NBA Jam catchphrase 'Boomshackalacka!'"
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Double Trouble Trailer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Double_Trouble_Trailer"
+    },
+    {
+      "name": "Meet the Skylanders Double Trouble (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Double_Trouble_(extended)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventures Extraction- Double Trouble (Wii)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventures_Extraction-_Double_Trouble"
+    }
+  ],
+  "gameplay": "As a result from eating the Whispering Water Lily, the bewitched bloom gave Double Trouble the power to create exploding clones of himself, which seek out foes before they explode. Double Trouble's primary attack is shooting beams of energy from his eldritch staff. Double Trouble can even summon magical spheres to rain down which explode like bombs. His Soul Gem allows him to fly over water. In Lightning Rod Faces the Cyclops Queen, it was shown that he could also use the beams from his eldritch staff to levitate objects, as he was able to raise an anchor with it. Double Trouble could see through the eyes of his clones, and even delay his double's explosions for a while, allowing him to use them as helpers.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Double_Trouble",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Eldritch Beam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Double_Troubleprimarypower.png/revision/latest?cb=20241018063201",
+        "content": "Press and hold the primary power button to fire beam of energy that locks onto targets. Damage = 10. Crit = 15.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Conjure Exploding Double",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Double_Troublesecondarypower.png/revision/latest?cb=20241018063334",
+        "content": "Summon a mindless double that seeks out enemies and explodes. Damage = ??? Crit = ??? x 1.5.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Arcane Eldritch Beam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Double_Troublebasicupgrade1.png/revision/latest?cb=20241018134026",
+        "content": "Eldritch Beam attack does increased damage. Damage = 15. Crit = 22.5.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Conjure Unstable Double",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/96/Double_Troublebasicupgrade2.png/revision/latest?cb=20241018134225",
+        "content": "Exploding Doubles do increased damage. Damage = 23. Crit = 34.5.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Summon Magic Bomb",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/39/Double_Troublebasicupgrade3.png/revision/latest?cb=20241018134337",
+        "content": "Summon a Magic Bomb. Damage = 50. Crit = 75.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Advanced Construct Techniques",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Double_Troublebasicupgrade4.png/revision/latest?cb=20241018134536",
+        "content": "Have up to 3 Exploding Doubles active at any given time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Waterwalker",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Double_Troublesoulgempower.png/revision/latest?cb=20241018063424",
+        "content": "Can fly over water. In Swap Force: Double Trouble now hovers over hazards and gains increased speed in Water Power Zones.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Triple Trouble!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Double_Troublewowpowpower.png/revision/latest?cb=20160724124552",
+        "content": "Eldritch Beam splits off into three separate beams when it locks on an enemy.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Channeler",
+        "abilities": [
+          {
+            "name": "Extended Eldritch Beam",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Double_Troublepath1upgrade1.png/revision/latest?cb=20241018134622",
+            "content": "Eldritch Beam has longer range and does extra damage. Damage = 20. Crit = 30.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Magical Cataclysm",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/85/Double_Troublepath1upgrade2.png/revision/latest?cb=20241018135612",
+            "content": "Magic Bombs do increased damage. Damage = 65. Crit = 97.5.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Magic Armageddon",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0a/Double_Troublepath1upgrade3.png/revision/latest?cb=20241018140009",
+            "content": "Fire off repeated Magic Bombs. Damage = 195. Crit = 292.5.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Conjuror",
+        "abilities": [
+          {
+            "name": "Imbue Construct",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/05/Double_Troublepath2upgrade1.png/revision/latest?cb=20241018134750",
+            "content": "Shoot an Exploding Double and it increases in size and damage. Damage = 33. Crit = 49.5.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Rocket Powered Doubles",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4c/Double_Troublepath2upgrade2.png/revision/latest?cb=20241018135840",
+            "content": "Exploding doubles launch themselves at enemies and do extra damage. Damage = 49. Crit = 73.5.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Spirit Construct",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Double_Troublepath2upgrade3.png/revision/latest?cb=20241018140146",
+            "content": "Exploding Doubles form automatically when enemies are defeated.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "double-trouble",
+      "id": "double-trouble-s1",
       "variant_name": "Double Trouble",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/3/33/300px-Double-Trouble_03.jpg",
       "attacks": [
@@ -43,8 +313,97 @@
         "Arcane Eldritch Beam",
         "Magical Cataclysm"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "240 (max. 480)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 (max. 83)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50 (max. 100)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "32 (max. 82)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Double_Trouble"
+    },
+    {
+      "id": "double-trouble-s2",
+      "variant_name": "Double Trouble",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/90/Series_2_Double_Trouble_Promo.jpg",
+      "attacks": [
+        "Eldritch Beam",
+        "Conjure Exploding Double",
+        "Summon Magic Bomb",
+        "Arcane Eldritch Beam",
+        "Triple Trouble!"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "100"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Double_Trouble"
+    },
+    {
+      "id": "royal-double-trouble",
+      "variant_name": "Royal Double Trouble",
+      "edition": "Special Edition",
+      "type": "Core",
+      "game": "Skylanders: Battlegrounds",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/33/300px-Double-Trouble_03.jpg",
+      "attacks": [
+        "Eldritch Beam",
+        "Conjure Exploding Double",
+        "Summon Magic Bomb",
+        "Arcane Eldritch Beam",
+        "Magical Cataclysm"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "100"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Royal_Double_Trouble"
     }
   ]
 }
