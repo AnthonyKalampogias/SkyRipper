@@ -4,6 +4,7 @@
   "species": "Unknown/Cyborg hybrid",
   "gender": "Male",
   "element": "Tech",
+  "role": "Doom Raider",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Trap Team",
@@ -14,16 +15,360 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": "Dr. Krankcase is polite and has a friendly disposition towards his enemies, even striking up small exchanges before and during a battle, and also makes puns referencing to his goo guns. He is still, however, a maniacal mad scientist who enjoys creating evil inventions and won't hesitate on unleashing them and his own abilities upon those who oppose him and the Doom Raiders. After his rehabilitation in Imaginators , Krankcase still holds great pride in his inventions, but now believes that science should be used for the greater \"GOO'D\" of Skylands , as he puts it.",
-  "story": null,
+  "description": "Dr. Krankcase is a cyborg mad scientist who is one of the playable Tech villains in Skylanders: Trap Team. He is a former member of the Doom Raiders, a group of notorious villains. In Skylanders: Imaginators, Krankcase has given up on a life of crime to become a Quickshot Sensei and train Imaginators.",
+  "biography": "No one is really quite sure exactly what Dr. Krankcase is a doctor of... but his technical engineering achievements are legendary. The secret to his success lies in his modified concoction of glowing green goo, which causes wooden objects to come to life and turn evil. His unique skillset makes him a valuable asset to the Doom Raiders, who have plenty of nefarious uses for evil wooden creatures called Evilikin. It is also commonly known that Dr. Krankcase served as an evil inspiration to Kaos once upon a time, who had figured out how to make his own wooden creatures, the Wilikin, come to life after reading about the doctor's exploits in the Minion Monthly Catalog. Kaos also respected Dr. K's interest in world domination and doom engineering, not to mention his well-documented love of pickles.",
+  "quote": "The Doctor is In!",
+  "personality": "Dr. Krankcase is polite and has a friendly disposition towards his enemies, even striking up small exchanges before and during a battle, and also makes puns referencing to his goo guns. He is still, however, a maniacal mad scientist who enjoys creating evil inventions and won't hesitate on unleashing them and his own abilities upon those who oppose him and the Doom Raiders. After his rehabilitation in Imaginators, Krankcase still holds great pride in his inventions, but now believes that science should be used for the greater 'GOO'D' of Skylands, as he puts it.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "No one is really quite sure exactly what Dr. Krankcase is a doctor of... but his technical engineering achievements are legendary. The secret to his success lies in his modified concoction of glowing green goo, which causes wooden objects to come to life and turn evil. His unique skillset makes him a valuable asset to the Doom Raiders, who have plenty of nefarious uses for evil wooden creatures called Evilikin. It is also commonly known that Dr. Krankcase served as an evil inspiration to Kaos once upon a time, who had figured out how to make his own wooden creatures, the Wilikin, come to life after reading about the doctor's exploits in the Minion Monthly Catalog. Kaos also respected Dr. K's interest in world domination and doom engineering, not to mention his well-documented love of pickles.",
+      "hasImage": false,
+      "imgPath": "none"
+    },
+    {
+      "story_name": "Skylanders: Trap Team",
+      "content": "Dr. Krankcase, and the other Doom Raiders, were freed from Cloudcracker Prison by Kaos who attempted to assume leadership over the villainous group. However the villains were more willing to follow the orders of their original leader, the Golden Queen. Dr. Krankcase created an Ultimate Weapon to harness the power of Traptanium for the Doom Raiders to use for their evil ends. When the Skylanders shut off the supply of goo needed to power the weapon, Dr. Krankcase quickly found a solution by using aged cheese to grow stinky enough to replace the goo. During the Skylanders' confrontation in his workshop, Krankcase engaged them while Wolfgang arrived to collect Kaos. After his defeat and capture, Krankcase completed a Villain Quest called 'Diorama Drama', where he melted a diorama with his goo gun and was rewarded with the Bobby hat.",
+      "hasImage": true,
+      "imgPath": "Krankcase_Issue12.png"
+    },
+    {
+      "story_name": "Light in the Dark",
+      "content": "During the Annual Mabu Meander, Dr. Krankcase attempted to enter the race and win despite being in a clear advantage over the Mabu children. Knight Mare quickly entered the race as well and chased after the villain. Despite his efforts to slow the Dark Trap Master down, Dr. Krankcase was knocked into a tree by Knight Mare, allowing the Mabu to race fairly.",
+      "hasImage": false,
+      "imgPath": "none"
+    },
+    {
+      "story_name": "Skylanders Issue #12 (Graduation Day)",
+      "content": "Dr. Krankcase and the other Doom Raiders infiltrated Skylanders Academy by posing as a music band called 'The Evil Imposters'. Once they ambushed the school staff and scared off the guests, Krankcase began looking through the diplomas of the Skylander students. He was suddenly sprayed with water by the Minis and led into a trap, getting himself knocked unconscious along with Wolfgang.",
+      "hasImage": false,
+      "imgPath": "none"
+    },
+    {
+      "story_name": "Skylanders: Imaginators",
+      "content": "After being captured by the Trap Masters, Eon gave the villains a choice – either go back to Cloudcracker Prison or become a Skylander Sensei. Krankcase accepted this deal and had to prove himself by re-arranging all the books in the Academy's library, a task which took almost two years. Now he uses that newfound knowledge to train Imaginators on the A, B, Cs of shooting as the master of the Quickshot Class. Before these events, he was also responsible for the creation of Boom Bloom.",
+      "hasImage": false,
+      "imgPath": "none,"
+    },
+    {
+      "story_name": "Skylanders: Lost Islands",
+      "content": "Dr. Krankcase appears as a trappable villain that can arrive in the player's kingdom. Upon being trapped, he will help the player by halving the cost of powering Elemental Sanctuaries.",
+      "hasImage": false,
+      "imgPath": "none"
+    },
+    {
+      "story_name": "Skylanders: Ring of Heroes",
+      "content": "As the portals ran rampant around Skylands, Dr. Krankcase built an abandoned lab around one of the portals. He experimented with the Book of Dark Magic given to him by Golden Queen. When the Skylanders defeated him, he revealed that his hat-bots had already left to give the book to Wolfgang in Bone Grave Village. To ensure his escape, he sprayed the group in sticky goo before making his getaway. In Boom Bloom's Episode Dungeon, it is shown he created her in the Abandoned Factory.",
+      "hasImage": false,
+      "imgPath": "none"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Skylanders: Trap Team",
+      "content": [
+        "Oh splendidly, my Queen. I have constructed a weapon so it can harness the ginormous energy of Traptanium. Soon, I will have it up and running, then...",
+        "Problem, my Queen. The Skylanders have cut off our supply of glowing green goo!",
+        "Stinkocity to be exact, and believe it or not, it's one of the most powerful forces in Skylands.",
+        "Anyway, without enough stinkocity to start the reaction, our ultimate weapon simply will not work!",
+        "No no no no no, wait! I have a solution! We can replace the stinky goo with this!",
+        "Ah, but it will be, in a couple thousand years! The older cheese gets, the worse it smells, you know.",
+        "Don't you see? All we need to do is bury this now and go to the future to get it. A-And by then, the stinkocity factor will be off the charts! But, uh, naturally, to travel through time... we're gonna need a Portal Master.",
+        "Well hello there! My name is Dr. Krankcase, and you, you must the Skylanders I've heard so much about, yes? No really, I'm asking. Just wanna make sure I'm talking to the right guy here. Oh great great, alright! Well let's do this then.",
+        "Let's see what you got, pal! In terms of combat skill.",
+        "Filling the vats with goo~! Filling the vats with goo~! I'm filling the vats with goo~!",
+        "Hey I hate having to do this to ya. I really do. But I'm a pretty bad guy so uh... you know.",
+        "Oh, that reminds me! Speaking of bad guys, check this out!",
+        "Well if you can't trust an Undead werewolf, who can you trust, right?"
+      ]
+    },
+    {
+      "quote_type": "Trap Quotes",
+      "content": [
+        "Well I know you have a tough decision to make here, so I'll just leave you to your thoughts.",
+        "A vortex! I've really been trying to stay out of those things lately!",
+        "Oh that hat only had two weeks 'till retiremeeeennnnnttt....!!",
+        "Captured?? Me?? That doesn't sound like something that would happen to me! Although that would explain the vortex.",
+        "Okay okay I see, do good stuff instead of bad stuff. Got it.",
+        "Ya know, this all would have been different if Wolfgang didn't leave me twistin' in the wind.",
+        "HERE WE GOO-OOOOOOOO!!!",
+        "I'm Dr. Krankcase. Who are you?",
+        "Nice to meet goo!",
+        "Doctor in the house!",
+        "May the goo be with you!",
+        "Peek a goo!",
+        "Paging Dr. Krankcase!",
+        "Dr. Krankcase is on the case!",
+        "Do you guys need any professors at this academy? 'Cause, I am a doctor, you know. Though I can't remember exactly what I'm a doctor of...",
+        "Did you know I and Mags went to the same inventor's school? Except I majored in evil."
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "The Doctor is in!",
+        "Somebody call a doctor?",
+        "Ha ha! Time for a professional opinion!",
+        "I will return!",
+        "K-ranking it up!",
+        "Tools of the trade!",
+        "The smell of success!",
+        "A barrel of laughs! And pain!",
+        "Is there a doctor in the house...?",
+        "The doctor is out...!"
+      ]
+    },
+    {
+      "quote_type": "Imaginators Quotes",
+      "content": [
+        "The Doctor is in!",
+        "Somebody call a doctor? Well I've got the prescription for all your Imaginators.",
+        "K-crankin' up the Sky-Chi!",
+        "I'd say that procedure went well.",
+        "As you can see, I have excellent credentials.",
+        "Let's go over your test results...wait, these are my stats! Not bad!"
+      ]
+    },
+    {
+      "quote_type": "Trailer Quotes",
+      "content": [
+        "They call me Dr. Krankcase. 'Cause I got a PHD in B-A-D!",
+        "When I was just a boy I loved to make stuff... evil!",
+        "What can I say? I'm a mean, green machine!",
+        "A maker of mayhem, an engineer of fear, an inventor of... uh... whatever rhymes with inventor.",
+        "And what's more evil than that? Having five creepy crawly spider legs!",
+        "Let me out! Doctor's orders!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Despite being shown as white in his art and clips, his eyes are yellow in-game.",
+    "In the Skylander Boom Bloom's backstory, it was revealed that Dr. Krankcase created her as a result of his plant mutation experiments.",
+    "The official Skylanders website originally misspelled his name as 'Dr. Crankcase.' This has since been changed.",
+    "Dr. Krankcase is similar to Spy Rise: both are Tech characters, have spider-like legs, wear goggles, and use ranged weapons.",
+    "According to one of his trap crystal quotes, he and Mags went to the same inventor school together, but Krankcase majored in evil.",
+    "One of his quotes is a reference to the Star Wars quote, 'May the force be with you.'",
+    "He built his own wooden spider-like legs after misplacing his original ones and failing with spring-based designs.",
+    "Dr. Krankcase replaces the Dragon Hunter in Skylanders: SuperChargers Racing.",
+    "Dr. Krankcase is susceptible to his own Smog Machine in Battlecast.",
+    "Dr. Krankcase is the only character to jump from frontline to the back manually using a grappling hook.",
+    "He is voiced by Quinton Flynn, known for Axel in Kingdom Hearts and Sheldon Lee in My Life as a Teenage Robot.",
+    "His Sky-Chi move 'Goo Goo G'shoot' is a reference to the Beatles' 'I Am The Walrus'.",
+    "Krankcase was planned for Skylanders Academy's season two but was cut due to budget reasons.",
+    "Dr. Krankcase and Dr. Neo Cortex are the only playable characters labeled as doctors.",
+    "The name of one of his basic upgrades 'Splats All Folks' is a pun of the famous Looney Tunes catchphrase 'That's all Folks'.",
+    "His 'For the Greater Goo'd' path is a goo pun on the Warhammer reference 'For the Greater Good'.",
+    "Dr. Krankcase is one of the only Skylanders bosses who can be damaged by the hazards in his own boss arena."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Trap Team- 'Meet the Villains- Dr. Krankcase' Trailer",
+      "isValid": true,
+      "url": "/wiki/File:Official_Skylanders_Trap_Team-_%22Meet_the_Villains-_Dr._Krankcase%22_Trailer"
+    },
+    {
+      "name": "Official Skylanders Imaginators Meet Dr. Krankcase",
+      "isValid": true,
+      "url": "/wiki/File:Official_Skylanders_Imaginators_Meet_Dr._Krankcase"
+    }
+  ],
+  "gameplay": "Dr. Krankcase can fire a spray of green goo from his small gun. He can also rotate his spider legs like a buzzsaw and slide them against enemies. As demonstrated during his boss fight, Dr. Krankcase can create Woodensteins in a matter of seconds from a wooden box, green goo and materials. After completing his Villain Quest, he gained the ability to melt various dioramas throughout Time Town for accessing all areas. In Skylanders: Battlecast, his abilities are augmented with a mechanic to gradually worsen an enemy's health. His green goo now prevents healing, his Woodstein seeks out weak enemies, and he can create a Smog Machine relic whose intoxicating fumes gradually decrease max health on the enemy side. He can also drop a Barrel o' Laughs on enemies to release a Tech spell's energy as damage.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dr._Krankcase",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Goo Guns",
+        "imgPath": "Dr._Krankcaseprimarypower.png",
+        "content": "Press Attack 1 to shoot Goo Blobs.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Spin Doctor",
+        "imgPath": "Dr._Krankcasesecondarypower.png",
+        "content": "Press Attack 2 to spin at your enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Hat Bots",
+        "imgPath": "Dr._Krankcasebasicupgrade1.png",
+        "content": "Press Attack 3 to throw out Hat Bots to fight for you.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Splats All Folks",
+        "imgPath": "Dr._Krankcasebasicupgrade2.png",
+        "content": "Spin into Goo Puddles to cause them to splatter for damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "All Spun Up",
+        "imgPath": "Dr._Krankcasebasicupgrade3.png",
+        "content": "Spin into active Hat Bots to activate their Seek and Destroy mode.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Hat-tacular",
+        "imgPath": "Dr._Krankcasebasicupgrade4.png",
+        "content": "Increases the maximum number of Hat Bots to 3.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Shot Goo the Heart",
+        "imgPath": "Dr._Krankcasesoulgempower.png",
+        "content": "Hold Attack 1 to charge up a gigantic Goo Shot attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 6,
+        "name": "Goo Goo G'shoot (Sky-Chi)",
+        "imgPath": "Dr._Krankcaseskychipower.png",
+        "content": "The Ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power! Shoot your goo at everyone. Use Left Stick to move around.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "For the Greater Goo'd",
+        "abilities": [
+          {
+            "name": "Caustic Effect",
+            "imgPath": "Dr._Krankcasepath1upgrade1.png",
+            "content": "Goo Puddles cause damage to enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Goo'ing Big",
+            "imgPath": "Dr._Krankcasepath1upgrade2.png",
+            "content": "Goo Guns shoot bigger blobs that create bigger puddles.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Goo'd Weather",
+            "imgPath": "Dr._Krankcasepath1upgrade3.png",
+            "content": "Spinning into Goo Puddles Releases a shower of Goo Blobs.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Builder of Bots",
+        "abilities": [
+          {
+            "name": "Hat Bot Havoc",
+            "imgPath": "Dr._Krankcasepath2upgrade1.png",
+            "content": "Throw 3 Hat Bots at one time. Increase the maximum number of Hat Bots to 6.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Goo Bots",
+            "imgPath": "Dr._Krankcasepath2upgrade2.png",
+            "content": "When Hat Bots expire, they explode, leaving behind a Goo Puddle.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Goo Wouldn't Believe It!",
+            "imgPath": "Dr._Krankcasepath2upgrade3.png",
+            "content": "Hat Bots exposed to Goo become extra strong.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "dr-krankcase",
@@ -33,9 +378,33 @@
       "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Dr._Krankcase_Promo.jpg",
       "attacks": [
-        "Trap Team=Goo Spray Spin Slide Lightning Hand"
+        "Goo Spray",
+        "Spin Slide",
+        "Lightning Hand",
+        "Goo Guns",
+        "Spin Doctor",
+        "Hat Bots",
+        "Splats All Folks",
+        "All Spun Up"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "200"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dr._Krankcase"
     }
   ]
