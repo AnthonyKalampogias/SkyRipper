@@ -16,15 +16,15 @@
     "Skylands"
   ],
   "description": "Dark Wildfire is the dark version of Wildfire from Skylanders: Trap Team.",
-  "biography": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium – which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it – combining the dark power with their own to fight Kaos and the forces of evil.",
+  "biography": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium - which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it - combining the dark power with their own to fight Kaos and the forces of evil.",
   "quote": "Bringing The Heat!",
   "personality": "",
   "story": [
     {
       "story_name": "Biography",
-      "content": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium – which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it – combining the dark power with their own to fight Kaos and the forces of evil.",
-      "hasImage": false,
-      "imgPath": ""
+      "content": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium - which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it - combining the dark power with their own to fight Kaos and the forces of evil.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Dark_Wildfire_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140721141923"
     }
   ],
   "quotes": [
@@ -43,7 +43,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Dark_Wildfire"
     }
   ],
-  "gameplay": "",
+  "gameplay": "Dark Wildfire is the dark version of Wildfire. These are the starting and maximum Statistics for this Skylander in the Skylanders games. While his in-game console stats like Health and Speed are unknown, his Power Stats include a Strength of 150 and a Defense of 240.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Wildfire",
   "abilities": {
     "basic": [
@@ -51,7 +51,7 @@
         "name": "Traptainium Shield Bash",
         "imgPath": "",
         "content": "Traptainium Shield Bash",
-        "is_primary": false,
+        "is_primary": true,
         "is_secondary": false,
         "price": 0,
         "colors": {
@@ -64,7 +64,7 @@
         "imgPath": "",
         "content": "Chains of Fire",
         "is_primary": false,
-        "is_secondary": false,
+        "is_secondary": true,
         "price": 0,
         "colors": {
           "header": "#333333",
