@@ -4,6 +4,7 @@
   "species": "Tech Dragon",
   "gender": "Male",
   "element": "Tech",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -18,22 +19,332 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Return of the Dragon King",
+  "cameos": [
+    "Return of the Dragon King"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Dragons are smart, but none so much as Drobot. He was born in the highest reaches of Skylands , where dragons spent all their time competing in aerial battles. But Drobot was more interested in taking things apart to see how they worked. While exploring one day, he came upon some mysterious technology, which he used to assemble a robotic suit. Features include laser beams that shoot from his eyes, flight enhancement technology, a vocal synthesizer that gives him a deep booming voice, and the ability to shoot spinning gears. With such power – more than most other dragons – Drobot joined the Skylanders to help protect the residents of Skylands.",
-  "personality": "Exceptionally intelligent, Drobot is driven by logic and the pursuit of knowledge. He can turn his hand to any technology and is ferocious in battle. &#91; 2 &#93; &#160;A super-genius, Drobot analyses everything he comes across. While he seemed cold and calculating at first, the Skylanders soon discovered that he is as brave as he is intelligent. &#91; 3 &#93; Drobot may be smart, but he never shies away from a fight. Instead of waiting to be invited to be a Skylander, Drobot sought out Master Eon and offered his services. &#91; 4 &#93; Like many dragons, he also has a sense of humor and uses his knowledge to come up with new pranks.",
-  "story": null,
+  "description": "Drobot is a Tech dragon Skylander who wears a robot suit. He first appeared in Skylanders: Spyro's Adventure. He was also featured in the second Episode Dungeon in Skylanders: Ring of Heroes.",
+  "biography": "Dragons are smart, but none so much as Drobot. He was born in the highest reaches of Skylands, where dragons spent all their time competing in aerial battles. But Drobot was more interested in taking things apart to see how they worked. While exploring one day, he came upon some mysterious technology, which he used to assemble a robotic suit. Features include laser beams that shoot from his eyes, flight enhancement technology, a vocal synthesizer that gives him a deep booming voice, and the ability to shoot spinning gears. With such power – more than most other dragons – Drobot joined the Skylanders to help protect the residents of Skylands.",
+  "quote": "Blink and Destroy!",
+  "personality": "Exceptionally intelligent, Drobot is driven by logic and the pursuit of knowledge. He can turn his hand to any technology and is ferocious in battle. A super-genius, Drobot analyses everything he comes across. While he seemed cold and calculating at first, the Skylanders soon discovered that he is as brave as he is intelligent. Drobot may be smart, but he never shies away from a fight. Instead of waiting to be invited to be a Skylander, Drobot sought out Master Eon and offered his services. Like many dragons, he also has a sense of humor and uses his knowledge to come up with new pranks.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "As a young dragon, Drobot often felt like an odd one out. While his friends focused on flying, fighting and aerial frolics, Drobot spent his time studying gadgets and gizmos. One day, the inexperienced flyer was caught in a terrible tailwind and forced down to a desert island. To his surprise, he found himself surrounded by magnificent machines, amazing appliances, and clever contraptions. At once, he made the island his widget workshop. Before long he had built himself a brand spanking new robotic flying suit with sensational super powers. A vocal synthesizer gave his voice a deep sonic boom, his eyes fired laser beams and he could shoot spinning gears at lightning speeds. Nowadays, Drobot is a dragon master supreme when it comes to sparring in the skies. And, with his homeland suddenly starting to feel a bit small, Drobot flew out to seek a certain Portal Master and sign up as a Skylander.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Tht.jpg/revision/latest/scale-to-width-down/268?cb=20111229144706"
+    },
+    {
+      "story_name": "Lightning Rod Faces the Cyclops Queen",
+      "content": "Drobot was among few of the the Skylanders who participated in attending the Annual Storm Titan Games to see Lightning Rod in action. Just as the event had begun, Lighting Rod's hammer accidentally hit Flynn's air balloon that was flying overhead, causing it to spiral out of control and sending debris everywhere. Drobot quickly dispatched to stop the balloon from crashing, succeeding in saving Flynn, Hugo, Double Trouble, and Squirmgrub. When the Air segment to the Mask of Power was said to be in the form of the last Land Whale held within Tempest Towers, Drobot went with Lightning Rod, Pop Fizz, Double Trouble, Cali, and Flynn to retrieve it before Kaos could have the chance. Thanks to Drobot's supercharged Afterburners, the Skylanders were able to whizz past Kaos through the Sea of Storms and reach their destination. In the Cyclops city, Drobot and Lightning Rod were thrown in the tank with the Land Whale to be eaten. Drobot quickly distracted the beast to save his companion, nearly getting eaten himself before being pulled from the Land Whale's jaws by Lightning Rod. They made their escape and returned to the Eternal Archive with the towers, claiming the Air segment.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Drobot_Flynn.jpg/revision/latest/scale-to-width-down/270?cb=20130915074816"
+    },
+    {
+      "story_name": "Skylanders: Spyro's Adventure",
+      "content": "Even Drobot's powerful, flight-enhanced robotic suit could do nothing to prevent him from joining the other Skylanders in frozen exile when Kaos destroyed the Core of Light. He no doubt spent much of his time thinking up new gadgets to break the spell that locks him in toy form.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "Drobot was one of the forty Skylanders that were summoned to stop Malefor from attacking the Skylanders Academy. Under Blades' command, he and the other aerial dragons charged towards Malefor to attack his eyes, but were all swiftly shot down by the evil dragon's powerful flamethrower. Drobot's powers were then absorbed by Malefor when he defeated the other Skylanders with a single strike of his tail. When Spyro, Cynder, Hex and Wallop destroyed the crystal Malefor used to steal Skylander powers, the act restored all of the Skylanders' strength and abilities, including Drobot's.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Blink and Destroy!",
+        "Excellent!",
+        "Maximum awesomeness!",
+        "Proceed.",
+        "Route secured.",
+        "Understood!",
+        "New identification processed!",
+        "Drobot successful!",
+        "Got it!",
+        "Sweet!",
+        "Yeah!",
+        "All right!",
+        "Absorbing power!",
+        "Woohoo.",
+        "Cool!",
+        "Fun!",
+        "Up!",
+        "Yum!",
+        "ROM materials detected!",
+        "Assimilating wealth!",
+        "Your abilities were insufficient!",
+        "Proceeding to new destination!",
+        "No, no, no, no, no, no, no!",
+        "System shutdown!",
+        "No!",
+        "Leveling sequence complete!",
+        "Level increased!",
+        "Statistics impressive!",
+        "Crunching numbers.",
+        "Drobot 1, competitor zero!",
+        "Drobot, ultimate robot!",
+        "Hat acquired!",
+        "Head apparatus processed.",
+        "New identification processed."
+      ]
+    },
+    {
+      "quote_type": "Book Quotes",
+      "content": [
+        "Target in range.",
+        "All evidence suggests that the whale is too heavy to move. It will never reach us.",
+        "Negative. Afterburners not responding. Controls have fused!",
+        "I will be able to take it. I will direct the extra power to my afterburners and -",
+        "Identification confirmed - this creature is a Land Whale.",
+        "Stop moving! You are interfering with my visual circuits!",
+        "There is a 99.999% probability that Lightning Rod will triumph."
+      ]
+    }
+  ],
+  "trivia": [
+    "Drobot relaxes by playing chess - against himself.",
+    "Since he uses a vocal synthesizer to give himself a deep booming voice, it is currently unknown what Drobot's real voice sounds like.",
+    "Drobot's name is most likely a combination of 'dragon' and 'robot'.",
+    "The mysterious technology he found were Arkeyan.",
+    "As a LightCore, the battlesuit core on his back lights up, resembling the afterburners upgrade.",
+    "The strategy guide for Skylanders: Giants incorrectly states his catchphrase as 'Seek and Destroy'.",
+    "He, Trigger Happy and Spyro are the only three non-Fire Skylanders who can kill Rotting Robbies in Spyro's Adventure (Wii version).",
+    "Drobot's original color scheme was reddish brown.",
+    "His flight capabilities are harder to control but much faster to accelerate than other Skylanders."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Drobot (extended)",
+      "isValid": true,
+      "url": "Meet the Skylanders Drobot (extended)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Drobot Preview (Blink and Destroy)",
+      "isValid": true,
+      "url": "Skylanders Spyro's Adventure - Drobot Preview (Blink and Destroy)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Drobot Trailer (Blink and Destroy)",
+      "isValid": true,
+      "url": "Skylanders Spyro's Adventure - Drobot Trailer (Blink and Destroy)"
+    },
+    {
+      "name": "Skylanders Giants - Meet the Skylanders - Series 2 Drobot (Blink and Destroy)",
+      "isValid": true,
+      "url": "Skylanders Giants - Meet the Skylanders - Series 2 Drobot (Blink and Destroy)"
+    },
+    {
+      "name": "Meet the Skylanders LightCore Drobot",
+      "isValid": true,
+      "url": "Meet the Skylanders LightCore Drobot"
+    }
+  ],
+  "gameplay": "Drobot can shoot powerful rapid fire lasers from his eyes and wings, and fire rotating gears from his wings that ricochet off of surfaces. He can also fly after being upgraded with thruster flight, and it can be further upgraded with afterburners.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Drobot",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Mega Blasters",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/90/Drobotprimarypower.png/revision/latest?cb=20120415233244",
+        "content": "Shoot rapidfire laser blasts out of your eyes.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Tactical Bladegears",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Drobotsecondarypower.png/revision/latest?cb=20120415233256",
+        "content": "Deploy spinning bladegears that ricochet off of walls and pummel enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Thruster Flight",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/db/Drobotbasicupgrade1.png/revision/latest?cb=20120415233348",
+        "content": "Allows Drobot to fly.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Galvanized Bladegears",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Drobotbasicupgrade2.png/revision/latest?cb=20120415233401",
+        "content": "Bladegears do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Axon Focus Crystals",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Drobotbasicupgrade3.png/revision/latest?cb=20120415233413",
+        "content": "Eye Blasters do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Hover Mode",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Drobotbasicupgrade4.png/revision/latest?cb=20120415233450",
+        "content": "Allows Drobot to hover.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Afterburners",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/51/Drobotsoulgempower.png/revision/latest?cb=20120415233312",
+        "content": "Flies faster and afterburners damage enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Supreme Bladegear",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3f/Drobotwowpowpower.png/revision/latest?cb=20160724124635",
+        "content": "Hold Attack 2 to combine Bladegears into one controllable Super Bladegear!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Master Blaster",
+        "abilities": [
+          {
+            "name": "Dendrite Focus Crystals",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Drobotpath1upgrade1.png/revision/latest?cb=20120415233506",
+            "content": "Eye Blasters do even more increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Antimatter Charges",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Drobotpath1upgrade2.png/revision/latest?cb=20120415233519",
+            "content": "Eye Blaster beams explode on contact, doing damage to nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Quadratic Blasters",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Drobotpath1upgrade3.png/revision/latest?cb=20120415233533",
+            "content": "Shoot lasers out of your wings as well.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Clockwork Dragon",
+        "abilities": [
+          {
+            "name": "Depleted Uranium Bladegears",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Drobotpath2upgrade1.png/revision/latest?cb=20120415233617",
+            "content": "Bladegears do even more increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Explosive Bladegears",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bf/Drobotpath2upgrade2.png/revision/latest?cb=20120415233630",
+            "content": "Bladegears explode on contact, doing damage to nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Tri-Spread Bladegears",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Drobotpath2upgrade3.png/revision/latest?cb=20120415233645",
+            "content": "Shoot 3 Bladegears at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "drobot",
+      "id": "drobot-s1",
       "variant_name": "Drobot",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Tht.jpg",
       "attacks": [
@@ -43,7 +354,133 @@
         "Hover Mode",
         "Quadratic Blasters"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (max. 580)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20 (max. 70)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "75"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "45"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Drobot"
+    },
+    {
+      "id": "drobot-s2",
+      "variant_name": "Series 2 Drobot",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f3/Series2drobot.jpg",
+      "attacks": [
+        "Mega Blasters",
+        "Tactical Bladegears",
+        "Thruster Flight",
+        "Hover Mode",
+        "Quadratic Blasters",
+        "Supreme Bladegear"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (max. 580)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20 (max. 70)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "65"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "95"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "65"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Drobot"
+    },
+    {
+      "id": "drobot-lc",
+      "variant_name": "LightCore Drobot",
+      "edition": "LightCore",
+      "type": "LightCore",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/6c/LightCore_Drobot_Promo.jpg",
+      "attacks": [
+        "Mega Blasters",
+        "Tactical Bladegears",
+        "Thruster Flight",
+        "Hover Mode",
+        "Quadratic Blasters"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "65"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "65"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "70"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Drobot"
     }
   ]
