@@ -4,6 +4,7 @@
   "species": "Arkeyan drill machine",
   "gender": "Male",
   "element": "Tech",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -17,22 +18,290 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Like many Arkeyan artifacts, Drill Sergeant was buried for centuries – a long forgotten remnant of an ancient powerful civilization. It was only a chance collision with a burrowing Terrafin that led to his systems firing up again. By Arkeyan custom, Drill Sergeant was then obligated to become Terrafin’s servant. This didn’t sit well with the dirt shark, so his first order as master was for Drill Sergeant to not serve him at all… a command he continues to follow zealously to this day.",
-  "personality": "Drill Sergeant was built and programmed to obey orders, which results in him calling everyone 'sir', which irritates some of his comrades. He follows rules to the letter, never wavering until the job is done. &#91; 3 &#93; As a valued member of the Skylanders, he is a free machine, answering to no one, but old habits of his Arkeyan programming hasn't yet diminished. Like all Tech Skylanders, Drill Sergeant is fascinated by machinery. &#91; 4 &#93;",
-  "story": null,
+  "description": "Drill Sergeant is a train-like, drilling Arkeyan machine who is one of the playable Tech Skylanders in the Skylanders series, first appearing in Skylanders: Spyro's Adventure.",
+  "biography": "Like many Arkeyan artifacts, Drill Sergeant was buried for centuries – a long forgotten remnant of an ancient powerful civilization. It was only a chance collision with a burrowing Terrafin that led to his systems firing up again. By Arkeyan custom, Drill Sergeant was then obligated to become Terrafin's servant. This didn't sit well with the dirt shark, so his first order as master was for Drill Sergeant to not serve him at all… a command he continues to follow zealously to this day.",
+  "quote": "Licensed to Drill!",
+  "personality": "Drill Sergeant was built and programmed to obey orders, which results in him calling everyone 'sir', which irritates some of his comrades. He follows rules to the letter, never wavering until the job is done. As a valued member of the Skylanders, he is a free machine, answering to no one, but old habits of his Arkeyan programming hasn't yet diminished. Like all Tech Skylanders, Drill Sergeant is fascinated by machinery.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Drill Sergeant is an ancient piece of Arkeyan apparatus, once left to rust underground. Thousands of years later, Skylands dirt shark Terrafin was burrowing through the earth when he struck something solid. Terrafin tugged the artifact above ground and dragged it off to show Master Eon. Eon muttered a few magical phrases. There was a clunk, then a whirr, and then... KACHUNK! Drill Sergeant clattered to life with lights blazing and engine revving, Drill Sergeant turned his attention to Terrafin. By Arkeyan law, he was sworn to serve the shark for all eternity. Terrafin's first order was simple: 'STOP FOLLOWING ME.' But it's one that Drill Sergeant has found tricky to compute. Without an Arkeyan in sight, Drill Sergeant found Skylands a bit senseless. So Eon signed him up, and his drills are now used for death blows against evil.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Spyro versus The Mega Monsters",
+      "content": "Drill Sergeant was one of the Skylanders who was in a training session with Spyro, Trigger Happy, and Jet-Vac within Eon's Citadel, but the training ended with Drill Sergeant and Trigger Happy being singed by Spyro's flames. The Arkeyan bulldozer was later sent to the Giggling Forest to deal with two, mega-sized Sheep that was eating up the leaves of the trees. Before he could land a hit on the sheep, Kaos arrived after claiming he was renouncing his evil ways to battle evildoers, and used his magic staff to banish the sheep. The Arkeyan bulldozer soon went with Spyro and Jet-Vac to the Desert of Columns to save Diggs from a mega-sized, yet familiar troll, only for Kaos to save the day again. Drill Sergeant later accompanied the other Skylanders with the Warrior Librarians of the Eternal Archives to stop Kaos from reaching the archive that contains a dangerous book.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/Oops.jpg/revision/latest/scale-to-width-down/294?cb=20130216085154"
+    },
+    {
+      "story_name": "Skylanders: Spyro's Adventure",
+      "content": "While in frozen toy form, Drill Sergeant's first thoughts must have been 'Oh no! Not again!'. After spending thousands of years with his 'off' button pressed and unable to move, being frozen in space must have been his worst nightmare. Just as those drills had begun to roll, like in the good old days, they were forced to cease once again.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Licensed to Drill!",
+        "Rolling through.",
+        "Rolling on.",
+        "Oh yeah!",
+        "Numbers are fun!",
+        "Stats are my favorite!",
+        "This is acceptable.",
+        "A hat, how fun!",
+        "I like it!",
+        "Interesting choice."
+      ]
+    },
+    {
+      "quote_type": "Book Quotes",
+      "content": [
+        "Boop-bo-boop, I didn't stand a chance, sir. I was revving up for a power charge, ready to send the first mountain of mutton flying into next week, when he arrived.",
+        "Beep-be-be-beep. You should see the engines, sir. Absolutely marvelous. All gleaming brass and...",
+        "Beep. Sorry, sir. Not at all, sir. My mistake, sir."
+      ]
+    }
+  ],
+  "trivia": [
+    "Even though the Arkeyans were the first to discover the Tech Element, Drill Sergeant is the only Arkeyan in the series to actually be of the Tech Element.",
+    "In Spyro's Adventure and Giants, Drill Sergeant can destroy rock formations with his Drill Rocket attack. This makes him the only Skylander who can destroy rocks that isn't of the Earth element.",
+    "His catchphrase is a pun on the phrase 'licensed to kill,' often utilized by policemen.",
+    "His Auto-Blaster upgrade (when not upgraded) is the least damaging move out of any character's powers, outside of Mining Picks. It is also the only non-flying upgrade that can be used simultaneously with other powers.",
+    "Drill Sergeant, Stump Smash, Prism Break, Eruptor and Countdown are the only five bipedal Skylanders with no hands.",
+    "Series 2 Drill Sergeant has the A View To Drill upgrade, giving him spiked drills.",
+    "He, Drobot, Bouncer, Drobit, Magna Charge and Ro-Bow are the only six Skylanders who have robotic voices.",
+    "Drill Sergeant uses robotic beeping quotes sutch as 'Bee-boo-bop', 'Boo-boo-beep', 'Bee-boop-boo-boo-bop' at the end of most of his battle cries or catchphrases. He's the only Skylander to have this feature.",
+    "Drill Sergeant is one of the few Skylanders to have drilling abilities (others include Grilla Drilla and Rubble Rouser, and partially Ro-Bow).",
+    "Sometimes Drill Sergeant will have his drills tucked in him and remain until you can do a Bulldoze Charge or fire a drill rocket. This usually happens when Drill Sergeant hits a wall suddenly in his Bulldoze Charge.",
+    "If Drill Sergeant shoot a drill rocket at Shrednaught before the battle starts, the camera will glitch.",
+    "Despite their description, Drill Rockets do not often home in on enemies.",
+    "His Wow Pow on consoles, Futurecannon, is similar to one of his 3DS upgrades, Stun Shot."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventure - Drill Sergeant Preview Trailer",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Spyro%27s_Adventure_-_Drill_Sergeant_Preview_Trailer"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Drill Sergeant Trailer (Licensed to Drill)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Spyro%27s_Adventure_-_Drill_Sergeant_Trailer_(Licensed_to_Drill)"
+    },
+    {
+      "name": "Meet The Skylanders - Series 2 Drill Sergeant 'Licenced To Drill!' Official Trailer",
+      "isValid": true,
+      "url": "/wiki/File:Meet_The_Skylanders_-_Series_2_Drill_Sergeant_%22Licenced_To_Drill!%22_Official_Trailer"
+    }
+  ],
+  "gameplay": "Drill Sergeant can destroy rock formations with his drill rocket and bulldoze charge attacks. He is a Tech element Skylander who specializes in long-range Drill Rockets and a dash move. His Auto-Blaster upgrade fires at nearby enemies automatically and is unique for being usable simultaneously with other powers. In older games, he is uniquely capable of destroying rock formations despite not being an Earth element Skylander.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Drill_Sergeant",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Drill Rocket",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/75/Drill_Sergeantprimarypower.png/revision/latest?cb=20241017155415",
+        "content": "Shoot homing rockets that chase down enemies for massive damage.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Bulldoze Charge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Drill_Sergeantsecondarypower.png/revision/latest?cb=20241017155548",
+        "content": "Drill Sergeant can dash forward and barrel over enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "A Speedy Recovery",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b7/Drill_Sergeantbasicupgrade1.png/revision/latest?cb=20241017155813",
+        "content": "Drill Rockets reload quicker and do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Dozer Endurance",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/90/Drill_Sergeantbasicupgrade2.png/revision/latest?cb=20241017155920",
+        "content": "Bulldoze charges last longer.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Power Charge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Drill_Sergeantbasicupgrade3.png/revision/latest?cb=20241017155957",
+        "content": "Bulldoze charge does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Auto-Blaster",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/42/Drill_Sergeantbasicupgrade4.png/revision/latest?cb=20241017160057",
+        "content": "Targets and fires at nearby enemies automatically.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Arkeyan Armor",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Drill_Sergeantsoulgempower.png/revision/latest?cb=20241017155637",
+        "content": "New armor makes Drill Sergeant harder to hit.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Futurecannon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Drill_Sergeantwowpowpower.png/revision/latest?cb=20160724124615",
+        "content": "Hold Attack 3 to fire energy pulses that haven't been invented yet.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Drill Rocket",
+        "abilities": [
+          {
+            "name": "A View to Drill",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Drill_Sergeantpath1upgrade1.png/revision/latest?cb=20241017160223",
+            "content": "Increase your Drill Rocket damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "DX300-Drill Detonator",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Drill_Sergeantpath1upgrade2.png/revision/latest?cb=20241017160455",
+            "content": "Using advanced explosive charges, this causes your drills to release an explosive area of effect pulse.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "MIRV Drill Rockets",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Drill_Sergeantpath1upgrade3.png/revision/latest?cb=20241017160654",
+            "content": "Drill Rockets explode into a series of smaller rockets.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Megadozer",
+        "abilities": [
+          {
+            "name": "Speed Dozer Boost",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/02/Drill_Sergeantpath2upgrade1.png/revision/latest?cb=20241017160342",
+            "content": "Drill Sergeant moves faster during a Bulldoze Charge.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Hail Storm",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f5/Drill_Sergeantpath2upgrade2.png/revision/latest?cb=20241017160558",
+            "content": "Auto-blaster fires much faster and never runs out of power.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Mega Dozer",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5c/Drill_Sergeantpath2upgrade3.png/revision/latest?cb=20241017160750",
+            "content": "Bulldozer Charge does extra damage and can charge through some attacks.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "drill-sergeant",
+      "id": "drill-sergeant-s1",
       "variant_name": "Drill Sergeant",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/f/f9/290px-Drill-Sergeant_03.jpg",
       "attacks": [
@@ -42,7 +311,63 @@
         "Auto-Blaster",
         "DX3000 - Drill Detonator"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (max. 580)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 82)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46 (max. 96)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Drill_Sergeant"
+    },
+    {
+      "id": "drill-sergeant-s2",
+      "variant_name": "Series 2 Drill Sergeant",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/09/Drill_Sergeant_Series_2.jpg",
+      "attacks": [
+        "Drill Rocket",
+        "Bulldoze Charge",
+        "Power Charge",
+        "Auto-Blaster",
+        "DX3000 - Drill Detonator",
+        "Futurecannon"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "40"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Drill_Sergeant"
     }
   ]
