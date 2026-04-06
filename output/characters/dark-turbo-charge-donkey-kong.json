@@ -7,16 +7,17 @@
   "role": "Dark Edition SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
-    "Skylanders: SuperChargers",
-    "Skylanders: SuperChargers Racing",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": [],
+  "cameos": [
+    "Diddy Kong"
+  ],
   "world": [
     "Donkey Kong Island"
   ],
   "description": "Dark Turbo Charge Donkey Kong is the Dark counterpart of Turbo Charge Donkey Kong in Skylanders: SuperChargers. His signature vehicle is the Dark Barrel Blaster.",
-  "biography": "Dark Turbo Charge Donkey Kong is the Dark counterpart of Turbo Charge Donkey Kong in Skylanders: SuperChargers. His signature vehicle is the Dark Barrel Blaster.",
+  "biography": "Dark Turbo Charge Donkey Kong is the Dark counterpart of Turbo Charge Donkey Kong in Skylanders: SuperChargers. He is a Kong from Donkey Kong Island and his signature vehicle is the Dark Barrel Blaster.",
   "quote": "It's on like Donkey Kong!",
   "personality": "As a Dark SuperCharger, he possesses a more intense and brooding nature compared to his standard counterpart, while retaining his legendary strength and loyalty.",
   "story": [
@@ -41,7 +42,8 @@
     "He was released as part of the Wii U Dark Edition Starter Pack for Skylanders: SuperChargers.",
     "As a guest character, he is only playable on Nintendo platforms.",
     "His English voice actor is Takashi Nagasako.",
-    "Diddy Kong is his nephew."
+    "Diddy Kong is his nephew.",
+    "Dark Turbo Charge Donkey Kong's toy form is compatible with Nintendo's amiibo features."
   ],
   "trailers": [
     {
