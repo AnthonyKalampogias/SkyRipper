@@ -4,6 +4,7 @@
   "species": "Lava Monster",
   "gender": "Male",
   "element": "Fire",
+  "role": "Mini",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -11,22 +12,111 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands Miniverse"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "It's springtime again and Weeruptor was chosen as this year's official mascot for the Annual Dragon Egg Hunt! Being new to this time honored tradition, he disguised himself as a candy-coated egg and proceeded to capture Spyro , Cynder , and Drobot within a Traptanium basket. Sort of missing the point of the occasion. But what he lacks in point-getting, he more than makes up for in “Eggsellence”!",
-  "personality": null,
-  "story": null,
+  "description": "Eggsellent Weeruptor is an Easter counterpart of the Fire Mini, Weeruptor, in Skylanders: Trap Team.",
+  "biography": "It's springtime again and Weeruptor was chosen as this year's official mascot for the Annual Dragon Egg Hunt! Being new to this time honored tradition, he disguised himself as a candy-coated egg and proceeded to capture Spyro, Cynder, and Drobot within a Traptanium basket. Sort of missing the point of the occasion. But what he lacks in point-getting, he more than makes up for in 'Eggsellence'!",
+  "quote": "Born to Burn!",
+  "personality": "Eggsellent Weeruptor is enthusiastic about festive traditions, though he is somewhat literal-minded, which led him to capture his fellow Skylanders during an egg hunt. He is determined to live up to his mascot role with 'Eggsellence'.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "It's springtime again and Weeruptor was chosen as this year's official mascot for the Annual Dragon Egg Hunt! Being new to this time honored tradition, he disguised himself as a candy-coated egg and proceeded to capture Spyro, Cynder, and Drobot within a Traptanium basket. Sort of missing the point of the occasion. But what he lacks in point-getting, he more than makes up for in 'Eggsellence'!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/41/Eggsellent_Weeruptor_Promo.jpg/revision/latest?cb=20150212014822"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official catchphrase",
+      "content": [
+        "Born to Burn!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He, Power Punch Pet-Vac, and Gnarly Barkley are the only Minis to be available in single packs instead of double packs."
+  ],
+  "trailers": [],
+  "gameplay": "Eggsellent Weeruptor plays identically to Weeruptor and Eruptor, focusing on area-of-effect fire attacks. He can lob lava at a distance or create eruptions to clear out enemies surrounding him. Despite his small size, he retains the full power of his larger counterpart.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Eggsellent_Weeruptor",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Lava Lob",
+        "imgPath": "/path/to/lava_lob.png",
+        "content": "Lobs a chunk of lava at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FFDADA"
+        }
+      },
+      {
+        "name": "Eruption",
+        "imgPath": "/path/to/eruption.png",
+        "content": "Causes a localized volcanic eruption to damage nearby foes.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FFDADA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Big Blob Lava Throw",
+        "imgPath": "/path/to/big_blob.png",
+        "content": "Increases the size and damage of lava projectiles.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FFDADA"
+        }
+      },
+      {
+        "name": "Heavy Duty Plasma",
+        "imgPath": "/path/to/heavy_duty.png",
+        "content": "Enhances the lava with plasma for higher intensity.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FFDADA"
+        }
+      },
+      {
+        "name": "Quick Eruption",
+        "imgPath": "/path/to/quick_eruption.png",
+        "content": "Reduces the cooldown and increases the speed of eruptions.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FFDADA"
+        }
+      }
+    ],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "eggsellent-weeruptor",
       "variant_name": "Eggsellent Weeruptor",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Special",
+      "type": "Mini",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/41/Eggsellent_Weeruptor_Promo.jpg/revision/latest?cb=20150212014822",
       "attacks": [
@@ -36,7 +126,7 @@
         "Heavy Duty Plasma",
         "Quick Eruption"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Eggsellent_Weeruptor"
     }
   ]
