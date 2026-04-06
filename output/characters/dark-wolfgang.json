@@ -4,21 +4,113 @@
   "species": "Werewolf",
   "gender": "Male",
   "element": "Undead",
+  "role": "Dark Edition Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Dark Wolfgang is the Dark counterpart of Wolfgang in Skylanders: Imaginators. He is included in the Dark Edition of Imaginators, along with Dark Golden Queen and Dark King Pen, and a Dark Doom Raider boss in Skylanders: Ring of Heroes.",
+  "biography": "Dark Wolfgang is the Dark counterpart of Wolfgang in Skylanders: Imaginators. He is included in the Dark Edition of Imaginators, along with Dark Golden Queen and Dark King Pen, and a Dark Doom Raider boss in Skylanders: Ring of Heroes.",
+  "quote": "Let There Be Rock! ARROOOOOO!!",
+  "personality": "As a practitioner of rock and roll, Dark Wolfgang is energetic and rebellious, though he now uses his musical talents to protect Skylands as a reformed Sensei.",
+  "story": [
+    {
+      "story_name": "Origin",
+      "content": "Dark Wolfgang is the Dark counterpart of Wolfgang in Skylanders: Imaginators. He is included in the Dark Edition of Imaginators, along with Dark Golden Queen and Dark King Pen, and a Dark Doom Raider boss in Skylanders: Ring of Heroes.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Dark_Wolfgang_Artwork.jpg/revision/latest/scale-to-width-down/268?cb=20160914205555"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Let There Be Rock! ARROOOOOO!!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Dark Wolfgang is the first Dark Edition Undead figure.",
+    "Dark Wolfgang looks like Wolfgang's evolved state from Trap Team, albeit with minor differences."
+  ],
+  "trailers": [],
+  "gameplay": "As a Bowslinger Sensei, Dark Wolfgang uses his guitar-like bow to perform musical attacks. His moveset includes Strike a Chord, Knee Slide, Song of the Underworld, Lay Some Tracks, and his powerful Sky Chi move, Surround Sound.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Wolfgang",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Strike a Chord",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/UndeadSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223508",
+        "content": "Attack with your guitar bow by striking musical chords.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#1a001a",
+          "bg_content": "#3d003d"
+        }
+      },
+      {
+        "name": "Knee Slide",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Bowslinger_symbol.png/revision/latest/scale-to-width-down/22?cb=20160718232138",
+        "content": "Perform a rock-and-roll knee slide to damage enemies in your path.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#1a001a",
+          "bg_content": "#3d003d"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Song of the Underworld",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/UndeadSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223508",
+        "content": "Play a powerful song that channels the power of the Underworld.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#1a001a",
+          "bg_content": "#3d003d"
+        }
+      },
+      {
+        "name": "Lay Some Tracks",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/UndeadSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223508",
+        "content": "Lay tracks on the ground to control the battlefield.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#1a001a",
+          "bg_content": "#3d003d"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Surround Sound",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Dark_Wolfgang_Artwork.jpg/revision/latest/scale-to-width-down/268?cb=20160914205555",
+        "content": "Release a massive Sky Chi attack that surrounds enemies with devastating sound.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#1a001a",
+          "bg_content": "#3d003d"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "dark-wolfgang",
@@ -28,9 +120,13 @@
       "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/0/03/Dark_Wolfgang_Artwork.jpg/revision/latest?cb=20160914205555",
       "attacks": [
-        "Strike a Chord Knee Slide Song of the Underworld Lay Some Tracks Surround Sound"
+        "Strike a Chord",
+        "Knee Slide",
+        "Song of the Underworld",
+        "Lay Some Tracks",
+        "Surround Sound"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Wolfgang"
     }
   ]
