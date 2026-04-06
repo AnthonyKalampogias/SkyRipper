@@ -55,7 +55,7 @@
         "name": "Sword Slash",
         "imgPath": "",
         "content": "",
-        "is_primary": false,
+        "is_primary": true,
         "is_secondary": false,
         "price": 0,
         "colors": {
@@ -68,7 +68,7 @@
         "imgPath": "",
         "content": "",
         "is_primary": false,
-        "is_secondary": false,
+        "is_secondary": true,
         "price": 0,
         "colors": {
           "header": "",
