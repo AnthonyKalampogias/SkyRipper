@@ -1,29 +1,165 @@
 {
   "id": "drobit",
   "name": "Drobit",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": "The Skylander Minis started off as regular \" Sidekicks ,\" assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-  "personality": "Drobit enjoys studying and is known for being a smarty-pants. He's got a big heart too, which is a nice balance. &#91; 1 &#93;",
-  "story": null,
+  "species": "Dragon",
+  "gender": "Male",
+  "element": "Tech",
+  "role": "Mini",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "The Kaos Trap",
+    "Skylanders Issue 12",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": [],
+  "world": [
+    "Skylands Miniverse"
+  ],
+  "description": "Drobit is the Mini counterpart of the Tech Skylander, Drobot in Skylanders: Trap Team.",
+  "biography": "The Skylander Minis started off as regular 'Sidekicks,' assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "quote": "Blink and Destroy!",
+  "personality": "Drobit enjoys studying and is known for being a smarty-pants. He's got a big heart too, which is a nice balance.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "Drobit is the Mini counterpart of the Tech Skylander, Drobot in Skylanders: Trap Team.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official catchphrase",
+      "content": [
+        "Blink and Destroy!"
+      ]
+    }
+  ],
+  "trivia": [],
+  "trailers": [
+    {
+      "name": "Meet the Mini Skylanders Drobit",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Mini_Skylanders_Drobit"
+    },
+    {
+      "name": "Meet the Skylanders DroBit",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_DroBit"
+    }
+  ],
+  "gameplay": "Drobit's attacks include Mega Blasters, Tactical Bladegears, Thruster Flight, Hover Mode, and Quadratic Blasters. His starting statistics in the console version are 280 Health, 60 Speed, and 24 Armor.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Drobit",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Mega Blasters",
+        "imgPath": "",
+        "content": "Drobit fires his Mega Blasters at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Tactical Bladegears",
+        "imgPath": "",
+        "content": "Drobit releases Tactical Bladegears to slice through foes.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Thruster Flight",
+        "imgPath": "",
+        "content": "Enables flight for Drobit using his thrusters.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Hover Mode",
+        "imgPath": "",
+        "content": "Allows Drobit to hover in place while attacking.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Quadratic Blasters",
+        "imgPath": "",
+        "content": "An advanced upgrade for Drobit's blasters.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "drobit",
       "variant_name": "Drobit",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
+      "type": "Mini",
+      "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/e/e3/Drobit_Promo.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Mega Blasters",
+        "Tactical Bladegears",
+        "Thruster Flight",
+        "Hover Mode",
+        "Quadratic Blasters"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Drobit"
     }
   ]
