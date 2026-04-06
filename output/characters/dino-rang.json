@@ -4,6 +4,7 @@
   "species": "Dinosaur",
   "gender": "Male",
   "element": "Earth",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -17,24 +18,352 @@
     "Rift into Overdrive",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators",
-    "Skylanders: Ring of Heroes}}"
+    "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
-    "Skylands"
+    "Skylands",
+    "Faraway world"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "For years, Dino-Rang trained to use the weapons of his tribe – earthen boomerangs. His people were skilled hunters in a world far away from the realm of Skylands . As he slept one night, a freak portal suddenly opened beneath him. Unsure of how or why he arrived in Skylands, Dino-Rang set out to explore the world that was suddenly his new home. Eventually becoming a Skylander, he now fights with his own brand of Dino-Justice, while seeking out the fabled Twin Diamond Boomerangs, which he believes could hold the clues to his greater destiny.",
-  "personality": "Unlike most unruly dinosaurs, Dino-Rang has a calm and collected demeanor. However, if anyone calls him a dragon by mistake, Dino-Rang will lose his cool, resulting in a furious display of whirling boomerangs. Even though he loves being a Skylander, he still dreams of the hunting plains of his homeland. &#91; 2 &#93;",
-  "story": null,
+  "description": "Dino-Rang is an Earth boomerang-wielding dinosaur Skylander in Skylanders: Spyro's Adventure. He uses his boomerangs to attack his foes at range or to deflect their attacks. He can also use the surrounding dirt to form traps that spring up from the earth when an opponent gets too close.",
+  "biography": "For years, Dino-Rang trained to use the weapons of his tribe – earthen boomerangs. His people were skilled hunters in a world far away from the realm of Skylands. As he slept one night, a freak portal suddenly opened beneath him. Unsure of how or why he arrived in Skylands, Dino-Rang set out to explore the world that was suddenly his new home. Eventually becoming a Skylander, he now fights with his own brand of Dino-Justice, while seeking out the fabled Twin Diamond Boomerangs, which he believes could hold the clues to his greater destiny.",
+  "quote": "Come 'Rang or Shine!",
+  "personality": "Unlike most unruly dinosaurs, Dino-Rang has a calm and collected demeanor. However, if anyone calls him a dragon by mistake, Dino-Rang will lose his cool, resulting in a furious display of whirling boomerangs. Even though he loves being a Skylander, he still dreams of the hunting plains of his homeland.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Dino-Rang came from a tribe of skilled hunting dinosaurs from a faraway world. There, he had been the first to twirl the legendary twin boomerangs and was top of his tribe. But his fortunes changed one night when a portal popped open beneath his bed and sucked him into a strange Skylands temple. He was surrounded by sinister wizards, whose spell had gone askew. Dino-Rang broke out his boomerangs and, before the wizards could say 'boo' (or even 'bo'), they were blasted to the remote Outlands. Threat averted, he began searching for the fabled Twin Diamond Boomerangs which he hoped could take him home. He is yet to find them, but he did find Master Eon - who promptly made him a Skylander.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Portal of Power",
+      "content": [
+        "Come 'Rang or Shine!"
+      ]
+    },
+    {
+      "quote_type": "Leaping from a Bounce Pad",
+      "content": [
+        "Uppy-roo!",
+        "Whoo-hoo!",
+        "Doozy!"
+      ]
+    },
+    {
+      "quote_type": "Pushing a Heavy Object",
+      "content": [
+        "Boom-ba-gong!",
+        "Heh, polly wolly!"
+      ]
+    },
+    {
+      "quote_type": "Obtaining a Power-up",
+      "content": [
+        "Ripper!",
+        "Corker!"
+      ]
+    },
+    {
+      "quote_type": "Task Completed Successfully",
+      "content": [
+        "No worries!",
+        "That's right!",
+        "Dino domination!"
+      ]
+    },
+    {
+      "quote_type": "All Enemies Defeated",
+      "content": [
+        "'Anotha' one bites the 'rang!",
+        "Maybe next time, ay buddy?",
+        "Nothin' like a good beatdown!"
+      ]
+    },
+    {
+      "quote_type": "Opening a Barrier",
+      "content": [
+        "'Ere I go!",
+        "Alright!"
+      ]
+    },
+    {
+      "quote_type": "Entering an Elemental Gate",
+      "content": [
+        "Nice place for a walkabout!"
+      ]
+    },
+    {
+      "quote_type": "Leveling Up",
+      "content": [
+        "Wallaroo!",
+        "Dino might!"
+      ]
+    },
+    {
+      "quote_type": "Opening a Treasure Chest",
+      "content": [
+        "Now that's beeeyoootiful!",
+        "Get a load of these, will ya?"
+      ]
+    },
+    {
+      "quote_type": "Viewing Stats",
+      "content": [
+        "Quite impressive, wouldn't ya say?",
+        "By golly!"
+      ]
+    },
+    {
+      "quote_type": "Putting on a Hat",
+      "content": [
+        "This'll keep the sun out of me eyes!",
+        "Look at me new hat!"
+      ]
+    },
+    {
+      "quote_type": "Given a Nickname",
+      "content": [
+        "Thanks, mate!",
+        "Good on ya!"
+      ]
+    },
+    {
+      "quote_type": "Idle",
+      "content": [
+        "What's with the stand about?",
+        "You tryna make me a fossil?"
+      ]
+    }
+  ],
+  "trivia": [
+    "Despite being a dinosaur, Dino-Rang bears more of a resemblance towards a crocodilian.",
+    "Dino-Rang, Flashwing, Spyro, Star Strike and Enigma are the only Skylanders whose origin homes are not in Skylands.",
+    "Despite his size, Dino-Rang is a surprisingly gifted dancer. Sometimes though, he forgets his own strength. Once, when he was dancing with a female partner, he attempted to lift her above his head, and accidentally launched her screaming several miles into the air.",
+    "His catchphrase is a play on 'Come Rain or Shine'.",
+    "Dino-Rang's default boomerangs were redesigned in Skylanders: Giants, changing from the original brown, stony appearance in Spyro's Adventure to yellow with red tips.",
+    "He, Slobber Tooth, Chopper and Tri-Tip are currently the only Skylanders who are dinosaurs.",
+    "His name is a pun on the words 'Dinosaur' and 'Boomerang'.",
+    "He is the first Skylander that has Obsidian armor (with the second one being Rubble Rouser).",
+    "In Swap Force, Dino-Rang's profile picture has the Obsidian Armor upgrade.",
+    "In Swap Force, every time he performs the Stonefist Traps, they immediately pop out of the ground rather than waiting for enemies to step on them.",
+    "Dino-Rang and Snap Shot are both reptilian Skylanders that use a projectile weapon and speak with a heavy Australian accent.",
+    "Dino-Rang, Bone Bash Roller Brawl and Gusto all wield boomerangs.",
+    "In the Wii version of Skylanders: Spyro's Adventure, attempting to pick up watermelons with the Sticky Boomerangs upgrade can result in a glitch where the food item will levitate in the air.",
+    "In Skylanders: Giants and Trap Team, Dino-Rang can perform a glitch were he seems to moonwalk using the Boomerang Finesse upgrade.",
+    "Despite pictures, there is no such thing as a Dino-Rang figure with his diamond boomerangs.",
+    "Dino-Rang was the most expensive Skylander figure created.",
+    "In Spyro's Adventure, if dialogue or a cinematic interrupts Dino-Rang while both of his boomerangs are out of his hands, he will be missing them throughout the scene."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Dino-Rang (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Dino-Rang_(extended)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Dino Rang Preview Trailer (Come Rang or Shine)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Dino_Rang_Preview_Trailer_%28Come_Rang_or_Shine%29"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Dino-Rang Trailer (Come 'Rang or Shine)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Dino-Rang_Trailer_%28Come_%27Rang_or_Shine%29"
+    },
+    {
+      "name": "Skylanders Giants - Dino-Rang's Soul Gem Preview (Come 'Rang or Shine)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Dino-Rang%27s_Soul_Gem_Preview_%28Come_%27Rang_or_Shine%29"
+    }
+  ],
+  "gameplay": "Dino-Rang uses his boomerangs to attack his foes at range or to deflect their attacks. He can also use the surrounding dirt to form traps that spring up from the earth when an opponent gets too close. Choosing the Grand Boomerang Master upgrade path for Dino-Rang increases his effectiveness with the boomerang, while the Earthen Avenger upgrade path enhances the power of his Stonefist Traps and provides defensive bonuses.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dino-Rang",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Stone Boomerangs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Dino-Rangprimarypower.png",
+        "content": "Throw boomerangs at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Boomerang Shield",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c2/Dino-Rangsecondarypower.png",
+        "content": "Throw both boomerangs around in a circle for a close-ranged attack.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Basalt Boomerangs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/Dino-Rangbasicupgrade1.png",
+        "content": "Stone Boomerangs do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Boomerang Finesse",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5f/Dino-Rangbasicupgrade2.png",
+        "content": "Control boomerangs in the air.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Stonefist Traps",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/Dino-Rangbasicupgrade3.png",
+        "content": "Summon two Stonefist Traps from beneath the earth.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Dervish Shield",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Dino-Rangbasicupgrade4.png",
+        "content": "Boomerang Shield does extra damage and blocks enemies' shots.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Sticky Boomerangs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/af/Dino-Rangsoulgempower.png",
+        "content": "Boomerangs pick up treasure, food, and powerups.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Grand Boomerang Master",
+        "abilities": [
+          {
+            "name": "Volcanic Glass Boomerangs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/Dino-Rangpath1upgrade1.png",
+            "content": "Boomerangs do even more increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Dancing Boomerangs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Dino-Rangpath1upgrade2.png",
+            "content": "Boomerangs bounce off of walls and enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "It's All In The Wrist",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/29/Dino-Rangpath1upgrade3.png",
+            "content": "Boomerang Shield lasts longer and does extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Earthen Avenger",
+        "abilities": [
+          {
+            "name": "Quad Stonefist Trap",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Dino-Rangpath2upgrade1.png",
+            "content": "Summon 4 Stonefist Traps at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Obsidian Armor",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Dino-Rangpath2upgrade2.png",
+            "content": "Improved armor makes it harder for enemies to hit Dino-Rang. (Armor +40)",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Fist Trap Funeral",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Dino-Rangpath2upgrade3.png",
+            "content": "Enemies defeated by Boomerangs spawn Stonefist Traps.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "dino-rang",
       "variant_name": "Dino-Rang",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core Skylander",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/3/32/Dino-Rang.jpg",
       "attacks": [
@@ -44,7 +373,28 @@
         "Dervish Shield",
         "Volcanic Glass Boomerangs"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300 (Lv 10: 600)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dino-Rang"
     }
   ]
