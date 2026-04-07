@@ -4,6 +4,7 @@
   "species": "Bambazooker",
   "gender": "Male",
   "element": "Life",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -16,24 +17,311 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Return of the Dragon King",
+  "cameos": [
+    "Return of the Dragon King"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Zook is a Bambazooker who is a Life Core Skylander from Skylanders: Spyro's Adventure.",
   "biography": "Zook hails from a strange and unusual species called Bambazookers, who once lived their entire lives standing in place... until Zook discovered they could walk simply by stepping out of the mud. After that, he became a wandering hero, using his hand-carved bamboo tube as a bazooka that fires special explosive thorns. Campfire songs were even written about him. Now, Zook spends his time as a Skylander, figuring he can be an even bigger hero... and have even more songs written about him.",
-  "personality": "Zook is the cheeriest walking bamboo plant you will ever meet. He lives life to the fullest and wants to explore every last one of Skylands' many islands. &#91; 1 &#93;",
-  "story": null,
+  "quote": "Locked and Loaded!",
+  "personality": "Zook is the cheeriest walking bamboo plant you will ever meet. He lives life to the fullest and wants to explore every last one of Skylands' many islands.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Zook is something of a folk hero among the Bambazooker forest folk. After centuries of standing still, Zook decided not to be a stick in the mud anymore. He simply lifted his leg and stepped forward. He then wandered the woods spreading the word - Bambazookers can move! But nobody took much notice. The first time an outsider saw a Bambazooker was when Zook saved an elven mapping expedition. The elves were watching Zook and placing bets on the purpose of his bamboo tube (some said it was a telescope, while others mantained it was a didgeridoo). The elves were caught unawares when a mighty mountain troll stomped menacingly towards them.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "History",
+      "content": "Suddenly, Zook brought all betting to a close when he lifted the great tube to his shoulder. Out shot a shower of exploding thorns that sent the troll into a speedy retreat. 'Ahhhh, a bazooka!' the elves exclaimed. To this day, no other bambazooker has ever taken a single step. So, as the only mobile Bambazooker in history, Zook has a special place in the Skylanders squad.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Cynder Confronts the Weather Wizard",
+      "content": "At the Cloudless Desert, Zook and Cynder were enjoying the sunrays, although the Bambazooker was the only one who was having fun. As soon as Hex arrived to inform the two Skylanders of Master Eon requesting their presence, a freak rainstorm brewed, causing the sand dunes to turn into quicksand. Without a moment's hesitation, Zook assisted Cynder and Hex in saving the beachgoers from sinking underground. Afterwards they arrived in Eon's citadel, where they learn that there had been multiple reports of unusual weather conditions throughout Skylands. Clues point to the Isle of the Dead, where they had received a call for help from one of the undead inhabitants.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Cynder Confronts the Weather Wizard",
+      "content": "Master Eon then assigned Cynder, Zook, and Hex to venture to the Isle of the Dead, where they believe they'll find the cause of the storms, the Undead fragment to the Mask of Power, and answer the call for help by the undead inhabitants. Because Zook was a Life Skylander, he was granted a protection spell by Master Eon to withstand the island's dark power. During the adventure, Zook served as the only lighthearted individual of the three Skylanders, as both Cynder and Hex are gloomy characters of the Undead.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Cynder Confronts the Weather Wizard",
+      "content": "Upon encountering the weather wizard, Hurrikazam, the Skylanders infiltrated the wizard's citadel where they learn that Hurrikazam was stealing the undead inhabitants to drain them of their undeadliness using the Undead Energy Extractor. However the real culprit was Kaos himself, who was forcing Hurrikazam to commit evil deeds. During the battle, Zook was temporarily frozen in a block of ice caused by Hurrikazam's weather machine, but managed to break himself free. However the Bambazooker and Cynder were trapped by Hex's bone fortress, and the elven sorceress proclaimed herself to be joining Kaos' side in helping him gain enough undead power to destroy Skylands. An eager Kaos began the draining procedure, but the Undead Energy Extractor began to overload due to the amount of power from Hex. It was soon realized that Hex never betrayed the Skylanders and planned on overloading the machine all along to destroy it.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Cynder Confronts the Weather Wizard",
+      "content": "The machine soon exploded, and after a brief moment of seeing Hex's true form, the Skylanders return their attention to Kaos. Zook and Hex took on Kaos' remaining forces, while Cynder went after Kaos and drove him away with the help of a friendly Stump Demon named Dogwood. With Kaos defeated, the Skylanders celebrated their victory back in Ghost Town, where the undead returned to their normal forms. Hurrikazam apologized for his actions and announced to redeem himself by bringing storm clouds suitable for the Undead. As a token of his gratitude, the weather wizard handed the Skylanders an Amazing, Fantastic, Incredible, Suprising, Unfathomable, All-Coloured Rose seed, the Undead segment to the Mask of Power.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Cynder Confronts the Weather Wizard",
+      "content": "Zook standing with his fellow Skylanders, Hex and Cynder",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Cynder_Hex_Zook.png/revision/latest?cb=20150711061633"
+    },
+    {
+      "story_name": "Cynder Confronts the Weather Wizard",
+      "content": "Upon returning to the Eternal Archive, Zook, Cynder and Hex were given the horrible news from Spyro that Squirmgrub kidnapped Master Eon and stole five of the pieces to the Mask of Power.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Locked and Loaded! Ha-ha-ha-ha!",
+        "Let's lower da boom, BIG TIME!",
+        "Time for the boom!",
+        "Bring in the boom!",
+        "Let's do this!",
+        "Zook it up!",
+        "Look out, the Zook's out!",
+        "Hey, how you like that?",
+        "Locked and loaded!",
+        "Beat them bad!",
+        "Heh heh, yeah!",
+        "Super Spring!",
+        "Wow-wee!",
+        "I be winning the fight!",
+        "What's the bamboo gonna do?",
+        "Ha! Ha! Better luck next time to you!",
+        "Comin' through!",
+        "Super Spring!",
+        "Feel the power!",
+        "Ya makin' me strong!",
+        "Look incredible!",
+        "That's my kind of hat!",
+        "Hey, I like it!",
+        "Great job on the name!"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "Let's go, Skylanders!"
+      ]
+    },
+    {
+      "quote_type": "Book Quotes",
+      "content": [
+        "Trust me, we've seen scary stuff. Monsters. Gorgons. Kaos' feet."
+      ]
+    }
+  ],
+  "trivia": [
+    "His original catchphrase was \"Bamboo-Yah!\" Strangely, Zook's catchphrase is still shown as \"Bamboo-Yah!\" on his toy packaging. However, in-game, his real catchphrase is now \"Locked and Loaded!\". It can be assumed his catchphrase was changed to \"Locked and Loaded!\" very late in development, or maybe the catchphrase was changed to \"Bamboo-Yah!\", too late during development, and failed to cement itself as Zook's catchphrase.",
+    "Zook and Tuff Luck are the only Skylanders known to have their catchphrases changed. Coincidentally, both are of the Life element.",
+    "His species' name is a combination of the words bamboo and bazooka.",
+    "In the Skylander commercial 'Blow it Up!', Zook speaks with an Australian accent, while in the game, he speaks with a Jamaican accent.",
+    "In the Skylanders: Cloud Patrol game, his story adds in he would prefer a nice haiku instead of a campfire song if he had a choice. Zook is said to be the subject of several popular campfire songs.",
+    "Series 2 Zook has the Old Growth Bazooka upgrade, giving him leaves on his bazooka.",
+    "He is voiced by Fred Tatasciore, who also voiced the Witch Doctor in the LEGO Hero Factory movie 'Savage Planet', who also has the same guttural Jamaican accent.",
+    "Tatasciore also voices Slam Bam, Snap Shot, Cuckoo Clocker, Krankenstein, and Cross Crow.",
+    "He, Bumble Blast, and Food Fight are currently the only Life Skylanders who wield plant-like firearms."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Zook (extended)",
+      "isValid": false,
+      "url": ""
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Zook Trailer (Locked-and-Loaded!)",
+      "isValid": false,
+      "url": ""
+    },
+    {
+      "name": "Meet the Skylanders Series 2 Zook",
+      "isValid": false,
+      "url": ""
+    }
+  ],
+  "gameplay": "Zook can fire explosive thorns from his bamboo tube, which not only serves as a bazooka, but can be used as a a dijiridoo, a telescope, and other things. He can also summon a barricade of various plants or fungus to protect himself.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Zook",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Bazooka Attack",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/81/Zookprimarypower.png/revision/latest?cb=20241021182315",
+        "content": "Press and hold your primary power button to fire Bazooka Shells that explode into shrapnel. Hold down the button to extend the range.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Foliage Barrier",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Zooksecondarypower.png/revision/latest?cb=20241021182353",
+        "content": "Grow a barricade made of plants to protect yourself.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Hardwood Shells",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Zookbasicupgrade1.png/revision/latest?cb=20241021182529",
+        "content": "Bazooka Shells and shrapnel do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Fungal Bloom",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Zookbasicupgrade2.png/revision/latest?cb=20241021182554",
+        "content": "Barrier is stronger and takes longer for enemies to destroy.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Mortar Attack",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7e/Zookbasicupgrade3.png/revision/latest?cb=20241021182630",
+        "content": "Launch a Mortar attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Full Splinter Jacket",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Zookbasicupgrade4.png/revision/latest?cb=20241021182701",
+        "content": "Bazooka shells create more shrapnel.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Artilleryman",
+        "abilities": [
+          {
+            "name": "High Velocity Shrapnel",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Zookpath1upgrade1.png/revision/latest?cb=20241021182740",
+            "content": "Bazooka shrapnel has longer range.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Old Growth Bazooka",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Zookpath1upgrade2.png/revision/latest?cb=20241021182805",
+            "content": "Bazooka shells and shrapnel do even more increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Exploding Shrapnel",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Zookpath1upgrade3.png/revision/latest?cb=20241021182830",
+            "content": "Bazooka shrapnel explodes on contact, damaging nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Floral Defender",
+        "abilities": [
+          {
+            "name": "Cactus Barrier",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a7/Zookpath2upgrade1.png/revision/latest?cb=20241021182851",
+            "content": "Barrier does damage to any enemy that touches it.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Mortar of Life",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Zookpath2upgrade2.png/revision/latest?cb=20241021183058",
+            "content": "Mortar attack grows a Cactus where the shell explodes.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Fightin' Foliage",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Zookpath2upgrade3.png/revision/latest?cb=20241021183139",
+            "content": "Barriers and Cacti knock enemies back and do damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "zook",
       "variant_name": "Zook",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/5/54/442px-Zook.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/54/442px-Zook.jpg/revision/latest?cb=20120307044638",
       "attacks": [
         "Bazooka Attack",
         "Foliage Barrier",
@@ -41,7 +329,66 @@
         "Full Splinter Jacket",
         "Exploding Shrapnel"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260 (max. 520)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30 (max. 60)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20 (max. 70)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Zook"
+    },
+    {
+      "id": "zook_series_2",
+      "variant_name": "Zook",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Series_2_Zook_promo.jpg/revision/latest?cb=20121117065558",
+      "attacks": [
+        "Bazooka Attack",
+        "Foliage Barrier",
+        "Mortar Attack",
+        "Full Splinter Jacket",
+        "Exploding Shrapnel"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "???"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Zook"
     }
   ]
