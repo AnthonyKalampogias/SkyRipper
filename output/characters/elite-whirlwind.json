@@ -4,28 +4,121 @@
   "species": "Unicorn/Dragon Hybrid",
   "gender": "Female",
   "element": "Air",
+  "role": "Eon's Elite",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Of all the heroic Skylanders , there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon’s Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands !",
-  "personality": null,
-  "story": null,
+  "description": "Elite Whirlwind is the Eon's Elite counterpart of Whirlwind in Skylanders: Trap Team.",
+  "biography": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
+  "quote": "Twists of Fate!",
+  "personality": "Courageous and brave, Elite Whirlwind is revered by her fellow Skylanders for her unwavering commitment to defend Skylands against all odds.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "Elite Whirlwind is the Eon's Elite counterpart of Whirlwind in Skylanders: Trap Team.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/05/EE_Whirlwind_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161108182800"
+    },
+    {
+      "story_name": "Biography",
+      "content": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Elite_Whirlwind_Promo.png/revision/latest/scale-to-width-down/185?cb=20141202220220"
+    }
+  ],
+  "quotes": [],
+  "trivia": [
+    "She and Elite Spyro are the only Dragon Skylanders to have Eon's Elite versions.",
+    "She and Elite Stealth Elf are the only female Skylanders to be part of Eon's Elites.",
+    "She is the only Elite Skylander of the Air element.",
+    "She and Elite Eruptor are the only Elite Skylanders of their respective elements."
+  ],
+  "trailers": [],
+  "gameplay": "Elite Whirlwind is the Eon's Elite counterpart of Whirlwind, featuring significantly higher stats in gameplay. As an Elite Skylander, her power is significantly increased compared to her standard form, making her a formidable ally in the fight against evil.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Whirlwind",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Rainbow of Doom",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Elite_Whirlwind_Promo.png/revision/latest/scale-to-width-down/185?cb=20141202220220",
+        "content": "Whirlwind shoots a rainbow that damages enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Tempest Cloud",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Elite_Whirlwind_Promo.png/revision/latest/scale-to-width-down/185?cb=20141202220220",
+        "content": "Whirlwind creates a cloud that strikes enemies with lightning.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Dragon Flight",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Elite_Whirlwind_Promo.png/revision/latest/scale-to-width-down/185?cb=20141202220220",
+        "content": "Whirlwind takes to the sky, flying over obstacles and enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Duel Rainbows",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Elite_Whirlwind_Promo.png/revision/latest/scale-to-width-down/185?cb=20141202220220",
+        "content": "Whirlwind fires two rainbows at once to double her damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Atomic Rainbow",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Elite_Whirlwind_Promo.png/revision/latest/scale-to-width-down/185?cb=20141202220220",
+        "content": "An incredibly powerful rainbow attack that causes massive damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "elite-whirlwind",
       "variant_name": "Elite Whirlwind",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Eon's Elite",
+      "type": "Eon's Elite",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/0/05/EE_Whirlwind_Promo.jpg/revision/latest?cb=20161108182800",
       "attacks": [
@@ -35,7 +128,24 @@
         "Duel Rainbows",
         "Atomic Rainbow"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "450"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "450"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Whirlwind"
     }
   ]
