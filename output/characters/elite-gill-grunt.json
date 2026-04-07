@@ -4,28 +4,120 @@
   "species": "Gillman",
   "gender": "Male",
   "element": "Water",
+  "role": "Eon's Elite",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Of all the heroic Skylanders , there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon’s Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands !",
-  "personality": null,
-  "story": null,
+  "description": "Elite Gill Grunt is the Eon's Elite counterpart of Gill Grunt in Skylanders: Trap Team.",
+  "biography": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
+  "quote": "Fear the Fish!",
+  "personality": "Elite Gill Grunt is characterized by his unwavering commitment to defend Skylands and his display of courage and bravery against all odds. He serves as an inspiration to his fellow Skylanders.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Fear the Fish!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Elite Gill Grunt's official art uses an edited version of his Series 2 artwork, with his Quadent Harpoon replaced with a regular one and a regular Water Jetpack. This makes him one of only two Elite Skylanders to not use the Series 1 version of his artwork that his figure is based on, along with Elite Eruptor.",
+    "Coincidentally, both Elite Gill Grunt and Elite Eruptor were released together."
+  ],
+  "trailers": [],
+  "gameplay": "As an Eon's Elite, Elite Gill Grunt possesses significantly higher stats than his standard counterpart, specifically in health and power. He utilizes his trademark Harpoon Gun and Water Cannon to dispatch enemies, while his Water Jet Pack allows for superior mobility on the battlefield.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Gill_Grunt",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Harpoon Gun",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/25/Elite_Gill_Grunt.png",
+        "content": "Shoots a harpoon at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#FFFFFF"
+        }
+      },
+      {
+        "name": "Water Cannon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/25/Elite_Gill_Grunt.png",
+        "content": "Sprays a blast of water at enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#FFFFFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Boiling Water Hose",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/25/Elite_Gill_Grunt.png",
+        "content": "The Water Cannon now sprays boiling water for more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#FFFFFF"
+        }
+      },
+      {
+        "name": "Water Jet Pack",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/25/Elite_Gill_Grunt.png",
+        "content": "Allows Gill Grunt to fly using a water jet pack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#FFFFFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Anchor Cannon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/25/Elite_Gill_Grunt.png",
+        "content": "A powerful cannon that launches heavy anchors.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3000,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#FFFFFF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "elite-gill-grunt",
+      "id": "elite-gill-grunt-trap-team",
       "variant_name": "Elite Gill Grunt",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Eon's Elite",
+      "type": "Eon's Elite",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/2/25/Elite_Gill_Grunt.png/revision/latest?cb=20161108182744",
       "attacks": [
@@ -35,7 +127,28 @@
         "Water Jet Pack",
         "Anchor Cannon"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "810 (max. 1620)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "150 (max. 200)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "60 (max. 110)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Gill_Grunt"
     }
   ]
