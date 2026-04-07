@@ -4,27 +4,120 @@
   "species": "Orc",
   "gender": "Male",
   "element": "Magic",
+  "role": "Eon's Elite",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Elite Voodood is the Eon's Elite counterpart of Voodood in Skylanders: SuperChargers.",
+  "biography": "Elite Voodood is the Eon's Elite counterpart of Voodood in Skylanders: SuperChargers. Like all Eon's Elites, he is a powered-up version of his original self, boasting significantly higher stats and starting at level 20. He remains a dedicated defender of Skylands, using his magical axe to strike down evil.",
+  "quote": "Axe First, Questions Later!",
+  "personality": "Elite Voodood is a fierce and direct warrior, living by his motto of acting first and asking questions later. He is brave and loyal to Master Eon's cause.",
+  "story": [
+    {
+      "story_name": "Eon's Elite Background",
+      "content": "Elite Voodood is the Eon's Elite counterpart of Voodood in Skylanders: SuperChargers. Although he wields an upgraded Axe Reaver in toy form, there are no new upgrades for Elite Voodood besides possessing higher stats and starting off at Level 20 like the other SuperChargers Eon's Elites.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Axe First, Questions Later!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Although he wields an upgraded Axe Reaver in toy form, there are no new upgrades for Elite Voodood besides possessing higher stats and starting off at Level 20 like the other SuperChargers Eon's Elites."
+  ],
+  "trailers": [],
+  "gameplay": "Elite Voodood plays identically to his standard version but possesses much higher health and damage output. He excels in close-quarters combat with his Axe Reaver and utilizes his Zipline Axe for mobility and strategic positioning on the battlefield.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Voodood",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Axe Reaver",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Eon%27s_Elite_Voodood.jpg",
+        "content": "A melee attack that strikes enemies with a powerful magical axe.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#E6E6FA"
+        }
+      },
+      {
+        "name": "Zipline Axe",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Eon%27s_Elite_Voodood.jpg",
+        "content": "Voodood throws his axe and uses it as a grappling hook to pull himself toward enemies or traverse gaps.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#E6E6FA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Magical Tripwire",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Eon%27s_Elite_Voodood.jpg",
+        "content": "Leaves behind a magical tripwire that damages enemies who pass through it.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#E6E6FA"
+        }
+      },
+      {
+        "name": "Extended Blade",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Eon%27s_Elite_Voodood.jpg",
+        "content": "Increases the range and reach of the Axe Reaver.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#E6E6FA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Electro Axe",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Eon%27s_Elite_Voodood.jpg",
+        "content": "The Axe Reaver is imbued with electrical energy, dealing additional damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#E6E6FA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "elite-voodood",
       "variant_name": "Elite Voodood",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Eon's Elite",
       "game": "Skylanders: SuperChargers",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Eon%27s_Elite_Voodood.jpg/revision/latest?cb=20170729040954",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Eon's_Elite_Voodood.jpg/revision/latest?cb=20170729040954",
       "attacks": [
         "Axe Reaver",
         "Zipline Axe",
@@ -32,7 +125,24 @@
         "Extended Blade",
         "Electro Axe"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "800"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Voodood"
     }
   ]
