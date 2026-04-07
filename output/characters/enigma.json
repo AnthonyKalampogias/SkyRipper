@@ -4,6 +4,7 @@
   "species": "Unknown",
   "gender": "Male",
   "element": "Magic",
+  "role": "Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -13,22 +14,281 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "*Rift into Overdrive *Skylanders: Battlecast",
+  "cameos": [
+    "Rift into Overdrive",
+    "Skylanders: Battlecast"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Summoned by a Mabu Mystic, Enigma comes from a nameless place \"between the worlds.\" Though the Mystic was really just looking for someone to play Skystones , he was quickly enraptured by Enigma's stories about his mysterious homeland. Unfortunately, the Darkness&#160;got wind of these stories, and seeking another realm to conquer, sent minions to lay siege on the gateway that remained open. Making matters worse, the Mabu had no idea how to close it. So, with a legion of minions fast approaching, Enigma chose to use his Sigil of Mystery to seal the doorway – cutting him off from his home forever. This large sacrifice caught the attention of the Trap Team, who welcomed Enigma and gave him a new home as a protector of Skylands . He now uses his Traptanium Sigil to put a world of hurt on evil everywhere!",
-  "personality": "Sometimes Enigma can be difficult to figure out. He's kind of like a puzzle. &#91; 2 &#93; &#160;Despite his reclusive nature, he possesses a courageous side as he willingly sacrificed his only gateway home to prevent the Darkness from entering his realm. In Ring of Heroes , he's inquisitive and spares no compliments for those who deserve it, but keeps it to himself when it comes to teamwork and focuses on the larger picture when it comes to villains.",
-  "story": null,
+  "description": "Enigma is a mysterious cloaked figure who is one of the Magic Trap Masters in Skylanders: Trap Team.",
+  "biography": "Summoned by a Mabu Mystic, Enigma comes from a nameless place 'between the worlds.' Though the Mystic was really just looking for someone to play Skystones, he was quickly enraptured by Enigma's stories about his mysterious homeland. Unfortunately, the Darkness got wind of these stories, and seeking another realm to conquer, sent minions to lay siege on the gateway that remained open. Making matters worse, the Mabu had no idea how to close it. So, with a legion of minions fast approaching, Enigma chose to use his Sigil of Mystery to seal the doorway – cutting him off from his home forever. This large sacrifice caught the attention of the Trap Team, who welcomed Enigma and gave him a new home as a protector of Skylands. He now uses his Traptanium Sigil to put a world of hurt on evil everywhere!",
+  "quote": "Out of Sight!",
+  "personality": "Sometimes Enigma can be difficult to figure out. He's kind of like a puzzle. Despite his reclusive nature, he possesses a courageous side as he willingly sacrificed his only gateway home to prevent the Darkness from entering his realm. In Ring of Heroes, he's inquisitive and spares no compliments for those who deserve it, but keeps it to himself when it comes to teamwork and focuses on the larger picture when it comes to villains.",
+  "story": [
+    {
+      "story_name": "Light in the Dark",
+      "content": "Enigma took part in the fight against Pain-Yatta's army of candy warriors. Lead by Gearshift, he and several other Skylanders fought a group of candy soldiers to save three Mabu before retreating into an old castle fortress to hold out when the army began to grow in numbers. As they were cornered by the candy army within the fortress, Enigma and the other Skylanders served as Skylands' last line of defense, battling Pain-Yatta's army with all of their might. The candy army soon fell to pieces just as the Skylanders were becoming overwhelmed (thanks to the actions of the Light and Dark Skylanders in their fight against Pain-Yatta), earning the heroes their victory.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Ring of Heroes",
+      "content": "After the Earth Portal Master, Cali, Flynn, Hugo and the Skylanders reached the end of Rainbow Valley, Enigma approached the Portal Master, with intent to test their worth. For most of the Part 2 Quests, Enigma gives out advice and directions for them to take, interested in villain movements around the islands.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Out of Sight!",
+        "Back again!",
+        "When you least expect it!",
+        "Sneak attack!",
+        "A quiet success!",
+        "Mean and unseen!",
+        "Out of sight, out of mind!",
+        "In the blink of an eye!",
+        "Lets move!",
+        "Moving beyond!",
+        "Slipping through!",
+        "Trick of the trade!",
+        "Time for a sneak peek!",
+        "The king of unseen!",
+        "An excellent hideaway.",
+        "A quiet sucess.",
+        "Never a doubt.",
+        "Leaving no trace behind!",
+        "Don't provoke the cloak!",
+        "Power flash!",
+        "Power strike!",
+        "Not a single flaw in sight.",
+        "I see remarkable progress.",
+        "I am a sight to behold.",
+        "This hat looks rather ... flashy.",
+        "I suggest we keep this name a secret.",
+        "A mysterious choice for a name."
+      ]
+    },
+    {
+      "quote_type": "Ring of Heroes",
+      "content": [
+        "Welcome, Portal Master. I've heard many great things about you. I wish to see for myself whether everything they say about you is true. Accompany a fire Skylander and take down those enemies. I will be watching.",
+        "Power-up Skylanders as you see fit. But if I you were to ask me to go with you, I would have to think about it.",
+        "...Cyclopses have been taken care of, but now we have to tend to Wolfgang's antics. He announced he's preparing a concert just for us, apparently out of spite. Go and let him know his racket isn't music!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Much like Star Strike, Enigma's face is concealed by his hood. However, Enigma's head appears to be invisible.",
+    "Enigma is the first to have a figure form that is half transparent.",
+    "Enigma shares the ability to go invisible with Stealth Elf.",
+    "Enigma, Flameslinger, and Blaster-Tron are the only three Skylanders without visible eyes.",
+    "He makes a cameo in the Fortune Telling card in Skylanders: Battlecast, possibly as a reference to The Magician Tarot Arcana.",
+    "Enigma is the only Skylander with a special running animation in Ring of Heroes, teleporting to the next screen rather than walking.",
+    "Enigma and Double Trouble have many similarities: They both have blue skin. They are both Magic sorcerers with covered faces.",
+    "Enigma is also similar to Wisemon from the Digimon series: both are mysterious, cloaked entities.",
+    "Enigma can skip nearly 37 Villains Except for Doom Raiders. (as this will softlock the game) To do this, you need the Invisible Invader path"
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Enigma",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Enigma"
+    },
+    {
+      "name": "Skylanders Trap Team - Enigma's Soul Gem Preview (Out of Sight)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Trap_Team_-_Enigma%27s_Soul_Gem_Preview_(Out_of_Sight)"
+    }
+  ],
+  "gameplay": "Enigma is a Magic Trap Master who uses his Traptanium Sigil, a large U-shaped staff with a large eyeball. He excels in stealth, turning invisible to evade enemies and leave damaging magic mist behind. His staff attacks can be chained into powerful combos, and he can slam his staff for area damage or charge it to rain down magic eyeballs.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Enigma",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Mystic Staff",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Enigmaprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506020112",
+        "content": "Press Attack 1 to swing the Mystic Staff. Attack 1, Attack 1, HOLD Attack 1 for a combo.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Invisibility Mode",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/df/Enigmasecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170506020117",
+        "content": "Press Attack 2 to turn invisible and move around in total stealth",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Paradox Pound",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Enigmabasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506020122",
+        "content": "Press Attack 3 to slam the staff into the ground and damage all nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Magic Mist",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4c/Enigmabasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506020128",
+        "content": "Magic Mist released in invisiblity Mode damages enemies over time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Cloak and Dagger",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Enigmabasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506020136",
+        "content": "Invisibility Mode lasts longer and freezes enemies; cloak can do damage well.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Paradox Power",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Enigmabasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506020142",
+        "content": "Paradox Pound does more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "An Eye For Several Eyes",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Enigmasoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506020147",
+        "content": "Hold Attack 3 and press Attack 1 to fire eye beam. Requires Soul Gem from: Operation: Troll Rocket Steal",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Chief of Staff",
+        "abilities": [
+          {
+            "name": "Eye Slam Combo",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Enigmapath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506020910",
+            "content": "Press Attack 1, Attack 1, Attack 2 for a Eye Slam combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Cloak Dash Combo",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Enigmapath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506020914",
+            "content": "Press Attack 1, Attack 1, Attack 3 for an Cloak Dash combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "It's Raining Eyes?",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Enigmapath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506020916",
+            "content": "Hold Attack 3 to charge up the Paradox Pound attack and rain down magic eyeballs.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Invisible Invader",
+        "abilities": [
+          {
+            "name": "Ninja Style",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Enigmapath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506020922",
+            "content": "Attacks coming out of Invisibility Mode do extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Mindboggling",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Enigmapath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506020926",
+            "content": "Paradox Pound does even MORE damage and blasts enemies back.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Give Up The Ghost",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Enigmapath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506020937",
+            "content": "Ghost versions of yourself appear while in Invisibility Mode.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "enigma",
       "variant_name": "Enigma",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/0/09/Enigma_Art.png/revision/latest?cb=20171116073607",
       "attacks": [
@@ -38,7 +298,28 @@
         "Ninja Style",
         "Eye Dash Combo"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "310 / 620"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60 / 108"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30 / 60"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "60 / 110"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "32 / 82"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Enigma"
     }
   ]
