@@ -4,27 +4,120 @@
   "species": "Troll",
   "gender": "Male",
   "element": "Tech",
+  "role": "Eon's Elite",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Elite Boomer is a member of the Eon's Elite, featuring significantly boosted stats and a premium golden finish compared to his standard counterpart.",
+  "biography": "Elite Boomer is the Eon's Elite counterpart of Boomer in Skylanders: SuperChargers. As a member of Eon's Elite, he has been granted power beyond his normal capabilities to help defend Skylands.",
+  "quote": "Bring the Boom!",
+  "personality": "Elite Boomer is explosive, energetic, and dedicated to the cause of Eon's Elite, often letting his bombs do the talking.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Elite Boomer is the Eon's Elite counterpart of Boomer in Skylanders: SuperChargers. He represents the pinnacle of troll demolition expertise, specially selected by Master Eon.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a9/Eon%27s_Elite_Boomer.jpg/revision/latest/scale-to-width-down/267?cb=20170729040953"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Bring the Boom!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Elite Boomer is the only one of Eon's Elites whose health is much lower than Elite Trigger Happy's.",
+    "He is voiced by Joey Camen."
+  ],
+  "trailers": [],
+  "gameplay": "As a member of Eon's Elite, Elite Boomer has access to incredible race stats when used with Skylanders: SuperChargers Racing. Elite Boomer has great race stats overall, with neither Top Speed, Acceleration or Handling being his main priority. He has maximum Firepower for a driver, but he only has decent Armour. His stats are noticeably similar to Double Dare Trigger Happy's, although Elite Boomer's are better.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Boomer",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Dynamite Toss",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d7/TechSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223504",
+        "content": "Throws a stick of dynamite at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#ffa500",
+          "bg_content": "#fff5e6"
+        }
+      },
+      {
+        "name": "Troll Smash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d7/TechSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223504",
+        "content": "Smashes the ground to create a shockwave.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#ffa500",
+          "bg_content": "#fff5e6"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Troll Bomb",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d7/TechSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223504",
+        "content": "An enhanced bomb attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#ffa500",
+          "bg_content": "#fff5e6"
+        }
+      },
+      {
+        "name": "Bomblastic",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d7/TechSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223504",
+        "content": "A more powerful explosive blast.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#ffa500",
+          "bg_content": "#fff5e6"
+        }
+      }
+    ],
+    "soulgems": [],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "Triple Bundle Dynamite",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d7/TechSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223504",
+        "content": "Throws a massive bundle of dynamite for maximum damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#ffa500",
+          "bg_content": "#fff5e6"
+        }
+      }
+    ],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "elite-boomer",
       "variant_name": "Elite Boomer",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Eon's Elite",
+      "type": "Eon's Elite",
       "game": "Skylanders: SuperChargers",
       "image": "https://static.wikia.nocookie.net/skylanders/images/a/a9/Eon%27s_Elite_Boomer.jpg/revision/latest?cb=20170729040953",
       "attacks": [
@@ -34,7 +127,44 @@
         "Bomblastic",
         "Triple Bundle Dynamite"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Top Speed",
+          "stat_value": "15"
+        },
+        {
+          "stat_name": "Acceleration",
+          "stat_value": "16"
+        },
+        {
+          "stat_name": "Handling",
+          "stat_value": "14"
+        },
+        {
+          "stat_name": "Firepower",
+          "stat_value": "20"
+        },
+        {
+          "stat_name": "Armour",
+          "stat_value": "10"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Boomer"
     }
   ]
