@@ -4,28 +4,155 @@
   "species": "Purple Dragon",
   "gender": "Male",
   "element": "Magic",
+  "role": "Eon's Elite",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon’s Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands !",
-  "personality": null,
-  "story": null,
+  "description": "Elite Spyro is the Eon's Elite counterpart of Spyro in Skylanders: Trap Team.",
+  "biography": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
+  "quote": "All fired up!",
+  "personality": "He is revered by his fellow Skylanders for his courage and bravery against all odds, as well as his unwavering commitment to defend Skylands.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "All fired up!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Spyro and Whirlwind are the only Dragon Skylanders to have Eon's Elite counterparts.",
+    "His English voice actors are Josh Keaton (2011-2015) and Matthew Mercer (2016)."
+  ],
+  "trailers": [],
+  "gameplay": "Elite Spyro is a member of the Eon's Elite, making him significantly more powerful than his standard counterpart. He possesses the same move set as his Series 1 incarnation but with drastically increased statistics to reflect his elite status.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Spyro",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Fire Breath",
+        "imgPath": "",
+        "content": "Shoot a stream of fire.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Horn Charge",
+        "imgPath": "",
+        "content": "Charge at enemies with your horns.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Dragon Flight",
+        "imgPath": "",
+        "content": "Spyro can fly into the air.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Triple Shot",
+        "imgPath": "",
+        "content": "Fire Breath shoots three fireballs at once.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Fire Shield",
+        "imgPath": "",
+        "content": "While flying, Spyro is protected by a shield of fire.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3000,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Sheep Burner",
+        "abilities": [
+          {
+            "name": "Spitfire",
+            "imgPath": "",
+            "content": "Fire Breath deals more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 500,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Blitz Spyro",
+        "abilities": [
+          {
+            "name": "Super Charge",
+            "imgPath": "",
+            "content": "Horn Charge deals more damage and travels further.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 500,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "elite-spyro",
       "variant_name": "Elite Spyro",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Eon's Elite",
+      "type": "Eon's Elite",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/0/07/Elitespyro.png/revision/latest?cb=20161108182747",
       "attacks": [
@@ -35,7 +162,24 @@
         "Triple Shot",
         "Fire Shield"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "180"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "500"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "120"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Spyro"
     }
   ]
