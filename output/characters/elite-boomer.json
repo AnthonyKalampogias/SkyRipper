@@ -14,16 +14,16 @@
   "world": [
     "Skylands"
   ],
-  "description": "Elite Boomer is a member of the Eon's Elite, featuring significantly boosted stats and a premium golden finish compared to his standard counterpart.",
-  "biography": "Elite Boomer is the Eon's Elite counterpart of Boomer in Skylanders: SuperChargers. As a member of Eon's Elite, he has been granted power beyond his normal capabilities to help defend Skylands.",
+  "description": "Elite Boomer is an Eon's Elite Tech Skylander who represents the pinnacle of troll demolition expertise, featuring significantly boosted stats and a premium golden finish compared to his standard counterpart.",
+  "biography": "Elite Boomer is the Eon's Elite counterpart of Boomer in Skylanders: SuperChargers. As a member of Eon's Elite, Elite Boomer has access to incredible race stats when used with Skylanders: SuperChargers Racing, boasting maximum Firepower and improved stats overall compared to his standard form.",
   "quote": "Bring the Boom!",
-  "personality": "Elite Boomer is explosive, energetic, and dedicated to the cause of Eon's Elite, often letting his bombs do the talking.",
+  "personality": "Elite Boomer is explosive, energetic, and dedicated to the cause of Eon's Elite, often letting his bombs do the talking. He represents the pinnacle of troll demolition expertise, specially selected by Master Eon to defend Skylands.",
   "story": [
     {
       "story_name": "Biography",
-      "content": "Elite Boomer is the Eon's Elite counterpart of Boomer in Skylanders: SuperChargers. He represents the pinnacle of troll demolition expertise, specially selected by Master Eon.",
+      "content": "Elite Boomer is the Eon's Elite counterpart of Boomer in Skylanders: SuperChargers. As a member of Eon's Elite, he has been granted power beyond his normal capabilities to help defend Skylands and has access to incredible race stats when used with Skylanders: SuperChargers Racing.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a9/Eon%27s_Elite_Boomer.jpg/revision/latest/scale-to-width-down/267?cb=20170729040953"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a9/Eon%27s_Elite_Boomer.jpg/revision/latest?cb=20170729040953"
     }
   ],
   "quotes": [
@@ -36,7 +36,7 @@
   ],
   "trivia": [
     "Elite Boomer is the only one of Eon's Elites whose health is much lower than Elite Trigger Happy's.",
-    "He is voiced by Joey Camen."
+    "He is voiced by Joey Camen, who has provided the voice for Boomer since 2012."
   ],
   "trailers": [],
   "gameplay": "As a member of Eon's Elite, Elite Boomer has access to incredible race stats when used with Skylanders: SuperChargers Racing. Elite Boomer has great race stats overall, with neither Top Speed, Acceleration or Handling being his main priority. He has maximum Firepower for a driver, but he only has decent Armour. His stats are noticeably similar to Double Dare Trigger Happy's, although Elite Boomer's are better.",
