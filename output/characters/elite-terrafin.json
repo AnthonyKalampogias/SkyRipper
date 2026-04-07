@@ -4,34 +4,152 @@
   "species": "Dirt Shark",
   "gender": "Male",
   "element": "Earth",
+  "role": "Eon's Elite",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "The Dirt Seas"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Of all the heroic Skylanders , there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon’s Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands !",
-  "personality": null,
-  "story": null,
+  "description": "Elite Terrafin is the Eon's Elite counterpart of Terrafin in Skylanders: Trap Team.",
+  "biography": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
+  "quote": "It's Feeding Time!",
+  "personality": "Elite Terrafin is a brave and committed leader, revered by his fellow Skylanders for his unwavering dedication to defending Skylands.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
+      "hasImage": false,
+      "imgPath": "EliteTerraFin_illustration.png"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "It's Feeding Time!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Elite Terrafin is voiced by Joey Camen (2012) and Chris WIlliams (The Beginning Trailer).",
+    "Elite Terrafin has significantly higher base stats compared to standard Skylanders."
+  ],
+  "trailers": [
+    {
+      "name": "The Beginning Trailer",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=Chris_Williams_Trailer_URL_Placeholder"
+    }
+  ],
+  "gameplay": "As an Eon's Elite, Elite Terrafin is significantly more powerful than his standard counterpart, featuring boosted stats. In gameplay, he retains his signature moves of Shark Punching and Earth Swimming while benefiting from superior Strength and Defense.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Terrafin",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Shark Punch",
+        "imgPath": "Shark_Punch.png",
+        "content": "Elite Terrafin throws a heavy punch at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#603913",
+          "bg_content": "#C95"
+        }
+      },
+      {
+        "name": "Earth Swim",
+        "imgPath": "Earth_Swim.png",
+        "content": "Elite Terrafin dives underground to move safely and attack from below.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#603913",
+          "bg_content": "#C95"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Brass Knuckles",
+        "imgPath": "Brass_Knuckles.png",
+        "content": "Brass knuckles that increase punch damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#603913",
+          "bg_content": "#C95"
+        }
+      },
+      {
+        "name": "Mega Bellyflop",
+        "imgPath": "Mega_Bellyflop.png",
+        "content": "A massive bellyflop attack that crushes enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#603913",
+          "bg_content": "#C95"
+        }
+      },
+      {
+        "name": "Razorfin",
+        "imgPath": "Razorfin.png",
+        "content": "A sharpened fin that deals more damage while earth swimming.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#603913",
+          "bg_content": "#C95"
+        }
+      }
+    ],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "elite-terrafin",
+      "id": "elite-terrafin-eons-elite",
       "variant_name": "Elite Terrafin",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Eon's Elite",
+      "type": "Eon's Elite",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/e/e3/EliteTerraFin_illustration.png/revision/latest?cb=20161108182754",
       "attacks": [
-        "Shark Punch Earth Swim Brass Knuckles Mega Bellyflop Razorfin"
+        "Shark Punch",
+        "Earth Swim",
+        "Brass Knuckles",
+        "Mega Bellyflop",
+        "Razorfin"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "400"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "500"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "100"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Terrafin"
     }
   ]
