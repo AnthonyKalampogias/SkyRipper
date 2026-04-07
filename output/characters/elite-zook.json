@@ -4,29 +4,118 @@
   "species": "Bambazooker",
   "gender": "Male",
   "element": "Life",
+  "role": "Eon's Elite",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Elite Zook is the Eon's Elite counterpart of Zook in Skylanders: SuperChargers.",
+  "biography": "Elite Zook is the Eon's Elite counterpart of Zook in Skylanders: SuperChargers.",
+  "quote": "Locked and Loaded!",
+  "personality": "",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Elite Zook is the Eon's Elite counterpart of Zook in Skylanders: SuperChargers.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Locked and Loaded!"
+      ]
+    }
+  ],
+  "trivia": [],
+  "trailers": [],
+  "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games. Health: ???, Speed: ??, Armor: ??, Critical Hit: ??, Elemental Power: ??",
   "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Zook",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Bazooka Attack",
+        "imgPath": "",
+        "content": "Fires a cactus rocket at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Foliage Barrier",
+        "imgPath": "",
+        "content": "Creates a defensive wall of foliage.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Mortar Attack",
+        "imgPath": "",
+        "content": "Fires rockets in a high arc.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Full Splinter Jacket",
+        "imgPath": "",
+        "content": "Bazooka rockets deal more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Exploding Shrapnel",
+        "imgPath": "",
+        "content": "Rockets explode into damaging shrapnel.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "elite-zook",
       "variant_name": "Elite Zook",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Eon's Elite",
+      "type": "Eon's Elite",
       "game": "Skylanders: SuperChargers",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/Eon%27s_Elite_Zook.jpg/revision/latest?cb=20170729040955",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/Eon's_Elite_Zook.jpg/revision/latest?cb=20170729040955",
       "attacks": [
         "Bazooka Attack",
         "Foliage Barrier",
@@ -34,7 +123,28 @@
         "Full Splinter Jacket",
         "Exploding Shrapnel"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "???"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Zook"
     }
   ]
