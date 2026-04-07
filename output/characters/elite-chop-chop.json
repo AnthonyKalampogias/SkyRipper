@@ -4,32 +4,158 @@
   "species": "Arkeyan Skeleton",
   "gender": "Male",
   "element": "Undead",
+  "role": "Eon's Elite",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Of all the heroic Skylanders , there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon’s Elites are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands !",
-  "personality": null,
-  "story": null,
+  "description": "Elite Chop Chop is the Eon's Elite counterpart of Chop Chop in Skylanders: Trap Team.",
+  "biography": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elites are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
+  "quote": "Slice and Dice!",
+  "personality": "Chop Chop is a relentless and stoic Arkeyan warrior, possessing an unwavering commitment to defending Skylands. He is loyal, disciplined, and focused entirely on his duty, often speaking in a direct and formal manner.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elites are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Elite_Chop_Chop_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161108182734"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Slice and Dice!",
+        "Sling and Slay!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Elite Chop Chop is the Eon's Elite counterpart of Chop Chop.",
+    "He was first released in Skylanders: Trap Team.",
+    "His English voice actor is Steven Blum."
+  ],
+  "trailers": [],
+  "gameplay": "Elite Chop Chop retains the classic move set of Chop Chop, featuring a balance of offensive sword strikes and defensive shield mechanics. As an Eon's Elite, he possesses significantly higher stats than his standard counterpart, making him one of the most durable and powerful warriors in the game.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Chop_Chop",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Sword Slash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Elite_Chop_Chop_Transparent_Render.png/revision/latest/scale-to-width-down/185?cb=20180326195853",
+        "content": "A quick slash with the Arkeyan blade that deals damage to enemies in front of you.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#EEEEEE"
+        }
+      },
+      {
+        "name": "Arkeyan Shield",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Elite_Chop_Chop_Transparent_Render.png/revision/latest/scale-to-width-down/185?cb=20180326195853",
+        "content": "Hold the button to raise the Arkeyan Shield, blocking incoming attacks and reducing damage taken.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#EEEEEE"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Spiked Shield Bash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Elite_Chop_Chop_Transparent_Render.png/revision/latest/scale-to-width-down/185?cb=20180326195853",
+        "content": "While the shield is raised, press the primary attack button to perform a powerful bash with the shield's spikes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#EEEEEE"
+        }
+      },
+      {
+        "name": "Arkeyan Vorpal Blade",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Elite_Chop_Chop_Transparent_Render.png/revision/latest/scale-to-width-down/185?cb=20180326195853",
+        "content": "The Arkeyan blade is upgraded to deal increased damage with every slash.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#EEEEEE"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Vampiric Aura",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Elite_Chop_Chop_Transparent_Render.png/revision/latest/scale-to-width-down/185?cb=20180326195853",
+        "content": "A dark aura surrounds Chop Chop, allowing him to regenerate health whenever he defeats an enemy.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#EEEEEE"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Vampiric Warrior",
+        "abilities": []
+      },
+      {
+        "path_name": "Defender",
+        "abilities": []
+      }
+    ]
+  },
   "variants": [
     {
       "id": "elite-chop-chop",
       "variant_name": "Elite Chop Chop",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Eon's Elite",
+      "type": "Eon's Elite",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Elite_Chop_Chop_Promo.jpg/revision/latest?cb=20161108182734",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Sword Slash",
+        "Arkeyan Shield",
+        "Spiked Shield Bash",
+        "Arkeyan Vorpal Blade",
+        "Vampiric Aura"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "240"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "500"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "160"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "100"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Chop_Chop"
     }
   ]
