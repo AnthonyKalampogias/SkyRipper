@@ -4,28 +4,122 @@
   "species": "Lava Monster",
   "gender": "Male",
   "element": "Fire",
+  "role": "Eon's Elite",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Of all the heroic Skylanders , there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon’s Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands !",
-  "personality": null,
-  "story": null,
+  "description": "Elite Eruptor is the Eon's Elite counterpart of Eruptor in Skylanders: Trap Team.",
+  "biography": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon’s Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
+  "quote": "Born to Burn!",
+  "personality": "Elite Eruptor is revered by his fellow Skylanders for his courage, bravery, and unwavering commitment to defend Skylands, leading others into battle against the forces of evil.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon’s Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20161108182740"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Born to Burn!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Elite Eruptor's official art uses an edited version of his Series 2 artwork, with his extra headspikes from his Wow Pow edited out. This makes him one of only two Elite Skylanders to not use the Series 1 version of his artwork that his figure is based on, along with Elite Gill Grunt.",
+    "Coincidentally, both Elite Eruptor and Elite Gill Grunt were released together.",
+    "He is the only Elite Skylander of the Fire element.",
+    "He and Elite Whirlwind are the only Elite Skylanders of their respective elements."
+  ],
+  "trailers": [],
+  "gameplay": "As a Lava Monster, Elite Eruptor utilizes fire and magma-based attacks. His moveset includes hurling lava, creating eruptions, and launching mega magma balls to devastate enemies, culminating in his powerful Super Eruption ability.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Eruptor",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Lava Lob",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20161108182740",
+        "content": "Elite Eruptor hurls a glob of lava at his enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Eruption",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20161108182740",
+        "content": "Creates a localized volcanic blast to damage nearby foes.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Mega Magma Balls",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20161108182740",
+        "content": "Enhances magma projectiles for greater damage and area of effect.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Heavy Duty Plasma",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20161108182740",
+        "content": "Intensifies fire attacks with high-temperature plasma energy.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Super Eruption",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20161108182740",
+        "content": "The ultimate volcanic attack, unleashing a massive eruption that covers a wide area.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "elite-eruptor",
       "variant_name": "Elite Eruptor",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Eon's Elite",
+      "type": "Eon's Elite",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest?cb=20161108182740",
       "attacks": [
@@ -35,7 +129,44 @@
         "Heavy Duty Plasma",
         "Super Eruption"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "500"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "350"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Health",
+          "stat_value": "???"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Eruptor"
     }
   ]
