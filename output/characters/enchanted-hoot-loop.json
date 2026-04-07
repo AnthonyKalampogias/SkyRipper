@@ -4,6 +4,7 @@
   "species": "Owl",
   "gender": "Male",
   "element": "Magic",
+  "role": "SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -12,22 +13,119 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": "Hoot Loop was raised by a guild of magicians in Skylands' most famous traveling circus. At a young age, he perfected illusions and spells that only the very best of their guild could perform, and even mastered the art of teleportation! Soon enough, he became the star of the show, known far and wide as the Amazing Hoot Loop. However, one day an army of Greebles disguised as clowns invaded, determined to destroy the popular circus. It was then that Hoot Loop gave a performance that few would ever forget. Using his incredible powers, he fought off the invaders and saved the circus - to the raucous applause of the many spectators - including Master Eon , who presented Hoot Loop with an opportunity to learn some real magic as a member of the Skylanders.",
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Hoot Loop was raised by a guild of magicians in Skylands' most famous traveling circus. At a young age, he perfected illusions and spells that only the very best of their guild could perform, and even mastered the art of teleportation! Soon enough, he became the star of the show, known far and wide as the Amazing Hoot Loop. However, one day an army of Greebles disguised as clowns invaded, determined to destroy the popular circus. It was then that Hoot Loop gave a performance that few would ever forget. Using his incredible powers, he fought off the invaders and saved the circus - to the raucous applause of the many spectators - including Master Eon, who presented Hoot Loop with an opportunity to learn some real magic as a member of the Skylanders.",
+  "biography": "Enchanted Hoot Loop is the alter ego of Hoot Loop in Skylanders: Swap Force. His Swap Force Ability is Teleport. He is a Walmart exclusive Skylander.",
+  "quote": "Let's Ruffle some Feathers!",
+  "personality": "",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "Hoot Loop was raised by a guild of magicians in Skylands' most famous traveling circus. At a young age, he perfected illusions and spells that only the very best of their guild could perform, and even mastered the art of teleportation! Soon enough, he became the star of the show, known far and wide as the Amazing Hoot Loop. However, one day an army of Greebles disguised as clowns invaded, determined to destroy the popular circus. It was then that Hoot Loop gave a performance that few would ever forget. Using his incredible powers, he fought off the invaders and saved the circus - to the raucous applause of the many spectators - including Master Eon, who presented Hoot Loop with an opportunity to learn some real magic as a member of the Skylanders.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Enchanted_Hoot_Loop_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20130927174341"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official catchphrase",
+      "content": [
+        "Let's Ruffle some Feathers!"
+      ]
+    }
+  ],
+  "trivia": [
+    "His feathers constantly change in the game from white to light blue.",
+    "In Nintnedo 3DS Version of Swap Force and Skylanders: Trap Team, there's a glitch that deforms his face when he is switched with Free Ranger's legs.",
+    "Enchanted Hoot Loop is one of the two Enchanted Skylander variants, the other being Enchanted Star Strike."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Enchanted Hoot Loop EN",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Enchanted_Hoot_Loop_EN"
+    }
+  ],
+  "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games. Warning: These stats are not used in any of the Skylander games. They are only listed for completeness reasons.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Enchanted_Hoot_Loop",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Dejaboom!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/MagicSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223451",
+        "content": "Dejaboom!",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#5d2784",
+          "bg_content": "#bc9bd4"
+        }
+      },
+      {
+        "name": "Hypnotism",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/MagicSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223451",
+        "content": "Hypnotism",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#5d2784",
+          "bg_content": "#bc9bd4"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Loop the Loop",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/MagicSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223451",
+        "content": "Loop the Loop",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#5d2784",
+          "bg_content": "#bc9bd4"
+        }
+      },
+      {
+        "name": "Portable Hole",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/MagicSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223451",
+        "content": "Portable Hole",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#5d2784",
+          "bg_content": "#bc9bd4"
+        }
+      },
+      {
+        "name": "Tricked Ya!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/MagicSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223451",
+        "content": "Tricked Ya!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#5d2784",
+          "bg_content": "#bc9bd4"
+        }
+      }
+    ],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "enchanted-hoot-loop",
       "variant_name": "Enchanted Hoot Loop",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Enchanted_Hoot_Loop_Promo.jpg/revision/latest?cb=20130927174341",
       "attacks": [
@@ -37,7 +135,24 @@
         "Portable Hole",
         "Tricked Ya!"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "200"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Enchanted_Hoot_Loop"
     }
   ]
