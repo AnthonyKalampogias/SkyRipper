@@ -4,33 +4,164 @@
   "species": "Dinosaur",
   "gender": "Male",
   "element": "Earth",
+  "role": "Eon's Elite",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Elite Dino-Rang is an Earth element Skylander and part of the Eon's Elite team, making his debut in Skylanders: SuperChargers.",
+  "biography": "Elite Dino-Rang is the Eon's Elite counterpart of Dino-Rang in Skylanders: SuperChargers. As an Eon's Elite Skylander, he has been selected for his courage and strength, and granted significantly increased power by Master Eon himself to lead the charge against the forces of Kaos.",
+  "quote": "Come 'Rang or Shine!",
+  "personality": "Elite Dino-Rang is a focused and disciplined warrior, embodying the strength and stability of the Earth element. He is a loyal member of Eon's Elite, dedicated to the protection of Skylands.",
+  "story": [
+    {
+      "story_name": "Origin",
+      "content": "Elite Dino-Rang is the Eon's Elite counterpart of Dino-Rang in Skylanders: SuperChargers. He represents the pinnacle of Earth Skylanders, handpicked by Master Eon.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Eon%27s_Elite_Dino-Rang.jpg/revision/latest/scale-to-width-down/268?cb=20170729040953"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Come 'Rang or Shine!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Elite Dino-Rang is one of the few Eon's Elite characters released during the SuperChargers era.",
+    "He features significantly higher Armor and Power stats compared to his standard version."
+  ],
+  "trailers": [],
+  "gameplay": "In gameplay, Elite Dino-Rang plays similarly to his standard counterpart but features significantly boosted statistics. He specializes in ranged combat using his Stone Boomerangs and crowd control with his Stonefist Traps and Boomerang Shield.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Dino-Rang",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Stone Boomerangs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png/revision/latest/scale-to-width-down/185?cb=20240922233235",
+        "content": "Dino-Rang throws powerful earthen boomerangs at his enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Boomerang Shield",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png/revision/latest/scale-to-width-down/185?cb=20240922233235",
+        "content": "Dino-Rang creates a protective shield of rotating boomerangs.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Stonefist Traps",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png/revision/latest/scale-to-width-down/185?cb=20240922233235",
+        "content": "Places traps on the ground that snare and damage enemies using stone fists.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Dervish Shield",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png/revision/latest/scale-to-width-down/185?cb=20240922233235",
+        "content": "Enhances the boomerang shield to deal more damage and last longer.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Volcanic Glass Boomerangs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png/revision/latest/scale-to-width-down/185?cb=20240922233235",
+        "content": "Boomerangs are infused with volcanic glass, dealing massive fire and earth damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Elite Path",
+        "abilities": [
+          {
+            "name": "Elite Stone Boomerangs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png/revision/latest/scale-to-width-down/185?cb=20240922233235",
+            "content": "Further increases the damage and range of the Stone Boomerangs.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "elite-dino-rang",
       "variant_name": "Elite Dino-Rang",
-      "edition": "Series 1",
+      "edition": "Eon's Elite",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
       "image": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Eon%27s_Elite_Dino-Rang.jpg/revision/latest?cb=20170729040953",
       "attacks": [
-        "Stone Boomerangs Boomerang Shield Stonefist Traps Dervish Shield Volcanic Glass Boomerangs"
+        "Stone Boomerangs",
+        "Boomerang Shield",
+        "Stonefist Traps",
+        "Dervish Shield",
+        "Volcanic Glass Boomerangs"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Armor",
+          "stat_value": "80 (max. 110)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "45"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "85"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Dino-Rang"
     }
   ]
