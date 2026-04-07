@@ -4,27 +4,121 @@
   "species": "Yeti",
   "gender": "Male",
   "element": "Water",
+  "role": "Eon's Elite",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
+    "Skylanders: Trap Team",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Elite Slam Bam is the Eon's Elite counterpart of Slam Bam in Skylanders: SuperChargers.",
+  "biography": "Elite Slam Bam is the Eon's Elite counterpart of Slam Bam in Skylanders: SuperChargers. As one of Eon's Elite, he is part of a premium line of Skylanders that are much more powerful than their regular counterparts, featuring a shiny metallic finish and significantly higher stats. These heroes were chosen by Master Eon for their exceptional bravery and were granted power beyond their original limits.",
+  "quote": "Armed and Dangerous!",
+  "personality": "As one of Eon's Elite, Slam Bam is recognized for his immense strength and heroic deeds. He is a courageous Yeti dedicated to protecting Skylands with his four powerful arms and icy abilities.",
+  "story": [
+    {
+      "story_name": "The Power of Eon's Elite",
+      "content": "Elite Slam Bam is the Eon's Elite counterpart of Slam Bam in Skylanders: SuperChargers. These heroes were chosen by Master Eon for their exceptional bravery and were granted power beyond their original limits.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a2/Eon%27s_Elite_Slam_Bam.jpg/revision/latest/scale-to-width-down/268?cb=20170729040954"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Armed and Dangerous!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Despite having an ice sled in one of the promotional game screenshots, Elite Slam Bam doesn't possess the Series 2 Wow Pow power to acquire it.",
+    "Out of all of the Skylanders, including variants, Elite Slam Bam and Elite Terrafin have the highest amount of health.",
+    "Despite being released during SuperChargers, in Trap Team, he is listed as an Eon's Elite."
+  ],
+  "trailers": [],
+  "gameplay": "Elite Slam Bam features significantly increased health and stats compared to his standard counterpart, making him one of the tankiest characters in the series. He retains Slam Bam's core move set including Yeti Fists and Ice Prison but lacks the ice sled Wow Pow from his Series 2 version.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Slam_Bam",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Yeti Fists",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/WaterSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223512",
+        "content": "Elite Slam Bam uses his four powerful arms to pummel enemies with crushing blows.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Ice Prison",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/WaterSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223512",
+        "content": "Freeze enemies in blocks of ice to stop them in their tracks.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Arctic Explosion",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/WaterSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223512",
+        "content": "Ice prisons explode upon breaking, dealing damage to nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Yeti Ice Shoes",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/WaterSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223512",
+        "content": "Elite Slam Bam slides on ice, allowing for much faster movement.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Ice Knuckles",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/WaterSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223512",
+        "content": "Elite Slam Bam's fists are reinforced with spiked ice for maximum damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "elite-slam-bam",
+      "id": "elite-slam-bam-superchargers",
       "variant_name": "Elite Slam Bam",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Eon's Elite",
+      "type": "Eon's Elite",
       "game": "Skylanders: SuperChargers",
       "image": "https://static.wikia.nocookie.net/skylanders/images/a/a2/Eon%27s_Elite_Slam_Bam.jpg/revision/latest?cb=20170729040954",
       "attacks": [
@@ -34,7 +128,28 @@
         "Yeti Ice Shoes",
         "Ice Knuckles"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "2750 (max. 5500)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "40 (max. 88)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "86 (max. 116)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "27 (max. 77)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "39 (max. 89)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Slam_Bam"
     }
   ]
