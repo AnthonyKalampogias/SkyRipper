@@ -1,29 +1,481 @@
 {
   "id": "eruptor",
   "name": "Eruptor",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
+  "species": "Lava Monster",
+  "gender": "Male",
+  "element": "Fire",
+  "role": "Core Skylander",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Spyro's Kingdom (Cancelled)",
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "The Machine of Doom",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Eruptor Meets the Nightmare King",
+    "Trigger Happy Targets the Evil Kaos",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [
+    "Spyro versus The Mega Monsters (mentioned)",
+    "The Kaos Trap",
+    "Return of the Dragon King"
+  ],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Eruptor is a lava monster Skylander in Skylanders: Spyro's Adventure. His Series 3 counterpart is called Lava Barf Eruptor. In Skylanders: SuperChargers, Eruptor is redesigned as a SuperCharger named Lava Lance Eruptor.",
   "biography": "Eruptor is a force of nature, hailing from a species that lived deep in the underground of a floating volcanic island until a massive eruption launched their entire civilization to the surface. He's a complete hot head -- steaming, fuming, and quite literally erupting over almost anything. To help control his temper, he likes to relax in lava pools, particularly because there are no crowds.",
-  "personality": "Eruptor is a hot head with a strong dislike for anything evil, so whenever something bad threatens his world, he quickly erupts... quite literally. When he isn't getting angry at the forces of Kaos , he's blowing a fuse and exploding with rage about smaller things, such as creaky floorboards and people not covering their mouths when they cough. &#91; 3 &#93; With his hot temper, Eruptor never shies away from speaking his mind. He also has a case of indigestion, prone to burping up a pool of molten lava whenever he feels nauseous, nervous or startled. A flaming force of nature, Eruptor still blows his top from time to time. He doesn't suffer fools gladly, but tries to keep his fiery temper in check. &#91; 4 &#93; In Skylanders: Imaginators , Eruptor is portrayed as a nervous lava monster who is afraid of a lot of things, such as bugs and Rats .",
-  "story": null,
+  "quote": "Born to Burn!",
+  "personality": "Eruptor is a hot head with a strong dislike for anything evil, so whenever something bad threatens his world, he quickly erupts... quite literally. When he isn't getting angry at the forces of Kaos, he's blowing a fuse and exploding with rage about smaller things, such as creaky floorboards and people not covering their mouths when they cough. With his hot temper, Eruptor never shies away from speaking his mind. He also has a case of indigestion, prone to burping up a pool of molten lava whenever he feels nauseous, nervous or startled. A flaming force of nature, Eruptor still blows his top from time to time. He doesn't suffer fools gladly, but tries to keep his fiery temper in check. In Skylanders: Imaginators, Eruptor is portrayed as a nervous lava monster who is afraid of a lot of things, such as bugs and Rats.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Eruptor is a hot-headed lava monster who hails from the sweltering underground caverns of a volcanic island. Here, in the suffocating heat, arguments often boiled over. And lava creatures always argue. So it was no surprise when a ferocious fight broke out at a lava pool party. But this was no small squabble or shouting match. The fury of hundreds of fuming lava creatures created catastrophic pressure, until... KABOOM! The volcano exploded, scattering disgruntled lava creatures across Skylands. The residents of Skylands had never seen lava creatures before and many misunderstandings followed. Lava creatures are not only sullen, stubborn and easily angered, they are also very hard to understand. Several villages were burned as a result. But the Skylands atmosphere had a quite different effect on Eruptor. He unclenched his jaw, took a long breath of cool air and felt a lifetime of rage subside. Nowadays, Eruptor is considered calm and sensible - by lava creature standards, at least. Still, trolls try his temper and Kaos causes crankiness, leading to Eruptor to as his name suggest - ERUPT! For this reason, Master Eon was pleased to invite him on board... although he tends to keep his distance.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "The Machine of Doom",
+      "content": "Eruptor was one of the Skylanders who attended the special concert of Gill Grunt singing as a way to celebrate their latest victory over the forces of darkness (even though the lava monster had insisted that he would rather do something more fun – like boiling his own head). After Hugo and Flynn arrive to tell them of the Mabu Market being attacked by flying sheep, Master Eon sent Spyro, Gill Grunt, and Eruptor to investigate. There, they were attacked by flying sheep and thrown vegetables, which were later revealed to be the work of invisible trolls lead by a Spell Punk who were searching for an artifact called the Chattering Key, Kaos is after. Upon discovering that the Chattering Key is an artifact used to unlock a tomb that contains an ancient Arkeyan weapon, Eruptor joins Spyro, Boomer, and Gill Grunt with Flynn on a quest to retrieve the key that lies in the Forest of Fear. At the Forest of Fear, Eruptor falls victim to the Fungus Rings of Despair, and his worst fears came to life as hallucinations, being trapped in cold and his eternal flame having gone out. He was later freed by Spyro, and the lava monster continues his trek with the other Skylanders. When the Skylanders retrieved the Chattering Key, Kaos appears, having captured Flynn, and forces them to give him the Key in exchange for Flynn's life. Kaos then uses an incantation to summon a tomb to the Pyramid of Just Rewards that contains the Arkeyan weapon, the Machine of Doom. With the help of the Chattering Key, the Skylanders enter the pyramid through the other side and reach the Machine of Doom before Kaos does. Boomer, fascinated by the Machine, tries to take control of it, but fails as it begins breaking apart and the pyramid was starting to crumbling. It was soon revealed that it was all Kaos' plan from the start, that he knew that the Skylanders would attempt to seize the Machine of Doom, which is really a trap made by the Arkeyans to capture those who attempt to control the Machine to destroy the Core of Light, and have the heroes buried alive. However, Kaos' plan fails as Boomer managed to control the Machine of Doom and uses it to escape the crumbling pyramid with the other Skylanders, and the Machine breaks apart. Upon their victory, Gill Grunt begins to sing, much to Eruptor's annoyance.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Machine_of_Doom_Illustration2.jpg/revision/latest?cb=20120515024528"
+    },
+    {
+      "story_name": "Spyro versus The Mega Monsters",
+      "content": "When mega-sized animals started terrorizing around Skylands, Eruptor was sent to Flowering Fields to save it from a five-meter-long caterpillar. But Kaos, who claimed to have renounced his evil ways to battle evil-doers, have chased off the gigantic worm before Eruptor dealt with the problem.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Eruptor Meets the Nightmare King",
+      "content": "Eruptor, Grim Creeper and Slam Bam were quickly dispatched by Master Eon to answer a cry for help in The Frozen Seas. They came upon an expedition of Ents being terrorized by Kaos' Cyclopses lead by Bloodshot and quickly defeated the horde, saving the Ents. During the struggle with Bloodshot, the Cyclops Gazermage managed to escape with a coin of Nefarion, the previous owner of the Mask of Power. The leader of the Ent expedition, Professor Splinters, lead the Skylanders to an underground world that was frozen over. Eruptor then came face-to-face with another version of himself being encased in ice. Master Eon teleported to their location and explained that Eruptor will eventually go back in time and become frozen in ice. As the old Portal Master recalled the history of the Nightmare King, Nefarion, history began to change around them as Professor Splinters turned into a servant of Kaos. Eruptor was about to attack the evil Splinters when Master Eon teleported them back to his citadel and explained that Kaos went back in time and changed the past. With Master Eon's help, Eruptor, Grim Creeper and Slam Bam were transported to the distant past when Nefarion reigned over Skylands. Once there, the three Skylanders came under attack by the Forest of Fire and were saved by the remaining Portal Master, Wizbit. However they were suddenly subdued by the weary Mabu, who was tricked by Kaos into believing that the Skylanders didn't arrive to help him stop King Nefarion. Wizbit revealed to Kaos his creation, the Big Bad Ice Bomb, which he intends to use to freeze King Nefarion and end his evil reign. However the evil Portal Master deceived Wizbit by delivering him to King Nefarion and revealing the existence of the Bomb. Kaos then sent a rocky cave-in upon Eruptor, Slam Bam and Grim Creeper to bury them alive before retreating. Thanks to Slam Bam's ice sculpture, they were able to keep the rocks at bay for a while. Grim Creeper quickly shifted into his ghost form and was able to phase through the rocks to find help at Nefarion's castle. After a series of events, both Eruptor and Slam Bam were teleported out of the cave-in by Wizbit in time to confront Kaos and King Nefarion. During the struggle, the Skylanders were able to retrieve the Mask of Power and allow Wizbit to scatter the pieces across Skylands. However there was still the threat of the Big Bad Ice Bomb going off. While King Nefarion fled, and Kaos and Glumshanks teleported back to the future, Eruptor sacrificed himself by swallowing the Big Bad Ice Bomb in order to buy his friends time to escape. With the timeline restored, Master Eon transported the group, including Wizbit, back to the present. Both Master Eon and Wizbit then used their power to unfreeze the Eruptor that was first discovered frozen in ice, the same Eruptor who went to the past to stop Kaos. Upon being revived, the lava monster burped up the remains of the Big Bad Ice Bomb which was revealed to be the Fire segment to the Mask of Power. However their victory was far from over, as Master Eon confirmed from the Book of Power that Kaos will indeed succeed in obtaining the full Mask of Power and wear it.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Erupto_Grim_Slam_Bam.jpg/revision/latest?cb=20150125083118"
+    },
+    {
+      "story_name": "Trigger Happy Targets the Evil Kaos",
+      "content": "Eruptor was one of the Skylanders whose powers were stolen by Kaos when he gained the Mask of Power. The lava monster's usual red body became blue as his lava veins became frozen, causing him to shiver. Eventually the Skylanders were able to defeat Kaos, regain their powers and destroy the Mask of Power.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Giants",
+      "content": "Eruptor, along with Spyro, Gill Grunt, Stealth Elf, and Stump Smash, are still frozen as toys on Earth and were put in a display inside a toy store called Toy World. They were few of the Skylanders who witnessed Kaos breaking free of his statue-like form due to his power as a Portal Master. When Kaos noticed the frozen Skylanders and taunted them, Eruptor and the other heroes agreed with Stump Smash when the tree creature angrily declared that if he could move, he'd be 'dropping the hammer' on Kaos right there and then. Afterwards, the present Skylanders could do nothing but watch as Kaos returned to Skylands with the use of a nearby Portal of Power.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Imaginators",
+      "content": "Eruptor was one of the Skylander Storytellers of the game. He met up with the main Skylander at the Mushroom River and accompanied them along the dangerous route to find Kaos. He later helped the Skylander in the Abandoned Amusement Park make a giant cake in order to infiltrate Kaos' Kastle.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Born to Burn!",
+        "Fire good!",
+        "Fire it up!",
+        "Whee!",
+        "This fire is stoked!",
+        "Feed the flame!",
+        "Too hot to handle!",
+        "Gettin' warm!",
+        "Burnin' it up!",
+        "You got burned!",
+        "Volcanic victory!",
+        "Can't beat the heat!",
+        "Can't slow this lava flow!",
+        "Blazin' a trail!",
+        "Into the fire!",
+        "On fire!",
+        "I'm boilin' over!",
+        "Burn and earn!",
+        "Boil the spoils!",
+        "My flames are growin'!",
+        "Burnin' up the charts!",
+        "Lookin' hot!",
+        "Hope this is flame resistant...",
+        "What's in a flame...uh, name!",
+        "Name the flame!",
+        "I'm startin' to cool!",
+        "Such a slow burn..."
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Rock and roll!",
+        "Start the fire!",
+        "My turn to burn!",
+        "Ready for action!",
+        "The heat is on!",
+        "Born to burn!",
+        "In the hot seat!",
+        "Let's fire it up!",
+        "Passing the torch!",
+        "Time to cool off!",
+        "Bigger and better!",
+        "Forging ahead!",
+        "Sizzling!",
+        "Rocking!",
+        "Some extra help!",
+        "Bringing the heat!",
+        "Smoking!",
+        "Red hot!",
+        "Plenty to go around!",
+        "Let's rock!",
+        "Incoming!",
+        "Get a load of me!",
+        "These are heating up!",
+        "Two words: fire proofing.",
+        "Too hot to handle!",
+        "Can't take the heat!",
+        "Feeling the heat!",
+        "Heat blast!",
+        "And down I go.",
+        "Smothered out...",
+        "I didn't see that coming...",
+        "That was just a warm up...!",
+        "You got burned!",
+        "You're toast!",
+        "I came, I saw, I burned!",
+        "Victory",
+        "You better back off!",
+        "Friendly reminder, I barf lava.",
+        "Huh?",
+        "I'm here.",
+        "You should stop now, really!",
+        "Heh heh heh!",
+        "Blazing a trail!",
+        "I'm on fire!"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "Alright, you ready Jet-Vac?",
+        "We're combining powers!",
+        "I'm flying! No, I'm barfing!",
+        "I am Eruptor! Born to Burn!",
+        "When I get in there, I'm gonna (burps)",
+        "I can't help it! I just (burps)",
+        "Uh-oh, ships make me barf!",
+        "Guys, it's Saturday!",
+        "I'm trying! I don't blend with anything!",
+        "Go Swap Force!",
+        "There will be fire!",
+        "Who, Fryno? Have you seen his powers?!"
+      ]
+    }
+  ],
+  "trivia": [
+    "As a LightCore, his mouth lights up. On Lightcore Eruptor's artwork, his body colour is crimson instead of red.",
+    "When Eruptor sings he often sings his favorite song: The 1st movement from Beethoven's 5th symphony.",
+    "In Skylanders Giants, he doesn't sing his name, while listening to the music box on Captain Flynn's Ship.",
+    "While saying his Catchphrase when he's placed on the portal in Spyro's Adventure and Trap Team, Eruptor's face seems to be frowning, when he is actually happy. On other games it shows him smiling when saying his Catchphrase. Skylanders : Giants was when he started smiling when saying his Catchphrase. However if he's playing a Heroic Challenge, Player Vs Player Battle Arena or after finding a certain item, he is shown frowning, when the screen says \"Please return the Skylander to the Portal of Power\", if he's taken off the portal too early.",
+    "There is a glitch with most Eruptor toys from series 1, where after time, they cannot be read by the Portal of Power, making them unplayable.",
+    "Eruptor, Stump Smash, Prism Break, Drill Sergeant and Countdown are the only bipedal Skylanders without hands.",
+    "When Series 2 Eruptor has his \"Lava Barf\" upgrade, four extra spikes appear on his head, giving him five head spikes.",
+    "On his Series 2 figure, his facial expression is similar to the facial expression on Hot Head's figure.",
+    "Eruptor and Bouncer are the only two Skylanders who don't sing their names while playing the music box on Flynn's Ship.",
+    "Eruptor had more commercial and trailer appearances than any other Skylander. Eruptor is the only Skylander to be seen in every main trailer (i.e. The Beginning, Tall Tales, Just Like SWAP Force, and The Discovery).",
+    "Despite having new Wow Pows, he, Trigger Happy and Gill Grunt are the only Series 3 Skylanders whose appearances remain the same as before.",
+    "In Eruptor's original art for Spyro's Adventure, his mouth only had two teeth.",
+    "He and Fryno share similarities. Both are short tempered and have anger issues. Both are of the fire element. Both share the quote \"Too hot to handle!\" Both have mini counterparts. Both have the word, \"burn\" in their Catchphrases.",
+    "Eruptor is noticeably similar to Hot Dog: Both are lava-based creatures. Both are Fire Skylanders. Both their Soul Gems upgrades their third attacks. Both have have the word \"burn\" in their catchphrases.",
+    "Eruptor, Prism Break, Gill Grunt, Jet-Vac and Pop Fizz are the only Skylanders so far to have four versions (series) of themselves, including LightCore.",
+    "At the end of the Up /Down lightcore commercial, a Series 2 Eruptor figure is mistakenly displayed, instead of the actual LightCore Eruptor figure.",
+    "In 2014, a balloon of Eruptor was made in the Macy's Thanksgiving Day Parade, representing the Skylanders franchise. This balloon would also have a special figure made for it based off the series 1 figure that does not work in the games.",
+    "An Eruptor balloon can be seen in Crash Bandicoot 4: It's About Time in the level, Off Beat.",
+    "He is the only Skylander with an evil counterpart named after him.",
+    "Eruptor is the only Fire Skylander with a Series 3 figure. On the Series 3 figure, he doesn't contain any extra spikes in his head. His Series 3 figure has a black counterpart called Volcanic Eruptor",
+    "In the \"Easter Surprise\" trailer, Eruptor is the only returning Skylander to be shown with a series 1 figure.",
+    "Eruptor is voiced by Keythe Farley, who would go on to voice Wildfire, Sheep Creep, and the Sleep Dragon.",
+    "Lava Kings bear a strong resemblance to Eruptor, as they are both lava monsters. They also share the same walking animations and similar sounds.",
+    "Eruptor's name is a combination of the words, \"erupt\" and \"raptor\""
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventure - Eruptor Preview (Born to Burn)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Spyro%27s_Adventure_-_Eruptor_Preview_(Born_to_Burn)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure GamesCom 2011 Trailer - Eruptor",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Spyro%27s_Adventure_GamesCom_2011_Trailer_-_Eruptor"
+    },
+    {
+      "name": "Meet the Skylanders Series 2 Eruptor",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Series_2_Eruptor"
+    },
+    {
+      "name": "Meet the Skylanders Lava Barf Eruptor",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Lava_Barf_Eruptor"
+    },
+    {
+      "name": "Meet the Skylanders LightCore Eruptor",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_LightCore_Eruptor"
+    }
+  ],
+  "gameplay": "Eruptor has the power to hurl and spew fireballs of molten rock, and unleash a lava plume all around him like a volcanic eruption. In Skylanders: Battlecast, Eruptor can control magma with a larger range of abilities. With energy cost halfway through, he can create a variety of effects by opening thermal vents and heat waves; notably, he can also turn Gear into Molten Metal by using Metalmorphosis and submerging it in lava. His Special Ability is Scorching Fumes, increasing his team's spell damage, and his signature gear is a Magma Core, that creates fire spells.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Eruptor",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Lava Lob",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a9/Eruptorprimarypower.png/revision/latest?cb=20120827170414",
+        "content": "Lob blobs of lava at your enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Eruption",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e9/Eruptorsecondarypower.png/revision/latest?cb=20120827170452",
+        "content": "Erupt into a pool of lava, damaging enemies all around you.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Big Blob Lava Throw",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/62/Eruptorbasicupgrade1.png/revision/latest?cb=20120827170656",
+        "content": "Lava Blob attack gets bigger and does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Fiery Remains",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Eruptorbasicupgrade2.png/revision/latest?cb=20120827170923",
+        "content": "Lava Blobs leave behind pools of flame when they hit the ground.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Eruption-Flying Tephra",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/71/Eruptorbasicupgrade3.png/revision/latest?cb=20120827170939",
+        "content": "Lava balls shoot out while performing the Eruption attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Magma Ball",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e3/Eruptorbasicupgrade4.png/revision/latest?cb=20120827170954",
+        "content": "Spit out Magma Balls.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Mega Magma Balls",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f0/Eruptorsoulgempower.png/revision/latest?cb=20120827170635",
+        "content": "Shoot up to 3 Magma Balls at a time that do extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Lava Barf",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/Eruptorwowpowpower.png/revision/latest?cb=20160724124652",
+        "content": "Hold Attack 3 to charge up a powerful stream of projectile lava barf.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "season": 3,
+        "name": "Lava Barf 2: Barf Harder",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Eruptorwowpow2power.png/revision/latest?cb=20160724102534",
+        "content": "Press Attack 3 to release Magma Balls, then hold Attack 3 to eat them and immediately barf them back for extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Magmantor",
+        "abilities": [
+          {
+            "name": "Heavy Duty Plasma",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/91/Eruptorpath1upgrade1.png/revision/latest?cb=20120827171025",
+            "content": "Lava Blobs bounce and travel further.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Lava Blob Bomb",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Eruptorpath1upgrade2.png/revision/latest?cb=20120827171041",
+            "content": "Lava Blobs explode and damage nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Beasts of Conflagration",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Eruptorpath1upgrade3.png/revision/latest?cb=20120827171516",
+            "content": "Lava Blobs do increased damage in the form of a fiery beast.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Volcanor",
+        "abilities": [
+          {
+            "name": "Quick Eruption",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Eruptorpath2upgrade1.png/revision/latest?cb=20120827171629",
+            "content": "It takes much less time to perform an Eruption attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Pyroxysmal Super Eruption",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/Eruptorpath2upgrade2.png/revision/latest?cb=20120827171657",
+            "content": "Eruption attack does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Revenge of Prometheus",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b2/Eruptorpath2upgrade3.png/revision/latest?cb=20120827171828",
+            "content": "Eruption causes small volcanoes to form, doing extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "eruptor",
       "variant_name": "Eruptor",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
+      "type": "Core Skylander",
+      "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/6/65/Erup3.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Lava Lob",
+        "Eruption",
+        "Mega Magma Balls",
+        "Heavy Duty Plasma",
+        "Super Eruption"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (max. 580)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 (max. 83)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46 (max. 96)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Eruptor"
     }
   ]
