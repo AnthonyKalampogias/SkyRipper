@@ -4,6 +4,7 @@
   "species": "Alien",
   "gender": "Female",
   "element": "Magic",
+  "role": "Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -12,20 +13,145 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Enchanted Star Strike is the alter ego of LightCore Star Strike in Skylanders: Swap Force.",
+  "biography": "Enchanted Star Strike is the alter ego of LightCore Star Strike in Skylanders: Swap Force.",
+  "quote": "Shoot For the Stars!",
+  "personality": "Mysterious and cosmic, she shares the traits of her original form, Star Strike, while appearing in her specialized Enchanted state.",
+  "story": [
+    {
+      "story_name": "In-Game Appearance",
+      "content": "Enchanted Star Strike appears in-game with a hooded cape that changes from white to turquoise.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Enchanted_Star_Strike1.jpg/revision/latest/scale-to-width-down/185?cb=20131004200731"
+    },
+    {
+      "story_name": "Battle at Cascade Glade",
+      "content": "Enchanted Star Strike is seen fighting two Greeble Blunderbusses in Cascade Glade.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f5/LC-Enchanted-Star-Strike-ACTION-screenshot.jpg/revision/latest/scale-to-width-down/185?cb=20230605024544"
+    },
+    {
+      "story_name": "Toy Form",
+      "content": "Enchanted Star Strike has a unique toy form as part of the Swap Force LightCore collection.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/70/EnchantedStarStrike1.png/revision/latest/scale-to-width-down/185?cb=20140521163546"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Shoot For the Stars!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Enchanted Star Strike is the second 'Enchanted' Skylander, while Enchanted Hoot Loop is the first.",
+    "In the game, her hooded cape changes from white to turquoise. If her Soul Gem ability, 'Shooting Stars,' is purchased, the rest of her outfit also changes colors.",
+    "The pose in her official artwork is similar to Star Strike's non-LightCore art, except with glowing eyes.",
+    "She is the first non-Legendary Alt Deco LightCore figure."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - LightCore Enchanted Star Strike",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_LightCore_Enchanted_Star_Strike"
+    }
+  ],
+  "gameplay": "In the game, her hooded cape changes from white to turquoise. If her Soul Gem ability, 'Shooting Stars,' is purchased, the rest of her outfit also changes colors. The pose in her official artwork is similar to Star Strike's non-LightCore art, except with glowing eyes.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Enchanted_Star_Strike",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Starfall",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/MagicSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223451",
+        "content": "Starfall",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Star-Filled Sky",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/MagicSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223451",
+        "content": "Star-Filled Sky",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Your Biggest Fan",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/MagicSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223451",
+        "content": "Your Biggest Fan",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Star Light",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/MagicSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223451",
+        "content": "Star Light",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Atom Splitter",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/MagicSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223451",
+        "content": "Atom Splitter",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Shooting Stars",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/MagicSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223451",
+        "content": "If her Soul Gem ability, 'Shooting Stars', is purchased, the rest of her outfit also changes colors.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "enchanted-star-strike",
       "variant_name": "Enchanted Star Strike",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "LightCore",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Enchanted_Star_Strike_Promo.jpg/revision/latest?cb=20140309233250",
       "attacks": [
@@ -35,7 +161,24 @@
         "Star Light",
         "Atom Splitter"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "80"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Enchanted_Star_Strike"
     }
   ]
