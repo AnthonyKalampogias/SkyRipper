@@ -4,21 +4,274 @@
   "species": "Unknown",
   "gender": "Female",
   "element": "Fire",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Dragonfire Dojo"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Ember is an orange woman with fire in place of legs black and gold traditional samurai armor and the golden sensei belt. She wields a dual-bladed red-hot katana.",
   "biography": "Ember was raised inside the Dragonfire Dojo, having come from a long line of Fire Sentinels that were skilled in the art of Dual-Blades. It was the dream of her father that Ember would follow their tradition and take over the family training facility, and so she practiced every day. She was naturally gifted, and soon even the greatest Dual-Blade Masters were no match for Ember. When Kaos heard of this, he took over her village and banned martial arts entirely, for fear of an uprising. But Ember fought back, unleashing an impressive barrage of Samurai pyrotechnics that drove the invaders away. Even though her village was free, she knew then that there was greater evil out there that needed to be stopped, and so she joined the Skylanders to train others in the art of the Sentinel Battle Class. One day though, Ember plans to return to her homeland and reopen her family’s school, but not until Skylands is safe once and for all.",
-  "personality": null,
-  "story": null,
+  "quote": "Fan the Flames!",
+  "personality": "Naturally gifted in the arts of the Sentinel Class, Ember is a disciplined warrior with deep ties to her tradition. She is dedicated to protecting Skylands so that she may one day return to reopen her family's training facility. Her wisdom is reflected in her use of philosophical battle cries and training advice.",
+  "story": [
+    {
+      "story_name": "Physical Traits",
+      "content": "Ember is an orange woman with fire in place of legs black and gold traditional samurai armor and the golden sensei belt. She wields a dual-bladed red-hot katana.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/87/Emberpromo.jpg/revision/latest/scale-to-width-down/268?cb=20160615082817"
+    },
+    {
+      "story_name": "Biography",
+      "content": "Ember was raised inside the Dragonfire Dojo, having come from a long line of Fire Sentinels that were skilled in the art of Dual-Blades. It was the dream of her father that Ember would follow their tradition and take over the family training facility, and so she practiced every day. She was naturally gifted, and soon even the greatest Dual-Blade Masters were no match for Ember. When Kaos heard of this, he took over her village and banned martial arts entirely, for fear of an uprising. But Ember fought back, unleashing an impressive barrage of Samurai pyrotechnics that drove the invaders away. Even though her village was free, she knew then that there was greater evil out there that needed to be stopped, and so she joined the Skylanders to train others in the art of the Sentinel Battle Class. One day though, Ember plans to return to her homeland and reopen her family’s school, but not until Skylands is safe once and for all.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/87/Emberpromo.jpg/revision/latest/scale-to-width-down/268?cb=20160615082817"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "'Fan the Flames!'",
+        "'It is wise Portal Master, to allow me to train ALL of your Imaginators, and make them stronger.'",
+        "'And it is wiser still to allow me to show those of the Sentinel Class, a secret technique of great power.'",
+        "'Time for more training!'",
+        "'I will win this battle in the mind, then the body!'",
+        "'Didn't anyone ever tell you not to play with fire?'",
+        "'Masters open doors, but you must enter by yourself.'",
+        "'A thousand battles, a thousand victories!'",
+        "'Angry opponents defeat themselves before the battle even begins.'",
+        "'Victory is reserved for those who are willing to pay the price.'",
+        "'Strategies and tactics go together, like fire and katana blades.'",
+        "'Strong in the mind, strong in the body.'",
+        "'Heat rises!'",
+        "'Supernova!'",
+        "'Pyro punch!'",
+        "'Samurai can fly!'",
+        "'Top of the world!'",
+        "'Yes, but there much left to learn!'",
+        "'That which does not kill me, only levels me up!'",
+        "'When you aim for perfection, you will discover it is a moving target.'",
+        "'A true warrior is measured by her mind and spirit, which do not seem to show up here.'",
+        "'Burn, Sky Chi, burn!'",
+        "'My Ski Chi is strong, my enemies are not.'"
+      ]
+    }
+  ],
+  "trivia": [
+    "Despite being a Sentinel Sensei, her Sky-Chi has her throwing fiery shurikens, making her similar to another Sensei of her element.",
+    "Ember's voice actor, Stephanie Sheh, is best known for voicing Hinata Hyuga from Naruto, Katana from DC Superhero Girls, Jinafire Long from Monster High, Sailor Moon/Usagi from Sailor Moon, and Orihime from Bleach.",
+    "Most of Ember's quotes are actual inspirational quotes from real people.",
+    "Ember has a Chase Variant named Dec-Ember, with a cyan crystal body, white translucent hair and shurikens designed after christmas lights (similar to Snow-Brite Stormblade).",
+    "She's the only Fire Sensei without an alt deco.",
+    "During development, she was named Scorch.",
+    "A Power Blue variant for Ember was planned, but was scrapped.",
+    "She was named after Toys for Bob staff member Kim Acuff Steiner, also known by her screen name Ember Dione."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Imaginators Meet Master Ember",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Imaginators_Meet_Master_Ember"
+    }
+  ],
+  "gameplay": "Ember can use her Dual-Blade red-hot katanas to attack at mid-range with quick slices and spinning motions. She can summon meteor strikes and streams of magma from afar, and slam into the ground with her fiery tail to set it on fire. She can also attach explosive rocks to her enemies that explode after a short period of time. With her Sky-Chi, she can spin in such great speeds that her tail forms a fiery tornado, shooting her belt's shurikens and meteor strikes across the battlefield. Her Soul Gem allows her to create fiery shield that blocks all damage for a short time when at low health, this can only be used once per level.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Ember",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Samurai Combo",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/04/Emberprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505131810",
+        "content": "Press Attack 1 to slash. Press it four times for a Samurai Combo.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Flame Geyser",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c2/Embersecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170505131815",
+        "content": "Press Attack 2 to summon a Flame Geyser. Enemies struck by this attack have a living bomb placed on them. The bombs' strength increases whenever those enemies are hit.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Immolation",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Emberbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505131819",
+        "content": "Taking damage deals damage to nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Lava Impact",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Emberbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505131824",
+        "content": "All attacks leave a pool of fire that slows down enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Supernova",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/Emberbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505131830",
+        "content": "Press Attack 3 to spawn a Supernova.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Ultra Supernova",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/38/Emberbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170505131833",
+        "content": "Hold Attack 3 to charge up the Supernova.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Undying Rage",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Embersoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505131839",
+        "content": "If Ember is about to be defeated, she instead gains a shield that blocks all damage for 10 seconds. This can be activated once per level.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "Supernova Storm",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Emberskychipower.png/revision/latest/scale-to-width-down/148?cb=20170505131844",
+        "content": "Hold Special Attack to perform your Sky-Chi Power! Shoot shurikens and supernovae at everyone! Use Left Stick to move around!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Samurai Combo Path",
+        "abilities": [
+          {
+            "name": "Inner Fire",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Emberpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505132134",
+            "content": "Gain damage bonus based on health missing.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Fire Dash",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Emberpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505132140",
+            "content": "Hold Attack 1 to dash through enemies, striking them multiple times.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Samurai Combo Finisher",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/51/Emberpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505132145",
+            "content": "Attack 1 twice, Attack 2 for Buddha Palm. Attack 1 twice, Attack 3 for Fire Tornado.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Living Bomb Path",
+        "abilities": [
+          {
+            "name": "greater Living Bomb",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Emberpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505132150",
+            "content": "Bombs deal area damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Purifying Flame",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Emberpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505132155",
+            "content": "Bombs heal Ember if she is nearby during the explosion.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Meteor Shower",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2f/Emberpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505132200",
+            "content": "Hold Attack 3 to spawn a ton of Supernova.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "ember",
@@ -34,7 +287,24 @@
         "Inner Fire",
         "Living Bomb Path"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "350"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "200"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Ember"
     }
   ]
