@@ -1,29 +1,131 @@
 {
   "id": "eon-s-elite",
   "name": "Eon's Elite",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon’s Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
-  "personality": null,
-  "story": null,
+  "species": "Skylander Group",
+  "gender": "Mixed",
+  "element": "All",
+  "role": "Elite Leaders",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Giants",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing"
+  ],
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Eon's Elite are a group of Skylanders originated from Skylanders: Spyro's Adventure that stand atop golden bases with a transparent bottom, who are three times stronger than their normal forms. They were offered in premium foil packaging, featuring a display case with a 3D lenticular background.",
+  "biography": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
+  "quote": "Three times as powerful as other characters.",
+  "personality": "Courageous and brave leaders who have displayed bravery against all odds. They are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
+      "hasImage": true,
+      "imgPath": "Eons-elite-logo.jpg"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Three times the power!",
+        "For Skylands!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Every Skylander in the first set of Eon's Elite have had Series 3 counterparts.",
+    "Eon's Elite Skylanders are labeled as Series 2 Specials in Skylanders: Giants.",
+    "All members of Eon's Elite start off at Level 20 in SuperChargers.",
+    "Stealth Elf and Whirlwind are the only female members of Eon's Elite.",
+    "With the release of the Eon's Elite figures in Skylanders: Superchargers, Sunburn was left as the only Skylander from Skylanders: Spyro's Adventure without a reposed figure.",
+    "Elite Stealth Elf's daggers and Elite Gill Grunt's harpoon ammo are gold in figure form, but normal colors in-game."
+  ],
+  "trailers": [],
+  "gameplay": "When played in-game, Eon's Elite will be up to three times as powerful as other characters. All members of Eon's Elite start off at Level 20 in SuperChargers, and in SuperChargers Racing, they are the only Skylanders other than SuperChargers who provide stat boosts to Vehicles. They are labeled as Series 2 Specials in Skylanders: Giants, allowing them to activate Wow-Pows and change paths.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Eon's_Elite",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Elite Power Boost",
+        "imgPath": "Eons-elite-logo.jpg",
+        "content": "When played in-game, Eon's Elite will be up to three times as powerful as other characters, representing the biggest in-game boosts ever incorporated into a Skylanders toy.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#BEE",
+          "bg_content": "#0BF"
+        }
+      }
+    ],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "Elite Wow-Pow",
+        "imgPath": "Eons-elite-logo.jpg",
+        "content": "In Skylanders: Giants, Eon's Elite can activate Wow-Pows and change paths, though their Wow-Pow cannot be carried over into later games.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#BEE",
+          "bg_content": "#0BF"
+        }
+      }
+    ],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "eon-s-elite",
-      "variant_name": "Eon's Elite",
+      "id": "eon-s-elite-trap-team",
+      "variant_name": "Eon's Elite (Trap Team)",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
+      "type": "Special",
+      "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Eons-elite-logo.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Elite Power Boost"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health Multiplier",
+          "stat_value": "3x"
+        },
+        {
+          "stat_name": "Strength Multiplier",
+          "stat_value": "3x"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Eon's_Elite"
+    },
+    {
+      "id": "eon-s-elite-superchargers",
+      "variant_name": "Eon's Elite (SuperChargers)",
+      "edition": "Series 2",
+      "type": "Special",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a2/Eon%27s_Elite_SuperChargers.jpg",
+      "attacks": [
+        "Elite Power Boost"
+      ],
+      "stats": [
+        {
+          "stat_name": "Starting Level",
+          "stat_value": "20"
+        },
+        {
+          "stat_name": "Vehicle Boost",
+          "stat_value": "Yes"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Eon's_Elite"
     }
   ]
