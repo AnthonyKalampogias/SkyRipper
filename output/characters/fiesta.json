@@ -4,6 +4,7 @@
   "species": "Skeleton",
   "gender": "Male",
   "element": "Undead",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Rift into Overdrive",
@@ -12,16 +13,297 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Unexpected Allies",
+  "cameos": [
+    "Unexpected Allies"
+  ],
   "world": [
     "The Underworld (Undead Fiesta)"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Despite being Undead, Fiesta had always been the life of the party. He was once the head member of a popular mariachi band in the personal court of Count Moneybone , who all undead citizens respected immensely. In his spare time, Fiesta and his bandmates played music for all of the new arrivals that entered the Underworld. However, a day came when the new arrivals were actually several Skylanders , who had come on a mission to stop Count Moneybone from unleashing a robot army on all of Skylands . Fiesta then realized that he, like so many others, had been fooled by the evil Count into thinking he was kind and generous – not the vengeful monster he truly was. Unbeknownst to the Skylanders, Fiesta and his bandmates helped to distract the robot army so they could infiltrate Moneybone’s mansion and put a stop to him. Even though the Skylanders were unaware, this act of bravery and defiance did catch the attention of Master Eon , who recruited him at once.",
-  "personality": "Although he comes from The Underworld , Fiesta is more free-spirited than most of its Undead inhabitants. He enjoys striking up parties as all who are good are invited (even if they go unannounced).",
-  "story": null,
+  "description": "Fiesta is a skeletal mariachi band leader who is one of the Undead SuperChargers in Skylanders: SuperChargers. His signature vehicle is the Crypt Crusher.",
+  "biography": "Despite being Undead, Fiesta had always been the life of the party. He was once the head member of a popular mariachi band in the personal court of Count Moneybone, who all undead citizens respected immensely. In his spare time, Fiesta and his bandmates played music for all of the new arrivals that entered the Underworld. However, a day came when the new arrivals were actually several Skylanders, who had come on a mission to stop Count Moneybone from unleashing a robot army on all of Skylands. Fiesta then realized that he, like so many others, had been fooled by the evil Count into thinking he was kind and generous – not the vengeful monster he truly was. Unbeknownst to the Skylanders, Fiesta and his bandmates helped to distract the robot army so they could infiltrate Moneybone’s mansion and put a stop to him. Even though the Skylanders were unaware, this act of bravery and defiance did catch the attention of Master Eon, who recruited him at once.",
+  "quote": "It's Party Time!",
+  "personality": "Although he comes from The Underworld, Fiesta is more free-spirited than most of its Undead inhabitants. He enjoys striking up parties as all who are good are invited (even if they go unannounced).",
+  "story": [
+    {
+      "story_name": "Rift into Overdrive",
+      "content": "When strange rifts started appearing around Skylands, non-Skylanders Fiesta and Dive-Clops were called by their friends, Spitfire and Stormblade, to help investigate the cause. They arrived in their vehicles to aid Spitfire and Stormblade soon after they both saved Skylanders, Stealth Elf, Terrafin, Gill Grunt and Jet-Vac, from a rift in Know-It-All Island. When Stealth Elf was concerned about the four non-Skylanders wanting to help look for the Rift Engines, Fiesta pointed out that since the rifts threaten everyone in Skylands, the monstrosities don't care whether he and his friends were Skylanders or not. The Skylanders then allowed the SuperChargers to aid them after their only means of transportation, the Dread-Yacht, was consumed by the rift.\nThe Stone Head's last cryptic message lead the Skylanders and SuperChargers to the Whirlpool of Destiny. While the land Skylanders and SuperChargers held off a group of Dark Drow warriors, Dive-Clops and Gill Grunt dove to the underwater depths of the Swirling Sea to find the Rift Engines. The Dark Drow were beginning to overpower the group until Gill Grunt and Dive-Clops succeeded in hauling a massive chest to the surface that contained the Rift Engines inside. With the power of the Rift Engines, Stealth Elf, Jet-Vac, Gill Grunt and Terrafin transformed into SuperChargers and easily overwhelmed the attacking Drow forces.\nNow having enough Rift Engines to stop Kaos and his latest plan, the Skylanders invited Fiesta and the SuperChargers to become Skylanders, to which they eagerly accepted.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Dive, Dive, Dive!",
+      "content": "This section is a stub. You can help Skylanders Wiki by editing this section.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "It's Party Time!",
+        "Ah yes, success!",
+        "The sound of success!",
+        "I win again!",
+        "Ole!",
+        "Let's saddle up!",
+        "Giddy-up!",
+        "Party time!",
+        "Excellent!",
+        "Better than ever!",
+        "Fully charged!",
+        "Up we go!",
+        "Way up top.",
+        "High above!",
+        "To the unknown!",
+        "Let's get down!",
+        "Let's dance!",
+        "Let it rip!",
+        "Fiesta, going under.",
+        "Down you go!",
+        "Step aside.",
+        "The party is over!",
+        "Tuned and ready.",
+        "Let's change the tempo.",
+        "Plenty to go around.",
+        "Treasure!",
+        "I aim to impress!",
+        "The story of my life!",
+        "This hat is superb!",
+        "Dashing, no?",
+        "I'll get you back!",
+        "Hey, who crashed my party?",
+        "Party time!",
+        "Yes!",
+        "Alright!",
+        "Woo-hoo!",
+        "Excellent!",
+        "Etched in stone.",
+        "Engraved.",
+        "The party must go on!",
+        "An invitation to enter.",
+        "Not even a shadow of a doubt.",
+        "A reason to celebrate!"
+      ]
+    },
+    {
+      "quote_type": "Quest Quotes",
+      "content": [
+        "Thank you, Señor Buzz, but I'm no one-man band. It's just not a Fiesta without friends, you know?",
+        "Oh yes, I've been known to really bring down the house - especially if it belongs to my enemies. Heh heh.",
+        "Keep up with it? Señor Buzz, I can drive circles around that cursed eater of the skies. That is, provided of course, there is a road to drive on...",
+        "Oh yes, I had no idea you were a secret ninja commando AND a comedian Buzz. Heh.",
+        "Sí, a good musician is always prepared.",
+        "Thank you, Señor Buzz. But a true master never stops learning - and always plays from the heart."
+      ]
+    }
+  ],
+  "trivia": [
+    "Fiesta's character design is inspired by the Day of the Dead, a Mexican holiday where family and friends pray for and remember friends and family members who died.",
+    "Fiesta is voiced by Carlos Alazraqui, who voiced Hot Dog in Skylanders: Giants and Duff in Skylanders: Swap Force.",
+    "Fiesta and his Amigos are based on the glowing skeleton enemies seen in the Undead Fiesta in the 3DS version of Swap Force, making him the first Skylander based on a 3DS only species.",
+    "Fiesta was one of the expansion characters planned for Skylanders: Battlecast, with a single known card, Sinister Symphony. However, because of the ending of the game's development, he was scrapped.",
+    "Fiesta was a character planned for the Skylanders Academy's second season and would've been the first SuperCharger to appear, but he was cut due to budget reasons.",
+    "He is similar to Brook from One Piece, as both are musical skeletons.",
+    "When Fiesta summons a trumpet-playing amigo, it plays part of The After Party's musical theme.",
+    "Developer Bill Castagna says of Fiesta, \"This guy is my jam... my Soul Jam.\" "
+  ],
+  "trailers": [
+    {
+      "name": "Fiesta",
+      "isValid": false,
+      "url": ""
+    },
+    {
+      "name": "Skylanders SuperChargers - Fiesta's Soul Gem Preview (It's Party Time)",
+      "isValid": false,
+      "url": ""
+    },
+    {
+      "name": "Meet the Skylanders Fiesta and Crypt Crusher",
+      "isValid": false,
+      "url": ""
+    }
+  ],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Fiesta",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Trumpet Concord",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a7/Fiestaprimarypower.png/revision/latest/scale-to-width-down/148?cb=20151008050356",
+        "content": "Hold Attack 1 to to play a tune on the trumpet gun that damages nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Amigos",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f5/Fiestasecondarypower.png/revision/latest/scale-to-width-down/148?cb=20151008050441",
+        "content": "Press Attack 2 to summon a friendly instrument wielding Amigo.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Laid Low",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/Fiestabasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20151008050624",
+        "content": "Press Attack 3 to become partially hidden, taking reduced damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Macho Amigos",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4c/Fiestabasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20151008050655",
+        "content": "Amigos now deal more damage. Those little guys pack a punch.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Solo",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Fiestabasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20151008050740",
+        "content": "Press Attack 1 while playing trumpet to play a Solo Note that will home in and damage nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Encore",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/92/Fiestabasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20151008050812",
+        "content": "Playing five Solo Notes in a row will cause Amigos to stay around longer.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Family Fiesta",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d3/Fiestasoulgempower.png/revision/latest/scale-to-width-down/148?cb=20151008050531",
+        "content": "Hold Attack 2 to summon a Fiesta! The guest list is huge!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "What Amigos are for.",
+        "abilities": [
+          {
+            "name": "Take It Away Amigos!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/df/Fiestapath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20151008050836",
+            "content": "Press Attack 1 while trumpeting to play a solo note, every fifth solo note played makes Amigos get a damage boost!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Mucho Amigos",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fd/Fiestapath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20151008050859",
+            "content": "Press Attack 2 to summon an Amigo. Now have up to FIVE Amigos.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Soul Jam",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/53/Fiestapath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20151008050924",
+            "content": "Press Attack 3 to become Laid Low, Amigos move faster while Laid Low.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Super Star!",
+        "abilities": [
+          {
+            "name": "Diva",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/71/Fiestapath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20151008050951",
+            "content": "After playing five Solo Notes, a spotlight appears around you which gives increased money, experience and food.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Shot to the Hearth",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/eb/Fiestapath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20151008051012",
+            "content": "Press Attack 1 while trumpeting to play a Solo Note; solo notes now pierce enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Big Finish",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b7/Fiestapath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20151008051033",
+            "content": "Press Attack 3 to become Laid Low, Amigos grow and large and then explode after a short time while Laid Low.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "fiesta",
@@ -37,7 +319,28 @@
         "Take It Away Amigos!",
         "Diva"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "230 (Lv. 20: 690)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "6"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "4"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Fiesta"
     }
   ]
