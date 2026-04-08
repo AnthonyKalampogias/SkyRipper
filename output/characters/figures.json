@@ -1,29 +1,232 @@
 {
   "id": "figures",
   "name": "Figures",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "species": "Toy",
+  "gender": "None",
+  "element": "Multi-elemental",
+  "role": "Interactive Game Pieces",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": [
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Lost Islands",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Battlecast",
+    "Skylanders: Ring of Heroes"
+  ],
+  "world": [
+    "Skylands",
+    "Earth"
+  ],
+  "description": "Figures are the physical medium used to interact with the Skylanders games. From Spyro's Adventure to Trap Team, all Skylanders of a particular Element share bases with near-identical designs. Starting with SuperChargers, certain figure types have special bases that remain elementally themed but are vastly different from the original designs.",
+  "biography": "The Skylanders Figures are the key focal point in the Skylanders franchise, as they not only allow access to the Skylanders but also are the means to carry that data around and be shared with others. They are what truly bridges the gap between the home consoles, handheld devices, and even PCs. As the series progressed, new kinds of figures were released with new abilities.",
+  "quote": "They are what truly bridges the gap between the home consoles, handheld devices, and even PCs.",
+  "personality": "While figures themselves do not have personalities, they act as the bridge between physical toys and digital heroes, each type (Core, Giant, Swap Force, etc.) bringing unique mechanics and capabilities to the player.",
+  "story": [
+    {
+      "story_name": "The Core Evolution",
+      "content": "Core Skylanders are the original type of Skylander, released with every game up until Skylanders: SuperChargers. Series 1 figures are the original releases, while Series 2-4 depict the original Skylanders in different poses and accessories, allowing them to alter upgrade paths without resetting.",
+      "hasImage": true,
+      "imgPath": "/wiki/File:Cores_Group.png"
+    },
+    {
+      "story_name": "Gimmick Skylanders",
+      "content": "Giants were released for Skylanders: Giants, featuring much larger forms and unique abilities like lifting boulders. SWAP Force introduced detachable upper parts to allow mixing and matching powers. Trap Masters represent Traptanium, using crystalline weapons to defeat Villains and open Elemental gates.",
+      "hasImage": true,
+      "imgPath": "/wiki/File:Gimmick_Skylanders.png"
+    },
+    {
+      "story_name": "Special Items and Crystals",
+      "content": "Special non-Skylander figures include Traps for capturing Villains, Vehicles for Land, Sea, and Sky racing, and Creation Crystals for creating custom Imaginators tied to a Battle Class.",
+      "hasImage": true,
+      "imgPath": "/wiki/File:Special_Items.png"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "(Sidekicks say whatever catchphrase uttered by their full-size counterparts)"
+      ]
+    }
+  ],
+  "trivia": [
+    "Series Skylanders have the ability to alter their upgrade path without having to reset.",
+    "Sidekicks are the precursors to Minis, originally released as cosmetic Magic Items.",
+    "Legendary Skylanders are gold and navy blue versions of normal Skylanders, exclusive to Toys'R'Us in most countries.",
+    "Nitro figures feature a yellow-and-white checker color scheme and are exclusive to Target in North America.",
+    "Dark Edition figures mostly feature black and silver color schemes and were exclusive to Dark Edition Starter Packs."
+  ],
+  "trailers": [],
+  "gameplay": "Core Skylanders are the original type, released up until SuperChargers. Giants are much larger in game form and possess unique strengths like lifting boulders. SWAP Force figures have detachable parts to mix and match powers. Trap Master figures feature crystalline Traptanium weapons and are stronger against Villains. Minis are small, fully playable characters functionally identical to their larger counterparts. Senseis unlock Secret Techniques for Imaginators.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Figures",
+  "abilities": {
+    "basic": [
+      {
+        "name": "LightCore Blast",
+        "imgPath": "/wiki/File:LightCore_Icon.png",
+        "content": "LightCore figures feature parts that light up when placed on the portal. In game, this translates as a massive blast when summoned, knocking away or damaging nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#1390FF",
+          "bg_content": "#B0E0E6"
+        }
+      },
+      {
+        "name": "Feats of Strength",
+        "imgPath": "/wiki/File:Giant_Icon.png",
+        "content": "Giant figures have unique abilities, including Feats of Strength, breaking objects which otherwise require bombs, and lifting boulders.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#1390FF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Secret Technique Unlock",
+        "imgPath": "/wiki/File:Sensei_Icon.png",
+        "content": "Sensei figures unlock a Secret Technique to Imaginators of the same Battle Class and provide a training bonus to all Imaginators.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#1390FF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Wow Pow Upgrade",
+        "imgPath": "/wiki/File:WowPow_Icon.png",
+        "content": "Series Skylanders are given a special upgrade called 'Wow Pow', which grants them a new ability or boost without having to reset.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#1390FF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Series Wow Pow",
+        "imgPath": "/wiki/File:WowPow_Icon.png",
+        "content": "Grants a new ability or boost to Series 2-4 figures, appearing as the latest available version in previous games.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#1390FF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "figures",
-      "variant_name": "Figures",
+      "id": "figures_series1",
+      "variant_name": "Series 1 Core",
       "edition": "Series 1",
-      "type": "Sensei",
-      "game": null,
-      "image": null,
+      "type": "Core",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "/wiki/File:Series1_Base.png",
       "attacks": [],
-      "stats": null,
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Figures"
+    },
+    {
+      "id": "figures_series_2_4",
+      "variant_name": "Series 2-4 Core",
+      "edition": "Series 2-4",
+      "type": "Core Repose",
+      "game": "Skylanders: Giants / Swap Force / Trap Team",
+      "image": "/wiki/File:Series2_Base.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Figures"
+    },
+    {
+      "id": "figures_lightcore",
+      "variant_name": "LightCore Figure",
+      "edition": "LightCore",
+      "type": "LightCore",
+      "game": "Skylanders: Giants / Swap Force / Trap Team",
+      "image": "/wiki/File:LightCore_Base.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Figures"
+    },
+    {
+      "id": "figures_giant",
+      "variant_name": "Giant Figure",
+      "edition": "Giant",
+      "type": "Giant",
+      "game": "Skylanders: Giants",
+      "image": "/wiki/File:Giant_Base.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Figures"
+    },
+    {
+      "id": "figures_swap_force",
+      "variant_name": "SWAP Force Figure",
+      "edition": "SWAP Force",
+      "type": "Swap Force",
+      "game": "Skylanders: Swap Force",
+      "image": "/wiki/File:SwapForce_Base.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Figures"
+    },
+    {
+      "id": "figures_trap_master",
+      "variant_name": "Trap Master Figure",
+      "edition": "Trap Team",
+      "type": "Trap Master",
+      "game": "Skylanders: Trap Team",
+      "image": "/wiki/File:TrapMaster_Base.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Figures"
+    },
+    {
+      "id": "figures_supercharger",
+      "variant_name": "SuperCharger Figure",
+      "edition": "SuperChargers",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "/wiki/File:SuperCharger_Base.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Figures"
+    },
+    {
+      "id": "figures_sensei",
+      "variant_name": "Sensei Figure",
+      "edition": "Sensei",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "/wiki/File:Sensei_Base.png",
+      "attacks": [],
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Figures"
     }
   ]
