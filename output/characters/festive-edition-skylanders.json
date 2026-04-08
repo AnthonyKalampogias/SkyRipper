@@ -1,30 +1,70 @@
 {
   "id": "festive-edition-skylanders",
   "name": "Festive Edition Skylanders",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "species": "Skylander",
+  "gender": "Various",
+  "element": "Various",
+  "role": "Special Edition Variant",
+  "primary_game": "Various",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers",
+    "Skylanders: Imaginators",
+    "Skylanders: Lost Islands",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Battlecast",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Festive Edition Skylanders are Skylanders that have a design that represents a specific day of the year, primarily Easter, Halloween, Christmas or Valentine's Day. These include both Alt Deco figures and digital Alter Egos.",
+  "biography": "Festive Edition Skylanders are Skylanders that have a design that represents a specific day of the year, primarily Easter, Halloween, Christmas or Valentine's Day. These include both Alt Deco figures and digital Alter Egos.",
+  "quote": "Skylanders that have a design that represents a specific day of the year.",
+  "personality": "Varies by individual Skylander.",
+  "story": [
+    {
+      "story_name": "Overview",
+      "content": "Festive Edition Skylanders are Skylanders that have a design that represents a specific day of the year, primarily Easter, Halloween, Christmas or Valentine's Day. These include both Alt Deco figures and digital Alter Egos.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [],
+  "trivia": [
+    "Heartbreaker Buckshot is the only Festive Skylander which never had an official release.",
+    "Christmas counterparts are mainly of the Life and Water elements.",
+    "Halloween counterparts are exclusively of the Undead element.",
+    "Valentine's Day counterparts are mainly of the Magic element.",
+    "In Skylanders: Imaginators, some of the color schemes for Imaginators are themed around holidays as well: Be My Valentine (Valentine's Day), Lucky Clover (St. Patrick's Day), Egg Hunt (Easter), Trick or Treat (Halloween), and Jingle All the Way (Christmas)."
+  ],
+  "trailers": [],
+  "gameplay": "Festive Skylanders are special themed versions of standard characters. They function identically to their regular counterparts in terms of gameplay and abilities but feature unique holiday-themed aesthetic designs and in-game models. These variants include both physical Alt Deco figures and digital-only Alter Egos found in spin-off titles.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Festive_Edition_Skylanders",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "festive-edition-skylanders",
-      "variant_name": "Festive Edition Skylanders",
-      "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
+      "id": "jingle-bell-chompy-mage",
+      "variant_name": "Jingle Bell Chompy Mage",
+      "edition": "Holiday Edition",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/3/38/Jingle_Bell_Chompy_Mage_Icon.png",
       "attacks": [],
-      "stats": null,
-      "wiki_url": "https://skylanders.fandom.com/wiki/Festive_Edition_Skylanders"
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Jingle_Bell_Chompy_Mage"
     }
   ]
 }
