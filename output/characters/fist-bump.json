@@ -4,6 +4,7 @@
   "species": "Rock Panda",
   "gender": "Male",
   "element": "Earth",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -12,22 +13,250 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Return of the Dragon King",
+  "cameos": [
+    "Return of the Dragon King"
+  ],
   "world": [
     "Bumbling Bamboo Forest"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Fist Bump had long been the sleeping protector of the Bubbling Bamboo Forest, but awoke from a long hibernation when a horde of nasty purple Greebles arrived with gigantic rock-smashing machines. Intent on building a new base, their machines wreaked havoc – chewing up the land and spitting out billowing clouds of smoke into the enchanted air. Seeing this, Fist Bump was furious. Using his enormous stone fists, he hammered the ground with all his strength, creating a massive earthquake that sent huge shockwaves towards the Greeble camp. This reduced the machines to mere scrap and sent the Greebles running off in a panic. The act of bravery caught the attention of Terrafin , who brought Fist Bump to meet Master Eon . Now as a Skylander, Fist Bump makes evil quake wherever he goes!",
-  "personality": "Fist Bump is always the first person to shake things up at a party. He loves to get loose and rock out. &#91; 2 &#93;",
-  "story": null,
+  "description": "Fist Bump is a rock panda who is one of the Earth core Skylanders in Skylanders: Trap Team.",
+  "biography": "Fist Bump had long been the sleeping protector of the Bubbling Bamboo Forest, but awoke from a long hibernation when a horde of nasty purple Greebles arrived with gigantic rock-smashing machines. Intent on building a new base, their machines wreaked havoc – chewing up the land and spitting out billowing clouds of smoke into the enchanted air. Seeing this, Fist Bump was furious. Using his enormous stone fists, he hammered the ground with all his strength, creating a massive earthquake that sent huge shockwaves towards the Greeble camp. This reduced the machines to mere scrap and sent the Greebles running off in a panic. The act of bravery caught the attention of Terrafin, who brought Fist Bump to meet Master Eon. Now as a Skylander, Fist Bump makes evil quake wherever he goes!",
+  "quote": "Knock Knock... Too Late!",
+  "personality": "Fist Bump is always the first person to shake things up at a party. He loves to get loose and rock out.",
+  "story": [
+    {
+      "story_name": "Champions",
+      "content": "Fist Bump, along with Trail Blazer and Fling Kong, served as the final opponents in the Legendary Tournament. The trio of Skylanders mocked and discouraged Déjà Vu, who made it to the Finals, by claiming that she was out of their league and that the finals were only for Skylanders who can 'handle heavy combat'. As the final round began, Fist Bump teamed up with Trail Blazer and Fling Kong to defeat Déjà Vu, not wanting her to win so that they can be only ones left to battle amongst themselves. In the end, all three Skylanders underestimated the Magic Skylander, who used exploding duplicates to surround Trail Blazer, Fist Bump and Fling Kong and knocked them out. Déjà Vu is crowned the new Legendary Champion, and Fist Bump apologized to her for his behavior along with Fling Kong and Trail Blazer.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2f/Trail_Fling_Fist_Comic.jpg/revision/latest?cb=20150108063616"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Knock, Knock... Too Late!",
+        "Rock stomp!",
+        "Fists of fury!",
+        "Rock on!",
+        "Shake & quake!",
+        "Looking solid all around!",
+        "I'm the best, pound for pound... for pound!",
+        "I totally dig the new look!"
+      ]
+    }
+  ],
+  "trivia": [
+    "His catchphrase was once a tag line by Stealth Elf.",
+    "Most people may state that this Catchphrase makes no sense. However, it could be a reference to mischievous kids just randomly knocking on someone's door and running away, to make it seem like no one is there, as a naughty trick!",
+    "He and High Five are the only Skylanders who are named after two different friendly hand gestures.",
+    "Fist Bump, Blades, and Knight Light can all perform combos, however they are currently the only three Skylanders who cannot purchase any additional combos, regardless of which upgrade path is selected.",
+    "Fist Bump's placeholder name was Aftershock, which is also the name of an unused dinosaur Skylander.",
+    "Interestingly enough, Aftershock's planned abilities are incredibly similar to those of Fist Bump, being able to pound the ground and create fault lines/fissures.",
+    "An Awakened form version of Fist Bump was leaked in Skylanders: Ring of Heroes, but he never appeared in the final game."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Fist Bump",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Fist_Bump"
+    },
+    {
+      "name": "Skylanders Trap Team - Fist Bump's Soul Gem Preview (Knock Knock... Too Late)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Fist_Bump%27s_Soul_Gem_Preview_(Knock_Knock..._Too_Late)"
+    },
+    {
+      "name": "Skylanders Power Play Fist Bump",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Fist_Bump"
+    }
+  ],
+  "gameplay": "Fist Bump can utilize his enormous strength in combat, being able to create fault lines and earthquakes just by punching the ground. When his fault lines are activated by his panda pound, spiky rocks erupt from them that damage enemies. Fist Bump can even slide across the ground, which damages enemies in his way, and creates fault lines.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Fist_Bump",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Panda Pound",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/62/Fist_Bumpprimarypower.png/revision/latest?cb=20140922044248",
+        "content": "Press Attack 1 to smash the ground and also activate Fault Lines.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Fault Line Slam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Fist_Bumpsecondarypower.png/revision/latest?cb=20140922044933",
+        "content": "Press Attack 2 to slam the ground so hard, it creates Fault Lines.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Seismic Slide",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/53/Fist_Bumpbasicupgrade1.png/revision/latest?cb=20140922044954",
+        "content": "Press Attack 3 to slide across the ground and ram into enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Panquake",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b0/Fist_Bumpbasicupgrade2.png/revision/latest?cb=20140922045019",
+        "content": "Panda Pound attack creates mini fault cracks and performing it in the air creates Fault Lines.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Hold the Line",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/96/Fist_Bumpbasicupgrade3.png/revision/latest?cb=20140922045048",
+        "content": "Fault Lines travel further and farther.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Don't Bump Fist Bump",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/Fist_Bumpbasicupgrade4.png/revision/latest?cb=20170504150807",
+        "content": "All Fault Lines are automatically activated when you take damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Riding the Rails",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Fist_Bumpsoulgempower.png/revision/latest?cb=20170504150810",
+        "content": "Walking creates Fault Lines and mini fault cracks",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Rowdy Richter",
+        "abilities": [
+          {
+            "name": "Fault Line in Glass Houses",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Fist_Bumppath1upgrade1.png/revision/latest?cb=20170504151056",
+            "content": "When Fault Lines are activated, some of them shoot stones at enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Quake 'N' Bake",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Fist_Bumppath1upgrade2.png/revision/latest?cb=20170504151059",
+            "content": "Activated Fault Lines are more powerful and do extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "A Bolder Boulder",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/52/Fist_Bumppath1upgrade3.png/revision/latest?cb=20170504151104",
+            "content": "When Fault Lines are activated, some shoot spikey boulders at enemies",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Bamboo Bonanza",
+        "abilities": [
+          {
+            "name": "Healing Bamboo",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Fist_Bumppath2upgrade1.png/revision/latest?cb=20170504151301",
+            "content": "When Fault Lines are activated, some of them spawn bamboo. Slide into them to regain HP.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Bamboo Harvest",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/62/Fist_Bumppath2upgrade2.png/revision/latest?cb=20170504151304",
+            "content": "Perform a Panda Pound in the air and bamboo plants explode, damaging enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Jump For It!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Fist_Bumppath2upgrade3.png/revision/latest?cb=20170504151309",
+            "content": "Can perform a Panda Pound in the air much quicker and create an extra Fault Line",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "fist-bump",
       "variant_name": "Fist Bump",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/44/Fist_Bump_Promo.jpg/revision/latest?cb=20140917183945",
       "attacks": [
@@ -37,7 +266,28 @@
         "Fault Line in Glass Houses",
         "Healing Bamboo"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "200/400"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60/108"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30/60"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20/70"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25/75"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Fist_Bump"
     }
   ]
