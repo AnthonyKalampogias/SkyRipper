@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-08T19:33:32.218Z",
+  "last_run": "2026-04-08T21:13:02.905Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -487,11 +487,35 @@
     },
     {
       "name": "Frosted Food Fight",
-      "sha": "a59e6a624b7201a69240fc61fabba4fce1de9574563395cc895e9986959f0384"
+      "sha": "e59c6bd899622d2cbf68c1e2000881a7ed0633adba833799fd6609c63e9f90ef"
     },
     {
       "name": "Fortune Funny Bone",
       "sha": "67d251f97bb530452c605362b264ce22b087cfddc4c5b731d54505ad42c68f31"
+    },
+    {
+      "name": "Free Ranger",
+      "sha": "94fdcdd66c4a5036f3d88b68e17611c85c5d48c93a0bdac70e1bb4651575d5d2"
+    },
+    {
+      "name": "Freeze Blade",
+      "sha": "c9e08a810b0a79395b31a80d5290b79969b7ea6e038e649dc5267d8d6987be32"
+    },
+    {
+      "name": "Fright Rider",
+      "sha": "36b5fd406e5998a610be37597a047cac178f43477be79953b83967076cb049cf"
+    },
+    {
+      "name": "Frightful Fiesta",
+      "sha": "8e123aa06eaa42dd2d0b8bca46b80e122a5f323cbfb5dc5e8d0b58311a119c07"
+    },
+    {
+      "name": "Frito-Lay Skylanders",
+      "sha": "68612023a186c88d900143c918fae7923b479c78fc90e1c070f00d02e0c482f2"
+    },
+    {
+      "name": "Fryno",
+      "sha": "7a26750d41c54fd1569a37f8ed33085e7953b05013c4d628ca03074c8d9b7d9d"
     }
   ]
 }
