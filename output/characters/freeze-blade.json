@@ -4,33 +4,366 @@
   "species": "Ice Feline",
   "gender": "Male",
   "element": "Water",
+  "role": "SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
     "Skylanders: Lost Islands",
     "Skylanders: Trap Team",
     "Rift into Overdrive",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Frozen Wastelands of Vesh (originally)",
     "Great Lava Lakes"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "When he was young, Freeze Blade's family moved from the Frozen Wastelands of Vesh to the Great Lava Lakes. As it turned out, this was a very difficult adjustment for Freeze Blade. Not only was he the sole one of his kind, it was also incredibly hot and there was no ice to skate on whatsoever. But over the years, he learned to fit in with the other fire-like creatures and even discovered he had a magical ability to ice skate on any surface... even bubbling lava. One day, while out setting a new frozen lava speed record, he came across Blast Zone , who had just been ambushed by some nasty Spell Punks . After Freeze Blade stepped in to defend him, Blast Zone was so impressed by his skill in battle that he introduced him to Master Eon , who invited him to join the Skylanders.",
-  "personality": "Freeze Blade slides into action without a thought of his own personal safety. He's always on the move, not one to stay in one place for long. He is known for making friends easily. Bullies, however, leave him cold. &#91; 3 &#93;",
-  "story": null,
+  "description": "Freeze Blade is a feline ice skater who is one of the SWAP Force Skylanders in Skylanders: Swap Force. He is of the Water element.",
+  "biography": "When he was young, Freeze Blade's family moved from the Frozen Wastelands of Vesh to the Great Lava Lakes. As it turned out, this was a very difficult adjustment for Freeze Blade. Not only was he the sole one of his kind, it was also incredibly hot and there was no ice to skate on whatsoever. But over the years, he learned to fit in with the other fire-like creatures and even discovered he had a magical ability to ice skate on any surface... even bubbling lava. One day, while out setting a new frozen lava speed record, he came across Blast Zone, who had just been ambushed by some nasty Spell Punks. After Freeze Blade stepped in to defend him, Blast Zone was so impressed by his skill in battle that he introduced him to Master Eon, who invited him to join the Skylanders.",
+  "quote": "Keeping It Cool!",
+  "personality": "Freeze Blade slides into action without a thought of his own personal safety. He's always on the move, not one to stay in one place for long. He is known for making friends easily. Bullies, however, leave him cold.",
+  "story": [
+    {
+      "story_name": "Development",
+      "content": "Freeze Blade was originally conceived as a blue-skinned Kangarat with icy hair, an animal's snout, and an icy tail. His weapon was a triple-bladed disk attached to a long, whip-like rope. Alternate concepts depict him with a unicorn horn, a scarf, or a magelike hood.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Personality",
+      "content": "Freeze Blade slides into action without a thought of his own personal safety. He's always on the move, not one to stay in one place for long. He is known for making friends easily. Bullies, however, leave him cold.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "When he was young, Freeze Blade's family moved from the Frozen Wastelands of Vesh to the Great Lava Lakes. As it turned out, this was a very difficult adjustment for Freeze Blade. Not only was he the sole one of his kind, it was also incredibly hot and there was no ice to skate on whatsoever. But over the years, he learned to fit in with the other fire-like creatures and even discovered he had a magical ability to ice skate on any surface... even bubbling lava. One day, while out setting a new frozen lava speed record, he came across Blast Zone, who had just been ambushed by some nasty Spell Punks. After Freeze Blade stepped in to defend him, Blast Zone was so impressed by his skill in battle that he introduced him to Master Eon, who invited him to join the Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Keeping It Cool!",
+        "The thrill of the chill!",
+        "Ooh, a cool place to chill out!",
+        "Licensed to chill!",
+        "Speeding through!",
+        "Icing on the cake!",
+        "Cold hard cash!",
+        "Put the freeze on you!",
+        "Ice and slice!",
+        "Another score!",
+        "Skating on!",
+        "Frosty!",
+        "Power play!",
+        "Cold blast!",
+        "A cut above the rest!",
+        "Getting better with practice!",
+        "SNOW-CAPPED!",
+        "I have goosebumps, SERIOUSLY!",
+        "A very cool name!",
+        "Sounds like a winner!"
+      ]
+    },
+    {
+      "quote_type": "Media Quotes",
+      "content": [
+        "Chill out, Night Shift. I got this. He can get a litte cranky.",
+        "See? That's why I like Night Shift. I mean, who talks like that anymore? He's so old-school.",
+        "But sometimes I think he's just taken one too many shots to the head-ski. Watch this."
+      ]
+    }
+  ],
+  "trivia": [
+    "Freeze Blade is one of many SWAP Force Skylanders that don't have pupils, the others include Trap Shadow, Stink Bomb, Free Ranger, and Night Shift. It is unknown whether his goggles are transparent or not.",
+    "He is the third Water Skylander with ice powers while Slam Bam is the first and Chill is the second. This was then followed by King Pen, who became the fourth one.",
+    "In early trailers of Skylanders Swap Force, Freeze Blade's mask is blue instead of dark purple.",
+    "Freeze Blade appeared in several beginning trailers for Swap Force, yet he was only released at a later date.",
+    "Freeze Blade might be ambidextrous, since even though he holds his chakram in his right hand, in Night Shift's Short Cut, he is able to tap the bell with the hammer using his left hand.",
+    "Freeze Blade's battle cry, 'Licensed to chill!' is similar to Drill Sergeant's catchphrase 'Licensed to Drill'.",
+    "He is currently the only SWAP Force Skylander to skate. However, Roller Brawl also skates, but in a different way since she uses roller blades.",
+    "He and Chill Bill share the following qualities: Both are Water-elemental and both possess ice-based attacks.",
+    "In Trap Team, when he performs 'Frostcicle', enemies do not appear to be encased in ice, but do wind up frozen for a few seconds. The same goes for his second upper path, 'Ice Sculptor.'",
+    "He is the only Water Skylander originally from Swap Force who has no primary traits originally from the scrapped Skylander, Krayken.",
+    "Freeze Blade has multiple similarities to Tundra Man from Mega Man 11. Both are ice manipulators that have ice coating their bodies and even icy hair, primarily move through ice skating, and have the ability to move at high speeds."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Freeze Blade (Keeping It Cool)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Freeze_Blade_(Keeping_It_Cool)"
+    },
+    {
+      "name": "Skylanders Swap Force - Freeze Blade Soul Gem Preview (Keeping It Cool)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Freeze_Blade_Soul_Gem_Preview_(Keeping_It_Cool)"
+    },
+    {
+      "name": "Meet the SWAP Force Freeze Blade",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_SWAP_Force_Freeze_Blade"
+    }
+  ],
+  "gameplay": "Freeze Blade is a high-speed fighter who utilizes icy chakrams for ranged combat and his unique skating abilities for mobility. He is capable of skating on any surface, including lava, and can dash through enemies, leaving damaging trails of ice in his wake. In Skylanders: Ring of Heroes, he serves as an attacker who can inflict the Freeze Effect on enemies and deal bonus damage to frozen targets.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Freeze_Blade",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Chakram Throw",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/da/Freeze_Bladetopprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506184709",
+        "content": "Press Attack 1 to throw an icy chakram.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Speedy Skate",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/28/Freeze_Bladebottomprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506184759",
+        "content": "Press Attack 2 to dash forward a short distance and damage enemies in the way.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Frostcicle",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/90/Freeze_Bladetopbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506184728",
+        "content": "Press Attack 3 to fire a shard of ice that freezes enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 300,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Icicles",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e9/Freeze_Bladetopbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506184731",
+        "content": "Chakram gains a new layer of ice, making attacks do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Frigid Whirl",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/87/Freeze_Bladetopbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506184738",
+        "content": "Press Attack 1 to charge the chakram, then release to throw it.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Ice Trail",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/26/Freeze_Bladebottombasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506184805",
+        "content": "Dashing leaves behind a trail of ice that slows enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 300,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Glacial Coat",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/24/Freeze_Bladebottombasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506184811",
+        "content": "Armor increased. As tough as a glacier!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Bladed Butterfly",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d9/Freeze_Bladebottombasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506184815",
+        "content": "Hold Attack 2 to perform a fancy skating trick that damages all enemies nearby.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Winter Chakram",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/Freeze_Bladetopsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506184748",
+        "content": "Chakram attacks have increased critical hit chance and do extra frost damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Iceberg Endurance",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Freeze_Bladebottomsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506184821",
+        "content": "Dashing does increased damage and does not stop when attacked.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Blizzard Blade",
+        "abilities": [
+          {
+            "name": "Shaved Ice",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Freeze_Bladetoppath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506185407",
+            "content": "Hold Attack 1 to charge the chakram, release to throw the chakram and shoot ice in every direction.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Whiteout",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Freeze_Bladetoppath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506185412",
+            "content": "Ice projectiles from Shaved Ice do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Ice Sculptor",
+        "abilities": [
+          {
+            "name": "Oh Snow!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Freeze_Bladetoppath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506185653",
+            "content": "Hold Attack 3 to charge Frostcicle, release to freeze an entire area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Ice To Meet You",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Freeze_Bladetoppath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506185659",
+            "content": "Frostcicle and Oh Snow! Do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Trail Freezer",
+        "abilities": [
+          {
+            "name": "Flash Freeze",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fa/Freeze_Bladebottompath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506185418",
+            "content": "Press Attack 2 to dash, dashing will now leave behind an ice trail that damages enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Nice Ice",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c6/Freeze_Bladebottompath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506185420",
+            "content": "Flash Freeze does increased damage. A nasty case of freezer burn!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Iced Skater",
+        "abilities": [
+          {
+            "name": "Penalty Frost",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/60/Freeze_Bladebottompath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506185704",
+            "content": "Press Attack 2 to knock back an enemy, wherever the knocked back enemy lands will cause a large freezing explosion.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Iced Skates",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b2/Freeze_Bladebottompath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506185710",
+            "content": "Penalty Frost does increased damage. Don't worry, this is not a typical sports penalty.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "freeze-blade",
       "variant_name": "Freeze Blade",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/a/a6/Freeze_Blade_Promo.jpg",
       "attacks": [
@@ -40,7 +373,28 @@
         "Ice Trail",
         "Shaved Ice"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 (max. 560)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "9 (max. 39)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Freeze_Blade"
     }
   ]
