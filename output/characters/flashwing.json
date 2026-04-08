@@ -1,29 +1,428 @@
 {
   "id": "flashwing",
   "name": "Flashwing",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
+  "species": "Crystal Dragon",
+  "gender": "Female",
+  "element": "Earth",
+  "role": "Core Skylander",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [
+    "Stump Smash Crosses the Bone Dragon (mentioned)",
+    "Return of the Dragon King",
+    "Rift into Overdrive",
+    "Unexpected Allies"
+  ],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Flashwing is crystal dragon with white scales and horns made of crystals. She also has a crystal embedded on her forehead, and her eyes are gray. She has a blue underbelly, and her wings were made out of purple and blue crystals while with her claws, feet and tail are purple.",
   "biography": "Flashwing's true origins are a mystery, but her first appearance came when Bash made a wish that he could fly and looked up to see a shooting star streak across the sky and into a valley below. In the centre of the glowing impact crater was a large, brilliant geode - which suddenly cracked open to reveal Flashwing. Bash may not have soared that day, but his heart sure did, because Flashwing was beautiful... and lethal. As soon as Bash stepped closer, the gem dragon turned towards him. Not knowing if he was friend or foe, she blasted him off of the cliff with a full force laser pulse from her tail! Perhaps Bash flew that day after all.",
-  "personality": "Flashwing knows just how beautiful she appears and also how deadly she can be. She often tries to steal the spotlight from her fellow Skylanders, but her kind heart always shines through in the end. &#91; 2 &#93;",
-  "story": null,
+  "quote": "Blinded by the Light!",
+  "personality": "Flashwing knows just how beautiful she appears and also how deadly she can be. She often tries to steal the spotlight from her fellow Skylanders, but her kind heart always shines through in the end.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "It's like the old song says, 'When you wish upon a star, you'll probably get blasted by lasers.' Well okay, those might not be the exact lyrics, but that's precisely what happened to Bash when he made a wish that he could fly. The moment he made the wish, a shooting star streaked across the sky and crash-landed not far from the awestruck rock dragon. When Bash went to investigate, he found a large precious stone which cracked open as he approached. Out popped the most incredible creature Bash had ever seen - a beautiful, blue and purple gem dragon named Flashwing. Bash immediately fell in love. Flashwing, on the other hand, couldn't tell if Bash was friend or foe, so - just to be on the safe side - she blasted him off a cliff. Since then, Flashwing has gone to be become a valuable member of the Skylanders, and although she has since said sorry to Bash, he's careful to keep his distance just in case.",
+      "hasImage": false,
+      "imgPath": "none"
+    },
+    {
+      "story_name": "Stump Smash Crosses the Bone Dragon",
+      "content": "Flashwing and Scratch were assigned by Spyro to search for Master Eon at Molekin Mine when the old Portal Master was kidnapped by Squirmgrub, who was an agent of Kaos. However, without a Portal Master to operate the Portals, it took long for the two Skylanders to reach their destination.",
+      "hasImage": false,
+      "imgPath": "none"
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "Flashwing was one of the forty Skylanders that were summoned to stop Malefor from attacking the Skylanders Academy. Under Blades' command, she and the other aerial dragons charged towards Malefor to attack his eyes, but were all swiftly shot down by the evil dragon's powerful flamethrower. Flashwing's powers were then absorbed by Malefor when he defeated the other Skylanders with a single strike of his tail. When Spyro, Cynder and Hex destroyed the crystal Malefor used to steal Skylander powers; the act restored all of the Skylanders' strength and abilities, including Flashwing's.",
+      "hasImage": false,
+      "imgPath": "none"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Flawless!",
+        "Blinded by the Light!",
+        "Outshining the rest!",
+        "A shining success!",
+        "Perfect success!",
+        "Yes!",
+        "Brilliant!",
+        "Precious!",
+        "Crystal power!",
+        "A shining victory!",
+        "My time to shine!",
+        "Time to shine!",
+        "All that glitters!",
+        "Got the edge!",
+        "Oh Yeah!",
+        "Yeah!",
+        "Perfect!",
+        "Power perfected!",
+        "Mesmerizing, like me!",
+        "What have we here?",
+        "Shining through!",
+        "Make way!",
+        "Whoa!",
+        "Rising up!",
+        "I'm sure everyone will know it's still me!",
+        "My beauty is eternal, even with this hat!",
+        "A regal name indeed!",
+        "A name be fitting me!"
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Here in a flash!",
+        "On the cutting edge!",
+        "A brilliant choice!",
+        "Light the way!",
+        "Rise and shine!",
+        "Blinded by the light!",
+        "Ready to go!",
+        "Time to shine!",
+        "Break time!",
+        "I will return.",
+        "My future is bright!",
+        "Getting stronger!",
+        "Flashy!",
+        "I'll take it.",
+        "Magnificent!",
+        "Illuminating!",
+        "Brilliant!",
+        "Splendid!",
+        "What goes around, comes around!",
+        "Time to reflect!",
+        "See the light!",
+        "Showtime!",
+        "Scaling up!",
+        "Shining armor!",
+        "Tipping the scales!",
+        "Feeling plucky!",
+        "A supreme beam!",
+        "Feel my power!",
+        "Out like a light!",
+        "Crystal power!",
+        "Not my finest moment...",
+        "An unfortunate turn...",
+        "Lost my edge...!",
+        "A flash in the pan.",
+        "Outshining the rest!",
+        "A clear-cut victory!",
+        "Hey, watch the crystals.",
+        "Pardon?",
+        "You break it,you buy it...",
+        "You're dulling my shine!",
+        "I'm here!",
+        "Yes...?",
+        "My power grows!",
+        "Looking sharp!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Flashwing is voiced by Tara Strong, who also voices Bubbles from The Powerpuff Girls, Timmy Turner and Poof from The Fairly OddParents, Raven from Teen Titans and Teen Titans Go!, Twilight Sparkle from My Little Pony: Friendship is Magic and Iggy 'Hop' Koopa in Super Mario World. Strong also voices Coco Bandicoot in the Academy TV series spin off.",
+    "She also bears a resemblance to Rarity from My Little Pony: Friendship is Magic. Both have a white/blue/purple color scheme, are vain yet ultimately kindhearted and heroic, are the target of a dragon's romantic affections (Spike and Bash, respectively), and Rarity's Equestria Girls counterpart is capable of manipulating crystals like Flashwing can.",
+    "Flashwing's placeholder name was Gem Dragon.",
+    "Flashwing once arranged a beauty contest that was open to male and female Skylanders alike. However, as well as entering the contest, she appointed herself as judge. Needless to say, she didn't just take first place... she took second and third too!",
+    "Like Sunburn, Spotlight, Blackout, Scratch and Blades, despite having wings, she is unable to fly in-game. However, in the 3DS version of Skylanders: Giants, she can glide short distances - this replaces her spin attack.",
+    "She, Whirlwind, Cynder, Echo, and Spotlight are currently the only five female dragons in the series. They are also the only dragons who don't have visible teeth.",
+    "She is the first female Earth Skylander in the series (with the second being Head Rush and the third being Barbella).",
+    "She and Prism Break are the only two Skylanders who attack with crystals.",
+    "In her original prototype photo for her toy form, she is shown to have yellow claws and blue feet. In the final version, her claws and feet are purple.",
+    "She is the only dragon Skylander in the Giants lineup.",
+    "Despite having blue eyes in both artwork and the game, Flashwing's figure, both Series 1 and LightCore versions, lack blue irises in her eyes.",
+    "Flashwing is also the first dragon to be in an element with another (with the other being Bash).",
+    "She is also the first dragon Skylander who did not appeared in Spyro's Adventure.",
+    "Her powers resemble those of Diamondhead and Chromastone from the Ben 10 franchise.",
+    "Her catchphrase is a reference to the song, 'Blinded by the Light' by Manfred Mann.",
+    "There is a glitch in The Oracle level in Skylanders: Giants where she walks differently.",
+    "Her appearance and attacks are similar to Spotlight, who is also a dragon that uses light-based abilities.",
+    "Although not a bird herself, Flashwing is able to access the Bird House in Skylanders: Lost Islands."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Giants - Meet the Skylanders - Flashwing (Blinded By The Light)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Flashwing_(Blinded_By_The_Light)"
+    },
+    {
+      "name": "Skylanders Giants - Flashwing's Soul Gem Preview (Blinded by the Light)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Flashwing%27s_Soul_Gem_Preview_(Blinded_by_the_Light)"
+    },
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - LightCore Flashwing (Blinded by the Light)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_LightCore_Flashwing_(Blinded_by_the_Light)"
+    }
+  ],
+  "gameplay": "Flashwing can shoot crystal shards out of her body and use their reflections as powerful beams, as well as summon a crystalline 'lighthouse' out of the ground. In Skylanders: Battlecast, she can also control the crystals in various ways including the ones used for spellcasting, such as creating shields, a protective crust around her wings and body, rays that return damage dealt to her, and Skylithium scales out of her body that can be used for more spell energy. Her Special Ability is Shield Lattice, and her signature Gear is the Dragon's Circlet, which helps her with additional damage.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Flashwing",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Crystal Shards",
+        "imgPath": "Flashwingprimarypower.png",
+        "content": "Press Attack 1 to fire Crystal Shards.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Shimmering Spin",
+        "imgPath": "Flashwingsecondarypower.png",
+        "content": "Hold Attack 2 to spin around and damage anything in Flashwing's path.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Surrounded By Shards",
+        "imgPath": "Flashwingbasicupgrade1.png",
+        "content": "Press Attack 3 to fire Crystal Shards in all directions but forward.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Luminous Lasers",
+        "imgPath": "Flashwingbasicupgrade2.png",
+        "content": "Hold Attack 1 to charge up a powerful laser shot.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Light Speed Lasers",
+        "imgPath": "Flashwingbasicupgrade3.png",
+        "content": "Shoot Crystal Shards much faster and deal extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Armored Aura",
+        "imgPath": "Flashwingbasicupgrade4.png",
+        "content": "Condensed light increases your armor.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Crystal Lighthouse",
+        "imgPath": "Flashwingsoulgempower.png",
+        "content": "Hold Attack 3 to create a Crystal Lighthouse that fires laser light beams.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Super Shards",
+        "abilities": [
+          {
+            "name": "Shooting Shards",
+            "imgPath": "Flashwingpath1upgrade1.png",
+            "content": "Crystal Shards stick in walls and shoot their own crystals when Attack 1 is pressed again.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Crystal Craziness",
+            "imgPath": "Flashwingpath1upgrade2.png",
+            "content": "Up to three crystals stick in walls and shoot their own crystals when Attack 1 is pressed again.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Healing Crystals",
+            "imgPath": "Flashwingpath1upgrade3.png",
+            "content": "Crystals embedded in a wall heal Flashwing when she is close.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Super Spinner",
+        "abilities": [
+          {
+            "name": "Extra Radiant Rotation",
+            "imgPath": "Flashwingpath2upgrade1.png",
+            "content": "Shimmering Spin lasts longer and does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Reflection Deflection",
+            "imgPath": "Flashwingpath2upgrade2.png",
+            "content": "Get extra armor and deflect enemies' shots back at them while spinning.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Light, Crystal, Action!",
+            "imgPath": "Flashwingpath2upgrade3.png",
+            "content": "While spinning, press Attack 1 to shoot beams of laser light.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "flashwing",
+      "id": "flashwing_s1",
       "variant_name": "Flashwing",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
+      "type": "Core",
+      "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Earth_Flashwing.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Crystal Shards",
+        "Shimmering Spin",
+        "Surrounded by Shards",
+        "Luminous Lasers",
+        "Light Speed Lasers"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260 (max. 520)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "10 (max. 60)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "39 (max. 89)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Flashwing"
+    },
+    {
+      "id": "flashwing_lc",
+      "variant_name": "LightCore Flashwing",
+      "edition": "LightCore Series 1",
+      "type": "LightCore",
+      "game": "Skylanders: Giants/Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Lightcoreflash.jpg",
+      "attacks": [
+        "Crystal Shards",
+        "Shimmering Spin",
+        "Surrounded by Shards",
+        "Luminous Lasers",
+        "Light Speed Lasers"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260 (max. 520)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "2 (max. 52)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Flashwing"
     }
   ]
