@@ -4,6 +4,7 @@
   "species": "Elf",
   "gender": "Male",
   "element": "Fire",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -16,24 +17,318 @@
     "Stump Smash Crosses the Bone Dragon",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators",
-    "Skylanders: Ring of Heroes}}"
+    "Skylanders: Ring of Heroes"
   ],
-  "cameos": "*Return of the Dragon King *Rift into Overdrive",
+  "cameos": [
+    "Return of the Dragon King",
+    "Rift into Overdrive"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Flameslinger is an Elven archer with incredible aim. In fact, he is so good that he wears a blindfold just to prove it. When he was young, he rescued a fire spirit from a watery doom and was gifted an enchanted bow and magical fire boots that he now masterfully uses to defeat evil throughout Skylands . With the scorched earth he leaves behind, you can always tell where he has been.",
+  "description": "Flameslinger is an elf archer Skylander in Skylanders: Spyro's Adventure. He is of the Fire element.",
+  "biography": "Flameslinger is an Elven archer with incredible aim. In fact, he is so good that he wears a blindfold just to prove it. When he was young, he rescued a fire spirit from a watery doom and was gifted an enchanted bow and magical fire boots that he now masterfully uses to defeat evil throughout Skylands. With the scorched earth he leaves behind, you can always tell where he has been.",
+  "quote": "Let the Flames Begin!",
   "personality": "Flameslinger is an elf who has the impression of being a show-off, having put on a blindfold to prove that he is an excellent archer with incredible aim. Despite this cocky image, he possesses a courageous heart, having saved a fire spirit from a watery fate when he was young.",
-  "story": null,
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Elves are often said to have a sparkle in their eyes, but Flameslinger was born with an entire bonfire. And the fire in Flameslinger's eyes was more than just a handy way of heating the house. It gave the young elf the mystical ability to see incredible faraway places. Wherever fiery flames exist, this remarkable elf can use them as an extension of his very own eyes. Flameslinger soon became the talk of the town, and the neighboring town, and the town three towns over. But he soon tired of visiting rubberneckers. He wrapped his eyes in a blindfold and slunk stealthily off into the forest. Here, he would practice blindfolded archery by bullseyeing Bomb Fiends with his bow. Then one day in his mind's eye he saw a drowning fire spirit in a nearby pond. Quicker than wildfire, Flameslinger sprinted to the struggling spirit and saved him from a watery grave. A fiery friendship was instantly formed and the spirit gave Flameslinger two gifts - magic fire boots for lightning quick speed and an enchanted bow that shoots flaming arrows. Soon, Flameslinger was back in the public eye, holding blindfolded archery tournaments and winning every time. His performance caught the eye of a certain special spectator, Master Eon, and the rest... well, the rest was Skylands history!",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Stump Smash Crosses the Bone Dragon",
+      "content": "Under Spyro's orders, Flameslinger was assigned with Wrecking Ball to accompany Stump Smash to the Giggling Forest to investigate its sudden change in behavior. When they discovered Glumshanks half petrified, they came under attack by a Bone Dragon. Flameslinger volunteered to distract the angry beast while the others carried Glumshanks to Flynn's air balloon, but the elf archer had his bow turned to stone. The escape attempt failed when the Bone Dragon petrified Flynn's air balloon, leaving the Skylanders open for attack. Before the Bone Dragon can finish them off, the beast was driven away by Wrecking Ball's belch attack, allowing the Skylanders to safely send a distress signal which was noticed by Lightning Rod.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "Flameslinger was among the forty Skylanders to fight against Malefor, he along with several other Skylanders were part of the artillery unit, under Buzz's orders they fired at the Malefor, which had no effect. The Dragon King then destroyed most of the Academy, leaving Flameslinger and many other Skylanders unconscious, and had their powers stolen by Malefor.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Let the Flames Begin!",
+        "Ready, aim, fire!",
+        "Feel my fiery rage!",
+        "I aim the flame!",
+        "Bow to my bow!",
+        "I almost let you win, but no!",
+        "You're in the line of fire! Mine!",
+        "Looks like you learned the burn!",
+        "I kept my eyes on the prize!",
+        "Bullseye!",
+        "A scorching success!",
+        "A fine achievement.",
+        "I am the flame!",
+        "Get to go!",
+        "Here I go!",
+        "Fire away!",
+        "Feel the burn!",
+        "Captain Flame!",
+        "Woo hoo!",
+        "Blazing a path!",
+        "Firing through!",
+        "Finders keepers",
+        "I declare this treasure mine.",
+        "Interesting place, let's explore!",
+        "Truly inspiring!",
+        "I am blind and lethal!",
+        "This would go nice with my blindfold!",
+        "How does this look? I can't see!",
+        "I can really warm-up to this name.",
+        "You have excellent taste!"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "No way!"
+      ]
+    }
+  ],
+  "trivia": [
+    "In the Skylanders: Giants debut trailer, Flameslinger wears a yellow blindfold under his red blindfold.",
+    "His official catchphrase is a play on the phrase 'Let The Games Begin'.",
+    "He is similar to Katniss Everdeen in the Hunger Games. Both are archers who are associated with fire.",
+    "He also wears his blindfold because he grew sick of people staring at the strange, supernatural flames that have flickered behind his eyes since birth.",
+    "In his toy forms and artworks, his bow has no string. It can be seen in games except Spyro's Adventure and Giants, contradicting the toys and artwork.",
+    "Flameslinger and Stealth Elf have much in common - They are both green-skinned Elves of similar stature that debuted in Skylanders: Spyro's Adventure, they both cover a portion of their face (Flameslinger's eyes and Stealth Elf's mouth), both have an emphasis on speed and utilise an attack to move around quickly, and both use more traditional weaponry: a bow & arrows and daggers respectively.",
+    "There is a shoulder strap for the quiver in his toy forms and artworks, while it cannot be seen in-game.",
+    "If you purchase Searing Arrows upgrade, his bow will be colored red and given more sharpened designs.",
+    "He speaks in a French accent.",
+    "Series 2 Flameslinger has the Volley Shot upgrade with the toy, already upgraded.",
+    "His Series 2 remake of Golden Flameslinger appears more orange-colored than gold.",
+    "Flameslinger is one of the six elven Skylanders (the others being Hex, Ninjini, Fright Rider, Stealth Elf, and Bushwhack.",
+    "Flameslinger, Enigma, and Blaster-Tron are the only three Skylanders without visible eyes.",
+    "He is voiced by Keith Szarabajka, who voices Ironhide in Transformers: War for Cybertron and Laserbeak in Transformers: Dark of the Moon.",
+    "Flameslinger is the first Skylander to have archery skills, the second is Snap Shot, followed by Wolfgang, Buckshot, Ro-Bow and all of the Bowslinger class of Imaginators.",
+    "His head is a customization item for Skylanders: Imaginators and named No Sight No Problem.",
+    "Although he was absent in the 1.0 version of the game, Flameslinger did not appear nor was released until the reboot of Skylanders: Ring of Heroes after the release of Boom Bloom's episode dungeon.",
+    "In Skylanders: Swap Force, Flameslinger can use his Flame Dash even while falling, leaving a trail of flames in the air."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Flameslinger (extended)",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Flameslinger_(extended)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Flameslinger Trailer (Let the Flames Begin)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Spyro%27s_Adventure_-_Flameslinger_Trailer_(Let_the_Flames_Begin)"
+    },
+    {
+      "name": "Meet the Skylanders Series 2 Flameslinger",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Series_2_Flameslinger"
+    }
+  ],
+  "gameplay": "Flameslinger has the ability to infuse his arrows in flames and launch them at his enemies with his enchanted bow. His magic boots allow him to run at incredible speeds, and leave a trail of fire behind him. When he circles around an enemy while leaving a trail of flames, a torrent of fire erupts around the enemy, burning them. Choosing the Marksman path further increases Flameslinger's capabilities with his Bow and Arrow. His Hellfire Arrows upgrade increases the damage output of the arrows, Explosive Arrows damage nearby enemies rather than just a single enemy, and Triple Shot Arrows increase the range of fire. Choosing the Pyromancer path gives Flameslinger more abilities in ways of indirect damage and trickery. The Napalm Tipped Arrows upgrade is a good way to set chaos among the field of battle, setting fire wherever Flameslinger's arrows land. His Inferno Blast is good for the first strike but not necessarily great in the heat of battle. The Supernova upgrade is excellent for its ability to wipe out surrounding enemies that are far apart.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Flameslinger",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Fire Arrow",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/90/Flameslingerprimarypower.png/revision/latest?cb=20120418195546",
+        "content": "Shoot flaming arrows at your enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Flame Dash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Flameslingersecondarypower.png/revision/latest?cb=20120418195617",
+        "content": "Dash forward, leaving a flaming path of destruction behind.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Searing Arrow",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Flameslingerbasicupgrade1.png/revision/latest?cb=20120418195656",
+        "content": "Fire Arrows do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Column of Fire",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/32/Flameslingerbasicupgrade2.png/revision/latest?cb=20120418195733",
+        "content": "Draw a circle with the Flame Dash to create a fire column. Flame Dash does extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Volley Shot",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a9/Flameslingerbasicupgrade3.png/revision/latest?cb=20120418195915",
+        "content": "Fire Flaming Arrow Rain down on your enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Hyper Shot",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fd/Flameslingerbasicupgrade4.png/revision/latest?cb=20120418195943",
+        "content": "Shoot Fire Arrows much faster.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Super Volley Shot",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/34/Flameslingersoulgempower.png/revision/latest?cb=20120418200322",
+        "content": "Flaming Arrow Rain shoots more arrows that covers more area",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Speed Demon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/Flameslingerwowpowpower.png/revision/latest?cb=20160724124710",
+        "content": "While dashing, press Attack 1 to run even faster and leave a new flame trail.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Marksman",
+        "abilities": [
+          {
+            "name": "Hellfire Arrows",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/98/Flameslingerpath1upgrade1.png/revision/latest?cb=20120418200014",
+            "content": "Fire Arrows and Flaming Arrow Rain do even more increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Explosive Arrows",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Flameslingerpath1upgrade2.png/revision/latest?cb=20120418200041",
+            "content": "Fire Arrows explode, doing damage to anything nearby.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Triple Shot Arrows",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/75/Flameslingerpath1upgrade3.png/revision/latest?cb=20120418200134",
+            "content": "Shoot 3 Fire Arrows at a time.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Pyromancer",
+        "abilities": [
+          {
+            "name": "Napalm Tipped Arrows",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/35/Flameslingerpath2upgrade1.png/revision/latest?cb=20120418200207",
+            "content": "Fire Arrows leave behind a burning patch, damaging enemies that touch it.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Inferno Blast",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/47/Flameslingerpath2upgrade2.png/revision/latest?cb=20120418200230",
+            "content": "Hold the primary button to charge a flaming Inferno attack, then release to fire it.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Supernova",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/89/Flameslingerpath2upgrade3.png/revision/latest?cb=20120418200300",
+            "content": "Drawing a circle with the Flame Dash causes fire to spread out, doing more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "flameslinger",
+      "id": "flameslinger-s1",
       "variant_name": "Flameslinger",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core Skylander",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/0/06/Sky_flameslinger.jpg",
       "attacks": [
@@ -43,7 +338,98 @@
         "Firestorm",
         "Inferno Blast"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "250/500"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50/98"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24/54"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40/90"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "39/89"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "25"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "80"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Flameslinger"
+    },
+    {
+      "id": "flameslinger-s2",
+      "variant_name": "Flameslinger",
+      "edition": "Series 2",
+      "type": "Core Skylander",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/42/Series_2_Flameslinger_Promo.jpg",
+      "attacks": [
+        "Flaming Arrows",
+        "Fire Dash",
+        "Searing Arrows",
+        "Firestorm",
+        "Inferno Blast"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "00/0"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "00/48"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "00/30"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "00/50"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "00/50"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "80"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Flameslinger"
     }
   ]
