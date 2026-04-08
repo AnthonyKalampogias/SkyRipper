@@ -4,30 +4,51 @@
   "species": "Skeletal Dog",
   "gender": "Male",
   "element": "Undead",
-  "primary_game": "Skylanders: Lost Islands(March 2015)",
+  "role": "Skylander",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Punch Line Island"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Fortune Funny Bone is the St. Patrick's Day counterpart of Funny Bone in Skylanders: Lost Islands. He is available on March 2015.",
+  "biography": "Fortune Funny Bone is the St. Patrick's Day counterpart of Funny Bone in Skylanders: Lost Islands. He is available on March 2015.",
+  "quote": "Glimpse the gleam of gold with Fortune Funny Bone!",
+  "personality": "",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Description",
+      "content": [
+        "Glimpse the gleam of gold with Fortune Funny Bone!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the second St. Patrick's day counterpart in Lost Islands (the first being Lucky Boomer)."
+  ],
+  "trailers": [],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Fortune_Funny_Bone",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "fortune-funny-bone",
       "variant_name": "Fortune Funny Bone",
       "edition": "Series 1",
       "type": "Core",
-      "game": "Skylanders: Lost Islands(March 2015)",
+      "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/46/Fortune_Funny_Bone_PNG.png/revision/latest?cb=20201208110129",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Fortune_Funny_Bone"
     }
   ]
