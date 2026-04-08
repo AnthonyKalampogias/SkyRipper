@@ -4,21 +4,275 @@
   "species": "Fire Wolf",
   "gender": "Male",
   "element": "Fire",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Flare Wolf is a Fire wolf and one of the Senseis in Skylanders: Imaginators. He trains Imaginators of the Bazooker Battle Class.",
   "biography": "When Flare Wolf was young, he worked all summer to earn the coveted Fireworks Badge from the Wolf Scouts. In doing so, he had earned the right to light the fireworks in the annual St. Wigglewort's Day celebration - an honor of which Flare Wolf was extremely proud. But on the day of the celebration, a band of evil Ice Ogres attacked his village and took the entire community hostage! The only weapons at his disposal were the town's supply of fireworks they were saving for the evening festivities. One by one, Flare Wolf lit them in the center of the Ogre camp, launching a dazzling display of pyrotechnics that sent the Ogres running. Not only had Flare Wolf saved his village, he had also given its residents the most spectacular fireworks show they had seen in over 100 years! Even Master Eon was impressed, and offered Flare Wolf a position at the Academy as the Official Fireworks Launcher. But after seeing him in action, he quickly realized that Flare Wolf had much more to offer as a Sensei!",
-  "personality": null,
-  "story": null,
+  "quote": "Ready to Rocket!",
+  "personality": "Flare Wolf is a proud and heroic fire wolf who is extremely passionate about pyrotechnics. He is enthusiastic about his role as a Sensei and enjoys demonstrating his 'absolutely smoking hot' secret techniques to his students. Despite his explosive arsenal, he maintains a friendly and helpful demeanor toward Portal Masters.",
+  "story": [
+    {
+      "story_name": "Physical Traits",
+      "content": "Flare Wolf is a red fire wolf with a fiery mohawk and tail. He wears black armor, plus armbands and leggings, and the golden sensei belt tied around his waist. In one hand, he carries a golden bazooka patterned with a chinese dragon that houses a giant red firework.",
+      "hasImage": true,
+      "imgPath": "Flare_Wolf_Promo.jpg"
+    },
+    {
+      "story_name": "Biography",
+      "content": "When Flare Wolf was young, he worked all summer to earn the coveted Fireworks Badge from the Wolf Scouts. In doing so, he had earned the right to light the fireworks in the annual St. Wigglewort's Day celebration - an honor of which Flare Wolf was extremely proud. But on the day of the celebration, a band of evil Ice Ogres attacked his village and took the entire community hostage! The only weapons at his disposal were the town's supply of fireworks they were saving for the evening festivities. One by one, Flare Wolf lit them in the center of the Ogre camp, launching a dazzling display of pyrotechnics that sent the Ogres running. Not only had Flare Wolf saved his village, he had also given its residents the most spectacular fireworks show they had seen in over 100 years! Even Master Eon was impressed, and offered Flare Wolf a position at the Academy as the Official Fireworks Launcher. But after seeing him in action, he quickly realized that Flare Wolf had much more to offer as a Sensei!",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Ready to Rocket!",
+        "Woah, a Portal Master! That is so cool! Nice to meet ya! I look forward to training your Imaginators!",
+        "And oh yeah, and I've got this Bazooker Class Secret Technique that is absolutely smoking hot!",
+        "Burnin' down the house, baby!",
+        "Foxy!",
+        "Excellent!",
+        "Overload!",
+        "This is so cool, I mean hot!",
+        "Kids, do NOT try this at home!",
+        "If you can't take the heat, get outta the battlefield!",
+        "Feel the burn, yeah!",
+        "Hunk of burnin' yeah!",
+        "Heat wave blowin' through!",
+        "Number of fires started: Too numerous to count! Ha-ha!",
+        "Who's HOT? I'm HOT!",
+        "Burn, baby, burn!",
+        "Ha ha, that was pretty cool!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Flare Wolf's name is a play on 'werewolf'.",
+    "When moving, Flare Wolf leaves behind a trail of flaming paw prints.",
+    "Flare Wolf is the second Fire canine in the series, the other being Hot Dog.",
+    "He is the fifth playable canine overall, after Funny Bone, Wolfgang and Slobber Trap.",
+    "Flare Wolf might have been a fox at some point in development, as his weapon is named the Fire Fox Bazooka. He still has a few traits of a fox, such as the short snout and reddish fur.",
+    "Fire Fox might be a reference to the Mozilla Firefox internet browser.",
+    "Flare Wolf is the second Fire Skylander to use fireworks as a weapon, the first being Fire Kraken.",
+    "He and the Chompy Mage are the only Bazooker Senseis.",
+    "Flare Wolf is the only Bazooker Sensei to not have previously been a villain.",
+    "One of Flare Wolf's quotes 'Hunk of burnin' yeah!' references to Elvis Presley's song Burning Love."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Imaginators - Flare Wolf Soul Gem Preview",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Imaginators_-_Flare_Wolf_Soul_Gem_Preview"
+    },
+    {
+      "name": "Official Skylanders Imaginators Meet Master Flare Wolf",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Imaginators_Meet_Master_Flare_Wolf"
+    }
+  ],
+  "gameplay": "Flare Wolf's weapon of choice is his rocket launcher, which he uses to launch fireworks at his enemies.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Flare_Wolf",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Rockets Away",
+        "imgPath": "Flare_Wolfprimarypower.png",
+        "content": "Press Attack 1 to fire exploding Rockets from your rocket launcher.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Ride the Rocket",
+        "imgPath": "Flare_Wolfsecondarypower.png",
+        "content": "Press Attack 2 to take a ride on your rocket launcher.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Loop De Loop",
+        "imgPath": "Flare_Wolfbasicupgrade1.png",
+        "content": "Rockets now do a Loop De Loop when holding Attack 1. Loop De Loop Rockets create a defensive fire trail around you and do more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Secret Weapon",
+        "imgPath": "Flare_Wolfbasicupgrade2.png",
+        "content": "Hold Attack 3 to discover a hidden flamethrower in your rocket launcher!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Trip to the Moon",
+        "imgPath": "Flare_Wolfbasicupgrade3.png",
+        "content": "Hold Attack 2 to launch yourself in the air and parachute down. Press Attack 1 to fire critical hit rockets down on your enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Firecrackers!",
+        "imgPath": "Flare_Wolfbasicupgrade4.png",
+        "content": "Rockets now drop firecrackers on enemies dealing damage over time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Flare in the Hole!",
+        "imgPath": "Flare_Wolfsoulgempower.png",
+        "content": "Jump and press Attack 3 to launch a massive rocket that detonates with flare! Hold Attack 3 and move around to aim your target.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "Quadruple the Power!",
+        "imgPath": "Flare_Wolfskychipower.png",
+        "content": "The ultimate Sensei attack! Hold Special Attack to amp up your forces with four rocket launchers continuously firing in any direction you choose!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "The Greatest Show in Skylands!",
+        "abilities": [
+          {
+            "name": "Roman Candle",
+            "imgPath": "Flare_Wolfpath1upgrade1.png",
+            "content": "Loop De Loop Rockets now explode into fireworks when they hit enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Sparklers",
+            "imgPath": "Flare_Wolfpath1upgrade2.png",
+            "content": "Riding the rocket now leaves a trail of explosive sparklers!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Flame and Shine",
+            "imgPath": "Flare_Wolfpath1upgrade3.png",
+            "content": "Taking a Trip to the Moon now rains down fireworks and fireballs. What a show!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Fun With Flames",
+        "abilities": [
+          {
+            "name": "Pyrotechnist",
+            "imgPath": "Flare_Wolfpath2upgrade1.png",
+            "content": "As you hold Attack 3 your flamethrower powers up and explodes with more flames!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Ringmaster",
+            "imgPath": "Flare_Wolfpath2upgrade2.png",
+            "content": "When using Loop De Loop you will fire three rockets instead of one.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Flame Spinner",
+            "imgPath": "Flare_Wolfpath2upgrade3.png",
+            "content": "If you continue to hold Attack 3, you and your flamethrower will start spinning.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "flare-wolf",
@@ -35,7 +289,28 @@
         "Pyrotechnist",
         "Secret Weapon"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "180"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "140"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "350"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "230"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Flare_Wolf"
     }
   ]
