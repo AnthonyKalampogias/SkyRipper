@@ -4,30 +4,71 @@
   "species": "Bambazooker",
   "gender": "Male",
   "element": "Life",
-  "primary_game": "Skylanders: Lost Islands (July 2013)",
+  "role": "Skylander",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Fireworks Zook has come to the Skylands in a blaze of glory!",
+  "biography": "Fireworks Zook is a Fourth of July version of Zook, only available on Skylanders: Lost Islands in the month of July 2013.",
+  "quote": "Locked and Loaded!",
+  "personality": "Like the standard Zook, Fireworks Zook is a dedicated and heroic warrior. He is always ready to defend his home, though he clearly enjoys the spectacle and explosive power of his festive firework-themed bamboo bazooka.",
+  "story": [
+    {
+      "story_name": "Lost Islands Festive Hero",
+      "content": "In the month of July 2013, Fireworks Zook appeared in the Skylanders: Lost Islands game as a special limited-time character to celebrate the festivities. He used his explosive personality and weaponry to help the residents of the Mabu islands.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Locked and Loaded!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Fireworks Zook is the first fireworks themed Skylander, followed by Fire Kraken and Flare Wolf.",
+    "He is the only fireworks themed Skylander exclusive to Skylanders: Lost Islands.",
+    "He was released as a promotional variant for the 4th of July."
+  ],
+  "trailers": [],
+  "gameplay": "In Skylanders: Lost Islands, Fireworks Zook acts as a playable character who can be sent on adventures, clear land, and interact with the various buildings on the player's island. His attacks and animations are aesthetically themed around fireworks instead of the standard fragmentation rounds used by Zook.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Fireworks_Zook",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "fireworks-zook",
+      "id": "fireworks-zook-variant",
       "variant_name": "Fireworks Zook",
-      "edition": "Series 1",
+      "edition": "Special Edition",
       "type": "Core",
-      "game": "Skylanders: Lost Islands (July 2013)",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Fireworks_Zook.jpg/revision/latest?cb=20131114032754",
-      "attacks": [],
-      "stats": null,
+      "game": "Skylanders: Lost Islands",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Fireworks_Zook.jpg",
+      "attacks": [
+        "Fireworks Shot"
+      ],
+      "stats": [
+        {
+          "stat_name": "Attack",
+          "stat_value": "High"
+        },
+        {
+          "stat_name": "Festivity",
+          "stat_value": "Maximum"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Fireworks_Zook"
     }
   ]
