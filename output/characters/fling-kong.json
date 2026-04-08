@@ -4,6 +4,7 @@
   "species": "Monkey",
   "gender": "Male",
   "element": "Air",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -13,16 +14,247 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "As a royal protector of the legendary monkey idol Kubla-Wa, Fling Kong trained seriously in the mysterious art of Monk-Ru, a form of fighting using the power of air. He was a devoted student, always the first to arrive to training and the last to leave. One day, a troop of foul-smelling, well-armed Gorilla-Goos appeared, led by the infamous General Snot. Snot had heard stories about the idol, particularly that it was made of solid gold. The villains quickly seized control of the temple that housed the idol and were on the verge of taking it. But suddenly the smelly gorillas found themselves face to face with Fling Kong – who attacked with the power of a true Monk-Ru master! Using his flying rug and powerful vortex discs, he expertly defeated the Gorilla-Goos and saved the idol. Soon after, word of his actions spread to Master Eon . Now a Skylander, Fling Kong knocks the wind out of evil throughout all of the Skylands!",
-  "personality": "Fling Kong is no stranger to battle, but he prefers a little life of peace. He is committed to his training and is willing to do whatever it takes to fight for what is right. &#91; 1 &#93;",
-  "story": null,
+  "description": "Fling Kong is a monkey who is one of the Air Core Skylanders in Skylanders: Trap Team.",
+  "biography": "As a royal protector of the legendary monkey idol Kubla-Wa, Fling Kong trained seriously in the mysterious art of Monk-Ru, a form of fighting using the power of air. He was a devoted student, always the first to arrive to training and the last to leave. One day, a troop of foul-smelling, well-armed Gorilla-Goos appeared, led by the infamous General Snot. Snot had heard stories about the idol, particularly that it was made of solid gold. The villains quickly seized control of the temple that housed the idol and were on the verge of taking it. But suddenly the smelly gorillas found themselves face to face with Fling Kong – who attacked with the power of a true Monk-Ru master! Using his flying rug and powerful vortex discs, he expertly defeated the Gorilla-Goos and saved the idol. Soon after, word of his actions spread to Master Eon. Now a Skylander, Fling Kong knocks the wind out of evil throughout all of the Skylands!",
+  "quote": "Monkey See, Monkey Doom!",
+  "personality": "Fling Kong is no stranger to battle, but he prefers a little life of peace. He is committed to his training and is willing to do whatever it takes to fight for what is right.",
+  "story": [
+    {
+      "story_name": "Champions",
+      "content": "Fling Kong, along with Fist Bump and Trail Blazer, were the final opponents in the Legendary Tournament. The trio of Skylanders mocked and discouraged Déjà Vu, who made it to the Finals, by claiming that she was out of their league and that the finals were only for Skylanders who can \"handle heavy combat\". As the final round began, Fling Kong teamed up with Fist Bump and Trail Blazer to defeat Déjà Vu, not wanting her to win so that they can be only ones left to battle for the champion title amongst themselves. In the end, all three Skylanders underestimated the Magic Skylander, who used exploding duplicates to surround Trail Blazer, Fist Bump and Fling Kong and knocked them out. Déjà Vu is crowned the new Legendary Champion, and Fling Kong apologized to her for his behavior along with Fist Bump and Trail Blazer.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/13/Trail_Fling_Fist_Comic2.jpg/revision/latest/scale-to-width-down/188?cb=20150108065900"
+    },
+    {
+      "story_name": "Rift into Overdrive",
+      "content": "Fling Kong, Head Rush and Stealth Elf were one of the Skylander teams that searched for Kaos after his escape from his Traptanium prison three months ago. Onboard Sharpfin's ship, they were ambushed by Dark Drow and nearly consumed by a rift created by Kaos's Sky Eater.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Monkey See, Monkey Doom!",
+        "Fling time!",
+        "The king of fling!",
+        "In it to win it!",
+        "Flying through!",
+        "No match for the monkey!",
+        "Can't wrong the Kong!",
+        "Insert disc!",
+        "Time for a spin!",
+        "Hitting a mark!",
+        "Power blast! - when leveling up",
+        "Monkey power! - when leveling up",
+        "This looks like real monkey business! - when checking stats",
+        "A totally wild look, even for me! - when wearing a hat"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the second simian Skylander (the first being Grilla Drilla and the third being Turbo Charge Donkey Kong). However, he is the only primate Skylander who is not a part of the Life element.",
+    "His name is a play on the movie character King Kong.",
+    "Fling Kong may also be a reference to Sun Wukong, the mischievous Monkey King in the famous novel Journey to the West. His Awakened Form in Skylanders: Ring of Heroes takes a direct nod to this.",
+    "His catchphrase is a play on \"Monkey see, monkey do\". This is shared with Mr. Chimes' taunt, another monkey-themed character from the indie game Cuphead.",
+    "Some of the helmets on Fling Kong's toy figures were oddly shipped out in the color pink."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Fling Kong",
+      "isValid": false,
+      "url": ""
+    },
+    {
+      "name": "Skylanders Trap Team - Fling Kong's Soul Gem Preview (Monkey See, Monkey Doom)",
+      "isValid": false,
+      "url": ""
+    }
+  ],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Fling_Kong",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Power Discs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/68/Fling_Kongprimarypower.png/revision/latest?cb=20170503151729",
+        "content": "Press Attack 1 to fling Power Discs.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Magic Carpet Dash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Fling_Kongsecondarypower.png/revision/latest?cb=20170503152406",
+        "content": "Press Attack 2 to dash forward and smash into enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Spiked!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Fling_Kongbasicupgrade1.png/revision/latest?cb=20170503152429",
+        "content": "Fact: Power Discs with spikes do more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Cymbal Crash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ac/Fling_Kongbasicupgrade2.png/revision/latest?cb=20170503152448",
+        "content": "Press Attack 3 to smash Power Discs together and create sound waves to damage nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Mad Dash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/81/Fling_Kongbasicupgrade3.png/revision/latest?cb=20170503152511",
+        "content": "Hold Attack 2 to charge up the Magic Carpet to do more damage and last longer.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "The Kong Klang",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Fling_Kongbasicupgrade4.png/revision/latest?cb=20170503152543",
+        "content": "Hold Attack 3 for a more powerful Cymbal Crash that also stuns enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Make It Rain!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Fling_Kongsoulgempower.png/revision/latest?cb=20170503152707",
+        "content": "Hold Attack 2 even longer and then release to fly into the air, unleashing a rain of Power Discs from above.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Disc Jockey",
+        "abilities": [
+          {
+            "name": "Trick Shot",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/73/Fling_Kongpath1upgrade1.png/revision/latest?cb=20170503153644",
+            "content": "Power Discs can go through enemies and bounce off walls.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Smash Hit",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/Fling_Kongpath1upgrade2.png/revision/latest?cb=20170503153728",
+            "content": "Do a Cymbal Crash toward the end of a Magic Carpet Dash for a super smash combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "A Toss-Up",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a7/Fling_Kongpath1upgrade3.png/revision/latest?cb=20170503153759",
+            "content": "Hold Attack 1 to charge up Power Discs for a massive overhead throw.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Carpet Captain",
+        "abilities": [
+          {
+            "name": "Smash 'N' Dash",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8a/Fling_Kongpath2upgrade1.png/revision/latest?cb=20170503154100",
+            "content": "Hitting an enemy with a Magic Carpet Dash makes the dash last longer.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Double Whammy",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Fling_Kongpath2upgrade2.png/revision/latest?cb=20170503154126",
+            "content": "Throw a Power Disc towards the end of a Magic Carpet Dash for a double-disc combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Shock Treatment",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/Fling_Kongpath2upgrade3.png/revision/latest?cb=20170503154149",
+            "content": "Leave a trail of electricity after a Magic Carpet Dash that damages enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "fling-kong",
@@ -38,7 +270,44 @@
         "Trick Shot",
         "Smash 'N' Dash"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "240 (max. 480)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 (max. 118)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "70 (max. 120)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "110"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Fling_Kong"
     }
   ]
