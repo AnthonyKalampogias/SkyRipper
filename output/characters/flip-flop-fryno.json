@@ -4,30 +4,56 @@
   "species": "Rhinoceros",
   "gender": "Male",
   "element": "Fire",
+  "role": "Skylander",
   "primary_game": "Skylanders: Lost Islands (August 2014)",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "'Get your sunblock out because Flip Flop Fryno is ready for the summer sun in Skylands!!'",
+  "biography": "Flip Flop Fryno is a summer variant of Fryno who appeared in Skylanders: Lost Islands in August 2014.",
+  "quote": "'Get your sunblock out because Flip Flop Fryno is ready for the summer sun in Skylands!!'",
+  "personality": "Flip Flop Fryno is ready for the summer sun in Skylands!!",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Flip Flop Fryno is a summer variant of Fryno who appeared in Skylanders: Lost Islands in August 2014.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Description",
+      "content": [
+        "'Get your sunblock out because Flip Flop Fryno is ready for the summer sun in Skylands!!'"
+      ]
+    }
+  ],
+  "trivia": [],
+  "trailers": [],
+  "gameplay": "Flip Flop Fryno is a summer variant of Fryno who appeared in Skylanders: Lost Islands.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Flip_Flop_Fryno",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "flip-flop-fryno",
       "variant_name": "Flip Flop Fryno",
-      "edition": "Series 1",
+      "edition": "Alter Ego",
       "type": "Core",
       "game": "Skylanders: Lost Islands (August 2014)",
       "image": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Flip_Flop_Fryno.jpg/revision/latest?cb=20140813024151",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Flip_Flop_Fryno"
     }
   ]
