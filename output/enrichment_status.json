@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-08T18:16:53.694Z",
+  "last_run": "2026-04-08T19:33:32.218Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -432,6 +432,66 @@
     {
       "name": "Eye-Small",
       "sha": "418b85ce42be6a8d304404791a33b5388799528b8ca9b5a09e29b2fedff96b0e"
+    },
+    {
+      "name": "Festive Edition Skylanders",
+      "sha": "893ab13fa1474c540caaf3bb2a81306d0e4d5e25fbff32fbc1f1305e4305049f"
+    },
+    {
+      "name": "Fiesta",
+      "sha": "fd2d55340365707662c33484e348b39aeca5395649ec87f659bba8ffa423e4ff"
+    },
+    {
+      "name": "Figures",
+      "sha": "3f94c0ab0f64d2c3e6b74f0a17f4655423b35da227d5d04062628b4cc09434bb"
+    },
+    {
+      "name": "Fire Dragon",
+      "sha": "e11cf41f071d74bb579b828c7467415c607db4791615719f96160b73d513dd8a"
+    },
+    {
+      "name": "Fire Kraken",
+      "sha": "75c0c306eb823975ddda9dea1c28b6797575d6c5530b05a9246bb94a5b99ab61"
+    },
+    {
+      "name": "Fireworks Zook",
+      "sha": "ebc96b4135e3e34dd027f5b674840d888465eecf3dcb2f903528784fe3239d71"
+    },
+    {
+      "name": "Fist Bump",
+      "sha": "ce823801da5821324769842b2dbfa88099da497ef9b184888bb8b611224d9ed5"
+    },
+    {
+      "name": "Flameslinger",
+      "sha": "1cddb1d4d9b4faeb16866a7d84c501cdb1949c52ff27505464b6f1b501a39554"
+    },
+    {
+      "name": "Flare Wolf",
+      "sha": "01989db03076ce91c437d69a72dc93cf70bd8ecdb8ee180bcddd86ba7e7bf2ca"
+    },
+    {
+      "name": "Flashwing",
+      "sha": "35e66a780dd3867a5559b9c30d83b43a65b09d0f6accc69ad601a899f2464e19"
+    },
+    {
+      "name": "Fling Kong",
+      "sha": "cf8acc20edd0f1c90dcb81c91c139a9cd3093d14f5e28197649e7609d92c0f64"
+    },
+    {
+      "name": "Flip Flop Fryno",
+      "sha": "2c8d1844e82e4d3244d4173300ecef926628c1e8025f747ff65e639f47424489"
+    },
+    {
+      "name": "Flip Wreck",
+      "sha": "68d549fc8dd424f0044070915f33b4de9c30b6dbabafad32c404f710b5b2633a"
+    },
+    {
+      "name": "Frosted Food Fight",
+      "sha": "a59e6a624b7201a69240fc61fabba4fce1de9574563395cc895e9986959f0384"
+    },
+    {
+      "name": "Fortune Funny Bone",
+      "sha": "67d251f97bb530452c605362b264ce22b087cfddc4c5b731d54505ad42c68f31"
     }
   ]
 }
