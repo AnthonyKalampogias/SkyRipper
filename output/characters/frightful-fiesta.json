@@ -4,21 +4,121 @@
   "species": "Skeleton",
   "gender": "Male",
   "element": "Undead",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Several Halloweens ago, the legendary Pumpkin Pixies challenged Fiesta and his mariachi band to a duel of music in the Land of the Undead . The Pixies began with a bone-chilling tune, but Fiesta immediately followed with a spooky song of his own. On and on they played, each song more haunting than the one before it. And soon, the entire pumpkin patch was dancing. What began as a challenge had turned into the party of the year! So impressed were the Pumpkin Pixies that they used their magic to make Fiesta an honorary pumpkin for that day – and every Halloween thereafter!",
-  "personality": null,
-  "story": null,
+  "description": "Frightful Fiesta is the Halloween counterpart of Fiesta in Skylanders: SuperChargers.",
+  "biography": "Several Halloweens ago, the legendary Pumpkin Pixies challenged Fiesta and his mariachi band to a duel of music in the Land of the Undead. The Pixies began with a bone-chilling tune, but Fiesta immediately followed with a spooky song of his own. On and on they played, each song more haunting than the one before it. And soon, the entire pumpkin patch was dancing. What began as a challenge had turned into the party of the year! So impressed were the Pumpkin Pixies that they used their magic to make Fiesta an honorary pumpkin for that day – and every Halloween thereafter!",
+  "quote": "It's Party Time!",
+  "personality": "Frightful Fiesta is a musically talented skeleton who enjoys turning any challenge, even a musical duel, into a grand party. His skill and festive nature are enough to impress even the legendary Pumpkin Pixies.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Several Halloweens ago, the legendary Pumpkin Pixies challenged Fiesta and his mariachi band to a duel of music in the Land of the Undead. The Pixies began with a bone-chilling tune, but Fiesta immediately followed with a spooky song of his own. On and on they played, each song more haunting than the one before it. And soon, the entire pumpkin patch was dancing. What began as a challenge had turned into the party of the year! So impressed were the Pumpkin Pixies that they used their magic to make Fiesta an honorary pumpkin for that day – and every Halloween thereafter!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Frightful_Fiesta_Promo.jpg/revision/latest?cb=20150917204235"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrases",
+      "content": [
+        "It's Party Time!"
+      ]
+    }
+  ],
+  "trivia": [
+    "The black part of Frightful Fiesta's mariachi outfit is much darker than his original counterpart's only as figures.",
+    "His outfit bears a resemblance to the marching band skeleton on the album cover of 'The Black Parade' by My Chemical Romance.",
+    "His Rift Engine is colored black with the Undead icon in orange to symbolize Halloween.",
+    "Interestingly, on his promotional image of his toy packaging, his Rift Engine is silver instead."
+  ],
+  "trailers": [
+    {
+      "name": "Frightful Fiesta",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Frightful_Fiesta"
+    }
+  ],
+  "gameplay": "In Skylanders: SuperChargers Racing, Frightful Fiesta utilizes stats for Top Speed, Acceleration, Handling, Firepower, and Armour. His standard Power Stats emphasize high Luck and Agility.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Frightful_Fiesta",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Trumpet Concord",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/UndeadSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223508",
+        "content": "Fiesta plays a haunting tune on his trumpet.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Amigos",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/UndeadSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223508",
+        "content": "Fiesta summons his mariachi band amigos to assist him.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Laid Low",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/UndeadSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223508",
+        "content": "Further enhances Fiesta's combat capabilities.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Take It Away Amigos!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/UndeadSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223508",
+        "content": "Fiesta's amigos take charge in the battle.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Diva",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/UndeadSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223508",
+        "content": "A powerful musical performance that dazzles enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "frightful-fiesta",
@@ -34,7 +134,24 @@
         "Take It Away Amigos!",
         "Diva"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "230"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "135"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "165"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "270"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Frightful_Fiesta"
     }
   ]
