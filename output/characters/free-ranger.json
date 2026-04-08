@@ -4,6 +4,7 @@
   "species": "Storm Chicken",
   "gender": "Male",
   "element": "Air",
+  "role": "SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -14,22 +15,338 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Return of the Dragon King",
+  "cameos": [
+    "Return of the Dragon King"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Free Ranger was hatched during a storm when a thunderous bolt of lightning struck his egg. From that very moment, his destiny was clear – he would become the greatest storm chaser ever known! He spent his entire life pursuing hurricanes, spinning inside tornados, and riding lightning. But a day came when he encountered a storm unlike any other. It was unnatural and ominous, billowing with evil, and leaving only desolation in its wake. Free Ranger was standing at its edge, moments from boldly leaping into it, when he was stopped by none other than Master Eon . The wise Portal Master told him that it was The Darkness that raged before them, and if he were up to the challenge, he could join the Skylanders to help defend against it in the Cloudbreak Islands .",
-  "personality": "A real whirlwind, Free Ranger is sometimes too impetuous for his own good. &#91; 4 &#93; &#160;He has a love for bad weather, such as tornadoes, hurricanes and thunderstorms, and would often throw himself into them.&#160;He is most likely to talk about the weather; and least likely to stay indoors because it's raining. He is incredibly brave (but also a big chicken) and uncomfortable in confined spaces. &#91; 5 &#93;",
-  "story": null,
+  "description": "Free Ranger is a storm chicken who is one of the SWAP Force Skylander in Skylanders: Swap Force. He is of the Air element, and his SWAP Force ability is Spin.",
+  "biography": "Free Ranger was hatched during a storm when a thunderous bolt of lightning struck his egg. From that very moment, his destiny was clear – he would become the greatest storm chaser ever known! He spent his entire life pursuing hurricanes, spinning inside tornados, and riding lightning. But a day came when he encountered a storm unlike any other. It was unnatural and ominous, billowing with evil, and leaving only desolation in its wake. Free Ranger was standing at its edge, moments from boldly leaping into it, when he was stopped by none other than Master Eon. The wise Portal Master told him that it was The Darkness that raged before them, and if he were up to the challenge, he could join the Skylanders to help defend against it in the Cloudbreak Islands.",
+  "quote": "Whip Up A Storm!",
+  "personality": "A real whirlwind, Free Ranger is sometimes too impetuous for his own good. He has a love for bad weather, such as tornadoes, hurricanes and thunderstorms, and would often throw himself into them. He is most likely to talk about the weather; and least likely to stay indoors because it's raining. He is incredibly brave (but also a big chicken) and uncomfortable in confined spaces.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Free Ranger was hatched during a storm when a thunderous bolt of lightning struck his egg. From that very moment, his destiny was clear – he would become the greatest storm chaser ever known! He spent his entire life pursuing hurricanes, spinning inside tornados, and riding lightning. But a day came when he encountered a storm unlike any other. It was unnatural and ominous, billowing with evil, and leaving only desolation in its wake. Free Ranger was standing at its edge, moments from boldly leaping into it, when he was stopped by none other than Master Eon. The wise Portal Master told him that it was The Darkness that raged before them, and if he were up to the challenge, he could join the Skylanders to help defend against it in the Cloudbreak Islands.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Free_Ranger_Art.jpg"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Whip up a storm!",
+        "Rain down the lightning.",
+        "Duck, duck…lose.",
+        "That was a breeze!",
+        "I strike again!",
+        "Egg-celent!",
+        "Taking the world by storm!",
+        "A grade-A victory!",
+        "Served…sunny side up!",
+        "For my nest-egg.",
+        "Not just chicken feed!",
+        "Storm rolling through.",
+        "Unstoppable.",
+        "Coming home to roost.",
+        "Gotta fly.",
+        "To the skies.",
+        "Fly away.",
+        "Power strike!",
+        "Fully charged!",
+        "Looks like chicken scratch to me.",
+        "I’m the best of the nest.",
+        "A cap for my feathers!",
+        "I look rather striking.",
+        "This name’s for the birds…no really!",
+        "A name to rule the roost."
+      ]
+    }
+  ],
+  "trivia": [
+    "Free Ranger's name is a play on the term 'free range,' a farming method for chickens.",
+    "He shares the same few battle quotes as Sonic Boom.",
+    "Free Ranger appears in the Clutch - The Art of Skylanders SuperChargers art book, in which he is depicted riding a vehicle. This makes him one of two SWAP Force Skylanders to have been potentially considered as a candidate for SuperChargers.",
+    "Free Ranger's lower half is capable of stopping enemies from spinning and using swirling shields as their means of defense by using his tornado ability.",
+    "His blades resemble Adam Frankenstein's blades from I, Frankenstein and the bat'leth from Star Trek. Incidentally, they also resemble Stealth Elf's blades, and even Hodge's blades from the Mortal Instruments: City of Bones. His blades also resemble Plasma Rifles from the Halo series.",
+    "His stormblades are similar to chakrams.",
+    "Oddly, his belt buckle is gold on his artwork and toy, but is blue in-game.",
+    "Free Ranger is voiced by Joey Camen, who is also the voice actor of Terrafin and Boomer.",
+    "He is the second Air Skylander to come with a starter pack; the first was Jet-Vac for Skylanders: Giants, and the third was Gusto for Skylanders: Trap Team. He's also the first to do so both for Nintendo 3DS and as a non-core Skylander.",
+    "In early packaging, his catchphrase was mistakenly Hoot Loop's catchphrase.",
+    "He and Magna Charge are the only SWAP Force Skylanders whose secondary attacks are capable of causing enemies to drop defenses. Other SWAP Force Skylanders with their bottom halves are able to do the same thing.",
+    "In the Wii version of SWAP Force, Free Ranger doesn't say his catchphrase until after he stops spinning.",
+    "Free Ranger appears on the cover of the Strata art book for Swap Force, where his feathers appear to be blue and he exhibits the ability to exhale lightning."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Free Ranger (Whip Up a Storm)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Free_Ranger_(Whip_Up_a_Storm)"
+    },
+    {
+      "name": "Skylanders Swap Force - Free Ranger Soul Gem Preview Whip Up a Storm)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Free_Ranger_Soul_Gem_Preview_Whip_Up_a_Storm)"
+    }
+  ],
+  "gameplay": "The primary ability is available from the start of the game. Skylanders can buy new abilities from Persephone/Power Pods. Skylanders can use abilities depending on their level. Starting Powers: Storm Blade Combo (Primary Attack): Rapidly tap (Y) to perform a combo chain. Eyes of the Storm (Secondary Attack): Press (X) to launch a blast of lightning. Spin (SWAP Force Power): Press (L) to create a vortex that pulls in coins, pulls in and damages nearby targets, reflects projectiles, and causes the Skylander to hover.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Free_Ranger",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Stormblade Slash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/Free_Rangertopprimarypower.png",
+        "content": "Press Attack 1 to slash at enemies with powerful Stormblades.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Ride the Wind",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Free_Rangerbottomprimarypower.png",
+        "content": "Hold Attack 2 to become a tornado and damage nearby enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Eyes of the Storm",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Free_Rangertopbasicupgrade1.png",
+        "content": "Press Attack 3 to shoot a bolt of lightning from the eyes, stunning the first enemy and chaining to others.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 300,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Charged Blades",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Free_Rangertopbasicupgrade2.png",
+        "content": "Press Attack 1 to slash with more powerful Stormblades that do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Gale Slash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e3/Free_Rangertopbasicupgrade3.png",
+        "content": "Press Attack 1 three times to send a wave of powerful air at enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Approaching Storm",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/06/Free_Rangerbottombasicupgrade1.png",
+        "content": "Hold Attack 2 to become a tornado, speed is increased while the tornado is active.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 300,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Wind Powered",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6a/Free_Rangerbottombasicupgrade2.png",
+        "content": "Becoming a tornado will last longer.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Tornado Vacuum Boost",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5a/Free_Rangerbottombasicupgrade3.png",
+        "content": "Tornadoes now pull in enemies from further away.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Storming Stormblades",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/96/Free_Rangertopsoulgempower.png",
+        "content": "Press Attack 1 to attack with more powerful Stormblades that deal extra lightning damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Charged Winds",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Free_Rangerbottomsoulgempower.png",
+        "content": "Hold Attack 2 to become a tornado filled with lightning, dealing damage to all enemies in the way.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Wind Slasher",
+        "abilities": [
+          {
+            "name": "Slicing Storm",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3d/Free_Rangertoppath1upgrade1.png",
+            "content": "Hold Attack 1 to charge the Stormblades, release for a devastating combo attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Feathered Fury",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/08/Free_Rangertoppath1upgrade2.png",
+            "content": "Slicing Storm does increased damage. Unleash the full fury of the bird!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Storm Focus",
+        "abilities": [
+          {
+            "name": "Lightning Strikes Thrice",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/98/Free_Rangertoppath2upgrade1.png",
+            "content": "Hold Attack 3 to charge Eye of the Storm, release to shoot a larger bolt of lightning.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Charged Gigawatt Bolt",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/85/Free_Rangertoppath2upgrade2.png",
+            "content": "Lightning Strikes Thrice does increased damage. More powerful than lightning!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Lightning Linguist",
+        "abilities": [
+          {
+            "name": "Lightning Nova",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/57/Free_Rangerbottompath1upgrade1.png",
+            "content": "Blast all nearby enemies with a powerful lightning bolt when becoming a tornado.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Nova Flash",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/14/Free_Rangerbottompath1upgrade2.png",
+            "content": "Lightning Nova does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Tornado Thrower",
+        "abilities": [
+          {
+            "name": "Wild Tornado",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e3/Free_Rangerbottompath2upgrade1.png",
+            "content": "When becoming a tornado ends, a powerful tornado is shot out damaging all enemies in the way.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Twisted Twister",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/25/Free_Rangerbottompath2upgrade2.png",
+            "content": "More powerful tornadoes are shot forward that does increased damage to enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "free-ranger",
       "variant_name": "Free Ranger",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Free_Ranger_Art.jpg",
       "attacks": [
@@ -39,7 +356,28 @@
         "Approaching Storm",
         "Charged Blades"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 (max. 560)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Free_Ranger"
     }
   ]
