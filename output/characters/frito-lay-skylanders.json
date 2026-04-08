@@ -1,23 +1,47 @@
 {
   "id": "frito-lay-skylanders",
   "name": "Frito-Lay Skylanders",
-  "species": null,
-  "gender": null,
-  "element": null,
+  "species": "Various",
+  "gender": "Various",
+  "element": "Various",
+  "role": "Skylanders",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "The Frito-Lay Skylanders were part of a naming competition for picking a new Skylander set for Skylanders: Trap Team. These Skylanders were given names and backstories created by fans who were chosen as winners of the Frito-Lay Skylander naming competition.",
+  "biography": "High Five was declared the winner of the Frito Lay contest. Not only were the given names of both Bat Spin and Flip Wreck kept, the two Skylanders would remain playable in Trap Team.",
+  "quote": "Various",
+  "personality": "Varies between individual Skylanders.",
+  "story": [
+    {
+      "story_name": "Frito-Lay Naming Competition",
+      "content": "The Frito-Lay Skylanders were part of a naming competition for picking a new Skylander set for Skylanders: Trap Team. These Skylanders were given names and backstories created by fans who were chosen as winners of the Frito-Lay Skylander naming competition. The names chosen for three Skylanders are High Five, Bat Spin, and Flip Wreck. High Five was declared the winner of the Frito Lay contest. Not only were the given names of both Bat Spin and Flip Wreck kept, the two Skylanders would remain playable in Trap Team.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/FritoLayTrio.png/revision/latest?cb=20140520215012"
+    }
+  ],
+  "quotes": [],
+  "trivia": [
+    "The Frito-Lay Skylanders were part of a naming competition for picking a new Skylander set for Skylanders: Trap Team.",
+    "The names chosen for the three Skylanders are High Five, Bat Spin, and Flip Wreck.",
+    "High Five was declared the winner of the Frito Lay contest.",
+    "Although High Five was the winner, the names of both Bat Spin and Flip Wreck were kept and they remained playable in Trap Team."
+  ],
+  "trailers": [],
+  "gameplay": "Gameplay involves three individual Skylanders: High Five, Bat Spin, and Flip Wreck, each of whom were part of the Frito-Lay naming competition and are fully playable in Skylanders: Trap Team.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Frito-Lay_Skylanders",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "frito-lay-skylanders",
@@ -27,7 +51,7 @@
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/3/3b/FritoLayTrio.png/revision/latest?cb=20140520215012",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Frito-Lay_Skylanders"
     }
   ]
