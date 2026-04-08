@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-07T20:09:24.891Z",
+  "last_run": "2026-04-08T18:16:53.694Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -424,6 +424,14 @@
     {
       "name": "Eruptor",
       "sha": "667e8251b83980eb7f88da77b72d36436648402c1e7e4e517e0fbb0c2fb05f46"
+    },
+    {
+      "name": "Eye-Brawl",
+      "sha": "438dbab5bee791543002b4eb7f9c0424bec299a5f6f149f02663a6fb20da6015"
+    },
+    {
+      "name": "Eye-Small",
+      "sha": "418b85ce42be6a8d304404791a33b5388799528b8ca9b5a09e29b2fedff96b0e"
     }
   ]
 }
