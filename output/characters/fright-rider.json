@@ -1,9 +1,10 @@
 {
   "id": "fright-rider",
   "name": "Fright Rider",
-  "species": "*Fright Rider: Undead Elf *Ozzy: Skeletal Ostrich",
+  "species": "Undead Elf (Fright Rider), Skeletal Ostrich (Ozzy)",
   "gender": "Male (both)",
   "element": "Undead",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -13,22 +14,273 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": "*Gill Grunt and the Curse of the Fish Master *Trigger Happy Targets the Evil Kaos",
+  "cameos": [
+    "Gill Grunt and the Curse of the Fish Master",
+    "Trigger Happy Targets the Evil Kaos"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "(Disclaimer: this official biography mistakenly uses the names Fright (the ostrich) and Rider (the elf) Rider (Fright Rider) and his magnificent ostrich, Fright (Ozzy), were the finest jousting team in all of Skylands . But after winning the championship for the third straight year, a jealous competitor placed a curse on the elf that sent him to the land of Undead. Not wanting to be without his partner, Fright, who up until this point had been afraid of nearly everything, ate a bag of skele-oats that turned him into a skeleton so that he could brace the journey to the underworld to save his friend. Grateful for being rescued, Fright/Rider returned to the surface dedicated to helping others - while still dominating an occasional jousting tournament from time to time.",
-  "personality": "Gallant and brave, Fright Rider is always ready to rush headlong into action. &#91; 2 &#93; Together with Ozzy, they are a courageous pair, honour-bound to right wrongs wherever they roam. &#91; 3 &#93; Before becoming one of the Undead, Ozzy was terrified of pretty much everything. His list of fears included shadows, curtains, certain types of sandwiches and having a jousting spear accidentally plunged into his head. All that changed when he munched a bag of skele-oats so that he could be transformed into a skeleton and rescue Fright Rider. Now he isn't scared of much, apart from getting a spear through his skull. And certain types of sandwiches. &#91; 4 &#93;",
-  "story": null,
+  "description": "Fright Rider and his steed Ozzy (incorrectly known as Rider and Fright, in their backstory), are an Elven jouster and a skeletal ostrich, who together form an Undead jousting team. The two of them serve as one of the core Skylanders in Skylanders: Giants.",
+  "biography": "(Disclaimer: this official biography mistakenly uses the names Fright (the ostrich) and Rider (the elf)) Rider (Fright Rider) and his magnificent ostrich, Fright (Ozzy), were the finest jousting team in all of Skylands. But after winning the championship for the third straight year, a jealous competitor placed a curse on the elf that sent him to the land of Undead. Not wanting to be without his partner, Fright, who up until this point had been afraid of nearly everything, ate a bag of skele-oats that turned him into a skeleton so that he could brace the journey to the underworld to save his friend. Grateful for being rescued, Fright/Rider returned to the surface dedicated to helping others - while still dominating an occasional jousting tournament from time to time.",
+  "quote": "Fear the Spear!",
+  "personality": "Gallant and brave, Fright Rider is always ready to rush headlong into action. Together with Ozzy, they are a courageous pair, honour-bound to right wrongs wherever they roam. Before becoming one of the Undead, Ozzy was terrified of pretty much everything. His list of fears included shadows, curtains, certain types of sandwiches and having a jousting spear accidentally plunged into his head. All that changed when he munched a bag of skele-oats so that he could be transformed into a skeleton and rescue Fright Rider. Now he isn't scared of much, apart from getting a spear through his skull. And certain types of sandwiches.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Back before he was a skeletal Undead ostrich, Fright (Ozzy) was just a plain old ostrich. With Rider (Fright Rider) on his back, they formed the most successful, and weirdest, jousting team in all of Skylands, winning the championships three years in a row. Sick of coming second, a jealous competitor put a curse on Rider (Fright Rider), banishing him to the Undead realm. Despite being terrified of pretty much everything, Fright (Ozzy) was determined to not abandon his friend. Scoffing a bag of skele-oats, he was transformed into a living skeleton, which allowed him to journey to the land of the Undead on a rescue mission. Once free, the pair decided to use their combined skills to protect others, and Master Eon was quick to sign them up as Skylanders.",
+      "hasImage": false,
+      "imgPath": "none"
+    },
+    {
+      "story_name": "Gill Grunt and the Curse of the Fish Master",
+      "content": "As the Skylanders finished repairing the walls of the Eternal Archives, Fright Rider was mentioned as one of the Skylanders present during its restoration. Gill Grunt was about to sing a song about their accomplishment, but Fright Rider quickly got onto his skeletal steed, Ozzy, and rode off into the distance to avoid hearing the Gillman's horrible singing.",
+      "hasImage": false,
+      "imgPath": "none"
+    },
+    {
+      "story_name": "Trigger Happy Targets the Evil Kaos",
+      "content": "Fright Rider was one of the Skylanders whose powers were stolen by Kaos when he was empowered by the Mask of Power. As a result, Fright Rider had 'given up the ghost' and Ozzy was weakened from having his power drained.",
+      "hasImage": false,
+      "imgPath": "none"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Fear the Spear!",
+        "Ride like the wind!",
+        "Charge ahead!",
+        "Let's ride!",
+        "Let's joust!",
+        "We reign as champions!",
+        "A worthy victory!",
+        "We're quite an impressive team!",
+        "Unbeatable till the end!",
+        "A hat fit for a champion!",
+        "I'll wear this with pride!",
+        "Let's ride in!",
+        "No matter what you call us, we are still champions!",
+        "I like the new name! Not sure about Ozzy though..",
+        "These are the numbers of Champions!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Fright Rider's catchphrase is similar to Hex's, whose catchphrase is 'Fear the Dark!', and Gill Grunt's catchphrase 'Fear the Fish!'",
+    "Fright Rider shares the same skin color with Hex since both of them are Undead Elf Skylanders.",
+    "Sprocket's original catchphrase 'Fear the Gear' is very similar to Fright Rider's (as gear and spear both rhyme).",
+    "Fright Rider, along with Eye-Brawl, Rocky Roll, Bad Juju, and Air Strike are the only five Skylanders who are either composed of two different characters in a symbiotic relationship, or fight alongside another creature.",
+    "During Giants's early development, Fright Rider's abilities and upgrades went by different names: 'Melee Attacks' was called 'Ostrich Fighter', 'Jousting Charge' was called 'Jousting Lance', 'Halberd of Horror' was misspelled as 'Halbred of Horror', 'Fright Rider Combos' was called 'Dark Champion', 'Flock of Fury' was called 'Flock of Ostrich Fury', 'Supreme Spear' was called 'Coresque of Styx', '360 Degrees of Spear' was called 'Soul Cyclone', and 'A Real Drag' was called 'The Crypt Catcher'.",
+    "In the primary combo, burrow move, and Flock of Fury attack, Ozzy sticks his head in the ground. This is a reference to the misconception of real ostriches poking their heads in the ground.",
+    "While officially stated as being an ostrich, Ozzy closely resembles a Gastornis, an extinct species of giant predatory birds (somewhat more commonly known as a terror bird).",
+    "Fright Rider is voiced by Yuri Lowenthal, who is best known for voicing teenage Ben Tennyson from the later Ben 10 series, Young Superman from 'Legion of Super Heroes' and Sasuke Uchida from Naruto.",
+    "The name is a pun on the iconic TV series Knight Rider, starring David Hasselhoff.",
+    "Fright Rider appears to be left-handed because he is holding a spear in his left hand while holding Ozzy's harness with his right hand."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Giants - Meet the Skylanders - Fright Rider (Fear the Spear)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Fright_Rider_(Fear_the_Spear)"
+    },
+    {
+      "name": "Skylanders Giants - Fright Rider Preview Trailer (Fear the Spear)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Giants_-_Fright_Rider_Preview_Trailer_(Fear_the_Spear)"
+    },
+    {
+      "name": "Skylanders Giants - Fright Rider's Soul Gem Preview (Fear the Spear)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Giants_-_Fright_Rider%27s_Soul_Gem_Preview_(Fear_the_Spear)"
+    }
+  ],
+  "gameplay": "Fright Rider is an Undead core Skylander. These are the starting and maximum Statistics for this Skylander in the Skylanders games. Health: 270 (max. 540), Speed: 43 (max. 91), Armor: 12 (max. 42), Critical Hit: 30 (max. 80), Elemental Power: 25 (max. 75). His abilities include melee spear attacks and jousting charges. He can also burrow underground to teleport or drag enemies down.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Fright_Rider",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Melee Attacks",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/01/Fright_Riderprimarypower.png/revision/latest?cb=20121118022424",
+        "content": "Press the Attack 1 button to perform melee attacks with the ostrich and spear. Press Attack 1, Attack 1, and Hold Attack 1 for a special combo.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Jousting Charge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Fright_Ridersecondarypower.png/revision/latest?cb=20121118022516",
+        "content": "Press and Hold Attack 2 button to charge towards enemies with spear extended.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Ghoul Glaive",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/59/Fright_Riderbasicupgrade1.png/revision/latest?cb=20121118022709",
+        "content": "Melee attacks do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Burrow Bomber",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Fright_Riderbasicupgrade2.png/revision/latest?cb=20121118022736",
+        "content": "Hold Attack 3 to burrow and set the ostrich's head underground. Release Attack 3 to teleport to that location.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Phantasm Strike",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Fright_Riderbasicupgrade3.png/revision/latest?cb=20121118022753",
+        "content": "Jousting Charge does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Halberd of Horror",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Fright_Riderbasicupgrade4.png/revision/latest?cb=20121118022815",
+        "content": "Melee attacks do even more increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "A Real Drag",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Fright_Ridersoulgempower.png/revision/latest?cb=20121118022532",
+        "content": "While burrowing, the spear can drag enemies underground.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Sir Lance A Lot",
+        "abilities": [
+          {
+            "name": "Fright Rider Combos",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fc/Fright_Riderpath1upgrade1.png/revision/latest?cb=20170506161247",
+            "content": "Press Attack 1, Attack 1, and Hold Attack 2 for Spear Vault. Press Attack 1, Attack 1, and then Hold Attack 3 for Skull Slam.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Flock of Fury",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b6/Fright_Riderpath1upgrade2.png/revision/latest?cb=20170506161254",
+            "content": "Hold Attack 1 to unleash a fury of multiple ostrich heads.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Supreme Spear",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6d/Fright_Riderpath1upgrade3.png/revision/latest?cb=20170506161302",
+            "content": "Melee Attacks do maximum damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Joust Jockey",
+        "abilities": [
+          {
+            "name": "Joust Juice",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/59/Fright_Riderpath2upgrade1.png/revision/latest?cb=20121118022947",
+            "content": "Jousting Charge is faster and does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Entombment Strike",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Fright_Riderpath2upgrade2.png/revision/latest?cb=20121118023003",
+            "content": "While charging, press Attack 3 to perform a powerful, downward strike.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "360 Degrees of Spear",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Fright_Riderpath2upgrade3.png/revision/latest?cb=20121118023017",
+            "content": "While charging, press Attack 1 to swing the spear around in a 360-degree attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "fright-rider",
+      "id": "fright-rider-s1",
       "variant_name": "Fright Rider",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Fright_Rider_Promo.jpg/revision/latest?cb=20121102050400",
       "attacks": [
@@ -38,7 +290,28 @@
         "Ghoul Glaive",
         "Halberd Horror"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 / 540"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 / 91"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 / 42"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 / 80"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 / 75"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Fright_Rider"
     }
   ]
