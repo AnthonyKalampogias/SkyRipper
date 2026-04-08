@@ -1,9 +1,10 @@
 {
   "id": "eye-brawl",
   "name": "Eye-Brawl",
-  "species": "*Flying Eyeball/Headless Undead Giant",
+  "species": "Flying Eyeball/Headless Undead Giant",
   "gender": "Male",
   "element": "Undead",
+  "role": "Giant",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -16,16 +17,276 @@
     "Dive, Dive, Dive!",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Eye-Brawl is a being composed of a flying eyeball and a headless Undead Giant who live in a symbiotic relationship. He is an Undead Skylander and one of the eight Giants in Skylanders: Giants. He notably has a twin brother named Dive-Clops.",
   "biography": "Throughout history, there have been many epic battles, though none more bizarre than the legendary brawl between the headless giant and the infamous flying eyeball. It all started with a staring contest, but with the headless giant having no eyes and the flying eyeball unable to blink, it soon escalated into an all out war as the two rivals fought fiercely throughout the land of the Undead for over a hundred years! With neither opponent down, the two combatants were eventually struck with the realization that if they were to combine their formidable powers, they would be a force to be reckoned with. By teaming up, the infamous flying eyeball and the headless giant became known as Eye-Brawl, one of the most powerful Skylanders ever known.",
-  "personality": "Eye-Brawl is hyper-observant. Nothing gets past him (without being thumped, that is). &#91; 1 &#93;",
-  "story": null,
+  "quote": "I've Got My Eye On You!",
+  "personality": "Eye-Brawl is hyper-observant. Nothing gets past him (without being thumped, that is). [1]",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "It's not everyday a headless giant declares war on a flying eyeball, but that's exactly how Eye-Brawl came to exist. What started as an evenly matched staring contest between them escalated into a full scale conflict that lasted over a hundred years. Eventually, the unusual enemies became bored of fighting and declared the war a draw. That would've been the end of it, had they not realized that combining their strength would make them almost unstoppable. The eyeball popped himself into the space where the giant's head should have been, and Eye-Brawl was born.As a result of combining their abilities, Eye-Brawl instantly became one of the most powerful Skylanders who has ever existed. Now the Giant cyclops uses his big eye to seek out evil in all forms, and his bigger fists to smash it to tiny bits.[2]",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "When Malefor was launching an attack on the Skylanders Academy, Eye-Brawl, the Giants and the other Skylanders were summoned to stop the evil dragon. The Giants managed to grab hold of Malefor's tail to hold him down, but were caught off guard when the mechanical tail was also made as a weapon and knock the Giants off-balance. In the end, all Skylanders, including the Giants, were defeated in a single blow by Malefor's tail whip, allowing the evil dragon to absorb their powers to make himself more powerful.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Dive, Dive, Dive!",
+      "content": "When his brother Dive-Clops was captured by Blubberbeard and his pirates, Eye-Brawl rushed to save his brother.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "I've Got My Eye On You!",
+        "Let's see what we have here.",
+        "Eye for an eye!",
+        "Come forth!",
+        "Eye summon you!",
+        "Eye win!",
+        "Eye only see victory.",
+        "Eye on the prize!",
+        "Eye put the eye in team!",
+        "An eye in team!",
+        "Eye'll look what's here!",
+        "Eye'll take a look.",
+        "Eye'll look ahead.",
+        "Arise, my little brothers!",
+        "Moving onward.",
+        "Passing on.",
+        "Excellent!",
+        "Eye drop!",
+        "Out of sight!",
+        "Peek-a-boo! You lose!",
+        "You looking at me?",
+        "My eyesight is 20-20!",
+        "Eye see you!",
+        "Eye'm watching you!",
+        "Looking very good! - when checking stats",
+        "Got an eye for talent!",
+        "Hm! Dare I say, eye candy? - when given a hat",
+        "Eh, I hope I don't look weird in this!",
+        "Interesting name! - when given a nickname",
+        "A new name I see."
+      ]
+    }
+  ],
+  "trivia": [
+    "Eye-Brawl's placeholder name was Flyclops.[3]",
+    "The Flying Eyeball (Eye-Brawl's head) slightly resembles Occulous and the Headless Undead Giant (Eye-Brawl's body) slightly resembles the Headless Horseman.However, Eye-Brawl isn't related to Occulous, according to the Bradygames strategy guide for Giants.",
+    "It is said that if Eye-Brawl ever cries, entire villages will get washed away.[4] This would later be exemplified by Dive-Clops, who can shoot powerful geysers within a few seconds of his eye window being opened.",
+    "Eye-Brawl speaks in a slight Transylvanian accent.",
+    "He is the successor of Krypt King, who was originally planned to be the Undead Giant.He and Krypt King both have black armor, and they both have the phrase \"I've got\" in the first part of their official catchphrases.",
+    "Eye-Brawl's Soul Gem name is the famous quote from the movie, A Christmas Story, \"You'll Shoot Your Eye Out!\"",
+    "His name is a pun on the word \"eyeball.\"",
+    "There is a glitch in Rumbletown in a small area before the arena where if the player preforms Eye Fly, the eyeball will fall off the island to an extent.If this glitch is performed, no eyes will form if the flying eyeball shoots eye lasers with the upgrade Eye-Crawlers until the eyeball returns to the body.",
+    "Despite the upgrade picture and description, the Bouncy Bouncy! The upgrade does not make the eye explode, nor does the body dribble the eyeball. It only slams the eyeball on the ground",
+    "The Flying Eyeball (Eye Brawl's head) does the talking, as he refers to the bouncing eyeballs Eye-Brawl summons from the underworld as his 'little brothers'. He also frequently uses Eye puns in his lines.",
+    "Eye-Brawl is voiced by Travis Willingham, who also voiced Doom Stone, Buzz, the Hulk in The Super Hero Squad Show, Knuckles the Echidna and Storm the Albatross from the Sonic the Hedgehog series, and Thor in Ultimate Spider-Man, Avengers Assemble, Hulk and the Agents of S.M.A.S.H.Coincidentally, he is the husband of Laura Bailey, the voice actress of another one of the Giants, Ninjini.",
+    "In Skylanders: Lost Islands, the Flying Eyeball mentions that eating a lot of carrots makes him able to see far and well in the darkness in places like the Necropolis.He also mentions their conflict first started in the Creepy Citadel.",
+    "He, Shroomboom, Rocky Roll (only Rocky), Magna Charge, and Dive-Clops are currently the only non-Imaginator Skylanders with one eye.",
+    "In the cut-scene where the Giants are being sent back to earth, Eye-Brawl is shown able to lift his whole body with his eye wings.",
+    "Eye-Brawl shares the same name as a minigame from Mario Party 8.",
+    "In the alpha version of Skylanders: Giants, Eye-Brawl's iris was red, and his wings often appeared crooked. His eye minions reused the screeching sound effects of Sonic Boom's chicks and crawled on spiderlike legs rather than bouncing around.[5]The upgrade description for his “Eye for an Eye” upgrade path still refers to his minions as Eye Ball Bugs in the final version of Skylanders Giants.Curiously, when teleporting in the alpha, Eye-Brawl's eye reappears before his body does.[6]",
+    "Eye-Brawl’s “Headless, Not Helpless” movement ability varies depending on which game is being played. In Skylander’s Giants, if the Control Stick is neutral and “Eye Fly” is used, Eye-Brawl’s body will move in a random direction, but with other Skylanders games, like Trap Team, the direction is based on which direction Eye-Brawl is facing when “Eye-Fly” is used."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Giants - Meet the Skylanders - Eye-Brawl (I've Got My Eye On You)",
+      "isValid": false,
+      "url": ""
+    }
+  ],
+  "gameplay": "Eye-Brawl's gameplay revolves around a unique symbiotic relationship between a headless giant and a flying eyeball. The giant delivers heavy melee punches, while the detached eyeball can fly around and shoot eye lasers. His abilities include powerful melee attacks, summoning additional eyeballs, and enhancing his eye's laser fire and flight capabilities. His Soul Gem allows him to launch his eye as a smashing projectile.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Eye-Brawl",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Haymaker",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Eye-Brawlprimarypower.png/revision/latest?cb=20130129181249",
+        "content": "Press Attack 1 button to throw some heavy punches. Press Attack 1, Attack 1, and then Hold Attack 1 for a special combo.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Eye Fly",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/26/Eye-Brawlsecondarypower.png/revision/latest?cb=20130129181300",
+        "content": "Press Attack 2 to detach the eyeball and fly around. While flying, press Attack 1 to shoot eye lasers.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "An Eye In Team",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/10/Eye-Brawlbasicupgrade1.png/revision/latest?cb=20130129181337",
+        "content": "Press Attack 3 to summon more eyeballs form the earth to attack enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Awesome Occu-Blast",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Eye-Brawlbasicupgrade2.png/revision/latest?cb=20130129181350",
+        "content": "Eye laser has a faster rate of fire.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "The Pummeler",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/aa/Eye-Brawlbasicupgrade3.png/revision/latest?cb=20130129181434",
+        "content": "Punch attacks do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Headless, Not Helpless",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b4/Eye-Brawlbasicupgrade4.png/revision/latest?cb=20130129181447",
+        "content": "While flying the eyeball, his headless body will punch continuously.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "You'll Shoot Your Eye Out",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Eye-Brawlsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20121113063829",
+        "content": "Hold Attack 1 to charge up Eye-Brawl's eye, release to pop it off the body, smashing directly ahead.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Eye Brawler",
+        "abilities": [
+          {
+            "name": "Eye-Brawl Combos",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Eye-Brawlpath1upgrade1.png/revision/latest?cb=20130129181505",
+            "content": "Press Attack 1, Attack 1, and then hold Attack 2 for Eye Ball Spin. Press Attack 1, Attack 1, and then hold Attack 3 for 360 Spin.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Ultimate Pummeler",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Eye-Brawlpath1upgrade2.png/revision/latest?cb=20130129181517",
+            "content": "Melee attacks do additional damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Beats An Eye Patch",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/02/Eye-Brawlpath1upgrade3.png/revision/latest?cb=20130129181533",
+            "content": "New armor provides additional protection.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Eye For An Eye",
+        "abilities": [
+          {
+            "name": "Asserting Independence",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/75/Eye-Brawlpath2upgrade1.png/revision/latest?cb=20130207021845",
+            "content": "Eyeball can now fly faster and for a longer duration.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Eye-Crawlers",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/Eye-Brawlpath2upgrade2.png/revision/latest?cb=20130207021913",
+            "content": "When enemies are hit with eye lasers, eyes form around the point of impact.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Bouncy Bouncy!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fd/Eye-Brawlpath2upgrade3.png/revision/latest?cb=20130207021940",
+            "content": "While flying the eyeball, press Attack 3 to bounce the eye on the ground.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "eye-brawl",
@@ -41,7 +302,28 @@
         "The Pummeler",
         "Awesome Occu-Blast"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "430 (max. 860)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "20 (max. 68)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30 (max. 60)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50 (max. 100)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Eye-Brawl"
     }
   ]
