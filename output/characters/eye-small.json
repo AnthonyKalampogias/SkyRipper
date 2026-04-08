@@ -4,6 +4,7 @@
   "species": "Headless Undead Flying Eyeball",
   "gender": "Male",
   "element": "Undead",
+  "role": "Mini",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -15,24 +16,125 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands Miniverse"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Within the Skylands , a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse . Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular \"Sidekicks,\" assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-  "personality": "Eye-Small may look like a cute little cyclops, but he'll jump into a fight at the bat of an eye. He's a scrapper like that. Eye-Small pays keen attention to detail. He notices just about everything. He is an eyeball, after all. &#91; 1 &#93;",
-  "story": null,
+  "description": "Eye-Small is one of the four Sidekicks in Skylanders: Giants. He is the miniature counterpart of the giant Eye-Brawl, eventually becoming a Mini Skylander in Skylanders: Trap Team.",
+  "biography": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular 'Sidekicks,' assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "quote": "I've Got My Eye On You!",
+  "personality": "Eye-Small may look like a cute little cyclops, but he'll jump into a fight at the bat of an eye. He's a scrapper like that. Eye-Small pays keen attention to detail. He notices just about everything. He is an eyeball, after all.",
+  "story": [
+    {
+      "story_name": "Description",
+      "content": "Eye-Small is one of the four Sidekicks in Skylanders: Giants. He is the miniature counterpart of the giant Eye-Brawl, eventually becoming a Mini Skylander in Skylanders: Trap Team.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular 'Sidekicks,' assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "I've Got My Eye On You!"
+      ]
+    }
+  ],
+  "trivia": [
+    "His artwork for the upgrades, 'Bouncy Bouncy!' and 'You'll Shoot Your Eye Out!', are switched from Eye Brawl's.",
+    "His eyeball allies are regular-sized in SuperChargers, ironically not appearing to be the infamous flying eyeball's 'little brothers' as they are bigger than him."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Eye Small",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Eye_Small"
+    }
+  ],
+  "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Eye-Small",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Haymaker",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#899"
+        }
+      },
+      {
+        "name": "Eye Fly",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#899"
+        }
+      },
+      {
+        "name": "An Eye In Team",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#899"
+        }
+      },
+      {
+        "name": "The Pummeler",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#899"
+        }
+      },
+      {
+        "name": "Awesome Occu-Blast",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#899"
+        }
+      }
+    ],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "eye-small",
       "variant_name": "Eye-Small",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": "Skylanders: Giants",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/9/98/Eye_Small.jpg",
+      "type": "Mini",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/98/Eye_Small.jpg/revision/latest?cb=20140813160037",
       "attacks": [
         "Haymaker",
         "Eye Fly",
@@ -40,7 +142,28 @@
         "The Pummeler",
         "Awesome Occu-Blast"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "430 (max. 860)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30 (max. 60)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50 (max. 100)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "53 (max. 103)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Eye-Small"
     }
   ]
