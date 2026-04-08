@@ -4,6 +4,7 @@
   "species": "Chinese Dragon",
   "gender": "Male",
   "element": "Fire",
+  "role": "SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -12,22 +13,341 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Rift into Overdrive",
+  "cameos": [
+    "Rift into Overdrive"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Fire Kraken is a Chinese Fire dragon warrior who is one of the SWAP Force Skylanders in Skylanders: Swap Force. His SWAP Force Ability is Bounce.",
   "biography": "Raised on a small island surrounded by a vast ocean of fire, Fire Kraken was the swiftest, most agile warrior his tribe had ever seen. And when a fleet of Fire Troll ships arrived to steal the legendary Burning Heart, a huge elemental crystal that fueled the fiery seas, Fire Kraken leapt into action. Using a magical staff to control his natural ability to wield fire, he set the mighty ships ablaze, forcing the trolls into a hasty retreat. Having saved the Burning Heart as well as his homeland, Fire Kraken soon joined the Skylanders, where he knew his skills would help those in need.",
-  "personality": "A desire to help others burns in the heart of this young, hot-footed warrior. He likes playing with fire, and is less likely to burn out. &#91; 1 &#93;",
-  "story": null,
+  "quote": "Burn to be Wild!",
+  "personality": "A desire to help others burns in the heart of this young, hot-footed warrior. He likes playing with fire, and is less likely to burn out. [1]",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Burn to be Wild!",
+        "Too hot to handle!",
+        "Don't mind if I do.",
+        "Never play with fire!",
+        "Blazing a trail!",
+        "Hot enough for ya?",
+        "Yes!",
+        "I'm on fire!",
+        "Red hot!",
+        "Razzle dazzle!",
+        "It's toasty in here!",
+        "Burning through!",
+        "Fire it up!",
+        "Bang!",
+        "Burning the candle at both ends!",
+        "I'm just getting warmed up!",
+        "Cool! Umm, I mean HOT!",
+        "I'm stoked over this hat!"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "Yeah, I got flare.",
+        "When evil's attackin', I get Kraken!",
+        "It's a dragon, mixed with a ninja, mixed with a roman candle, mixed with a parade. Wanna see?"
+      ]
+    }
+  ],
+  "trivia": [
+    "Unlike most dragon Skylanders, Fire Kraken is bipedal so he can fit in with the Swap Force.",
+    "He is the first non-core dragon Skylander.",
+    "Both Fire Kraken and Flashwing have jade counterparts.",
+    "Fire Kraken's name is a play on Firecracker, a type of firework.",
+    "His name has also included the name of his element.",
+    "He is the first Skylander to have the name of his element in his name (the second is Wildfire and the third is Spitfire).",
+    "His name is also a reference to the Kraken, a legendary sea monster.",
+    "In concept art, Fire Kraken had a pair of long dark whiskers. [2]",
+    "Despite showing his tail coiled up as seen in his artwork, he doesn't bounce with his tail like Rattle Shake could. Instead, he bounces with his feet and legs.",
+    "Fire Kraken's tuft of hair at the end of his tail is yellow in toy form, but in-game it is blue like the hair on his head. In his official cover art, his tail tuft is red.",
+    "Fire Kraken's nose used to be red in early screenshots. Although it was changed to yellow in the final game and in his toy form, it still appears red in his preview video.",
+    "Fire Kraken's eyes are green in-game, black in toy form and brown in the official art.",
+    "Fire Kraken's voice actor, Billy West, is very famous for portraying the title characters of The Ren and Stimpy Show, Philip J. Fry from Futurama and recreating the voice of Elmer Fudd in several Looney Tunes projects. He was also the voice actor for Sparx the Dragonfly in The Legend of Spyro: The Eternal Night.",
+    "Billy West is also the voice actor of Freeze Blade, Food Fight and Rocky Roll.",
+    "His catchphrase is based on the saying, 'Born to be Wild!'",
+    "In Spanish, his catchphrase is 'Nacido para quemar', which means 'Born to Burn', which is the same catchphrase of Eruptor.",
+    "One of his missions in Lost Islands, 'Catching Fire', shares the name of the second book of the Hunger Games series.",
+    "According to his Short Cut, a Kraken is a dragon, mixed with a ninja, mixed with a Roman candle, and mixed with a parade. In actuality, the Kraken is a mythical sea monster.",
+    "Fire Kraken's entire hands, additionally his palms, are colored red on his portrait and in toy edition, unlike the yellow color on his hands in game.",
+    "An Awakened form version of Fire Kraken was leaked in Skylanders: Ring of Heroes, but he never appeared in the final game.",
+    "His moveset is a reference to the Chinese Dragon and Chinese Lion dances in several Chinese festivals.",
+    "When Fire Shadow goes into stealth mode, the flames on his baton will remain visible if they had been boosted by his Rising Charge ability."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Fire Kraken (Burn to be wild)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Fire_Kraken_(Burn_to_be_wild)"
+    },
+    {
+      "name": "Skylanders Swap Force - Fire Kraken Soul Gem Preview (Burn to be wild)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Fire_Kraken_Soul_Gem_Preview_(Burn_to_be_wild)"
+    }
+  ],
+  "gameplay": "Fire Kraken uses his magical staff to set enemies ablaze, and control his natural fire powers; his staff can be upgraded for a charged attack. He can throw out fireworks from his tail to damage enemies and can be upgraded for a bigger boom, he can even charge it up which causes his tail to light like a fuse, and ends with an enormous fireworks explosion. His most unique power is the ability to turn into a Chinese dragon parade costume!",
   "wiki_url": "https://skylanders.fandom.com/wiki/Fire_Kraken",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Sparkling Strikes",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Fire_Krakentopprimarypower.png",
+        "content": "Press Attack 1 to swing the sparkler staff, damaging nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Start the Show!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ec/Fire_Krakenbottomprimarypower.png",
+        "content": "Press Attack 2 up to three times to perform a firework attack on each press that damages nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Dragon Parade",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Fire_Krakentopbasicupgrade1.png",
+        "content": "Hold Attack 3 to run around in a dragon parade costume, knocking back and damaging enemies in the way.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 300,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Glow Stick",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3f/Fire_Krakentopbasicupgrade2.png",
+        "content": "Press Attack 1 to swing a new staff that does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Rising Fountain",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c6/Fire_Krakentopbasicupgrade3.png",
+        "content": "Hold Attack 1 to charge a staff attack, release to cause a large explosion that knocks up and damages nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Show-Off",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Fire_Krakenbottombasicupgrade1.png",
+        "content": "Press Attack 2 three times to shoot three colorful projectiles at once.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 300,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Kraken Up",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a7/Fire_Krakenbottombasicupgrade2.png",
+        "content": "Press Jump to jump, throwing down fireworks and damaging nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "The Big One",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Fire_Krakenbottombasicupgrade3.png",
+        "content": "Hold Attack 2 for a short time to light a timed fuse that causes a massive firework attack after a short time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Dance of Dragons",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5f/Fire_Krakentopsoulgempower.png",
+        "content": "Hold Attack 3 to start Dragon Parade, release to shoot the sparkling and explosive Dragon costume at enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "The Bigger One",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/08/Fire_Krakenbottomsoulgempower.png",
+        "content": "The Big One creates a huge colorful explosion that does increased damage in a larger radius.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "The Showcase",
+        "abilities": [
+          {
+            "name": "Rising Charge",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Fire_Krakentoppath1upgrade1.png",
+            "content": "Rising Fountain causes a next staff attack to cause a large explosion.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Finale",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5b/Fire_Krakentoppath1upgrade2.png",
+            "content": "Rising Fountain does increased damage in a larger area. It's showtime!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Magnificent Parade",
+        "abilities": [
+          {
+            "name": "Year of the Dragon",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/Fire_Krakentoppath2upgrade1.png",
+            "content": "Dragon Parade does increased damage, lasts longer, and reduces damage taken while it is active.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Dragon Candles",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Fire_Krakentoppath2upgrade2.png",
+            "content": "Dragon Parade shoots colorful fireworks at nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Stunning Sparkler",
+        "abilities": [
+          {
+            "name": "Unstable Element",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c6/Fire_Krakenbottompath1upgrade1.png",
+            "content": "Speed increases depending how close The Big One is to exploding. The anticipation!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Sizzling Sparkler",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Fire_Krakenbottompath1upgrade2.png",
+            "content": "Press Attack 2 for a spin attack that does increased damage in a larger area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Booming Bouncer",
+        "abilities": [
+          {
+            "name": "Bigbadaboom",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/66/Fire_Krakenbottompath2upgrade1.png",
+            "content": "Press Attack 2 two times for a bounce attack that does increased damage in a larger area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Strike the Foes",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Fire_Krakenbottompath2upgrade2.png",
+            "content": "Hold Attack 2 for a short time to light the fuse for The Big One and knock away all nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "fire-kraken",
       "variant_name": "Fire Kraken",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/17/Firekrakenartwork.jpg",
       "attacks": [
@@ -37,7 +357,28 @@
         "Rising Charge",
         "Year of the Dragon"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260 (max. 520)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Fire_Kraken"
     }
   ]
