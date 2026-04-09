@@ -1,29 +1,502 @@
 {
   "id": "golden-queen",
   "name": "Golden Queen",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": "As her name suggests, the Golden Queen completely values solid gold of any kind. She was extremely greedy, never having enough gold until all of it in the world of Skylands was hers. In her attempt to satisfy her desire for more gold, she would turn objects and people into gold. As the former leader of the Doom Raiders, she had a feared, yet respected position among her allies. The Golden Queen however, can be easily angered (which causes her to glow brightly) if things don't turn out the way they were planned, and she didn't tolerate failure.&#160;Despite having recruited the Doom Raiders, she showed no concern when several of them were captured as long as their roles in helping to complete the&#160; Ultimate Weapon &#160;were fulfilled.&#160; The Golden Queen firmly believed that gold surpasses everything, including friendship. When she turned Cali to gold, she claimed that the frozen Mabu was something more precious to her than just a friend to the Skylanders. On one occasion, she became aggressive and reckless when a golden egg was stolen from her in Graduation Day , and turning down the opportunity of ruling Skylands if it meant having all the gold in the world instead.&#160;In her Meet the Villains trailer, she mentions having been \"fed with a silver spoon, but [she] didn't want silver, [she] wanted gold!\", implying that the Golden Queen was always spoiled even from a young age. After her rehabilitation, the Golden Queen lost much of her obsession with gold, but kept her aggressive and prideful personality even in the side of the heroes. She has also discarded her villainous side completely, as she now values the newfound friendship and companionship among her new Skylander teammates.",
-  "story": null,
+  "species": "Living Gold Statue",
+  "gender": "Female",
+  "element": "Earth",
+  "role": "Sensei",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders Issue 12",
+    "Skylanders: SuperChargers",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [
+    "Skylanders Academy"
+  ],
+  "world": [
+    "The Golden Desert",
+    "Cave of Gold"
+  ],
+  "description": "The Golden Queen is a golden statue who is one of the Earth villains introduced in Skylanders: Trap Team. She serves as the secondary antagonist of Skylanders: Trap Team. She is the former leader of the Doom Raiders, a group of the most notorious villains in Skylands.",
+  "biography": "A wicked queen made entirely of gold and rich beyond her wildest imagination, the aptly named Golden Queen would gladly trade her entire fortune for just a little more. But why trade when you can steal? And that's what she did. She stole, and stole, and stole! But no matter how much she took, it was never enough. Through evil sorcery, she even learned how to turn people and objects into solid gold. However, that STILL wasn't enough. The idea that any amount of treasure in Skylands did not belong to her was infuriating, so she embarked on a quest to take every last cent of it. But she couldn't do it alone. It was then that she formed the Doom Raiders - the most notorious group of villains ever assembled. As the leader, the Golden Queen promised riches, world domination, and even all-you-can-eat shrimp in order to recruit special criminals to serve her cause. Together, the Doom Raiders terrorized Skylands until Master Eon and the Trap Masters put a stop to them, locking up all of them inside Cloudcracker Prison!",
+  "quote": "I Reign Supreme!",
+  "personality": "As her name suggests, the Golden Queen completely values solid gold of any kind. She was extremely greedy, never having enough gold until all of it in the world of Skylands was hers. In her attempt to satisfy her desire for more gold, she would turn objects and people into gold. As the former leader of the Doom Raiders, she had a feared, yet respected position among her allies. The Golden Queen however, can be easily angered (which causes her to glow brightly) if things don't turn out the way they were planned, and she didn't tolerate failure. Despite having recruited the Doom Raiders, she showed no concern when several of them were captured as long as their roles in helping to complete the Ultimate Weapon were fulfilled. The Golden Queen firmly believed that gold surpasses everything, including friendship. When she turned Cali to gold, she claimed that the frozen Mabu was something more precious to her than just a friend to the Skylanders. On one occasion, she became aggressive and reckless when a golden egg was stolen from her in Graduation Day, and turning down the opportunity of ruling Skylands if it meant having all the gold in the world instead. In her Meet the Villains trailer, she mentions having been 'fed with a silver spoon, but [she] didn't want silver, [she] wanted gold!', implying that the Golden Queen was always spoiled even from a young age. After her rehabilitation, the Golden Queen lost much of her obsession with gold, but kept her aggressive and prideful personality even in the side of the heroes. She has also discarded her villainous side completely, as she now values the newfound friendship and companionship among her new Skylander teammates.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "A wicked queen made entirely of gold and rich beyond her wildest imagination, the aptly named Golden Queen would gladly trade her entire fortune for just a little more. But why trade when you can steal? And that's what she did. She stole, and stole, and stole! Together, the Doom Raiders terrorized Skylands until Master Eon and the Trap Masters put a stop to them, locking up all of them inside Cloudcracker Prison!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/79/Golden_Queen_Concept.jpg/revision/latest/scale-to-width-down/164?cb=20141115050437"
+    },
+    {
+      "story_name": "Skylanders: Trap Team",
+      "content": "After Kaos freed the Doom Raiders from the prison, the Golden Queen revealed to him that she had already developed a plan to rule Skylands using an ultimate weapon made from Traptanium. She easily won a duel against Kaos by turning him into a golden statue. The Skylanders eventually entered her lair, where she plunged herself into a pool of gold and grew enormous in size. They brought down a stone arch upon her, defeating and capturing her.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Golden_Queen_Doom_Raiders.jpg/revision/latest/scale-to-width-down/282?cb=20150112194933"
+    },
+    {
+      "story_name": "Skylanders Issue #12 (Graduation Day)",
+      "content": "The Golden Queen and Doom Raiders infiltrated the Skylander Academy as a band named 'The Evil Imposters'. She turned the faculty into gold statues but was caught by surprise by the Minis. After Pet-Vac swiped her golden egg and used her staff to turn The Gulper to gold, she was forced to surrender.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: SuperChargers",
+      "content": "The Golden Queen reappears as a playable racer equipped with her own vehicle, the Glitter Glider. When bested in her Boss Pursuit, the player will be able to race as the Golden Queen.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Imaginators",
+      "content": "Master Eon gave the Golden Queen a choice – either remain imprisoned or become a Skylander Sensei. She accepted the deal and proved herself by rearranging the Academy library for two years. She now trains the Sorcerer Class and considers herself mostly reformed.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/57/Golden_Queen_Sensei_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20160601131507"
+    },
+    {
+      "story_name": "Skylanders: Lost Islands",
+      "content": "Golden Queen appears as a trappable villain that helps the player by increasing the amount of Gold given out by Elemental Sanctuaries by 25% and increasing the chances of better rewards.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Ring of Heroes",
+      "content": "Golden Queen and the Doom Raiders managed to get ahold of Kaos's lost Book of Dark Magic. Before being defeated, she passed the book to Dr. Krankcase to boost its power away from the heroes.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Story Quotes",
+      "content": [
+        "Don't think us ungrateful for what you've done, Kaos. You and the troll may stay. If only to bear witness to MY plan to bring Skylands to its knees! And believe me, this one's solid gold!",
+        "I'd rather have the gold.",
+        "I'd like to thank you, Kaos! That was the most fun I've had in a long... long time.",
+        "Are you telling me...YOU FAILED, DR. KRANKCASE?!?!",
+        "What are you waiting for?? Both of you! Retrieve Kaos, at once! I want that cheese!!",
+        "Didn't I warn you, Skylander? Didn't I warn you to stay away from my sacred temple? No? Well, I have been very busy lately? It was definitely on my to-do list. Anyway, I suppose you're here to save your friend? But she is no longer your friend. She has become something much more precious to me. And I have no intention of giving her back!",
+        "You will pay for your insolence - literally. I could always use more gold.",
+        "Look Skylander, I'm sure in some circles your bravery and heroism is really quite appreciated but it's getting into my world domination so I'll be putting a stop to it right now. Since none of the currently Undead seem capable of defeating you, I'm afraid I must bring someone very SPECIAL back to unlife - GRAAAAAAVE CLOOOOBBEEEEER! Arise from your tomb!",
+        "Welcome Skylander, such a pleasure to meet you again, for the last time! You're going to make an even more impressive golden trophy than your little friend did!",
+        "As you can see, gold has many uses!",
+        "Ring-a-ding-ding!",
+        "I hope this rings a bell, Skylander!",
+        "Only a matter of time before I defeat you! Why delay the inevitable?",
+        "Enough! Enough with your insolence, insubordination, and about ten other things! ATTAAAAAAAAACK!!!!"
+      ]
+    },
+    {
+      "quote_type": "Trap Quotes",
+      "content": [
+        "Choose wisely, Portal Master: wealth beyond your wildest dreams, or whatever the ridiculous alternative is.",
+        "Wait... I never got to make more demands! Here's one- WHOOOAAAAA!!",
+        "What?! How dare you put me in here?! Although I guess now that I think about it, it's probably a taste of my own medicine.",
+        "Me? Working on the side of good? I'd say strangest things have happened, but I'm not sure they have.",
+        "You might have captured me, but did you accomplish these other goals? Hah! Not so tough! Are you now, Skylander?",
+        "Worth my weight in goooooooollllllldddddd!",
+        "All hail the queen.",
+        "Return of the Queen.",
+        "The golden era begins!",
+        "I can't believe that fool Kaos stole my weapon! I will believe that he tried, just not that he actually succeeded.",
+        "I really should've kept a more watchful eye on that Kaos. You should've too, apparently.",
+        "Hope they got their money's worth.",
+        "The only one here who seems to have their head screwed on properly is Auric. Like the way that guy thinks.",
+        "A fine academy, Skylander, but it could use decoration. Might I suggest gold? Everywhere?",
+        "Well it's not my royal palace. But I will learn to live here, in time.",
+        "Hahahahaha, oh, that's rich!",
+        "That was truly a golden era! But now I must rest.",
+        "While my reign is temporarily over, I shall recharge quickly.",
+        "You should really cash in on this opportunity, Portal Master.",
+        "Ready to go for the gold!",
+        "I'm even stronger here... That's really saying something.",
+        "That creature speaks my name? Bring me in, and I shall investigate this further.",
+        "Let's go, Skylander!",
+        "Alright, keep moving!",
+        "Your health is low, Skylander, and you have a queen at the ready! Need I say more?",
+        "I'd gladly accept them into my royal guard.",
+        "You can bank on these numbers, Portal Master!"
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Who dares challenge me?!",
+        "All hail the queen!",
+        "Return to power!",
+        "Prepare to perish.",
+        "A royal exit!",
+        "I shall return!",
+        "My value grows.",
+        "Worth my weight in gold!",
+        "Very worthy of me.",
+        "Fit for a queen!",
+        "Marvelous!",
+        "Excellent!",
+        "Arise, my beauties!",
+        "Seek and devour!",
+        "Goodbye, and good riddance!",
+        "Crushed under my rule!",
+        "You will lose at any cost!",
+        "It doesn't pay to cross me!",
+        "It cannot be!",
+        "This is preposterous!",
+        "This is most unfortunate...",
+        "How dare you tarnish my image?!",
+        "A royal beatdown!",
+        "How impressive of me!",
+        "Long live the queen!",
+        "I reign supreme!",
+        "What now?",
+        "Careful.",
+        "Hands off your queen.",
+        "That's no way to treat royalty!",
+        "How dare you!",
+        "Ahem!"
+      ]
+    },
+    {
+      "quote_type": "Skylanders: Imaginators",
+      "content": [
+        "I reign supreme!",
+        "Behold, as I make all of your Imaginators more powerful than before!",
+        "And if anyone from the Sorcerer class wants to be the gold standard, they'll need my secret technique.",
+        "Bow to your queen!",
+        "I shall make you pay for this insolence!",
+        "Treasure this!",
+        "Golden butterfly, attack!",
+        "Ascension!",
+        "You're golden!",
+        "Right on!",
+        "Hm hm! Pure gold.",
+        "Ha ha! Easy money.",
+        "All must bow to the queen, or explode into XP balls!",
+        "Long live the queen!",
+        "Stats you can truly bank on!",
+        "I am flawless like a diamond, but better - like gold.",
+        "Get them, my pretties - get them!",
+        "Golden scarabs, protect your queen!",
+        "That's what I call getting the royal treatment.",
+        "All hail the queen!"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "My minions call me 'Her Majesty'. But you may know me as the Golden Queen!",
+        "I believe in the golden rule. The lady in gold, rules!",
+        "I wasn't asking for a lot. A large crown, a giant staff, shining jewels, a personal chef and all the power in Skylands!",
+        "Under my reign, all that glitters is gold!",
+        "Uh oh! A Trap! Now that's a royal pain in the- ahhhhhhhh!",
+        "Wait, there's no throne in here!"
+      ]
+    },
+    {
+      "quote_type": "Comic Quotes",
+      "content": [
+        "The Evil Imposters need time to prepare. This will be a show you'll never forget. Play it, Wolfie.",
+        "Gulper! No more gulping from the fountain, I need you at a manageable size right now.",
+        "Something's not right, but I won't let this golden opportunity slip away.",
+        "I give up. Point that thing somewhere else, okay?"
+      ]
+    },
+    {
+      "quote_type": "Misc Quotes",
+      "content": [
+        "Yes!",
+        "Hear this: no one is my equal.",
+        "Okay!",
+        "Kneel before your queen.",
+        "This is my realm, Skylander, and in my realm, I make the rules. Rule number one: I can change the rules anytime I want!",
+        "Not good!",
+        "I cannot believe you beat me.",
+        "This is a golden opportunity to teach you a lesson. And the lesson is: you cannot defeat me!",
+        "Your fate has been sealed!",
+        "Let's not keep everyone waiting!",
+        "Bummer.",
+        "Victory!",
+        "Ties do not exist in my world!",
+        "Cool.",
+        "Hahahaha!",
+        "That's not possible! I cannot be defeated! I'm--- golden!",
+        "You may have defeated me once, Battlecaster, but it won't happen again.",
+        "You may have defeated me this time, but it won't happen again!",
+        "Time waits for no one!",
+        "Sweet!",
+        "Such power!",
+        "Well, well, well. What have we here? Someone to challenge my rule?",
+        "Commanding!",
+        "Nice!",
+        "Haven't you heard of the golden rule? I am golden, and therefore, I rule.",
+        "We live by the golden rule here. I'm golden, and therefore, I rule. Ah-hahahaha!",
+        "The Audacity! You dare enter my realm? I should strike you down where you stand! In second thought... I think I'll take my time destroying you. I'm going to enjoy this!",
+        "Gold save the queen!",
+        "What have you done?! You dare destroy my Relic?! You'll pay for that!",
+        "Kaos is not gonna be happy about this. Then again... Never cared much of what he thought, anyway.",
+        "Awesome!",
+        "Alright!",
+        "I won't give up my throne that easily!",
+        "Success!"
+      ]
+    }
+  ],
+  "trivia": [
+    "When angered, the Golden Queen glows brightly.",
+    "She is voiced by CCH Pounder, who is notable for providing the voice of Amanda Waller in Batman: Arkham Origins & the Justice League.",
+    "Her ability to touch and turn things and people into golden is similar to King Midas and the Golden Touch.",
+    "She, Nightshade, and Chomp Chest are the only three villains capable of producing gold.",
+    "The Golden Queen is the second Doom Raider to have the ability to grow in size.",
+    "Imhotep mentions in Lair of the Golden Queen that her favorite hat is the Classic Pot Hat.",
+    "Though being made of gold, Golden Queen appears to eat normal food.",
+    "In Imaginators, Golden Queen has a custom magic circle with ancient Egyptian symbols like ankhs and the Eye of Horus.",
+    "Golden Queen, Lightning Rod, Zap, Wham-Shell, Punk Shock, and Hammer Slam Bowser are the only six Skylanders who come from royalty.",
+    "As a villain in Trap Team, Golden Queen draws in nearby treasure."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Trap Team- 'Meet the Villains- Golden Queen' Trailer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Trap_Team-_'Meet_the_Villains-_Golden_Queen'_Trailer"
+    },
+    {
+      "name": "Official Skylanders Imaginators Meet Golden Queen",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Imaginators_Meet_Golden_Queen"
+    }
+  ],
+  "gameplay": "Through evil sorcery, the Golden Queen learned how to turn anyone or anything into solid gold with a touch of her finger or with the power of her golden staff. Being made of gold and other riches, she can regenerate herself by absorbing golden treasures. She can conjure a golden forcefield to protect her self, levitate herself, create golden butterfly-like devices that send spinning disks, and generate rings of energy from her staff. When submerged in liquid gold, she can grow to a large size. After completing her Villain Quest, she is able to activate Dr. Noobry's Piggybank-o-matic 3001s, seemingly transforming them into sentient robotic pigs. However, that appears to be a side effect, as they cough out treasure involuntarily then fall over exhausted.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Golden_Queen",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Winged Scarabs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7e/Golden_Queenprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170504214120",
+        "content": "Press Attack 1 to release winged scarabs made of gold dust.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Golden Shockwave",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/24/Golden_Queensecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170504214121",
+        "content": "Press Attack 2 to create a golden shockwave that turns any nearby enemies into gold.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Blinded By Gold",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8a/Golden_Queenbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504214128",
+        "content": "Winged Scarabs now release gold dust on enemies, slowing them down temporarily.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Royal Guard",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Golden_Queenbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504214122",
+        "content": "Press Attack 3 to summon a Guard Turret that fires golden blades at enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Golden Opportunity",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Golden_Queenbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504214135",
+        "content": "When using Golden Shockwave, any enemies that are defeated when in a golden statue sometimes turn into coins.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "18 to 24 Karats",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/90/Golden_Queenbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170504214127",
+        "content": "Winged Scarabs and Guard Turrets now cause more damage when attacking.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Royal Treatment",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/Golden_Queensoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170504214129",
+        "content": "Hold Attack 2 to transform into Giant Queen. Press Attack 1 to smash the ground and Attack 3 to shoot eye lasers!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "Scarab Swarm",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Golden_Queenskychipower.png/revision/latest/scale-to-width-down/148?cb=20170504214132",
+        "content": "The Ultimate Sensei attack! Press Special Attack to summon and control a massive swarm of scarabs!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Ancient History",
+        "abilities": [
+          {
+            "name": "Colossal Scarab",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Golden_Queenpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504214751",
+            "content": "Hold Attack 1 to grow a larger and more powerful scarab.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Worth Its Weight",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8d/Golden_Queenpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504214753",
+            "content": "Winged Scarabs now deal more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Gold Rush",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/df/Golden_Queenpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504214758",
+            "content": "Colossal Scarabs now release a wave of gold dust that causes additional damage for a short time. The larger your scarab, the greater the wave.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "In My Defense",
+        "abilities": [
+          {
+            "name": "Extra Guard",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Golden_Queenpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504214802",
+            "content": "You can summon an additional Guard Turret to join your defenses.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Shields of Gold",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3f/Golden_Queenpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504214804",
+            "content": "Guard Turrets are protected by a force field that knocks enemies back.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Compound Interest",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Golden_Queenpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504214805",
+            "content": "If you hit a Guard Turret with the Winged Scarabs attack, the turret will fire golden blades in all directions.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "golden-queen",
       "variant_name": "Golden Queen",
-      "edition": "Series 1",
+      "edition": "Starter Pack",
       "type": "Sensei",
-      "game": null,
+      "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/19/Golden_Queen_Promo_Art.jpeg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Staff Strike",
+        "Golden Rays",
+        "Golden Wings",
+        "Winged Scarabs",
+        "Golden Shockwave",
+        "Royal Guard",
+        "Golden Opportunity",
+        "Royal Treatment"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "320"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Golden_Queen"
     }
   ]
