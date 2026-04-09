@@ -4,6 +4,7 @@
   "species": "Gillman",
   "gender": "Male",
   "element": "Water",
+  "role": "Mini",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -16,24 +17,120 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands Miniverse"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Within the Skylands , a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse . Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-  "personality": "Gill Runt is the best friend anyone could ever have. He is trustworthy and loyal and he gets the job done. &#91; 1 &#93;",
-  "story": null,
+  "description": "Gill Runt is one of the four sidekicks in Skylanders: Spyro's Adventure. He is the miniature version of Gill Grunt, eventually becoming a Mini Skylander in Skylanders: Trap Team.",
+  "biography": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "quote": "Fear The Fish!",
+  "personality": "Gill Runt is the best friend anyone could ever have. He is trustworthy and loyal and he gets the job done.",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Gill Runt's official catchphrase",
+      "content": [
+        "Fear The Fish!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Gill Runt is the miniature version of Gill Grunt.",
+    "His English voice actor is Darin De Paul.",
+    "He was one of the first four Sidekicks introduced in the series."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Mini Skylanders Gill Runt",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Mini_Skylanders_Gill_Runt"
+    },
+    {
+      "name": "Meet the Skylanders Gill Runt",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Gill_Runt"
+    }
+  ],
+  "gameplay": "Gill Runt functions as a miniature version of Gill Grunt. In his initial appearances, he served as a Sidekick who would follow the player. Starting in Skylanders: Trap Team, he became a fully playable Mini Skylander with a full range of attacks including his Harpoon Gun and Water Cannon.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Gill_Runt",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Harpoon Gun",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Gil_Runt_Promo.jpg",
+        "content": "Shoots a harpoon at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      },
+      {
+        "name": "Water Cannon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Gil_Runt_Promo.jpg",
+        "content": "Blasts enemies with a powerful stream of water.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Boiling Water Hose",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Gil_Runt_Promo.jpg",
+        "content": "Spray boiling water to damage enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      },
+      {
+        "name": "Water Jet Pack",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Gil_Runt_Promo.jpg",
+        "content": "Allows for quick movement and tactical positioning.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Anchor Cannon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Gil_Runt_Promo.jpg",
+        "content": "Launch heavy anchors at enemies for massive damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "gill-runt",
+      "id": "gill-runt-mini",
       "variant_name": "Gill Runt",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Mini",
+      "type": "Mini",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Gil_Runt_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Gil_Runt_Promo.jpg/revision/latest?cb=20140813155241",
       "attacks": [
         "Harpoon Gun",
         "Water Cannon",
@@ -41,7 +138,24 @@
         "Water Jet Pack",
         "Anchor Cannon"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "105"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "95"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Gill_Runt"
     }
   ]
