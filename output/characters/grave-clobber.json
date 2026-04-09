@@ -3,35 +3,394 @@
   "name": "Grave Clobber",
   "species": "Living Stone Mummy",
   "gender": "Male",
-  "element": "Earth/Water",
+  "element": "Earth / Water",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: Battlecast",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Skylanders: SuperChargers (Skystone)",
+  "cameos": [
+    "Skylanders: SuperChargers (Skystone)"
+  ],
   "world": [
     "The Golden Desert"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
+  "description": "Grave Clobber is a living stone mummy who is one of the trappable Earth Villains in Skylanders: Trap Team. He returns in Skylanders: Battlecast as one of the two bosses of the Earth Realm in the Second Dimension, once again under the Golden Queen's command. In Skylanders: Imaginators, Grave Clobber has switched elements to Water and is one of the ten villains who trades in a life of crime to become a Sensei. He now trains Imaginators who belong to the Brawler Battle Class.",
+  "biography": "Grave Clobber was once a great pharaoh who ruled the Golden Desert long ago. That was until his seven jealous brothers buried him in an underwater tomb while he was sleeping. But the remaining brothers still fought among themselves, and their infighting ultimately led to their kingdom falling apart and the family name being lost forever... almost. Because Grave Clobber eventually rose from his watery grave, and when he discovered what his brothers had done to their kingdom, he hunted each of them down and clobbered them. This was how he came to the attention of the Golden Queen, who now ruled the desert herself. She recruited Grave Clobber into her gang of Doom Raiders, but when the Skylanders defeated them once and for all, Master Eon thought that perhaps there was more to this mummy than meets the eye. He gave the old pharaoh a chance for redemption, and since nobody clobbered better than Grave Clobber, he was the perfect choice to be a Sensei trainer for the Brawler Class.",
+  "quote": "A Watery Grave Awaits!",
   "personality": "Grave Clobber is aloof, violent, and intimidating with his attacks and threats. However, he appears to have a soft side, as he will take the time to say punny catchphrases and was seen calmly observing bugs in his Sensei Shrine cutscene before being disturbed by the Brawler Sensei Shrine. Whenever he is near others whom are smaller than he is, he unintentionally frightens them due to his imposing figure, but this does not bother him at all. Upon enlisting as a Skylander, he still retains his personality from when he was a villain, but he is now much more friendly and compassionate towards his allies. However, he is still perfectly willing to legitimately threaten and clobber anyone who poses a threat to Skylanders Academy or those who cannot defend themselves.",
-  "story": null,
+  "story": [
+    {
+      "story_name": "Skylanders: Trap Team",
+      "content": "Grave Clobber was summoned by the Golden Queen as a last resort to defeat the Skylanders in the Golden Desert. Despite his threatening size, stature, and strength, Grave Clobber was bested and trapped. After he was captured, the Skylanders took him to the Lair of the Golden Queen for his Villain Quest with Cali, though they had to get past her Spy Guys first. His quest was called 'Where is Flynn?', where Cali tasked the mummy to rescue Flynn from the Queen's guards, who were holding him captive in a labyrinth. After rescuing the pilot, Grave Clobber was rewarded with Cali's thanks and a new outfit.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Imaginators",
+      "content": "Grave Clobber was once a great pharaoh who ruled the Golden Desert long ago. That was until his seven jealous brothers buried him in an underwater tomb while he was sleeping. But the remaining brothers still fought among themselves, and their infighting ultimately led to their kingdom falling apart and the family name being lost forever... almost. Because Grave Clobber eventually rose from his watery grave, and when he discovered what his brothers had done to their kingdom, he hunted each of them down and clobbered them. This was how he came to the attention of the Golden Queen, who now ruled the desert herself. She recruited Grave Clobber into her gang of Doom Raiders, but when the Skylanders defeated them once and for all, Master Eon thought that perhaps there was more to this mummy than meets the eye. He gave the old pharaoh a chance for redemption, and since nobody clobbered better than Grave Clobber, he was the perfect choice to be a Sensei trainer for the Brawler Class.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "General Quotes",
+      "content": [
+        "I'm going to bury you. HAHAHAHA!",
+        "You'll never catch the Clobber!"
+      ]
+    },
+    {
+      "quote_type": "Trap Quotes",
+      "content": [
+        "Choose wisely or suffer grave consequences.",
+        "Hey, I want my MUMMMMMMMYYYYYYYY!",
+        "ARGH, let me out of here! No crypt can ever be built that can hold me!!",
+        "You want me to come back as good? Well then, show me the mummy!",
+        "Pharaoh a go-gooooooo!!!",
+        "Don't let these bandages fool you, I, am magnificent!",
+        "Grave Clobber, ready to prowl!!",
+        "My fists feel no fear!",
+        "Heh, prepare to get clobbered!",
+        "They all unraveled in the face of me.",
+        "Mummies are good at puzzles, especially the ones with traps...",
+        "Agh, this is a place I wouldn't be caught undead in!",
+        "But where is YOUR sarcophagus, Skylander? I don't leave home without one!",
+        "Uh, this is much roomier than my last prison... Eurgh.",
+        "You are looking frightful there, Skylander. Need help?",
+        "The sands of time have run out on this one, eh.",
+        "Still six feet under here, I'm not ready!",
+        "Uh... Not ready! Changing my bandages in here.",
+        "The power is mine! Rrready!",
+        "My power is complete! Standing by.",
+        "Ah, yes! Now that I'm entombed in here, I feel more un-alive than ever!",
+        "My undead clobbering skills are at your service.",
+        "Aah... You could set those in stone.",
+        "Hm... A fitting addition to the tomb!"
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Next stop for you... The afterlife!",
+        "You are in grave danger!",
+        "Knuckle up!",
+        "Here we go!",
+        "Taking a break!",
+        "Time to rest.",
+        "Eternal power!",
+        "My strength has risen!",
+        "Impressive!",
+        "Smashing!",
+        "Greatness abound!",
+        "A powerful tribute!",
+        "A wise choice!",
+        "Let's hit some paydirt!",
+        "Let's dig deep!",
+        "Packing a punch!",
+        "A fitting end for you!",
+        "The sands of time have run out...",
+        "Down for the count.",
+        "A grave outcome!",
+        "I must be cursed...!",
+        "It's a wrap!",
+        "Eternal glory!",
+        "Better wrap it up!",
+        "Yes?",
+        "What now?",
+        "I'm here.",
+        "You're digging an early grave!",
+        "I will bury you."
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "A watery grave awaits!",
+        "I have risen from the grave, Portal Master, and I am ready to teach your Imaginators how to clobber!",
+        "And if you've got a Brawler for me, I have a Secret Technique that will lift their spirits!",
+        "Get ready to be callin' for your mummy!",
+        "Prepare to unrrravel!",
+        "I shall bury you!",
+        "I am going to bury you!",
+        "Spring to unlife!",
+        "Sarcophagus!",
+        "Flash flood!",
+        "I push the barrier!",
+        "Crossing over into the afterlife... Or at least a new area.",
+        "If the grave didn't hold me, what chance did this have?",
+        "That really lifts the spirits.",
+        "Back to the grave with you! Although I don't know if you originally came from the grave...",
+        "I shall spend all eternity savoring this victory! Or at least until my next one.",
+        "This is all just... Gravvy.",
+        "Show me the mummy!",
+        "I call upon the spirits of the Undead to show you my abilities... oh. Wait. They just popped up right here! How convenient.",
+        "I see my skills have been duly enshrined..",
+        "Doom to the tomb!",
+        "I came, I saw, I clobbered!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Grave Clobber's name is a portmanteau of 'grave robber' and 'clobber', referencing both his nature as an undead being and his main weapon being his hands.",
+    "Grave Clobber has the highest amount of health of all the Senseis, having 400 hit points at the start and 1,200 at maximum.",
+    "He, Cuckoo Clocker and Hood Sickle are the only villains to be summoned by a Doom Raider.",
+    "He is the only villain to be summoned by a different villain of the same element.",
+    "His turning good quote is a pun off of the famous line in the movie Jerry Maguire.",
+    "His capture quote is based off the phrase 'I want my mommy!'",
+    "His head resembles that of the the Spirit of Delphi from Percy Jackson: Sea of Monsters.",
+    "His post-Sky-Chi quote is based off the famous phrase of Julius Caesar, 'I came, I saw, I conquered.'",
+    "Despite being a humanoid made of living stone, his imprisonment has turned him into an Undead mummy. Because of this, he makes several references to the Undead element, despite not being elementally aligned with it in any of his appearances.",
+    "He is voiced by Kevin Michael Richardson, who also voiced Stump Smash, Tree Rex/Barkley, and Eye Five.",
+    "As a Sensei, water constantly drips from Grave Clobber's body to indicate the change in his element.",
+    "He and King Pen are both Brawler Senseis of the Water element.",
+    "One of his idle animations in Imaginators has him attempt to adjust his shendyt, while another has him striking the pose of a traditional Ancient Egyptian mummy."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Imaginators Meet Grave Clobber",
+      "isValid": true,
+      "url": "https://static.wikia.nocookie.net/skylanders/images/d/d3/Official_Skylanders_Imaginators_Meet_Grave_Clobber.png"
+    },
+    {
+      "name": "Skylanders Imaginators - Grave Clobber Soul Gem Preview",
+      "isValid": true,
+      "url": "https://static.wikia.nocookie.net/skylanders/images/6/60/Skylanders_Imaginators_-_Grave_Clobber_Soul_Gem_Preview.png"
+    }
+  ],
+  "gameplay": "Grave Clobber can use his large fists for strong punches and cause shockwaves on the ground, and summon spiky bones that can be punched to throw bone shards into enemies. In Skylanders: Imaginators, his rocky insides are now full of water and fire off streams when he does a variety of wrestling moves, from punches, to lariats, to belly flops and aerial kicks. Grave Clobber can also summon alligator totems that sprinkle water to reach enemies from afar or to do a powerful vertical suplex. Despite his slow walking speed however, his Sky-Chi shows that his speed lies on his fists, as he throws punches so fast that he absorbs water in waves around him to pull enemies forward.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Grave_Clobber_(character)",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Clobber Punch",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9f/Grave_Clobberprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506212352",
+        "content": "Press Attack 1 to clobber your enemies. Jump and press Attack 1 to drop kick.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Gator Geyser",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Grave_Clobbersecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170506212357",
+        "content": "Press Attack 2 to summon a Gator Geyser Fountain that you can punch.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Big Splash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/38/Grave_Clobberbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506212405",
+        "content": "Press Attack 3 to flop on top of your enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Luchador Lariat",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/48/Grave_Clobberbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506212412",
+        "content": "After any Clobbber Punch, hold Attack 1 to launch your Lariat.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Precision Slamming",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bf/Grave_Clobberbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506212421",
+        "content": "Hold Attack 2 to control where your Gator Geyser appears.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Waves in the Pool",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Grave_Clobberbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506212426",
+        "content": "Send a wave out with each Big Splash.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Poseidon Lariat",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/90/Grave_Clobbersoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506212432",
+        "content": "After any Clobber Punch, hold Attack 1 to launch an upgraded Lariat.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "Wave Clobber",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Grave_Clobberskychipower.png/revision/latest/scale-to-width-down/148?cb=20170506212439",
+        "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power! Use Left Stick to direct your fists of fury as waves pull enemies towards you.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Heavyweight Champion",
+        "abilities": [
+          {
+            "name": "Tsunami Punch",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Grave_Clobberpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506212707",
+            "content": "Clobber Punches do more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Monsoon Boom",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2a/Grave_Clobberpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506212712",
+            "content": "When you punch a Gator Geyser, it produces a watery explosion.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Lucha Libre",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Grave_Clobberpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506212718",
+            "content": "After any Clobber Punch, hold Attack 2 to perform the Gatos Geyser Suplex or hold Attack 3 to perform the Top Rope Super Splash.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Wave Maker",
+        "abilities": [
+          {
+            "name": "Geyser Undertow",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/39/Grave_Clobberpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506212724",
+            "content": "While holding Attack 2 a whirlpool appears to pull enemies where your Gator Geyser will appear.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "The Greater Gator",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f0/Grave_Clobberpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506212731",
+            "content": "Gator Geysers do more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Wave Goodbye",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/79/Grave_Clobberpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506212736",
+            "content": "Perform 3 quick Big Splashes to pull off the Ultimate Big Splash.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "grave-clobber",
+      "id": "grave-clobber-sensei",
       "variant_name": "Grave Clobber",
       "edition": "Series 1",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/d/d5/GraveClobber.png",
       "attacks": [
-        "Trap Team=Arm Sweep Ground Smash Bone Summon"
+        "Clobber Punch",
+        "Gator Geyser",
+        "Big Splash",
+        "Lucha Libre",
+        "Wave Goodbye"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "400 / 1200"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "320"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "350"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "200"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Grave_Clobber_(character)"
     }
   ]
