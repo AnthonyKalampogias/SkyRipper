@@ -4,6 +4,7 @@
   "species": "Skeletal Ghoul",
   "gender": "Male",
   "element": "Undead",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Spyro's Kingdom (Cancelled)",
@@ -18,22 +19,278 @@
     "Secret Agent Secrets",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Ghost Roaster, formerly known as Olav, is an Undead skeletal ghoul Skylander in Skylanders: Spyro's Adventure. He is only available for purchase in the Darklight Crypt Adventure Pack.",
   "biography": "There was a time when Ghost Roaster was neither a ghost nor a roaster. Instead he was a chef living in a village high in the mountains. One day, while clipping wool from a sheep to use in a recipe, he accidentally fell into the Valley of the Undead and transformed into a ghost-eating ghoul! After eating an entire spectral village, its Ethereal Ruler chained Ghost Roaster to a spiked ball as punishment -- its rattle heard as he wanders the night, warning nearby spirits. When Master Eon eventually heard of his predicament, he figured even a ghost eater could be useful. So he made Ghost Roaster a Skylander... after he promised to eat only evil ghosts.",
-  "personality": "Ghost Roaster is known for his relentless, undying appetite for ghosts (particularly evil ghosts). However, being a chef, he is good in the kitchen for making delicious recipes. Despite his scary behavior, he seems unfazed by pranks such as Camo 's. &#91; 2 &#93; In Secret Agent Secrets , Ghost Roaster's flaw is revealed to be a desire to have his work recognized, even if by the side of the villains. Years being put aside in favor of newcomer Skylanders made him bitter towards them, until Stormblade expressed respect for what he did regardless of his threats.",
-  "story": null,
+  "quote": "No Chain, No Gain!",
+  "personality": "Ghost Roaster is known for his relentless, undying appetite for ghosts (particularly evil ghosts). However, being a chef, he is good in the kitchen for making delicious recipes. Despite his scary behavior, he seems unfazed by pranks such as Camo's. In Secret Agent Secrets, Ghost Roaster's flaw is revealed to be a desire to have his work recognized, even if by the side of the villains. Years being put aside in favor of newcomer Skylanders made him bitter towards them, until Stormblade expressed respect for what he did regardless of his threats.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Ghost Roaster absolutely loved food. From spectre soup to phantasm fries, he regarded any Undead recipe with relish (and sometimes tops them with relish too). But Ghost Roaster wasn't always a gobbling soul; he was once a simple chef called Olav. Olav lived in a mountain-top village and was said to serve the best sheep-wool stew in all of Skylands (not that anyone had ever tried it anywhere else there). One day, when Olav was wandering the hills searching for sheep (or, more specifically, their wool), he slipped down the mountain side. Luckily he bounced on his behind and made a soft landing in the valley below. Unluckily his bottom was badly bruised. More unluckily still, he had entered the Valley of the Undead, and his days as a friendly foodie were over. A famished Olav, or 'Ghost Roaster' as he decided to call himself, went in immediate search for a bite to eat. Luckily, a nearby ghost town was spilling over with puffy white spooks - which Ghostie promptly treated as a paranormal all-you-can-eat buffet. Understandably, the town's ethereal ruler was a little irritated to find its inhabitants completely devoured. So, as punishment, he chained Ghost Roaster to a rattling spiked ball to warn any wandering spirits. Taking pity on the skeletal ghoul, Master Eon made Ghost Roaster a Skylander - but only after he swore not to turn Hex into a hamburger.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Secret Agent Secrets",
+      "content": "Ghost Roaster, Voodood, and Boomer were Buzz's elite team of Skylanders when they mysteriously disappeared while on a mission at Motleyville and haven't returned for months. SuperChargers, Spitfire, Stormblade and Nightfall, were assigned to find the lost Skylanders at their last known location. Upon getting ambushed by Spell Punks lead by Spellslamzer, the SuperChargers were suddenly defeated and knocked unconscious by Ghost Roaster, Voodood, and Boomer, who were now working for Spellslamzer. With the three SuperChargers detained, Spellslamzer announced his plan to raid the Mabu Radiance mines of its rare and powerful minerals, therefore controlling the crystal supply to become the supreme power in all of Skylands. As Stormblade wondered why Voodood, Ghost Roaster, and Boomer would turn their backs on Skylands and Master Eon, Ghost Roaster revealed that he and the other two Elites grew tired of being tossed aside and forgotten while the Skylanders such as the SuperChargers, SWAP Force and the Giants are more appreciated. The ghoul Skylander would later stop Spitfire, Stormblade and Nightfall when they attempted to escape and Spellslamzer had the three SuperChargers strapped helplessly to the front of their own vehicles as the evil Spell Punk and his army ride out towards the Mabu mines. During their attack on the Radiance Mines, Voodood and Boomer turned against Spellslamzer, revealing that all three Elites were pretending to be evil from the start. However Ghost Roaster held onto the belief that he and the Elites would simply be tossed aside and forgotten even if they turn in Spellslamzer; the ghoul remained on Spellslamzer's side, eventually engaging his former friends in battle. He fought against Stormblade and got his ball and chain stuck to the ground during the struggle. Ghost Roaster demanded Stormblade to take him down like any other bad guy, but she refused, reminding Ghost Roaster that he was a hero and someone who takes a special kind of courage to risk so much for no reward. Moved by Stormblade's words, Ghost Roaster threw his ball and chain at the Radiance crystals under Spellslamzer, blowing them up and knocking Spellslamzer unconscious. The ghoul Skylander returned to the side of good, complimenting Stormblade's heroism and receiving forgiveness for his actions from his fellow Skylanders.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/Elites_Issue_2.png/revision/latest/scale-to-width-down/262?cb=20151217081140"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "No Chain, No Gain! AHAHAHAHAAAA!!!!!",
+        "Bad to the bone!",
+        "Spooky good!",
+        "Didn't see me coming did ya?!",
+        "Gonna slip right through!",
+        "Fun fun fun!",
+        "Boo!",
+        "It's scary how good I am!",
+        "Easy as ghost pie!",
+        "It's beautiful in the underworld this time of year!",
+        "Good enough to eat!",
+        "Stopping by my old haunts!",
+        "The ghost with the most!",
+        "Shall we engrave these numbers?",
+        "Oh! Good look for me!",
+        "Ooh! I'll look great in this!",
+        "Ooh, scary!",
+        "Think I can get used to this."
+      ]
+    }
+  ],
+  "trivia": [
+    "He is one of the very few Skylanders who had a Proper Name before becoming a Skylander.",
+    "Ghost Roaster's catchphrase 'No Chain, No Gain' is a joke on the saying 'No Pain, No Gain'.",
+    "He is the first Skylander that has an upgrade that decreases his health slightly.",
+    "Therefore, he is also the first who can get knocked out in the hub worlds of the Skylanders series.",
+    "Like Pac Man, Ghost Roaster eats ghosts. His Skull Charge is a very obvious reference to Pac Man.",
+    "Ghost Roaster is voiced by John Kassir, best known as the voice of the Cryptkeeper in Tales from the Crypt. Both characters also have Undead traits.",
+    "His name may have been a reference to Marvel's Ghost Rider.",
+    "Ghost Roaster was originally called Ghost Eater.",
+    "There is a glitch in Swap Force where if you jump while in Ectoplasm Mode, Ghost Roaster's chain becomes transparent until he enters Ectoplasm Mode again.",
+    "He, Bash, and Bop both have spikeballs attached to them.",
+    "There is a glitch in Giants where you cannot complete his quest Grave Circumstances after getting the Fright Bite upgrade.",
+    "One time Ghost Roaster was about to unknowingly crack open one of Sonic Boom's eggs into a mixing bowl to whip up a batch of pancakes. Needless to say Sonic Boom wasn't happy, and poor Ghost Roaster didn't know what hit him!",
+    "He and Smash Hit have spiked balls at the end of their chains.",
+    "A skin texture map of Ghost Roaster was leaked in the 1.0 version of Skylanders: Ring of Heroes, but he never appeared in the final game.",
+    "If Ghost Roaster is interrupted by a dialogue scene or cinematic while using Skull Charge in the Xbox 360 version of Spyro's Adventure, he will revert to his normal form but float gradually forward in the direction that he's facing.",
+    "The collectable skulls that appear in the Tech Gate maze of Cadaverous Crypt and the Undead Gate of Empire of Ice are modeled off Ghost Roaster's skull, with rubies for eyes."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Ghost Roaster (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Ghost_Roaster_(extended)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Ghost Roaster Trailer (No Chain, No Gain)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Ghost_Roaster_Trailer_(No_Chain,_No_Gain)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Ghost Roaster Preview Trailer (No Chain, No Gain)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Ghost_Roaster_Preview_Trailer_(No_Chain,_No_Gain)"
+    },
+    {
+      "name": "Skylanders Giants - Ghost Roaster's Soul Gem Preview (No Chain, No Gain)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Ghost_Roaster%27s_Soul_Gem_Preview_(No_Chain,_No_Gain)"
+    }
+  ],
+  "gameplay": "Being a ghoul, Ghost Roaster can turn intangible to avoid enemy attacks, at the cost of his health, before returning to physical form to attack his opponents. He can also turn into a large flaming and speeding skull, and strikes his enemies using his spiked ball tail.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Ghost_Roaster",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Chain Whip",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/39/Ghost_Roasterprimarypower.png/revision/latest?cb=20120508053320",
+        "content": "Swing your chain tail at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Skull Charge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Ghost_Roastersecondarypower.png/revision/latest?cb=20120508053333",
+        "content": "Transform into a ghostly head that barrels through enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Pain Chain",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/df/Ghost_Roasterbasicupgrade1.png/revision/latest?cb=20120508053451",
+        "content": "Chain Whip attacks do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Metalhead",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Ghost_Roasterbasicupgrade2.png/revision/latest?cb=20120508053528",
+        "content": "The Skull Charge attacks last longer.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Ectoplasm Mode",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/51/Ghost_Roasterbasicupgrade3.png/revision/latest?cb=20120508053543",
+        "content": "Enter Ectoplasm Mode and be immune to all attacks, but lose health over time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Haunt",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Ghost_Roasterbasicupgrade4.png/revision/latest?cb=20120508053618",
+        "content": "Defeating an enemy with the Chain Whip turns them into a ghost that attacks other enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Lingering Curse",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Ghost_Roastersoulgempower.png/revision/latest?cb=20120508053347",
+        "content": "Ghosts have a bigger attack range and knocks enemies away.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Fear Eater",
+        "abilities": [
+          {
+            "name": "Phase Shift Burst",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/62/Ghost_Roasterpath1upgrade1.png/revision/latest?cb=20120508053631",
+            "content": "All nearby enemies take damage when you enter Ectoplasm Mode.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Ecto-Friendly",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/67/Ghost_Roasterpath1upgrade2.png/revision/latest?cb=20120508053645",
+            "content": "While in Ectoplasm Mode, you move faster and lose less health over time.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Nightmare Touch",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dd/Ghost_Roasterpath1upgrade3.png/revision/latest?cb=20120508053657",
+            "content": "Touching a ghost while in Ectoplasm Mode creates a powerful explosion.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Skull Master",
+        "abilities": [
+          {
+            "name": "Fright Bite",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Ghost_Roasterpath2upgrade1.png/revision/latest?cb=20120508053709",
+            "content": "Skull Charge does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Unfinished Business",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/44/Ghost_Roasterpath2upgrade2.png/revision/latest?cb=20120508053723",
+            "content": "Defeating an enemy with Skull Charge creates a ghost.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Life Transfer",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Ghost_Roasterpath2upgrade3.png/revision/latest?cb=20120508053754",
+            "content": "Devouring a ghost while doing a Skull Charge heals you.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "ghost-roaster",
       "variant_name": "Ghost Roaster",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core Skylander",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Ghost_Roaster.jpg",
       "attacks": [
@@ -43,7 +300,28 @@
         "Haunt",
         "Nightmare Touch"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 (max. 560)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20 (max. 70)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Ghost_Roaster"
     }
   ]
