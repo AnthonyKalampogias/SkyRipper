@@ -4,6 +4,7 @@
   "species": "Rock Golem",
   "gender": "Male",
   "element": "Earth",
+  "role": "Giant",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -13,22 +14,112 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Granite Crusher is a black and blue variant of the Earth Giant, Crusher.",
+  "biography": "Granite Crusher is a black and blue variant of the Earth Giant, Crusher.",
+  "quote": "It's Crush Hour!",
+  "personality": "As a variant of Crusher, he is a formidable and heavy-hitting warrior who uses his massive size and strength to protect Skylands, often declaring it 'Crush Hour' before engaging in battle.",
+  "story": [
+    {
+      "story_name": "Origins",
+      "content": "Granite Crusher is a black and blue variant of the Earth Giant, Crusher. He was first released as a Target exclusive in Skylanders: Giants.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Granite_Crusher_Promo.jpg"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "It's Crush Hour!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the second Skylander to be exclusive to Target, the first being Series 1 Whirlwind (though she is no longer a Target exclusive), the third being Jade Flashwing, and the fourth being Nitro Magna Charge."
+  ],
+  "trailers": [],
+  "gameplay": "Granite Crusher features high health and armor as a Giant. His moveset includes crushing enemies with his hammer, petrifying them with his gaze, and creating rockslides. His starting console stats include 470 Health and 60 Speed.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Granite_Crusher",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Crusher's Crusher",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Granite_Crusher_Promo.jpg",
+        "content": "Crusher swings his massive granite hammer to crush enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Turn to Stone",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Granite_Crusher_Promo.jpg",
+        "content": "Crusher uses his powerful gaze to turn enemies into stone.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Rockslide",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Granite_Crusher_Promo.jpg",
+        "content": "Creates a rockslide that damages enemies in a wide area.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Ground Grinder",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Granite_Crusher_Promo.jpg",
+        "content": "A powerful ground-pounding attack that grinds the earth.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Cavelight Blast",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Granite_Crusher_Promo.jpg",
+        "content": "A powerful blast of energy released from deep within the caves.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "granite-crusher",
       "variant_name": "Granite Crusher",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Series 1 Giant",
+      "type": "Special Variant",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Granite_Crusher_Promo.jpg/revision/latest?cb=20121008023755",
       "attacks": [
@@ -38,7 +129,44 @@
         "Ground Grinder",
         "Cavelight Blast"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "470 (max. 940)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60 (max. 108)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40 (max. 90)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "140"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "140"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "60"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Granite_Crusher"
     }
   ]
