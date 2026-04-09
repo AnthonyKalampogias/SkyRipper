@@ -4,6 +4,7 @@
   "species": "Robot",
   "gender": "Female",
   "element": "Tech",
+  "role": "Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -12,22 +13,255 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Rift into Overdrive",
+  "cameos": [
+    "Rift into Overdrive"
+  ],
   "world": [
     "Metallana"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Gearshift was created on the Tech island of Metallana by King Mercurus, who considered the young robot to be his own daughter. But rather than performing royal duties, Gearshift preferred to spend her time in the oily depths of the kingdom among its workers, secretly tending to the huge subterranean machines. When her father discovered this, he was furious - but then a squadron of Undead Stormriders suddenly attacked. Learning that these marauders wanted to capture her father, Gearshift used her knowledge of the labyrinth below to hide him. Seizing the emblem of her people - The Great Gear - she used it to fight the Stormriders, inspiring the workers to rise up. Together, they drove the Stormriders out of Metallana and saved the kingdom. For this, Gearshift was made part of the Trap Team, using her new awesome Traptanium-forged gear to help defend Skylands .",
-  "personality": "Gearshift's passion and spirit are an inspiration to her teammates. She's also quick on her feet. &#91; 2 &#93;",
-  "story": null,
+  "description": "Gearshift is a tall, humanoid robot with white metal plating and golden coils making up her arms, neck, and abdomen. Her shoulders are topped by a small white gear and her hands are connected by a sleeve-like collar. Her head consists of a circular bolt on each side; blue eyes with red, glowing pupils; and the forehead is embedded with the symbol of the Tech element. Her weapon of choice is a wide Traptanium Gear, with four pegs on each side and two handlebars for Gearshift to handle it. Like all Trap Masters, she has their signature symbol, inside the gear attached to her back.",
+  "biography": "Gearshift was created on the Tech island of Metallana by King Mercurus, who considered the young robot to be his own daughter. But rather than performing royal duties, Gearshift preferred to spend her time in the oily depths of the kingdom among its workers, secretly tending to the huge subterranean machines. When her father discovered this, he was furious - but then a squadron of Undead Stormriders suddenly attacked. Learning that these marauders wanted to capture her father, Gearshift used her knowledge of the labyrinth below to hide him. Seizing the emblem of her people - The Great Gear - she used it to fight the Stormriders, inspiring the workers to rise up. Together, they drove the Stormriders out of Metallana and saved the kingdom. For this, Gearshift was made part of the Trap Team, using her new awesome Traptanium-forged gear to help defend Skylands.",
+  "quote": "All Geared Up!",
+  "personality": "Gearshift's passion and spirit are an inspiration to her teammates. She's also quick on her feet.",
+  "story": [
+    {
+      "story_name": "Light in the Dark",
+      "content": "Gearshift was on patrol in Perilous Pastures when she was attacked and overrun by candy warriors led by Pain-Yatta. She barely managed to escape and reached the Skylanders Academy where Mags was able to repair the badly damaged Gearshift. She soon explained to Master Eon, Spotlight and Blackout about what happened to her. After deducing that Pain-Yatta was behind the candy threat using the powers of the Light and Dark element, Gearshift was eager to put a stop to Pain-Yatta's plan despite not being fully repaired. Under Master Eon's orders, she gathered most of the Trap Masters and Rocky Roll to combat the army of Candy Warriors, successfully saving a group of Mabu but were forced to hold out in an abandoned castle. Seeing the army of candy soldiers at the castle gates, Gearshift rallied her fellow Skylanders in a battle for Skylands. They were able to hold back the candy forces, but the walls were eventually breached, forcing the Skylanders to retreat deeper into the castle. As the Skylanders were becoming overwhelmed, the candy warriors suddenly dropped to pieces, as the Light and Dark Skylanders defeated Pain-Yatta elsewhere. Gearshift, confused about what happened, happily announced to the Skylanders present that they had won the battle.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "All Geared Up!",
+        "Mechanize!",
+        "Make way.",
+        "Crank it up!",
+        "Superior in every way",
+        "Seeing double?",
+        "All wired up!",
+        "Gear up for battle",
+        "What a smash!",
+        "That was fun!",
+        "Fear the gear!",
+        "Power rising",
+        "Spinning up!",
+        "Money!",
+        "Ranking up!",
+        "More power!",
+        "Technically speaking: I am awesome!",
+        "Outstanding numbers, as expected.",
+        "This hat is mind blowing, seriously!",
+        "A true gear head"
+      ]
+    }
+  ],
+  "trivia": [
+    "Gearshift's catchphrase, 'All Geared Up!', is similar to Spyro's catchphrase, 'All Fired Up!' and Wind-Up's, 'All Wound Up!'",
+    "She is the third robot to have an organic voice after Wind-Up and Spy Rise.",
+    "She, Rocky Roll, Star Strike, and Dr. Krankcase are the only Skylanders with the same number of all their stats.",
+    "Gearshift's voice actor, Susan Eisenberg, is known for voicing Wonder Woman in the DC Animated Universe.",
+    "She and Sprocket are the only female Skylanders of the Tech element. Of the two, Gearshift is the only non-core female Tech character."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Gearshift",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Gearshift"
+    },
+    {
+      "name": "Skylanders Trap Team - Gearshift's Soul Gem Preview (All Geared Up)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Trap_Team_-_Gearshift%27s_Soul_Gem_Preview_(All_Geared_Up)"
+    }
+  ],
+  "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Gearshift",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Traptanium Gear",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/Gearshiftprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506145244",
+        "content": "Press Attack 1 to perform a Traptanium Gear attack, depending on which Mode you are in.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Mode Toggle",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Gearshiftsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170506145249",
+        "content": "Press Attack 2 to toggle between Hoop Mode, Dual Mode, and Fragment Mode, with all different attacks.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Gear Grind",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dd/Gearshiftbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506145258",
+        "content": "Press Attack 3 to cartwheel forward, damaging anything in your path.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Gear Saw",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Gearshiftbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506145306",
+        "content": "Press Attack 2 to switch modes and release a Gear Saw. Gear Grind into it to make it spin again.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Many Mini-Gears",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Gearshiftbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506145312",
+        "content": "Press Attack 3 to Gear Grind and release a bunch of dangerous Mini-Gears.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Mini-Gear Distribution",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2f/Gearshiftbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506145320",
+        "content": "After Mini-Gears are released, press Attack 1 in Hoop Mode to knock Mini-Gears into enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Swing Shift",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Gearshiftsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506145328",
+        "content": "Traptanium Gear is more powerful and can switch modes much faster.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Dual Mode Duelist",
+        "abilities": [
+          {
+            "name": "Spare Parts",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Gearshiftpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506145619",
+            "content": "In Dual Mode, press Attack 1, Attack 1, Attack 1 to release a Gear Saw.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Keep 'Em Spinning",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Gearshiftpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506145626",
+            "content": "In Dual Mode, press Attack 1 to hit a Gear Saw and make it spin longer.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Geared Up",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6a/Gearshiftpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506145634",
+            "content": "Gear Saws are larger and occasionally release Mini-Gears.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Fragment Mode Freak",
+        "abilities": [
+          {
+            "name": "Enhanced Fragmentation",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Gearshiftpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506145755",
+            "content": "In Fragment Mode, press Attack 1 to fire more fragments more.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Kick It into High Gear",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Gearshiftpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506145802",
+            "content": "In Fragment Mode, press Attack 1 to also release Mini-Gears.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Hardware Overload",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/68/Gearshiftpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506145808",
+            "content": "In Fragment Mode, repeatedly press Attack 1 to lob out a ton of Mini-Gears.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "gearshift",
       "variant_name": "Gearshift",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/42/Gearshift_Promo.jpg/revision/latest?cb=20140610214032",
       "attacks": [
@@ -37,7 +271,28 @@
         "Spare Parts",
         "Enhanced Fragmentation"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300 (max. 600)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 (max. 118)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40 (max. 90)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "39 (max. 89)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Gearshift"
     }
   ]
