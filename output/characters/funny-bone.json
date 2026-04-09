@@ -4,6 +4,7 @@
   "species": "Skeletal Dog",
   "gender": "Male",
   "element": "Undead",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -11,22 +12,295 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Punch Line Island"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Funny Bone once lived on Punch Line Island – the funniest place in the Land of the Undead and home of the Eternal Chuckling Trees that magically make everyone laugh when the breeze tickles them. But after hearing stories of this, the evil Count Moneybone sent his minions to investigate if this magic could be used to make a \"Funny Bomb\" that would render Skylands helpless with laughter. Funny Bone was in the middle of burying his neighbors’ birthday cake on a breezeless day when the invaders arrived. Seeing their large axes, Funny Bone instantly knew that the Chuckling Trees were in danger. Without hesitation, he sprang into action, fighting off the minions and driving them from his humorous home. Now as a Skylander, Funny Bone delivers his own punch line to evil!",
-  "personality": "Funny Bone is very protective. He always knows when danger's afoot. How does he know? Well, let's just say he gets a funny feeling about it. &#91; 1 &#93;",
-  "story": null,
+  "description": "Funny Bone is a Skeleton dog who is one of the Undead core Skylanders in Skylanders: Trap Team.",
+  "biography": "Funny Bone once lived on Punch Line Island – the funniest place in the Land of the Undead and home of the Eternal Chuckling Trees that magically make everyone laugh when the breeze tickles them. But after hearing stories of this, the evil Count Moneybone sent his minions to investigate if this magic could be used to make a 'Funny Bomb' that would render Skylands helpless with laughter. Funny Bone was in the middle of burying his neighbors' birthday cake on a breezeless day when the invaders arrived. Seeing their large axes, Funny Bone instantly knew that the Chuckling Trees were in danger. Without hesitation, he sprang into action, fighting off the minions and driving them from his humorous home. Now as a Skylander, Funny Bone delivers his own punch line to evil!",
+  "quote": "I Have a Bone to Pick!",
+  "personality": "Funny Bone is very protective. He always knows when danger's afoot. How does he know? Well, let's just say he gets a funny feeling about it.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Funny Bone once lived on Punch Line Island – the funniest place in the Land of the Undead and home of the Eternal Chuckling Trees that magically make everyone laugh when the breeze tickles them. But after hearing stories of this, the evil Count Moneybone sent his minions to investigate if this magic could be used to make a 'Funny Bomb' that would render Skylands helpless with laughter. Funny Bone was in the middle of burying his neighbors' birthday cake on a breezeless day when the invaders arrived. Seeing their large axes, Funny Bone instantly knew that the Chuckling Trees were in danger. Without hesitation, he sprang into action, fighting off the minions and driving them from his humorous home. Now as a Skylander, Funny Bone delivers his own punch line to evil!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/24/Funny_Bone.png/revision/latest?cb=20171116075227"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "I Have a Bone to Pick!"
+      ]
+    },
+    {
+      "quote_type": "Digging up a Bone Paw",
+      "content": [
+        "Come on, lazy bones!",
+        "Sick 'em!"
+      ]
+    },
+    {
+      "quote_type": "Attacking",
+      "content": [
+        "Chew on this!",
+        "Grave danger ahead!",
+        "Spin spine!",
+        "Spin spot!",
+        "Beware of dog!",
+        "Walking the dog!",
+        "All bark and all bite!"
+      ]
+    },
+    {
+      "quote_type": "Leveled Up",
+      "content": [
+        "Hot diggity!",
+        "Un-leashed!"
+      ]
+    },
+    {
+      "quote_type": "Opening a Treasure Chest",
+      "content": [
+        "Ooh, doggy treats"
+      ]
+    },
+    {
+      "quote_type": "Putting on a Hat",
+      "content": [
+        "Fantasic hat! Ha ha, can I get a collar to match?"
+      ]
+    },
+    {
+      "quote_type": "Given a Nickname",
+      "content": [
+        "Come on, throw me a bone here!",
+        "Best name ever, no bones about it!"
+      ]
+    },
+    {
+      "quote_type": "Checking Stats",
+      "content": [
+        "I'm doggone awesome!",
+        "Old dog, new tricks!"
+      ]
+    }
+  ],
+  "trivia": [
+    "The Bone Discs are a reference to real life where a dog fetches a frisbee.",
+    "The Bone Saw attack resembles a monowheel: a vehicle with one wheel where the chair is inside.",
+    "His catchphrase is a play on the phrase 'I have a bone to pick with you'.",
+    "Funny Bone's name originates from a nerve from the human body, scientifically known as the Ulnar Nerve.",
+    "Funny Bone is one of the many Undead characters that can summon allies, others including Eye-Brawl, Krypt King, Rattle Shake, Cynder, Bat Spin, and Ghost Roaster.",
+    "He is one of the few playable canines in Skylanders (other canines include Hot Dog, Wolfgang, Slobber Trap and Flare Wolf).",
+    "Coincidentally, both he and Wolfgang are from the Undead element.",
+    "Funny Bone bears a resemblance to Horrifido from Dr. Zitbag's Transylvania Pet Shop.",
+    "In an interview during San Diego Comic Con 2014, I-Wei mispronouced Funny Bone's name as 'Bone Saw'."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Funny Bone",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Funny_Bone"
+    },
+    {
+      "name": "Skylanders Trap Team - Funny Bone's Soul Gem Preview (I Have A Bone To Pick)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Funny_Bone%27s_Soul_Gem_Preview_(I_Have_A_Bone_To_Pick)"
+    },
+    {
+      "name": "Skylanders Power Play- Funny Bone",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play-_Funny_Bone"
+    }
+  ],
+  "gameplay": "Funny Bone, being part of the Undead, possesses bone summoning abilities. He can fling out phantom frisbees to pummel enemies as his primary attack. Later upgrades allow him to chase after the disk and perform a slam attack once the disk is caught. Funny Bone also can charge up a spinning bone saw attack and grind into enemies. His third attack involves digging underground to bring up skeletal bone paws that attack enemies.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Funny_Bone",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Flying Bone Disc",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Funny_Boneprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506170933",
+        "content": "Press Attack 1 to shoot a Flying Bone Disc.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Bone Saw",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/Funny_Bonesecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170506170938",
+        "content": "Press Attack 2 to dash forward and slice enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Bone Paws",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Funny_Bonebasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506170947",
+        "content": "Press Attack 3 to raise Bone Paws from the ground which attack enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Disc Demon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/23/Funny_Bonebasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506170954",
+        "content": "Flying Bone Disc does extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Ferocious Fetch",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Funny_Bonebasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506171001",
+        "content": "Press and hold Attack 1 to chase after the Flying Bone Disc and release to fetch it.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Bump Up the Blades",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2e/Funny_Bonebasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506171010",
+        "content": "Press and hold Attack 2 to charge a Bone Saw.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Healing Paws",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Funny_Bonesoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506171018",
+        "content": "Bone Paws pet Funny Bone to heal him.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Tail Wagger",
+        "abilities": [
+          {
+            "name": "Supercharged Saw",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Funny_Bonepath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506171615",
+            "content": "Press and hold Attack 2 to supercharge the Bone Saw.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Bone Paw Power",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Funny_Bonepath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506171620",
+            "content": "Dash towards a Bone Paw to supercharge the Bone Saw.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Head Case",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Funny_Bonepath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506171625",
+            "content": "Press and hold Attack 3 to summon a ghostly skull to devour enemies during the Bone Saw attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Bone Zoner",
+        "abilities": [
+          {
+            "name": "Flying Bone Doom",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Funny_Bonepath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506171630",
+            "content": "Flying Bone Discs now explode and do additional damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Ultimate FBD",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Funny_Bonepath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506171635",
+            "content": "Flying Bone Disc Slam affects a larger area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Play Catch",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Funny_Bonepath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506171640",
+            "content": "Hit a Bone Paw with a Flying Bone Disc to play catch with other paws.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "funny-bone",
       "variant_name": "Funny Bone",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/2/24/Funny_Bone.png/revision/latest?cb=20171116075227",
       "attacks": [
@@ -36,7 +310,28 @@
         "Supercharged Saw",
         "Flying Bone Doom"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 (max. 118)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20 (max. 70)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46 (max. 96)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Funny_Bone"
     }
   ]
