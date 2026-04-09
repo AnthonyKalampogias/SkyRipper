@@ -4,6 +4,7 @@
   "species": "Gillman",
   "gender": "Male",
   "element": "Water",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -20,24 +21,336 @@
     "Rift into Overdrive",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators",
-    "Skylanders: Ring of Heroes}}"
+    "Skylanders: Ring of Heroes"
   ],
-  "cameos": "*Spyro versus The Mega Monsters *The Kaos Trap *Trigger Happy Targets the Evil Kaos *Return of the Dragon King *Unexpected Allies",
+  "cameos": [
+    "Spyro versus The Mega Monsters",
+    "The Kaos Trap",
+    "Trigger Happy Targets the Evil Kaos",
+    "Return of the Dragon King",
+    "Unexpected Allies"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Gill Grunt was a brave soul who joined the Gillmen military in search of adventure. While journeying through a misty lagoon in the clouds, he met an enchanting mermaid. He vowed to return to her after his tour. Keeping his promise, he came back to the lagoon years later, only to learn a nasty band of pirates had kidnapped the mermaid. Heartbroken, Gill Grunt began searching all over Skylands . Though he had yet to find her, he joined the Skylanders to help protect others from such evil, while still keeping an ever-watchful eye for the beautiful mermaid and the pirates who took her.",
-  "personality": "Gill Grunt is one fish who never lets evil off the hook, willing to protect people other than himself and his friends. Brave and courageous, he is a loyal companion to have at your side. Protective and determined, Gill is a bighearted Gillman who never, ever gives up. &#91; 3 &#93; He believes himself to be one of the greatest singers in history, while others find his singing to be dreadful; a trait shared by all Gillmen. In spite of this, Gill Grunt's friends (with the exception of Eruptor ) are too fond of him to tell the truth.",
-  "story": null,
+  "description": "Gill Grunt is a blue Gillman wearing a teal swimsuit, teal arm gloves and legwear. He also has webbed feet, a fin on his head and two on his sides that act like ears, two gill openings (one on each side of his face) and yellow & orange eyes. He's also one of the few Gillmen with visible teeth (two long fangs sticking up from his lower lip). He's even armed with a harpoon machine and a water jetpack.",
+  "biography": "Gill Grunt was a brave soul who joined the Gillmen military in search of adventure. While journeying through a misty lagoon in the clouds, he met an enchanting mermaid. He vowed to return to her after his tour. Keeping his promise, he came back to the lagoon years later, only to learn a nasty band of pirates had kidnapped the mermaid. Heartbroken, Gill Grunt began searching all over Skylands. Though he had yet to find her, he joined the Skylanders to help protect others from such evil, while still keeping an ever-watchful eye for the beautiful mermaid and the pirates who took her.",
+  "quote": "Fear the Fish!",
+  "personality": "Gill Grunt is one fish who never lets evil off the hook, willing to protect people other than himself and his friends. Brave and courageous, he is a loyal companion to have at your side. Protective and determined, Gill is a bighearted Gillman who never, ever gives up. He believes himself to be one of the greatest singers in history, while others find his singing to be dreadful; a trait shared by all Gillmen. In spite of this, Gill Grunt's friends (with the exception of Eruptor) are too fond of him to tell the truth.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Gill Grunt grew up in a typical Gillmen city on the ocean bottom. From his glass bedroom bubble window, he would gaze out at circling cyber squid and menacing mega sharks. He couldn't have been more bored. So he joined the toughest military corps ever to soldier in salt water: the Gillmen marines. His first tour of duty sent him to a far-flung floating cloud land in the sky. Here, by the waters of a misty lagoon, Gill was disarmed by the unlikeliest of opponents - an enchanting mermaid. With his jaw on the ground and eyes bulging even more than usual, Gill was smitten. He vowed to return as soon he had stonkered enough spit spiders.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "The Machine of Doom",
+      "content": "On Eon's island, Gill Grunt was celebrating the Skylanders' latest victory over the forces of evil with a song, much to the Skylanders' discomfort. Afterwards, the Gillman was sent on a mission with Spyro and Eruptor to the Mabu Market to check on Hugo and Flynn's report of flying sheep attacking. They soon found out that the sheep weren't really flying, but were carried by invisible trolls led by a Spell Punk who were looking for an item called the Chattering Key for Kaos. Gill Grunt later embark on a journey with Spyro, Boomer, Flynn, and Eruptor to the Forest of Fear to find the Chattering Key, which was used to unlock a tomb that contained an Arkeyan weapon. The Gillman fell victim to the Fungus Rings of Despair, and his worst fear came to life as he hallucinated being barbecued alive by two trolls who intend on eating Gill Grunt. Spyro soon saved Gill Grunt from his nightmare along with the other Skylanders, and make their way through the Forest of Fear.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Machine_of_Doom_Illustration10.jpg"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Fear the Fish!",
+        "Strapped to the gills!",
+        "Locked and loaded!",
+        "Ready for battle!",
+        "Fin for the win!",
+        "Fins of fury!",
+        "Gill power!",
+        "Booyah!",
+        "Can't win against the fin!",
+        "Gillmen never give up!",
+        "By swim or fin, Gill Grunt will win!",
+        "Alright!",
+        "K-O!",
+        "Yaayy!!",
+        "Yeah, heh, heh, hey!",
+        "Flying fish!",
+        "Up and away!",
+        "Yo-ho!",
+        "Whoo-hoo!",
+        "Ohh, Yeah!",
+        "Hooah!",
+        "The thrill of the gill!",
+        "Hook, line, and sinker!",
+        "Go fish!",
+        "Here I come!",
+        "Ah ha, uncharted waters!",
+        "Quite the lure!",
+        "Ooh, a fine booty!",
+        "I am one prized fish!",
+        "Lookin' good, lookin' good!",
+        "Ooh! Looks just my size!",
+        "Heh,heh! This headpiece is outstanding!",
+        "That'll work just fine!",
+        "Call me whatever you like!",
+        "Somethin' seems fishy here!",
+        "Might as well be swimmin' in circles!"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "Here I come!",
+        "I am Gill Grunt! Fear the Fish!",
+        "I'm booming in! Boom!",
+        "We need to use the ship!",
+        "But that's good! Lava barfing is your weapon!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Gill Grunt is the only Skylander with a character-specific achievement, which involves taking out Kaos' Minions with Gill Grunt's water hose in Lava Lakes Railway.",
+    "Gill Grunt is the personal favorite Skylander of Alex Ness, the former Chief of Staff in the development of Skylanders. Alex even admitted that he has a weird loyalty to Gill Grunt.",
+    "Although Gill Grunt's biography and later games state that he still searches for his mermaid girlfriend after joining the Skylanders, Alex Ness mentioned that the Gillman eventually rescued her before he became a Skylander.",
+    "On Gill Grunt's old render image for Spyro's Adventure, he originally had a mad-looking frown on his face. So it was redesigned giving him a smile on his face.",
+    "Despite being one of the Skylanders who can speak English in Spyro's Adventure, Gill Grunt still has few of his original gibberish lines.",
+    "Gill Grunt is the only Skylander in the starter pack for Spyro's Adventure who doesn't have a Legendary counterpart.",
+    "His gameplay is similar to that of F.L.U.D.D.'s from Super Mario Sunshine.",
+    "He and Jet-Vac share various similarities, including using large guns and wearing jetpacks."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventure Gill Grunt Trailer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_Gill_Grunt_Trailer"
+    },
+    {
+      "name": "Skylanders Giants - Meet the Skylanders - Series 2 Gill Grunt (Fear the Fish)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Series_2_Gill_Grunt_%28Fear_the_Fish%29"
+    }
+  ],
+  "gameplay": "Gill Grunt can shoot harpoons and also launch torrents of water at his enemies using his harpoon gun. He can also use his water jet pack to hover above ground, and even fly.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Gill_Grunt",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Harpoon Gun",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/68/Gill_Gruntprimarypower.png",
+        "content": "Shoot high-velocity harpoons at your enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Power Hose",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/05/Gill_Gruntsecondarypower.png",
+        "content": "Spray water at your enemies to knock them back.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Barbed Harpoons",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2b/Gill_Gruntbasicupgrade1.png",
+        "content": "Harpoons do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "High Pressure Power Hose",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4d/Gill_Gruntbasicupgrade2.png",
+        "content": "Power hose attack does extra damage and knocks enemies back further.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Harpoon Repeater",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Gill_Gruntbasicupgrade3.png",
+        "content": "Harpoons reload faster.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Water Jetpack",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/db/Gill_Gruntbasicupgrade4.png",
+        "content": "Fly until the Water Jetpack runs out.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Anchor Cannon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Gill_Gruntsoulgempower.png",
+        "content": "Hold down the primary power button to charge the Anchor Cannon attack, then release to fire.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Anchor's Away",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3f/Gill_Gruntwowpowpower.png",
+        "content": "Hold Attack 1 and release to fire three giant anchors.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "season": 3,
+        "name": "Anchor Management!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/04/Gill_Gruntwowpow2power.png",
+        "content": "Charge up the Anchor Cannon and press Attack 2 to do special damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "season": 4,
+        "name": "Ride the Leviathan!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/af/Gill_Gruntwowpow3power.png",
+        "content": "In Jet Pack mode, press Attack 2 to ride a giant Leviathan, taking out anything in its path.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Harpooner",
+        "abilities": [
+          {
+            "name": "Quadent Harpoons",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Gill_Gruntpath1upgrade1.png",
+            "content": "Harpoons do even more increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Piercing Harpoons",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a9/Gill_Gruntpath1upgrade2.png",
+            "content": "Harpoons travel straight through enemies and hit new targets.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Tripleshot Harpoon",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ec/Gill_Gruntpath1upgrade3.png",
+            "content": "Shoot three harpoons at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Water Weaver",
+        "abilities": [
+          {
+            "name": "Reserve Water Tank",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e7/Gill_Gruntpath2upgrade1.png",
+            "content": "The Power Hose and Water Jetpack never run out of water.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Boiling Water Hose",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/32/Gill_Gruntpath2upgrade2.png",
+            "content": "Power Hose attack does even more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Neptune Gun",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6a/Gill_Gruntpath2upgrade3.png",
+            "content": "When using the Power Hose, launch exploding starfish.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "gill-grunt",
+      "id": "gill-grunt-s1",
       "variant_name": "Gill Grunt",
       "edition": "Series 1",
-      "type": "Sensei",
+      "type": "Core Skylander",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/6/65/Gill_Grunt_Promo.jpg",
       "attacks": [
@@ -47,7 +360,28 @@
         "Water Jet Pack",
         "Anchor Cannon"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (Lv. 10: 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 (Max: 83)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "6 (Max: 36)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50 (Max: 100)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (Max: 100)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Gill_Grunt"
     }
   ]
