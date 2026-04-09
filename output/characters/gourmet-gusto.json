@@ -1,33 +1,59 @@
 {
   "id": "gourmet-gusto",
   "name": "Gourmet Gusto",
-  "species": "Unknown",
+  "species": "Cloud Creature",
   "gender": "Male",
   "element": "Air",
-  "primary_game": "Skylanders: Lost Islands May 2015",
+  "role": "Trap Master",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Thunderclap Kingdom"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Gourmet Gusto is a chef-themed variant of the Air Trap Master Gusto, created exclusively for the mobile game Skylanders: Lost Islands.",
+  "biography": "Gourmet Gusto appeared in May 2015 as a special addition to the Lost Islands. Trading his usual hunting gear for a chef's hat and apron, he brings a culinary flair to the Skylands, proving that even a Trap Master can appreciate the finer points of gourmet cooking.",
+  "quote": "Gourmet Gusto is bringing some flavor to the Lost Islands!",
+  "personality": "Gourmet Gusto is a jovial and enthusiastic chef. He shares the boisterous and friendly nature of the original Gusto, but redirected toward his passion for food and culinary arts.",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Game Description",
+      "content": [
+        "Gourmet Gusto is bringing some flavor to the Lost Islands!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Gourmet Gusto is the last Skylander exclusive to the mobile game Skylanders: Lost Islands."
+  ],
+  "trailers": [],
+  "gameplay": "In Skylanders: Lost Islands, Gourmet Gusto functions as a playable hero who can be assigned to various tasks on the player's islands to earn gold and experience. Like other Trap Masters in the game, he provides specific elemental bonuses.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Gourmet_Gusto",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "gourmet-gusto",
+      "id": "gourmet-gusto-variant",
       "variant_name": "Gourmet Gusto",
-      "edition": "Series 1",
+      "edition": "Special",
       "type": "Trap Master",
-      "game": "Skylanders: Lost Islands May 2015",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/d/db/Gourmet_Gusto.PNG/revision/latest?cb=20150501124811",
+      "game": "Skylanders: Lost Islands",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/db/Gourmet_Gusto.PNG",
       "attacks": [],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Element",
+          "stat_value": "Air"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Gourmet_Gusto"
     }
   ]
