@@ -4,35 +4,112 @@
   "species": "Ent",
   "gender": "Male",
   "element": "Life",
+  "role": "Mini",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands Miniverse"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Gnarly Barkley is a blue-tinted variant of the Life Mini, Barkley. He made his debut in Skylanders: Trap Team and shares the move set of his larger counterpart, Tree Rex.",
+  "biography": "Gnarly Barkley is the blue counterpart of the Life Mini, Barkley, in Skylanders: Trap Team. He is the only Mini variant to be based of a variant for his regular sized counterpart, Gnarly Tree Rex.",
+  "quote": "Be Afraid Of The Bark!",
+  "personality": "Gnarly Barkley is feisty and determined, embodying the strength of the forest in a miniature but powerful form.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "Gnarly Barkley is the blue counterpart of the Life Mini, Barkley, in Skylanders: Trap Team. He represents a unique variant in the Miniverse, appearing with a distinct blue bark color scheme similar to the Giant, Gnarly Tree Rex.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/90/GnarlyBarkleyArtwork.png"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrases",
+      "content": [
+        "Be Afraid Of The Bark!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He, Power Punch Pet-Vac, and Eggsellent Weeruptor are the only Minis to be available in single packs instead of double packs.",
+    "He bears the same name and color scheme as the counter part of Tree Rex, Gnarly Tree Rex.",
+    "This makes him the only Mini variant to be based of a variant for his regular sized counterpart.",
+    "His name bears a resemblance to Gnarls Barkley, a 2000's group notable for their song 'Crazy.'",
+    "He is the only variant Skylander before SuperChargers to not have an appearance in Skylanders: Lost Islands.",
+    "If Gnarly Barkley is placed on the portal in Skylanders: Giants, he shows as a 'special' variant (In Skylanders Swap Force he shows as the regular version).",
+    "He is the only variant of a mini Skylander who debuted in another game other than Trap Team."
+  ],
+  "trailers": [],
+  "gameplay": "Gnarly Barkley plays identically to Tree Rex and Barkley, utilizing heavy physical attacks like the Shockwave Slam and charging maneuvers like the Sequoia Stampede to dominate the battlefield.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Gnarly_Barkley",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Shockwave Slam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/90/GnarlyBarkleyArtwork.png",
+        "content": "A powerful ground-shaking slam that creates shockwaves to damage surrounding enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#ffffff"
+        }
+      },
+      {
+        "name": "Sequoia Stampede",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/90/GnarlyBarkleyArtwork.png",
+        "content": "A charging stampede attack that tramples anything in its path.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#ffffff"
+        }
+      }
+    ],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "gnarly-barkley",
+      "id": "gnarly-barkley-tt",
       "variant_name": "Gnarly Barkley",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Special",
+      "type": "Mini",
       "game": "Skylanders: Trap Team",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/9/90/GnarlyBarkleyArtwork.png/revision/latest?cb=20170205043200",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/90/GnarlyBarkleyArtwork.png",
       "attacks": [
-        "Shockwave Slam Sequoia Stampede"
+        "Shockwave Slam",
+        "Sequoia Stampede"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "N/A"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "N/A"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "N/A"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "N/A"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Gnarly_Barkley"
     }
   ]
