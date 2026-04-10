@@ -4,6 +4,7 @@
   "species": "Fire Dog",
   "gender": "Male",
   "element": "Fire",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -14,22 +15,315 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "*Return of the Dragon King *Skylanders: Battlecast",
+  "cameos": [
+    "Return of the Dragon King",
+    "Skylanders: Battlecast"
+  ],
   "world": [
     "Popcorn Volcano"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Hot Dog was born in the belly of the Popcorn Volcano. While on a nearby mission, a team of Skylanders had come across the stray fire pup when the volcano erupted and Hot Dog came rocketing straight into their camp, accidentally setting Gill Grunt 's tent on fire. Using his nose of danger, he helped the Skylanders complete their mission - even pouncing on a Lava Golem like a blazing comet when it threatened his new friends. After displaying such loyalty and bravery, Hot Dog was brought back to Eon's Citadel where he became a Skylander - and then he proceeded to bury Eon 's staff.",
-  "personality": "Hot Dog possesses a fierce loyalty to his friends, and true to his nature, he likes to bury things, especially imps . &#91; 3 &#93; &#160;He is always bounding around like an excitable puppy - which is exactly what he is. Not the kind of Skylander to go hungry, he is always on the lookout for a sizzling snack. &#91; 4 &#93;",
-  "story": null,
+  "description": "Hot Dog is a young Fire dog who is one of the Core Skylanders in Skylanders: Giants. He has a yellow counterpart called Molten Hot Dog that is exclusive to Walmart. His Series 2 counterpart is called Fire Bone Hot Dog. He was originally one of the three starter Skylanders in Skylanders: Ring of Heroes prior to its reboot. He is available in the Scorpion Striker battle pack.",
+  "biography": "Hot Dog was born in the belly of the Popcorn Volcano. While on a nearby mission, a team of Skylanders had come across the stray fire pup when the volcano erupted and Hot Dog came rocketing straight into their camp, accidentally setting Gill Grunt's tent on fire. Using his nose of danger, he helped the Skylanders complete their mission - even pouncing on a Lava Golem like a blazing comet when it threatened his new friends. After displaying such loyalty and bravery, Hot Dog was brought back to Eon's Citadel where he became a Skylander - and then he proceeded to bury Eon's staff.",
+  "quote": "See Spot Burn!",
+  "personality": "Hot Dog possesses a fierce loyalty to his friends, and true to his nature, he likes to bury things, especially imps. He is always bounding around like an excitable puppy - which is exactly what he is. Not the kind of Skylander to go hungry, he is always on the lookout for a sizzling snack.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "This cutie-wutie little puppy was born in the belly of the Popcorn Volcano, then spat out when the volcano erupted. Luckily for Hot Dog, he crash-landed safely on a tent in a nearby camp. But it was unlucky for the Skylander, Gill Grunt, who was fast asleep inside at the time. To make up for burning Gill Grunt's tent down, Hot Dog helped the Skylanders complete the mission Master Eon had sent them on. Using his amazing sense of smell, he led them to the end of their quest, and when a lava monster started threatening his new friends, Hot Dog demonstrated just how useful he can be in a scrap! Brave, loyal, and able to scratch his ears with his hind legs, Hot Dog is a valuable member of the Skylanders, even if he does keep trying to bury Chop Chop when no one's looking.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Terrafin Battles the Boom Brothers",
+      "content": "Hot Dog was enjoying a day-off at the Fantastic Fairy Fair with fellow Skylanders, Terrafin and Sonic Boom. The trio of Skylanders soon discovered a sad Rock Golem named Rocky who was under the unwilling employment of Professor Puck, the fair's owner who took Rocky from his home after discovering that the Golem's magical, singing voice made everyone within earshot dance. After saving Gurglefin from a sticky cluster of cotton candy, the Skylanders attended Puck's circus show with Rocky being the star attraction due to his singing. Soon, the show was interrupted when a group of Trolls and the evil Sweet-O-Tron 3000 trapped everyone, including the Skylanders, under a layer of sticky candyfloss, and kidnapped Rocky, believing him to the Earth segment to the Mask of Power. Thanks to Hot Dog's fire power, the Skylanders were able to free themselves and the crowd from the candyfloss. The fire puppy then assisted Terrafin and Sprocket in their battle against Kaos, the Trolls, and Sweet-O-Tron 3000, saving the circus from a sticky explosion.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fc/Hot_Dog_Terrafin.png/revision/latest/scale-to-width-down/266?cb=20150315035724"
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "Hot Dog was among the forty Skylanders who were summoned to stop Malefor, the Undead Dragon King, from attacking the Skylanders Academy. However he along with the other Skylanders were defeated by the evil dragon and had their powers stolen.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "See Spot Burn!",
+        "Fire wall!",
+        "Oh yeah!",
+        "Hot under the collar!",
+        "Fear of dog!",
+        "Yes!",
+        "Alright!",
+        "Head fire!",
+        "Next time, I'll eat your shoes!",
+        "Success is mine!",
+        "Burning up!",
+        "Looking good!",
+        "Ooh! Top Dog!",
+        "Ooh, looks like fun!",
+        "Who unleashed the fire??",
+        "My burn is worse than my bite!",
+        "Hot! Hot!",
+        "Excellent!",
+        "Heat wave!",
+        "Hot on the trail!",
+        "Can't fence me in!",
+        "Aruff, now I'm cookin'!",
+        "Quite a fetching hat!",
+        "Ooh hey, this matches my collar!",
+        "Woof, I can live with that.",
+        "Good name, even for me."
+      ]
+    },
+    {
+      "quote_type": "Book Quotes",
+      "content": [
+        "Hey Terrafin. Can we get some food now? Woof! Can we? Can we? Can we?",
+        "He's the champ. He'd never let us down. Woof!"
+      ]
+    },
+    {
+      "quote_type": "Media Quotes",
+      "content": [
+        "Check it out! Dog, in a dog house!",
+        "They're still going to be friends after this battle, right?"
+      ]
+    }
+  ],
+  "trivia": [
+    "Hot Dog is the first Skylander to have his name based on a kind of food, followed by Thumpling, Pop Thorn, Rocky Roll, Jawbreaker and Tri-Tip.",
+    "In early development of Skylanders: Giants, Hot Dog was named Comet.",
+    "During Giants's alpha development, his primary attack was called 'Fire Feet' and 'Hot Dog Combos' was called 'Canine Combos'.",
+    "He and Hot Head are the only Fire Skylanders with the word 'hot' in their names.",
+    "He has an incredible sense of smell. His highly sensitive nostrils can sniff out trouble from miles away.",
+    "In Giants, the Bone Hat is placed in Hot Dog's mouth instead of on his head. In Swap Force, it was changed to being placed on his head.",
+    "He, Ignitor, Fryno, Fire Kraken, and Eruptor all have 'burn' in their catchphrases.",
+    "Although it's not a melee attack, he can perform combos with his Firebark, making him the only Skylander with this ability.",
+    "Hot Dog's bee attacks are a direct reference to a joke from The Simpsons Season 5 episode 'Burns Heir' where Homer Simpson comments if he's going to release dogs with bees in their mouths, that when they bark, they would shoot bees at you.",
+    "Carlos Alazraqui was the first voice actor for Spyro in Spyro the Dragon in 1998.",
+    "In the 'Still Friends' commercial, he was voiced by Tom Kenny.",
+    "He, Fright Rider and Sprocket are the only three Giants-debut core Skylanders without any LightCore counterparts.",
+    "His Catchphrase, 'See Spot Burn' may be a reference to the pun or the 2001 movie, 'See Spot Run'."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Giants - Meet the Skylanders - Hot Dog (See Spot Burn)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Hot_Dog_(See_Spot_Burn)"
+    },
+    {
+      "name": "Skylanders Giants - Hot Dog's Soul Gem Preview (See Spot Burn)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Giants_-_Hot_Dog%27s_Soul_Gem_Preview_(See_Spot_Burn)"
+    },
+    {
+      "name": "Meet the Skylanders Fire Bone Hot Dog",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Fire_Bone_Hot_Dog"
+    }
+  ],
+  "gameplay": "Hot Dog's main attack is Firebark, which has him shooting fireballs from his mouth and tail, and he has a primary combo where he shoots three fireballs at once. He can summon a wall of fire that travels straight forward to push and damage enemies; it can also be held on the Attack 2 button to be used as a shield for incoming enemies. His third attack, the Comet Slam, flips him in the air spinning and then slamming down upon enemies for massive damage. By choosing the Burning Bow-Wow path, Hot Dog's fireball attacks are further developed. This upgrade path grants him a more powerful Firebark attack and access to 2 new attacks: Burnin' Bees and Comet Dash, both useful in thinning the crowd. By choosing the Pyro Pooch path, Hot Dog's Wall of Fire attack is further developed. The Wall of Fire can be upgraded into a 'Magmutt Battalion;' a wall of fiery dogs that shoot fireballs whenever Hot Dog does. Hot Dog is generally a medium-long range fighter with powerful attacks, regardless of which upgrade path is chosen. However, his health and armor stats are very low, which ties him with Gill Grunt for the lowest armor in the game.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Hot_Dog",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Firebark",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/Hot_Dogprimarypower.png/revision/latest?cb=20130113074750",
+        "content": "Press Attack 1 to spit fireballs. Press Attack 1, Attack 1, Hold Attack 1 for a special combo!",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Wall of Fire",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Hot_Dogsecondarypower.png/revision/latest?cb=20130113074950",
+        "content": "Press Attack 2 to summon a wall of fire, which can be pushed towards enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Pyro Piercers",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Hot_Dogbasicupgrade1.png/revision/latest?cb=20130113075002",
+        "content": "Fireballs pierce multiple enemies and do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Comet Slam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Hot_Dogbasicupgrade2.png/revision/latest?cb=20130113075017",
+        "content": "Press Attack 3 to flip into the air and slam down on the ground like a comet.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Wall of MORE Fire",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/Hot_Dogbasicupgrade3.png/revision/latest?cb=20130113075028",
+        "content": "Walls of Fire do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Super Comet",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/44/Hot_Dogbasicupgrade4.png/revision/latest?cb=20130125185459",
+        "content": "Hold Attack 3 to charge up the Comet Slam and release to do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Ding Dong Ditch",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/98/Hot_Dogsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20121113065031",
+        "content": "After a Comet Slam, leave a burning bag that explodes when stepped on.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Bees! Bees! Bees!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/14/Hot_Dogwowpowpower.png/revision/latest?cb=20160724101337",
+        "content": "Hold Attack 1 then release to fire a super powerful blast of bees.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Burning Bow-Wow",
+        "abilities": [
+          {
+            "name": "Hot Dog Combos",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/42/Hot_Dogpath1upgrade1.png/revision/latest?cb=20130201155433",
+            "content": "Press Attack 1, Attack 1, Hold Attack 2 for Burnin' Bees. Press Attack 1, Attack 1, Hold Attack 3, for Comet Dash.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Bark Bombs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Hot_Dogpath1upgrade2.png/revision/latest?cb=20130201160030",
+            "content": "Fireballs explode on impact and do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Pyro Pinwheel",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/12/Hot_Dogpath1upgrade3.png/revision/latest?cb=20130201160044",
+            "content": "While holding Attack 3 to charge up the Comet Slam, Hot Dog shoots fireballs from all angles.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Pyro Pooch",
+        "abilities": [
+          {
+            "name": "Blazing Wildfire",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b6/Hot_Dogpath2upgrade1.png/revision/latest?cb=20130125185519",
+            "content": "Walls of Fire travels faster and do even more increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Great Walls of Fire",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9f/Hot_Dogpath2upgrade2.png/revision/latest?cb=20130125185539",
+            "content": "Walls of Fire are bigger and do even more increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Magmutt Battalion",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Hot_Dogpath2upgrade3.png/revision/latest?cb=20130125185600",
+            "content": "Walls are now made up of fiery dogs that do maximum damage and shoot fireballs.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "hot-dog",
+      "id": "hot-dog-s1",
       "variant_name": "Hot Dog",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Hot_Dog_Promo.jpg",
       "attacks": [
@@ -39,7 +333,63 @@
         "Wall of More Fire",
         "Super Comet"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "250"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "6"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Hot_Dog"
+    },
+    {
+      "id": "fire-bone-hot-dog",
+      "variant_name": "Fire Bone Hot Dog",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/3b/S2_Hot_Dog_Promo.jpg",
+      "attacks": [
+        "Firebark",
+        "Wall of Fire",
+        "Comet Slam",
+        "Wall of More Fire",
+        "Super Comet",
+        "Bees! Bees! Bees!"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "80"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Hot_Dog"
     }
   ]
