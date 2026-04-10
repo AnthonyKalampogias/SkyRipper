@@ -4,6 +4,7 @@
   "species": "Fire Golem",
   "gender": "Male",
   "element": "Fire",
+  "role": "Giant",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -13,22 +14,339 @@
     "Skylanders: Battlecast",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Rift into Overdrive",
+  "cameos": [
+    "Rift into Overdrive"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Hot Head is a Large Fire Golem who is one of the eight Giants in Skylanders: Giants.",
   "biography": "Hot Head had always been a short tempered fire giant. But it was when magical oil was discovered in Skylands that fuel was really added to the fire. As exciting as the discovery was, the celebration lasted only 5 minutes - coming to an abrupt halt when Hot Head needed to cool off and plunged into the thick black pool, causing the entire island to explode! Though it would be another 2,000 years before magical oil was discovered again, the impact that it had on Hot Head was immediate. He was instantly infused with magical oil, giving him the ability to generate an infinite supply of fuel - making him incredibly volatile, highly combustible, and ready to torch anything that got in his way.",
-  "personality": "Impetuous is a good word to describe Hot Head. He just can't help himself. This giant Fire Golem is always burning with enthusiasm. He smothers his enemies in blazing blobs of burning oil first, and asks questions second. &#91; 3 &#93;",
-  "story": null,
+  "quote": "“Hey! I'm On Fire!”",
+  "personality": "Impetuous is a good word to describe Hot Head. He just can't help himself. This giant Fire Golem is always burning with enthusiasm. He smothers his enemies in blazing blobs of burning oil first, and asks questions second.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "There's something about being on fire that can sometimes make people irritable. This giant Golem, Hot Head, is no exception. A vast, towering Fire Golem, the only thing short about Hot Head is his temper. Usually angry and often reckless, Hot Head once leapt into a pool of magical oil, the very first pool of magical oil ever to be discovered in Skylands. Hot Head hoped it would help him cool down. It didn't. The BOOM was heard all across Skylands, as the entire island Hot Head was on exploded in a spectacular fireball. Although most of the magical oil was instantly vaporized, some of it fused with Hot Head, granting him a limitless fuel supply and the ability to torch anything, or anyone, that might get in his way. Directing his burning anger towards the Arkeyans, Hot Head was a valuable addition to the original Skylanders, while also helping cut down on their heating bills.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b2/Hot_Head_Promo.jpg/revision/latest?cb=20121117065411"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Heh, hey! I'm On Fire!",
+        "I'm just getting warmed up!",
+        "You got burned!",
+        "You just got flame broiled!",
+        "I like the bad guys well done!",
+        "Incendiary!",
+        "Oho, burn!",
+        "Do something hot!",
+        "Fuel the fire!",
+        "It's grillin' time!",
+        "Maximum firepower!",
+        "Hail to the chef!",
+        "Oh! Feel the burn!",
+        "Molten mania!",
+        "You just got flame boiled!",
+        "Fire in the hole!",
+        "Can't be contained!",
+        "That's some firepower!",
+        "My fire never expires!",
+        "Heat blast!",
+        "Fireball!",
+        "Comet crush!",
+        "Heatin' up!",
+        "Heat rises!",
+        "High heat!",
+        "Ignite!",
+        "Burn!",
+        "Scorch!",
+        "Sizzle!",
+        "Toast!",
+        "Sear!",
+        "Oh yeah!",
+        "Sweet!",
+        "I'm on a hot streak!",
+        "Hot as ever.",
+        "My head just got hotter!",
+        "All right, I'm stoked!",
+        "I'm stoked!",
+        "I'm kinda lukewarm on that but...okay."
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "On fire!",
+        "Hot as ever!",
+        "Hot Head is ready!",
+        "Ready to burn!",
+        "Here comes the heat!",
+        "Hey, I'm on fire!",
+        "Turn up the heat!",
+        "Ready to fight!",
+        "Need to cool off!",
+        "Time to chill!",
+        "Burning bright!",
+        "On a hot streak!",
+        "Totally stoked!",
+        "That's scorchin'!",
+        "Friendly fire!",
+        "Turning up the heat!",
+        "Fire in the hole!",
+        "Toasty!",
+        "Feel the burn!",
+        "It's getting hot!",
+        "Let's burn it up!",
+        "Raging fire!",
+        "You're mine!",
+        "Now you're playing with fire!",
+        "Out of control!",
+        "Can't tame the flame!",
+        "Boiled over!",
+        "Full blast!",
+        "You got burned!",
+        "Piling it on!",
+        "Too hot to handle!",
+        "So that's what hot is...!",
+        "My fire is out...For now!",
+        "Flamed out big time...",
+        "Not cool at all...",
+        "Feel the heat!",
+        "A scorching victory!",
+        "Don't. Play with fire.",
+        "What?!",
+        "My blood's starting to boil.",
+        "I'm Hot Head!",
+        "Fire away!",
+        "I'm losing patience.",
+        "Untamed flame!",
+        "My flames are growing!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Some of Hot Head's prototype names include Fire Giant, Fire Golem and Oil Blazer.",
+    "In early development, Hot Head's shoulders were red and his claws were yellow. He also had grey screws in the sides of his head, reminiscent of Frankenstein's monster.",
+    "He is the only playable Golem who is not of the Earth element.",
+    "One of his upgrades, 'Hot with a Chance of Meteors,' is a reference to the 2009 animated film 'Cloudy with a Chance of Meatballs.'",
+    "During Giants's early development, some of Hot Head's abilities/upgrades were differently named. 'Flamefire Burst' was called 'Flameball Burst', 'Oil Blobs' was called 'Oil Drum', and 'Sizzle Shower' was called 'Fire Rain'.",
+    "Hot Head has the Fire Symbol on his back.",
+    "He and Hot Dog are the only Fire Skylanders (at the same time) with the word Hot in their names.",
+    "In the Time Twisters Story Activity Book, Hot Head revealed he is almost 200,000 years old and three quarters. However, he does not believe he looks a day over 150,000.",
+    "Hot Head has an Easter Egg where if you hold his 'Eternal Flame' attack long enough in Skylanders: Trap Team, he'll start monologuing.",
+    "It is rumored that his original catchphrase was, 'Aaaargh, help! Someone find a hose, quick!'",
+    "He slightly resembles Fire Man from the first game in the Mega Man video game series and Oil Man from the PSP game Mega Man Powered Up.",
+    "There is a glitch where when in hot rod form, when attacked, Hot Head will revert to his natural state whilst still acting as if in hot rod form.",
+    "Hot Head is often mentioned as a cook.",
+    "Hot Head is the only character who changes pitches in his voice from time to time on the portal.",
+    "On his figure, his facial expression is similar to the facial expression on Series 2 Eruptor's figure.",
+    "He and Fryno are the only two fire characters who have motorbike based upgrades.",
+    "In the game, Hot Head is voiced by Patrick Seitz, who also voices Rip Tide, Chomp Chest, and Thrillipede.",
+    "His Sizzle Shower may be based on Adele's song, 'Set Fire to the Rain'.",
+    "One of Hot Head's upgrade paths is called 'The Burninator', referencing the fictional dragon Trogdor from the Homestar Runner webseries.",
+    "As seen in the Face Your Fears card in Battlecast, Hot Head is afraid of freezing over."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Hot Head",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Hot_Head"
+    },
+    {
+      "name": "Skylanders Giants - Hot Head's Soul Gem Preview (Hey! I'm on Fire!)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Hot_Head%27s_Soul_Gem_Preview_(Hey!_I%27m_on_Fire!)"
+    }
+  ],
+  "gameplay": "Hot Head is a giant molten fire golem, who can fire both flames and blobs of oil from his hands. He can also summon rain-like drops of fire from the sky. Hot Head can even transform into a hot rod to run over enemies. In Time Twisters it was shown that Hot Head is very durable, as he was shot by Tech Geargolems, the projectiles deflected off his body, and merely tickled Hot Head. In Skylanders: Battlecast, he has the ability to summon a Mood Ring Gear that increases his damage the more he is attacked, and, as well as having high health to shrug off attacks, many of his spells have conditions for him being attacked in the enemy turn. Hot Head's Special Ability is Boiling Over, which increases his power and is more effective if he was attacked in that turn. His scrapped signature relic is the Fury's Forge, which increases his allies' power by damaging them slightly.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Hot_Head",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Flamefire Burst",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/35/Hot_Headprimarypower.png/revision/latest?cb=20121118040810",
+        "content": "Press Attack 1 to shoot a burst of fire. Hold Attack 1 to keep flames going.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Oil Blobs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Hot_Headsecondarypower.png/revision/latest?cb=20121118040824",
+        "content": "Press Attack 2 to shoot a blob of oil that can be lit on fire for serious damage.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Premium Grade",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/92/Hot_Headbasicupgrade1.png/revision/latest?cb=20121118040851",
+        "content": "Oil Blobs and ignited Oil Blobs do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Sizzle Shower",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/76/Hot_Headbasicupgrade2.png/revision/latest?cb=20121118040923",
+        "content": "Press Attack 3 to summon a rain of fire from the sky.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Turn Up The Heat!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/57/Hot_Headbasicupgrade3.png/revision/latest?cb=20121118040938",
+        "content": "Flamefire burst gets even hotter and does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Extended Forecast",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/52/Hot_Headbasicupgrade4.png/revision/latest?cb=20121118040953",
+        "content": "Sizzle Shower lasts longer and does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Hot Rod",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a5/Hot_Headsoulgempower.png/revision/latest?cb=20121118040837",
+        "content": "Hold Attack 1 and Attack 2 to transform into a hot rod!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "The Burninator",
+        "abilities": [
+          {
+            "name": "Eternal Flame",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/53/Hot_Headpath1upgrade1.png/revision/latest?cb=20130108214012",
+            "content": "Can use Flamefire continuously and does maximum damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Hot Oil Treatment",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/33/Hot_Headpath1upgrade2.png/revision/latest?cb=20130108213932",
+            "content": "Oil Blobs and ignited Oil Blobs do maximum damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Fossil Fuel",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/Hot_Headpath1upgrade3.png/revision/latest?cb=20130108213829",
+            "content": "Oil Blobs turn into fossilized monsters who attack enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Oil Baron",
+        "abilities": [
+          {
+            "name": "Fire Storm",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Hot_Headpath2upgrade1.png/revision/latest?cb=20121118041025",
+            "content": "Sizzle Shower does maximum damage and covers a larger area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Oil And Fire",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2f/Hot_Headpath2upgrade2.png/revision/latest?cb=20121118041041",
+            "content": "During a Sizzle Shower, press Attack 2 to create an oily explosion, catching enemies on fire.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Hot With A Chance of Meteors",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Hot_Headpath2upgrade3.png/revision/latest?cb=20121118041131",
+            "content": "Hold Attack 3 to summon a gigantic meteor from the sky.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "hot-head",
       "variant_name": "Hot Head",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Giant",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/b/b2/Hot_Head_Promo.jpg/revision/latest?cb=20121117065411",
       "attacks": [
@@ -38,7 +356,24 @@
         "Turn Up the Heat!",
         "Premium Grade"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "430"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "20"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "80"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Hot_Head"
     }
   ]
