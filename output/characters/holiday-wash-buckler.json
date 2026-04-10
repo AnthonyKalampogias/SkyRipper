@@ -4,30 +4,65 @@
   "species": "Mermasquid",
   "gender": "Male",
   "element": "Water",
-  "primary_game": "Skylanders: Lost Islands (December 2013)",
+  "role": "SWAP Force",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Holiday Wash Buckler is a Christmas-themed variant of Wash Buckler appearing in Skylanders: Lost Islands.",
+  "biography": "Holiday Wash Buckler is a Christmas counterpart of Wash Buckler in Skylanders: Lost Islands. In December 2013, players could obtain him by playing Skylanders: Battlegrounds.",
+  "quote": "Here to spread the cheer is Holiday Wash Buckler!",
+  "personality": "Not mentioned",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Holiday Wash Buckler is a Christmas counterpart of Wash Buckler in Skylanders: Lost Islands. In December 2013, you would need to play Skylanders: Battlegrounds in order to get him.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/HolidayWashBuckler.jpg/revision/latest?cb=20140704041631"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Announcement",
+      "content": [
+        "Here to spread the cheer is Holiday Wash Buckler!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He, Admiral Thumpback and Frosted Food Fight are the only Lost Islands Exclusive Skylanders who are not Grand Prizes of the Wishing Well.",
+    "However, Holiday Wash Buckler could be earned from the Wishing Well for a limited time when past Alter Egos returned.",
+    "Holiday Wash Buckler, Lucky Boomer, Hoppity Pop Fizz and Admiral Thumpback are the only Lost Islands exclusive Skylanders of 2013 without a specific house of their own."
+  ],
+  "trailers": [],
+  "gameplay": "As an Alter Ego in Skylanders: Lost Islands, Holiday Wash Buckler functions as a special collectible character that provides unique resource bonuses and can be sent on missions within the game.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Holiday_Wash_Buckler",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "holiday-wash-buckler",
+      "id": "holiday-wash-buckler-alter-ego",
       "variant_name": "Holiday Wash Buckler",
-      "edition": "Series 1",
-      "type": "Swap Force",
-      "game": "Skylanders: Lost Islands (December 2013)",
+      "edition": "Special Edition",
+      "type": "Alter Ego",
+      "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/46/HolidayWashBuckler.jpg/revision/latest?cb=20140704041631",
       "attacks": [],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Element",
+          "stat_value": "Water"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Holiday_Wash_Buckler"
     }
   ]
