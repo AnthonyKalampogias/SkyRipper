@@ -4,6 +4,7 @@
   "species": "Elf",
   "gender": "Female",
   "element": "Earth",
+  "role": "Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -12,22 +13,297 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Return of the Dragon King",
+  "cameos": [
+    "Return of the Dragon King"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Head Rush is an elven viking like Earth Trap Master who was released in Skylanders: Trap Team. She utilizes her massive Traptanium horns and powerful vocal yodels to lead the charge against evil.",
   "biography": "Head Rush was raised in a small village that had fallen under the spell of a powerful Harvest Sphinx, who forced the frightened villagers to plow the vast fields of golden grass for his own benefit. Although there were many villagers, no individual was brave enough to confront the Sphinx and put an end to its rule. But Head Rush believed there was a chance to fight back if she could somehow inspire her people to stand together. Charging through her village, Head Rush shouted a mighty yodel that woke the villagers from their spell! With the village behind her, she then led the charge to drive the Sphinx from the island for good. For her leadership and bravery, she was made part of the Trap Team, where she uses her giant Traptanium Horns to take charge of evil!",
-  "personality": "Head Rush's positive attitude is an inspiration to her friends. She may not think of herself as a great leader, but Master Eon and the Skylanders know that she is on a path to greatness. &#91; 3 &#93; In Ring of Heroes , she's supportive of her allies, always trying to find a quality that they might be overlooking in their skills.",
-  "story": null,
+  "quote": "Taking Charge!",
+  "personality": "Head Rush's positive attitude is an inspiration to her friends. She may not think of herself as a great leader, but Master Eon and the Skylanders know that she is on a path to greatness. In Ring of Heroes, she's supportive of her allies, always trying to find a quality that they might be overlooking in their skills.",
+  "story": [
+    {
+      "story_name": "Character Development",
+      "content": "According to designer I-Wei Huang, Head Rush was initially planned to be a goat with crystal horns. Her horns came about as a creative twist on the slew of more traditional Traptanium weapons.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "Head Rush was raised in a small village that had fallen under the spell of a powerful Harvest Sphinx, who forced the frightened villagers to plow the vast fields of golden grass for his own benefit. Although there were many villagers, no individual was brave enough to confront the Sphinx and put an end to its rule. But Head Rush believed there was a chance to fight back if she could somehow inspire her people to stand together. Charging through her village, Head Rush shouted a mighty yodel that woke the villagers from their spell! With the village behind her, she then led the charge to drive the Sphinx from the island for good. For her leadership and bravery, she was made part of the Trap Team, where she uses her giant Traptanium Horns to take charge of evil!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Head_Rush_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140813084343"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Taking Charge!"
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Head rush!",
+        "Only fools rush into battle!",
+        "You call that a challenge?",
+        "Follow my lead!",
+        "Rush & crush!",
+        "Rushing in!",
+        "Ready to rush!",
+        "No holding back!",
+        "Took it by the horns!",
+        "Nothing stands in my way!",
+        "Ready for battle!",
+        "Feeling charged!",
+        "Brains and brawn!",
+        "As the runes foretold!"
+      ]
+    },
+    {
+      "quote_type": "Treasure Cries",
+      "content": [
+        "A fine haul!"
+      ]
+    },
+    {
+      "quote_type": "Level Up",
+      "content": [
+        "Power rush!"
+      ]
+    },
+    {
+      "quote_type": "Stat Check",
+      "content": [
+        "Even stronger than I imagined!"
+      ]
+    },
+    {
+      "quote_type": "Nicknaming",
+      "content": [
+        "This name sounds epic!",
+        "Has a nice ring to it!"
+      ]
+    },
+    {
+      "quote_type": "Hats",
+      "content": [
+        "A striking look for me.",
+        "Hm, this looks good with my horns."
+      ]
+    }
+  ],
+  "trivia": [
+    "Head Rush and Blastermind are the only two Trap Masters with Traptanium attached to their helmets.",
+    "She is probably inspired by the traditional depictions of singers playing the role of Valkyries in Richard Wagner's operas like The Valkyrie or Siegfried.",
+    "She is voiced by Audrey Wasilewski, who also voiced Stealth Elf.",
+    "Head Rush is the second female Earth Skylander in the franchise (the first being Flashwing)."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Head Rush",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Head_Rush"
+    },
+    {
+      "name": "Skylanders Trap Team - Head Rush's Soul Gem Preview (Taking Charge)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Trap_Team_-_Head_Rush%27s_Soul_Gem_Preview_(Taking_Charge)"
+    },
+    {
+      "name": "Skylanders Power Play Head Rush",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Power_Play_Head_Rush"
+    }
+  ],
+  "gameplay": "Head Rush is a powerful Earth Trap Master who utilizes her Traptanium horns for head-bashing and charging attacks. She can perform powerful ground stomps and yodeling vocal attacks that damage all nearby enemies. Her playstyle focuses on crowd control through AOE stomps and direct physical charging. As a Trap Master, she can also access areas locked behind Traptanium and deals extra damage to Trappable Villains.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Head_Rush",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Traptanium Horns",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6d/Head_Rushprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170504155343",
+        "content": "Press Attack 1 to head bash enemies, hold Attack 1 to charge ahead.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Stomp",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Head_Rushsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170504155345",
+        "content": "Stomp the ground so hard, anything nearby takes damage.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Mega Stomp",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/Head_Rushbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504155348",
+        "content": "Press Attack 2, 2 and 2 for a Mega Stomp Combo.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Yodel",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d6/Head_Rushbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504155353",
+        "content": "Perform a powerful yodeling attack, damaging all enemies within earshot.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Stomping On Air",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Head_Rushbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504155355",
+        "content": "While in the air, press Attack 2 to stomp down with more power.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Charge Control",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Head_Rushbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170504155358",
+        "content": "Can turn while performing a charge attack, which also does extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Horns Aplenty",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Head_Rushsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170504155408",
+        "content": "New Traptanium Horns do ultimate damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Lungs of Steel",
+        "abilities": [
+          {
+            "name": "High Note",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Head_Rushpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504160021",
+            "content": "Yodel attack does extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Modulate Yodel",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Head_Rushpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504160026",
+            "content": "Yodel attack does even MORE damage, and you can control the pitch with the left control stick.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Forget Breaking Glass",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Head_Rushpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504160031",
+            "content": "Yodel attack is so loud, it destroys the ground beneath you.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Stomp Harder",
+        "abilities": [
+          {
+            "name": "A Stomp To Remember",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Head_Rushpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504160257",
+            "content": "Stomp attack does extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Power Steering",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Head_Rushpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504160259",
+            "content": "Turning during a charge attack makes it do additional damage with each turn.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Omega Stomp",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/20/Head_Rushpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504160258",
+            "content": "Stomp attack does extra damage and destroys the ground beneath you.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "head-rush",
       "variant_name": "Head Rush",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Head_Rush_Promo.jpg/revision/latest?cb=20140813084343",
       "attacks": [
@@ -37,8 +313,67 @@
         "High Note",
         "A Stomp To Remember"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "340 / 680"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60 / 108"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "48 / 78"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "10 / 60"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 / 75"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Head_Rush"
+    },
+    {
+      "id": "nitro-head-rush",
+      "variant_name": "Nitro Head Rush",
+      "edition": "Nitro",
+      "type": "Trap Master",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Head_Rush_Promo.jpg/revision/latest?cb=20140813084343",
+      "attacks": [
+        "Traptanium Horns",
+        "Stomp",
+        "Mega Stomp",
+        "High Note",
+        "A Stomp To Remember"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "340 / 680"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60 / 108"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "48 / 78"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "10 / 60"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 / 75"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Head_Rush"
     }
   ]
 }
