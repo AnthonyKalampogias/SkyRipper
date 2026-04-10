@@ -4,20 +4,122 @@
   "species": "Sky-Faun",
   "gender": "Male",
   "element": "Magic",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators (scrapped, still in game files)",
   "appearances": [
     "Skylanders: Imaginators (scrapped, still in game files)"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Heartbreaker Buckshot is an unreleased Valentine's Day counterpart of Buckshot in Skylanders: Imaginators.",
   "biography": "When Buckshot was young, he and his siblings were banished to the Magic Realm of Mysterious Mazes by an evil Spell Punk that wanted to rid Skylands of all Sky-Fauns. Buckshot spent years looking for a way out, but found no way to escape the enchanted labyrinth. Over time, however, the magic of the realm began to grow within him, strengthening his already formidable powers. While his siblings had lost all hope of freedom, Buckshot continued to test the boundaries of the maze, using his mystical bow and arrows to try to penetrate the walls around him. Eventually, Buckshot’s powers became so potent that he even learned how to teleport. With this new ability, he was finally able to open a portal back into Skylands and free his siblings. Now as a Sensei of the Bowslinger class, Buckshot always keeps one eye on the target – and the other on the lookout for the Spell Punk that had banished him!",
-  "personality": null,
-  "story": null,
+  "quote": "Quiver with Fear!",
+  "personality": "Buckshot is determined and resilient, having spent years testing the boundaries of the Magic Realm of Mysterious Mazes to free his siblings. Despite being a Valentine's Day variant, he was noted for looking 'too evil' for the holiday due to his red eyes.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "When Buckshot was young, he and his siblings were banished to the Magic Realm of Mysterious Mazes by an evil Spell Punk that wanted to rid Skylands of all Sky-Fauns. Buckshot spent years looking for a way out, but found no way to escape the enchanted labyrinth. Over time, however, the magic of the realm began to grow within him, strengthening his already formidable powers. While his siblings had lost all hope of freedom, Buckshot continued to test the boundaries of the maze, using his mystical bow and arrows to try to penetrate the walls around him. Eventually, Buckshot’s powers became so potent that he even learned how to teleport. With this new ability, he was finally able to open a portal back into Skylands and free his siblings. Now as a Sensei of the Bowslinger class, Buckshot always keeps one eye on the target – and the other on the lookout for the Spell Punk that had banished him!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Heartbreaker_Buckshot_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161112131916"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Quiver with Fear!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Despite being a Valentines' Day themed figure, he wasn't released during the game's lineup which included two instances of Valentines' Day.",
+    "The reason for his cancellation is because according to Toys For Bob QA Manager Christopher Bruno, Heartbreaker Buckshot looked 'too evil' for Valentine's Day.",
+    "This also makes him the only figure that was advertised in the main website to be never released in any form.",
+    "There are two known existing prototypes of Heartbreaker Buckshot, both of which are owned by Christopher Bruno.",
+    "Had he appeared in the final game, he would have been the fourth Valentine's day in-game variant.",
+    "He would've been the only Valentine variant with red eyes rather than light blue."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Imaginators Meet Heartbreaker Buckshot",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Imaginators_Meet_Heartbreaker_Buckshot"
+    }
+  ],
+  "gameplay": "As a Sensei of the Bowslinger class, Heartbreaker Buckshot uses his mystical bow and arrows to attack enemies. He also possesses the ability to teleport and create portals using his goat-based powers. He was intended to function as an in-game variant with unique aesthetic qualities.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Heartbreaker_Buckshot",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Spread Shot",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Heartbreaker_Buckshot_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161112131916",
+        "content": "Fires multiple arrows in a spread pattern.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4b0082",
+          "bg_content": "#9370db"
+        }
+      },
+      {
+        "name": "Goat Portals",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Heartbreaker_Buckshot_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161112131916",
+        "content": "Creates portals to teleport across the battlefield or reposition.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4b0082",
+          "bg_content": "#9370db"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Through and Through",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Heartbreaker_Buckshot_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161112131916",
+        "content": "Arrows now pierce through multiple enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4b0082",
+          "bg_content": "#9370db"
+        }
+      },
+      {
+        "name": "Not the Face!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Heartbreaker_Buckshot_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161112131916",
+        "content": "A defensive maneuver to protect from incoming damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4b0082",
+          "bg_content": "#9370db"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Main Attraction",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Heartbreaker_Buckshot_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161112131916",
+        "content": "A powerful attraction-based attack that draws enemies in.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#4b0082",
+          "bg_content": "#9370db"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "heartbreaker-buckshot",
@@ -25,7 +127,7 @@
       "edition": "Series 1",
       "type": "Sensei",
       "game": "Skylanders: Imaginators (scrapped, still in game files)",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Heartbreaker_Buckshot_Promo.jpg/revision/latest?cb=20161112131916",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Heartbreaker_Buckshot_figure.png/revision/latest/scale-to-width-down/185?cb=20161211133759",
       "attacks": [
         "Spread Shot",
         "Goat Portals",
@@ -33,7 +135,7 @@
         "Not the Face!",
         "Main Attraction"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Heartbreaker_Buckshot"
     }
   ]
