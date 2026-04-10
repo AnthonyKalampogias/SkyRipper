@@ -4,20 +4,49 @@
   "species": "Gremlin",
   "gender": "Male",
   "element": "Magic",
-  "primary_game": "Skylanders: Lost Islands (April 2013)",
+  "role": "Skylander",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Hoppity Pop Fizz is the Easter counterpart of Pop Fizz who was available only in the months of April 2013 and 2014 on Skylanders: Lost Islands.",
+  "biography": "Hoppity Pop Fizz is the Easter counterpart of Pop Fizz who was available only in the months of April 2013 and 2014 on Skylanders: Lost Islands.",
+  "quote": "Hoppity Pop Fizz has come to the Skylands with spring in his steps!",
+  "personality": "Hoppity Pop Fizz is described as having spring in his steps, suggesting a cheerful and seasonal disposition.",
+  "story": [
+    {
+      "story_name": "Hoppity Pop Fizz",
+      "content": "Hoppity Pop Fizz is the Easter counterpart of Pop Fizz who was available only in the months of April 2013 and 2014 on Skylanders: Lost Islands.",
+      "hasImage": true,
+      "imgPath": "Hoppity_Pop_Fizz_artwork.png"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Hoppity Pop Fizz's description",
+      "content": [
+        "Hoppity Pop Fizz has come to the Skylands with spring in his steps!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Hoppity Pop Fizz, Lucky Boomer, Admiral Thumpback and Holiday Wash Buckler are the only Lost Islands exclusive Skylanders of 2013 without a specific house of their own.",
+    "Hoppity Pop Fizz is the first Easter themed variant."
+  ],
+  "trailers": [],
+  "gameplay": "As an Alter Ego in Skylanders: Lost Islands, Hoppity Pop Fizz does not have traditional attacks but was available as a seasonal Skylander who could be found spreading the joy of Easter to Skylands.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Hoppity_Pop_Fizz",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "hoppity-pop-fizz",
@@ -29,7 +58,7 @@
       "attacks": [
         "None"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Hoppity_Pop_Fizz"
     }
   ]
