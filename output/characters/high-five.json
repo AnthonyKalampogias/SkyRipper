@@ -4,6 +4,7 @@
   "species": "Dragon/Dragonfly Hybrid",
   "gender": "Male",
   "element": "Life",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -11,22 +12,264 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "High Five is one of the most skilled sky racers of all the dragonflies. But as the fifth son of the Royal High Flying Dragonflies, he was not allowed to enter any of the racing tournaments that took place each year because of his age. Instead, he was forced to watch from the sidelines as his four older brothers competed for the coveted Trophy of Sparx , which legend has said holds magical properties. One year, during the biggest racing event of the season, High Five learned that the Troll Racing Team had stolen the valuable trophy and were going to use the race to cover their escape. He quickly took action, jumping into the race and using his amazing flying skills to weave and dodge his way to the front of the pack, where he caught up to the trolls and brought them down. For his actions, High Five was given the Trophy of Sparx. Even more importantly, he was made a Skylander, where he now helps protect Skylands from any evildoers.",
-  "personality": "High Five is full of energy and is super fast. When danger calls, he is the first to fly into battle. &#91; 4 &#93;",
-  "story": null,
+  "description": "High Five is a dragon/dragonfly hybrid who is one of the Frito-Lay Skylanders for Skylanders: Trap Team. On September 22, 2014, he was announced the winner of the Frito-Lay contest. He was part of his own giveaway before his public release in Spring 2015.",
+  "biography": "High Five is one of the most skilled sky racers of all the dragonflies. But as the fifth son of the Royal High Flying Dragonflies, he was not allowed to enter any of the racing tournaments that took place each year because of his age. Instead, he was forced to watch from the sidelines as his four older brothers competed for the coveted Trophy of Sparx, which legend has said holds magical properties. One year, during the biggest racing event of the season, High Five learned that the Troll Racing Team had stolen the valuable trophy and were going to use the race to cover their escape. He quickly took action, jumping into the race and using his amazing flying skills to weave and dodge his way to the front of the pack, where he caught up to the trolls and brought them down. For his actions, High Five was given the Trophy of Sparx. Even more importantly, he was made a Skylander, where he now helps protect Skylands from any evildoers.",
+  "quote": "Buzz Off!",
+  "personality": "High Five is full of energy and is super fast. When danger calls, he is the first to fly into battle.",
+  "story": [
+    {
+      "story_name": "Character Development",
+      "content": "High Five was originally named 'Buzzerker' during development. High Five came to gameplay designer Nat Loh as finished concept art. As a dragon(fly), Nat Loh felt compelled to keep to breath weapons, and the racer 5 number on High Five's head seemed to imply speed so Nat put two abilities he thought he would never put together for fear it would be too overpowered - fast projectiles and fast dashing - and made them High Five's moveset. For the primary projectiles, Nat revisited the unfulfilled Mycon Plasma Spore projectiles that Wrecking Ball was originally supposed to have. These would create a cloud of poison gas that grew bigger in size but dissipated in damage. High Five's moveset really became about high risk high reward, which was demonstrated in his Buzzerker Overdrive upgrade. It was controversial to have in a kids game but Nat sought to make deep gameplay experiences even in kids titles. Nat knew people wouldn't enjoy the idea of spending HP to do more damage. To offset this, he made the cost temporary spawning apples that would restore High Five's health after his attack, but restoring your health was optional. Using berserker mechanics, High Five would actually get stronger and faster the lower his HP was and the max charged version of his Overdrive Fly Slam attack did the highest amount of damage seen in a Skylander game to date. After finalization, High Five became a great Skylander for the more advanced min-maxer players out there. As part of a naming contest held by Frito-Lay, Buzzerker's name was changed to High Five by Phylicia Nakamoto from Elk Grove, California.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/I-wei-huang-highfive-buzzerker.jpg/revision/latest/scale-to-width-down/131?cb=20210707091558"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Buzz Off!",
+        "Terminal velocity!",
+        "Dragon Fly!",
+        "Wings of sting!",
+        "Taking off!",
+        "Mayday!",
+        "Full steam ahead!",
+        "The sting of the wings!",
+        "High Five is number 1!",
+        "Liftoff!",
+        "Divebomb!",
+        "Yeah!",
+        "Incoming!",
+        "Beware the buzz!",
+        "Getting it done!",
+        "Back in action!",
+        "Buzzing in!",
+        "Payday!",
+        "Full steam ahead!",
+        "Full throttle!",
+        "My numbers are taking off!",
+        "Spreading my wings!",
+        "I could always use another cap",
+        "A real buzz worthy name!"
+      ]
+    }
+  ],
+  "trivia": [
+    "His catchphrase is shared by one of Bumble Blast's battle cries.",
+    "He and Rip Tide have the shortest Catchphrases out of any other Skylanders.",
+    "Although the 'Speedy Slammer' path's 'Slam Apples' ability mentions that High Five releases apples that heal him while charging up 'Fly Slam', he actually releases these apples even without this upgrade as soon as he purchases the 'Buzzerker Overdrive' skill. 'Slam Apples' only increases the number of apples released.",
+    "Despite having no flight upgrade, High Five can fly for a short time by double tapping the jump button.",
+    "High Five and Thrillipede (after choosing the 'Mighty-Morphosis' path) are the only two Life Skylanders that can fly.",
+    "Eye Five's name is a play on High Five's. Coincidentally, they are both introduced in Trap Team. Despite this, neither have five fingers; Eye Five only has four fingers (counting his thumb) and High Five only has three on his hands and feet.",
+    "His battle cry 'Full steam ahead!' is similar to Sonic Boom's catchphrase 'Full Scream Ahead!'",
+    "Like Fist Bump, he is named after a friendly hand gesture.",
+    "When using a certain attack method, his health decreases slightly.",
+    "High Five is the second Skylander with an ability that can drain health, which is Fly Slam. Unlike Ghost Roaster, High Five cannot drain all of his health or get defeated while performing his ability. He heals himself by eating apples.",
+    "High Five is the second Life Element dragon Skylander, after Camo.",
+    "High Five's voice actor is Tom Kenny, who is best known for voicing the title character in SpongeBob SquarePants, the Ice King in Adventure Time, the Mayor from The Powerpuff Girls, Spyro the Dragon in Spyro 2: Ripto's Rage!, Spyro: Year of the Dragon, Spyro: Enter the Dragonfly and Spyro: Reignited Trilogy and Doctor Octopus in Ultimate Spider-Man."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders High Five",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_High_Five"
+    },
+    {
+      "name": "Skylanders Trap Team - High Five's Soul Gem Preview (Buzz Off)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Trap_Team_-_High_Five%27s_Soul_Gem_Preview_(Buzz_Off)"
+    }
+  ],
+  "gameplay": "High Five can fire a stream of Poison Pellets from his mouth, even in rapid fire. These Poison Pellets can leave behind Poison Clouds that damages enemies when upgraded further. As his secondary attack, High Five can dash across the ground with his super speed and leave enemies spinning while damaging them. When further upgraded, High Five can perform a powerful Fly Slam attack that can be done in the air, and even suck enemies in while charging it. While charging up the attack damages him, he also releases apples during the charge, picking them up restores some of the HP lost. Despite having no flight upgrade in the game, High Five is able to fly, but only for a short while.",
   "wiki_url": "https://skylanders.fandom.com/wiki/High_Five",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Poison Pellets",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2d/High_Fiveprimarypower.png/revision/latest?cb=20141208101852",
+        "content": "Press Attack 1 to shoot Poison Pellets. Hold Attack 1 for rapid fire.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Buzz Dash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4a/High_Fivesecondarypower.png/revision/latest?cb=20141208102029",
+        "content": "Press Attack 2 for a speedy dash attack.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Poison Cloud",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2b/High_Fivebasicupgrade1.png/revision/latest?cb=20141208102129",
+        "content": "Poison Pellets attack leaves behind a poisonous cloud, damaging nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Fly Slam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/66/High_Fivebasicupgrade2.png/revision/latest?cb=20141208102232",
+        "content": "Press Attack 3 to slam down on enemies around you.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Buzz Charge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/High_Fivebasicupgrade3.png/revision/latest?cb=20141208102336",
+        "content": "Hold Attack 2 to charge up a stronger Buzz Dash.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Buzzerker Overdrive",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/High_Fivebasicupgrade4.png/revision/latest?cb=20141208102427",
+        "content": "For the cost of HP, hold Attack 3 to REALLY power up the Fly Slam.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Organic Slam Apples",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b3/High_Fivesoulgempower.png/revision/latest?cb=20141222095116",
+        "content": "Fly Slam Apples heal more HP.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Pollen Prince",
+        "abilities": [
+          {
+            "name": "Cloud Control",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3d/High_Fivepath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505142126",
+            "content": "Have up to five Poison Clouds active at a time, moving faster and doing more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Buzz 'Em Up",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/High_Fivepath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505142132",
+            "content": "Buzz Dash through Poison Clouds to power them up and extend their life.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Power Clouds",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/37/High_Fivepath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505142136",
+            "content": "Extra big Poison Clouds do extra big damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Speedy Slammer",
+        "abilities": [
+          {
+            "name": "Spin Cycle",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/High_Fivepath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505142143",
+            "content": "While holding Attack 3, enemies will be sucked up into the Fly Slam zone.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Buzz Buzz Buzz",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/High_Fivepath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505142148",
+            "content": "Hold Attack 2 for consecutive Buzz Dashes.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Slam Apples",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/High_Fivepath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505142153",
+            "content": "Hold Attack 3 to charge up the Fly Slam attack even further and release apples that heal you.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "high-five",
       "variant_name": "High Five",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/5/59/High_Five.jpg/revision/latest?cb=20140922203655",
       "attacks": [
@@ -36,7 +279,28 @@
         "Cloud Control",
         "Spin Cycle"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60 (max. 108)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "6 (max. 36)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "70 (max. 120)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "53 (max. 103)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/High_Five"
     }
   ]
