@@ -4,6 +4,7 @@
   "species": "Ghost",
   "gender": "Male",
   "element": "Undead",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -13,22 +14,269 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Grim Creeper is a reaper who is one of the Core Undead Skylanders in Skylanders: Swap Force. He is available in the Arkeyan Crossbow Battle Pack.",
   "biography": "When he was young, Grim Creeper visited the prestigious Grim Acres School for Ghost Wrangling, hoping to attend as a student. But when the Scaremaster interviewed him, he found that Grim didn't have any of the usual training that other students had. Because of this, he was turned away. However, as the young Grim was about to leave, a herd of rampaging ghosts suddenly flooded the school -- carrying away the faculty and leaving the students to fend for themselves. Grim Creeper stood his ground -- not only defending the other students, but using his amazing reaping talents to fight back the ghosts and contain them until help could arrive. Now a Skylander, Grim is considered one of the best reapers ever to swing a scythe, proving that studies alone are no substitute for bravery, passion and true heroic spirit.",
-  "personality": "Grim Creeper may be grim by name and nature, but this reaper is passionate about fighting evil and will always be a hero through and through. He stands his ground whatever the situation. &#91; 5 &#93;",
-  "story": null,
+  "quote": "Your Time Is Up!",
+  "personality": "Grim Creeper may be grim by name and nature, but this reaper is passionate about fighting evil and will always be a hero through and through. He stands his ground whatever the situation.",
+  "story": [
+    {
+      "story_name": "Eruptor Meets the Nightmare King",
+      "content": "For his first mission, Grim Creeper was assigned to help Eruptor and Slam Bam at The Frost Seas. After saving an exedition camp from a group of Cyclopses lead by Bloodshot, he and the two other Skylanders came upon a tunnel that lead to what remained of a frozen kingdom. Master Eon soon appeared and explained that the kingdom belonged to King Nefarion, a wicked being who terrorized Skylands with the Mask of Power. Suddenly, strange changes began to occur, as Kaos had made his way to the past and began changing history. Before their eyes, Professor Splinters morphed into a servant of Kaos, affected by the time change, and Master Eon quickly sent Grim Creeper, Eruptor and Slam Bam to the past to stop Kaos.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Grim_Creeper_Slam_Bam.jpg"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Your Time Is Up!",
+        "Time To cut and run!",
+        "It's fright time!",
+        "Taking off!",
+        "The bell tolls for you!",
+        "A grave new world!",
+        "Eternal success!",
+        "Passing beyond!",
+        "Moving on!",
+        "You tempted fate, and lost!",
+        "Fright on!",
+        "That's the spirit!",
+        "Fear the creeper!",
+        "Your fate has been sealed!",
+        "Ooo, A nice harvest!",
+        "I'll take it!",
+        "My spirit is lifted!",
+        "More power!",
+        "Read em and creep!",
+        "My stats are creeping up!",
+        "This hat can ruin my image.",
+        "Now that's a skull cap!",
+        "A frightfully good name!",
+        "I go by many names!"
+      ]
+    }
+  ],
+  "trivia": [
+    "His name is a play on the name of the undead entity, 'Grim Reaper'.",
+    "Both Grim Creeper and Hood Sickle are both based on the Grim Reaper.",
+    "He is the second Undead Skylander to have a ghostly ally while Cynder is the first.",
+    "His abilities are similar to Ignitor as they can leave their suits.",
+    "Grim Creeper is voiced by Lex Lang, best known as the current voice of Dr. Neo Cortex from Crash Bandicoot.",
+    "When wearing a hat, and performing Ghost Form, the hat stays with his Ghost Form and not his Living Armor.",
+    "His living armor slightly resembles Gregg the Grim Reaper from Conker's Bad Fur Day.",
+    "If Grim Creeper chooses the Spooky Specter path, he is one of the Undead Skylanders with the ability to heal himself after attacking his enemies.",
+    "Grim Creeper was orignally called 'Grimm Streaker'.",
+    "His Ghost Form slightly resembles the ghosts from the Darklight Crypt level of the first game, including Machine Ghost from Skylanders: Giants.",
+    "His Soul Gem, Help From Beyond, adds a mist that follows him.",
+    "He is one of the few Undead Skylanders to have armor (others being Chop Chop, Eye-Brawl, and Krypt King)."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Grim Creeper (Your Time is Up)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Grim_Creeper_(Your_Time_is_Up)"
+    },
+    {
+      "name": "Skylanders Swap Force - Grim Creeper Soul Gem Preview (Your Time Is Up)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Grim_Creeper_Soul_Gem_Preview_(Your_Time_Is_Up)"
+    },
+    {
+      "name": "Meet the Skylanders LightCore Grim Creeper",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_LightCore_Grim_Creeper"
+    }
+  ],
+  "gameplay": "Grim Creeper uses a ghostly scythe for primary attacks and can separate from his armor in Ghost Form. In Ghost Form, he can mark enemies for the Living Armor to attack. He is capable of knocking enemies into the air with spinning spectral attacks and can choose between mastering his scythe style or enhancing his spectral tactics to heal himself. On the 3DS, he gains additional powers like Fear Scream and Armor Spectral Scythe Spin as he levels up.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Grim_Creeper",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Scythe Swing",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/44/Grim_Creeperprimarypower.png",
+        "content": "Press Attack 1 to swing a ghostly scythe at nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Ghost Form",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Grim_Creepersecondarypower.png",
+        "content": "Press Attack 2 to separate from the armor. Touch up to two enemies while in Ghost Form to mark them. Press Attack 2 again to attack them with the Living Armor.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Poltergeist Scythe",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Grim_Creeperbasicupgrade1.png",
+        "content": "Press Attack 3 to knock enemies into the air with a spinning spectral scythe.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Spirit Scythe",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Grim_Creeperbasicupgrade2.png",
+        "content": "Press Attack 1 to swing a more powerful scythe that does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Spook and Destroy",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Grim_Creeperbasicupgrade3.png",
+        "content": "Press Attack 2 to go into Ghost Form and leave behind Living Armor. Touch up to five enemies while in the Ghost Form to mark them. Press Attack 2 again to attack them with Living Armor.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Armored Amore",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Grim_Creeperbasicupgrade4.png",
+        "content": "Living Armor does increased damage when it flies back to Grim Creeper. Those pointy boots hurt!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Help From Beyond",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/Grim_Creepersoulgempower.png",
+        "content": "A ghost ally appears from defeated enemies that will seek out and attack other nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Grim Scythe Style",
+        "abilities": [
+          {
+            "name": "Sphere of Fear",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Grim_Creeperpath1upgrade1.png",
+            "content": "Hold Attack 3 for a short time to spin the scythe in a larger area and repeatedly hit enemies into the air.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Grave Danger",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Grim_Creeperpath1upgrade2.png",
+            "content": "Critical Hit is increased. Concentrated ghost particles make it easier to do more damage to enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Ghastly Damage",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a2/Grim_Creeperpath1upgrade3.png",
+            "content": "All attacks do increased damage for a short time after enemies are hit by the Living Armor.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Spooky Specter",
+        "abilities": [
+          {
+            "name": "It's Alive!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Grim_Creeperpath2upgrade1.png",
+            "content": "Press Attack 2 to go into Ghost Form and leave behind Living Armor. Living Armor will attack nearby enemies when it is attacked.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Haunted Help",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Grim_Creeperpath2upgrade2.png",
+            "content": "Press Attack 2 to go into Ghost Form and leave behind Living Armor. Enemies between Ghost Form and the Living Armor take damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Soul Sampler",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Grim_Creeperpath2upgrade3.png",
+            "content": "Regain some health for each enemy hit by Spook and Destroy.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "grim-creeper",
       "variant_name": "Grim Creeper",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Grim_Creeper_Promo_Art.jpg",
       "attacks": [
@@ -38,7 +286,58 @@
         "Sphere of Fear",
         "It's Alive!"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "60"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Grim_Creeper"
+    },
+    {
+      "id": "lightcore-grim-creeper",
+      "variant_name": "LightCore Grim Creeper",
+      "edition": "LightCore",
+      "type": "LightCore",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/21/Lightcore_Grim_Creeper.png",
+      "attacks": [
+        "Scythe Swing",
+        "Ghost Form",
+        "Polterguest Scythe",
+        "Sphere of Fear",
+        "It's Alive!"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "60"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Grim_Creeper"
     }
   ]
