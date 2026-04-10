@@ -4,22 +4,296 @@
   "species": "Robot",
   "gender": "Male",
   "element": "Tech",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "High Volt was once the commander of a special security force that was in charge of patrolling the border between the known regions of Skylands and the mysterious uncharted region known as the Outlands . From atop the Shockspire Tower, their security headquarters, High Volt vigilantly monitored any strange activity beyond the border, knowing that Kaos and his minions were always up to no good. Over the years, he had defended Skylands against countless Greeble attacks, Troll uprisings, and even a few evil food chains that were attempting to expand. But on a recent patrol mission into the Outlands, High Volt discovered a heavily guarded construction site, where Kaos' minions appeared to be building a colossal Doom Station of Ultimate Destruction ! Realizing at once that all of Skylands was in danger, he raced to the Skylanders Academy to inform Master Eon and joined the Skylanders in their fight to stop it!",
-  "personality": "High Volt is a very dedicated commander, even willing to take orders from Buzz . He is also extremely observant and intelligent, not letting any evil being out of his sight and will get any possible information out of them. Like all Tech Skylanders , High Volt is fascinated by machinery.",
-  "story": null,
+  "description": "High Volt is a former security officer and one of the Tech SuperChargers in Skylanders: SuperChargers. His signature Vehicle is the Shield Striker.",
+  "biography": "High Volt was once the commander of a special security force that was in charge of patrolling the border between the known regions of Skylands and the mysterious uncharted region known as the Outlands. From atop the Shockspire Tower, their security headquarters, High Volt vigilantly monitored any strange activity beyond the border, knowing that Kaos and his minions were always up to no good. Over the years, he had defended Skylands against countless Greeble attacks, Troll uprisings, and even a few evil food chains that were attempting to expand. But on a recent patrol mission into the Outlands, High Volt discovered a heavily guarded construction site, where Kaos' minions appeared to be building a colossal Doom Station of Ultimate Destruction! Realizing at once that all of Skylands was in danger, he raced to the Skylanders Academy to inform Master Eon and joined the Skylanders in their fight to stop it!",
+  "quote": "Protect and Surge!",
+  "personality": "High Volt is a very dedicated commander, even willing to take orders from Buzz. He is also extremely observant and intelligent, not letting any evil being out of his sight and will get any possible information out of them. Like all Tech Skylanders, High Volt is fascinated by machinery.",
+  "story": [
+    {
+      "story_name": "Character Development",
+      "content": "High Volt initially started as a Light elemental character, at some point even having the same color scheme and design but the other symbol on his shoulder pads. He was originally conceptualized with a lightbulb design, and his shield bore the three holes of an electrical outlet.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/da/High_volt_concepts.jpg/revision/latest/scale-to-width-down/185?cb=20160526215659"
+    },
+    {
+      "story_name": "Biography",
+      "content": "High Volt was once the commander of a special security force that was in charge of patrolling the border between the known regions of Skylands and the mysterious uncharted region known as the Outlands. From atop the Shockspire Tower, their security headquarters, High Volt vigilantly monitored any strange activity beyond the border, knowing that Kaos and his minions were always up to no good. Over the years, he had defended Skylands against countless Greeble attacks, Troll uprisings, and even a few evil food chains that were attempting to expand. But on a recent patrol mission into the Outlands, High Volt discovered a heavily guarded construction site, where Kaos' minions appeared to be building a colossal Doom Station of Ultimate Destruction! Realizing at once that all of Skylands was in danger, he raced to the Skylanders Academy to inform Master Eon and joined the Skylanders in their fight to stop it!",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Protect and Surge!",
+        "All part of the job!",
+        "That's what I'm here for!",
+        "Nothing to it!",
+        "High top!",
+        "Power Surge!",
+        "Another win for the good guys!",
+        "Eye in the sky.",
+        "Up we go.",
+        "Mission accomplished!",
+        "Hang on.",
+        "I short circuited...",
+        "It's not over yet!",
+        "A shocking discovery..",
+        "Watch where you're going!",
+        "Treasure!",
+        "Money!",
+        "I should confiscate this.",
+        "I will add this to my report.",
+        "Let's drive!",
+        "On patrol!",
+        "Step on it!",
+        "I'm on the case!",
+        "Call for backup.",
+        "You got served!",
+        "I have the right to remain victorious!",
+        "Alright!",
+        "Yes!",
+        "Have a seat!",
+        "I'm taking this race!",
+        "Let's be on alert!",
+        "Move along (x2)",
+        "Pull over!",
+        "It's not over yet!",
+        "A promotion!",
+        "Electric!",
+        "Full disclosure!",
+        "Nothing to see here!",
+        "I could go undercover with this",
+        "Well this looks official",
+        "Alterations confirmed!",
+        "Interesting name..",
+        "A name worthy of a champion!"
+      ]
+    },
+    {
+      "quote_type": "Quest Quotes",
+      "content": [
+        "Sir! High Volt, reporting for mission briefing, sir.",
+        "Respectfully, sir, my protocol specifies 'creative flair' is not mission critical.",
+        "\"...familiar with all standard operating procedures per Skylands' High-Mobility Superchargeable Multipurpose Vehicle protocol.\" Yes. I am aware.",
+        "Incorrect sir, Supercharging improves all statistically significant vehicle metrics. I believe you meant to say \"a large boost\".",
+        "Sir, my \"awesomeness\" will not let you down, sir.",
+        "Everything I do is by the books, sir"
+      ]
+    }
+  ],
+  "trivia": [
+    "It is unknown what High Volt looks like underneath his armor.",
+    "He resembles a S.W.A.T riot trooper as his Static Spear resembles a shock stick and his Shock-It Shield resembles a riot shield. This may be a reference to law enforcement as his backstory says that he has been protecting Skylands as a police officer would.",
+    "His catchphrase is played on by the phrase, 'to protect and serve,' which is often utilized by police officers.",
+    "He is voiced by Josh Duhamel, best known for playing William Lennox from the live action Transformers series and voicing Captain Flynn the sand pirate from Jake and the Neverland Pirates and Oz Harmounian from Fanboy & Chum Chum.",
+    "High Volt's Static Spear resembles a plug while his Shock-It Shield resembles an electrical outlet complementing his element.",
+    "Due to his origins as a Light Skylander early in development, he still has light-related puns in his upgrades' names."
+  ],
+  "trailers": [
+    {
+      "name": "High Volt",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:High_Volt"
+    },
+    {
+      "name": "Skylanders SuperChargers - High Volt's Soul Gem Preview (Protect and Surge)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_High_Volt%27s_Soul_Gem_Preview_(Protect_and_Surge)"
+    }
+  ],
+  "gameplay": "High Volt's primary attack is Static Spear, a close-range melee combo. His secondary ability, Shock-It Shield, allows him to block incoming attacks to build up energy, which can then be released as a shockwave. He can also throw his spear to create an electrical beam connecting him to the projectile, damaging any enemies caught in between.",
   "wiki_url": "https://skylanders.fandom.com/wiki/High_Volt",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Static Spear",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a8/High_Voltprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506153054",
+        "content": "Press Attack 1 rapidly to perform melee attacks with your Static Spear.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Shock-It Shield",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/High_Voltsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170506153110",
+        "content": "Hold Attack 2 to block attacks. Gain charges when hit and release Attack 2 to release the charges in a big blast that damages nearby enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Traveling Light",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/aa/High_Voltbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506153118",
+        "content": "Hold Attack 3 to throw your Static Spear and create an electric beam that damages enemies caught between you and the spear.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Quick Currents",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/High_Voltbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506153127",
+        "content": "While using Traveling Light you will gain a huge movement increase!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Insulated Iron",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/High_Voltbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506153136",
+        "content": "Upgrade your armor to help against enemy attacks!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Amped Lamp",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a3/High_Voltbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506153144",
+        "content": "Hold Attack 1 to charge up your spear, release to cause a huge electric explosion that damages nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Re-Fused",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e1/High_Voltsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506153151",
+        "content": "Restore some health when you block and have low health.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Light Fighter",
+        "abilities": [
+          {
+            "name": "Bring Into Light",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/High_Voltpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506153635",
+            "content": "Enemies caught inside your electric beam will be drawn to you when the spear returns to you.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Stun Shocked",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7d/High_Voltpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506153638",
+            "content": "Hold Attack 3 to throw your Static Spear and create an electric beam. After your spear returns your next melee attack will damage and stun nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Black Out",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/62/High_Voltpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506153640",
+            "content": "Increases critical hit chance.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Light in Shining Armor",
+        "abilities": [
+          {
+            "name": "Bright Idea",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/25/High_Voltpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506153726",
+            "content": "Hold Attack 3 to throw your Static Spear and create a more powerful electric beam that does more damage to enemies caught in it.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Everything is Relative",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c2/High_Voltpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506153730",
+            "content": "Hold Attack 3 to throw your Static Spear and create an electric beam that now also slows enemies caught in it.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Unbreakable",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f8/High_Voltpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506153710",
+            "content": "Stay in the fight longer with more health! Ample room for error!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "high-volt",
@@ -35,7 +309,28 @@
         "Bring Into Light",
         "Bright Idea"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260 (max. 520)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "2 (max. 52)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/High_Volt"
     }
   ]
