@@ -4,23 +4,138 @@
   "species": "Wolf",
   "gender": "Male",
   "element": "Fire",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "When Flare Wolf was young, he worked all summer to earn the coveted Fireworks Badge from the Wolf Scouts. In doing so, he had earned the right to light the fireworks in the annual St. Wigglewort's Day celebration - an honor of which Flare Wolf was extremely proud. But on the day of the celebration, a band of evil Ice Ogres attacked his village and took the entire community hostage! The only weapons at his disposal were the town's supply of fireworks they were saving for the evening festivities. One by one, Flare Wolf lit them in the center of the Ogre camp, launching a dazzling display of pyrotechnics that sent the Ogres running. Not only had Flare Wolf saved his village, he had also given its residents the most spectacular fireworks show they had seen in over 100 years! Even Master Eon was impressed, and offered Flare Wolf a position at the Academy as the Official Fireworks Launcher. But after seeing him in action, he quickly realized that Flare Wolf had much more to offer as a Sensei !",
-  "personality": null,
-  "story": null,
+  "description": "Hard-Boiled Flare Wolf is an Easter counterpart of Flare Wolf in Skylanders: Imaginators.",
+  "biography": "When Flare Wolf was young, he worked all summer to earn the coveted Fireworks Badge from the Wolf Scouts. In doing so, he had earned the right to light the fireworks in the annual St. Wigglewort's Day celebration - an honor of which Flare Wolf was extremely proud. But on the day of the celebration, a band of evil Ice Ogres attacked his village and took the entire community hostage! The only weapons at his disposal were the town's supply of fireworks they were saving for the evening festivities. One by one, Flare Wolf lit them in the center of the Ogre camp, launching a dazzling display of pyrotechnics that sent the Ogres running. Not only had Flare Wolf saved his village, he had also given its residents the most spectacular fireworks show they had seen in over 100 years! Even Master Eon was impressed, and offered Flare Wolf a position at the Academy as the Official Fireworks Launcher. But after seeing him in action, he quickly realized that Flare Wolf had much more to offer as a Sensei!",
+  "quote": "Ready to Rocket!",
+  "personality": "Hard-Boiled Flare Wolf is proud of his pyrotechnic skills, a trait developed since his youth as a Wolf Scout. He is heroic and resourcefulness, having saved his village from Ice Ogres using only his supply of celebration fireworks.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "When Flare Wolf was young, he worked all summer to earn the coveted Fireworks Badge from the Wolf Scouts. In doing so, he had earned the right to light the fireworks in the annual St. Wigglewort's Day celebration - an honor of which Flare Wolf was extremely proud. But on the day of the celebration, a band of evil Ice Ogres attacked his village and took the entire community hostage! The only weapons at his disposal were the town's supply of fireworks they were saving for the evening festivities. One by one, Flare Wolf lit them in the center of the Ogre camp, launching a dazzling display of pyrotechnics that sent the Ogres running. Not only had Flare Wolf saved his village, he had also given its residents the most spectacular fireworks show they had seen in over 100 years! Even Master Eon was impressed, and offered Flare Wolf a position at the Academy as the Official Fireworks Launcher. But after seeing him in action, he quickly realized that Flare Wolf had much more to offer as a Sensei!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/92/Hard-Boiled_Flare_Wolf_Promo.jpg/revision/latest/scale-to-width-down/267?cb=20161114235316"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Ready to Rocket!"
+      ]
+    }
+  ],
+  "trivia": [
+    "While his eyes are blue in his promotional art and the current version of his toy form, Hard-Boiled Flare Wolf's eyes are pink in the game."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Imaginators Meet Hard-Boiled Flare Wolf",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Imaginators_Meet_Hard-Boiled_Flare_Wolf"
+    }
+  ],
+  "gameplay": "Hard-Boiled Flare Wolf is a Fire-elemental Sensei of the Bazooker class. He utilizes a variety of firework-based attacks, ranging from standard rocket projectiles to complex pyrotechnic displays, and can even ride his rockets across the battlefield.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Hard-Boiled_Flare_Wolf",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Rockets Away",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/FireSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223439",
+        "content": "Launches rockets at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#800",
+          "bg_content": "#F44"
+        }
+      },
+      {
+        "name": "Ride the Rocket",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/FireSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223439",
+        "content": "Mounts a rocket to traverse the battlefield and damage foes.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#800",
+          "bg_content": "#F44"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Loop De Loop",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/FireSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223439",
+        "content": "Perform a specialized maneuver while riding rockets to dodge and strike.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#800",
+          "bg_content": "#F44"
+        }
+      },
+      {
+        "name": "Roman Candle",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/FireSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223439",
+        "content": "Fire specialized pyrotechnics that create multiple explosions.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#800",
+          "bg_content": "#F44"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Secret Weapon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/FireSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223439",
+        "content": "Unleashes a devastating secret firework attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#800",
+          "bg_content": "#F44"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Expert Exploder",
+        "abilities": [
+          {
+            "name": "Pyrotechnist",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/FireSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223439",
+            "content": "Master the art of fire and explosions for maximum damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1200,
+            "colors": {
+              "header": "#800",
+              "bg_content": "#F44"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "hard-boiled-flare-wolf",
+      "id": "hard-boiled-flare-wolf-s1",
       "variant_name": "Hard-Boiled Flare Wolf",
       "edition": "Series 1",
       "type": "Sensei",
@@ -34,7 +149,7 @@
         "Pyrotechnist",
         "Secret Weapon"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Hard-Boiled_Flare_Wolf"
     }
   ]
