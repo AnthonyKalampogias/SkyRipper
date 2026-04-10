@@ -4,6 +4,7 @@
   "species": "Drilla",
   "gender": "Male",
   "element": "Life",
+  "role": "SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -13,22 +14,352 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Drilla Empire"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "In the distant jungles of what was once the sprawling subterranean city of the Drilla Empire, Grilla Drilla served among the guards for the Drilla King. Every seven years, the king would select the bravest and strongest guard to become their leader. It was during the last selection ceremony that a troll mining operation broke through the ground above them and quickly snatched the king, wanting to know the location of the famed Drilla Diamond. Having never ventured above ground, Grilla Drilla risked everything to defeat the trolls and rescue the Drilla King. In return for his bravery, Grilla was selected as the new leader. But he instead decided to join the Skylanders, where he could protect even more residents of Skylands .",
-  "personality": "Never one to think of himself, Grilla Drilla gave up his jungle throne to become a Skylander, knowing it would mean he could protect even more people! &#91; 2 &#93; Grilla Drilla also follows rules to the letter - suspecting Boom Bloom 's eagerness to become a Skylander but still going through the process to ask for Master Eon 's advice on the matter.",
-  "story": null,
+  "description": "Grilla Drilla is a Drilla who is one of the SWAP Force Skylander in Skylanders: Swap Force. He is of the Life element, and his Swap Force Ability is Dig. He has a construction counterpart who is available in Lost Islands on May 2014.",
+  "biography": "In the distant jungles of what was once the sprawling subterranean city of the Drilla Empire, Grilla Drilla served among the guards for the Drilla King. Every seven years, the king would select the bravest and strongest guard to become their leader. It was during the last selection ceremony that a troll mining operation broke through the ground above them and quickly snatched the king, wanting to know the location of the famed Drilla Diamond. Having never ventured above ground, Grilla Drilla risked everything to defeat the trolls and rescue the Drilla King. In return for his bravery, Grilla was selected as the new leader. But he instead decided to join the Skylanders, where he could protect even more residents of Skylands.",
+  "quote": "If There's a Drill, There's a Way!",
+  "personality": "Never one to think of himself, Grilla Drilla gave up his jungle throne to become a Skylander, knowing it would mean he could protect even more people! Grilla Drilla also follows rules to the letter - suspecting Boom Bloom's eagerness to become a Skylander but still going through the process to ask for Master Eon's advice on the matter.",
+  "story": [
+    {
+      "story_name": "Personality",
+      "content": "Never one to think of himself, Grilla Drilla gave up his jungle throne to become a Skylander, knowing it would mean he could protect even more people! Grilla Drilla also follows rules to the letter - suspecting Boom Bloom's eagerness to become a Skylander but still going through the process to ask for Master Eon's advice on the matter.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "In the distant jungles of what was once the sprawling subterranean city of the Drilla Empire, Grilla Drilla served among the guards for the Drilla King. Every seven years, the king would select the bravest and strongest guard to become their leader. It was during the last selection ceremony that a troll mining operation broke through the ground above them and quickly snatched the king, wanting to know the location of the famed Drilla Diamond. Having never ventured above ground, Grilla Drilla risked everything to defeat the trolls and rescue the Drilla King. In return for his bravery, Grilla was selected as the new leader. But he instead decided to join the Skylanders, where he could protect even more residents of Skylands.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "If There's a Drill, There's a Way!",
+        "Get'n it done!",
+        "Excellent!",
+        "Every bit counts!",
+        "Nice try... Kind of... Not really!",
+        "The thrill of the drill!",
+        "I feel right at home here!",
+        "Sweet!",
+        "Right on!",
+        "Monkey see, monkey do!",
+        "Success, BIG time!",
+        "Getting it done!",
+        "Every bit counts!",
+        "Perfect!",
+        "No more monkey business!",
+        "You know the drill!",
+        "Up and up!",
+        "Bouncy time!",
+        "Let's go!",
+        "I'll take it!",
+        "Make a hole, can't be stopped!",
+        "Power drill!",
+        "Power boost!",
+        "The DRILL with SKILL!",
+        "More impressive than I thought!",
+        "Hat or no hat, I look AWESOME!",
+        "A SMASHING new look!",
+        "Whatever name you like!",
+        "Not a bad name for me!"
+      ]
+    }
+  ],
+  "trivia": [
+    "His base is unique, as it has a large amount of dirt on top of the leaves, compared to the standard Life base (which only has leaves).",
+    "Grilla Drilla's name is a play on 'gorilla' and 'driller.'",
+    "His named may also be a reference to drill, which is a type of primate.",
+    "He, Kaos (Sensei), and Pop Fizz has the most syllables for their catchphrases, counting seven.",
+    "At one point, Grilla Drilla was designed with a tail, long clawed fingers, and plated armor that covered his body.",
+    "He is the second Skylander to create turrets, the other being Sprocket.",
+    "According to developer Buck Chantel, 'Grilla Drill is a Life character, but his first impression does not suggest that. Then somebody had the great idea to make his turrets shoot actual fruit.'",
+    "He is one of the few Skylanders with drilling related abilities (others include Drill Sergeant and Rubble Rouser).",
+    "Coincidentally, both he and Drill Sergeant have the word 'drill' in their names and official catchphrases.",
+    "His catchphrase is based on the quote, 'If there's a will, there's a way'.",
+    "In the 3DS version of Swap Force, his secondary attack is to throw barrels similar to Donkey Kong.",
+    "In his Soul Gem preview, he is shown to have golden teeth during the gameplay.",
+    "During one of his idle animations, he can be seen picking something from his chest and then eating it, presumably a bug.",
+    "Out of every Skylander, Grilla Drilla currently has the longest catchphrase.",
+    "He and Kaos' Clone currently have the most syllables of all catchphrases.",
+    "He, Fling Kong, and Turbo Charge Donkey Kong are currently the only three Skylanders to be based upon primates.",
+    "One of his battle cries later became a pun for Fling Kong's catchphrase.",
+    "He has a similar resemblance to Chilla from Kameo: Elements of Power.",
+    "When Grilla Jet uses his punch attack, his rocket will temporarily depart into the sky, enabling Grilla Jet to walk on the ground. A few moments later, the rocket will return."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Grilla Drilla Gameplay Vignette (If There's a Drill, There's a Way)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Grilla_Drilla_Gameplay_Vignette_(If_There%27s_a_Drill,_There%27s_a_Way)"
+    },
+    {
+      "name": "Skylanders Swap Force - Grilla Drilla Soul Gem Preview (If There's a Drill, There's a Way)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Grilla_Drilla_Soul_Gem_Preview_(If_There%27s_a_Drill,_There%27s_a_Way)"
+    }
+  ],
+  "gameplay": "Grilla Drilla's primary combat style involves heavy punching and drill-based attacks, supported by the ability to summon monkey allies and plant coconut or banana turrets. In the 3DS version of Swap Force, his secondary attack is to throw barrels similar to Donkey Kong. His stats are focused on balanced power and health, with starting Health at 290 and Speed at 43.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Grilla_Drilla",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Punchy Monkey",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Grilla_Drillatopprimarypower.png/revision/latest/scale-to-width-down/148?cb=20140802182529",
+        "content": "Press Attack 1 to punch at nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Planted Turret",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/02/Grilla_Drillabottomprimarypower.png/revision/latest/scale-to-width-down/148?cb=20140802183500",
+        "content": "Press Attack 2 to plant a coconut turret that attacks nearby enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Monkey Call",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e3/Grilla_Drillatopbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20140802182602",
+        "content": "Press Attack 3 to summon a pair of crazy monkeys!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 300,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Silverback",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Grilla_Drillatopbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20140802182625",
+        "content": "Press Attack 1 to unleash punches that deal increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Reaching Mandrill",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Grilla_Drillatopbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20140802182654",
+        "content": "Press Attack 1 to punch at a longer range.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Explosive Growth",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5b/Grilla_Drillabottombasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20140802231255",
+        "content": "Hold Attack 2 to charge a turret, release to plant a bomb plant that explodes and damages enemies nearby.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 300,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Spreading Like Weeds",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Grilla_Drillabottombasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20140802231329",
+        "content": "Explosive Growth bomb plants will explode into three smaller bombs.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Nature's Bounty",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cb/Grilla_Drillabottombasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20140802231402",
+        "content": "Press Attack 2 to plant a coconut turret that shoots at nearby enemies. Press Attack 2 again to plant another.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Rings of the Golden Monkey",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/73/Grilla_Drillatopsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20140802183015",
+        "content": "Arm Drills become shiny gold, making punch attacks do extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Adaptive Nature",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0a/Grilla_Drillabottomsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20140802183528",
+        "content": "All plants gain thorns that damage and push back enemies that step on them.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Monkey Master",
+        "abilities": [
+          {
+            "name": "Team Monkey",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/Grilla_Drillatoppath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20140802182916",
+            "content": "Monkey Call summons four monkeys at once!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "King of the Jungle",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/52/Grilla_Drillatoppath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20140802182937",
+            "content": "Monkey Call does increased damage. They're going bananas!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Drilling Punches",
+        "abilities": [
+          {
+            "name": "Double Punch",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Grilla_Drillatoppath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20140802183234",
+            "content": "Press Attack 1 three times to attack with both drills.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Primate Power",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Grilla_Drillatoppath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20140802183301",
+            "content": "Double Punch does increased damage. POW!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Coconut Caretaker",
+        "abilities": [
+          {
+            "name": "This Is Coconuts!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6f/Grilla_Drillabottompath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20140802231700",
+            "content": "Turret projectiles now explode, causing damage to enemies in a small area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Coconut Mayhem",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fa/Grilla_Drillabottompath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20140802231735",
+            "content": "Coconuts do increased damage. Go nuts for the new and improved Coconut Blaster!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Banana Blaster",
+        "abilities": [
+          {
+            "name": "Banana Split",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Grilla_Drillabottompath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20140802231924",
+            "content": "Coconut turret upgrades into a rapid shooting Banana turret.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Go Bananas!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/37/Grilla_Drillabottompath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20140802232004",
+            "content": "Bananas do increased damage. Delicious!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "grilla-drilla",
       "variant_name": "Grilla Drilla",
       "edition": "Series 1",
-      "type": "Sensei",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Grilla_Drilla_Promo_Art.jpg",
       "attacks": [
@@ -38,7 +369,28 @@
         "Explosive Growth",
         "Silverback"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (max. 580)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "4 (max. 54)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Grilla_Drilla"
     }
   ]
