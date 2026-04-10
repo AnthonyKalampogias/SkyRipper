@@ -3,36 +3,367 @@
   "name": "Hood Sickle",
   "species": "Reaper",
   "gender": "Male",
-  "element": "Undead/Dark",
+  "element": "Dark",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Trap Team (Console)",
     "Skylanders: SuperChargers",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Hood Sickle is a reaper who was originally one of the trappable Undead villains in Skylanders: Trap Team. In Skylanders: SuperChargers, he is an NPC racer, driving a Sky vehicle fashioned with skulls and ominous appendages. In Skylanders: Imaginators, Hood Sickle is a Dark-elemental Sensei who teaches Imaginators of the Sentinel Battle Class.",
+  "biography": "At first glance, it's easy to be frightened by Hood Sickle. Some say it's his imposing stature that freaks them out. Others are unnerved by his menacing hood. But most just try to stay away from his long, sharp scythe – and it didn't help that he had a bad habit of disappearing and then suddenly popping up behind unsuspecting people. In fact, the Trap Masters that locked him away in Cloudcracker Prison hoped they would never have to see him again. But Master Eon thought there might be a chance for Hood Sickle to change his ways. Everyone said Eon was crazy, but after spending time with the mysterious creep, Eon learned that Hood Sickle was actually not a bad guy – just really super spooky.",
+  "quote": "Any Last Words?",
+  "personality": "Hood Sickle took his job of terrifying others very seriously, and Eon believed that perhaps he could bring a similar dedication to teaching others as a Sensei. Eon learned that Hood Sickle was actually not a bad guy – just really super spooky. He is a dedication to his work and now teaches Sentinel Imaginators who definitely hang on his every word. Or else.",
+  "story": [
+    {
+      "story_name": "Skylanders: Trap Team",
+      "content": "Hood Sickle was summoned by the Dreamcatcher as a surprise to stop the Skylanders' progress at Telescope Towers. The reaper was defeated despite his teleportation abilities and was captured. Upon returning to Skylanders Academy, the Skylanders took him to the Hat Shop for his Villain Quest 'Hatastrophe!' with Hatterson. The quest involved shutting down a counterfeit hat operation run by Trolls. Afterwards, he was awarded with a new outfit.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Imaginators",
+      "content": "Hood Sickle was eventually given a chance by Master Eon to change his ways. Despite the Trap Masters hoping they'd never see him again, Eon learned Hood Sickle was actually just really super spooky. Hood Sickle now teaches Sentinel Imaginators, who definitely hang on his every word. Or else.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Story Quotes",
+      "content": [
+        "Your time is running out.",
+        "You'll never pull the hood over my eyes!"
+      ]
+    },
+    {
+      "quote_type": "Trap Quotes",
+      "content": [
+        "A partnership with me could reap many rewards.",
+        "I've got an axe to grind with yoooooooooouuuuu!!",
+        "What? A trap? I shall simply teleport out of here then. Did that work? No? GAAH!",
+        "You mean I can undertake the path of good now? Hmmm, let me think on it.",
+        "Heads UUPPPP!!",
+        "Cutting in.",
+        "Here comes the headman!",
+        "I'll cut this ahead.",
+        "Now you see me...",
+        "Grim rush.",
+        "I reap what I sow.",
+        "The slice is nice!",
+        "I've got the chop on you!",
+        "Sounds hood. I mean, good. Totally meant good that time.",
+        "I knew the Skaletones from way back in their underworld days, before they were cool.",
+        "I wonder if Persephone would consider a date with me. I've got no head, she's got no body, opposites attract, you know.",
+        "This is indeed a strange hood, for a hood like me to be in.",
+        "You are close to the end, Skylander.",
+        "Time's ran out on this one.",
+        "I can't, now. My head is not in the game.",
+        "Not now. I'm off my swing.",
+        "Tag me in, and I'll give you the edge.",
+        "Cut it out quick. Tag me in!",
+        "My scythe is at your service.",
+        "Another axe for the task. Excellent.",
+        "My skills are cutting edge."
+      ]
+    },
+    {
+      "quote_type": "Racer Quotes",
+      "content": [
+        "Feel the shadows!",
+        "Stop that!"
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Any Last Words?",
+        "If you wanna give your Imaginators power that is truly a cut above, I am the Sensei for the job.",
+        "And I have a Secret Technique that will no doubt give your Sentinels the edge.",
+        "Axe and you shall receive.",
+        "Well executed.",
+        "I've got the edge!",
+        "The gong tolls for the!",
+        "Their end is near!",
+        "Time to meet your maker!",
+        "Heads will roll!",
+        "I reap what I sow!",
+        "A cut above the rest!",
+        "Victory, any way you slice it!",
+        "Scythe slice!",
+        "Taste the blade!",
+        "Dark dash!",
+        "Into the shadows!",
+        "Vile vortex!",
+        "No escape!",
+        "May the void have mercy on you!",
+        "Darkness consumes all!",
+        "I'm hood to go!",
+        "Uppercut!",
+        "Heads up!",
+        "Leaping reaper!",
+        "Who keeps saying 'Level up'? Not that I'm complaining, mind you.",
+        "This will give me even more of an edge!",
+        "Gives new meaning to the phrase,'at death's door'! Oh wait, no it doesn't, that joke/wordplay made no sense.",
+        "A new hood for the hood!",
+        "My skills are clearly on the cutting edge!",
+        "Where is this place I'm in right now, the afterlife?"
+      ]
+    }
+  ],
+  "trivia": [
+    "Both Hood Sickle and Grim Creeper are based on the Grim Reaper.",
+    "Despite his name, Hood Sickle actually carries a scythe in both of his iterations.",
+    "There's a glitch that allows Hood Sickle to teleport through certain Traptanium Gates.",
+    "He and Kaos are the only Villains with Quests at the Skylanders Academy.",
+    "He has red eyes in his artwork, but white eyes in game. In Imaginators, they are light yellow in the figure.",
+    "He is the only male Sensei of the Sentinel class.",
+    "His catchphrase ends with a question mark, a trait shared only with Tae Kwon Crow, Ninjini and Déjà Vu.",
+    "Hood Sickle wondering whether Persephone would consider dating him is a reference to the Greek myth of Hades and Persephone.",
+    "He bears a resemblance to the Pyramid Head monsters from the Silent Hill franchise."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Imaginators Meet Hood Sickle",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=Official_Skylanders_Imaginators_Meet_Hood_Sickle"
+    },
+    {
+      "name": "Skylanders Imaginators - Hood Sickle Soul Gem Preview",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=Skylanders_Imaginators_-_Hood_Sickle_Soul_Gem_Preview"
+    }
+  ],
+  "gameplay": "As a playable villain, Hood Sickle can strike with his spectral energy scythe, but this leaves him immobile with a lengthy delay. He can also teleport ahead a short distance, summoning black ghosts in his wake. If he has active ghosts, they will explode whenever he swings his scythe, doing more damage than attacking normally. In Skylanders: Imaginators, Hood Sickle can strike with his duel war scythe and teleport ahead, summoning Dark Remnant in his wake. If he has active Dark Remnant, they will explode whenever he swings his scythe, doing more damage than attacking normally, and his attack speed will increase. He can also create gravity wells to slow down enemies, or acts like a turret with his soul gem.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Hood_Sickle_(character)",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Dark Scythe Combo",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Hood_Sickleprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170504010108",
+        "content": "Press Attack 1 four times for a double ended war scythe combo.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Dark Dislocation",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4d/Hood_Sicklesecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170504010209",
+        "content": "Tap Attack 2 to dash into the darkside. Leave behind dark remnant that enhance the speed and damage of war scythe attacks.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Gravity Well",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Hood_Sicklebasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504010431",
+        "content": "Press Attack 3 to create a gravity well that slows enemies. Gravity wells explode after several seconds.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Extended Dislocation",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5d/Hood_Sicklebasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504010454",
+        "content": "Hold Attack 2 to charge up a longer dash. Longer dashes do more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Dark Combo",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8c/Hood_Sicklebasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504010535",
+        "content": "Absorbing the dark remnants left over from dash grants more spins at the end of Dark Scythe Combo.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Detonate Gravity Wells",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2b/Hood_Sicklebasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170504010557",
+        "content": "Gravity wells can be detonated by pressing Attack 3 twice in quick succession. Two gravity wells can exist at the same time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Scythenado!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Hood_Sicklesoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170504011531",
+        "content": "Attack a gravity well with your war scythe to create a tornado that shoots war scythes!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 6,
+        "name": "Scythe Scycle",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Hood_Sickleskychipower.png/revision/latest/scale-to-width-down/148?cb=20170504011625",
+        "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power, and hurl dark energized war scythes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Sick Sickles and Darker Dislocations",
+        "abilities": [
+          {
+            "name": "More Remnants",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Hood_Sicklepath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504010845",
+            "content": "Now drop up to 4 remnants. Press Attack 1 to absorb them and gain an extra spin, armor, more speed, and more damage during the Dark Scythe Combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Even More Remnants",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Hood_Sicklepath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504010917",
+            "content": "Now drop up to 6 remnants, which grant another combo spin, more speed, more damage, and projectile deflection for the duration of Dark Scythe Combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Dark Stinger",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Hood_Sicklepath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504011135",
+            "content": "The last spin in Dark Scythe Combo now causes a powerful shockwave.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "That's a Swell Gravity Well",
+        "abilities": [
+          {
+            "name": "Longer and Stronger",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Hood_Sicklepath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504012811",
+            "content": "Gravity well does more damage and lasts longer.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Warp Pulse",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Hood_Sicklepath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504012943",
+            "content": "Hit the gravity well with your war scythe for a shower of war scythes! So exfoliating!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Explosive Dash",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Hood_Sicklepath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504013215",
+            "content": "Detonate the gravity well by attacking it with Dark Dislocation to trigger a large explosion of dark energy.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "hood-sickle",
+      "id": "hood-sickle-s1",
       "variant_name": "Hood Sickle",
       "edition": "Series 1",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/a/aa/Hood-Sickle_Promo.jpg",
       "attacks": [
-        "Trap Team=Teleport",
-        "Ghost strike"
+        "Dark Scythe Combo",
+        "Dark Dislocation",
+        "Gravity Well",
+        "Scythenado!"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "330"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "300"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "70"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Hood_Sickle_(character)"
     }
   ]
