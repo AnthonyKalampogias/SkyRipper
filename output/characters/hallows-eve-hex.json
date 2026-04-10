@@ -4,32 +4,80 @@
   "species": "Undead Elf",
   "gender": "Female",
   "element": "Undead",
-  "primary_game": "Skylanders: Lost Islands(October 2014)",
+  "role": "Skylander",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Hallows' Eve Hex is the Halloween 2014 counterpart of Hex in Skylanders: Lost Islands.",
+  "biography": "Hallows' Eve Hex is the Halloween 2014 counterpart of Hex in Skylanders: Lost Islands. She was released in October 2014 as a special seasonal variant of the Undead sorceress.",
+  "quote": "Hallows' Eve Hex is here to cast a spell over Skylands!",
+  "personality": "As a seasonal variant of Hex, Hallows' Eve Hex embraces a spooky and festive persona. Unlike her regular counterpart, she is depicted with visible hair, giving her a distinct appearance while maintaining her magical and mysterious nature.",
+  "story": [
+    {
+      "story_name": "Hallows' Eve Hex",
+      "content": "Hallows' Eve Hex is the Halloween 2014 counterpart of Hex in Skylanders: Lost Islands. She is the second Halloween variant released in the game and is notable for being the first 2014 variant not based on a character from Skylanders: Swap Force. Unlike standard Hex, this version has visible hair.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b3/Hallows_Eve_Hex_Promo.png/revision/latest?cb=20201201234532"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Hallows' Eve Hex's description",
+      "content": [
+        "Hallows' Eve Hex is here to cast a spell over Skylands!"
+      ]
+    }
+  ],
+  "trivia": [
+    "She is the second Halloween variant in Lost Islands (the first being Skeletal Cynder).",
+    "She is also the first Lost Islands Skylander of 2014 not to be based on a Swap Force character.",
+    "Unlike her regular counterpart, she has visible hair.",
+    "She is also the third female Undead variant in Lost Islands, after Skeletal Cynder and Snowler Brawl."
+  ],
+  "trailers": [],
+  "gameplay": "In Skylanders: Lost Islands, Hallows' Eve Hex is an Alter Ego variant. According to her character characteristics, she does not have any specific recorded attacks, serving primarily as a collectible variant within the game's kingdom-building environment.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Hallows'_Eve_Hex",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "hallows-eve-hex",
       "variant_name": "Hallows' Eve Hex",
-      "edition": "Series 1",
-      "type": "Swap Force",
-      "game": "Skylanders: Lost Islands(October 2014)",
+      "edition": "Halloween 2014",
+      "type": "Alter Ego",
+      "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/b/b3/Hallows_Eve_Hex_Promo.png/revision/latest?cb=20201201234532",
       "attacks": [
         "None"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Power",
+          "stat_value": "N/A"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "N/A"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "N/A"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "N/A"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Hallows'_Eve_Hex"
     }
   ]
