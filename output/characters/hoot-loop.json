@@ -4,6 +4,7 @@
   "species": "Magic Owl",
   "gender": "Male",
   "element": "Magic",
+  "role": "SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -12,24 +13,362 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [
+    "Skylanders Academy"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Hoot Loop was raised by a guild of magicians in Skylands ’ most famous traveling circus. At a young age, he perfected illusions and spells that only the very best of their guild could perform, and even mastered the art of teleportation! Soon enough, he became the star of the show, known far and wide as the Amazing Hoot Loop. However, one day an army of Greebles disguised as clowns invaded, determined to destroy the popular circus. It was then that Hoot Loop gave a performance that few would ever forget. Using his incredible powers, he fought off the invaders and saved the circus - to the raucous applause of the many spectators – including Master Eon , who presented Hoot Loop with an opportunity to learn some real magic as a member of the Skylanders.",
-  "personality": "Hoot Loop is a natural showman, and is less likely to be modest. He is the first to boast about his extraordinary abilities. &#91; 3 &#93; He can also be mischievous, as demonstrated in the animated Card Game Short Cut .",
-  "story": null,
+  "description": "Hoot Loop is an owl magician who is one of the SWAP Force Skylanders in Skylanders: Swap Force. He is of the Magic element. His Swap Force Ability is Teleport.",
+  "biography": "Hoot Loop was raised by a guild of magicians in Skylands' most famous traveling circus. At a young age, he perfected illusions and spells that only the very best of their guild could perform, and even mastered the art of teleportation! Soon enough, he became the star of the show, known far and wide as the Amazing Hoot Loop. However, one day an army of Greebles disguised as clowns invaded, determined to destroy the popular circus. It was then that Hoot Loop gave a performance that few would ever forget. Using his incredible powers, he fought off the invaders and saved the circus - to the raucous applause of the many spectators – including Master Eon, who presented Hoot Loop with an opportunity to learn some real magic as a member of the Skylanders.",
+  "quote": "Let's Ruffle Some Feathers!",
+  "personality": "Hoot Loop is a natural showman, and is less likely to be modest. He is the first to boast about his extraordinary abilities. He can also be mischievous, as demonstrated in the animated Card Game Short Cut.",
+  "story": [
+    {
+      "story_name": "Development",
+      "content": "Hoot Loop was originally conceived as a fortune-telling monkey who wore a turban, carried a crystal ball, and held a deck of cards in his tail. Later his design evolved into a masked monkey with long horns and (and even, at one point, wings), before he eventually grew into a small owl wielding a hypnotic pendant, and from there into his final design. Much as concept artist Buck Chantrel loved monkeys, he was glad to see Hoot Loop grow into something so unique.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "Hoot Loop was raised by a guild of magicians in Skylands' most famous traveling circus. At a young age, he perfected illusions and spells that only the very best of their guild could perform, and even mastered the art of teleportation! Soon enough, he became the star of the show, known far and wide as the Amazing Hoot Loop. However, one day an army of Greebles disguised as clowns invaded, determined to destroy the popular circus. It was then that Hoot Loop gave a performance that few would ever forget. Using his incredible powers, he fought off the invaders and saved the circus - to the raucous applause of the many spectators – including Master Eon, who presented Hoot Loop with an opportunity to learn some real magic as a member of the Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Personality",
+      "content": "Hoot Loop is a natural showman, and is less likely to be modest. He is the first to boast about his extraordinary abilities. He can also be mischievous, as demonstrated in the animated Card Game Short Cut.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Let's ruffle some feathers!",
+        "The best of the nest.",
+        "Feathers of fury.",
+        "Working my magic.",
+        "Hocus focus.",
+        "Never had a doubt!",
+        "Another triumph!",
+        "Knocked for a loop. Hah hah! I mean you.",
+        "Owlakazam!",
+        "The eyes have it!",
+        "A flurry of treasure!",
+        "Ooh shiny!",
+        "Flying the coop!",
+        "Flying through!",
+        "A curious place this is.",
+        "To the skies!",
+        "Fly away!",
+        "Flying high!",
+        "Hoot power!",
+        "Full power!",
+        "The skies the limit.",
+        "I'm spreading my wings.",
+        "An interesting look for me.",
+        "I look quite regal.",
+        "I sound smart with this name.",
+        "Rolls right off the beak."
+      ]
+    },
+    {
+      "quote_type": "Media Quotes",
+      "content": [
+        "This will be a hoot!",
+        "LOOK! It's Kaos!",
+        "Oh strange. Must have been the wind.",
+        "Oh! I need that card! BINGO!"
+      ]
+    }
+  ],
+  "trivia": [
+    "On some of his toy packages in Wave 1, Free Ranger's catchphrase 'Whip Up A Storm' is mistakenly on the package instead of Hoot Loop's catchphrase. 'Let's Ruffle Some Feathers!'",
+    "Sometimes Hoot Loop blinks one eye and then the other instead of blinking both at the same time.",
+    "His name could be a play on words with the cereal, 'Froot Loops'.",
+    "Hoot Loop is the shortest SWAP Force Skylander, with very short legs and a petite torso.",
+    "He is voiced by Robin Atkin Downes, who also voices Blades and Medic from Team Fortress 2.",
+    "He shares a few of his battle cries with Jet-Vac. Coincidentally they are both bird Skylanders.",
+    "The name of his primary attack, 'DéjàBOOM,' is a play on the French term 'Déjà Vu,' which means 'already seen' and is the name of a Magic Core Skylander from Skylanders: Trap Team.",
+    "In Trap Team, certain trinkets will not work with him.",
+    "While in hypnotic mode, a slightly faint owl hoot can be heard in the background. It is unknown if he is actually making this noise himself, as he can sometimes be heard laughing over it.",
+    "He also bears a slight resemblance to Ezylryb from the Guardians of Ga'Hoole series.",
+    "He and Star Strike are the only two Skylanders to have 'Enchanted' counterparts.",
+    "In Skylanders: Imaginators, Hoot Loop's character icon image is shown as Enchanted Hoot Loop's.",
+    "In Skylanders Academy, Hex wrote an essay on him, although Jet Vac thought it was about himself until she told him."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Hoot Loop (Let's Ruffle some Feathers)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Hoot_Loop_(Let%27s_Ruffle_some_Feathers)"
+    },
+    {
+      "name": "Skylanders Swap Force - Hoot Loop Soul Gem Preview (Let's Ruffle some Feathers)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Hoot_Loop_Soul_Gem_Preview_(Let%27s_Ruffle_some_Feathers)"
+    }
+  ],
+  "gameplay": "Hoot Loop's primary gameplay revolves around shooting magical DéjàBOOM! projectiles and using his hypnotism to slow down enemies. His bottom half provides teleportation mobility, allowing him to warp across the battlefield and damage enemies near his entry or exit points. As a SWAP Force character, he can combine his magical top-half attacks with the movement or combat capabilities of other SWAP Force members.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Hoot_Loop",
+  "abilities": {
+    "basic": [
+      {
+        "name": "DéjàBOOM!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Hoot_Looptopprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505193611",
+        "content": "Press Attack 1 to shoot a magic projectile that hits enemies three times before it disappears.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Hypnotism",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Hoot_Looptopbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505193628",
+        "content": "Hold Attack 3 to hypnotize enemies, slowing their movement and attacks.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 300,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Tricked Ya!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b0/Hoot_Looptopbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505193635",
+        "content": "Armor increased. Shiny new armor reduces damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Flashback",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/87/Hoot_Looptopbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505193637",
+        "content": "Press Attack 1 to shoot a DéjàBOOM! projectile. DéjàBOOM! bounces three times and on a third bounce it explodes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Loop the Loop",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Hoot_Loopbottomprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505193645",
+        "content": "Press Attack 2 to teleport forward a short distance and damage nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Portable Hole",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Hoot_Loopbottombasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505193651",
+        "content": "Hold Attack 2 to aim the portal loop, release to teleport to that area and damage all nearby enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 300,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Temporal Whack",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Hoot_Loopbottombasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505193656",
+        "content": "Teleport does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Time Sink",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7e/Hoot_Loopbottombasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505193702",
+        "content": "Enemies and objects are pulled towards the area where Portable Hole is aimed.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Wand of Dreams",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7a/Hoot_Looptopsoulgempower.png/revision/latest?cb=20131216202444",
+        "content": "Press Attack 1 to shoot a DéjàBOOM! and two smaller DéjàBOOM! projectiles at once.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Infinite Loop",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Hoot_Loopbottomsoulgempower.png/revision/latest?cb=20131216202328",
+        "content": "Hold Attack 2 to aim the portal loop, release it under Loop's body to cause a massive attack that damages enemies in a larger area.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Dream-Weaver",
+        "abilities": [
+          {
+            "name": "Dream Beam",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Hoot_Looptoppath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505194043",
+            "content": "Hold Attack 1 to channel a magical beam of dreams that damages enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Bad Dreams Beam",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Hoot_Looptoppath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505194048",
+            "content": "Dream Beam does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Hypno-Owl",
+        "abilities": [
+          {
+            "name": "Mass Hypnosis",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Hoot_Looptoppath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505194447",
+            "content": "Hypnotism becomes more effective, slowing enemies in a larger area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Deep Asleep",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Hoot_Looptoppath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505194453",
+            "content": "Hold Attack 3 to use a more powerful Mass Hypnosis dealing increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Telekinesis",
+        "abilities": [
+          {
+            "name": "Now You See Me",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Hoot_Loopbottompath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505194055",
+            "content": "Hold Attack 2 to charge a Portable Hole, release to do increased damage. Damage is increased the longer it is charged.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Now You Don't",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Hoot_Loopbottompath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505194100",
+            "content": "Now You See Me does increased damage. A very impressive entrance!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Escape Artist",
+        "abilities": [
+          {
+            "name": "Complete Concentration",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/Hoot_Loopbottompath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505194454",
+            "content": "Press Jump after teleporting to appear back at the previous position.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Teleport Turbulence",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Hoot_Loopbottompath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505194500",
+            "content": "All teleport attacks do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "hoot-loop",
       "variant_name": "Hoot Loop",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/7/77/HootLoop2.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/77/HootLoop2.jpg/revision/latest/scale-to-width-down/268?cb=20130819002110",
       "attacks": [
         "Dejaboom!",
         "Hypnotism",
@@ -37,7 +376,28 @@
         "Portable Hole",
         "Tricked Ya!"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "250 (Lv. 20: 750)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Hoot_Loop"
     }
   ]
