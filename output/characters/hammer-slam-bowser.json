@@ -4,22 +4,247 @@
   "species": "Koopa",
   "gender": "Male",
   "element": "Fire",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Unexpected Allies",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Rift into Overdrive",
+  "cameos": [
+    "Rift into Overdrive"
+  ],
   "world": [
     "Mushroom Kingdom"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Bowser is the king of the Koopas and believes himself to be the supreme, unquestioned ruler of a kingdom far from Skylands . A hot-tempered and spiky-shelled warrior, he was transported to Skylands by traveling through a rift that had been created by Kaos ' terrible Sky Eater . The Skylanders sent out a distress call across all the dimensions to call for reinforcements, and for reasons known only to Bowser himself, he has decided to join this epic battle against Kaos and the Darkness in his Clown Cruiser as the newest and most lethal of all the SuperChargers!",
-  "personality": "Being one of Nintendo's most iconic antagonists, Bowser is very tyrannical,&#160;cruel, ruthless, and oppressive,&#160;willing to do whatever it takes to defeat his former nemesis Mario , and capture his love interest Princess Peach . Now as a SuperCharger, Bowser is a trustworthy warrior; courageous, selfless, and loyal to those who can't help themselves. He is still sinister, but in a good way (very similar to the SWAP Force Skylander, Rattle Shake ). He is also a very frightening fellow, as he managed to scare Buzz during his quest at Skylanders Academy . Like many of the Fire Skylanders, the Koopa King is shown to have a fiery temper, though he seems to be able to control it, much like Eruptor . Bowser is also highly intelligent, as in the past, he was able to construct various weapons and machinery single-handedly, though when it comes to combat, he has his Magikoopa assistants Kamek and Kammy do the thinking for him. He also clearly detests immaturity, as shown when he was trying to get Donkey Kong to pay attention to their brawl with Blubberbeard .",
-  "story": null,
+  "description": "Hammer Slam Bowser, otherwise known as Bowser, is the Koopa King and a special Skylander-amiibo hybrid, along with Turbo Charge Donkey Kong. He is well known as the main antagonist of the Mario series. Hammer Slam Bowser is one of the Fire SuperChargers in Skylanders: SuperChargers, equipped with his signature vehicle, the Clown Cruiser. He is exclusively playable on Nintendo consoles and is available only in the Nintendo Wii and 3DS Starter Packs of Skylanders: SuperChargers Racing.",
+  "biography": "Bowser is the king of the Koopas and believes himself to be the supreme, unquestioned ruler of a kingdom far from Skylands. A hot-tempered and spiky-shelled warrior, he was transported to Skylands by traveling through a rift that had been created by Kaos' terrible Sky Eater. The Skylanders sent out a distress call across all the dimensions to call for reinforcements, and for reasons known only to Bowser himself, he has decided to join this epic battle against Kaos and the Darkness in his Clown Cruiser as the newest and most lethal of all the SuperChargers!",
+  "quote": "Bow down to the king!",
+  "personality": "Being one of Nintendo's most iconic antagonists, Bowser is very tyrannical, cruel, ruthless, and oppressive, willing to do whatever it takes to defeat his former nemesis Mario, and capture his love interest Princess Peach. Now as a SuperCharger, Bowser is a trustworthy warrior; courageous, selfless, and loyal to those who can't help themselves. He is still sinister, but in a good way (very similar to the SWAP Force Skylander, Rattle Shake). He is also a very frightening fellow, as he managed to scare Buzz during his quest at Skylanders Academy. Like many of the Fire Skylanders, the Koopa King is shown to have a fiery temper, though he seems to be able to control it, much like Eruptor. Bowser is also highly intelligent, as in the past, he was able to construct various weapons and machinery single-handedly, though when it comes to combat, he has his Magikoopa assistants Kamek and Kammy do the thinking for him. He also clearly detests immaturity, as shown when he was trying to get Donkey Kong to pay attention to their brawl with Blubberbeard.",
+  "story": [
+    {
+      "story_name": "Unexpected Allies",
+      "content": "When Kaos severed the connection between the Portals in Skylands, Mags' distress signal was not only able to reach all of Skylands but to other worlds as well. Both Bowser and Donkey Kong were transported to Skylands through a rift where they were soon attacked by a gang of pirates lead by Captain Blubberbeard. During the battle, they discovered two Rift Engines nearby and touched them, transforming into SuperChargers. With their newfound powers, Bowser and Donkey Kong defeated the pirates and drove them away. SuperChargers, Bone Bash Roller Brawl and Lava Lance Eruptor, discovered the two newcomers and brought them back to the Skylanders Academy where Buzz explained what was happening to Skylands. At first Bowser wasn't willing to help out, as he believed that since Skylands wasn't his world, it wasn't his and Donkey Kong's fight. Buzz soon noted that if Kaos succeeded in ruling Skylands, Bowser's world would be in danger as well. With an enhanced Clown Cruiser to seal the deal, Bowser decided to join the battle against Kaos as a SuperCharger.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Bow down to the king!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Skylanders: SuperChargers marks Bowser's second playable appearance in a fighting game outside the Mario franchise behind the Super Smash Bros. franchise, and his fourth appearance as a playable protagonist after Super Mario RPG, Super Paper Mario, and Mario and Luigi: Bowser's Inside Story. Additionally, it is his first role as a protagonist in which he doesn't ally himself with his nemesis Mario.",
+    "While Bowser is capable of speech in the IDW Skylander comics, he doesn't talk in the game. Because of this, Bowser, Donkey Kong and Crash Bandicoot are the only Skylanders to have no catchphrases. Dr. Neo Cortex doesn't have a catchphrase either, but is fully capable of speech.",
+    "Thwomps were originally part of Bowser's moveset, until it was decided that Koopas were a better fit.",
+    "Molten Bowser is a homage to Giga Bowser in the Super Smash Bros. series. Additionally, Giga Bowser was planned to be a part of Bowser's moveset in an attempt to stay loyal to Nintendo source material. Nintendo, however, encouraged deviating from source material and doing something original, and thus Molten Bowser was created instead.",
+    "Bowser is the first villain who did not appear in Trap Team to have a Skylander figurine. The second is Dr. Neo Cortex.",
+    "He and Donkey Kong are the only two SuperChargers with vehicles not of their respective Elements. They are also the only Guest Star Skylanders that have dark versions of themselves.",
+    "The second upgrade of his Molten Monstrosity upgrade path is Bowser Bomb, which originated from Super Mario Bros. 3, and the move eventually got its name in Super Smash Bros. Melee.",
+    "Bowser, Spyro, Dino-Rang, Flashwing, Star Strike, Enigma, Donkey Kong, Crash Bandicoot, Dr. Neo Cortex, and Starcast are the only Skylanders who do not originate from Skylands.",
+    "Bowser, Lightning Rod, Zap, Wham-Shell, Chill, Swarm, Grilla Drilla, Punk Shock, and Golden Queen are the only Skylanders who come from royalty.",
+    "Bowser was originally going to have his own element, before ending up as a Fire Skylander.",
+    "He is the fifth playable turtle or turtle-hybrid, the others being Warnado, Slobber Tooth, Bomb Shell, and Shellshock Sheldon.",
+    "When compared to the other SuperChargers in game, Bowser and Donkey Kong appear to be taller than the rest of them.",
+    "Bowser, Donkey Kong, Spyro, Cynder, Sparx, Malefor, Crash Bandicoot, Dr. Neo Cortex, Aku Aku, Uka Uka, and Fake Crash are currently the only characters to appear in game franchises before the Skylanders series.",
+    "Bowser is the second hammer Skylander who is not part of the Earth element (the first being Stump Smash).",
+    "In the Nintendo Wii U version of Imaginators, there is a glitch that causes Molten Bowser to hold his hammer. It happens when Bowser is in his Molten form while the player upgrades him.",
+    "In the Wii U version of SuperChargers, Buzz mistakes Bowser for being a villain from Cloudcracker Prison, which upsets the Koopa very much.",
+    "Despite being based on a specific character, Hammer Slam Bowser's Amiibo functionality acts like a generic Amiibo in certain games like Mini Mario & Friends: Amiibo Challenge and Super Mario Odyssey, most likely because it was made by a third-party company.",
+    "He is the only guest Skylander without a singular assistant guest character (the other guest Skylanders have singular assistant guest characters. Donkey Kong has Diddy Kong, Crash Bandicoot has Aku Aku and Dr. Neo Cortex has Uka Uka).",
+    "Concept art depicts Hammer Slam Bowser wielding a Chain Chomp, a live Koopa, or dual hammers as alternative primary weapons.",
+    "Hammer Slam Bowser is referenced in Mario Kart World via the Supercharged costume."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders SuperChargers Hammer Slam Bowser",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_SuperChargers_Hammer_Slam_Bowser"
+    }
+  ],
+  "gameplay": "Equipped with a large, fire-infused hammer, Bowser can land devastating blows on his enemies. He can also summon Koopas, Warp Pipes, and transform into Molten Bowser. Purchasing his Soul Gem will cause all active Koopa Troopas to transform into Molten Bones Koopas.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Hammer_Slam_Bowser",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Hammer Slam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Hammer_Slam_Bowserprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505130215",
+        "content": "Press Attack 1 to swing your Hammer and attack nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Koopa Troopa!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/14/Hammer_Slam_Bowsersecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170505130220",
+        "content": "Press Attack 2 to call in a Koopa. Jump on Koopas to send them spinning around the level!",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Molten Bowser",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4c/Hammer_Slam_Bowserbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505130225",
+        "content": "Press Attack 3 to become a fiery Bowser! Press Attack 1 to swipe at enemies with fiery claws or press Attack 2 to breathe out fire!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Shell Smash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c3/Hammer_Slam_Bowserbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505130230",
+        "content": "Press Attack 1 to hit a nearby spinning Koopa, causing them to spin around faster and do more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Red Koopa",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/32/Hammer_Slam_Bowserbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505130239",
+        "content": "Press Attack 2 to spawn a Red Koopa. Red Koopas home in on enemies while in their shell.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Royal Authority",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cb/Hammer_Slam_Bowserbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170505130246",
+        "content": "Press Attack 2 to spawn a koopa, this will also cause nearby koopas to stop spinning.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Molten Bones",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Hammer_Slam_Bowsersoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505125943",
+        "content": "Press Attack 3 to turn into Molten Bowser. Turning into Molten Bowser transforms all active Koopas into Molten Bones which do more damage to enemies!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Koopa Commander",
+        "abilities": [
+          {
+            "name": "Warp Pipe",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/Hammer_Slam_Bowserpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505130727",
+            "content": "Hold Attack 2 to summon a Warp Pipe which spawns Koopas.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Koopa Paratroopa",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Hammer_Slam_Bowserpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505130733",
+            "content": "Press Attack 2 to summon a Koopa Paratroopa. Flying AND homing!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Super Koopa Spin",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/06/Hammer_Slam_Bowserpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505130752",
+            "content": "Press Attack 1 to make nearby spinning Koopas spin even faster. You can now spin up Koopas even more doing more damage to enemies!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Molten Monstrosity",
+        "abilities": [
+          {
+            "name": "Molten Hammer",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Hammer_Slam_Bowserpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505131309",
+            "content": "Press Attack 1 three times to do a massive lava slam attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Bowser Bomb",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9f/Hammer_Slam_Bowserpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505131313",
+            "content": "Press Attack 3 to enter Molten Bowser mode causing an explosion and massive damage to enemies around you.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Infinite Fire",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/da/Hammer_Slam_Bowserpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505131322",
+            "content": "Hold Attack 2 while in Molten Bowser mode to deliver a continuous stream of fire.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "hammer-slam-bowser",
@@ -35,7 +260,28 @@
         "Warp Pipe",
         "Molten Hammer"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "00 (max. 0)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "00 (max. 48)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "00 (max. 30)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "00 (max. 50)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "00 (max. 50)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Hammer_Slam_Bowser"
     }
   ]
