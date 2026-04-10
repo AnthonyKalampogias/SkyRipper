@@ -4,6 +4,7 @@
   "species": "Unknown",
   "gender": "Male",
   "element": "Air",
+  "role": "Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -13,22 +14,282 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "The Kaos Trap",
+  "cameos": [
+    "The Kaos Trap"
+  ],
   "world": [
     "Thunderclap Kingdom"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Gusto was once a cloud wrangler in the peaceful Thunderclap Kingdom, where he learned to master the wind under the guidance of the mysterious Cloud Dragon. But a day came when a fleet of dragon hunters appeared on the horizon, seeking to capture the fabled creature. Despite the danger, Gusto stepped forward to defend it. The hunters could see that Gusto was not a soldier and didn’t even have a real weapon – just a \"curved stick.\" However, he was no coward! And, throwing his large boomerang, Gusto hit his surprised opponents again and again – until the hunters surrendered and were forced to retreat. For standing up for himself and protecting the Cloud Dragon, Gusto was given a new Traptanium Boomerang and made part of the Trap Team!",
-  "personality": "Gusto is a big guy with heart of gold. Not actual gold, of course, but Gusto's heart is just as precious. &#91; 1 &#93;",
-  "story": null,
+  "description": "Gusto is a large humanoid Trap Master of the Air element in Skylanders: Trap Team. He is included in the Nintendo 3DS version's Starter Pack and a single pack.",
+  "biography": "Gusto was once a cloud wrangler in the peaceful Thunderclap Kingdom, where he learned to master the wind under the guidance of the mysterious Cloud Dragon. But a day came when a fleet of dragon hunters appeared on the horizon, seeking to capture the fabled creature. Despite the danger, Gusto stepped forward to defend it. The hunters could see that Gusto was not a soldier and didn't even have a real weapon – just a 'curved stick.' However, he was no coward! And, throwing his large boomerang, Gusto hit his surprised opponents again and again – until the hunters surrendered and were forced to retreat. For standing up for himself and protecting the Cloud Dragon, Gusto was given a new Traptanium Boomerang and made part of the Trap Team!",
+  "quote": "Gusts and Glory!",
+  "personality": "Gusto is a big guy with heart of gold. Not actual gold, of course, but Gusto's heart is just as precious.",
+  "story": [
+    {
+      "story_name": "Light in the Dark",
+      "content": "Gusto was one of the Skylanders lead by Gearshift in the fight against Pain-Yatta's army of candy warriors. He and several other Skylanders fought a group of Candy Soldiers to save three Mabu before retreating into an old castle fortress to hold out when the army began to grow in numbers. As they were cornered by the candy army within the fortress, Gusto and the other Skylanders served as Skylands' last line of defense, battling Pain-Yatta's army with all of their might. The candy army soon fell to pieces just as the Skylanders were becoming overwhelmed (thanks to the actions of the Light and Dark Skylanders in their fight against Pain-Yatta), earning the heroes their victory.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Gusts and Glory!",
+        "All right!",
+        "In with the wind!",
+        "Storm roaming in!",
+        "Go time!",
+        "Away we go!",
+        "Up wind!",
+        "To the skies!",
+        "Cool.",
+        "Alright!",
+        "Oh yeah!",
+        "Yeah!",
+        "Excellent!",
+        "Easy breezy!",
+        "Look at it go!",
+        "What a breeze!",
+        "Needs more salt.",
+        "Mm, tasty!",
+        "Bring in the storm!",
+        "Breezing through!",
+        "A storm is coming!",
+        "Better take shelter!",
+        "Go for the Gusto!",
+        "Nature's fury!",
+        "Gale force!",
+        "Power storm!",
+        "A storm is brewing!",
+        "Rang-a-tang-tang!",
+        "A real downpour!",
+        "Taking the world by storm!",
+        "The forecast calls for greatness! Every day! Literally!",
+        "Let's throw caution to the wind, and, this hat!",
+        "I'm on cloud nine with this new hat!",
+        "The winds of change are blowing through!",
+        "This name is a breath of fresh air!"
+      ]
+    },
+    {
+      "quote_type": "Ring of Heroes",
+      "content": [
+        "Haha, I'm an expert when it comes to drinking up! I'll drink all three bottles in a row! Wait, that's not how you do it?"
+      ]
+    }
+  ],
+  "trivia": [
+    "His catchphrase is a pun on the saying 'Guts and glory'.",
+    "He, Dino-Rang and Bone Bash Roller Brawl are the only Skylanders to wield boomerangs.",
+    "His name is a Spanish word that means 'taste', which could refer to his ability to swallow enemies and to spit them out.",
+    "In addition to this, he is similar to the Nintendo character, Kirby, since they are both able to swallow and eat their enemies.",
+    "He's one of the playable characters that can eat their enemies, the others are Wrecking Ball, Thumpback, Thumpling, Slobber Tooth, and The Gulper.",
+    "Gusto, Smolderdash and Trigger Happy all have the word 'glory' in their catchphrase.",
+    "One of his upgrades 'The Breath of Life' is named after a song.",
+    "Another one of his upgrades, 'Rang Me Like a Hurricane' is a pun on the song ('Rock You Like a Hurricane' by Scorpions).",
+    "In Ring of Heroes, Gusto is already equipped with his spiked boomerang from the Air Ace path.",
+    "When Gusto inhales mage enemies (such as Bad Jujus and Rage Mages), the mages' effects will remain active. For example, Bad Jujus' cyclones will keep swirling, and Rage Mages' power balls will hang in the air.",
+    "Oddly, if a Rage Mage is killed while inside Gusto's belly, its diamond will drop sideways and grow to double its usual size."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Gusto",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Gusto"
+    },
+    {
+      "name": "Skylanders Trap Team - Gusto's Soul Gem Preview (Gusts and Glory)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Trap_Team_-_Gusto%27s_Soul_Gem_Preview_(Gusts_and_Glory)"
+    }
+  ],
+  "gameplay": "Mastering the wind, Gusto can throw his Traptanium boomerang with great force, which, of course, comes right back. He can charge his boomerang up, which adds electricity to the impact. Gusto can suck in enormous amounts of air, taking in his enemies as well, and blow it back out in a powerful gust that damages foes in the process.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Gusto",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Traptanium Boomerang",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Gustoprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170503154609",
+        "content": "Throw a Traptanium Boomerang.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Inhaler",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/77/Gustosecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170503154629",
+        "content": "Inhale enemies then spit them out.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "The Breath of Life",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/Gustobasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170503154713",
+        "content": "Regain HP by inhaling enemies",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Twistin' in the Wind",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/71/Gustobasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170503154733",
+        "content": "Spin around and whack enemies with the boomerang.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Electro-Rang",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/78/Gustobasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170503154758",
+        "content": "Hold Attack 1 to charge up the Traptainium Boomerang.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Lots of Lungpower",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/26/Gustobasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170503154817",
+        "content": "Can inhale more enemies at a time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Boomerangs 4 Breakfast",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c2/Gustosoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170503154651",
+        "content": "Inhale a Traptainium Boomerang in the air for a super-powered attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Air Ace",
+        "abilities": [
+          {
+            "name": "BOOM-erang",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5a/Gustopath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170503154924",
+            "content": "Traptainum Boomerang and Electro-Rang do more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Rang Me Like a Hurricane",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Gustopath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170503154951",
+            "content": "Traptainium Boomerang attacks create mini hurricanes.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Boomerang Buddies",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/63/Gustopath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170503155016",
+            "content": "Boomerang attack releases additional rangs that orbit and protect Gusto.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Dizzy Destroyer",
+        "abilities": [
+          {
+            "name": "Spin Like the Wind",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Gustopath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170503155146",
+            "content": "Can perform Twistin' in the Wind attack for longer and spawn mini hurricanes.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Shocking Twists",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/db/Gustopath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170503155207",
+            "content": "Twistin' in the Wind attack electrocutes enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Lightning Ball",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Gustopath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170503155229",
+            "content": "Turn into an unstoppable Lightning Ball.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "gusto",
       "variant_name": "Gusto",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/49/Gusto_Promo.jpg/revision/latest?cb=20140724193737",
       "attacks": [
@@ -38,7 +299,24 @@
         "BOOM-erang",
         "Spin Like the Wind"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "130"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "130"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "170"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Gusto"
     }
   ]
