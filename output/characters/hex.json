@@ -1,29 +1,444 @@
 {
   "id": "hex",
   "name": "Hex",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": "Long ago, Hex was a gifted and powerful sorceress who traveled deep into the underworld to confront the Undead Dragon King named Malefor , who made several attempts to capture her to learn her secrets. Though she successfully battled the dragon, Hex returned from the underworld changed – having unwillingly joined the ranks of the Undead. Many are wary of her since her transformation, suspecting she has used her powerful magic for evil purposes. But Eon trusts her, and views her as a valuable Skylander ally.",
-  "personality": "Since her Undead transformation, Hex has become spooky, mysterious, and even sinister, striking fear into the hearts of her enemies. She has also developed a fondness for skulls. It has been said that Hex has laughed only once since her transformation -- apparently at an incident involving Trigger Happy , Slam Bam , and a gold coin in the rear end. She also has a tendency to act on her own, even if it means not sharing her plans with her allies. Strangely in Skylanders: Battlecast , Hex appears more prideful in battle, as well as sounding more cynical, and like other Skylanders in it, will scold and sneer at the Battlecaster should they harass her by poking.",
-  "story": null,
+  "species": "Undead Elf",
+  "gender": "Female",
+  "element": "Undead",
+  "role": "Core Skylander",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [
+    "Spyro versus The Mega Monsters",
+    "Cynder Confronts the Weather Wizard",
+    "Return of the Dragon King"
+  ],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Hex is an undead elven sorceress who is one of the Core Skylanders in Skylanders: Spyro's Adventure.",
+  "biography": "Long ago, Hex was a gifted and powerful sorceress who traveled deep into the underworld to confront the Undead Dragon King named Malefor, who made several attempts to capture her to learn her secrets. Though she successfully battled the dragon, Hex returned from the underworld changed – having unwillingly joined the ranks of the Undead. Many are wary of her since her transformation, suspecting she has used her powerful magic for evil purposes. But Master Eon trusts her, and views her as a valuable Skylander ally.",
+  "quote": "Fear the Dark!",
+  "personality": "Since her Undead transformation, Hex has become spooky, mysterious, and even sinister, striking fear into the hearts of her enemies. She has also developed a fondness for skulls. It has been said that Hex has laughed only once since her transformation -- apparently at an incident involving Trigger Happy, Slam Bam, and a gold coin in the rear end. She also has a tendency to act on her own, even if it means not sharing her plans with her allies. Strangely in Skylanders: Battlecast, Hex appears more prideful in battle, as well as sounding more cynical, and like other Skylanders in it, will scold and sneer at the Battlecaster should they harass her by poking.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Hex was a skilled elven sorceress whose spell-casting abilities once attracted great attention from all across Skylands. Many years ago, news of her power even passed to the dark and dangerous underworld. Here, the evil Undead Dragon King, Malefor, hatched a plot to kidnap her. Together with the entire local magic community of soothsayers, sorcerers, witches, wizards and warlocks, Hex was forced into hiding. Hex decided to take on the terrible Dragon King and descended into the land of the Undead. By entering the Land of the Undead, she became one of them. A furious Hex unleashed her most destructive magic on Malefor. When the smoke cleared, Hex was back in her village, but her Undead legacy remained.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/86/Malefor_Hex.jpg/revision/latest?cb=20211108055325"
+    },
+    {
+      "story_name": "Spyro versus The Mega Monsters",
+      "content": "Hex was mentioned as one of the two Skylanders who was assigned by Master Eon to investigate a mega-sized cockroach that was terrorizing Lucky Lagoon. However, Kaos, who claimed to be renouncing his evil ways to battle evildoers, dealt with the problem long before the two Undead Skylanders arrived on the scene.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Cynder Confronts the Weather Wizard",
+      "content": "Hex transported to the Cloudless Desert to inform Cynder and Zook that Master Eon wanted to see them. During their investigation of unusual weather, Hex pretended to defect to Kaos' side to overload his Undead Energy Extractor with her own powerful energy. The machine exploded, and Hex revealed she had always embraced her dark side, ultimately saving her friends and defeating Kaos' army.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Cynder_Hex.jpg/revision/latest?cb=20150529234444"
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "Hex was putting on a charity magic show in Woodburrow when her powers were stolen by the fairy Calliope. Reduced to the simplest spells, she teamed up with Spyro, Cynder, and Wallop to track down the thief, only to discover that Malefor had returned and was using their magic to regain his strength. Hex used a spell to redirect Spyro's kinetic energy into an orb, allowing him to destroy Malefor's chestplate and release the stolen powers of all the Skylanders.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Hex_clothing_damage.jpg/revision/latest?cb=20150326185641"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Fear the Dark!",
+        "The reason to fear the dark!",
+        "Oh, wealth of unearthly proportions!",
+        "More treasure, I like it!",
+        "The dark hour begins!",
+        "It's darkest before the dawn!",
+        "Take a walk on the dark side.",
+        "Fear when I am near.",
+        "That's how you make an entrance.",
+        "My power knows no equal!",
+        "Behold.",
+        "Levitate!",
+        "Rest in peace!",
+        "What lurks in the shadows?",
+        "I grow weary of this waiting!",
+        "My powers are yours.",
+        "Enchanting, aren't they?",
+        "I hope this doesn't clash with my outfit...",
+        "I sense great power in this hat!",
+        "This name will serve me well!",
+        "A name fit for a queen!"
+      ]
+    },
+    {
+      "quote_type": "Book Quotes",
+      "content": [
+        "You are not my friends. I haven't had friends since the day I became a member of the Undead. You saw those people on the beach. When I saved them, they still feared me. Everyone fears me. I see the way you look at me when I use my powers. You don't trust me. None of you do. Not even Eon.",
+        "Oh, and Zook, if you call me 'Hexy' again, I'll turn you into a toad!",
+        "Prepare to rest in peace, foul follower of Darkness.",
+        "This is who I am and this is the way I want to be. I embrace my dark side. I always have."
+      ]
+    }
+  ],
+  "trivia": [
+    "Hex is a word meaning the practice of witchcraft, usually as a curse.",
+    "Hex is also a Dutch word meaning 'witch,' but in Dutch it's spelled as 'heks'.",
+    "Her Skull Buddy resembles the Skull Mask in Crawling Catacombs, with red eyes instead of blue.",
+    "Her Series 2 figure is based on her Rain of Skulls.",
+    "LightCore Hex is based on Hex's prototype figure, where she had red highlights on her details.",
+    "The dress Hex wore when she was alive resembles the one worn by Mags.",
+    "Hex is one of the few Undead Skylanders to have no skeletal features.",
+    "She bears a resemblance to Maleficent from Disney's Sleeping Beauty.",
+    "Hex, Zap and Bop have the shortest names out of every Skylander.",
+    "Prior to the Rain of Trolls upgrade, Hex's Skull Rain attack summons dragon skulls that resemble Cynder's."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Hex (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Hex_(extended)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Hex Preview (Fear the Dark)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Hex_Preview_(Fear_the_Dark)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Hex Trailer (Fear the Dark)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Hex_Trailer_(Fear_the_Dark)"
+    },
+    {
+      "name": "Meet the Skylanders Series 2 Hex",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Series_2_Hex"
+    },
+    {
+      "name": "Meet the Skylanders LightCore Hex",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_LightCore_Hex"
+    }
+  ],
+  "gameplay": "Awakening powers from unknown depths from fighting Malefor in the Underworld, Hex had her magic changed to strange spells, such as levitation, burning phantom orbs, the ability to make skulls rain from the sky, and to summon and banish bones in wall formations. Her Wow Pow allows her to create a skull monster that spits smaller skulls at enemies. In Skylanders: Battlecast, Hex has the ability to curse and weaken enemies with charms, spells or skulls summoned from a cauldron; much of her gameplay is tied around attacks that strike long after they have been cast.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Hex",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Conjure Phantom Orb",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Hexprimarypower.png/revision/latest?cb=20120418135332",
+        "content": "Launch magic orbs of spectral energy that track your foes.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Rain of Skulls",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Hexsecondarypower.png/revision/latest?cb=20120418135345",
+        "content": "Hold the button shown to begin casting this spell. When fully charged, ghostly skulls rain down.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Wall of Bones",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b2/Hexbasicupgrade1.png/revision/latest?cb=20120418135416",
+        "content": "Create a Wall of Bones.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Storm of Skulls",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9f/Hexbasicupgrade2.png/revision/latest?cb=20120418135428",
+        "content": "Conjure up to 4 skulls with your Rain of Skulls attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Bone Fortress",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/Hexbasicupgrade3.png/revision/latest?cb=20120418135439",
+        "content": "The Wall of Bones is larger and takes more damage to destroy.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Twice the Orbage",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/08/Hexbasicupgrade4.png/revision/latest?cb=20120418135454",
+        "content": "Shoot 2 Phantom Orbs at once.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Skull Shield",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b9/Hexsoulgempower.png/revision/latest?cb=20120418135402",
+        "content": "Rain of Skulls knocks away enemies and attacks.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Skull Buddy",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/47/Hexwowpowpower.png/revision/latest?cb=20160724124745",
+        "content": "Hold Attack 2 to charge up a Skull Storm, then press Attack 1 to conjure a giant skull pal.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Skull Buddy",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/47/Hexwowpowpower.png/revision/latest?cb=20160724124745",
+        "content": "Hold Attack 2 to charge up a Skull Storm, then press Attack 1 to conjure a giant skull pal.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Shade Master",
+        "abilities": [
+          {
+            "name": "Long Distance Orbs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Hexpath1upgrade1.png/revision/latest?cb=20120418135511",
+            "content": "Increase the range of your Phantom Orbs.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Caustic Phantom Orbs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Hexpath1upgrade2.png/revision/latest?cb=20120418135524",
+            "content": "Phantom Orbs do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Unstable Phantom Orbs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/24/Hexpath1upgrade3.png/revision/latest?cb=20120418135535",
+            "content": "Phantom Orbs explode, damaging nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Bone Crafter",
+        "abilities": [
+          {
+            "name": "Compound Fracture",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Hexpath2upgrade1.png/revision/latest?cb=20120418135547",
+            "content": "Wall of Bones damages any enemies that touches it.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Master Caster",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7d/Hexpath2upgrade2.png/revision/latest?cb=20120418135557",
+            "content": "Takes much less time to cast Rain of Skulls and Wall of Bones.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Troll Skulls",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/80/Hexpath2upgrade3.png/revision/latest?cb=20120418135610",
+            "content": "Rain of Skulls does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "hex",
+      "id": "hex_s1",
       "variant_name": "Hex",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
+      "type": "Core",
+      "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/48/290px-Hex.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Conjure Phantom Orb",
+        "Rain of Skulls",
+        "Wall of Bones",
+        "Storm of Skulls",
+        "Caustic Phantom Orbs"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "32 (max. 82)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Hex"
+    },
+    {
+      "id": "hex_s2",
+      "variant_name": "Hex",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Hex_Series_2.jpg",
+      "attacks": [
+        "Conjure Phantom Orb",
+        "Rain of Skulls",
+        "Wall of Bones",
+        "Skull Buddy"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "70"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Hex"
+    },
+    {
+      "id": "hex_lc",
+      "variant_name": "LightCore Hex",
+      "edition": "LightCore",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/be/LightCore_Hex_Promo.jpg",
+      "attacks": [
+        "Conjure Phantom Orb",
+        "Rain of Skulls",
+        "Wall of Bones"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "70"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Hex"
     }
   ]
