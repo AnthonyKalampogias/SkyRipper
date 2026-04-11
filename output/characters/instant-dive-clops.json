@@ -4,20 +4,113 @@
   "species": "Eyeball",
   "gender": "Male",
   "element": "Water",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (iOS) (in the game files of the console versions)"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Instant Dive-Clops was a digital counterpart of Dive-Clops in Skylanders: SuperChargers. He is only playable in the iOS version of the game.",
+  "biography": "Instant Dive-Clops was a digital counterpart of Dive-Clops in Skylanders: SuperChargers. He is only playable in the iOS version of the game. He is the twin brother of the Giant, Eye-Brawl.",
+  "quote": "Look Out Below!",
+  "personality": "As a digital counterpart of Dive-Clops, Instant Dive-Clops shares his brother's dedication to protecting Skylands from beneath the waves, characterized by his focused and observant nature.",
+  "story": [
+    {
+      "story_name": "Origin Story",
+      "content": "Instant Dive-Clops was a digital counterpart of Dive-Clops in Skylanders: SuperChargers. He is only playable in the iOS version of the game. He is notably the twin brother of Eye-Brawl.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Instant_Dive_Clops.jpg/revision/latest?cb=20151109183637"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Look Out Below!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the only SuperCharger and Instant Skylander whose original counterpart isn't from the Starter Pack.",
+    "He is also the only Instant Skylander who does not have a Dark variant.",
+    "He is the twin brother of Eye-Brawl."
+  ],
+  "trailers": [],
+  "gameplay": "Instant Dive-Clops utilizes water-based weaponry and sonar technology. His primary attacks include launching Waterpedoes and utilizing Sonar to find his mark. He can also create geysers and slow his enemies with specialized torpedoes.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Dive-Clops",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Waterpedo",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Instant_Dive_Clops.jpg/revision/latest?cb=20151109183637",
+        "content": "Instant Dive-Clops fires a high-pressure Waterpedo at his enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#48D"
+        }
+      },
+      {
+        "name": "Sonar",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Instant_Dive_Clops.jpg/revision/latest?cb=20151109183637",
+        "content": "Instant Dive-Clops uses Sonar to track and target enemies underwater.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#48D"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Put the Eye in Geyser",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Instant_Dive_Clops.jpg/revision/latest?cb=20151109183637",
+        "content": "Enhanced geyser-based attack for more battlefield control.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#48D"
+        }
+      },
+      {
+        "name": "Torpeslow",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Instant_Dive_Clops.jpg/revision/latest?cb=20151109183637",
+        "content": "Slows down enemies hit by torpedoes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#48D"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Sonar Smarts",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Instant_Dive_Clops.jpg/revision/latest?cb=20151109183637",
+        "content": "Advanced sonar capabilities for maximum strategic advantage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#48D"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "instant-dive-clops",
@@ -33,7 +126,7 @@
         "Torpeslow",
         "Sonar Smarts"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Dive-Clops"
     }
   ]
