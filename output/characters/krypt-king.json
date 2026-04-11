@@ -4,6 +4,7 @@
   "species": "Knight Spirit possessing Arkeyan Armor",
   "gender": "Male",
   "element": "Undead",
+  "role": "Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -13,22 +14,340 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Rift into Overdrive",
+  "cameos": [
+    "Rift into Overdrive"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Krypt King is a haunted suit of armor who is one of the Undead Trap Masters in Skylanders: Trap Team.",
   "biography": "The perfect blend of sword and sorcery, Krypt King wandered Skylands for years as the disembodied spirit of a knight – until he found his way into the depths of an ancient Arkeyan weapon vault. Upon finding an enormously powerful suit of armor, the spirit decided to make it his own. Unfortunately, this triggered a long dormant auto defense system. With alarms blaring, a massive sealed chamber was opened, revealing a huge army of war machines. Krypt King launched himself towards the attack force, swinging his newly found giant sword until every machine was utterly destroyed. Realizing the power he wielded could serve a broader purpose, Krypt King sought out the Skylanders and was made a member of the Trap Team, where he now uses his massive Traptanium blade to cut down evil!",
-  "personality": "Krypt King may look imposing, but he's really just a curious spirit who's looking to settle down with the right suit of armor. &#91; 3 &#93;",
-  "story": null,
+  "quote": "I've Got the Edge!",
+  "personality": "Krypt King may look imposing, but he's really just a curious spirit who's looking to settle down with the right suit of armor.",
+  "story": [
+    {
+      "story_name": "Character Development",
+      "content": "Krypt King started out as the very first Giant. While in the process of thinking of what it means to be a Giant in Skylands, and what a Giant should feel like, I-Wei Huang took Chop Chop and made an ultra version of him called 'Chop Chop Daddy'. In the end, the team didn't use Krypt King as the Undead Giant, and instead Eye-Brawl took over that role. However I-Wei wanted to bring Krypt King back in Trap Team in some way. He went through some changes in color and proportions, but largely kept Krypt King's design and feel. Eventually, he became a Trap Master Skylander, something I-Wei was very happy with.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/be/KriptKing1.jpg/revision/latest?cb=20141014133400"
+    },
+    {
+      "story_name": "Biography",
+      "content": "The perfect blend of sword and sorcery, Krypt King wandered Skylands for years as the disembodied spirit of a knight – until he found his way into the depths of an ancient Arkeyan weapon vault. Upon finding an enormously powerful suit of armor, the spirit decided to make it his own. Unfortunately, this triggered a long dormant auto defense system. With alarms blaring, a massive sealed chamber was opened, revealing a huge army of war machines. Krypt King launched himself towards the attack force, swinging his newly found giant sword until every machine was utterly destroyed. Realizing the power he wielded could serve a broader purpose, Krypt King sought out the Skylanders and was made a member of the Trap Team, where he now uses his massive Traptanium blade to cut down evil!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/44/Krypt_King_Promo.jpg/revision/latest?cb=20140619165830"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "I've Got the Edge!",
+        "Pyramid power!",
+        "Blade at the ready!",
+        "My blade eternal!",
+        "Go, my minions!",
+        "For all of Skylands!",
+        "My blade knows no equal!",
+        "King of the cut!",
+        "It pays to cut and run!",
+        "Unstoppable!",
+        "I rule!",
+        "As it was foretold!",
+        "My blade supreme!",
+        "Make way!",
+        "The spirit awakens!",
+        "My power grows!",
+        "Glory me!",
+        "Eternal power!",
+        "A king's ransom!",
+        "Untold gold!",
+        "I am destined for greatness.",
+        "The hieroglyphs reveal true power!",
+        "This headwear is sure to strike fear!",
+        "Fit for a king!",
+        "So let it be written!",
+        "A worthy name, no bones about it!"
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Victory will be mine!",
+        "Beware the king!",
+        "Strength and honor!",
+        "Krypt King will conquer!",
+        "I've got the edge!",
+        "My blade is eternal!",
+        "Follow my lead!",
+        "Blade at the ready!",
+        "I will rest now.",
+        "Cutting out.",
+        "Following my destiny!",
+        "My power grows.",
+        "A worthy item.",
+        "A sacred artifact.",
+        "Kingly!",
+        "For Skylands!",
+        "Magnificent!",
+        "Splendid.",
+        "Obey my power!",
+        "Fulfill your oath!",
+        "Your fate comes forth!",
+        "Fear your doom!",
+        "Mummies, awaken!",
+        "Rise, my minions!",
+        "My blade eternal!",
+        "My blade reigns supreme!",
+        "The swarm comes forth!",
+        "Your end is near!",
+        "I rule!",
+        "I regin supreme.",
+        "Defeated...",
+        "I have failed.",
+        "I shall rise again!",
+        "Failure is not my destiny.",
+        "A kingly outcome.",
+        "As it was foretold.",
+        "You have my attention.",
+        "You are persistent, aren't you?",
+        "Blade at the ready.",
+        "Why must you disturb me?",
+        "My patience wears thin.",
+        "I am here.",
+        "Evergrowing strength!",
+        "A fine achievement!"
+      ]
+    },
+    {
+      "quote_type": "Unused Quotes",
+      "content": [
+        "Bummer.",
+        "My sword comes forth!",
+        "Success!",
+        "Perfect!",
+        "Right on!",
+        "Live to fight another day!",
+        "Your lack of focus troubles me.",
+        "Excellent!",
+        "Kneel before me!",
+        "And so it is written.",
+        "This is taking an eternity!",
+        "Bow to your king!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Before Krypt King appeared in Trap Team, he was originally planned as the Magic Giant for Skylanders: Giants. He also had an open rib cage rather than closed.",
+    "Arkeyan Duelist's swords to an extent look very similar to Krypt King's earlier sword renditions.",
+    "According to a typo from a promotional poster handed out at San Diego Comic Con 2014, his name was originally 'King Kut', a pun based on the Ancient Egyptian pharaoh Tutankhamun, also known as 'King Tut'.",
+    "Krypt King, Thunderbolt, Knight Mare, and Knight Light are the only Trap Masters who have Traptanium swords.",
+    "He and Head Rush are the only Trap Masters to have Nitro counterparts.",
+    "He, and Chopper were both planned to be in Giants, but were scrapped prior to being revealed in Trap Team. Unlike other characters such as Golden Queen, they underwent few changes to their mechanics and design.",
+    "In the Signature Series Guide for Skylanders: Trap Team, Krypt King's Soul Gem ability is titled as Unlimited Traptanium Works, which is a likely reference to the anime Fate/stay night: Unlimited Blade Works."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Krypt King",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Krypt_King"
+    },
+    {
+      "name": "Skylanders Trap Team - Krypt King's Soul Gem Preview (I've Got The Edge)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Krypt_King%27s_Soul_Gem_Preview_%28I%27ve_Got_The_Edge%29"
+    },
+    {
+      "name": "Skylanders Power Play- Krypt King",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play-_Krypt_King"
+    }
+  ],
+  "gameplay": "Krypt King has great skill over his swordfighting, which can be enhanced by releasing his sword to attack from afar; he can also summon a swarm of undead insects from inside the armor. In Skylanders: Battlecast, he also has the ability to summon mummies from the ground with varying effects, also being able to temporarily haunt one, and summon a powerful Pharaoh's Plague. His Special Ability is Grave Resolve, and his signature Gear is the Titan's Hilt, a gigantic version of his sword. Like the other Trap Masters in the card game, he also has the ability to summon a Trap Relic, containing Masker Mind.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Krypt_King",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Traptanium Broadsword",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Krypt_Kingprimarypower.png/revision/latest?cb=20170506173654",
+        "content": "Press Attack 1 to swing the Traptanium Broadsword. Press Attack 1, 1 hold 1 for a combo attack.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "The Swarm",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Krypt_Kingsecondarypower.png/revision/latest?cb=20170506173659",
+        "content": "Press Attack 2 to unleash a swarm of undead insects that seek out enemies",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Haunted Sword",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/44/Krypt_Kingbasicupgrade1.png/revision/latest?cb=20170506173702",
+        "content": "Press Attack 3 to release the Traptanium Broadsword and steer it towards enemies",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Spectral Slowdown",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Krypt_Kingbasicupgrade2.png/revision/latest?cb=20170506173710",
+        "content": "Haunted Sword slows down all enemies it touches",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "The Broader the Broadsword",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Krypt_Kingbasicupgrade3.png/revision/latest?cb=20170506173715",
+        "content": "Traptanium Broadsword does extra damage with greater range",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Super Swarm",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/eb/Krypt_Kingbasicupgrade4.png/revision/latest?cb=20170506173722",
+        "content": "Hold Attack 2 to charge up the swarm attack to unleash a larger swarm",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Storm Swords",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Krypt_Kingsoulgempower.png/revision/latest?cb=20170506173726",
+        "content": "Critical hits cause swords to rain down upon your enemies",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Lord of the Sword",
+        "abilities": [
+          {
+            "name": "Enchanted Armor",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c0/Krypt_Kingpath1upgrade1.png/revision/latest?cb=20170506174103",
+            "content": "Armor is increased upon defeating an enemy",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "The Rich Get Richer",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/da/Krypt_Kingpath1upgrade2.png/revision/latest?cb=20170506174109",
+            "content": "Attacks do increased damage after defeating an enemy",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Combo Attacks",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/11/Krypt_Kingpath1upgrade3.png/revision/latest?cb=20170506174116",
+            "content": "Press Attack 1, 1, and hold Attack 2 for a Sabre Spin combo. Press Attack 1, 1, hold Attack 3 for a Nether Blast combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Swarm Summoner",
+        "abilities": [
+          {
+            "name": "Stunning Sting",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/15/Krypt_Kingpath2upgrade1.png/revision/latest?cb=20170506174128",
+            "content": "Swarm Attack now stuns enemies",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Stir up the Swarm",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Krypt_Kingpath2upgrade2.png/revision/latest?cb=20170506174136",
+            "content": "Hit the swarm with the Traptanium Broadsword to power it up",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Parasitic Power",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Krypt_Kingpath2upgrade3.png/revision/latest?cb=20170506174142",
+            "content": "Get Healed by the Swarm after it disappears",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "krypt-king",
+      "id": "krypt-king-s1",
       "variant_name": "Krypt King",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/44/Krypt_King_Promo.jpg/revision/latest?cb=20140619165830",
       "attacks": [
@@ -38,8 +357,59 @@
         "Enchanted Armor",
         "Stunning Sting"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "180"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "180"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "50"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Krypt_King"
+    },
+    {
+      "id": "nitro-krypt-king",
+      "variant_name": "Nitro Krypt King",
+      "edition": "Nitro",
+      "type": "Trap Master",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Nitro_Krypt_King.jpg/revision/latest?cb=20150314115143",
+      "attacks": [
+        "Traptanium Broadsword",
+        "The Swarm",
+        "Haunted Sword",
+        "Enchanted Armor",
+        "Stunning Sting"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "180"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "180"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "50"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Krypt_King"
     }
   ]
 }
