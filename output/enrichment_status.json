@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-11T09:37:16.762Z",
+  "last_run": "2026-04-11T21:14:52.935Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -691,7 +691,7 @@
     },
     {
       "name": "Jawbreaker",
-      "sha": "21700408cb0c60601ff3c479842207c5ff965fc908d8019fb987a3bc93f7d809"
+      "sha": "be36b88cda9134a26b211e829e523cf5e629db63753fa02c84cc6f06f471b8ee"
     },
     {
       "name": "Jet-Vac",
@@ -720,6 +720,30 @@
     {
       "name": "King Cobra Cadabra",
       "sha": "5df2b2f6678b4f28ac0ab95352d588838b35c868cf00ccf3c7619004e59c74ee"
+    },
+    {
+      "name": "King Pen",
+      "sha": "2332967f86829c4f7adf8884189684b4b5847e06793f86ddea933b3e0c6b726a"
+    },
+    {
+      "name": "Knight Light (guardian formerly)",
+      "sha": "175c0d518490a89f3ec4b7c98d2660175f3b3760ad6d4a306504dfd77a4b70dd"
+    },
+    {
+      "name": "Knight Mare",
+      "sha": "bad6edbd0b0052d2af17c9cce845c719e9a1630be5115fba9c9477c5a2317a4e"
+    },
+    {
+      "name": "Knockout Jawbreaker",
+      "sha": "77c24ff66fa0eaf77b5244f68f0ded452f4e0cf17e0609760c878f5e1aa2c288"
+    },
+    {
+      "name": "Krypt King",
+      "sha": "db2d3600805db97dae5968c62f4d5057bc4f87c15e9a1f33dae79dd9e74d0493"
+    },
+    {
+      "name": "Lava Lance Eruptor",
+      "sha": "16381f92b850fb818d22f1a08d918e1fadb37d4691f303150bd2864163aadac1"
     }
   ]
 }
