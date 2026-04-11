@@ -4,40 +4,196 @@
   "species": "Anthropomorphic Beehive",
   "gender": "Male",
   "element": "Life",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Jolly Bumble Blast is the Christmas counterpart of Bumble Blast in Skylanders: Swap Force.",
   "biography": "No other Skylander celebrates the holiday season quite like Bumble Blast. Every year, the magical bees that are under his protection decorate their mighty tree hero in wonderful festive colors. Then Bumble Blast makes it his mission to spread the cheer by blasting enchanted peppermint at anyone in need of a little holiday spirit. After all, 'tis the season to be jolly!",
-  "personality": null,
-  "story": null,
+  "quote": "The Perfect Swarm!",
+  "personality": "Jolly Bumble Blast is incredibly festive, cheerful, and dedicated. He is a protector of nature who believes that the holiday spirit should be shared with everyone, often using his magical bees to spread joy as much as he uses them to defeat evil.",
+  "story": [
+    {
+      "story_name": "Festive Evolution",
+      "content": "Bumble Blast was originally a hollow log who became a hero after protecting a swarm of magical bees. During one particularly cold winter in Skylands, the bees decided to thank him by adorning him with festive red and white decorations, turning him into the seasonal hero known as Jolly Bumble Blast.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "The Perfect Swarm!"
+      ]
+    },
+    {
+      "quote_type": "Battle Cry",
+      "content": [
+        "Season's Stingings!",
+        "Ho Ho Honey!",
+        "Bit of a sticky situation!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Jolly Bumble Blast comes with a unique hat for Swap Force, the Jolly Hat.",
+    "When upgrading, Stirred up a Nest on the Bee Keeper path changes his Beezooka to its default colors.",
+    "This might be because of the developers forgetting to implement the correct color for the upgrade.",
+    "Despite his Beezooka showing a white and red colored bee inside the barrel, they come out in normal colors when shot.",
+    "Jolly Bumble Blast is the first Christmas themed variant who is not a Water element Skylander.",
+    "He is one of three holiday based alter-ego Skylanders to come with an exclusive hat, the other two being Springtime Trigger Happy and Kickoff Countdown.",
+    "He is the only one of the three who isn't of the Tech Element."
+  ],
+  "trailers": [],
+  "gameplay": "Jolly Bumble Blast focuses on long-range projectile attacks using heat-seeking bees. His secondary attacks involve slowing enemies down with sticky honey globs, allowing his swarm to deal consistent damage while he maintains a safe distance. His festive skin provides a unique visual flair to his attacks in-game.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Jolly_Bumble_Blast",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Beezooka",
+        "imgPath": "beezooka_icon.png",
+        "content": "Shoot heat-seeking bees from your bark.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#228B22",
+          "bg_content": "#FFFFFF"
+        }
+      },
+      {
+        "name": "Honey Glob",
+        "imgPath": "honey_glob_icon.png",
+        "content": "Shoot a glob of honey that slows down enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#228B22",
+          "bg_content": "#FFFFFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "The More the Merrier",
+        "imgPath": "more_merrier_icon.png",
+        "content": "Increases the maximum amount of bees stored in the Beezooka.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#228B22",
+          "bg_content": "#FFFFFF"
+        }
+      },
+      {
+        "name": "Sticky Situation",
+        "imgPath": "sticky_situation_icon.png",
+        "content": "Honey globs now deal damage over time to enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#228B22",
+          "bg_content": "#FFFFFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Bee Armada",
+        "imgPath": "bee_armada_icon.png",
+        "content": "Unleash a massive fleet of bees that cover the entire screen.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#228B22",
+          "bg_content": "#FFFFFF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Bee Keeper",
+        "abilities": [
+          {
+            "name": "Stirred Up a Nest",
+            "imgPath": "stirred_nest_icon.png",
+            "content": "Beezooka deals more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1200,
+            "colors": {
+              "header": "#228B22",
+              "bg_content": "#FFFFFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Honey Baron",
+        "abilities": [
+          {
+            "name": "Sweetened Stingers",
+            "imgPath": "sweet_sting_icon.png",
+            "content": "Bees do extra damage to enemies covered in honey.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1200,
+            "colors": {
+              "header": "#228B22",
+              "bg_content": "#FFFFFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "jolly-bumble-blast",
+      "id": "jolly-bumble-blast-sf",
       "variant_name": "Jolly Bumble Blast",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Special Edition",
+      "type": "Holiday Variant",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Jolly_Bumble_Blast_Promo.jpg/revision/latest?cb=20131213214001",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Jolly_Bumble_Blast_Promo.jpg",
       "attacks": [
         "Beezooka",
         "Honey Glob",
         "Honey Beecon",
-        "Bee Armada",
-        "Honey Buzz Blast"
+        "Bee Armada"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Power",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "70"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Jolly_Bumble_Blast"
     }
   ]
