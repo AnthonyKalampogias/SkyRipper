@@ -4,36 +4,147 @@
   "species": "Flame Spirit",
   "gender": "Male",
   "element": "Fire",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Instant Spitfire is the digital counterpart of Spitfire in Skylanders: SuperChargers, provided for players who do not have the physical figure available.",
+  "biography": "Unlike the other Instant Skylanders, Instant Spitfire can be played on multiple platforms. He is unlocked by unplugging the SuperChargers Portal and plugging in any of the Portals of Power from previous games. By pressing the designated button on the character selection screen, he and the Instant Hot Streak vehicle become playable. However, he is significantly weaker than the regular physical Spitfire figure and is incompatible with Co-Op mode as he requires an empty portal to remain active.",
+  "quote": "Fuel the Fire!",
+  "personality": "Spitfire is a fiery and energetic Flame Spirit who lived to race. He is incredibly fast, both in his movements and his thinking, and possesses a competitive spirit that drives him to be the best. Despite his intensity, he is a loyal Skylander dedicated to stopping Kaos.",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Fuel the Fire!",
+        "Too hot to handle!",
+        "Smoking!",
+        "Burnin' rubber!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the only instant Skylander of the Fire element.",
+    "He is the only digital exclusive Skylander to be playable on home consoles.",
+    "His stats are lower than the standard physical Spitfire to encourage the use of the physical toy.",
+    "He cannot be used in co-op mode."
+  ],
+  "trailers": [],
+  "gameplay": "Instant Spitfire shares the same move set as the standard Spitfire, utilizing fast-paced claw swipes and fiery dashes. He is a speed-oriented character who can close gaps quickly and deal rapid fire damage, though his base health and attack power are lower than his physical counterpart.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Spitfire",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Butane Brawling",
+        "imgPath": "abilities/spitfire/butane_brawling.png",
+        "content": "Slash enemies with fiery claws.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FF4500",
+          "bg_content": "#FFA500"
+        }
+      },
+      {
+        "name": "Flash Fire",
+        "imgPath": "abilities/spitfire/flash_fire.png",
+        "content": "Dash forward in a burst of flame, damaging anything in your way.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FF4500",
+          "bg_content": "#FFA500"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Flamenado",
+        "imgPath": "abilities/spitfire/flamenado.png",
+        "content": "Hold the secondary attack button to create a fire tornado.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 500,
+        "colors": {
+          "header": "#FF4500",
+          "bg_content": "#FFA500"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Mega Marathon",
+        "imgPath": "abilities/spitfire/mega_marathon.png",
+        "content": "Flamenado lasts much longer and covers more ground.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#FF4500",
+          "bg_content": "#FFA500"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "A-Blazing Speed",
+        "abilities": [
+          {
+            "name": "Hyper Burner",
+            "imgPath": "abilities/spitfire/hyper_burner.png",
+            "content": "Dashing deals more damage and leaves a trail of fire.",
+            "is_primary": false,
+            "is_secondary": true,
+            "price": 1200,
+            "colors": {
+              "header": "#FF4500",
+              "bg_content": "#FFA500"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "instant-spitfire",
+      "id": "instant-spitfire-v1",
       "variant_name": "Instant Spitfire",
-      "edition": "Series 1",
+      "edition": "Standard",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Instant_Spitfire.jpg/revision/latest?cb=20170213015025",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Instant_Spitfire.jpg",
       "attacks": [
         "Butane Brawling",
         "Flash Fire",
-        "Flamenado",
-        "Mega Marathon",
-        "Flamenado 2"
+        "Flamenado"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Power",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "70"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Spitfire"
     }
   ]
