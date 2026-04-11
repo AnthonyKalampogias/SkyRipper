@@ -4,37 +4,164 @@
   "species": "Bomb Launcher",
   "gender": "Male",
   "element": "Tech",
+  "role": "Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
     "Skylanders: Trap Team",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": "Countdown was discovered by a group of Yetis who were snowboarding one particularly chilly morning when they came across a big bomb encased in ice. After bringing it back to their cabin, they were shocked when it actually came to life. No one, not even Countdown himself, has any memory of where he came from or how he ended up frozen in the mountains. Since becoming a Skylander , Master Eon has been graciously trying to help piece together fragments of his past. But this has proven difficult, as Countdown loses some of his memory every time he explodes - which happens a lot. In the meantime, Countdown has enjoyed working with Eon and fighting alongside the Skylanders to defend their world against evil - even though he occasionally forgets what he is doing.",
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Kickoff Countdown is a special Tech element variant of Countdown released to commemorate the 2014 FIFA World Cup.",
+  "biography": "Countdown was discovered by a group of Yetis who were snowboarding one particularly chilly morning when they came across a big bomb encased in ice. After bringing it back to their cabin, they were shocked when it actually came to life. No one, not even Countdown himself, has any memory of where he came from or how he ended up frozen in the mountains. Since becoming a Skylander, Master Eon has been graciously trying to help piece together fragments of his past. But this has proven difficult, as Countdown loses some of his memory every time he explodes - which happens a lot.",
+  "quote": "I'm the Bomb!",
+  "personality": "Countdown is brave and dedicated to protecting Skylands, though his most defining trait is his extreme forgetfulness caused by the frequent detonation of his own head. He often forgets what he is doing mid-task, yet he remains an enthusiastic member of the Skylanders.",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Battle Cry",
+      "content": [
+        "I'm the Bomb!",
+        "Tick, tick, boom!",
+        "Goal!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Although his clock is silver in his promotional art and figure, in the game it is still golden.",
+    "Despite him smiling on most artworks, he's rarely ever seen smiling in gameplay.",
+    "He unlocks an exclusive hat called the 'Kickoff Hat'.",
+    "He was released as a special edition for the 2014 World Cup."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Kickoff Countdown",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Kickoff_Countdown"
+    }
+  ],
+  "gameplay": "Kickoff Countdown uses his head as a primary projectile, throwing bombs at enemies. He can also fire rockets and summon mini-bomb companions to assist him in battle. Like his standard counterpart, his head regenerates after every explosion.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Kickoff_Countdown",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Bomb Head",
+        "imgPath": "bomb_head.png",
+        "content": "Throw your head as a bomb. It will grow back!",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F58220",
+          "bg_content": "#FFFFFF"
+        }
+      },
+      {
+        "name": "Rocket Blast",
+        "imgPath": "rocket_blast.png",
+        "content": "Fire a rocket from your hand.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F58220",
+          "bg_content": "#FFFFFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Controlled Burst",
+        "imgPath": "controlled_burst.png",
+        "content": "Bombs deal more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F58220",
+          "bg_content": "#FFFFFF"
+        }
+      },
+      {
+        "name": "Boom Buddies",
+        "imgPath": "boom_buddies.png",
+        "content": "Summon small bombs to follow you.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#F58220",
+          "bg_content": "#FFFFFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Triple Threat",
+        "imgPath": "triple_threat.png",
+        "content": "Throw three bombs at once.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#F58220",
+          "bg_content": "#FFFFFF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Bombardier",
+        "abilities": [
+          {
+            "name": "Megabomb",
+            "imgPath": "megabomb.png",
+            "content": "Bombs have a larger explosion radius.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1200,
+            "colors": {
+              "header": "#F58220",
+              "bg_content": "#FFFFFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "kickoff-countdown",
       "variant_name": "Kickoff Countdown",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Special Edition",
+      "type": "Core",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Kickoff_Countdown_Promo.jpg/revision/latest?cb=20140530202351",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Kickoff_Countdown_Promo.jpg",
       "attacks": [
         "Bomb Head",
         "Rocket Blast",
         "Controlled Burst",
-        "Boom Buddies",
-        "Triple Threat"
+        "Boom Buddies"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Kickoff_Countdown"
     }
   ]
