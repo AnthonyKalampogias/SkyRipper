@@ -4,22 +4,259 @@
   "species": "Sky Baron",
   "gender": "Male",
   "element": "Air",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Rift into Overdrive",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
-  "cameos": "*Unexpected Allies *SuperChargers Issue 4 (comic cover) *Secret Agent Secrets (comic cover)",
+  "cameos": [
+    "Unexpected Allies",
+    "SuperChargers Issue 4 (comic cover)",
+    "Secret Agent Secrets (comic cover)"
+  ],
   "world": [
     "Windham"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Hurricane Jet-Vac is the SuperCharger counterpart of Jet-Vac in Skylanders: SuperChargers. His signature vehicle is the Jet Stream.",
+  "biography": "Hurricane Jet-Vac is the SuperCharger counterpart of Jet-Vac in Skylanders: SuperChargers. His signature vehicle is the Jet Stream.",
+  "quote": "Hawk and Awe!",
+  "personality": "Jet-Vac is a dedicated hero who believes in training and the defense of the defenseless, always ready for a mission and taking great pride in his duties. He is polite, often addressing others as 'old chap' or 'old chum'.",
+  "story": [
+    {
+      "story_name": "Hurricane Jet-Vac",
+      "content": "Hurricane Jet-Vac is the SuperCharger counterpart of Jet-Vac in Skylanders: SuperChargers. His signature vehicle is the Jet Stream.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Hurricane_Jet-Vac_Art.jpg/revision/latest/scale-to-width-down/268?cb=20150831080907"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Hawk and awe!",
+        "It's go time!",
+        "Excellent!",
+        "Yes!",
+        "Alright!",
+        "Success is mine!",
+        "I'm right on target!",
+        "Sorry about that!",
+        "Not too bad, old chum!",
+        "Ranking up!",
+        "Just what I needed!",
+        "The sky's the limit!"
+      ]
+    },
+    {
+      "quote_type": "Quest Quotes",
+      "content": [
+        "Hoho! You know me, Buzz. I'm always up for a spot of training. What's on the docket today, hmm?",
+        "Of course, old chap.",
+        "Hmm... If you're looking for a tall tail, you should talk to Stink Bomb. That said, I would be delighted to demonstrate.",
+        "Pish-posh, Buzz. Anyone with sufficient training could do the same, and I find myself in your very capable, very filthy hands.",
+        "Not to worry, Buzz! A true hero flies with his heart, not his wings. Now, give me the mission details, so I can go give those baddies what-for.",
+        "Yes, well, it's just a title... but thank you, Buzz. Anything in defense of the defenseless, eh?"
+      ]
+    }
+  ],
+  "trivia": [
+    "Hurricane Jet-Vac is the only re-imagined Skylander that doesn't have two names starting with the same letter as his SuperCharger counterpart name. In fact, he is the only one that doesn't have two names for his SuperCharger counterpart.",
+    "Early concepts of Hurricane Jet-Vac depict him with a number of scrapped accessories, such as a pirate hat, sailor's hat, goggles, and a feathery shawl reminiscent of Stormblade's."
+  ],
+  "trailers": [
+    {
+      "name": "Hurricane Jet Vac",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Hurricane_Jet_Vac"
+    },
+    {
+      "name": "Skylanders SuperChargers - Hurricane Jet-Vac's Soul Gem Preview (Hawk and Awe)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Hurricane_Jet-Vac's_Soul_Gem_Preview_(Hawk_and_Awe)"
+    }
+  ],
+  "gameplay": "Hurricane Jet-Vac uses fan blades and a vacuum to control the battlefield. He can shoot bouncing blades, suck in enemies, and dash forward with kicks. His upgrades allow him to create hurricanes and perform multi-flip aerial assaults.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Hurricane_Jet-Vac",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Shooting the Breeze",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Hurricane_Jet-Vacprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170503160933",
+        "content": "Press Attack 1 to shoot a fan blade that can bounce off multiple enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Jet Turbine Vacuum",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/60/Hurricane_Jet-Vacsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170503160958",
+        "content": "Press and hold Attack 2 to suck an enemy into your vacuum. Press Attack 2 again to shoot the enemy out.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Somer-Assault",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0f/Hurricane_Jet-Vacbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170503161035",
+        "content": "Press Attack 3 to dash forwards. Enemies in the way will get kicked and damaged.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Better Blade Bounces",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Hurricane_Jet-Vacbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170503161053",
+        "content": "Fans bounce more times.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Hurricane Hurrah",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Hurricane_Jet-Vacbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170503161121",
+        "content": "Hold Attack 1 to charge up a hurricane, release to unleash it and damage any enemies in its path.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Make Them Sore",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2a/Hurricane_Jet-Vacbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170503161139",
+        "content": "Somer-Assault attacks do more damage. Kicking and screaming!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Having a Blast!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Hurricane_Jet-Vacsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170503161016",
+        "content": "Hold Attack 2 to vacuum in enemies, release to shoot enemies as projectiles which will bounce and hit other enemies. When an enemy has low health, they will be launched with extreme force!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Blade-Vac",
+        "abilities": [
+          {
+            "name": "Category Pain",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Hurricane_Jet-Vacpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170503161259",
+            "content": "Hold Attack 1 and release it to create a hurricane. Press Attack 1 repeatedly to shoot blades into the hurricane.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Hurricano",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Hurricane_Jet-Vacpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170503161317",
+            "content": "Hold Attack 1 and release to create a Hurricane. Hurricanes now explode once it is over and damages enemies inside and around the hurricane.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Splitting Air",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Hurricane_Jet-Vacpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170503161336",
+            "content": "Press Attack 1 to shoot a bouncing blade while holding an enemy.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Hurricane Hawk",
+        "abilities": [
+          {
+            "name": "Turbulent Turbine",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/80/Hurricane_Jet-Vacpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170503161745",
+            "content": "Press Attack 3 to dash forward. Enemies behind you when the dash is started take more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Talon Take Off",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Hurricane_Jet-Vacpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170503161811",
+            "content": "Enemies hit at the end of a Somer-Assault are knocked back further and take more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Double Flip",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/41/Hurricane_Jet-Vacpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170503161833",
+            "content": "Press Attack 3 twice to give Somer-Assault another boost to travel further. Press Attack 3 after performing the Double Flip to perform another on the same enemy.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "hurricane-jet-vac",
@@ -35,7 +272,28 @@
         "Category Pain",
         "Turbulent Turbine"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "240/480"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43/91"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12/42"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6/56"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25/75"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Hurricane_Jet-Vac"
     }
   ]
