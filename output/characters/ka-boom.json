@@ -1,29 +1,303 @@
 {
   "id": "ka-boom",
   "name": "Ka-Boom",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": "Ka-Boom hails from an ancient volcanic island known as Munitions Forge, where he and his people crafted machinery that was used all throughout Skylands . But the ruthless Captain Ironbeard wanted the forge for himself so he could build an unstoppable pirate armada. With a fleet of pirate ships approaching, Ka-Boom went to work, creating the greatest anti-pirate weapon ever forged – The Boom Cannon! When Ironbeard arrived with his invaders, Ka-Boom met them at the edge of the docks with his cannon lowered, still smoldering red hot from having just come out of the fire. One by one, he sank their ships until Captain Ironbeard finally retreated. Now as a valued member of the Trap Team, Ka-Boom uses his Red Hot Traptanium Cannon to blast evil in the broadsides!",
-  "personality": "Ka-Boom is a thinker and tinker. He'll mess around with his inventions until he gets them absolutely perfect. &#91; 1 &#93;",
-  "story": null,
+  "species": "Unknown",
+  "gender": "Male",
+  "element": "Fire",
+  "role": "Trap Master",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Light in the Dark",
+    "Skylanders: SuperChargers",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [],
+  "world": [
+    "Munitions Forge"
+  ],
+  "description": "Ka-Boom is one of the Fire Trap Masters in Skylanders: Trap Team.",
+  "biography": "Ka-Boom hails from an ancient volcanic island known as Munitions Forge, where he and his people crafted machinery that was used all throughout Skylands. But the ruthless Captain Ironbeard wanted the forge for himself so he could build an unstoppable pirate armada. With a fleet of pirate ships approaching, Ka-Boom went to work, creating the greatest anti-pirate weapon ever forged – The Boom Cannon! When Ironbeard arrived with his invaders, Ka-Boom met them at the edge of the docks with his cannon lowered, still smoldering red hot from having just come out of the fire. One by one, he sank their ships until Captain Ironbeard finally retreated. Now as a valued member of the Trap Team, Ka-Boom uses his Red Hot Traptanium Cannon to blast evil in the broadsides!",
+  "quote": "Boom Time!",
+  "personality": "Ka-Boom is a thinker and tinker. He'll mess around with his inventions until he gets them absolutely perfect. [1]",
+  "story": [
+    {
+      "story_name": "Light in the Dark",
+      "content": "Ka-Boom took part in the fight against Pain-Yatta's army of candy warriors. Lead by Gearshift, he and several other Skylanders fought a group of candy soldiers to save three Mabu before retreating into an old castle fortress to hold out when the army began to grow in numbers. As they were cornered by the candy army within the fortress, Ka-Boom and the other Skylanders served as Skylands' last line of defense, battling Pain-Yatta's army with all of their might. The candy army soon fell to pieces just as the Skylanders were becoming overwhelmed (thanks to the actions of the Light and Dark Skylanders in their fight against Pain-Yatta), earning the heroes their victory.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Boom Time!",
+        "Now that was a blast!",
+        "Fire it up!",
+        "My turn to burn!",
+        "Go time!",
+        "Look out!",
+        "Cannonball!",
+        "Woohoo!",
+        "Sure shot!",
+        "Welcome to Blastville, population: You!",
+        "Maximum firepower!",
+        "Getting hotter...",
+        "Burnin' up!",
+        "Yeah!",
+        "Maximum boom!",
+        "Here comes the boom!",
+        "Firepower!",
+        "Oh yeah, more bright stuff!",
+        "Pay day!",
+        "Master blaster!",
+        "Aimin' high!",
+        "Settin' my sights!",
+        "I look good in anything!",
+        "So hot, it's cool.",
+        "Sounds like a real scorcher!",
+        "This name needs more boom!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Ka-Boom, Boomer, Shroomboom, Sonic Boom, Boom Bloom, and Boom Jet all have the word Boom in their names.",
+    "He, Dino-Rang, Eye-Brawl, Dive-Clops and Tri-Tip are the only Skylanders with hyphenated names.",
+    "He and Snap Shot are the only two Trap Masters to wield a projectile weapon.",
+    "Ka-Boom bears a notable resemblance to several other characters or individuals, such as:\nFormer WWE star, Hulk Hogan.\nHellboy, a Dark Horse Comics character.\nVarious bruisers in the Borderlands series.\nTristana from League of Legends.\nThunderbolt Ross a.k.a. The Red Hulk from Marvel Comics.",
+    "Ka-Boom's backstory references Munitions Forge, a level in The Legend of Spyro reboot."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Ka-Boom",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Ka-Boom"
+    },
+    {
+      "name": "Skylanders Trap Team - Ka-Boom's Soul Gem Preview (Boom Time)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Ka-Boom%27s_Soul_Gem_Preview_(Boom_Time)"
+    }
+  ],
+  "gameplay": "Fill up the Trap Attack gauge by defeating enemies and collecting TRAPTANIUM shards. Once the gauge is full, press [L] to unleash a devastating attack, unique to each Trap Master!",
   "wiki_url": "https://skylanders.fandom.com/wiki/Ka-Boom",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Traptanium Cannonballs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0f/Ka-Boomprimarypower.png/revision/latest?cb=20170505115127",
+        "content": "Press Attack 1 to shoot Traptanium Cannonballs.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Cannon Jump",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Ka-Boomsecondarypower.png/revision/latest?cb=20170505115131",
+        "content": "Press Attack 2 to blast the ground and leapt towards an enemy, leaving a big explosion.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Jumpquake",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b6/Ka-Boombasicupgrade1.png/revision/latest?cb=20170505115140",
+        "content": "Cannon Jump now creates an earthquake that damages nearby enemies over time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Mortar Strike",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Ka-Boombasicupgrade2.png/revision/latest?cb=20170505115145",
+        "content": "Press Attack 3 to fire exploding cannonballs into the air, hold Attack 3 to aim your shot.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "The Long Ranger",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/Ka-Boombasicupgrade3.png/revision/latest?cb=20170505115151",
+        "content": "Increases the range of the Mortar Strike attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Cannon Charge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Ka-Boombasicupgrade4.png/revision/latest?cb=20170505115157",
+        "content": "Hold Attack 1 to charge up the cannon and release to fire a more powerful Traptanium Cannonball.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Missile Rain",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Ka-Boomsoulgempower.png/revision/latest?cb=20170505115202",
+        "content": "Mortar Strike attack now rains down fiery Traptanium Missiles.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Cannonball Runner",
+        "abilities": [
+          {
+            "name": "Bouncing Balls",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c2/Ka-Boompath1upgrade1.png/revision/latest?cb=20170505115526",
+            "content": "Traptanium Cannonballs ricochet off of walls.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Super Bouncing Balls",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/32/Ka-Boompath1upgrade2.png/revision/latest?cb=20170505115532",
+            "content": "Traptanium Cannonballs bounce between enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Triple Shot",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/62/Ka-Boompath1upgrade3.png/revision/latest?cb=20170505115540",
+            "content": "Shoot 3 Traptanium Cannonballs at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Jumping Juggernaut",
+        "abilities": [
+          {
+            "name": "Fire Fly",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Ka-Boompath2upgrade1.png/revision/latest?cb=20170505115544",
+            "content": "Scorch all enemies in the path of Ka-Boom's Cannon Jump.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Big Air",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/Ka-Boompath2upgrade2.png/revision/latest?cb=20170505115549",
+            "content": "Cannon Jump has a greater area of effect and stuns enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Triple Jump",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Ka-Boompath2upgrade3.png/revision/latest?cb=20170505115557",
+            "content": "Can do 3 Cannon Jump attacks in a row without having to rest.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "ka-boom",
       "variant_name": "Ka-Boom",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
+      "type": "Trap Master",
+      "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Kaboom_Promo.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Traptanium Cannonballs",
+        "Cannon Jump",
+        "Jumpquake",
+        "Bouncing Balls",
+        "Fire Fly"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "250 (max. 500)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60 (max. 108)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "80 (max. 130)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "39 (max. 89)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Ka-Boom"
     }
   ]
