@@ -4,36 +4,155 @@
   "species": "Anthropomorphic Artichoke",
   "gender": "Male",
   "element": "Life",
+  "role": "Skylander",
   "primary_game": "Skylanders: Trap Team (Tablet version)",
   "appearances": [
     "Skylanders: Trap Team (Tablet version)"
   ],
-  "cameos": null,
+  "cameos": [
+    "Skylanders: SuperChargers",
+    "Skylanders: Imaginators"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Instant Food Fight was a digital version of Food Fight who was exclusive to the Tablet Starter Pack of Skylanders: Trap Team.",
+  "biography": "Instant Food Fight is a digital Life element Skylander who debuted in the Tablet version of Skylanders: Trap Team. He was provided as a digital-only character to allow players immediate access to gameplay without needing to place a physical figure on a portal, which was ideal for the mobile nature of tablet gaming.",
+  "quote": "Eat This!",
+  "personality": "Determined and pugnacious, Instant Food Fight shares the personality of the original Food Fight, using his produce-based weaponry with zeal and energy.",
+  "story": [
+    {
+      "story_name": "Digital Origin",
+      "content": "Exclusive to the tablet version of Skylanders: Trap Team, this digital hero was provided to ensure players could play the game instantly upon download, bypassing the requirement for a physical starter pack.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Eat This!",
+        "Tomato-ed!",
+        "Veggie Power!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Loading Instant Food Fight on the console versions of Skylanders: Trap Team will hang on the element indefinitely.",
+    "In both Skylanders: SuperChargers and Skylanders: Imaginators he scans in as 'Food Fight Special' and can be added to the collection as a separate Skylander.",
+    "His internal name used in game files is 'Virtual Food Fight'."
+  ],
+  "trailers": [],
+  "gameplay": "Instant Food Fight plays identically to the standard Food Fight, utilizing a tomato launcher and artichoke-based traps to control the battlefield.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Food_Fight",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Tomato Launcher",
+        "imgPath": "tomato_launcher_icon.png",
+        "content": "Shoot high-velocity tomatoes at enemies from a handheld launcher.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4CAF50",
+          "bg_content": "#E8F5E9"
+        }
+      },
+      {
+        "name": "Blooms of Doom",
+        "imgPath": "blooms_of_doom_icon.png",
+        "content": "Place artichoke traps that burst when enemies get close.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4CAF50",
+          "bg_content": "#E8F5E9"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Extra-Ripe Tomatoes",
+        "imgPath": "extra_ripe_icon.png",
+        "content": "Tomatoes deal more damage upon impact.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4CAF50",
+          "bg_content": "#E8F5E9"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Special Squash",
+        "imgPath": "special_squash_icon.png",
+        "content": "A devastating squash attack that clears the surrounding area.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#4CAF50",
+          "bg_content": "#E8F5E9"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Artichoke Artillery",
+        "abilities": [
+          {
+            "name": "Heavy Harvest",
+            "imgPath": "heavy_harvest_icon.png",
+            "content": "Increased fire rate for the tomato launcher.",
+            "is_primary": true,
+            "is_secondary": false,
+            "price": 1200,
+            "colors": {
+              "header": "#4CAF50",
+              "bg_content": "#E8F5E9"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "instant-food-fight",
+      "id": "instant-food-fight-tablet",
       "variant_name": "Instant Food Fight",
-      "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": "Skylanders: Trap Team (Tablet version)",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Instant_Food_Fight_Artwork.png/revision/latest?cb=20170303181311",
+      "edition": "Digital",
+      "type": "Instant",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Instant_Food_Fight_Artwork.png",
       "attacks": [
         "Tomato Launcher",
         "Blooms of Doom",
-        "Extra-Ripe Tomatoes",
-        "Heavy Harvest",
-        "Special Squash"
+        "Extra-Ripe Tomatoes"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Power",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "50"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Food_Fight"
     }
   ]
