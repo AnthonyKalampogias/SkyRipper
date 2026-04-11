@@ -2,36 +2,202 @@
   "id": "imaginators",
   "name": "Imaginators",
   "species": "Various",
-  "gender": null,
-  "element": null,
+  "gender": "Various",
+  "element": "Various",
+  "role": "Skylanders",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders Creator",
     "Skylanders Academy (TV series)"
   ],
-  "cameos": null,
+  "cameos": [
+    "Sir Hoodington",
+    "Cy",
+    "Steak Head",
+    "Felicia",
+    "Dinobird",
+    "Franky BananaButt",
+    "Techno Squid",
+    "Ninja Lander",
+    "Shifter Girl",
+    "Fire Wolf",
+    "Football-A-Tron 5000",
+    "Draken",
+    "Tridont",
+    "Guinea Spin",
+    "Foot Brawl",
+    "Black Arche",
+    "Guairman",
+    "Ni Chi",
+    "Bone Reaper",
+    "Nebulous",
+    "Spike Strike",
+    "Miniskull",
+    "Fiair",
+    "Blizzard Lizard",
+    "Burrbearian",
+    "Kane Ahi",
+    "Inferno",
+    "Flash Bang",
+    "Water Bow",
+    "Green Knight",
+    "Dark Trooper",
+    "Hot Steel",
+    "Drone Master",
+    "BugKnightGuy",
+    "Uraideide",
+    "Overlord",
+    "Fly Spy",
+    "Genie",
+    "Juju Senior",
+    "Astrid Hofferson"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Imaginators are Skylander creations customized by Portal Masters in Skylanders: Imaginators. In the game, players can create and edit their own Imaginator at any time and add their own features using elemental Creation Crystals and the Imaginite parts that are found throughout the game.",
+  "biography": "Imaginators can also be generated in the Skylanders Creator, which allows the player to order physical items based on them. With the exception of T-Shirts, the items are explained as the Imaginator being enrolled in Skylanders Academy for further training and drawn in The Book of Skylanders.",
+  "quote": "Create your own Skylander!",
+  "personality": "The personality of an Imaginator is defined by the Portal Master, who can choose from various voice options such as Hero, Wacky, or Scientist, as well as distinct music and sound effects to suit the character's theme.",
+  "story": [
+    {
+      "story_name": "The Customization Process",
+      "content": "In the game Skylanders: Imaginators, players use Creation Crystals and Imaginite parts found throughout the game to create their own unique heroes. These customization options range from appearance and size to combat abilities like secret techniques and weapon powers.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/38/Imaginator_Example.jpg/revision/latest/scale-to-width-down/268?cb=20160602084212"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Voice Options",
+      "content": [
+        "Hero",
+        "Heroine",
+        "Ghoul",
+        "Angelic",
+        "Scientist",
+        "Soldier",
+        "Regal",
+        "Beeps",
+        "Giant",
+        "Drill Sergeant",
+        "Robot",
+        "Cowgirl",
+        "Vampiress",
+        "Pirate",
+        "Troll",
+        "Fairie",
+        "Islander",
+        "Cool",
+        "Wacky",
+        "Alien"
+      ]
+    }
+  ],
+  "trivia": [
+    "The default color schemes for Imaginators are named after levels in Skylanders: Spyro's Adventure and several popular Skylanders.",
+    "The default Imaginator used in promotional material is a Fire Knight called Sir Hoodington.",
+    "Imaginators can reach a level higher than 20 based on the number of Senseis in the player's collection.",
+    "They are the only type of Skylander capable of changing hats in the Skylanders: Imaginators game.",
+    "The Burrbearian part set was based on a character created by a fan as part of the 'Fan-Art-to-Life' contest."
+  ],
+  "trailers": [],
+  "gameplay": "Each Imaginator has a weapon power, an elemental power, a secret technique, and a Soul Gem ability. These customization options range from aesthetic changes like appearance, colors and size; effects like aura, music, sounds and voice; and their combat abilities, from stat-changing gear to powers depending on their element and battle class.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Imaginators",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Weapon Power",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3d/Weapons.jpeg/revision/latest/scale-to-width-down/185?cb=20170902231726",
+        "content": "A combat power determined by the Imaginator's chosen Battle Class.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#6DF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Elemental Power",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/FireSymbolSkylanders.png/revision/latest/scale-to-width-down/18?cb=20160925223439",
+        "content": "A combat power determined by the Imaginator's chosen Element.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#6DF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Soul Gem Ability",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/38/Imaginator_Example.jpg/revision/latest/scale-to-width-down/268?cb=20160602084212",
+        "content": "A special and powerful ability unique to the character's customization.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#6DF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Secret Technique",
+        "abilities": [
+          {
+            "name": "Secret Technique",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/af/Bazooker.png/revision/latest/scale-to-width-down/165?cb=20230930154808",
+            "content": "A high-tier technique specialized for the character's battle class.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 0,
+            "colors": {
+              "header": "#00BFFF",
+              "bg_content": "#6DF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "imaginators",
       "variant_name": "Imaginators",
       "edition": "Series 1",
-      "type": "Sensei",
+      "type": "Imaginator",
       "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/3/38/Imaginator_Example.jpg/revision/latest?cb=20160602084212",
       "attacks": [
         "Various"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Attack",
+          "stat_value": "Various"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "Various"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "Various"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "Various"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Imaginators"
     }
   ]
