@@ -1,29 +1,325 @@
 {
   "id": "king-pen",
   "name": "King Pen",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": "King Pen hails from a militaristic unit of penguins who protect the Cloudmelt Glaciers. During an epic battle, King Pen was trapped in an avalanche and had to take refuge in a nearby cave for the remainder of the winter season. During his solitude, he was visited by a mysterious Yeti Master, named Snow Wah, who began teaching him an ancient combat style known as “Flipper-Fu”. King Pen was already a skilled fighter, but the wise teacher helped him to understand the spiritual and philosophical nature of warfare, turning the penguin into an unstoppable force. When he finally emerged from the cave, tales of his newfound abilities spread far and wide. When Master Eon caught wind, he recruited King Pen into his top secret training program, where he quickly rose up the ranks to become the leader of the Skylander Senseis. Years later, King Pen returned to the site of the avalanche to thank his teacher, but no evidence of Snow Wah or the cave was ever found – leaving many to wonder if the Yeti had ever existed at all.",
-  "personality": null,
-  "story": null,
+  "species": "Emperor Penguin",
+  "gender": "Male",
+  "element": "Water",
+  "role": "Sensei",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [
+    "Skylanders Academy"
+  ],
+  "world": [
+    "Cloudmelt Glaciers"
+  ],
+  "description": "King Pen is an Emperor Penguin Brawler Sensei in Skylanders: Imaginators, who serves as the leader of the Skylander Senseis.",
+  "biography": "King Pen hails from a militaristic unit of penguins who protect the Cloudmelt Glaciers. During an epic battle, King Pen was trapped in an avalanche and had to take refuge in a nearby cave for the remainder of the winter season. During his solitude, he was visited by a mysterious Yeti Master, named Snow Wah, who began teaching him an ancient combat style known as 'Flipper-Fu'. King Pen was already a skilled fighter, but the wise teacher helped him to understand the spiritual and philosophical nature of warfare, turning the penguin into an unstoppable force. When he finally emerged from the cave, tales of his newfound abilities spread far and wide. When Master Eon caught wind, he recruited King Pen into his top secret training program, where he quickly rose up the ranks to become the leader of the Skylander Senseis. Years later, King Pen returned to the site of the avalanche to thank his teacher, but no evidence of Snow Wah or the cave was ever found – leaving many to wonder if the Yeti had ever existed at all.",
+  "quote": "Stay Frosty!",
+  "personality": "King Pen is a disciplined and militaristic leader who values the spiritual and philosophical aspects of warfare. Despite being a highly skilled fighter, he maintains a respect for his mentors and has a spiritual understanding of combat. He is confident in his status as a Sensei and leader, occasionally displaying a boastful side and a sense of humor regarding his preferences for names like 'Austin'.",
+  "story": [
+    {
+      "story_name": "Character Development",
+      "content": "King Pen, being the leader of the Senseis and a Starter Pack character, was the most difficult to design. The first concepts for King Pen, with the idea of a penguin warrior, didn't seem to be fighting-capable. So I-Wei Huang experimented with the idea of more focus on the character's upper body muscles. Weapons were also experimented along with wing blade armor, however, as they disrupted his shape, they made the blades his main weapons instead.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/42/King_Pen_Production_JeffMurchie.jpg/revision/latest/scale-to-width-down/185?cb=20170915221551"
+    },
+    {
+      "story_name": "Physical Traits",
+      "content": "While penguins in reality have short legs, the same does not seem to apply to King Pen, whose legs are less stubby and have toes instead of webbed feet. King Pen has a large white-bellied torso that is covered with black and gold armor that reaches behind his head, with two black straps from front to back and a gold colored belt around his waist. He also dons large metal 'Flipper Blades' in order to combat enemies and golden shoulder plating. He has a yellow beak, yellow eyes with black pupils, and wears a black helmet with a blue ponytail on the top.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "King Pen hails from a militaristic unit of penguins who protect the Cloudmelt Glaciers. During an epic battle, King Pen was trapped in an avalanche and had to take refuge in a nearby cave for the remainder of the winter season. During his solitude, he was visited by a mysterious Yeti Master, named Snow Wah, who began teaching him an ancient combat style known as 'Flipper-Fu'. King Pen was already a skilled fighter, but the wise teacher helped him to understand the spiritual and philosophical nature of warfare, turning the penguin into an unstoppable force. When he finally emerged from the cave, tales of his newfound abilities spread far and wide. When Master Eon caught wind, he recruited King Pen into his top secret training program, where he quickly rose up the ranks to become the leader of the Skylander Senseis.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cf/King_Pen_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20160601124404"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Stay frosty!",
+        "As you know, I'm a Sensei, which is A; awesome, and B; means I can train your Imaginators.",
+        "And as for Brawlers like me, I'll teach them my secret technique.",
+        "Cold cut!",
+        "It is better to give than receive, especially pain.",
+        "I've won this battle before it even starts!",
+        "Perseverance is the key to any door! Except for those weird lock puzzle ones.",
+        "Keep your friends close, and your enemies sliced up!",
+        "If at first you do succeed, brag about it afterwards.",
+        "Enter the penguin!",
+        "I'm King Pen of the world!",
+        "The dream of flightless birds!",
+        "I accept this leveling up, from whoever just sent that.",
+        "It's like I've grown! Both metaphorically and physically there for a second...",
+        "A chain is only as strong as its weakest stat point!",
+        "What this doesn't measure is the size of my heart; I'm pretty sure it's large, though.",
+        "You can also name me 'Onk', after my uncle and renowned Skylands' author: Onk Beakman!",
+        "If you are going to change my name, might I suggest 'Austin'? I always wanted to be called Austin; it just sounds so cool.",
+        "Sensei power!",
+        "Fortune favors the cold!"
+      ]
+    }
+  ],
+  "trivia": [
+    "His name is a pun on the words 'Penguin' and 'Kingpin'. It may also come from 'king penguin', a species of penguin.",
+    "Additionally, one of his upgrades 'Emperor Penguin', is also named after his species of penguin.",
+    "Despite being shown to have the means to walk during his Sky-Chi, King Pen awkwardly waddles during his running animation.",
+    "King Pen grants to Imaginators his Ponytail Headpiece when first placed on the portal, and Flipper Blade Knuckles fashioned after his own weapons when his Shrine is opened.",
+    "He is the fourth Water Skylander with ice related abilities (behind Slam Bam, Chill and Freeze Blade).",
+    "He is the second Skylander to be voiced by Rino Romano, the other being Scorp.",
+    "King Pen and Grave Clobber are both Brawlers of the Water Element.",
+    "This makes them the only Senseis to share both a Battle Class and an Element.",
+    "He is similar to Snap Shot, the leader of the Trap Masters, as both are Water-elementals who are the leaders of elite Skylander teams.",
+    "His catchphrase was originally planned to be 'Cold Cuts'.",
+    "His new catchphrase, 'Stay Frosty' may be a reference to Minecraft Youtuber Jackfrostminer's motto of the same name.",
+    "His quote, 'Enter the Penguin', is a reference to the Bruce Lee movie Enter the Dragon.",
+    "King Pen is the only new Sensei to appear in the starter pack."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Imaginators Meet Master King Pen",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=DXjIUuI07LE"
+    },
+    {
+      "name": "Skylanders Imaginators - King Pen Soul Gem Preview",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=JfzgG2j7PLY"
+    }
+  ],
+  "gameplay": "King Pen can slash his enemies with his bladed wings, and even infuse ice into his attacks. King Pen can use his frost breath to leave a path of ice, and freeze his foes. King Pen can also perfrom a corkscrew dash which knocks enemies out of the way, and even create a huge snowball to launch at his enemies after the attack. King Pen is capable of creating a arena of ice to protect himself from attackers.",
   "wiki_url": "https://skylanders.fandom.com/wiki/King_Pen",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Penguin Combo",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/King_Penprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506213505",
+        "content": "Press Attack 1 to slash. Press it four times for a Slash Combo.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Frost Breath",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a7/King_Pensecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170506213510",
+        "content": "Press Attack 2 to create an Ice Path in front of King Pen. Enemies that walk over the Ice Path are damaged and frozen.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Penguin Drill",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5f/King_Penbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506213515",
+        "content": "Press Attack 3 to dash towards enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Giga Drill",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/King_Penbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506213520",
+        "content": "Increases the damage of Penguin Drill.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Ice Charge Lvl 1: Ice Arena",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/aa/King_Penbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506213525",
+        "content": "Hold Attack 2 to expend an Ice Charge and summon a ring of ice. King Pen has increased armor and damage while inside the Ice Arena. Ice Charges are gained by destroying Ice Paths.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Frostier Breath",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/King_Penbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506213530",
+        "content": "Frost Breath range increased.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Snowball",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/King_Pensoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506213536",
+        "content": "Hold Attack 3 to spawn a Snowball.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "Ice to Meet You and You",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/King_Penskychipower.png/revision/latest/scale-to-width-down/148?cb=20170506213543",
+        "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power! Use Left Stick to steer into enemies!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Penguin Combos",
+        "abilities": [
+          {
+            "name": "Penguin Combos",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/King_Penpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506213740",
+            "content": "Press Attack 1 twice and Attack 2 for a Frozen combo or press Attack 1 twice and Attack 3 for a Spin combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Ice Blade",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/34/King_Penpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506213745",
+            "content": "Equip Ice Blades and increase King Pen's damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Emperor Penguin",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3e/King_Penpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506213750",
+            "content": "Hold Attack 1 to enter Emperor Penguin mode to gain a damage bonus.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Ice Mastery",
+        "abilities": [
+          {
+            "name": "Ice Trail",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/King_Penpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506213755",
+            "content": "Penguin Drill creates an Ice Path",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Ice Charge Lvl 2: Blizzard",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/King_Penpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506213800",
+            "content": "Hold Attack 3 to consume 3 Ice Charges to create a Blizzard that slows and damages nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Ice Charge Lvl 3: Iceberg",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/King_Penpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506213806",
+            "content": "Hold Attack 3 to consume 3 Ice Charges to spawn an Iceberg that deals heavy burst damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "king-pen",
       "variant_name": "King Pen",
       "edition": "Series 1",
       "type": "Sensei",
-      "game": null,
+      "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/cf/King_Pen_Promo.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Penguin Combo",
+        "Frost Breath",
+        "Penguin Drill",
+        "Ice Arena",
+        "Penguin Combos"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "290"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "210"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "100"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/King_Pen"
     }
   ]
