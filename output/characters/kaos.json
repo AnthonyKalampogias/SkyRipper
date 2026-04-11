@@ -4,36 +4,285 @@
   "species": "Kaos Klone",
   "gender": "Male",
   "element": "Kaos",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "With Kaos having discovered the power of Mind Magic to create Doomlanders , one of his first creations was none other than a clone of himself! Figuring that no one in the universe, including the Skylanders , could ever stand up to more than one Kaos, he unleashed his clone in his quest to take over Skylands . But to Kaos’ surprise, the clone –also being Kaos– wanted victory for himself! As a result, he decided to fight against his creator, in turn helping the Skylanders in their endeavor to defeat the real Kaos!",
-  "personality": null,
-  "story": null,
+  "description": "This version of Kaos is a clone created by the Dark Portal Master himself using Mind Magic, but he defected to the side of the Skylanders to prove he is the superior version. He is a Sensei who has mastered all the Battle Classes.",
+  "biography": "With Kaos having discovered the power of Mind Magic to create Doomlanders, one of his first creations was none other than a clone of himself! Figuring that no one in the universe, including the Skylanders, could ever stand up to more than one Kaos, he unleashed his clone in his quest to take over Skylands. But to Kaos’ surprise, the clone –also being Kaos– wanted victory for himself! As a result, he decided to fight against his creator, in turn helping the Skylanders in their endeavor to defeat the real Kaos!",
+  "quote": "Behold, My Catchphrase of DOOM!",
+  "personality": "Retaining the original Kaos's massive ego, arrogance, and penchant for dramatic monologues, this clone is uniquely driven by a spiteful desire to upstage his creator. While he remains rude to the Skylanders, often calling them 'fools' or 'stupid,' his competitive nature makes him a powerful ally against the real Kaos.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "With Kaos having discovered the power of Mind Magic to create Doomlanders, one of his first creations was none other than a clone of himself! Figuring that no one in the universe, including the Skylanders, could ever stand up to more than one Kaos, he unleashed his clone in his quest to take over Skylands. But to Kaos’ surprise, the clone –also being Kaos– wanted victory for himself! As a result, he decided to fight against his creator, in turn helping the Skylanders in their endeavor to defeat the real Kaos!",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Behold, My Catchphrase of DOOM!",
+        "Greetings Poser Master, It is I, Kaos. And in a bizarre twist of fate, I will make all of your stupid Imaginators stronger than ever.",
+        "I summon the Doomlander!",
+        "Victory is mine!",
+        "Now, bare witness to my incredible display of Sky-Chi!",
+        "KAOS! HAHAHAHAHAHAHAHA!",
+        "HAHAHAHAHAHA! Impressive, I know.",
+        "I win, fools!",
+        "Impressive, isn't it?",
+        "What the…?! That’s not my name!"
+      ]
+    }
+  ],
+  "trivia": [
+    "The Doomlanders summoned by Sensei Kaos look like small, blue copies of the Knight Doomlander.",
+    "Though being on the side of the Skylanders, he stills refers to them as \"stupid\" in his Sensei Training Bonus.",
+    "Kaos is the only Sensei who doesn't provide any Secret Techniques or exclusive weapons for the Imaginators.",
+    "However, he does provide a backpack attachment as well as raise the level cap for the Imaginators.",
+    "There are Kaos-themed weapons of each Battle Class that can be earned in-game without the need of the figure.",
+    "Kaos is the only Sensei with a Sky-Chi that is already unlocked.",
+    "He is the only Sensei without any Sensei Shrine interaction.",
+    "When placing Kaos on the Portal, instead of showing the emblem of the Kaos element, it shows the emblem of Villains.",
+    "The pose used for the Kaos figure dates back to at least the Giants era."
+  ],
+  "trailers": [],
+  "gameplay": "As a master of all Battle Classes, Kaos is able to summon mind weapons from each class and use them to attack enemies. He is also able to summon Doom Sharks, Doomlanders and Doom Hands to aid him in battle. His Sky-Chi ability transforms him into a large version of his head, able to fire lasers from its eyes. For his Soul Gem, he summons a portal that rains down various heavy objects upon enemies. His primary attack combos start with a swing of a Knight or Smasher weapon, followed by two Swashbuckler or Sentinel weapons, and ending with a Brawler attack. His secondary combos start with a Bazooker or Bowslinger shot, followed by a stream of lightning from a Sorcerer staff, and ending with a flurry of Ninja or Quickshot projectiles.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Kaos_(Sensei)",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Brain Bash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4c/Kaosprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506221647",
+        "content": "Press Attack 1 thrice to attack with a series of close-range mind weapons.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "black",
+          "bg_content": "#CCF"
+        }
+      },
+      {
+        "name": "Psychic Shot",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Kaossecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170506221653",
+        "content": "Press Attack 2 thrice to attack with a series of long-range mind weapons.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "black",
+          "bg_content": "#CCF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Portal Practitioner",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7a/Kaosbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506221703",
+        "content": "Press Attack 3 to call forth a Doomlander to fight for you.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "black",
+          "bg_content": "#CCF"
+        }
+      },
+      {
+        "name": "Doom Sharks",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8d/Kaosbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506221710",
+        "content": "Hold Attack 2 to summon a wave of heat-seeking Doom Sharks.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "black",
+          "bg_content": "#CCF"
+        }
+      },
+      {
+        "name": "Portal Party",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Kaosbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506221720",
+        "content": "You can now summon up to 2 Doomlanders.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "black",
+          "bg_content": "#CCF"
+        }
+      },
+      {
+        "name": "Doom Hands",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/95/Kaosbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506221728",
+        "content": "Hold Attack 1 to summon giant hands of doom to smash your enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "black",
+          "bg_content": "#CCF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Doom Portal",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/af/Kaossoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506221736",
+        "content": "Hold Attack 3 to open a Doom Portal and rain down the ultimate Portal Master weapons.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "black",
+          "bg_content": "#CCF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 6,
+        "name": "Fear My Giant Floating Head",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/70/Kaosskychipower.png/revision/latest/scale-to-width-down/148?cb=20170506221742",
+        "content": "The ultimate Kaos attack! Hold Special Attack to perform your Doom-Chi Power! Use Left Stick to aim your eye lasers!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "black",
+          "bg_content": "#CCF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Spell Slinger",
+        "abilities": [
+          {
+            "name": "Doom Hands Upgrade",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Kaospath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506223642",
+            "content": "Your Doom Hands stun enemies and deal more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "black",
+              "bg_content": "#CCF"
+            }
+          },
+          {
+            "name": "Mega Doom Sharks",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/91/Kaospath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506223650",
+            "content": "Your Doom Sharks are bigger and deal more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "black",
+              "bg_content": "#CCF"
+            }
+          },
+          {
+            "name": "Split Thinking",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Kaospath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506223704",
+            "content": "Your Psychic Shot attacks deal more damage and can hit more enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "black",
+              "bg_content": "#CCF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Up Close and Personal",
+        "abilities": [
+          {
+            "name": "Explosive Doomlanders",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c6/Kaospath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506223720",
+            "content": "Your Doomlanders disappear with an explosion.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "black",
+              "bg_content": "#CCF"
+            }
+          },
+          {
+            "name": "Brain Drain",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6f/Kaospath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506223730",
+            "content": "Your Brain Bash attacks deal more damage and have a chance to slow.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "black",
+              "bg_content": "#CCF"
+            }
+          },
+          {
+            "name": "Think Big",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/Kaospath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506223741",
+            "content": "Your Doomlanders are larger and deal more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "black",
+              "bg_content": "#CCF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "kaos",
+      "id": "kaos_sensei",
       "variant_name": "Kaos",
-      "edition": "Series 1",
+      "edition": "Standard",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/3/30/Kaos_Sensei_Promo.jpg/revision/latest?cb=20160817084040",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/30/Kaos_Sensei_Promo.jpg",
       "attacks": [
         "Brain Bash",
         "Psychic Shot",
-        "Portal Practitioner",
-        "Boom Hands",
-        "I Think Therefore You Are"
+        "Doom Sharks",
+        "Doom Hands"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "8"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "8"
+        },
+        {
+          "stat_name": "Attack",
+          "stat_value": "12"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "12"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Kaos_(Sensei)"
     }
   ]
