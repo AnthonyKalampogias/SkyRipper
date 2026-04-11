@@ -4,6 +4,7 @@
   "species": "Chinese Dragon",
   "gender": "Male",
   "element": "Fire",
+  "role": "SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -11,22 +12,60 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Raised on a small island surrounded by a vast ocean of fire, Fire Kraken was the swiftest, most agile warrior his tribe had ever seen. And when a fleet of Fire Troll ships arrived to steal the legendary Burning Heart, a huge elemental crystal that fueled the fiery seas, Fire Kraken leapt into action. Using a magical staff to control his natural ability to wield fire, he set the mighty ships ablaze, forcing the trolls into a hasty retreat. Having saved the Burning Heart as well as his homeland, Fire Kraken soon joined the Skylanders , where he knew his skills would help those in need.",
-  "personality": null,
-  "story": null,
+  "description": "Jade Fire Kraken is a jade counterpart of Fire Kraken in Skylanders: Swap Force.",
+  "biography": "Raised on a small island surrounded by a vast ocean of fire, Fire Kraken was the swiftest, most agile warrior his tribe had ever seen. And when a fleet of Fire Troll ships arrived to steal the legendary Burning Heart, a huge elemental crystal that fueled the fiery seas, Fire Kraken leapt into action. Using a magical staff to control his natural ability to wield fire, he set the mighty ships ablaze, forcing the trolls into a hasty retreat. Having saved the Burning Heart as well as his homeland, Fire Kraken soon joined the Skylanders, where he knew his skills would help those in need.",
+  "quote": "Burn to be Wild!",
+  "personality": "",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Raised on a small island surrounded by a vast ocean of fire, Fire Kraken was the swiftest, most agile warrior his tribe had ever seen. And when a fleet of Fire Troll ships arrived to steal the legendary Burning Heart, a huge elemental crystal that fueled the fiery seas, Fire Kraken leapt into action. Using a magical staff to control his natural ability to wield fire, he set the mighty ships ablaze, forcing the trolls into a hasty retreat. Having saved the Burning Heart as well as his homeland, Fire Kraken soon joined the Skylanders, where he knew his skills would help those in need.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Burn to be Wild!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the second Jade variant Skylander (the first is Jade Flashwing).",
+    "They are also both counterparts of dragons who didn't appear in Spyro's Adventure.",
+    "The fact that only dragon Skylanders have Jade counterparts may be a reference to Jade Dragons, carved statues made from the mineral from certain places in China.",
+    "This is particularly fitting for Fire Kraken, as he is based on both Chinese dragons and fireworks, which were Invented in China.",
+    "Like Slam Bam and Phantom Cynder, Jade Fire Kraken's body is translucent.",
+    "Unlike Jade Flashwing, Jade Fire Kraken is not exclusive to Target."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Jade Fire Kraken",
+      "isValid": false,
+      "url": ""
+    }
+  ],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Jade_Fire_Kraken",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "jade-fire-kraken",
       "variant_name": "Jade Fire Kraken",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/42/Jade_Fire_Kraken_Promo.jpg/revision/latest?cb=20140624200704",
       "attacks": [
@@ -36,7 +75,24 @@
         "Rising Charge",
         "Year of the Dragon"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "35"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "60"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Jade_Fire_Kraken"
     }
   ]
