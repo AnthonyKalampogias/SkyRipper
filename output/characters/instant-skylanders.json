@@ -1,30 +1,109 @@
 {
   "id": "instant-skylanders",
   "name": "Instant Skylanders",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "species": "Various (Skylanders)",
+  "gender": "Various",
+  "element": "Various",
+  "role": "Digital Characters",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers"
+  ],
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Instant Skylanders are digital-only Skylanders which are mainly available in the iOS and Tablet versions of Skylanders: Trap Team and Skylanders: SuperChargers. However, Instant Spitfire, Instant Super Shot Stealth Elf and Instant Dive-Clops are playable on the console versions of SuperChargers, using older models of the Portal of Power; all others simply display in their normal skins as 'Special' versions.",
+  "biography": "Instant Skylanders were designed to make the Skylanders experience accessible on mobile platforms without requiring a physical Portal of Power and toys immediately. These digital versions allow players to dive straight into the game and were often provided for free in the digital starter packs of the mobile editions.",
+  "quote": "Instant action!",
+  "personality": "As digital counterparts, these characters share the same heroic personalities and backstories as their physical toy versions.",
+  "story": [
+    {
+      "story_name": "The Digital Initiative",
+      "content": "In an effort to expand Skylands to mobile devices, Eon provided digital-only versions of certain heroes to allow Portal Masters to play on the go.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Common",
+      "content": [
+        "Instant action!",
+        "No portal? No problem!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Fire is the only element to have one instant Skylander. The other two elements (Water and Life) each have two instant Skylanders.",
+    "Instant Dive Clops is the only instant Skylander whose main counterpart is not from a starter pack."
+  ],
+  "trailers": [],
+  "gameplay": "They play identically to their physical counterparts but are accessed through a digital menu rather than being placed on a physical Portal of Power. In the console version of SuperChargers, they serve as a fallback when no physical figure is detected.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Skylanders",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "instant-skylanders",
-      "variant_name": "Instant Skylanders",
-      "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
-      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Instant_Food_Fight_Icon.png",
+      "id": "instant-dive-clops",
+      "variant_name": "Instant Dive-Clops",
+      "edition": "Digital",
+      "type": "Digital-Only",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/de/Instant_Dive_Clops.jpg/revision/latest/scale-to-width-down/185?cb=20151109183637",
       "attacks": [],
-      "stats": null,
-      "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Skylanders"
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Dive-Clops"
+    },
+    {
+      "id": "instant-food-fight",
+      "variant_name": "Instant Food Fight",
+      "edition": "Digital",
+      "type": "Digital-Only",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Instant_Food_Fight_Icon.png/revision/latest/scale-to-width-down/90?cb=20170306082827",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Food_Fight"
+    },
+    {
+      "id": "instant-snap-shot",
+      "variant_name": "Instant Snap Shot",
+      "edition": "Digital",
+      "type": "Digital-Only",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Instant_Snap_Shot_Icon.png/revision/latest/scale-to-width-down/90?cb=20170306082822",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Snap_Shot"
+    },
+    {
+      "id": "instant-spitfire",
+      "variant_name": "Instant Spitfire",
+      "edition": "Digital",
+      "type": "Digital-Only",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7d/Instant_Spitfire_Icon.png/revision/latest/scale-to-width-down/90?cb=20170306083655",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Spitfire"
+    },
+    {
+      "id": "instant-super-shot-stealth-elf",
+      "variant_name": "Instant Super Shot Stealth Elf",
+      "edition": "Digital",
+      "type": "Digital-Only",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Instant_Stealth_Elf.png/revision/latest/scale-to-width-down/185?cb=20160129094820",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Super_Shot_Stealth_Elf"
     }
   ]
 }
