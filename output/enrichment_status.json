@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-11T03:06:35.763Z",
+  "last_run": "2026-04-11T09:37:16.762Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -648,6 +648,78 @@
     {
       "name": "Hurricane Jet-Vac",
       "sha": "b09320437a74b9a528b924a521efb8101d3e23d5199e90ccca08e7b4bc4c5506"
+    },
+    {
+      "name": "Ignitor",
+      "sha": "cbeff7da0e41db9fe110ed398d8ded5d6854df3550cabe3dce401cb1d7f319c4"
+    },
+    {
+      "name": "Imaginators",
+      "sha": "1c90a4aa849028b4c24f081fbf2171360fbcb64ad3099649300fed37dc0643c0"
+    },
+    {
+      "name": "Instant Dive-Clops",
+      "sha": "61183553ea8bc0e31bf6a39a099c38f19447eec86aa7f9458a5fa72848c23f62"
+    },
+    {
+      "name": "Instant Food Fight",
+      "sha": "4a1811925214e8843e510fb7c1f3636a96d62d6993a6e7dbca041ba9fc80461d"
+    },
+    {
+      "name": "Instant Skylanders",
+      "sha": "feade0d74e35a8d9e62c5ad222bc47d97a0dd515cdbf27b28576950a1d191a0d"
+    },
+    {
+      "name": "Instant Snap Shot",
+      "sha": "b2ecb454c2e1f2778eb762a08a167362bc889c7dee48a6dbdfe89c2cbb82b015"
+    },
+    {
+      "name": "Instant Spitfire",
+      "sha": "216be34e4d119fc6c900247fe7835963bbd8eda3525437e4cfc8ea1ae3d3956f"
+    },
+    {
+      "name": "Instant Super Shot Stealth Elf",
+      "sha": "adb4eed89de1dcb4a591c6048358ed5204dd3c5983038a6dafb501e390c3b687"
+    },
+    {
+      "name": "Jade Fire Kraken",
+      "sha": "93f4c0dd9dc37b4c351c48fa9e2b006fe022dc1e0114a2c75df7ef9824af2a40"
+    },
+    {
+      "name": "Jade Flashwing",
+      "sha": "5f26526e25c0d2fdf3466e5f4c849037c9e37cea7c3eabdebc88851ab651d671"
+    },
+    {
+      "name": "Jawbreaker",
+      "sha": "21700408cb0c60601ff3c479842207c5ff965fc908d8019fb987a3bc93f7d809"
+    },
+    {
+      "name": "Jet-Vac",
+      "sha": "c5d6791e141180e86c9be8e4b132fa7c8095eedb8cdba387132ffe6f81255cbb"
+    },
+    {
+      "name": "Jingle Bell Chompy Mage",
+      "sha": "42eda13110cf893ec8a6a6c09b6c964d8fd7e35bd1a4cff131c226f8acbd9e15"
+    },
+    {
+      "name": "Jolly Bumble Blast",
+      "sha": "43c2ee0d4328f1a7e87bad1cec69fabc3ecb2a22da934caec11c885691af1392"
+    },
+    {
+      "name": "Ka-Boom",
+      "sha": "8e8399698dd369cfe88aa518a9c5cc34119489c8a4c7d640cb527c3f9435e40e"
+    },
+    {
+      "name": "Kaos",
+      "sha": "2afc233bd4ab67febfe33a4d36fb8705ff68330a792286a1f3b81dc94102060a"
+    },
+    {
+      "name": "Kickoff Countdown",
+      "sha": "6cf73a6e36a95cc76695982c8901572358c77e90dad02cc80c19bfc2e7163449"
+    },
+    {
+      "name": "King Cobra Cadabra",
+      "sha": "5df2b2f6678b4f28ac0ab95352d588838b35c868cf00ccf3c7619004e59c74ee"
     }
   ]
 }
