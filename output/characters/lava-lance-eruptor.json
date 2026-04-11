@@ -4,27 +4,262 @@
   "species": "Lava Monster",
   "gender": "Male",
   "element": "Fire",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Unexpected Allies",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Lava Lance Eruptor is the SuperCharger counterpart of Eruptor in Skylanders: SuperChargers. His signature vehicle is the Burn-Cycle.",
+  "biography": "Lava Lance Eruptor is the SuperCharger counterpart of Eruptor in Skylanders: SuperChargers. Born from the depths of a volcano, he utilizes his volcanic nature and a powerful lava lance to fight. His signature vehicle is the Burn-Cycle.",
+  "quote": "Born to Burn!",
+  "personality": "Lava Lance Eruptor is bold, fiery, and enthusiastic. He embraces his volcanic heritage, as shown by his motto 'Born to Burn!', and is always ready for high-speed action.",
+  "story": [
+    {
+      "story_name": "Unexpected Allies",
+      "content": "Eruptor and Roller Brawl were the two SuperChargers who discovered Bowser and Donkey Kong after they defeated Blubberbeard and his legion of Pirate Henchmen. They then brought the newcomers to the Skylanders Academy where Buzz explained to them what was happening to Skylands and the worlds that connected to it.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Quotes",
+      "content": [
+        "Born to Burn!",
+        "Ready to erupt!",
+        "Ready to burn!",
+        "You got burned!",
+        "Alright!",
+        "My flames are growing!"
+      ]
+    },
+    {
+      "quote_type": "Quest Quotes",
+      "content": [
+        "Uhh, things are really heating up...",
+        "Really? I've never heard that before.",
+        "I'm ready to rock, Buzz!",
+        "Uhhh... But my name's Eruptor.",
+        "Can't scare me, Buzz. I was born to burn!",
+        "Oh, shucks, Buzz. Just doing what comes natural."
+      ]
+    }
+  ],
+  "trivia": [
+    "Lava Lance Eruptor and Fryno both use motorcycles. Coincidentally, they are part of the Fire element and have mini counterparts.",
+    "After jumping, if you continuously press the second attack button, Lava Lance Eruptor uses his lance as a pogo stick. This is not mentioned in his upgrades though.",
+    "He is the only Fire SuperCharger without a dark edition counterpart.",
+    "He is also the only Fire SuperCharger without an alt deco.",
+    "He is also the only Fire SuperCharger to not be included in a starter pack.",
+    "Lava Lance Eruptor is the only reposed character whose Soul Gem plays the 'Rift into Overdrive' theme."
+  ],
+  "trailers": [
+    {
+      "name": "Lava Lance Eruptor",
+      "isValid": true,
+      "url": "/wiki/File:Lava_Lance_Eruptor"
+    },
+    {
+      "name": "Skylanders SuperChargers - Lava Lance Eruptor's Soul Gem Preview (Born to Burn)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_SuperChargers_-_Lava_Lance_Eruptor's_Soul_Gem_Preview_(Born_to_Burn)"
+    },
+    {
+      "name": "Meet the Skylanders SuperChargers Eruptor and Burn Cycle",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_SuperChargers_Eruptor_and_Burn_Cycle"
+    }
+  ],
+  "gameplay": "Lava Lance Eruptor focuses on rapid lance strikes and area-denial with volcanoes. He can dash through enemies and trigger eruptions for massive damage. A unique hidden mechanic allows him to use his lance as a pogo stick by repeatedly pressing Attack 2 while jumping.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Lava_Lance_Eruptor",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Lava Lancing",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/65/Lava_Lance_Eruptorprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505122728",
+        "content": "Rapidly press Attack 1 to unleash a series of lance attacks.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Lance Legwork",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c2/Lava_Lance_Eruptorsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170505122734",
+        "content": "Press Attack 2 to spring forward with your lance out to damage enemies along the way.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Hot Spot",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/Lava_Lance_Eruptorbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505122746",
+        "content": "Press Attack 3 to spit a magma ball into the ground that burrows towards your enemies. It will create an active volcano that shoots fiery projectiles at nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Lava Joust",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/70/Lava_Lance_Eruptorbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505122755",
+        "content": "Hold Attack 2 to dash for a longer amount of time, damaging enemies along your way.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Lance Advanced",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/78/Lava_Lance_Eruptorbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505122811",
+        "content": "Upgrade your Lance with metal and do more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Lance Cannon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/02/Lava_Lance_Eruptorbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170505122819",
+        "content": "Hold Attack 1 to charge up and throw a super lance that explodes on contact.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Magma Chamber",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Lava_Lance_Eruptorsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505122828",
+        "content": "Press Attack 3 while in the air to cannon ball into the ground creating a lava fountain. Rapidly tap Attack 3 to stay on top of the fountain shooting hot magma all around you.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Eruption Ruffian",
+        "abilities": [
+          {
+            "name": "Hot Feat",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Lava_Lance_Eruptorpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505123332",
+            "content": "Gain an uppercut explosion at the end of dash attacks.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Volcanic Rain",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/96/Lava_Lance_Eruptorpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505123343",
+            "content": "Using Hot Feat causes all active volcanoes to erupt, damaging and knocking nearby enemies up into the air.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Third Volcano's The Charm",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5c/Lava_Lance_Eruptorpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505123345",
+            "content": "Hold Attack 3 and release to shoot out three magma balls that will create three active volcanoes.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Volcano Vaulter",
+        "abilities": [
+          {
+            "name": "Volatile Volcanoes",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Lava_Lance_Eruptorpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505123350",
+            "content": "Dashing over active volcanoes will boost you forward causing extra damage and extending the dash and the active volcano's time.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Eruption Conduction",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2a/Lava_Lance_Eruptorpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505123358",
+            "content": "While dashing, your Lance grows extra spikes. Press Attack 3 to shoot the spikes off your Lance causing them to form a volcano where they land.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Cannon Stop Me Now",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Lava_Lance_Eruptorpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505123414",
+            "content": "Your Lance will now regrow spikes over time allowing you to create volcanoes to boost over forever!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "lava-lance-eruptor",
       "variant_name": "Lava Lance Eruptor",
-      "edition": "Series 1",
+      "edition": "Series 1 SuperCharger",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
       "image": "https://static.wikia.nocookie.net/skylanders/images/0/01/Lava_Lance_Eruptor_Artwork.jpeg/revision/latest?cb=20151110231734",
@@ -35,7 +270,28 @@
         "Hot Feat",
         "Volatile Volcanoes"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 / 580"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 / 83"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 / 54"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 / 58"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 / 75"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Lava_Lance_Eruptor"
     }
   ]
