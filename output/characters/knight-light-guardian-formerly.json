@@ -4,6 +4,7 @@
   "species": "Unknown",
   "gender": "Male",
   "element": "Light",
+  "role": "Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -11,16 +12,283 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Radiant City"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Before the destruction of the Core of Light left him stranded in the Light Realm, Knight Light was the protector of the Starlight – the source of light, wisdom and vast energy in Radiant City. But an evil villain known as Luminous wanted the Starlight for himself. Without warning, Luminous attacked, and the two took to the skies in an epic battle which lasted several days. In the end, Knight Light stood victorious and Luminous was imprisoned within Sunscraper Spire so that he could no longer pose a threat to Skylands . Now with his Traptanium blade, Knight Light fights alongside the Trap Team to keep evil at bay!",
-  "personality": "Knight Light is described as pure, gallant, righteous and illuminating. &#91; 2 &#93;",
-  "story": null,
+  "description": "Knight Light is the Light Trap Master in Skylanders: Trap Team. He comes with the Sunscraper Spire expansion pack, but later came in a single pack.",
+  "biography": "Before the destruction of the Core of Light left him stranded in the Light Realm, Knight Light was the protector of the Starlight – the source of light, wisdom and vast energy in Radiant City. But an evil villain known as Luminous wanted the Starlight for himself. Without warning, Luminous attacked, and the two took to the skies in an epic battle which lasted several days. In the end, Knight Light stood victorious and Luminous was imprisoned within Sunscraper Spire so that he could no longer pose a threat to Skylands. Now with his Traptanium blade, Knight Light fights alongside the Trap Team to keep evil at bay!",
+  "quote": "“See the Light!”",
+  "personality": "Knight Light is described as pure, gallant, righteous and illuminating.",
+  "story": [
+    {
+      "story_name": "Light in the Dark",
+      "content": "Knight Light battled against Chef Pepper Jack and his group of Plant Warriors to protect a village of Mabu. Announcing his return to the realm of Skylands, the Light Trap Master defeated the Fire Doom Raider and his minions.When Spotlight and Blackout were ambushed by Pain-Yatta's candy soldiers, Knight Light and Knight Mare came to aid their fellow allies after they contacted the two Trap Masters prior to coming to the Arkeyan ruins. During the heat of the battle, Knight Light openly blamed Knight Mare for both of them being late, and in response, Knight Mare claimed that Knight Light was the one responsible. Eventually the Light and Dark Skylanders defeated the horde of candy warriors, but were soon confronted by Pain-Yatta and became overwhelmed by his wave of candy.Knight Light, Blackout, Spotlight, and Knight Mare became imprisoned inside Pain-Yatta's giant pinata to power him and his army of candy warriors during their impending conquest over Skylands. Should they use their powers of Light and Dark to try and escape their prison, they would only make Pain-Yatta and his army stronger. Eventually the Skylanders concocted a plan to overload the pinata with their powers, causing it to explode and allowing the Skylanders to escape. Despite absorbing the Light and Dark energies to empower himself, Pain-Yatta suddenly became sick from taking in too much power and his candy warriors around Skylands dropped to pieces, resulting in Pain-Yatta's defeat. At the Skylanders Academy, Master Eon congratulated the Light and Dark Skylanders for their efforts in saving Skylands once again with their Light and Dark abilities.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/38/Knight_Mare_Knight_Light.png/revision/latest?cb=20150714064844"
+    },
+    {
+      "story_name": "Rift into Overdrive",
+      "content": "As Kaos' fleet of airships breached the perimeter around the Skylanders Academy, Knight Light, Bat Spin, Scratch, Boom Jet and Sunburn aided Wash Buckler's group in fending them off. However they were shocked to see more of Kaos' army in the form of a huge fleet of ships approaching them.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "See the light!",
+        "Rise and shine!",
+        "Time to shine!",
+        "For Skylands!",
+        "Outshining the rest!",
+        "The light in the night!",
+        "A clear victory!",
+        "Spreading my wings!",
+        "Another triumph!",
+        "Shining bright!",
+        "Illuminating!",
+        "A guiding light!",
+        "Look on the bright side!",
+        "At the ready!",
+        "Ready to serve!",
+        "Clear the way!",
+        "Feeling stronger!",
+        "Ready for battle!",
+        "Unstoppable!",
+        "A worthy feat!",
+        "Up and away!",
+        "Away I go!",
+        "Skyward!",
+        "Lighting the way!",
+        "Shining through!",
+        "Of gold and glory!",
+        "Fortune favors the brave!",
+        "Power burst!",
+        "More power!",
+        "My future is looking bright!",
+        "A cut above all others!",
+        "I look rather distinguished!",
+        "A choice beyond reason!",
+        "Hm, a name for the ages!",
+        "Let my new name be known!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Both he and Knight Mare both have the word 'knight' in their names.",
+    "Knight Light and Knight Mare both have names that play on terms that involve sleep.",
+    "His name is a play on nightlight, a small lamp that provides light in dark areas during the night.",
+    "He loosely resembles an angel or seraph.",
+    "He also slightly resembles a harpy.",
+    "Knight Light also resembles to Angemon from the Digimon franchise, both are angelic beings who wear masks that obscure half of his face only exposing his mouths.",
+    "One of his Passive abilities in Ring of Heroes creates a halo around a random ally after he is defeated, supporting that he might be one himself.",
+    "He has the highest health out of all the Trap Masters.",
+    "Despite not having a flight upgrade, Knight Light can fly by double tapping the jump button.",
+    "Knight Light is the first Skylander to have a Doom Raider mentioned in their backstory."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Knight Light",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Knight_Light"
+    },
+    {
+      "name": "Skylanders Trap Team - Knight Light's Soul Gem Preview (See the Light)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Knight_Light%27s_Soul_Gem_Preview_%28See_the_Light%29"
+    },
+    {
+      "name": "Skylanders Power Play Knight Light",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Knight_Light"
+    },
+    {
+      "name": "Official Skylanders Trap Team \"Knight Light\" Trailer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Trap_Team_%22Knight_Light%22_Trailer"
+    }
+  ],
+  "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games.\nSkylanders can use abilities depending on their level.\n\nStarting Powers\nBringer of Light (Primary Attack): Press (Y) to strike with your mighty sword of light.\nPacification (Secondary Attack): Press (X) to unleash a devastating leaping blow onto your enemies.\n\nUpgrades\nRighteous Blade (requires level: 3): Use your power of your new sword! After a minimum of two strikes of the Bringer of Light combo, press (X) to execute a smiting blow.\nLight Traveller (requires level: 6): Hold (X) to summon a trail of holy light which damages your opponent. Hold it long enough to teleport and punish them more. If (X) is released, Knight Light will leap onto them just like he does with Pacification.\nAura of Serenity (requires level: 9): At the end of Pacification, Knight Life creates a magic circle of serenity that slows enemies. Press (X) to use Pacification.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Knight_Light",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Traptanium Scimitar",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Knight_Lightprimarypower.png/revision/latest?cb=20141225080151",
+        "content": "Press Attack 1 to swing the Traptanium Scimitar. Press Attack 1, Attack 1, and hold Attack 1 for a combo attack.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Prismatic Pounce",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/31/Knight_Lightsecondarypower.png/revision/latest?cb=20141225080441",
+        "content": "Press Attack 2 for a Scimitar Slash and create a Light Aura, where Sabre attacks do more damage.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Hallowed Ground",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Knight_Lightbasicupgrade1.png/revision/latest?cb=20141225080522",
+        "content": "Enemies in Light Auras move slower and do reduced damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Light Up",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Knight_Lightbasicupgrade2.png/revision/latest?cb=20141225080854",
+        "content": "Hold Attack 3 to create a circle of light, release to levitate and damage anything near the circle.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Lasting Light",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Knight_Lightbasicupgrade3.png/revision/latest?cb=20141225080920",
+        "content": "Light Auras last longer.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Scharper Scimitar",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/27/Knight_Lightbasicupgrade4.png/revision/latest?cb=20141225080949",
+        "content": "Traptanium Scimitar does more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Brilliant Blade",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Knight_Lightsoulgempower.png/revision/latest?cb=20141225081124",
+        "content": "Traptanium Scimitar is upgraded to its ultimate form and does maximum damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Scimitar Slasher",
+        "abilities": [
+          {
+            "name": "Ascending Strike",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4c/Knight_Lightpath1upgrade1.png/revision/latest?cb=20141225081307",
+            "content": "Traptanium Scimitar knocks enemies into the air.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Speed of Light",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/76/Knight_Lightpath1upgrade2.png/revision/latest?cb=20170505155257",
+            "content": "While holding Attack 3, press Attack 2 to teleport the Light Up target and perform an upward strike.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Spinning Slash",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0a/Knight_Lightpath1upgrade3.png/revision/latest?cb=20170505155245",
+            "content": "Hold Attack 2 to charge up the Traptanium Scimitar and release a 360-degree attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Luminary of Light",
+        "abilities": [
+          {
+            "name": "Radiant Radius",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/35/Knight_Lightpath2upgrade1.png/revision/latest?cb=20170505155252",
+            "content": "Prismatic Pounce hits a larger area and Light Auras are larger as well.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Illumination Detonation",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5f/Knight_Lightpath2upgrade2.png/revision/latest?cb=20170505155304",
+            "content": "Light Auras explode before disappearing, damaging anything nearby.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Flash Dash",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ec/Knight_Lightpath2upgrade3.png/revision/latest?cb=20170505155304",
+            "content": "Press Attack 2, Attack 2 for a powerful Prismatic Pounce attack and be invulnerable while flickering.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "knight-light-guardian-formerly",
@@ -36,7 +304,28 @@
         "Ascending Strike",
         "Radiant Radius"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "430 (max. 860)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 (max. 118)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "70 (max. 120)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "35 (max. 85)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Knight_Light"
     }
   ]
