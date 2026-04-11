@@ -4,6 +4,7 @@
   "species": "Dark Centaur",
   "gender": "Female",
   "element": "Dark",
+  "role": "Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -13,22 +14,356 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Skylanders: Battlecast",
+  "cameos": [
+    "Skylanders: Battlecast"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Before the destruction of the Core of Light left her stranded in the Dark Realm, Knight Mare was one of the Dark Centaurs who guarded The Oracle of Stones – an enchanted game of Dark Skystones that could predict the future. When it was stolen by an unknown force, Knight Mare was called upon to retrieve it. She knew it would be dangerous because if the Oracle was asked the wrong questions seven times, it would unleash a terrible curse upon all of Skylands . Fortunately, she found it in a cave – with a gang of Bicyclopes about to ask their seventh wrong question. With no time to lose, she charged forward, beating the fierce Bicyclopes and saving Skylands from the terrible curse. Now having joined the Trap Team, Knight Mare uses her hunting skills and Traptanium Lance to bring down evil everywhere!",
-  "personality": "Knight Mare is described as a solitary, stubborn, shadowy and skilled huntress. &#91; 2 &#93;",
-  "story": null,
+  "description": "Knight Mare is a dark centaur and the Dark Trap Master in Skylanders: Trap Team. She was initially released with the Midnight Museum expansion pack, but later came out in a single pack.",
+  "biography": "Before the destruction of the Core of Light left her stranded in the Dark Realm, Knight Mare was one of the Dark Centaurs who guarded The Oracle of Stones – an enchanted game of Dark Skystones that could predict the future. When it was stolen by an unknown force, Knight Mare was called upon to retrieve it. She knew it would be dangerous because if the Oracle was asked the wrong questions seven times, it would unleash a terrible curse upon all of Skylands. Fortunately, she found it in a cave – with a gang of Bicyclopes about to ask their seventh wrong question. With no time to lose, she charged forward, beating the fierce Bicyclopes and saving Skylands from the terrible curse. Now having joined the Trap Team, Knight Mare uses her hunting skills and Traptanium Lance to bring down evil everywhere!",
+  "quote": "Nowhere to Hide!",
+  "personality": "Knight Mare is described as a solitary, stubborn, shadowy and skilled huntress.",
+  "story": [
+    {
+      "story_name": "Light in the Dark",
+      "content": "During the Annual Mabu Meander, Dr. Krankcase attempted to enter the race and win despite being in a clear advantage over the Mabu children. Knight Mare quickly entered the race as well and chased after the villain, and despite his efforts to slow her down, the Dark Trap Master knocked Dr. Krankcase into a tree using her Traptanium Flamberge. Satisfied, she stayed behind with Krankcase to allow the Mabu to race fairly. When Spotlight and Blackout were ambushed by Pain-Yatta's candy soldiers, both Knight Light and Knight Mare came to aid their fellow allies after they contacted the two Trap Masters prior to coming to the Arkeyan ruins. During the heat of the battle, Knight Light openly blamed Knight Mare for both of them being late, and in response, Knight Mare claimed that Knight Light was the one responsible. Eventually the Light and Dark Skylanders defeated the horde of candy warriors, but were soon confronted by Pain-Yatta and became overwhelmed by his candy assault. Knight Mare, Knight Light, Blackout, and Spotlight became imprisoned inside Pain-Yatta's giant pinata to power him and his army of candy warriors during their impending conquest over Skylands. Should they use their powers of Light and Dark to try and escape their prison, they would only make Pain-Yatta and his army stronger. In order to escape, it was Knight Mare who helped create a plan to overload the pinata with their powers, causing it to explode and releasing the Skylanders from their prison. Despite absorbing the Light and Dark energies to empower himself, Pain-Yatta suddenly became sick from taking in too much power and his candy warriors around Skylands dropped to pieces, resulting in Pain-Yatta's defeat. At the Skylanders Academy, Master Eon congratulated the Light and Dark Skylanders for their efforts in saving Skylands once again with their Light and Dark abilities.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/38/Knight_Mare_Knight_Light.png/revision/latest/scale-to-width-down/286?cb=20150714064844"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrases",
+      "content": [
+        "Nowhere to Hide!"
+      ]
+    },
+    {
+      "quote_type": "Solving Puzzles",
+      "content": [
+        "Another triumph!"
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Unmeasured strength!",
+        "Iron will!",
+        "Fear my shadow!",
+        "Ready for battle!",
+        "Blade in the shade!",
+        "Beware my blade!",
+        "Blade to battle!",
+        "Leading the charge!",
+        "The night is young!",
+        "Into the shadows!",
+        "Onward!",
+        "Nothing stands in my way!",
+        "Nothing stops me!",
+        "Boundless!",
+        "Rise!",
+        "Upward!"
+      ]
+    },
+    {
+      "quote_type": "Entering Battle",
+      "content": [
+        "The Night shall prevail!"
+      ]
+    },
+    {
+      "quote_type": "Exiting Battle",
+      "content": [
+        "A call to arms!"
+      ]
+    },
+    {
+      "quote_type": "Switched In",
+      "content": [
+        "Follow my lead!"
+      ]
+    },
+    {
+      "quote_type": "Traptanium Flamberge Glows",
+      "content": [
+        "The night awakens!"
+      ]
+    },
+    {
+      "quote_type": "Leveling Up",
+      "content": [
+        "My shadow grows!",
+        "Feel the darkness!"
+      ]
+    },
+    {
+      "quote_type": "Destroying a Traptanium Cluster",
+      "content": [
+        "My blade knows no equal!"
+      ]
+    },
+    {
+      "quote_type": "Opening a Gate",
+      "content": [
+        "Let's ride!"
+      ]
+    },
+    {
+      "quote_type": "Opening a Treasure Chest",
+      "content": [
+        "Don't mind if I do!",
+        "Fortune favors the brave!"
+      ]
+    },
+    {
+      "quote_type": "Viewing Stats",
+      "content": [
+        "My power knows no equal!",
+        "My record speaks for itself!"
+      ]
+    },
+    {
+      "quote_type": "Wearing a Hat",
+      "content": [
+        "Hm, extra shade? I like it.",
+        "Ahahaha! An excellent look for me."
+      ]
+    },
+    {
+      "quote_type": "Given a Nickname",
+      "content": [
+        "Hm... This name is a bit of a leap.",
+        "Sounds dark and mysterious!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Her name is a play on the word 'nightmare', a bad dream, and her knight-like armor and sword.",
+    "Both Knight Mare and Knight Light have the word 'knight' in their names.",
+    "They are also the only Trap Masters to be included in Expansion Packs.",
+    "They are also the only Trap Masters of their respective elements.",
+    "She is the only quadrupedal Trap Master, unless you count Wildfire while using his Soul Gem ability.",
+    "However, she fights like a bipedal Skylander since she has arms while having four legs.",
+    "She and Trail Blazer are the only Skylanders with horse-related features.",
+    "Knight Mare has a doubled voice effect, by having the second one slightly delayed.",
+    "For unknown reasons, Knight Mare has two lines exactly the same as Hex's ('Fear the darkness!' and 'My power knows no equal!'), with whom she shares her voice actress, Courtenay Taylor.",
+    "Despite having protected the Oracle of Stones for years, Knight Mare had yet to play Skystones herself until she decided to try it out in Lost Islands.",
+    "In at least the Wii version of Trap Team, Knight Mare can perform the Light and Dark Gate Glitch using her secondary attack on a few of the glitched gates.",
+    "In the 3DS version of Trap Team, Knight Mare summoned small Shadow clones of herself instead of the enemies. In Skylanders: SuperChargers, both are replaced with shadow clones of Greebles no matter the enemy.",
+    "Her Traptanium Flamberge makes a cameo appearance in the Skylanders: Battlecast card Tree Wrecked, being shattered by vines summoned by Tree Rex for reasons unknown.",
+    "She and Mysticat both have centaur-like builds, as she is literally a centaur.",
+    "She was originally named 'Shadow Runner' during development.",
+    "In the animated introduction of her Soul Gem preview, Knight Mare appears with red hair. This may be a leftover from earlier development.",
+    "The Shadow Realm Soul Gem may very well be a reference to the Yu-Gi-Oh series, in which the Shadow Realm is considered an underworld of sorts."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Knight Mare",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Knight_Mare"
+    },
+    {
+      "name": "Skylanders Trap Team - Knight Mare's Soul Gem Preview (Nowhere to Hide)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Trap_Team_-_Knight_Mare's_Soul_Gem_Preview_(Nowhere_to_Hide)"
+    },
+    {
+      "name": "Official Skylanders Trap Team 'Knight Mare' Trailer",
+      "isValid": true,
+      "url": "/wiki/File:Official_Skylanders_Trap_Team_\\\"Knight_Mare\\\"_Trailer"
+    },
+    {
+      "name": "Skylanders Power Play Knight Mare",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Power_Play_Knight_Mare"
+    }
+  ],
+  "gameplay": "Knight Mare is a skilled huntress who uses her Traptanium Flamberge and centaur biology to dominate the battlefield. Her primary attacks involve sword combos with her lance, while her secondary ability, Shadow Joust, allows her to charge through enemies. Her tactical advantage comes from her Battle Horn, which stuns enemies and creates Shadowy Clones to fight alongside her. Her Soul Gem, The Shadow Realm, enhances these clones and blinds enemies. In the 3DS version, her playstyle focuses on absorbing shadows to boost sword damage and triggering shadow explosions.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Knight_Mare",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Traptanium Flamberge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/79/Knight_Mareprimarypower.png/revision/latest?cb=20141221082028",
+        "content": "Press Attack 1 to swing the Traptanium Flamberge sword. Press Attack 1, Attack 1, and hold Attack 1 for a combo attack.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Shadow Joust",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/71/Knight_Maresecondarypower.png/revision/latest?cb=20141221083248",
+        "content": "Press Attack 2 to charge right through enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Gifts Keeps On Giving",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b6/Knight_Marebasicupgrade1.png/revision/latest?cb=20141221083625",
+        "content": "Traptanium Flamberge attacks continue to damage enemies even after they've been hit.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Charged Up Charge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Knight_Marebasicupgrade2.png/revision/latest?cb=20141221083823",
+        "content": "Hold Attack 2 to charge up the Shadow Joust attack for more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Battle Horn",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c0/Knight_Marebasicupgrade3.png/revision/latest?cb=20141221084229",
+        "content": "Hold Attack 3 to play a Battle Horn that stuns nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Shadowy Clones",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b2/Knight_Marebasicupgrade4.png/revision/latest?cb=20141221084552",
+        "content": "Hit enemies with the Battle Horn attack to make a shadowy clone who fights for you.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "The Shadow Realm",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Knight_Maresoulgempower.png/revision/latest?cb=20141225080704",
+        "content": "Battle Horn creates a Shadow Realm, where Shadowy Clones are stronger and enemies can't see.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Shadow Summoner",
+        "abilities": [
+          {
+            "name": "More Clones",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Knight_Marepath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20151002061644",
+            "content": "Increase the amount of Shadowy Clones you can have at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "It's Win-Win",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Knight_Marepath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20151002061838",
+            "content": "Shadowy Clones now explode, hurting enemies and healing you.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Shadowy Sacrifice",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/25/Knight_Marepath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20151002062004",
+            "content": "Battle Horn destroys existing Shadowy Clones to power up other attacks.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Flamberge Aficionado",
+        "abilities": [
+          {
+            "name": "Shadow Stab",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Knight_Marepath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20151002060831",
+            "content": "Press Attack 1, Attack 1 Hold Attack 2 for a Shadow Stab combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Flamberge Fragment",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Knight_Marepath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20151002061003",
+            "content": "Press Attack 1, Attack 1, Hold Attack 3 for a Flamberge Fragment combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Sword of Darkness",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Knight_Marepath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20151002061055",
+            "content": "Traptanium Flamberge attacks do more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "knight-mare",
       "variant_name": "Knight Mare",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/7/79/Knight_Mare_Promo.jpg/revision/latest?cb=20141218040407",
       "attacks": [
@@ -38,7 +373,28 @@
         "More Clones",
         "Shadow Stab"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "350 (700)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "85 (133)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "36 (66)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40 (90)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "35 (85)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Knight_Mare"
     }
   ]
