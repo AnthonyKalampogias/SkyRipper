@@ -4,20 +4,55 @@
   "species": "Half-Wizard Half-Gargantuan Chompy",
   "gender": "Male",
   "element": "Life",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Chompy Mountain"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Jingle Bell Chompy Mage is the Christmas counterpart of Chompy Mage, with an outfit resembling Santa Claus, in Skylanders: Imaginators.",
+  "biography": "Jingle Bell Chompy Mage is a specially designed toy that appears in the game outfitted in a holiday-inspired wardrobe. He joins the lineup of Sensei Skylanders new to Skylanders Imaginators and is ready to teach the Skylanders some new fighting techniques and a classic Chompy holiday tradition — the White Chompy gift exchange! After all, 'tis the season to be Chompy!",
+  "quote": "Chompy Power!",
+  "personality": "",
+  "story": [
+    {
+      "story_name": "Overall Story",
+      "content": "Jingle Bell Chompy Mage is the Christmas counterpart of Chompy Mage, with an outfit resembling Santa Claus, in Skylanders: Imaginators. Jingle Bell Chompy Mage is a specially designed toy that appears in the game outfitted in a holiday-inspired wardrobe. He joins the lineup of Sensei Skylanders new to Skylanders Imaginators and is ready to teach the Skylanders some new fighting techniques and a classic Chompy holiday tradition — the White Chompy gift exchange! After all, 'tis the season to be Chompy!",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Chompy Power!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Jingle Bell Chompy Mage is the second Christmas counterpart of the Life element (the first being Jolly Bumble Blast).",
+    "Due to regular Chompy Mage having only been sold in an Amazon-exclusive bundle with other villain Senseis, Jingle Bell Chompy Mage is significantly less valuable on resale than his base counterpart"
+  ],
+  "trailers": [
+    {
+      "name": "Meet Chompy Mage l Skylanders Imaginators l Skylanders",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_Chompy_Mage_l_Skylanders_Imaginators_l_Skylanders"
+    }
+  ],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Jingle_Bell_Chompy_Mage",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "jingle-bell-chompy-mage",
@@ -27,9 +62,50 @@
       "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/0/05/Jingle_Bell_Chompy_Mage_Promo.jpg/revision/latest?cb=20161112131915",
       "attacks": [
-        "Chompzooka! Talk to the Hand! Chompy Pile! Staff Shot Chompies to Go Please"
+        "Chompzooka!",
+        "Talk to the Hand!",
+        "Chompy Pile!",
+        "Staff Shot",
+        "Chompies to Go Please"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "???"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "400"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "200"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Jingle_Bell_Chompy_Mage"
     }
   ]
