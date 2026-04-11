@@ -4,6 +4,7 @@
   "species": "Fire Spirit Knight",
   "gender": "Male",
   "element": "Fire",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -17,24 +18,295 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "On his first quest as a knight, Ignitor was tricked by a cunning witch into wearing a magical suit of armor that he was told would resist fire from a dragon . But as it turned out, it was made of cursed steel. He journeyed to a dragon’s lair where a single blast of fire transformed him into a blazing spirit, binding him to the suit of armor for eternity. Despite this setback, Ignitor remains a spirited knight who is always fired up to protect Skylands from evil… and find the witch that tricked him.",
-  "personality": "Gallant and trustworthy, Ignatius changed his name to Ignitor and remains true to his pledge to use his powers to protect the innocent. &#91; 3 &#93; Since his encounter with the witch that gave him the cursed armor, he holds a dislike for witches.",
-  "story": null,
+  "description": "Ignitor has the ability to temporarily leave his cursed suit of armor to singe nearby enemies with his flaming spirit form as well as creating an explosion when exiting the armor, although his armor cannot move and it is left vulnerable for enemies to attack. He also wields a flaming sword to slice and sear his enemies, and slam it onto the ground for massive damage.",
+  "biography": "On his first quest as a knight, Ignitor was tricked by a cunning witch into wearing a magical suit of armor that he was told would resist fire from a dragon. But as it turned out, it was made of cursed steel. He journeyed to a dragon's lair where a single blast of fire transformed him into a blazing spirit, binding him to the suit of armor for eternity. Despite this setback, Ignitor remains a spirited knight who is always fired up to protect Skylands from evil... and find the witch that tricked him.",
+  "quote": "Slash and Burn!",
+  "personality": "Gallant and trustworthy, Ignatius changed his name to Ignitor and remains true to his pledge to use his powers to protect the innocent. Since his encounter with the witch that gave him the cursed armor, he holds a dislike for witches.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "When first he encountered the red dragon, Ignatius was a young knight with squeaky armour and a rusty sword. On his way to slay the beast, he met a witch who presented him with a special (and handy) gift - a magical suit of armour offering protection from dragon breath. But a nasty surprise was waiting for Ignatius at the dragon's lair. The monster rained its fiery breath over the knight's poor head, settling him on fire. Ignatius had been tricked! His new suit was made from a cursed steel that bound itself to him, trapping him inside where he would forever remain a fire spirit. But all was not lost. He defeated the dragon and became a Skylander. Now named Ignitor, he has since embraced his fiery talents and keeps a vengeful lookout for witches everywhere.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Slash and Burn!",
+        "Let us dance with swords!",
+        "I ignite to fight!",
+        "And so it begins!",
+        "Sword and scorchery!",
+        "My armor shines along with my fire!",
+        "Excellent!",
+        "Yes!",
+        "Oh yeah!",
+        "Excelsior!",
+        "Triumph!",
+        "I say!",
+        "Woah, now.",
+        "Haha! Rank up!",
+        "Thou hast been vanquished!",
+        "To the victor goes the spoils!",
+        "An honorable victory!",
+        "It's a bad day to be my foe!",
+        "Strength and honor!",
+        "No chinks in this armor!",
+        "Note my ability!",
+        "Ah, extra armor!",
+        "Don my helmet!",
+        "I shall defend my good name!",
+        "I humbly except this new title."
+      ]
+    }
+  ],
+  "trivia": [
+    "Ignitor was called Ignatius before he was cursed.",
+    "It is unknown what species Ignitor was before he was turned into a fire spirit.",
+    "On the Wii version of Giants, there is a glitch where Ignitor's Flame Form Mortar goes extremely high into the air sometimes. This normally happens when you are under a ledge.",
+    "His catchphrase is a play on 'Crash and Burn', which is also Fryno's official catchphrase.",
+    "His catchphrase 'Slash and Burn' is also a technique that involves the cutting and burning of plants in forests or woodlands to create fields.",
+    "Ignitor is voiced by Dwight Schultz, who did additional voices in Spyro's Adventure, and is also known for his role of Howling Mad Murdock from the A-Team TV series as well as voicing the character, Mung Daal in the animated television series, Chowder, and villain Aloysius Animo in the animated television series, Ben 10.",
+    "In Spyro's Adventure, Ignitor is the only Fire Skylander who does not have an evil counterpart in boss battles.",
+    "According to the Book of Elements: Fire and Water; Ignitor asked his fellow Skylanders for help removing the cursed armor. Nevertheless, their methods had no effect on the armor; and he stopped trying once his mother complimented him all the same during a visit.",
+    "Ignitor is the only starter pack Skylander who did not return in Skylanders: Swap Force, along with Tree Rex.",
+    "Additionally, he is the only Skylander from the starter packs of Spyro's Adventure and Giants, without a sidekick or mini, along with Cynder.",
+    "He bears multiple similarities to Krypt King: Both wear armor, both have swords as their primary weapons, both were knights in their past lives.",
+    "The line 'Sword and scorchery' is a play on the popular fantasy media subgenre, 'sword and sorcery'",
+    "Ignitor is the only Fire Skylander with a Legendary counterpart.",
+    "He is the only Skylander whose name starts with an 'I'.",
+    "His true fire form and ability to move out of his suit are similar to the NRG transformation from the Ben 10 series.",
+    "His 'mouthpiece' appears blue in the first two games, all 3DS games and in his Series 2 toy and artwork. Whereas in Swap Force onwards, SuperChargers Racing and his Series 1 toy and artwork shows his 'mouthpiece' to be fully silver colored."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Ignitor (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Ignitor_(extended)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Ignitor Preview Trailer (Slash and Burn)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Ignitor_Preview_Trailer_(Slash_and_Burn)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure GamesCom 2011 Trailer - Ignitor",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_GamesCom_2011_Trailer_-_Ignitor"
+    },
+    {
+      "name": "Meet the Skylanders Series 2 Ignitor",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Series_2_Ignitor"
+    }
+  ],
+  "gameplay": "Ignitor has the ability to temporarily leave his cursed suit of armor to singe nearby enemies with his flaming spirit form as well as creating an explosion when exiting the armor, although his armor cannot move and it is left vulnerable for enemies to attack. He also wields a flaming sword to slice and sear his enemies, and slam it onto the ground for massive damage. His attacks are very strong, but he and Sprocket are tied for having very low Health, the lowest in the game next to Boomer and Trigger Happy; which means he won't take long to get defeated.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Ignitor",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Flame Blade",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3f/Ignitorprimarypower.png/revision/latest?cb=20120417160223",
+        "content": "Swing your sword.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Flame Form Mortar",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Ignitorsecondarypower.png/revision/latest?cb=20120417160246",
+        "content": "Launch your flame spirit in an arc at your foes.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Scorching Blade",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Ignitorbasicupgrade1.png/revision/latest?cb=20120417160028",
+        "content": "Sword attack does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Flame Form",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/68/Ignitorbasicupgrade2.png/revision/latest?cb=20120417160047",
+        "content": "Control your flame form after launching it.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Mega Slam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Ignitorbasicupgrade3.png/revision/latest?cb=20120417160111",
+        "content": "Perform a massive area slam.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Fire and Brimstone",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Ignitorbasicupgrade4.png/revision/latest?cb=20120417160132",
+        "content": "Flame Form Mortar does increased damage to a larger area.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Fire Forged Armor",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b4/Ignitorsoulgempower.png/revision/latest?cb=20120417160309",
+        "content": "New Armor makes Ignitor harder to hit. Grants +40 armor.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Blue Flame",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Ignitorwowpowpower.png/revision/latest?cb=20160724124805",
+        "content": "After executing Flame Form or Mega Slam attacks, Ignitor leaves a trail of blue fire. In the 3DS version, press X and his Fire Spirit will leave a trail of fire as it attacks enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Soul of the Flame",
+        "abilities": [
+          {
+            "name": "Dances with Fire",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f5/Ignitorpath1upgrade1.png/revision/latest?cb=20120417155741",
+            "content": "Flame Form moves faster and does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Incinerate",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f5/Ignitorpath1upgrade2.png/revision/latest?cb=20120417155638",
+            "content": "While in Flame Form, trigger a massive explosion.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Fire Form Salvo",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Ignitorpath1upgrade3.png/revision/latest?cb=20120417155549",
+            "content": "Fire two addition Flame Form Mortars that do extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Blademaster",
+        "abilities": [
+          {
+            "name": "Order of the Burning Blade",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Ignitorpath2upgrade1.png/revision/latest?cb=20120417160419",
+            "content": "Press Attack 1 twice then hold Attack 2 for Fire Burst, Attack 1 twice then attack 3 for Mega Slam.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Double Mega Slam",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/79/Ignitorpath2upgrade2.png/revision/latest?cb=20120417160451",
+            "content": "Hold the Mega Slam attack long enough to do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Inferno Blade",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/df/Ignitorpath2upgrade3.png/revision/latest?cb=20120417160518",
+            "content": "Sword gets larger and does even more increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "ignitor",
+      "id": "ignitor_s1",
       "variant_name": "Ignitor",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9f/270px-Sky_ignitor.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9f/270px-Sky_ignitor.jpg/revision/latest/scale-to-width-down/268?cb=20170326183734",
       "attacks": [
         "Flaming Sword",
         "Flame Form Mortar",
@@ -42,7 +314,59 @@
         "Fire Forged Armor",
         "Flame Form"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "240 (max. 480)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 82)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40 (max. 90)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Ignitor"
+    },
+    {
+      "id": "ignitor_s2",
+      "variant_name": "Series 2 Ignitor",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Series_2_Ignitor_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20121111190853",
+      "attacks": [
+        "Flaming Sword",
+        "Flame Form Mortar",
+        "Scorching Blade",
+        "Fire Forged Armor",
+        "Flame Form",
+        "Blue Flame"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "0 (max. 0)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "0 (max. 48)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "0 (max. 70)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "0 (max. 50)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Ignitor"
     }
   ]
