@@ -4,27 +4,50 @@
   "species": "Crocagator",
   "gender": "Male",
   "element": "Water",
-  "primary_game": "Skylanders: Trap Team (Tablet version)",
+  "role": "Trap Master",
+  "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team (Tablet version)"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Swamplands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Instant Snap Shot is the grey, digital version of Snap Shot who was exclusive to the Tablet Starter Pack of Skylanders: Trap Team.",
+  "biography": "Instant Snap Shot is the grey, digital version of Snap Shot who was exclusive to the Tablet Starter Pack of Skylanders: Trap Team. He was designed to allow players to play the game on tablets without needing to have the physical figure immediately present.",
+  "quote": "Croc and Roll!",
+  "personality": "As the leader of the Trap Masters, he is a stoic and focused hunter. Like the original Snap Shot, he is dedicated to protecting Skylands and capturing the escaped villains of Cloudcracker Prison.",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Battle Cry",
+      "content": [
+        "Croc and Roll!",
+        "Bullseye!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Loading Instant Snap Shot on the console versions of Skylanders: Trap Team will have the game hang on the element indefinitely. If he was to load, he would be named 'Virtual Snap Shot' instead, the internal name for instant variants.",
+    "In both Skylanders: SuperChargers and Skylanders: Imaginators he scans in as 'Snap Shot Special' and can be added to the collection as a separate Skylander."
+  ],
+  "trailers": [],
+  "gameplay": "Instant Snap Shot plays identically to the standard Snap Shot, utilizing his Traptanium bow for ranged attacks and a sword for melee strikes. As a Trap Master, he can shatter Traptanium crystals and deals extra damage to trappable villains.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Snap_Shot",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "instant-snap-shot",
+      "id": "instant-snap-shot-v1",
       "variant_name": "Instant Snap Shot",
-      "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": "Skylanders: Trap Team (Tablet version)",
+      "edition": "Special",
+      "type": "Digital",
+      "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Instant_Snap_Shot_Artwork.png/revision/latest?cb=20170303181309",
       "attacks": [
         "Traptanium Arrows",
@@ -33,7 +56,24 @@
         "Arrowsplosion",
         "Big Wave Torrent"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Power",
+          "stat_value": "180"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "140"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "120"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Snap_Shot"
     }
   ]
