@@ -4,20 +4,49 @@
   "species": "Robot",
   "gender": "Male",
   "element": "Tech",
+  "role": "Trap Master",
   "primary_game": "Skylanders: Lost Islands (November 2014)",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Knockout Jawbreaker is the November 2014 counterpart of the Tech Trap Master, Jawbreaker, in Skylanders: Lost Islands.",
+  "biography": "Knockout Jawbreaker is the November 2014 counterpart of the Tech Trap Master, Jawbreaker, in Skylanders: Lost Islands.",
+  "quote": "Knockout Jawbreaker has left the ring and stepped into Skylands!",
+  "personality": "As a counterpart to Jawbreaker, he likely shares a similar sense of duty and power, now geared specifically for boxing knockout power.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Knockout Jawbreaker is the November 2014 counterpart of the Tech Trap Master, Jawbreaker, in Skylanders: Lost Islands.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Description",
+      "content": [
+        "Knockout Jawbreaker has left the ring and stepped into Skylands!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the first Lost Islands exclusive Skylander to be a Trap Master.",
+    "'Knockout' was also used for the Series 3 counterpart of Terrafin."
+  ],
+  "trailers": [],
+  "gameplay": "Knockout Jawbreaker was released as an exclusive Alter Ego in Skylanders: Lost Islands.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Knockout_Jawbreaker",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "knockout-jawbreaker",
@@ -27,7 +56,7 @@
       "game": "Skylanders: Lost Islands (November 2014)",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/c3/KO_Jawbreaker.jpg/revision/latest?cb=20141101091900",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Knockout_Jawbreaker"
     }
   ]
