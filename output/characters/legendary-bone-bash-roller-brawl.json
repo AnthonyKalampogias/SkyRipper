@@ -4,29 +4,45 @@
   "species": "Vampire",
   "gender": "Female",
   "element": "Undead",
+  "role": "Legendary SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Legendary Bone Bash Roller Brawl is the Legendary counterpart of Bone Bash Roller Brawl in Skylanders: SuperChargers.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "quote": "Let's Roll!",
+  "personality": "Competitive, tough, and spirited, Legendary Bone Bash Roller Brawl shares the same feisty personality as her standard counterpart, having grown up as the only girl among five older werewolf brothers.",
+  "story": [],
+  "quotes": [],
+  "trivia": [
+    "She is the second Legendary vampire Skylander, while Legendary Night Shift is the first.",
+    "She and Birthday Bash Big Bubble Pop Fizz currently have the longest name out of all the Skylanders, consisting of a whopping 28 letters. Coincidentally, both have Bash in their name."
+  ],
+  "trailers": [],
+  "gameplay": "Legendary Bone Bash Roller Brawl is a high-speed melee fighter who utilizes her roller derby skills and undead abilities. She excels at dashing through groups of enemies and performing rapid, agile strikes that overwhelm her opponents.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bone_Bash_Roller_Brawl",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "legendary-bone-bash-roller-brawl",
       "variant_name": "Legendary Bone Bash Roller Brawl",
-      "edition": "Series 1",
+      "edition": "Legendary",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e4/11849849_1612633442332621_535269205_n.jpg/revision/latest?cb=20151017115428",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e4/11849849_1612633442332621_535269205_n.jpg",
       "attacks": [
         "Derby Duke",
         "Fangerang",
@@ -34,7 +50,24 @@
         "Serious Substitution",
         "Eat Pavement"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Power",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "180"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "120"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bone_Bash_Roller_Brawl"
     }
   ]
