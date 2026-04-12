@@ -4,40 +4,173 @@
   "species": "Robot",
   "gender": "Male",
   "element": "Tech",
+  "role": "Legendary Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
-    "Champions",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical , golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "description": "Legendary Jawbreaker is the Legendary counterpart of the Tech Trap Master, Jawbreaker, in Skylanders: Trap Team. He features a distinct gold and blue color scheme, signifying his status as a champion of the arenas.",
+  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+  "quote": "Down for the Count!",
+  "personality": "Legendary Jawbreaker is a disciplined and focused guardian. Driven by a sense of order and justice, he approaches every battle with robotic precision and the heart of a champion. He is known for his unwavering dedication to protecting Skylands.",
+  "story": [
+    {
+      "story_name": "Legendary Origin",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cry",
+      "content": [
+        "Down for the Count!",
+        "Power up!",
+        "Time for a tune-up!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the Legendary variant of the character Jawbreaker.",
+    "In Skylanders: Trap Team, his statue is located in the Hall of Legends.",
+    "His primary weapon is his Traptanium fists."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Legendary Jawbreaker",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Legendary_Jawbreaker"
+    }
+  ],
+  "gameplay": "Legendary Jawbreaker is a heavy-hitting melee fighter. His gameplay revolves around chaining fast punches and using his Robo Rage mode to increase his attack speed. As a Trap Master, he deals increased damage to trappable villains and can break Traptanium shards found throughout the world.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Jawbreaker",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Traptanium Punch",
+        "imgPath": "traptanium_punch_icon.png",
+        "content": "Punch enemies with Traptanium fists. Press Attack 1 repeatedly for a combo.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FFA500",
+          "bg_content": "#2F4F4F"
+        }
+      },
+      {
+        "name": "Robo Rage Mode",
+        "imgPath": "robo_rage_icon.png",
+        "content": "Enter a state of high-speed punching and increased power.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FFA500",
+          "bg_content": "#2F4F4F"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Static Cling",
+        "imgPath": "static_cling_icon.png",
+        "content": "Attacks have a chance to shock enemies, dealing extra damage over time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FFA500",
+          "bg_content": "#2F4F4F"
+        }
+      },
+      {
+        "name": "Jolting Jab",
+        "imgPath": "jolting_jab_icon.png",
+        "content": "A powerful forward dash punch that knocks back enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FFA500",
+          "bg_content": "#2F4F4F"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Overclocked",
+        "imgPath": "overclocked_icon.png",
+        "content": "Robo Rage mode lasts longer and significantly increases movement speed.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#FFA500",
+          "bg_content": "#2F4F4F"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Boxer Path",
+        "abilities": [
+          {
+            "name": "Heavyweight Combo",
+            "imgPath": "heavyweight_icon.png",
+            "content": "Adds a powerful finisher to the primary punch combo.",
+            "is_primary": true,
+            "is_secondary": false,
+            "price": 1200,
+            "colors": {
+              "header": "#FFA500",
+              "bg_content": "#2F4F4F"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "legendary-jawbreaker",
+      "id": "legendary-jawbreaker-v1",
       "variant_name": "Legendary Jawbreaker",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Legendary",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/6/66/JawBreaker_Legendary.png/revision/latest?cb=20170304031613",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/66/JawBreaker_Legendary.png",
       "attacks": [
-        "Traptainium Punch",
+        "Traptanium Punch",
         "Robo Rage Mode",
-        "Ragin' Robo Rage",
-        "Static Cling",
-        "Jolting Jab"
+        "Static Cling"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "230"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Jawbreaker"
     }
   ]
