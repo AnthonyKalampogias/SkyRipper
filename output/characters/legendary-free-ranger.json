@@ -4,6 +4,7 @@
   "species": "Storm Chicken",
   "gender": "Male",
   "element": "Air",
+  "role": "Legendary SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -12,22 +13,44 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Legendary Free Ranger is the Legendary counterpart of Free Ranger in Skylanders: Swap Force.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "quote": "Whip Up A Storm!",
+  "personality": "",
+  "story": [],
+  "quotes": [],
+  "trivia": [
+    "Even though Legendary Free Ranger's eyes are white in both artwork and figure forms, his eyes are gold only within the game.",
+    "Also his windblades are silver within the game while they're gold in both artwork and figure forms.",
+    "On some of his name stickers, the label incorrectly puts Legendary Free Ranger as a Life Skylander.",
+    "This error also happened to Grinnade, a Fire villain from Skylanders: Trap Team."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders - Legendary Free Ranger (Official Swap Force Trailer)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_-_Legendary_Free_Ranger_(Official_Swap_Force_Trailer)"
+    }
+  ],
+  "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Free_Ranger",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "legendary-free-ranger",
       "variant_name": "Legendary Free Ranger",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Legendary_Free_Ranger.png/revision/latest?cb=20170304031628",
       "attacks": [
@@ -37,7 +60,28 @@
         "Approaching Storm",
         "Charged Blades"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 (max. 560)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Free_Ranger"
     }
   ]
