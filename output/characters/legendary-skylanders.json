@@ -1,30 +1,103 @@
 {
   "id": "legendary-skylanders",
   "name": "Legendary Skylanders",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
+  "species": "Various",
+  "gender": "Various",
+  "element": "Various (excluding Dark)",
+  "role": "Legendary variant group",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Giants",
+    "Skylanders: SWAP Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Legendary Skylanders are stronger versions of regular Skylanders in the Skylanders franchise, though they have exactly the same upgrades and Heroic Challenges. They all commonly take on the color schemes of navy blue and gold, although the Legendary Senseis instead wear prestigious Legendary red and gold armor.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand and watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "quote": "These are the Legendary Skylanders.",
+  "personality": "Immortalized for their greatness in gladiatorial arenas, these Skylanders serve as magical guardians who stand ready to be brought to life by Portal Masters when the world is in peril.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand and watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Lore",
+      "content": [
+        "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand and watch as guardians."
+      ]
+    }
+  ],
+  "trivia": [
+    "Legendary Skylanders are commonly exclusive to Toys R' Us.",
+    "In games beyond Skylanders: Giants, the older Legendary Skylanders take on a deep navy blue color.",
+    "In Spyro's Adventure, the Legendary Series 2 Skylanders from Giants (Slam Bam, Ignitor and Stealth Elf) are displayed as their original counterparts.",
+    "Jet-Vac is currently the only Skylander with two Legendary counterparts.",
+    "Dark is currently the only element without any Legendary counterparts.",
+    "Undead currently has the highest amount of Legendary Skylanders.",
+    "Giants introduced the highest amount of Legendary Skylanders, with 6. While Imaginators introduced the lowest amount, with just 2.",
+    "Trap Team introduced the highest amount of Legendary Items, with 4. While SuperChargers introduced the lowest amount, with just 1."
+  ],
+  "trailers": [],
+  "gameplay": "Legendary Skylanders are stronger versions of regular Skylanders. They possess exactly the same upgrades and Heroic Challenges as their standard counterparts, but feature enhanced stats. Their appearance is distinct, traditionally featuring navy blue and gold or red and gold color schemes.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Skylanders",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "legendary-skylanders",
-      "variant_name": "Legendary Skylanders",
-      "edition": "Series 1",
-      "type": "Sensei",
-      "game": null,
+      "id": "legendary-bash",
+      "variant_name": "Legendary Bash",
+      "edition": "Legendary Series 1",
+      "type": "Core",
+      "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/7/70/Legendary_Bash_Icon.png",
       "attacks": [],
-      "stats": null,
-      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Skylanders"
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "Increased"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "Increased"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bash"
+    },
+    {
+      "id": "legendary-pit-boss",
+      "variant_name": "Legendary Pit Boss",
+      "edition": "Legendary Sensei",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Legendary_Pit_Boss_Icon.png",
+      "attacks": [],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "Increased"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "Increased"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Pit_Boss"
     }
   ]
 }
