@@ -4,6 +4,7 @@
   "species": "Vampire",
   "gender": "Male",
   "element": "Undead",
+  "role": "Legendary SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -12,32 +13,150 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Batcrypt Mountains"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Legendary Night Shift is a Legendary counterpart of Night Shift, released for Skylanders: Swap Force. He is of the Undead element. His Swap Force Ability is Teleport.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "quote": "Roll with the Punches!",
+  "personality": "A competitive fighter who embodies the spirit of the Legendary Skylanders, maintaining a champion's discipline in battle.",
+  "story": [
+    {
+      "story_name": "Legendary Background",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [],
+  "trivia": [],
+  "trailers": [],
+  "gameplay": "Legendary Night Shift is an Undead element Skylander with boxing-style combat. His Swap Force Ability is Teleport, allowing him to bypass obstacles and access Teleport Zones.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Night_Shift",
+  "abilities": {
+    "basic": [
+      {
+        "name": "One-Two Punch",
+        "imgPath": "",
+        "content": "A primary boxing attack involving a quick combination of punches.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#3a2253",
+          "bg_content": "#9999AA"
+        }
+      },
+      {
+        "name": "Ethereal Shift",
+        "imgPath": "",
+        "content": "A secondary move that allows the character to shift into an ethereal form to avoid damage and move through enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#3a2253",
+          "bg_content": "#9999AA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Vampire's Bite",
+        "imgPath": "",
+        "content": "An upgrade to his combat style, allowing for health-draining bites.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#3a2253",
+          "bg_content": "#9999AA"
+        }
+      },
+      {
+        "name": "Float Like a Vampire",
+        "imgPath": "",
+        "content": "Enhanced movement and agility, making the character harder to hit.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#3a2253",
+          "bg_content": "#9999AA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Infectious Smile",
+        "imgPath": "",
+        "content": "A powerful Soul Gem ability that affects nearby enemies with a terrifying smile.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#3a2253",
+          "bg_content": "#9999AA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "legendary-night-shift",
       "variant_name": "Legendary Night Shift",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Legendary",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/c0/Legendary_Night_Shift_Promo.jpg/revision/latest?cb=20131113043702",
       "attacks": [
         "One-Two Punch",
         "Ethereal Shift",
-        "Vampire’s Bite",
+        "Vampire's Bite",
         "Float Like a Vampire",
         "Infectious Smile"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "200 / 400"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 / 83"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "4 / 34"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 / 58"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 / 75"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "190"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "95"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "50"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Night_Shift"
     }
   ]
