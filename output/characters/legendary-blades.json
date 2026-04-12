@@ -4,31 +4,164 @@
   "species": "Dragon",
   "gender": "Male",
   "element": "Air",
+  "role": "Legendary Skylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
-    "Champions",
-    "Return of the Dragon King",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Legendary Blades is the Legendary counterpart of the Air Skylander, Blades, in Skylanders: Trap Team. He is mainly available in the Legendary bundle of the Nightmare Express, along with the Legendary Hand of Fate and the Piggy Bank.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "quote": "Looking Sharp!",
+  "personality": "Blades is a brave, disciplined dragon with a strong sense of duty and justice. Having spent years guarding a dungeon against intruders, he is always alert and ready for a challenge, possessing a wit as sharp as his metallic wings.",
+  "story": [
+    {
+      "story_name": "Backstory",
+      "content": "Blades was born into a long line of dragons who guarded the dungeon of the Fearless Knights. For centuries, they protected the castle from those who wished to plunder it. Blades proved himself to be the greatest of these guardians, until a great evil threatened all of Skylands, leading him to join the Skylanders.",
+      "hasImage": false,
+      "imgPath": "blades_story.png"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrases",
+      "content": [
+        "Looking Sharp!",
+        "A cut above!",
+        "Winged justice!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Legendary Blades is a blue and gold color swap of the standard Blades.",
+    "He was released exclusively in the Toys 'R' Us Legendary Nightmare Express Adventure Pack."
+  ],
+  "trailers": [
+    {
+      "name": "Legendary Blades Reveal",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Legendary_Blades"
+    }
+  ],
+  "gameplay": "Legendary Blades focuses on high-speed melee combat using his wings and long-range shard projectiles. He can create cyclones to trap enemies and uses his agility to navigate the battlefield quickly, making him a versatile Air element fighter.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Blades",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Wing Slice",
+        "imgPath": "wing_slice.png",
+        "content": "A quick melee strike with metallic wings.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#0099CC",
+          "bg_content": "#E0F7FA"
+        }
+      },
+      {
+        "name": "Blade Shards",
+        "imgPath": "blade_shards.png",
+        "content": "Shoot sharp shards of metal at enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#0099CC",
+          "bg_content": "#E0F7FA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Cyclone Swirl",
+        "imgPath": "cyclone_swirl.png",
+        "content": "Create a spinning cyclone to damage and knock back foes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#0099CC",
+          "bg_content": "#E0F7FA"
+        }
+      },
+      {
+        "name": "Razor Wings",
+        "imgPath": "razor_wings.png",
+        "content": "Wing Slice deals increased damage.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#0099CC",
+          "bg_content": "#E0F7FA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Crushing Cyclones",
+        "imgPath": "crushing_cyclones.png",
+        "content": "Cyclones deal massive damage and pull in enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#FFD700",
+          "bg_content": "#FFF9C4"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Wing Whirlers",
+        "abilities": [
+          {
+            "name": "Hurricane Whirl",
+            "imgPath": "hurricane_whirl.png",
+            "content": "Wing attacks create mini-cyclones.",
+            "is_primary": true,
+            "is_secondary": false,
+            "price": 1200,
+            "colors": {
+              "header": "#0099CC",
+              "bg_content": "#E0F7FA"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Razor Sharper",
+        "abilities": [
+          {
+            "name": "Shard Storm",
+            "imgPath": "shard_storm.png",
+            "content": "Fires more shards at a faster rate.",
+            "is_primary": false,
+            "is_secondary": true,
+            "price": 1200,
+            "colors": {
+              "header": "#0099CC",
+              "bg_content": "#E0F7FA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "legendary-blades",
       "variant_name": "Legendary Blades",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Legendary",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Blades_Legendary.png/revision/latest?cb=20170304031545",
       "attacks": [
@@ -38,7 +171,24 @@
         "Crushing Cyclones",
         "Slice Shards"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "160"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "130"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "70"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Blades"
     }
   ]
