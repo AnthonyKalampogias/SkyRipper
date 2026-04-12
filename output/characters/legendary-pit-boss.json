@@ -4,20 +4,118 @@
   "species": "Pit Viper",
   "gender": "Male",
   "element": "Undead",
+  "role": "Legendary Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Great Twisty Mountains"
   ],
-  "quote": null,
-  "description": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Legendary Pit Boss is a Legendary counterpart of Pit Boss in Skylanders: Imaginators.",
+  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+  "quote": "The Scales of Justice!",
+  "personality": "As a Legendary Skylander, Legendary Pit Boss is a noble guardian of Skylands. While much of his individual personality is reflected in his counterpart Pit Boss, he is characterized by his dedication to justice and his role as a summoned protector in times of peril.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official catchphrase",
+      "content": [
+        "The Scales of Justice!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Like Legendary Tri-Tip, he has red in his color scheme instead of dark blue.",
+    "Unlike his official artwork and figure form, Legendary Pit Boss's scepter is reversed in color schemes."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Imaginators Meet Legendary Pit Boss",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Imaginators_Meet_Legendary_Pit_Boss"
+    }
+  ],
+  "gameplay": "Legendary Pit Boss is a Sorcerer class Sensei. He uses a combination of direct strikes and summoned serpents to control the battlefield. His stats prioritize Strength and Agility, making him a fast and powerful magic user in the arena.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Pit_Boss",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Snake Attack",
+        "imgPath": "legendary-pit-boss-snake-attack.png",
+        "content": "Legendary Pit Boss strikes enemies with a quick snake-like attack.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#E6E6FA"
+        }
+      },
+      {
+        "name": "Slithering Soul Snake",
+        "imgPath": "legendary-pit-boss-slithering-soul-snake.png",
+        "content": "Summons a slithering soul snake to haunt and damage enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#E6E6FA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Viper Pits",
+        "imgPath": "legendary-pit-boss-viper-pits.png",
+        "content": "Legendary Pit Boss creates viper pits that deal damage to those who step in them.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#E6E6FA"
+        }
+      },
+      {
+        "name": "Superior Slithering",
+        "imgPath": "legendary-pit-boss-superior-slithering.png",
+        "content": "Improves slithering movement, allowing for better battlefield positioning.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#E6E6FA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Restless Reptiles",
+        "imgPath": "legendary-pit-boss-restless-reptiles.png",
+        "content": "A powerful attack where restless reptiles swarm the area to attack enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#E6E6FA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "legendary-pit-boss",
@@ -33,7 +131,24 @@
         "Superior Slithering",
         "Restless Reptiles"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "300"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "300"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "200"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Pit_Boss"
     }
   ]
