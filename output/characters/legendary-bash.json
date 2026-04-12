@@ -4,6 +4,7 @@
   "species": "Rock Dragon",
   "gender": "Male",
   "element": "Earth",
+  "role": "Legendary Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -16,24 +17,123 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Legendary Bash is the Legendary counterpart of Bash, exclusive to the original Toys'R'Us Legendary Pack (with Legendary Chop Chop and Legendary Spyro).",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "quote": "Rock and Roll!",
+  "personality": "As a Legendary Skylander, Legendary Bash is one of the greatest of combatants, immortalized as a magical, golden statue that stands watch as a guardian. He is a defender of Skylands against any evil that threatens it.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official catchphrase",
+      "content": [
+        "Rock and Roll!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Legendary Bash is the Legendary counterpart of Bash, exclusive to the original Toys'R'Us Legendary Pack.",
+    "He has slightly higher Console Stats than the standard Bash, though it has little effect on gameplay.",
+    "Finding Bash's Soul Gem will also unlock the new ability for Legendary Bash.",
+    "He is voiced by Keith Silverstein."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventure - Legendary Bash Preview (Rock and Roll)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Legendary_Bash_Preview_(Rock_and_Roll)"
+    }
+  ],
+  "gameplay": "Legendary Bash has the same abilities as Bash. His Console Stats are slightly higher, but this has little effect on the actual gameplay. Finding Bash's Soul Gem will also unlock the new ability for Legendary Bash.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bash",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Tail Swipe",
+        "imgPath": "Tail_Swipe_Icon.png",
+        "content": "Swing Bash's spiked tail to damage nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#8B4513",
+          "bg_content": "#C95823"
+        }
+      },
+      {
+        "name": "Rock Roll",
+        "imgPath": "Rock_Roll_Icon.png",
+        "content": "Curl into a ball and roll over enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#8B4513",
+          "bg_content": "#C95823"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Iron Tail",
+        "imgPath": "Iron_Tail_Icon.png",
+        "content": "Tail Swipe attacks do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#8B4513",
+          "bg_content": "#C95823"
+        }
+      },
+      {
+        "name": "Mace of Destruction",
+        "imgPath": "Mace_of_Destruction_Icon.png",
+        "content": "Tail Swipe has a longer reach and hits more enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#8B4513",
+          "bg_content": "#C95823"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Gaia Hammer",
+        "imgPath": "Gaia_Hammer_Icon.png",
+        "content": "While in Rock Roll, Bash can leap into the air and slam down, creating a shockwave.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#8B4513",
+          "bg_content": "#C95823"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "legendary-bash",
+      "id": "legendary-bash-s1",
       "variant_name": "Legendary Bash",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Legendary",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/L-Bash.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/L-Bash.jpg/revision/latest?cb=20120406091737",
       "attacks": [
         "Tail Swipe",
         "Rock Roll",
@@ -41,7 +141,44 @@
         "Mace of Destruction",
         "Gaia Hammer"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "310 (max. 620)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 (max. 83)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 94)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20 (max. 70)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "85"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bash"
     }
   ]
