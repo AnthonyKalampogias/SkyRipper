@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-12T09:22:42.543Z",
+  "last_run": "2026-04-12T21:24:03.124Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -691,7 +691,7 @@
     },
     {
       "name": "Jawbreaker",
-      "sha": "93d3e0190a7a2c3d6365b44b5a4d6605fb9167eed89fbf0f736a106f1a320b92"
+      "sha": "1949a5dee68db328c01981413b482a4ba2d37d126973696b6272371ecc838cc6"
     },
     {
       "name": "Jet-Vac",
@@ -780,6 +780,46 @@
     {
       "name": "Legendary Chop Chop",
       "sha": "39787712ebd92319994fb218e41e840fb8e0f7877372782fff67110ae7c0e090"
+    },
+    {
+      "name": "Legendary Déjà Vu",
+      "sha": "b465e4ada6f657441d9d3c4c63e46843afde2c6bfb75da9f235f191cc7954060"
+    },
+    {
+      "name": "Legendary Free Ranger",
+      "sha": "18dd460aac7656ffdd8e6159f8c00cd0d57ed58d7241a72831b520fe897c735d"
+    },
+    {
+      "name": "Legendary Grim Creeper",
+      "sha": "dabf472c447d23a2abc13bd318dd1ecefb86d01eb9f1951b510bb7f38c5f7976"
+    },
+    {
+      "name": "Legendary Hurricane Jet-Vac",
+      "sha": "34874ed6d72ea81ce31ac99b6451c9d81f9c00250e0b002ce8da7f652c8e33e6"
+    },
+    {
+      "name": "Legendary Ignitor",
+      "sha": "39b9b8629274c818a7459a5ef17670b53ea9a464627691c6b3c3d0fd1dce1a40"
+    },
+    {
+      "name": "Legendary Jawbreaker",
+      "sha": "53ac5f4b16f5a5819e492e44f23dda733c7c34a9179d6820c03a7175207fbd54"
+    },
+    {
+      "name": "Legendary Jet-Vac",
+      "sha": "1694859ab5d5799bac1b5b67cb0eb58ca49bc21b022f669e14ccb9fb9552b779"
+    },
+    {
+      "name": "Legendary Night Shift",
+      "sha": "31722db7972aa5ce3d277411ff53d56bd6c62034c2ef961ada12f26b3f3c3c71"
+    },
+    {
+      "name": "Legendary Pit Boss",
+      "sha": "35d84c34bbe5f36e3378fb96a8a70b2940aadbf4cfc7f0375f5df2c50623f98a"
+    },
+    {
+      "name": "Legendary Skylanders",
+      "sha": "d0032629f93d85298d9e186253dc81b1b7b826593eb18da3973fc96289845da9"
     }
   ]
 }
