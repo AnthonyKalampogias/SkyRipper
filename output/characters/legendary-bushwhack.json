@@ -4,6 +4,7 @@
   "species": "Tree Elf",
   "gender": "Male",
   "element": "Life",
+  "role": "Legendary Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -11,22 +12,112 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Arcadian Timberland"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Legendary Bushwhack is the Legendary counterpart of the Life Trap Master, Bushwhack, in Skylanders: Trap Team.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "quote": "Axe to the Max!",
+  "personality": "Legendary Bushwhack is a noble warrior who serves as a guardian of the Arcadian Timberland. As a Legendary Skylander, he represents the pinnacle of combat skill and heroism, immortalized in gold for his deeds.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/be/LegendaryBushwhack.png/revision/latest?cb=20170304031643"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Axe to the Max!"
+      ]
+    }
+  ],
+  "trivia": [
+    "In the artwork, Legendary Bushwhack's acorns are gold on top and navy blue on the bottom. But in the game, the acorns' color schemes are reversed."
+  ],
+  "trailers": [],
+  "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games. Health: 290 (max. 580), Speed: 180 (max. 228), Armor: 18 (max. 48), Critical Hit: 60 (max. 110), Elemental Power: 39 (max. 89).",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bushwhack",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Traptanium Axe",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/be/LegendaryBushwhack.png/revision/latest?cb=20170304031643",
+        "content": "A powerful strike using the Traptanium Axe.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#002d5c",
+          "bg_content": "#ffd700"
+        }
+      },
+      {
+        "name": "Mystic Acorn",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/be/LegendaryBushwhack.png/revision/latest?cb=20170304031643",
+        "content": "Throw a Mystic Acorn at enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#002d5c",
+          "bg_content": "#ffd700"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Headbash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/be/LegendaryBushwhack.png/revision/latest?cb=20170304031643",
+        "content": "A headbutt attack to stun or damage foes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#002d5c",
+          "bg_content": "#ffd700"
+        }
+      },
+      {
+        "name": "An Axe to Grind",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/be/LegendaryBushwhack.png/revision/latest?cb=20170304031643",
+        "content": "An enhanced axe combo for maximum damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#002d5c",
+          "bg_content": "#ffd700"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Bush's Shack",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/be/LegendaryBushwhack.png/revision/latest?cb=20170304031643",
+        "content": "The ultimate shack construction to provide strategic advantages.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#002d5c",
+          "bg_content": "#ffd700"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "legendary-bushwhack",
       "variant_name": "Legendary Bushwhack",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Legendary",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/b/be/LegendaryBushwhack.png/revision/latest?cb=20170304031643",
       "attacks": [
@@ -36,7 +127,28 @@
         "An Axe to Grind",
         "Bush's Shack"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 / 580"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "180 / 228"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 / 48"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "60 / 110"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "39 / 89"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bushwhack"
     }
   ]
