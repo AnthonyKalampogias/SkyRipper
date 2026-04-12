@@ -1,6 +1,6 @@
 {
-  "id": "knight-light-guardian-formerly",
-  "name": "Knight Light (guardian formerly)",
+  "id": "knight-light",
+  "name": "Knight Light",
   "species": "Unknown",
   "gender": "Male",
   "element": "Light",
@@ -12,7 +12,13 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": [],
+  "cameos": [
+    "Spotlight",
+    "Blackout",
+    "Knight Mare",
+    "Chef Pepper Jack",
+    "Pain-Yatta"
+  ],
   "world": [
     "Radiant City"
   ],
@@ -23,7 +29,7 @@
   "story": [
     {
       "story_name": "Light in the Dark",
-      "content": "Knight Light battled against Chef Pepper Jack and his group of Plant Warriors to protect a village of Mabu. Announcing his return to the realm of Skylands, the Light Trap Master defeated the Fire Doom Raider and his minions.When Spotlight and Blackout were ambushed by Pain-Yatta's candy soldiers, Knight Light and Knight Mare came to aid their fellow allies after they contacted the two Trap Masters prior to coming to the Arkeyan ruins. During the heat of the battle, Knight Light openly blamed Knight Mare for both of them being late, and in response, Knight Mare claimed that Knight Light was the one responsible. Eventually the Light and Dark Skylanders defeated the horde of candy warriors, but were soon confronted by Pain-Yatta and became overwhelmed by his wave of candy.Knight Light, Blackout, Spotlight, and Knight Mare became imprisoned inside Pain-Yatta's giant pinata to power him and his army of candy warriors during their impending conquest over Skylands. Should they use their powers of Light and Dark to try and escape their prison, they would only make Pain-Yatta and his army stronger. Eventually the Skylanders concocted a plan to overload the pinata with their powers, causing it to explode and allowing the Skylanders to escape. Despite absorbing the Light and Dark energies to empower himself, Pain-Yatta suddenly became sick from taking in too much power and his candy warriors around Skylands dropped to pieces, resulting in Pain-Yatta's defeat. At the Skylanders Academy, Master Eon congratulated the Light and Dark Skylanders for their efforts in saving Skylands once again with their Light and Dark abilities.",
+      "content": "Knight Light battled against Chef Pepper Jack and his group of Plant Warriors to protect a village of Mabu. Announcing his return to the realm of Skylands, the Light Trap Master defeated the Fire Doom Raider and his minions. When Spotlight and Blackout were ambushed by Pain-Yatta's candy soldiers, Knight Light and Knight Mare came to aid their fellow allies after they contacted the two Trap Masters prior to coming to the Arkeyan ruins. During the heat of the battle, Knight Light openly blamed Knight Mare for both of them being late, and in response, Knight Mare claimed that Knight Light was the one responsible. Eventually the Light and Dark Skylanders defeated the horde of candy warriors, but were soon confronted by Pain-Yatta and became overwhelmed by his wave of candy. Knight Light, Blackout, Spotlight, and Knight Mare became imprisoned inside Pain-Yatta's giant pinata to power him and his army of candy warriors during their impending conquest over Skylands. Should they use their powers of Light and Dark to try and escape their prison, they would only make Pain-Yatta and his army stronger. Eventually the Skylanders concocted a plan to overload the pinata with their powers, causing it to explode and allowing the Skylanders to escape. Despite absorbing the Light and Dark energies to empower himself, Pain-Yatta suddenly became sick from taking in too much power and his candy warriors around Skylands dropped to pieces, resulting in Pain-Yatta's defeat. At the Skylanders Academy, Master Eon congratulated the Light and Dark Skylanders for their efforts in saving Skylands once again with their Light and Dark abilities.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/38/Knight_Mare_Knight_Light.png/revision/latest?cb=20150714064844"
     },
@@ -38,41 +44,41 @@
     {
       "quote_type": "Battle Cries",
       "content": [
-        "See the light!",
-        "Rise and shine!",
-        "Time to shine!",
-        "For Skylands!",
-        "Outshining the rest!",
-        "The light in the night!",
-        "A clear victory!",
-        "Spreading my wings!",
-        "Another triumph!",
-        "Shining bright!",
-        "Illuminating!",
-        "A guiding light!",
-        "Look on the bright side!",
-        "At the ready!",
-        "Ready to serve!",
-        "Clear the way!",
-        "Feeling stronger!",
-        "Ready for battle!",
-        "Unstoppable!",
-        "A worthy feat!",
-        "Up and away!",
-        "Away I go!",
-        "Skyward!",
-        "Lighting the way!",
-        "Shining through!",
-        "Of gold and glory!",
-        "Fortune favors the brave!",
-        "Power burst!",
-        "More power!",
-        "My future is looking bright!",
-        "A cut above all others!",
-        "I look rather distinguished!",
-        "A choice beyond reason!",
-        "Hm, a name for the ages!",
-        "Let my new name be known!"
+        "\"See the light!\"",
+        "\"Rise and shine!\" - when entering battle",
+        "\"Time to shine!\"",
+        "\"For Skylands!\"",
+        "\"Outshining the rest!\" - when exiting battle",
+        "\"The light in the night!\"",
+        "\"A clear victory!\"",
+        "\"Spreading my wings!\" - when solving puzzles",
+        "\"Another triumph!\"",
+        "\"Shining bright!\"",
+        "\"Illuminating!\"",
+        "\"A guiding light!\"",
+        "\"Look on the bright side!\"",
+        "\"At the ready!\" - when switched in",
+        "\"Ready to serve!\"",
+        "\"Clear the way!\"",
+        "\"Feeling stronger!\" - when Traptanium Scimitar glows",
+        "\"Ready for battle!\"",
+        "\"Unstoppable!\" - when he destroys a Traptanium cluster",
+        "\"A worthy feat!\"",
+        "\"Up and away!\" - when using a bounce pad",
+        "\"Away I go!\"",
+        "\"Skyward!\"",
+        "\"Lighting the way!\" - when opening a gate",
+        "\"Shining through!\"",
+        "\"Of gold and glory!\" - when opening a treasure chest",
+        "\"Fortune favors the brave!\"",
+        "\"Power burst!\" - when leveling up",
+        "\"More power!\"",
+        "\"My future is looking bright!\" - when checking stats",
+        "\"A cut above all others!\"",
+        "\"I look rather distinguished!\" - when wearing a hat",
+        "\"A choice beyond reason!\"",
+        "\"Hm, a name for the ages!\" - when given a nickname",
+        "\"Let my new name be known!\""
       ]
     }
   ],
@@ -82,7 +88,7 @@
     "His name is a play on nightlight, a small lamp that provides light in dark areas during the night.",
     "He loosely resembles an angel or seraph.",
     "He also slightly resembles a harpy.",
-    "Knight Light also resembles to Angemon from the Digimon franchise, both are angelic beings who wear masks that obscure half of his face only exposing his mouths.",
+    "Knight Light also resembles Angemon from the Digimon franchise; both are angelic beings who wear masks that obscure half of their face, only exposing their mouths.",
     "One of his Passive abilities in Ring of Heroes creates a halo around a random ally after he is defeated, supporting that he might be one himself.",
     "He has the highest health out of all the Trap Masters.",
     "Despite not having a flight upgrade, Knight Light can fly by double tapping the jump button.",
@@ -97,7 +103,7 @@
     {
       "name": "Skylanders Trap Team - Knight Light's Soul Gem Preview (See the Light)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Knight_Light%27s_Soul_Gem_Preview_%28See_the_Light%29"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Knight_Light's_Soul_Gem_Preview_(See_the_Light)"
     },
     {
       "name": "Skylanders Power Play Knight Light",
@@ -105,12 +111,12 @@
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Knight_Light"
     },
     {
-      "name": "Official Skylanders Trap Team \"Knight Light\" Trailer",
+      "name": "Official Skylanders Trap Team 'Knight Light' Trailer",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Trap_Team_%22Knight_Light%22_Trailer"
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Trap_Team_'Knight_Light'_Trailer"
     }
   ],
-  "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games.\nSkylanders can use abilities depending on their level.\n\nStarting Powers\nBringer of Light (Primary Attack): Press (Y) to strike with your mighty sword of light.\nPacification (Secondary Attack): Press (X) to unleash a devastating leaping blow onto your enemies.\n\nUpgrades\nRighteous Blade (requires level: 3): Use your power of your new sword! After a minimum of two strikes of the Bringer of Light combo, press (X) to execute a smiting blow.\nLight Traveller (requires level: 6): Hold (X) to summon a trail of holy light which damages your opponent. Hold it long enough to teleport and punish them more. If (X) is released, Knight Light will leap onto them just like he does with Pacification.\nAura of Serenity (requires level: 9): At the end of Pacification, Knight Life creates a magic circle of serenity that slows enemies. Press (X) to use Pacification.",
+  "gameplay": "Starting Powers: Bringer of Light (Primary Attack): Press (Y) to strike with your mighty sword of light. Pacification (Secondary Attack): Press (X) to unleash a devastating leaping blow onto your enemies. Upgrades: Righteous Blade (requires level: 3): Use your power of your new sword! After a minimum of two strikes of the Bringer of Light combo, press (X) to execute a smiting blow. Light Traveller (requires level: 6): Hold (X) to summon a trail of holy light which damages your opponent. Hold it long enough to teleport and punish them more. If (X) is released, Knight Light will leap onto them just like he does with Pacification. Aura of Serenity (requires level: 9): At the end of Pacification, Knight Life creates a magic circle of serenity that slows enemies. Press (X) to use Pacification. Trap Attack: Fill up the Trap Attack gauge by defeating enemies and collecting TRAPTANIUM shards. Once the gauge is full, press [L] to unleash a devastating attack, unique to each Trap Master!",
   "wiki_url": "https://skylanders.fandom.com/wiki/Knight_Light",
   "abilities": {
     "basic": [
@@ -291,10 +297,10 @@
   },
   "variants": [
     {
-      "id": "knight-light-guardian-formerly",
-      "variant_name": "Knight Light (guardian formerly)",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "id": "knight-light-trap-master",
+      "variant_name": "Knight Light",
+      "edition": "First Release",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/40/Knight_Light_Promo.jpg/revision/latest?cb=20141218040405",
       "attacks": [
