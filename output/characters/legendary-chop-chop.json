@@ -4,6 +4,7 @@
   "species": "Arkeyan Skeleton",
   "gender": "Male",
   "element": "Undead",
+  "role": "Legendary Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -13,33 +14,166 @@
     "Skylanders: Giants",
     "Skylanders: Swap Force",
     "Skylanders: Trap Team",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Legendary Chop Chop is the Legendary counterpart of Chop Chop, featuring a distinct gold and navy blue color scheme. He was originally released as part of an exclusive Toys 'R' Us Legendary Pack.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "quote": "Slice and Dice!",
+  "personality": "Legendary Chop Chop is a stoic and disciplined warrior. Having been an elite member of the Arkeyan guard, he possesses an unbreakable sense of duty and a cold, calculating approach to combat. He rarely speaks outside of his battle cries, preferring to let his sword and shield do the talking.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Slice and Dice!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Skylanders: Giants has a glitch where it is impossible for him to obtain the Quest Rank of Gold to wear the Gold Top Hat.",
+    "It is possible for him to wear the Gold Top Hat starting from Skylanders: Swap Force.",
+    "Legendary Chop Chop has higher base stats than the standard Series 1 Chop Chop.",
+    "He was originally exclusive to Toys 'R' Us stores."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventure - Legendary Chop Chop Preview",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=preview_url_placeholder"
+    }
+  ],
+  "gameplay": "Legendary Chop Chop plays as a melee brawler with strong defensive capabilities. He can chain sword strikes for high DPS or use his shield to block incoming projectiles and negate damage. His playstyle allows for a high-risk, high-reward approach by absorbing energy with his shield to unleash powerful counterattacks.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Chop_Chop",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Sword Slash",
+        "imgPath": "sword_slash_icon.png",
+        "content": "Perform a quick slash with the Arkeyan Blade.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#2F4F4F"
+        }
+      },
+      {
+        "name": "Arkeyan Shield",
+        "imgPath": "shield_icon.png",
+        "content": "Raise your shield to block attacks.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#2F4F4F"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Spiked Shield Bash",
+        "imgPath": "shield_bash_icon.png",
+        "content": "Shield bash deals more damage and has spikes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#2F4F4F"
+        }
+      },
+      {
+        "name": "Arkeyan Vorpal Blade",
+        "imgPath": "vorpal_blade_icon.png",
+        "content": "Sword deals increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#2F4F4F"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Cursed Bone Armor",
+        "imgPath": "soulgem_icon.png",
+        "content": "Provides maximum armor protection.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#2F4F4F"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Vanquisher",
+        "abilities": [
+          {
+            "name": "Triple Slash",
+            "imgPath": "triple_slash.png",
+            "content": "Adds a third hit to the sword combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1000,
+            "colors": {
+              "header": "#4B0082",
+              "bg_content": "#2F4F4F"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "legendary-chop-chop",
+      "id": "legendary-chop-chop-s1",
       "variant_name": "Legendary Chop Chop",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Legendary",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/cb/L-Chop_Chop.jpg",
       "attacks": [
         "Sword Slash",
-        "Arkeyan Shield",
-        "Spiked Shield Bash",
-        "Arkeyan Vorpal Blade",
-        "Vampiric Aura"
+        "Arkeyan Shield"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "65"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "40"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Chop_Chop"
     }
   ]
