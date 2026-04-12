@@ -1,9 +1,10 @@
 {
   "id": "legendary-chill",
   "name": "Legendary Chill",
-  "species": "Unknown",
+  "species": "Humanoid",
   "gender": "Female",
   "element": "Water",
+  "role": "Legendary Skylander",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -13,24 +14,121 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Legendary Chill is the Legendary counterpart of LightCore Chill who appeared in Skylanders: Giants. She features a distinct blue and gold color scheme signifying her status as an arena champion.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "quote": "Stay Cool!",
+  "personality": "Chill is a noble, stoic, and highly disciplined warrior. Having served as the personal guardian to the Snow Queen, she maintains a serious demeanor and a strong sense of duty, rarely letting her guard down even in the heat of battle.",
+  "story": [
+    {
+      "story_name": "Legendary Chill's Story",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Stay Cool!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Legendary Chill is the first LightCore Skylander to be a Legendary Skylander, the second being Legendary Grim Creeper.",
+    "Her Narwhal companion is gold instead of the original color. In Skylanders: Swap Force, her Narwhal is the original color instead of gold."
+  ],
+  "trailers": [],
+  "gameplay": "Legendary Chill excels at medium-range combat and area denial. She throws ice javelins that can pierce through enemies and uses her shield to block incoming projectiles or bash foes. She can also summon ice walls to obstruct enemies and call upon a narwhal to charge through lines of opponents.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Chill",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Ice Javelin",
+        "imgPath": "ice_javelin_icon.png",
+        "content": "Throw a sharp ice javelin at enemies from a distance.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#2b5691",
+          "bg_content": "#a2c4e0"
+        }
+      },
+      {
+        "name": "Ice Wall",
+        "imgPath": "ice_wall_icon.png",
+        "content": "Summon a frozen wall to block enemy attacks and movement.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#2b5691",
+          "bg_content": "#a2c4e0"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Glacial Bash",
+        "imgPath": "glacial_bash_icon.png",
+        "content": "Perform a powerful shield bash that knocks back enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#2b5691",
+          "bg_content": "#a2c4e0"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Call of the Narwhal",
+        "imgPath": "narwhal_icon.png",
+        "content": "Summon a mighty narwhal to crash through enemies in front of you.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#ffd700",
+          "bg_content": "#a2c4e0"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Ice Queen",
+        "abilities": [
+          {
+            "name": "Empowered Javelins",
+            "imgPath": "empowered_javelins_icon.png",
+            "content": "Ice javelins deal significantly more damage.",
+            "is_primary": true,
+            "is_secondary": false,
+            "price": 1200,
+            "colors": {
+              "header": "#2b5691",
+              "bg_content": "#a2c4e0"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "legendary-chill",
       "variant_name": "Legendary Chill",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Legendary",
       "game": "Skylanders: Giants",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/1/16/Legendary_Chill_Promo.jpg/revision/latest?cb=20130325172626",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/16/Legendary_Chill_Promo.jpg",
       "attacks": [
         "Ice Javelin",
         "Ice Wall",
@@ -38,7 +136,28 @@
         "Cold Front",
         "Imperial Armor"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260 (max. 520)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "36 (max. 66)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20 (max. 70)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Chill"
     }
   ]
