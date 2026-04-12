@@ -4,6 +4,7 @@
   "species": "Sky Baron",
   "gender": "Male",
   "element": "Air",
+  "role": "Legendary Skylander",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -15,22 +16,123 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Legendary Jet-Vac is the Legendary counterpart of Jet-Vac in Skylanders: Giants. He is in a Legendary 3-pack with Legendary Ignitor and Legendary Slam Bam. He has a SuperCharger counterpart called Legendary Hurricane Jet-Vac.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "quote": "Hawk and Awe",
+  "personality": "Not mentioned in the biography, though as a Legendary Skylander, he is one of the greatest combatants and guardians of Skylands.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrases",
+      "content": [
+        "Hawk and Awe"
+      ]
+    }
+  ],
+  "trivia": [
+    "He slightly resembles a peregrine falcon, despite his catchphrase being 'Hawk and Awe'.",
+    "His name is a play on 'jet-pack'.",
+    "He is the third Alter Ego Skylander to have a repose (The first being Dark Spyro and the second being Dark Stealth Elf).",
+    "He is the only one of the three to be a Legendary counterpart. The rest are Dark edition counterparts.",
+    "In Imaginators, when viewing the Skylanders collection, his character icon is the same as in Giants, but in regular gameplay, it shows the icon for his SuperCharger counterpart instead.",
+    "He shares the same problem with Dark Super Shot Stealth Elf."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Giants Jet-Vac LEGENDARY Pre Trailer preview",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_Jet-Vac_LEGENDARY_Pre_Trailer_preview"
+    }
+  ],
+  "gameplay": "In Skylanders: Giants, Legendary Jet-Vac features a starting Health of 240, Speed of 50, Armor of 18, and a Critical Hit rate of 20. These can reach a maximum of 480 Health, 98 Speed, 48 Armor, and 70 Critical Hit. Additionally, his power stats—though not utilized in gameplay—are listed as Strength 60, Defense 50, Agility 80, and Luck 85.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Jet-Vac",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Vac Blaster",
+        "imgPath": "",
+        "content": "Primary attack. Uses the Vac Blaster.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#FFFFFF"
+        }
+      },
+      {
+        "name": "Suction Gun",
+        "imgPath": "",
+        "content": "Secondary attack. Uses the Suction Gun.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#FFFFFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Jet Vac Jet Pack",
+        "imgPath": "",
+        "content": "An upgrade for Jet-Vac's jet pack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#FFFFFF"
+        }
+      },
+      {
+        "name": "Vac Blaster 9000",
+        "imgPath": "",
+        "content": "An advanced version of the Vac Blaster.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#FFFFFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Fiester Fan",
+        "imgPath": "",
+        "content": "The ultimate soul gem ability for Legendary Jet-Vac.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#FFFFFF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "legendary-jet-vac",
+      "id": "legendary-jet-vac-giants",
       "variant_name": "Legendary Jet-Vac",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Legendary",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/d/d1/L-JetVac_Promo.jpg/revision/latest?cb=20170304031722",
       "attacks": [
@@ -40,7 +142,40 @@
         "Vac Blaster 9000",
         "Fiester Fan"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "240 (max. 480)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20 (max. 70)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "85"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Jet-Vac"
     }
   ]
