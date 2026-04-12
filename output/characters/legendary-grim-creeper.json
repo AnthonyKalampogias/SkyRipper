@@ -4,6 +4,7 @@
   "species": "Ghost",
   "gender": "Male",
   "element": "Undead",
+  "role": "Legendary Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -12,32 +13,155 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Legendary Grim Creeper is the Legendary counterpart of LightCore Grim Creeper in Skylanders: Swap Force.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "quote": "Your Time Is Up!",
+  "personality": "Legendary Grim Creeper is a stoic and disciplined warrior, embodying the spirit of a champion from the ancient gladiator arenas. He is dedicated to his role as a guardian of Skylands.",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Your Time Is Up!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Legendary LightCore Grim Creeper is the second Legendary figure to be LightCore, the first being Legendary Chill."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Legendary Grim Creeper LightCore",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Legendary_Grim_Creeper_LightCore"
+    }
+  ],
+  "gameplay": "Legendary Grim Creeper utilizes high-speed melee scythe attacks and a unique ghost form transformation. This allows players to switch between armor-based offense and ethereal mobility to haunt their enemies.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Grim_Creeper",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Scythe Swing",
+        "imgPath": "scythe_swing.png",
+        "content": "Grim Creeper swings his scythe in a powerful arc to damage enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#2e0854",
+          "bg_content": "#4b0082"
+        }
+      },
+      {
+        "name": "Ghost Form",
+        "imgPath": "ghost_form.png",
+        "content": "Grim Creeper leaves his armor to move quickly as a ghost.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#2e0854",
+          "bg_content": "#4b0082"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Sphere of Fear",
+        "imgPath": "sphere_of_fear.png",
+        "content": "Create a sphere of energy that damages enemies over time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#2e0854",
+          "bg_content": "#4b0082"
+        }
+      },
+      {
+        "name": "It's Alive!",
+        "imgPath": "its_alive.png",
+        "content": "The armor attacks on its own while Grim Creeper is in Ghost Form.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#2e0854",
+          "bg_content": "#4b0082"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Polterguest Scythe",
+        "imgPath": "polterguest_scythe.png",
+        "content": "The scythe attacks deal significantly more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#2e0854",
+          "bg_content": "#4b0082"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Ghostly Guardian",
+        "abilities": [
+          {
+            "name": "Ghosterizer",
+            "imgPath": "ghosterizer.png",
+            "content": "Ghost Form lasts longer and deals more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1200,
+            "colors": {
+              "header": "#2e0854",
+              "bg_content": "#4b0082"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "legendary-grim-creeper",
       "variant_name": "Legendary Grim Creeper",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Legendary",
+      "type": "LightCore",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/a/ae/L-Grim_Creeper_Promo_Art.jpg/revision/latest?cb=20131010161158",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/ae/L-Grim_Creeper_Promo_Art.jpg",
       "attacks": [
         "Scythe Swing",
         "Ghost Form",
-        "Polterguest Scythe",
         "Sphere of Fear",
         "It's Alive!"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "95"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "95"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "65"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Grim_Creeper"
     }
   ]
