@@ -4,38 +4,89 @@
   "species": "Unknown",
   "gender": "Male",
   "element": "Light",
+  "role": "Legendary SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: Lost Islands",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Legendary Astroblast is the Legendary counterpart of Astroblast in Skylanders: SuperChargers, featuring a distinct black and gold color scheme.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "quote": "Ready, Set, Glow!",
+  "personality": "Legendary Astroblast is a daring and inquisitive explorer of the deep cosmos. He possesses a relentless drive to uncover the mysteries of the universe and defends the Light with unwavering valor, embodying the prestige associated with the Legendary Skylanders.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Ready, Set, Glow!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the first Alt Deco Light Skylander.",
+    "He is the only Legendary version of a new Skylander in SuperChargers; other Legendary SuperChargers are reposed characters.",
+    "His vehicle counterpart is the Legendary Sun Runner."
+  ],
+  "trailers": [],
+  "gameplay": "Legendary Astroblast utilizes light-based attacks, including his Solar Laser for long-distance precision and an Asteroid Belt for close-quarters defense. In-game, he features slightly higher stats than his standard counterpart and a unique aesthetic.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Astroblast",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "legendary-astroblast",
       "variant_name": "Legendary Astroblast",
-      "edition": "Series 1",
+      "edition": "Legendary",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/8/84/L-Astroblast_Promo.jpg/revision/latest?cb=20151016202115",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/84/L-Astroblast_Promo.jpg",
       "attacks": [
-        "Solar Flair",
+        "Solar Laser",
         "Asteroid Belt",
         "Starsault",
         "Surface of the Sun",
         "Meteor Shower"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "230"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "16"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Astroblast"
     }
   ]
