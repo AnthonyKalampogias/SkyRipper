@@ -4,6 +4,7 @@
   "species": "Robot",
   "gender": "Male",
   "element": "Tech",
+  "role": "Legendary Giant",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -14,22 +15,110 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical , golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "description": "Legendary Bouncer is the Legendary counterpart of the Tech Giant Bouncer in Skylanders: Giants.",
+  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+  "quote": "Deal with the Wheel!",
+  "personality": "",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [],
+  "trivia": [
+    "If Bouncer is placed on the portal, his eyes glow white and the rim near his waist glows orange, however, Legendary Bouncer's waist and eyes glow white instead.",
+    "Legendary Bouncer's wheel is gold on his toy, however, in-game, it is oddly black."
+  ],
+  "trailers": [
+    {
+      "name": "ToysRUS présente Skylanders Giants - Bouncer Legendaire en exclusivité chez ToysRUs !",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:ToysRUS_pr%C3%A9sente_Skylanders_Giants_-_Bouncer_Legendaire_en_exclusivit%C3%A9_chez_ToysRUs_!"
+    }
+  ],
+  "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bouncer",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Fingerguns",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      },
+      {
+        "name": "Shoulder Rockets",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      },
+      {
+        "name": "I-Beam",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      },
+      {
+        "name": "Cooler I-Beam",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      },
+      {
+        "name": "Machine Fingerguns",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      }
+    ],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "legendary-bouncer",
       "variant_name": "Legendary Bouncer",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Giant",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/d/d7/L-Bouncer.jpg/revision/latest?cb=20170212044708",
       "attacks": [
@@ -39,7 +128,28 @@
         "Cooler I-Beam",
         "Machine Fingerguns"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "430 (max. 860)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60 (max. 108)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "36 (max. 66)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "60 (max. 110)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bouncer"
     }
   ]
