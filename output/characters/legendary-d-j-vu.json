@@ -1,35 +1,68 @@
 {
-  "id": "legendary-d-j-vu",
+  "id": "legendary-deja-vu",
   "name": "Legendary Déjà Vu",
-  "species": "Unknown",
+  "species": "Humanoid",
   "gender": "Female",
   "element": "Magic",
+  "role": "Legendary Skylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
-    "Champions",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Legendary Déjà Vu is the Legendary counterpart of the Magic Skylander, Déjà Vu, in Skylanders: Trap Team.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "quote": "Did That Just Happen?",
+  "personality": "Legendary Déjà Vu is a calculated and strategic combatant. She relies on her temporal abilities to remain several steps ahead of her enemies, displaying a calm and confident demeanor in the heat of battle.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Did That Just Happen?"
+      ]
+    }
+  ],
+  "trivia": [
+    "There's a glitch in Skylanders: SuperChargers where her eyes will be black during the Magic Moment."
+  ],
+  "trailers": [
+    {
+      "name": "Legendary Déjà Vu Character Trailer",
+      "isValid": false,
+      "url": ""
+    }
+  ],
+  "gameplay": "Legendary Déjà Vu uses her time-based powers to create clones of herself from the past to assist in combat. She can also set a time marker to teleport back to a previous position and health state, allowing for high survivability and tactical movement.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_D%C3%A9j%C3%A0_Vu",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "legendary-d-j-vu",
+      "id": "legendary-deja-vu-trap-team",
       "variant_name": "Legendary Déjà Vu",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Legendary",
+      "type": "Core",
       "game": "Skylanders: Trap Team",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/7/74/DejaVu_Legendary.png/revision/latest?cb=20170304031600",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/74/DejaVu_Legendary.png",
       "attacks": [
         "Space-Time Shots",
         "Past Selves",
@@ -37,7 +70,24 @@
         "Explosion Déjà Vu",
         "Warp Field"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "200"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_D%C3%A9j%C3%A0_Vu"
     }
   ]
