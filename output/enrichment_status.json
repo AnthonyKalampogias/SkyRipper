@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-12T03:05:02.753Z",
+  "last_run": "2026-04-12T09:22:42.543Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -691,7 +691,7 @@
     },
     {
       "name": "Jawbreaker",
-      "sha": "a15cdcb8779f40201e97caa6ddad991810a2f7a1ab72c5ba02623aab3a7231bd"
+      "sha": "93d3e0190a7a2c3d6365b44b5a4d6605fb9167eed89fbf0f736a106f1a320b92"
     },
     {
       "name": "Jet-Vac",
@@ -744,6 +744,42 @@
     {
       "name": "Lava Lance Eruptor",
       "sha": "16381f92b850fb818d22f1a08d918e1fadb37d4691f303150bd2864163aadac1"
+    },
+    {
+      "name": "Knight Light",
+      "sha": "025fff4eb2e3bcf681e0c2b47e2127399f9a2707912b7408dbde2f57345e6c0a"
+    },
+    {
+      "name": "Legendary Astroblast",
+      "sha": "7b5c48fa912f92dff713e8b877ddbdc874511f65ceac1712ca36ef074b29a634"
+    },
+    {
+      "name": "Legendary Bash",
+      "sha": "3407bcc226902d4e1ab52d17e4811cbe4cafc80084311c7bdca6b35e2dbc951b"
+    },
+    {
+      "name": "Legendary Blades",
+      "sha": "d17b500268b67a8d52fc70edcf665217448c620297a3a60939c8dd3b946d9bb4"
+    },
+    {
+      "name": "Legendary Bone Bash Roller Brawl",
+      "sha": "ca81301b111f18329a200ec142951a57baf3aa3d87b02078fc670d4d8a86858c"
+    },
+    {
+      "name": "Legendary Bouncer",
+      "sha": "ad78ac892902127be7639ef4339f718fc74a0d70a0dc739afd7ee13b2dbdbb78"
+    },
+    {
+      "name": "Legendary Bushwhack",
+      "sha": "b6c42563814ed2911cabe8001f4a902601316e08f8181b860b6f06171cef4c16"
+    },
+    {
+      "name": "Legendary Chill",
+      "sha": "e65430215cc907a0d80e85f1b30ee6f4181170599eb92d7ddf2268836cf6c6ee"
+    },
+    {
+      "name": "Legendary Chop Chop",
+      "sha": "39787712ebd92319994fb218e41e840fb8e0f7877372782fff67110ae7c0e090"
     }
   ]
 }
