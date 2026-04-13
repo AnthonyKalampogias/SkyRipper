@@ -4,20 +4,105 @@
   "species": "Crystal Dragon",
   "gender": "Female",
   "element": "Light",
+  "role": "Skylander",
   "primary_game": "Skylanders: Ring of Heroes",
   "appearances": [
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Light Flashwing is the alter ego the jewel dragon Flashwing. The shiny crystals of Flashwing shows off its brilliance with the light. If the rock dragon, Bash , had originally met Light Flashwing and not the original ego, his love for her would've gone out of control. It's just an imagination, but just thinking about it makes you happy. But the power of Light Flashwing in the battlefield is not just an imagination, it actually helps the allies and defeats enemies. Look forward to her brilliant performance!",
-  "personality": null,
-  "story": null,
+  "description": "Light Flashwing is a Light elemental alter ego of the Earth Skylander Flashwing in Skylanders: Ring of Heroes.",
+  "biography": "Light Flashwing is the alter ego the jewel dragon Flashwing. The shiny crystals of Flashwing shows off its brilliance with the light. If the rock dragon, Bash, had originally met Light Flashwing and not the original ego, his love for her would've gone out of control. It's just an imagination, but just thinking about it makes you happy. But the power of Light Flashwing in the battlefield is not just an imagination, it actually helps the allies and defeats enemies. Look forward to her brilliant performance!",
+  "quote": "Bright Lights, Sharp Edges!",
+  "personality": "Light Flashwing is a radiant and helpful ally, described as a brilliant performer on the battlefield whose presence can be quite overwhelming to certain others like Bash.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "Light Flashwing is a Light elemental alter ego of the jewel dragon Flashwing. While Flashwing is normally an Earth Skylander, this version embraces the brilliance of Light, using her crystals to aid allies and defeat enemies with radiant energy. Her performance in Skylands is considered legendary, possessing a power that is far more than just imagination.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Light_Flashwing.jpg/revision/latest/scale-to-width-down/268?cb=20181213185642"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Bright Lights, Sharp Edges!"
+      ]
+    }
+  ],
+  "trivia": [
+    "She and Shadow Spyro are both alter ego dragons whose original counterparts are from another element.",
+    "She and Light Hex are both female Light elemental counterparts of Skylanders from another element.",
+    "The Light elemental symbol can be seen on Light Flashwing's chest, replacing the Earth symbol."
+  ],
+  "trailers": [],
+  "gameplay": "Light Flashwing wields power over the Light element. Her moveset consists of using her crystals to project light lasers and heals her allies with crystal particles she releases.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Light_Flashwing",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Light Ray",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7a/Light_Flashwingheroability1.png/revision/latest/scale-to-width-down/60?cb=20210816215057",
+        "content": "[1 enemy] Inflicts 23% of ATK as damage to 1 enemy 3 time(s), and recovers the HP of the ally with the lowest HP ratio by 15% of your MAX HP.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Spinning Crystal",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Light_Flashwingheroability2.png/revision/latest/scale-to-width-down/60?cb=20210816215112",
+        "content": "[All Allies] Grants a [Shield] Effect that's proportionate to 10% of the ally's MAX HP on the ally for 1 turn(s).",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Awakened Abilities",
+        "abilities": [
+          {
+            "name": "Light Crystal Lighthouse (Passive)",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Light_Flashwingheroability3.png/revision/latest/scale-to-width-down/60?cb=20210816215137",
+            "content": "Grants the [Debuff Effect Immunity] Effect on yourself for 1 turn(s) if your Endurance is below 1 when the turn begins.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 0,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Crystal Dust (Leader)",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Light_Flashwingheroability4.png/revision/latest/scale-to-width-down/60?cb=20210816215146",
+            "content": "[All Allies] Increases your MAX HP by 10% in battle. Increases the MAX HP of team members by 10% in battle.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 0,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "light-flashwing",
@@ -32,7 +117,7 @@
         "Crystal Lighthouse",
         "Crystal Dust"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Light_Flashwing"
     }
   ]
