@@ -4,20 +4,111 @@
   "species": "Triceratops",
   "gender": "Male",
   "element": "Earth",
+  "role": "Legendary Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Legendary Tri-Tip is the Legendary counterpart of Tri-Tip in Skylanders: Imaginators.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it. Legendary Tri-Tip has earned the honor to wear the prestigious Legendary Red and Gold Armor.",
-  "personality": null,
-  "story": null,
+  "quote": "Face the Mace!",
+  "personality": "As a Legendary Sensei, Tri-Tip is a disciplined and powerful guardian of Skylands, honored for his combat prowess.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it. Legendary Tri-Tip has earned the honor to wear the prestigious Legendary Red and Gold Armor.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/96/Legendary_Tri-Tip.jpg/revision/latest/scale-to-width-down/268?cb=20161009005520"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official catchphrase",
+      "content": [
+        "Face the Mace!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Unlike the previous Legendary Skylanders, Legendary Tri Tip has red instead of dark blue in his color scheme. This also happens with Legendary Pit Boss."
+  ],
+  "trailers": [],
+  "gameplay": "Legendary Tri-Tip is an Earth Smasher who uses his mace and triceratops strength to dominate the battlefield.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Tri-Tip",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Mace Smash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/96/Legendary_Tri-Tip.jpg/revision/latest?cb=20161009005520",
+        "content": "Tri-Tip swings his mighty mace to crush enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4a3425",
+          "bg_content": "#6e4e37"
+        }
+      },
+      {
+        "name": "Dino Dash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/96/Legendary_Tri-Tip.jpg/revision/latest?cb=20161009005520",
+        "content": "Tri-Tip charges forward to knock back foes.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4a3425",
+          "bg_content": "#6e4e37"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Summon Fossil Traps",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/96/Legendary_Tri-Tip.jpg/revision/latest?cb=20161009005520",
+        "content": "Summons fossil traps to entangle enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4a3425",
+          "bg_content": "#6e4e37"
+        }
+      },
+      {
+        "name": "Mightier Mace",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/96/Legendary_Tri-Tip.jpg/revision/latest?cb=20161009005520",
+        "content": "Increases the power of mace attacks.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4a3425",
+          "bg_content": "#6e4e37"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Historic Preservation",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/96/Legendary_Tri-Tip.jpg/revision/latest?cb=20161009005520",
+        "content": "An ancient preservation technique that grants ultimate power.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4a3425",
+          "bg_content": "#6e4e37"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "legendary-tri-tip",
@@ -33,7 +124,7 @@
         "Mightier Mace",
         "Historic Preservation"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Tri-Tip"
     }
   ]
