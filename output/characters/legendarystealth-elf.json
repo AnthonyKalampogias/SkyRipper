@@ -27,8 +27,8 @@
     {
       "story_name": "Biography",
       "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/L-StealthElf_Promo.jpg/revision/latest?cb=20170304031802"
     }
   ],
   "quotes": [
@@ -44,13 +44,13 @@
     "For some unknown reason, in Arbor Day, her leggings are gold instead of dark blue."
   ],
   "trailers": [],
-  "gameplay": "Legendary Stealth Elf is a fast-paced melee fighter who uses her Dragonfang Daggers and stealth abilities to outmaneuver enemies. She can create decoys to confuse opponents while closing in for rapid-fire slashing attacks.",
+  "gameplay": "Legendary Stealth Elf is a fast-paced melee fighter who uses her Dragonfang Daggers and stealth abilities to outmaneuver enemies. She can create decoys to confuse opponents while closing in for rapid-fire slashing attacks. In Skylanders: Giants, she benefits from improved stats as a Legendary hero.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Stealth_Elf",
   "abilities": {
     "basic": [
       {
         "name": "Blade Slash",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/L-StealthElf_Promo.jpg",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/L-StealthElf_Promo.jpg/revision/latest?cb=20170304031802",
         "content": "A quick melee attack with her daggers.",
         "is_primary": true,
         "is_secondary": false,
@@ -62,7 +62,7 @@
       },
       {
         "name": "Stealthier Decoy",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/L-StealthElf_Promo.jpg",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/L-StealthElf_Promo.jpg/revision/latest?cb=20170304031802",
         "content": "Creates a decoy to distract enemies while turning invisible.",
         "is_primary": false,
         "is_secondary": true,
@@ -76,7 +76,7 @@
     "basic_upgrades": [
       {
         "name": "Dragonfang Daggers",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/L-StealthElf_Promo.jpg",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/L-StealthElf_Promo.jpg/revision/latest?cb=20170304031802",
         "content": "Upgraded daggers that deal increased damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -90,7 +90,7 @@
     "soulgems": [
       {
         "name": "Elf Jitsu",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/L-StealthElf_Promo.jpg",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/L-StealthElf_Promo.jpg/revision/latest?cb=20170304031802",
         "content": "A powerful martial arts technique that enhances her combat prowess.",
         "is_primary": false,
         "is_secondary": false,
@@ -105,7 +105,7 @@
       {
         "season": 2,
         "name": "Arboreal Acrobatics",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/L-StealthElf_Promo.jpg",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/L-StealthElf_Promo.jpg/revision/latest?cb=20170304031802",
         "content": "A powerful acrobatic move exclusive to Series 2 Stealth Elf.",
         "is_primary": false,
         "is_secondary": false,
