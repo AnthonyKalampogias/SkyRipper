@@ -4,6 +4,7 @@
   "species": "Dragon",
   "gender": "Male",
   "element": "Magic",
+  "role": "Legendary Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -17,20 +18,164 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Legendary Spyro is the Legendary counterpart of Spyro from Skylanders: Spyro's Adventure, exclusive to the original Toys' R' Us Legendary Pack (with Legendary Chop Chop and Legendary Bash). In the United States, the legendary three pack was sold exclusively through the Toys R' Us chain of toy stores for a limited time.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "quote": "All Fired Up!",
+  "personality": "Legendary Spyro is a skilled and versatile combatant, recognized for his legendary status and prowess in the arenas of sport. He shares the same courageous and determined traits as his standard counterpart.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "All Fired Up!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He has the same promotional art as Dark Spyro, despite having regular Spyro's catchphrase.",
+    "This is the only version of Spyro without a Mega Ram toy."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventures Extraction- Legendary Spyro (Wii)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventures_Extraction-_Legendary_Spyro"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Legendary Spyro Preview (All Fired Up) (PS3 & Xbox 360)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Legendary_Spyro_Preview_(All_Fired_Up)"
+    },
+    {
+      "name": "Skylanders- Spyro's Adventure - Legendary Spyro Preview Trailer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders-_Spyro%27s_Adventure_-_Legendary_Spyro_Preview_Trailer"
+    }
+  ],
+  "gameplay": "Much like his normal counterpart, Legendary Spyro can charge at his enemies and knock down obstacles with his horns whilst infusing them with the element of fire. Being a dragon he also has the ability to fly. In gameplay terms, Legendary Spyro is a versatile character, being both effective at close range combat with his Charge and Earth Pound attacks, and capable at mid and long-range combat with his Flameballs. His upgrade paths either let him specialize in large area of effect damage with his Flameball's firebreath, or adding additional strength to his Charge. His upgrades are also the same as normal Spyro.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Spyro",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Fire Breath",
+        "imgPath": "Fire_Breath.png",
+        "content": "Legendary Spyro shoots a fireball at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Horn Charge",
+        "imgPath": "Horn_Charge.png",
+        "content": "Legendary Spyro charges with his horns to knock down obstacles and enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Spyro's Flight",
+        "imgPath": "Spyros_Flight.png",
+        "content": "Legendary Spyro takes to the air.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Triple Flameballs",
+        "imgPath": "Triple_Flameballs.png",
+        "content": "Shoot three flameballs at once.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Fire Shield",
+        "imgPath": "Fire_Shield.png",
+        "content": "A powerful fire shield that protects and damages nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Sheep Burner",
+        "abilities": [
+          {
+            "name": "Sheep Burner",
+            "imgPath": "Fire_Breath_Upgrade.png",
+            "content": "Flameball's firebreath deals large area of effect damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Blitz Spyro",
+        "abilities": [
+          {
+            "name": "Blitz Spyro",
+            "imgPath": "Horn_Charge_Upgrade.png",
+            "content": "Additional strength and damage for the Horn Charge.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "legendary-spyro",
       "variant_name": "Legendary Spyro",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Legendary",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/2/2c/L-Spyro.jpg",
       "attacks": [
@@ -40,7 +185,28 @@
         "Triple Flameballs",
         "Fire Shield"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 (Lv. 10: 560)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (Max: 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (Max: 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (Max: 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (Max: 100)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Spyro"
     }
   ]
