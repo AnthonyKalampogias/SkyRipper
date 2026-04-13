@@ -4,20 +4,91 @@
   "species": "Sky Baron",
   "gender": "Male",
   "element": "Light",
+  "role": "Skylander",
   "primary_game": "Skylanders: Ring of Heroes (Beta and 1.0)",
   "appearances": [
     "Skylanders: Ring of Heroes (Beta and 1.0)"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Light Jet-Vac provides battle support for his allies using the Light element. He was a Light element alter-ego of the Air Skylander Jet-Vac in the beta and 1.0 version of Skylanders: Ring of Heroes. Though he had the same stats as his regular counterpart, he had an extra skill for a more aggressive approach to healing.",
+  "biography": "Light Jet-Vac was a Light element alter-ego of the Air Skylander Jet-Vac in the beta and 1.0 version of Skylanders: Ring of Heroes. Though he had the same stats as his regular counterpart, he had an extra skill for a more aggressive approach to healing. Light Jet-Vac provides battle support for his allies using the Light element.",
+  "quote": "Hawk and Awe!",
+  "personality": "Noble and brave, Light Jet-Vac is a dedicated Sky Baron who adheres to a strict sense of duty. While typically serious, this version is known for a notorious laugh when idling, showcasing a slightly more aggressive and confident persona compared to his Air counterpart.",
+  "story": [
+    {
+      "story_name": "Light Alter-Ego",
+      "content": "Light Jet-Vac was a Light element alter-ego of the Air Skylander Jet-Vac in the beta and 1.0 version of Skylanders: Ring of Heroes. Though he had the same stats as his regular counterpart, he had an extra skill for a more aggressive approach to healing. He was the only male Light elemental counterpart of a Skylander from another element.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e3/Light_Jet_Vac.png/revision/latest/scale-to-width-down/268?cb=20180617154112"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Hawk and Awe!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Because of his element change, Light Jet-Vac's belt symbol is changed as well.",
+    "While regular Jet-Vac had a generic sound effect when idling, Light Jet-Vac had a notorious laugh, which oddly isn't heard in other games or in the TV show.",
+    "Light Jet Vac was the only male Light elemental counterpart of a Skylander from another element.",
+    "He was also the only Light Skylander absent in the revamped version of Ring of Heroes.",
+    "He and Shadow Spitfire are the only Skylanders from the beta and 1.0 version of ROH absent in the revamp."
+  ],
+  "trailers": [],
+  "gameplay": "Light Jet-Vac provides battle support for his allies using the Light element. He features a mix of offensive shielding and high-utility team healing, utilizing his vacuum technology to harness Light energy.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Light_Jet-Vac",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Vac Blaster (Active)",
+        "imgPath": "Light_Jet-Vacheroability1.png",
+        "content": "[1 enemy] Blasts a gust of air towards the enemy and gains a [SHIELD] for 2 turn(s).",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 2,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Shoot the Breeze! (Active)",
+        "imgPath": "Light_Jet-Vacheroability2.png",
+        "content": "[All Allies] [Heals] all allies in proportion to his max HP. Grants [Wide Range DMG DOWN] on all allies for 1 turn (s).",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 6,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Eagle-Air Gear (Passive)",
+        "imgPath": "Light_Jet-Vacheroability3.png",
+        "content": "[SELF] For every 5 attacks received, heals a small amount of HP and restocks [Endurance by 10] of the ally with the lowest Endurance. Further grants [Strength] for 2 turn(s).",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "light-jet-vac",
@@ -31,7 +102,7 @@
         "Shoot the Breeze!",
         "Eagle-Air Gear"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Light_Jet-Vac"
     }
   ]
