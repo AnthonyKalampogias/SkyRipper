@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-13T09:21:29.588Z",
+  "last_run": "2026-04-13T21:11:47.115Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -691,7 +691,7 @@
     },
     {
       "name": "Jawbreaker",
-      "sha": "bab97b8475781386e762864974b2b5bff1fc7ede3504e7ff36c25b3f928d98dc"
+      "sha": "fd2b32ca0e9acb54ac651c6502543f0f91502b33fe2170b1a2f939ec7b93df8f"
     },
     {
       "name": "Jet-Vac",
@@ -747,7 +747,7 @@
     },
     {
       "name": "Knight Light",
-      "sha": "98a0991d71698011fc5ac6b24ab36ca96e6d54dacdc37ef2a4af122c81ef8b70"
+      "sha": "cd4b04aa5ce2d47698f77ccfc92dee011fc0af701c66fb76f687fff654faf907"
     },
     {
       "name": "Legendary Astroblast",
@@ -843,7 +843,7 @@
     },
     {
       "name": "Legendary Stealth Elf",
-      "sha": "0e6adb55415cbde8ac709ea208c4f8b61e9dbfbe79fbc59cc11d21aea6477fce"
+      "sha": "e7bacdd48251d6cd449a0d056790d0d9d28dcd83b0b56002f33eb649c3db1b88"
     },
     {
       "name": "Light Flashwing",
@@ -856,6 +856,14 @@
     {
       "name": "Light Jet-Vac",
       "sha": "4b99c4cf9287014796c49d88c889bff8e92fd74b3351d39033d9f88025a3b985"
+    },
+    {
+      "name": "LightCore Skylanders",
+      "sha": "d87a3d4c38fc457457cdf88f34d77cdda4dc850d6b2e4a7dfd6df3a84602a253"
+    },
+    {
+      "name": "Lightning Rod",
+      "sha": "45b1ba3cfc2c55064fadabf281cb1c2312fcdfd4a7e3b4174aa9066673afbb13"
     }
   ]
 }
