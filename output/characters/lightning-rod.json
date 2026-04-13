@@ -4,6 +4,7 @@
   "species": "Storm Giant",
   "gender": "Male",
   "element": "Air",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -18,24 +19,308 @@
     "Trigger Happy Targets the Evil Kaos",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators",
-    "Skylanders: Ring of Heroes}}"
+    "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Stump Smash Crosses the Bone Dragon",
+  "cameos": [
+    "Stump Smash Crosses the Bone Dragon"
+  ],
   "world": [
     "The Cloud Kingdom"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Lightning Rod once lived in the majestic Cloud Kingdom , where his countless acts of heroism along with his winning smile and electric physique made him the most famous storm giant in the realm. He was a true celebrity, and the palace halls were littered with statues of the chiseled hero. But all the praise and admiration could never quite satisfy Rod, who yearned for something more. As luck would have it, he met an adventurous young dragon named Spyro , who told him fantastic stories of faraway places and dangerous adventures. Rod was spellbound, and he set off with Spyro to seek an audience with Eon to join the Skylanders.",
-  "personality": "Lightning Rod prides himself on being the most macho of all the other storm giants in Skylands &#91; 2 &#93; , though he isn't used to sharing the spotlight. He is brave, but can also be charming and charismatic. Lightning Rod even considers everyone else in Skylands to be 'girlie', especially girls, and few are brave enough to argue with him! &#91; 3 &#93; &#160;He is fully aware of his own monumental talents and is happy to blow his own trumpet, but happier to blast evildoers with thunder and lightning. &#91; 4 &#93;",
-  "story": null,
+  "description": "Lightning Rod is an Air storm giant Skylander from Skylanders: Spyro's Adventure.",
+  "biography": "Lightning Rod once lived in the majestic Cloud Kingdom, where his countless acts of heroism along with his winning smile and electric physique made him the most famous storm giant in the realm. He was a true celebrity, and the palace halls were littered with statues of the chiseled hero. But all the praise and admiration could never quite satisfy Rod, who yearned for something more. As luck would have it, he met an adventurous young dragon named Spyro, who told him fantastic stories of faraway places and dangerous adventures. Rod was spellbound, and he set off with Spyro to seek an audience with Eon to join the Skylanders.",
+  "quote": "One Strike and You're Out!",
+  "personality": "Lightning Rod prides himself on being the most macho of all the other storm giants in Skylands, though he isn't used to sharing the spotlight. He is brave, but can also be charming and charismatic. Lightning Rod even considers everyone else in Skylands to be 'girlie', especially girls, and few are brave enough to argue with him! He is fully aware of his own monumental talents and is happy to blow his own trumpet, but happier to blast evildoers with thunder and lightning.",
+  "story": [
+    {
+      "story_name": "Lightning Rod Faces the Cyclops Queen",
+      "content": "At the start of the Annual Storm Titan Games, Lightning Rod accidentally hurled a large hammer in the path of Flynn's balloon, causing it to spiral out of the control. Master Eon sends Lightning Rod and a team of Skylanders to Tempest Towers to claim the Air fragment of the Mask of Power before Kaos. After escaping a Land Whale's hypnosis and hurling it from the towers, Lightning Rod discovered the true Air fragment was one of the city's towers made of Cyclopnite. He used one of Pop Fizz's potions to grow to a humongous size to carry the heavy tower back to safety.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Lighting_Rod_Cannonball.jpg/revision/latest/scale-to-width-down/180?cb=20130915180554"
+    },
+    {
+      "story_name": "Stump Smash Crosses the Bone Dragon",
+      "content": "Lightning Rod and Zoo Lou were assigned by Spyro to search Fantasm Forest for Master Eon, who was kidnapped by Squirmgrub. Later, when Stump Smash and his group were stranded by the rampaging Bone Dragon, Lightning Rod saw their distress signal and whipped up a strong gale that blew them all back to the Eternal Archives.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Trigger Happy Targets the Evil Kaos",
+      "content": "Lightning Rod was among the Skylanders who assembled to stop Kaos from using the completed Mask of Power. At Kaos' Kastle, the storm giant provided floating clouds for non-flying Skylanders. Though Kaos initially stole their powers with the Mask, the Skylanders ultimately tricked him into overcharging his abilities, allowing them to destroy the Mask and restore their powers.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "One Strike and You're Out!",
+        "A jolt from the heavens!",
+        "Todays forecast: Me!",
+        "Lightning shall reign!",
+        "A shower of power!",
+        "Feel my thunder!",
+        "This bolt's for you!",
+        "Bring forth the thunder!",
+        "You cannot hold back nature!",
+        "Storm coming through!",
+        "These stats are shocking!",
+        "Those numbers are electrifying!",
+        "This mustn't mess with my hair!",
+        "A crown fit for a king!",
+        "So be it!",
+        "I am known by many names."
+      ]
+    },
+    {
+      "quote_type": "Media Quotes",
+      "content": [
+        "Behold! Christmas wishes from all the many great heroes of Skylands!"
+      ]
+    },
+    {
+      "quote_type": "Book Quotes",
+      "content": [
+        "By my beard and biceps, I shall save them!",
+        "Lightning Rod. Champion of the Cloud Kingdom. Master of Lightning. Winner of the mightiest beard ten years running. You have heard of me, yes?"
+      ]
+    }
+  ],
+  "trivia": [
+    "Lightning Rod seems to be based on Zeus from Greek Mythology.",
+    "Lightning Rod, the Leviathan and Persephone are the only three characters to be based on Greek Mythology.",
+    "Lightning Rod was the first Skylander whose toy stand is also part of his body. The second was Nightfall with her hair forming the base.",
+    "He is the only Air Skylander who doesn't fly, though he is considered already a flying Skylander, as he is levitating.",
+    "Lightning Rod was invited by Master Eon to join the Skylanders after witnessing the storm giant drive away Kaos with a powerful lightning bolt, though his official biography differs.",
+    "Though Lightning Rod's species is Storm Giant, his Skylander class is not a Giant.",
+    "His hair is purple in some of his upgrade pictures, though this was fixed in Skylanders: Giants.",
+    "Lightning Rod, Warnado, and Jet-Vac are the only Air Skylanders who don't need wings to fly.",
+    "His catchphrase is a pun on 'Three Strikes And You're Out!'",
+    "Lightning Rod is voiced by Alex Ness, who also voices Drobot, Double Trouble, Broccoli Guy and the Chompy Mage.",
+    "His Series 2's Wow Pow is a reference to the Kamehameha from Dragon Ball."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventure - Lightning Rod Trailer (One Strike and You're Out)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Lightning_Rod_Trailer_(One_Strike_and_You%27re_Out)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Lightning Rod Preview Trailer (One Strike and You're Out)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Lightning_Rod_Preview_Trailer_(One_Strike_and_You%27re_Out)"
+    },
+    {
+      "name": "Meet the Skylanders Lightning Rod (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Lightning_Rod_(extended)"
+    },
+    {
+      "name": "Meet the Skylanders Series 2 Lightning Rod",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Series_2_Lightning_Rod"
+    }
+  ],
+  "gameplay": "Lightning Rod can throw bolts of lightning at his enemies, he can also summon a powerful blast of lightning from above and control where it strikes. Lightning Rod can even produce an electrical field from his cloud torso. In the Mask of Power novels, it has been revealed that Lightning Rod has god-like strength, as he was able to lift a 400 ton hammer and hurl it far, as well as take a cannon ball blast to the chest without any damage or harm. He could also control the weather in different ways, whether it would be creating a thunder storm, or creating mighty winds. Being a storm giant, he can fly, and create clouds that allow others to fly as well.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Lightning_Rod",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Lightning Bolt",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Lightning_Rodprimarypower.png/revision/latest?cb=20241021181122",
+        "content": "Throw a lightning bolt at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Grand Lightning Summoning",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Lightning_Rodsecondarypower.png/revision/latest?cb=20241021181212",
+        "content": "Bring lightning down from the sky and control where it moves.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Lightning Lancer",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b0/Lightning_Rodbasicupgrade1.png/revision/latest?cb=20241021181345",
+        "content": "Lightning Bolt does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Thunderation",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b2/Lightning_Rodbasicupgrade2.png/revision/latest?cb=20241021181425",
+        "content": "Grand Lightning attack lasts longer and does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Zapper Field",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Lightning_Rodbasicupgrade3.png/revision/latest?cb=20241021181459",
+        "content": "Create a electrical storm that damages enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Lightning Harpoon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0a/Lightning_Rodbasicupgrade4.png/revision/latest?cb=20241021181540",
+        "content": "Lighting Bolts stick into enemies and continue to damage them.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Zapper Field Deluxe",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/39/Lightning_Rodsoulgempower.png/revision/latest?cb=20241021181304",
+        "content": "Zapper Field and clouds do extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Big Bolt",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d6/Lightning_Rodwowpowpower.png/revision/latest?cb=20140111112005",
+        "content": "Hold Attack 1 to throw the biggest bolt of lightning known to man!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Lightning Lord",
+        "abilities": [
+          {
+            "name": "Faster Caster",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Lightning_Rodpath1upgrade1.png/revision/latest?cb=20241021181608",
+            "content": "Summon the Grand Lightning attack much faster.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Electricity City",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/89/Lightning_Rodpath1upgrade2.png/revision/latest?cb=20241021181636",
+            "content": "Grand Lightning attack has even more power and does more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Lightning Avatar",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Lightning_Rodpath1upgrade3.png/revision/latest?cb=20241021181703",
+            "content": "Summon the most powerful Grand Lightning attack ever!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Typhoon Titan",
+        "abilities": [
+          {
+            "name": "Cloud Zapper Satellite",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Lightning_Rodpath2upgrade1.png/revision/latest?cb=20241021181802",
+            "content": "A protective cloud follows you and zaps any enemies that come near.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Zappier Sats",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Lightning_Rodpath2upgrade2.png/revision/latest?cb=20241021181830",
+            "content": "Protective zapper clouds do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Zapper Satellite Defense",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Lightning_Rodpath2upgrade3.png/revision/latest?cb=20241021181857",
+            "content": "A third protective cloud joins you.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "lightning-rod",
+      "id": "lightning-rod-s1",
       "variant_name": "Lightning Rod",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core Skylander",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/6/65/LightningRod_01.jpg",
       "attacks": [
@@ -45,7 +330,99 @@
         "Zapper Field",
         "Lightning Avatar"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (max. 580)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46 (max. 96)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "65"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "65"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Lightning_Rod"
+    },
+    {
+      "id": "lightning-rod-s2",
+      "variant_name": "Series 2 Lightning Rod",
+      "edition": "Series 2",
+      "type": "Core Skylander",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Lightning_Rod_Series_2.jpg",
+      "attacks": [
+        "Lightning Bolt",
+        "Grand Lightning Summoning",
+        "Thunderation",
+        "Zapper Field",
+        "Lightning Avatar",
+        "Big Bolt (Wow Pow)"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "435 (max. 870)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "75"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "65"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "75"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Lightning_Rod"
     }
   ]
