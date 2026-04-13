@@ -4,6 +4,7 @@
   "species": "Gremlin",
   "gender": "Male",
   "element": "Tech",
+  "role": "Legendary Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -17,20 +18,126 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Champions (comic cover)",
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical , golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "cameos": [
+    "Champions (comic cover)"
+  ],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Legendary Trigger Happy is the Legendary counterpart of Trigger Happy. Unlike the other Legendary characters in Skylanders: Spyro's Adventure, Legendary Trigger Happy is not available in the Legendary Character 3-pack (Legendary Bash, Legendary Chop Chop, and Legendary Spyro).",
+  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+  "quote": "No Gold, No Glory!",
+  "personality": "Like his normal counterpart, he is known for firing a barrage of gold coins from his guns. As a Legendary Skylander, he is one of the greatest combatants immortalized as a golden statue to stand watch as a guardian of Skylands.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Legendary_Trigger_Happy.jpg/revision/latest/scale-to-width-down/268?cb=20120424173458"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "No Gold, No Glory!"
+      ]
+    }
+  ],
+  "trivia": [
+    "In the game, Legendary Trigger Happy is light blue but his toy form color is much darker, almost blackish.",
+    "He has gold teeth, but in his toy form, they are white."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventures Extraction- Legendary Trigger Happy",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventures_Extraction-_Legendary_Trigger_Happy"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Legendary Trigger Happy Preview Trailer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Legendary_Trigger_Happy_Preview_Trailer"
+    }
+  ],
+  "gameplay": "Like his normal counterpart, Legendary Trigger Happy can fire a barrage of gold coins at his enemies from his two guns. He can also hurl a pot of gold, fire away at his opponents using a machine gun filled with coins, and release two yellow beams from his guns after charging them up.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Trigger_Happy",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Gold Coin Shooters",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Legendary_Trigger_Happy.jpg/revision/latest/scale-to-width-down/268?cb=20120424173458",
+        "content": "Legendary Trigger Happy fires a barrage of gold coins at his enemies from his two guns.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5B00",
+          "bg_content": "#FFF9E5"
+        }
+      },
+      {
+        "name": "Safe Cracker Bomb",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Legendary_Trigger_Happy.jpg/revision/latest/scale-to-width-down/268?cb=20120424173458",
+        "content": "Hurls a safe-cracker bomb to damage enemies in an area.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5B00",
+          "bg_content": "#FFF9E5"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Pot O' Gold",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Legendary_Trigger_Happy.jpg/revision/latest/scale-to-width-down/268?cb=20120424173458",
+        "content": "Legendary Trigger Happy can hurl a pot of gold at his opponents.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5B00",
+          "bg_content": "#FFF9E5"
+        }
+      },
+      {
+        "name": "Golden Super Charge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Legendary_Trigger_Happy.jpg/revision/latest/scale-to-width-down/268?cb=20120424173458",
+        "content": "Charges up guns to release two yellow beams.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5B00",
+          "bg_content": "#FFF9E5"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Coinsplosion",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Legendary_Trigger_Happy.jpg/revision/latest/scale-to-width-down/268?cb=20120424173458",
+        "content": "Fire away at opponents using a machine gun filled with coins.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5B00",
+          "bg_content": "#FFF9E5"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "legendary-trigger-happy",
       "variant_name": "Legendary Trigger Happy",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Legendary",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Legendary_Trigger_Happy.jpg",
       "attacks": [
@@ -40,7 +147,28 @@
         "Golden Super Charge",
         "Coinsplosion"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "200 (Lv. 10: 400)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (Max: 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "42 (Max: 72)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50 (Max: 100)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (Max: 100)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Trigger_Happy"
     }
   ]
