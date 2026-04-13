@@ -4,6 +4,7 @@
   "species": "Yeti",
   "gender": "Male",
   "element": "Water",
+  "role": "Legendary Skylander",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -13,22 +14,113 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
   "description": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "biography": "Legendary Slam Bam is the playable Legendary counterpart of Slam Bam in Skylanders: Giants. For centuries, Legendary Skylanders have competed in gladiator-style events inside epic arenas of sport, immortalized as golden statues.",
+  "quote": "Armed and Dangerous!",
+  "personality": "As a Legendary Skylander, Slam Bam is recognized as one of the greatest combatants in history. He is a stalwart guardian of Skylands, brought to life from his golden statue form only when the world is in dire peril.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2a/L-SlamBam_Promo.jpg/revision/latest?cb=20170304031745"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Armed and Dangerous!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Before upgrading Legendary Slam Bam, the only thing golden is his nails.",
+    "If you choose the Glacier Hit path and fully upgrade Legendary Slam Bam, the only thing golden will be his nails and eyewear.",
+    "Legendary Slam Bam and Starcast are similar in that both have four arms, a gold and dark blue color scheme, and are hunched with hair on the back of their heads."
+  ],
+  "trailers": [],
+  "gameplay": "Legendary Slam Bam features enhanced starting statistics compared to his standard counterpart. He focuses on powerful melee combat with his four arms and utility through ice-based trapping abilities.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Slam_Bam",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Yeti Fists",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2a/L-SlamBam_Promo.jpg/revision/latest?cb=20170304031745",
+        "content": "Slam Bam uses his four arms to deliver powerful punches to his enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#105888",
+          "bg_content": "#2890C8"
+        }
+      },
+      {
+        "name": "Ice Prison",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2a/L-SlamBam_Promo.jpg/revision/latest?cb=20170304031745",
+        "content": "Create a block of ice to trap and freeze enemies in their tracks.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#105888",
+          "bg_content": "#2890C8"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Arctic Explosion",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2a/L-SlamBam_Promo.jpg/revision/latest?cb=20170304031745",
+        "content": "A powerful icy blast that damages surrounding enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#105888",
+          "bg_content": "#2890C8"
+        }
+      },
+      {
+        "name": "Yeti Ice Shoes",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2a/L-SlamBam_Promo.jpg/revision/latest?cb=20170304031745",
+        "content": "Icy shoes that allow Slam Bam to slide across the ground.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#105888",
+          "bg_content": "#2890C8"
+        }
+      },
+      {
+        "name": "Ice Knuckles",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2a/L-SlamBam_Promo.jpg/revision/latest?cb=20170304031745",
+        "content": "Increases the power and reach of Slam Bam's punches.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#105888",
+          "bg_content": "#2890C8"
+        }
+      }
+    ],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "legendary-slam-bam",
       "variant_name": "Legendary Slam Bam",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Legendary",
+      "type": "Legendary",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/2/2a/L-SlamBam_Promo.jpg/revision/latest?cb=20170304031745",
       "attacks": [
@@ -38,7 +130,44 @@
         "Yeti Ice Shoes",
         "Ice Knuckles"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "310"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "36"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "95"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "95"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "40"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Slam_Bam"
     }
   ]
