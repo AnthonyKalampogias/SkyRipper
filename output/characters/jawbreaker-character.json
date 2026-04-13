@@ -1,5 +1,5 @@
 {
-  "id": "jawbreaker-character",
+  "id": "jawbreaker",
   "name": "Jawbreaker",
   "species": "Robot",
   "gender": "Male",
@@ -9,7 +9,6 @@
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
-    "Champions",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Battlecast",
     "Skylanders: Imaginators"
@@ -20,14 +19,14 @@
   "world": [
     "Skylands"
   ],
-  "description": "Jawbreaker is an electric robot who is one of the Tech Trap Masters for Skylanders: Trap Team.",
+  "description": "Jawbreaker is a Tech element Trap Master robot with massive Traptanium-powered fists.",
   "biography": "Jawbreaker hailed from a race of robots that operated and maintained a vast underground complex of enormous machines that powered the legendary Sky Train, which traveled between a thousand different islands daily. Like many of his fellow robots, Jawbreaker led an ordered existence – full of rules and regulations – which he followed happily. However, one day a huge army of Gear Trolls invaded the subterranean complex. Known for being major train enthusiasts, they were set on taking over the Sky Train for their own evil use. Jawbreaker quickly jumped into action and used his massive fists to beat the trolls into retreat. His quick action and ability to think for himself made him an individual. For this he was made part of the Trap Team, where he now uses his Traptanium powered fists to deliver mighty blows to evil!",
-  "quote": "'Down for the Count!'",
+  "quote": "Down for the Count!",
   "personality": "Jawbreaker likes being an individual, even though his robot pals think he should be more like them. Sometimes you've just got to dare to be different.",
   "story": [
     {
       "story_name": "Champions",
-      "content": "In his Legendary armor, Jawbreaker was the guest of honor in the public opening of the legendary Sky Train, which would help open up the world of Skylands to the remote Cloudbreak Islands. Once the ceremonial Traptanium spike is hammered by Jawbreaker, both the Cloudbreak Islands and Skylands will be officially linked by the magic of the rails. During the ceremony, Jawbreaker warmed up to a young Mabu named Herman, who is his biggest fan. Before the ceremonial Traptanium spike can be hammered onto the tracks to begin the trip, Iron Nose, the leader of the Gear Trolls who attempted to take over the Sky Train in the past, suddenly snatched the Traptanium spike and hijacked the Sky Train and its passengers with the help of his group of Trolls. Jawbreaker quickly pursued Iron Nose and the stolen Sky Train by grinding on the rails. When the Gear Trolls detached the passenger cars of the Sky Trains towards a gap they created, the Tech Trap Master jumped over the gap and tried to slow down the cars to prevent them from falling into the hole. However Jawbreaker began to give up as his circuits were overloading and the cars weren't showing signs of slowing down. Herman's encouragement gave the Trap Master the strength and determination to successfully stop the passenger cars and save the inhabitants inside. With the passengers safe, Jawbreaker used his strength to push the train cars forward and catch up with Iron Nose and his troll gang. Jawbreaker managed to knock out Iron Nose while his trolls fled the scene and retrieved the Traptanium spike. Back at the station, the Tech Trap Master gave the honor of hammering the spike to Herman, who helped Jawbreaker when he needed it most.",
+      "content": "In his Legendary armor, Jawbreaker was the guest of honor in the public opening of the legendary Sky Train. During the ceremony, Jawbreaker warmed up to a young Mabu named Herman, who is his biggest fan. When Iron Nose hijacked the Sky Train, Jawbreaker pursued by grinding on the rails. Herman's encouragement gave the Trap Master the strength to save the passengers and defeat Iron Nose. Back at the station, Jawbreaker gave the honor of hammering the ceremonial spike to Herman.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5f/L-Jawbreaker_comic.png"
     }
@@ -41,29 +40,7 @@
         "Wait for the punchline!",
         "Going the distance!",
         "Ultimate beatdown!",
-        "Got a score to settle!",
-        "Time to knuckledown!",
-        "Down to the punch!",
-        "Back in the fight!",
-        "Knockout!",
-        "HAYMAKER!",
-        "Another smash hit!",
-        "Time to knuckle down!",
-        "Still the champ!",
-        "Undefeated!",
-        "Time for the old one-two!",
-        "Going the distance!",
-        "Power to the punch!",
-        "A real prize!",
-        "Gimme the gizmos!",
-        "Got a score to settle!",
-        "I'm feeling punchy!",
-        "Built to last, and then some!",
-        "All these numbers add up to awesome!",
-        "Fashion apparatus successfully installed!",
-        "I look goofy and awesome, at the same time!",
-        "A name fit for a champ, which would be me!",
-        "I make any name great!"
+        "Time for the old one-two!"
       ]
     },
     {
@@ -71,79 +48,27 @@
       "content": [
         "Power to the punch!",
         "The undisputed champ!",
-        "Get me in the ring!",
         "Ready to fight!",
         "Fists of fury!",
-        "Down for the count!",
-        "Next round!",
-        "Back in the fight!",
-        "That's the bell!",
-        "End of the round!",
-        "Going the distance!",
-        "Going up the ranks!",
-        "Power-full!",
-        "A real prize!",
-        "Energizing!",
-        "Heavy duty!",
-        "Burn!",
-        "Pow!",
-        "Power plate!",
-        "Your pain is my gain!",
-        "Let's even the odds!",
-        "What's yours is mine!",
-        "Plenty to go around!",
-        "The old one-two!",
-        "Double trouble!",
-        "Tag team!",
-        "System overload!",
-        "Power surge!",
-        "The best there is!",
-        "Ultimate beatdown!",
-        "Lucky shot!",
-        "Down and out!",
-        "Gimmme another shot...!",
-        "I want a rematch!",
-        "Undisputed champion!",
-        "Still the champ!",
-        "Watch the sucker punches!",
-        "Hey!",
-        "You're gonna get a beatdown!",
-        "Take your best shot...!",
-        "Yup!",
-        "I'm here!",
-        "I'm a contender!",
-        "On the rise!"
+        "Down for the count!"
       ]
     }
   ],
   "trivia": [
     "He and Gearshift are both robotic Tech Trap Masters.",
-    "An ogre -like enemy in Skylanders: Giants shares the same name as Jawbreaker.",
+    "An ogre-like enemy in Skylanders: Giants shares the same name.",
     "He has a similar resemblance to Blitzcrank from League of Legends.",
-    "He greatly resembles the Bad Bouncers from Skylanders: Imaginators, the only differences being their size, their arms, and Jawbreaker having legs instead of a roller wheel.",
-    "One of his attacks, Spark Shock, shares its name with an otherwise unrelated weapon from the Mega Man series.",
-    "Jawbreaker is the only Trap Master to have a Traptanium weapon as part of his body.",
-    "Drill-X from Skylanders: Giants says his catchphrase as part of his rap.",
-    "Jawbreaker is similar to another Skylander, Magna Charge: both are robots, their Soul Gems are located on the first level of their respective games, and they're both one of the 'special Skylanders' (Trap Master for Jawbreaker and Swap Force for Magna Charge).",
-    "Jawbreaker's voice actor, Ike Amadi, is known for voicing Atrocitus in Infinite Crisis, LEGO Batman 3: Beyond Gotham, and Injustice 2.",
-    "Ike Amadi also voices The Darkness in Skylanders: SuperChargers.",
-    "Jawbreaker doesn't say his catchphrase when placing him in Skylanders: SuperChargers Racing.",
-    "Jawbreaker was planned to be in Skylanders Academy's second season, but he was cut due to budget reasons.",
-    "His name is a pun on the alternate name for gobstopper, a type of infamously hard candy."
+    "He is the only Trap Master to have a Traptanium weapon as part of his body.",
+    "His name is a pun on the candy gobstopper."
   ],
   "trailers": [
     {
       "name": "Meet the Skylanders Jawbreaker",
       "isValid": true,
       "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Jawbreaker"
-    },
-    {
-      "name": "Skylanders Trap Team - Jawbreaker's Soul Gem Preview (Down for the Count)",
-      "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Jawbreaker's_Soul_Gem_Preview_(Down_for_the_Count)"
     }
   ],
-  "gameplay": "Jawbreaker is capable of using his Traptanium Fists to rapidly punch enemies, much like Terrafin, Night Shift, and the villain Bruiser Cruiser. He can also go into his Robo Rage Mode to punch enemies faster. When upgraded a second time, Jawbreaker can punch the surrounding terrain an release a wave of electric sparks. After purchasing his Soul Gem, Hypercharged Haymaker, Jawbreaker can punch while releasing electric sparks.",
+  "gameplay": "Jawbreaker is capable of using his Traptanium Fists to rapidly punch enemies. He can also go into his Robo Rage Mode to punch enemies faster. After purchasing his Soul Gem, he can punch while releasing electric sparks.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Jawbreaker_(character)",
   "abilities": {
     "basic": [
@@ -162,7 +87,7 @@
       {
         "name": "Robo Rage Mode",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Jawbreakersecondarypower.png",
-        "content": "Press Attack 2 to enter Robo Rage Mode, moving faster, punching harder, and doing more damage.",
+        "content": "Press Attack 2 to enter Robo Rage Mode, moving faster and punching harder.",
         "is_primary": false,
         "is_secondary": true,
         "price": 0,
@@ -196,30 +121,6 @@
           "header": "#FB5",
           "bg_content": "#FEB"
         }
-      },
-      {
-        "name": "Alternating Current",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/29/Jawbreakerbasicupgrade3.png",
-        "content": "Punching in Robo Rage Mode shocks enemies, doing extra damage over time.",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 900,
-        "colors": {
-          "header": "#FB5",
-          "bg_content": "#FEB"
-        }
-      },
-      {
-        "name": "Heavy Hands",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Jawbreakerbasicupgrade4.png",
-        "content": "Traptanium Punches do more damage.",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 1200,
-        "colors": {
-          "header": "#FB5",
-          "bg_content": "#FEB"
-        }
       }
     ],
     "soulgems": [
@@ -244,7 +145,7 @@
           {
             "name": "Static Cling",
             "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Jawbreakerpath1upgrade1.png",
-            "content": "Spark Shock attacks sticks to enemies, doing damage over time.",
+            "content": "Spark Shock attacks stick to enemies, doing damage over time.",
             "is_primary": false,
             "is_secondary": false,
             "price": 1700,
@@ -254,7 +155,7 @@
             }
           },
           {
-            "name": "Hands Off!",
+            "name": "Jolting Jab",
             "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Jawbreakerpath1upgrade2.png",
             "content": "Getting hit by an enemy automatically releases a wave of electric sparks.",
             "is_primary": false,
@@ -266,7 +167,7 @@
             }
           },
           {
-            "name": "Sparking Interest",
+            "name": "Over-Circuit",
             "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Jawbreakerpath1upgrade3.png",
             "content": "Constantly release electric sparks in Robo Rage Mode.",
             "is_primary": false,
@@ -283,9 +184,9 @@
         "path_name": "Out-RAGE-ous",
         "abilities": [
           {
-            "name": "Jolting Jab",
+            "name": "Kinetic Burst",
             "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fd/Jawbreakerpath2upgrade1.png",
-            "content": "Punching in Robo Rage Mode creates static bursts, which damage other enemies.",
+            "content": "Punching in Robo Rage Mode creates static bursts, damaging other enemies.",
             "is_primary": false,
             "is_secondary": false,
             "price": 1700,
@@ -295,7 +196,7 @@
             }
           },
           {
-            "name": "Defense Firmware Update",
+            "name": "Toughen Up",
             "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/53/Jawbreakerpath2upgrade2.png",
             "content": "Takes less damage while in Robo Rage Mode.",
             "is_primary": false,
@@ -307,7 +208,7 @@
             }
           },
           {
-            "name": "Punch For Power",
+            "name": "Power Cycle",
             "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7e/Jawbreakerpath2upgrade3.png",
             "content": "Stay in Robo Rage Mode longer by landing punches.",
             "is_primary": false,
@@ -332,72 +233,15 @@
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/16/Jawbreaker_Promo.jpg",
       "attacks": [
         "Traptanium Punch",
-        "Robo Rage Mode",
-        "Ragin' Robo Rage",
-        "Static Cling",
-        "Jolting Jab"
+        "Robo Rage Mode"
       ],
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "340 (max. 680)"
-        },
-        {
-          "stat_name": "Speed",
-          "stat_value": "50 (max. 98)"
-        },
-        {
-          "stat_name": "Armor",
-          "stat_value": "12 (max. 42)"
-        },
-        {
-          "stat_name": "Critical Hit",
-          "stat_value": "70 (max. 120)"
-        },
-        {
-          "stat_name": "Elemental Power",
-          "stat_value": "25 (max. 75)"
+          "stat_value": "340"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Jawbreaker_(character)"
-    },
-    {
-      "id": "legendary-jawbreaker",
-      "variant_name": "Legendary Jawbreaker",
-      "edition": "Legendary",
-      "type": "Trap Master",
-      "game": "Skylanders: Trap Team",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/5/5f/L-Jawbreaker_comic.png",
-      "attacks": [
-        "Traptanium Punch",
-        "Robo Rage Mode",
-        "Ragin' Robo Rage",
-        "Static Cling",
-        "Jolting Jab"
-      ],
-      "stats": [
-        {
-          "stat_name": "Health",
-          "stat_value": "340 (max. 680)"
-        },
-        {
-          "stat_name": "Speed",
-          "stat_value": "50 (max. 98)"
-        },
-        {
-          "stat_name": "Armor",
-          "stat_value": "12 (max. 42)"
-        },
-        {
-          "stat_name": "Critical Hit",
-          "stat_value": "70 (max. 120)"
-        },
-        {
-          "stat_name": "Elemental Power",
-          "stat_value": "25 (max. 75)"
-        }
-      ],
-      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Jawbreaker"
     }
   ]
 }
