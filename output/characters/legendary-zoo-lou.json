@@ -4,6 +4,7 @@
   "species": "Bear-like creature",
   "gender": "Male",
   "element": "Life",
+  "role": "Legendary Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -12,22 +13,129 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Legendary Zoo Lou is the Legendary counterpart of Zoo Lou in Skylanders: Swap Force.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "personality": null,
-  "story": null,
+  "quote": "Nature Calls!",
+  "personality": "As a Legendary Skylander, he is a dedicated guardian of Skylands, recognized as one of the greatest combatants immortalized in golden statues.",
+  "story": [
+    {
+      "story_name": "Legendary Background",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Introduction",
+      "content": "Legendary Zoo Lou is the Legendary counterpart of Zoo Lou in Skylanders: Swap Force.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Skylanders: Lost Islands",
+      "content": [
+        "'Those infernal Trolls are at it again with their strip mining, time to teach them a lesson!' - A Miner Thing quest quote",
+        "'We sent those Trolls packing Portal Master! Now to heal the land.' - A Miner Thing completion quote",
+        "'A symbol of Life and meditation will help undo the damage.' - Restoring the Balance quest quote"
+      ]
+    }
+  ],
+  "trivia": [
+    "Legendary Zoo Lou doesn't jump as high as the other Skylanders.",
+    "His staff is blue in his artwork, but is golden in-game and on his figure.",
+    "His shirt is gold on his artwork and figure, but is blue in-game.",
+    "In his artwork, the animal spirits are also blue. However in-game they are green, just like regular Zoo Lou's."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Legendary Zoo Lou",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Legendary_Zoo_Lou"
+    }
+  ],
+  "gameplay": "Legendary Zoo Lou features animal-summoning combat. Notably, he does not jump as high as other Skylanders.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Zoo_Lou",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Piggyback Ride",
+        "imgPath": "",
+        "content": "Lou uses his staff to smack enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Raging Boar",
+        "imgPath": "",
+        "content": "Lou summons a spectral boar to charge at enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Swoop Re-Loop",
+        "imgPath": "",
+        "content": "An upgraded attack involving bird spirits.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Thicker Pigskin",
+        "imgPath": "",
+        "content": "Increases the defense of the summoned boar.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Hunger of the Wolf",
+        "imgPath": "",
+        "content": "A powerful soul gem attack where a wolf spirit is summoned.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "legendary-zoo-lou",
       "variant_name": "Legendary Zoo Lou",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Legendary",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Legendary-zoo-lou.png/revision/latest?cb=20170304031657",
       "attacks": [
@@ -37,7 +145,28 @@
         "Thicker Pigskin",
         "Hunger of the Wolf"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Zoo_Lou"
     }
   ]
