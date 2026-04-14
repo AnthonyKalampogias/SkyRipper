@@ -4,6 +4,7 @@
   "species": "Lobster",
   "gender": "Male",
   "element": "Water",
+  "role": "Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -13,22 +14,270 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Star City"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Hailing from the depths of the undersea kingdom of Star City, Lob-Star was the head chef of his own five-star restaurant, often cooking for the King Fish himself. However, few knew that Lob-Star had secretly been training in a mysterious art of fighting known only to a few crustaceans. For a while, Lob-Star was able to keep the peace while still keeping his hidden identity. But when a giant Leviathan threatened to swallow up Lob-Star’s guests and capture the King Fish himself, he had no choice but to swim into action. Calling on every trick his mysterious training had taught him, Lob-Star defeated the Leviathan and drove it out of Star City. For risking everything, Lob-Star was recruited by Master Eon to join the Skylanders . Now, as part of the Trap Team, he uses his powerful Traptanium Throwing Stars to serve up defeat to anyone who threatens Skylands !",
-  "personality": "Lob-Star is a disciplined crustacean and a hard worker. He has been able to accomplish great things by being patient and understanding in his studies. &#91; 1 &#93;",
-  "story": null,
+  "description": "Lob-Star is a blue lobster who is one of the Water Trap Masters in Skylanders: Trap Team. Lob-Star can throw his Traptanium Ninja Stars which burst when it hits an enemy. His Secondary attack allows him to create steam blasts from his body, when charged it allows him to enter an steamed state, where his attack power and speed is increased. His third attack allows him to dash, which increases his speed, and damages enemies in his path.",
+  "biography": "Hailing from the depths of the undersea kingdom of Star City, Lob-Star was the head chef of his own five-star restaurant, often cooking for the King Fish himself. However, few knew that Lob-Star had secretly been training in a mysterious art of fighting known only to a few crustaceans. For a while, Lob-Star was able to keep the peace while still keeping his hidden identity. But when a giant Leviathan threatened to swallow up Lob-Star's guests and capture the King Fish himself, he had no choice but to swim into action. Calling on every trick his mysterious training had taught him, Lob-Star defeated the Leviathan and drove it out of Star City. For risking everything, Lob-Star was recruited by Master Eon to join the Skylanders. Now, as part of the Trap Team, he uses his powerful Traptanium Throwing Stars to serve up defeat to anyone who threatens Skylands!",
+  "quote": "Star Bright, Star Fight!",
+  "personality": "Lob-Star is a disciplined crustacean and a hard worker. He has been able to accomplish great things by being patient and understanding in his studies.",
+  "story": [
+    {
+      "story_name": "Light in the Dark",
+      "content": "Lob-Star was one of the Skylanders sought by Gearshift to tackle the incoming candy threat lead by Pain-Yatta. The lobster Trap Master took part in attacking an army of candy warriors along with his fellow Skylanders before they were forced to retreat to some castle ruins and hold out until help arrives. As they were cornered by the candy army within the fortress, Lob-Star and the other Skylanders served as Skylands' last line of defense, battling Pain-Yatta's army with all of their might. The candy army soon fell to pieces just as the Skylanders were becoming overwhelmed (thanks to the actions of the Light and Dark Skylanders in their fight against Pain-Yatta), earning the heroes their victory.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Star Bright, Star Fight!",
+        "All right!",
+        "Oh yeah!",
+        "Yes!",
+        "Back in the action!",
+        "Let's get cracking!",
+        "Full steam ahead!",
+        "Shooting star!",
+        "Right on!",
+        "The star of the show!",
+        "High tide!",
+        "Surf's up!",
+        "Barrier breached!",
+        "Nothing in my way!",
+        "Can't turn back the tide!",
+        "Aim for the stars!",
+        "In a pinch!",
+        "Making a splash!",
+        "Ooh, treasure trove!",
+        "Shelling out!",
+        "Ooh, the tide is rising!",
+        "The stars are aligning!",
+        "Star power!",
+        "Power surge!",
+        "Looks like I'm staying afloat!",
+        "My future is in the stars!",
+        "A fine swimming cap, not that I need it!",
+        "Only one word for this hat: SWELL! (Yeah, I said it)",
+        "This name is pretty catchy!",
+        "Something fishy about this name...and I like it!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Lob-Star's name is a play on 'lobster'.",
+    "Lob-Star and Wham-Shell are both crustacean Skylanders. Both characters also have star-related moves.",
+    "His catchphrase is a play on the children's rhyme 'Star light, star bright'.",
+    "He is the first Water Skylander with steam-based powers.",
+    "His gameplay is somewhat similar to Fryno's. They both have an ability that temporarily increases their power, and have a third attack that acts like a way to move faster.",
+    "His figure pose is based on his charging stance in the upgrade 'Double the Star Power'.",
+    "He is the fourth ninja Skylander, the first is Stealth Elf, second being Ninjini, and the third being Stink Bomb.",
+    "He and Stink Bomb also use shurikens, or ninja stars, and aren't elves. Lob-Star however, can't turn invisible like the others.",
+    "In his Soul Gem preview video, the starfish on his face is missing. Instead, it shows his black neckerchief concealing his mouth like a ninja mask.",
+    "Lob-Star is voiced by Kevin Schon, best known as the third voice of Timon from the Timon and Pumbaa TV series and The Lion Guard.",
+    "Schon is the one of the two voice actors of Timon to have a role in Skylanders (another being Quinton Flynn who also voices Dr. Krankcase).",
+    "An Awakened form version of Lob-Star was leaked in Skylanders: Ring of Heroes, but he never appeared in the final game."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Lob-Star",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Lob-Star"
+    },
+    {
+      "name": "Skylanders Trap Team - Lob-Star's Soul Gem Preview (Star Bright, Star Fight)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Lob-Star%27s_Soul_Gem_Preview_(Star_Bright,_Star_Fight)"
+    }
+  ],
+  "gameplay": "Lob-Star can throw his Traptanium Ninja Stars which burst when it hits an enemy. His Secondary attack allows him to create steam blasts from his body, when charged it allows him to enter an steamed state, where his attack power and speed is increased . His third attack allows him to dash, which increases his speed, and damages enemies in his path.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Lob-Star",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Starshooter",
+        "imgPath": "Lob-Starprimarypower.png",
+        "content": "Press Attack 1 to shoot Traptanium Stars. Shoot faster when boiled.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Boiling Temper",
+        "imgPath": "Lob-Starsecondarypower.png",
+        "content": "Press Attack 2 to release a steam blast. Hold Attack 2 to boil up with rage, increasing speed and power.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Lob-Star Roll",
+        "imgPath": "Lob-Starbasicupgrade1.png",
+        "content": "Press Attack 3 to dash and evade attacks. Go faster and further while Boiled.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Sharp Shot",
+        "imgPath": "Lob-Starbasicupgrade2.png",
+        "content": "New Traptanium Stars do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Boiling Over",
+        "imgPath": "Lob-Starbasicupgrade3.png",
+        "content": "Release steam while boiling to repel enemies. Tap Attack 2 to let off more steam.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Lob-Star Express",
+        "imgPath": "Lob-Starbasicupgrade4.png",
+        "content": "Lob-Star Roll is faster and knocks away enemies. If Boiled, releases a steam blast afterwards.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Hard Boiled",
+        "imgPath": "Lob-Starsoulgempower.png",
+        "content": "Fully charge up Boiling Temper attack to release the ultimate steam blast.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Shooting Star",
+        "abilities": [
+          {
+            "name": "Super Stars",
+            "imgPath": "Lob-Starpath1upgrade1.png",
+            "content": "When Boiled, Traptanium Stars do increased damage and cut through enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Twice the Star Power",
+            "imgPath": "Lob-Starpath1upgrade2.png",
+            "content": "Hold Attack 1 and release to shoot two Traptanium Stars at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Star Defense",
+            "imgPath": "Lob-Starpath1upgrade3.png",
+            "content": "Hold Attack 1 longer to create more Traptanium Stars for protection.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "The Boiler",
+        "abilities": [
+          {
+            "name": "Getting Steamed",
+            "imgPath": "Lob-Starpath2upgrade1.png",
+            "content": "After getting hit by enemies, automatically release steam to damage them right back.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Self E-Steam",
+            "imgPath": "Lob-Starpath2upgrade2.png",
+            "content": "All steam abilities get stronger and consume less Boiling Power.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Full Steamed Ahead",
+            "imgPath": "Lob-Starpath2upgrade3.png",
+            "content": "Leave a trail of damaging steam behind.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "lob-star",
       "variant_name": "Lob-Star",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Lob-Star.png/revision/latest?cb=20141013023227",
       "attacks": [
@@ -38,7 +287,28 @@
         "Super Stars",
         "Boiling Temper"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "240"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Lob-Star"
     }
   ]
