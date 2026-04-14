@@ -4,6 +4,7 @@
   "species": "Gremlin",
   "gender": "Male",
   "element": "Magic",
+  "role": "Skylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -11,24 +12,61 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Love Potion Pop Fizz is a pink Valentine's Day counterpart of Fizzy Frenzy Pop Fizz in Skylanders: Trap Team.",
   "biography": "Potions are red. Potions are blue. Pop Fizz loves potions. And he drinks them all too! When his latest attempt to concoct the ultimate raspberry soda totally backfired, Pop Fizz was caught in a blast that turned him pink and gave him an alluring aroma. At least that's how he tells it. But with Valentine's Day right around the corner, the Skylanders are all wondering if Pop Fizz is telling the truth – or if there is a special someone that he's trying to impress!",
-  "personality": null,
-  "story": null,
+  "quote": "The Motion of the Potion!",
+  "personality": "Pop Fizz is widely known as being a bit crazy. He is a master alchemist who is constantly experimenting with new potions, often using himself as a test subject. He is impulsive, unpredictable, and has a wild energy that is reflected in his combat style.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Potions are red. Potions are blue. Pop Fizz loves potions. And he drinks them all too! When his latest attempt to concoct the ultimate raspberry soda totally backfired, Pop Fizz was caught in a blast that turned him pink and gave him an alluring aroma. At least that's how he tells it. But with Valentine's Day right around the corner, the Skylanders are all wondering if Pop Fizz is telling the truth – or if there is a special someone that he's trying to impress!",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "The Motion of the Potion!"
+      ]
+    }
+  ],
+  "trivia": [
+    "If Love Potion Pop Fizz is played in Skylanders: Giants, he will appear as Punch Pop Fizz.",
+    "In Skylanders: SuperChargers and Skylanders: Imaginators, Love Potion Pop Fizz in his beast form appears with eyes much like his normal beast form, along with the bottom of his feet, which are indigo.",
+    "This is the only alt deco Pop Fizz whose figure is in his beast form.",
+    "He is the only Valentine alt deco Skylander to have a released figure.",
+    "His figure render depicts his gauntlets and footwear to be rose gold, but they are brown in-game."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Power Play- Love Potion Pop Fizz",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play-_Love_Potion_Pop_Fizz"
+    }
+  ],
+  "gameplay": "Love Potion Pop Fizz shares the same move set as Fizzy Frenzy Pop Fizz. He can throw potions with varying effects including acid pools and explosions, or drink his concoction to transform into a powerful beast with melee capabilities.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Love_Potion_Pop_Fizz",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "love-potion-pop-fizz",
+      "id": "love-potion-pop-fizz-variant",
       "variant_name": "Love Potion Pop Fizz",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Special Edition",
+      "type": "Core",
       "game": "Skylanders: Trap Team",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7c/LPPopFizz.png/revision/latest?cb=20170304031733",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7c/LPPopFizz.png",
       "attacks": [
         "Potion Lob",
         "Beast Form",
@@ -36,7 +74,28 @@
         "Puddle of Pain",
         "Raging Beast"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Love_Potion_Pop_Fizz"
     }
   ]
