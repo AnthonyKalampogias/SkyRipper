@@ -4,6 +4,7 @@
   "species": "Knight Spirit possessing Arkeyan Armor",
   "gender": "Male",
   "element": "Undead",
+  "role": "Nitro Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -11,22 +12,56 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Nitro Krypt King is the Nitro counterpart of Krypt King in Skylanders: Trap Team.",
+  "biography": "",
+  "quote": "I've Got the Edge!",
+  "personality": "",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "Nitro Krypt King is the Nitro counterpart of Krypt King in Skylanders: Trap Team.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "I've Got the Edge!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the only Nitro variant that is not a character with a speed attack. This doesn't apply to when playing as him in the 3DS version of Trap Team, where every Skylander including Nitro Krypt King can sprint.",
+    "In Skylanders: SuperChargers, Nitro Krypt King's blue dots on the front of his helmet become red, which match with his original counterpart's."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Nitro Krypt King",
+      "isValid": false,
+      "url": ""
+    }
+  ],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Krypt_King",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "nitro-krypt-king",
       "variant_name": "Nitro Krypt King",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Nitro_Krypt_King_Promo.jpg/revision/latest?cb=20140912005820",
       "attacks": [
@@ -36,7 +71,24 @@
         "Enchanted Armor",
         "Stunning Sting"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "210"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "210"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "60"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Krypt_King"
     }
   ]
