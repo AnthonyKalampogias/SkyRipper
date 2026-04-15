@@ -4,21 +4,96 @@
   "species": "Eyeball",
   "gender": "Male",
   "element": "Water",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Every Skylander celebrates the holiday season in their own special way. For some, it means giving and receiving presents. For others, it means stuffing their face with festive food. For Dive-Clops it means hiding beneath the Academy archways to shoot candy-coated missiles at fellow Skylanders that pass by. To be fair, he does hang a sign that reads: \"Ho-Ho-Ho...Look Out Below!\" &#91; 1 &#93;",
-  "personality": null,
-  "story": null,
+  "description": "Missile-Tow Dive-Clops is the Christmas counterpart of Dive-Clops in Skylanders: SuperChargers.",
+  "biography": "Every Skylander celebrates the holiday season in their own special way. For some, it means giving and receiving presents. For others, it means stuffing their face with festive food. For Dive-Clops it means hiding beneath the Academy archways to shoot candy-coated missiles at fellow Skylanders that pass by. To be fair, he does hang a sign that reads: \"Ho-Ho-Ho...Look Out Below!\"",
+  "quote": "Look Out Below!",
+  "personality": "",
+  "story": [],
+  "quotes": [],
+  "trivia": [
+    "The first half of his name, \"Missle-Tow\" is a pun of \"mistletoe\" and \"missile\"."
+  ],
+  "trailers": [],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Missile-Tow_Dive-Clops",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Waterpedo",
+        "imgPath": "",
+        "content": "",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#48D"
+        }
+      },
+      {
+        "name": "Sonar",
+        "imgPath": "",
+        "content": "",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#48D"
+        }
+      },
+      {
+        "name": "Put the Eye in Geyser",
+        "imgPath": "",
+        "content": "",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#48D"
+        }
+      },
+      {
+        "name": "Torpeslow",
+        "imgPath": "",
+        "content": "",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#48D"
+        }
+      },
+      {
+        "name": "Sonar Smarts",
+        "imgPath": "",
+        "content": "",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#48D"
+        }
+      }
+    ],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "missile-tow-dive-clops",
@@ -34,7 +109,7 @@
         "Torpeslow",
         "Sonar Smarts"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Missile-Tow_Dive-Clops"
     }
   ]
