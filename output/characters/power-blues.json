@@ -1,30 +1,100 @@
 {
   "id": "power-blues",
   "name": "Power Blues",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "species": "Various",
+  "gender": "Various",
+  "element": "Various",
+  "role": "SuperCharger",
+  "primary_game": "Skylanders: SuperChargers",
+  "appearances": [
+    "Skylanders: SuperChargers"
+  ],
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Power Blue Skylanders are special variant figures created in partnership with Autism Speaks to promote awareness and inclusion.",
+  "biography": "Released in 2016, the Power Blue series features characters colored in blue and white, the official colors of the Autism Speaks organization. This set includes Power Blue Splat and Power Blue Double Dare Trigger Happy, along with their matching vehicles, the Splatter Splasher and the Gold Rusher. These figures were designed to highlight the positive impact of play on individuals with autism.",
+  "quote": "Go for the Blue!",
+  "personality": "Helpful, determined, and supportive.",
+  "story": [
+    {
+      "story_name": "The Awareness Initiative",
+      "content": "To celebrate Autism Awareness Month, Activision collaborated with Autism Speaks to produce a special line of Skylanders. The Power Blue variants were introduced as a way to support the autism community and spread a message of awareness and understanding through the power of play in the Skylands.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Power_Blues.jpg"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Slogan",
+      "content": [
+        "Light it up!",
+        "No Gold, No Glory!"
+      ]
+    }
+  ],
+  "trivia": [
+    "The Power Blue variants appeared in-game with their unique blue and white skins.",
+    "Power Blue Splat and Power Blue Trigger Happy's Rift Engine pedestals are white while their element icons and bottom elemental parts are blue.",
+    "A Power Blue variant of Ember was planned for Skylanders: Imaginators but was scrapped during development."
+  ],
+  "trailers": [],
+  "gameplay": "These variants play identically to their standard versions in terms of mechanics and move sets, but they are visually distinct with their blue-and-white color schemes in both the physical world and the digital game.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Power_Blues",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "power-blues",
-      "variant_name": "Power Blues",
-      "edition": "Series 1",
+      "id": "power-blue-splat",
+      "variant_name": "Power Blue Splat",
+      "edition": "Power Blue",
       "type": "SuperCharger",
-      "game": null,
-      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Power_Blues.jpg",
-      "attacks": [],
-      "stats": null,
-      "wiki_url": "https://skylanders.fandom.com/wiki/Power_Blues"
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Splat-powerblue.png",
+      "attacks": [
+        "Paint Bash",
+        "Inking Dash"
+      ],
+      "stats": [
+        {
+          "stat_name": "Power",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "90"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Splat"
+    },
+    {
+      "id": "power-blue-trigger-happy",
+      "variant_name": "Power Blue Double Dare Trigger Happy",
+      "edition": "Power Blue",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Triggerhappy-powerblue.png",
+      "attacks": [
+        "Dual Golden Pistols",
+        "Lob Gold Coin"
+      ],
+      "stats": [
+        {
+          "stat_name": "Power",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "110"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Double_Dare_Trigger_Happy"
     }
   ]
 }
