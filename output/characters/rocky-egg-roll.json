@@ -1,33 +1,64 @@
 {
   "id": "rocky-egg-roll",
   "name": "Rocky Egg Roll",
-  "species": "Rocky: Rock Digger Roll: Living Boulder",
+  "species": "Rocky: Rock Digger, Roll: Living Boulder",
   "gender": "Male",
   "element": "Earth",
-  "primary_game": "Skylanders: Lost Islands (April 2015)",
+  "role": "Skylanders",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Rocky Egg Roll is an Easter counterpart of Rocky Roll in Skylanders: Lost Islands.",
+  "biography": "Rocky Egg Roll is an Easter counterpart of Rocky Roll in Skylanders: Lost Islands.",
+  "quote": "Rocky Egg Roll is egg-cited to roll into Skylands!",
+  "personality": "Unknown",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "Rocky Egg Roll is an Easter counterpart of Rocky Roll in Skylanders: Lost Islands.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Game description",
+      "content": [
+        "Rocky Egg Roll is egg-cited to roll into Skylands!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Rocky Egg Roll is the fourth Skylander to have an Easter theme (behind Hoppity Pop Fizz, Springtime Trigger Happy and Eggsellent Weeruptor).",
+    "Rocky Egg Roll and Hoppity Pop Fizz both have bunny ears. They are also the only Easter-themed Skylanders exclusive to Lost Islands.",
+    "His name is a play on Egg roll.",
+    "Rocky Egg Roll and Snowler Brawl are the only Lost Islands variants whose names are nonconventional puns on the original Skylander's name, as opposed to words being put in front of their name."
+  ],
+  "trailers": [],
+  "gameplay": "Rocky Egg Roll is an Alter Ego of Rocky Roll, exclusive to Skylanders: Lost Islands.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Rocky_Egg_Roll",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "rocky-egg-roll",
       "variant_name": "Rocky Egg Roll",
-      "edition": "Series 1",
-      "type": "Core",
-      "game": "Skylanders: Lost Islands (April 2015)",
+      "edition": "Easter",
+      "type": "Alter Ego",
+      "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/cb/Rocky_Egg_Roll.jpg/revision/latest?cb=20150401043011",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Rocky_Egg_Roll"
     }
   ]
