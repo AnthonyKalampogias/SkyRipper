@@ -13,14 +13,14 @@
   "world": [
     "Mystic Mill"
   ],
-  "description": "The Metal Mage is a wizard troll with an Air-themed headdress and metal staves. This scrapped Skylander appeared in Trap Team as a single-use enemy capable of creating protective barriers for his allies. Unlike most trolls, he lacks a nose and possesses the red skin typical of troll Nightmare Villains.",
-  "biography": "Metal Mage was originally planned as a playable Skylander before being repurposed as a support enemy. Early concept art and development footage reveal that the character was inspired by Boomer, with an arsenal of metal-manipulation abilities that were eventually reworked into the Skylander Rocky Roll. In the final game, he serves as a mystical support unit for the Evilikin.",
+  "description": "Metal Mage is a scrapped Skylander turned support enemy in Skylanders: Trap Team. He is a wizard troll with an Air-themed headdress and metal staves who can create protective barriers and manipulate metal balls to form weapons.",
+  "biography": "Metal Mage is a scrapped Skylander, turned single use enemy, in Skylanders: Trap Team. He is a wizard troll with an Air themed headdress and metal staves, with the ability to create barriers around its allies, and like Broccoli Guys and Rage Mages, holds treasure over his head. Though they first started as inspired by Boomer, the developer received the concept art for Rocky Roll instead and worked Metal Mage's abilities into them.",
   "quote": "None",
   "personality": "As a support-focused wizard, the Metal Mage is dedicated to the protection of his comrades, utilizing defensive magic to control the battlefield.",
   "story": [
     {
       "story_name": "Character Development",
-      "content": "Vimeo demo reels and Skylanders: Giants behind-the-scenes footage provided early hints of this character's development. Nat Loh's design portfolio later revealed the character was inspired by Boomer before his concept was set aside, and his ability set was adapted for Rocky Roll.",
+      "content": "Vimeo demo reels and Skylanders: Giants behind-the-scenes footage were the only hints that this character had a bigger role for some time, until Nat Loh's character design portfolio had more details. Though they first started as inspired by Boomer, the developer received the concept art for Rocky Roll instead and worked Metal Mage's abilities into them.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/I-wei-huang-newtornado1-metalmage.jpg/revision/latest/scale-to-width-down/185?cb=20210707195204"
     },
@@ -46,15 +46,26 @@
     "He has the same red skin as troll Nightmare Villains, though he doesn't wear any purple or red outfits.",
     "Unlike every other Troll, he also doesn't have an apparent nose."
   ],
-  "trailers": [],
-  "gameplay": "In Skylanders: Trap Team, the Metal Mage functions as a support unit in the Mystic Mill stage, casting Electric Shield to defend Evilikin allies. He is one of the few enemies that holds treasure over his head. Scrapped gameplay elements for the character included the ability to forge large metal weapons from conjured spheres.",
+  "trailers": [
+    {
+      "name": "Vimeo demo reels",
+      "isValid": true,
+      "url": "https://vimeo.com/108976043"
+    },
+    {
+      "name": "Skylanders: Giants behind-the-scenes footage",
+      "isValid": true,
+      "url": "https://youtu.be/fMmakTKbMTA?t=117"
+    }
+  ],
+  "gameplay": "In Skylanders: Trap Team, the Metal Mage functions as a support unit in the Mystic Mill stage, casting Electric Shield to defend Evilikin allies. He is one of the few enemies that holds treasure over his head. Scrapped gameplay elements for the character included the ability to forge large metal weapons from conjured spheres such as a giant hammer or battering ram.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Metal_Mage",
   "abilities": {
     "basic": [
       {
         "name": "Electric Shield",
         "imgPath": "",
-        "content": "Creates a magical barrier around allies to protect them from incoming damage.",
+        "content": "The ability to create barriers around its allies.",
         "is_primary": true,
         "is_secondary": false,
         "price": 0,
@@ -66,7 +77,7 @@
       {
         "name": "Metal Ball Conjuration",
         "imgPath": "",
-        "content": "A scrapped ability where the Metal Mage creates metal balls to combine into various weapons.",
+        "content": "Creating metal balls that he could combine into various weapons.",
         "is_primary": false,
         "is_secondary": true,
         "price": 0,
@@ -81,7 +92,7 @@
       {
         "name": "Giant Metal Hammer",
         "imgPath": "",
-        "content": "A conceptual scrapped ability where the Metal Mage combines metal balls into a giant hammer.",
+        "content": "A giant metal hammer created from combined metal balls.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
@@ -96,7 +107,7 @@
         "season": 1,
         "name": "Metal Battering Ram",
         "imgPath": "",
-        "content": "A conceptual scrapped ability where the Metal Mage combines metal balls into a metal battering ram.",
+        "content": "A metal battering ram created from combined metal balls.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
