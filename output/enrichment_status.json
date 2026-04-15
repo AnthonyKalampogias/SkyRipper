@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-14T17:55:18.036Z",
+  "last_run": "2026-04-15T03:36:43.918Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -876,6 +876,82 @@
     {
       "name": "Lucky Boomer",
       "sha": "ae4ca5bd0145d21b16576e05d9d0f424accf6e7612deb797d42de25dd6daa302"
+    },
+    {
+      "name": "Magna Charge",
+      "sha": "4a773353f58a27086a3cac40118c2f350d114bec9d86aa93f5a6cdb3822a1bfb"
+    },
+    {
+      "name": "Merry Snap Shot",
+      "sha": "eccaef06f65bac7dcd8de3d42d7b23ca71af2386804bb5517e0d5da2a792f4cb"
+    },
+    {
+      "name": "Metal Mage",
+      "sha": "37b3b03a6ee5ced17d031ee33ed7fd7e5fc3032e5bd35b5f4d4d29d3ba26edd4"
+    },
+    {
+      "name": "Mini-Jini",
+      "sha": "03f04da20e9e7df8c4e4bc81930c99dec43bb812754ff7bca6a674ff7009cc2f"
+    },
+    {
+      "name": "Minis",
+      "sha": "bf8abc05ca38244382d0810fe3b89405a6c5805447230cfef0cba8de4859ed02"
+    },
+    {
+      "name": "Missile-Tow Dive-Clops",
+      "sha": "8a5c92d5d3eb4aea678918053c4e1e30aae2efc38990a2b9a8d0b7acf02fa97b"
+    },
+    {
+      "name": "Molten Hot Dog",
+      "sha": "21ccef1d10f8ac5dad927d7a2ba29985232c77eef27ecc2fa8e862945fa5213d"
+    },
+    {
+      "name": "Mystic Star Strike",
+      "sha": "035b33d8c008829d3899f96bd9707f03d175b1dcdf0720584cd6d9d0926a8847"
+    },
+    {
+      "name": "Mystical Bad Juju",
+      "sha": "6988af3282522514ab432f77a9b2085f1b2f7f1bd370313dbe024c7f2e1b2751"
+    },
+    {
+      "name": "Mystical Tae Kwon Crow",
+      "sha": "ef91c25c9197109740644479e31ca6113445da3281afd8ac50dee24a87d94656"
+    },
+    {
+      "name": "Mysticat",
+      "sha": "eda4d1abece7f030e0275f4fd11367e686a6d6df53d8aaf6444b18e87cf919fd"
+    },
+    {
+      "name": "New Year's Countdown",
+      "sha": "9b30fcfc0574fbf4c63f9581ffa9a72590c442416c98edaf5b0797c021413072"
+    },
+    {
+      "name": "Night Shift",
+      "sha": "c52b3b684534758f49e9cd1dec48b9dc7bb029e1b0e6c6e5ca7e9c53260c0de0"
+    },
+    {
+      "name": "Nightfall",
+      "sha": "3dadbc3cd2ad5b16091fc473bebe0dc8305ed3fca2a336477359a15019d496de"
+    },
+    {
+      "name": "Ninjini",
+      "sha": "831fe641a9929c8ff8429fb73963c3ee02ac226fc38737d704de8dbae5f13d77"
+    },
+    {
+      "name": "Nitro Freeze Blade",
+      "sha": "9180a54204cc4a62c46286e8ef77866abaa91d1216c4d28ad7b009ee10e07b07"
+    },
+    {
+      "name": "Nitro Head Rush",
+      "sha": "292b4c82893466c3a175b25a7378924e9706744296b2450964b32d75b1e06b2e"
+    },
+    {
+      "name": "Nitro Krypt King",
+      "sha": "2ce9b24f105905d090bdf87296b393624f69e87a2c9736e49effdec473472f59"
+    },
+    {
+      "name": "Nitro Magna Charge",
+      "sha": "f3ac8f56f0001ed6cb45b765a210c06f83fd19f2de0a1a7148123a8f58430153"
     }
   ]
 }
