@@ -1,35 +1,130 @@
 {
-  "id": "metal-mages",
-  "name": "Metal Mages",
+  "id": "metal-mage",
+  "name": "Metal Mage",
   "species": "Troll",
   "gender": "Male",
   "element": "Air",
+  "role": "Enemy",
   "primary_game": "Skylanders: Trap Team (Console)",
   "appearances": [
     "Skylanders: Trap Team (Console)"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Mystic Mill"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "The Metal Mage is a wizard troll with an Air-themed headdress and metal staves. This scrapped Skylander appeared in Trap Team as a single-use enemy capable of creating protective barriers for his allies. Unlike most trolls, he lacks a nose and possesses the red skin typical of troll Nightmare Villains.",
+  "biography": "Metal Mage was originally planned as a playable Skylander before being repurposed as a support enemy. Early concept art and development footage reveal that the character was inspired by Boomer, with an arsenal of metal-manipulation abilities that were eventually reworked into the Skylander Rocky Roll. In the final game, he serves as a mystical support unit for the Evilikin.",
+  "quote": "None",
+  "personality": "As a support-focused wizard, the Metal Mage is dedicated to the protection of his comrades, utilizing defensive magic to control the battlefield.",
+  "story": [
+    {
+      "story_name": "Character Development",
+      "content": "Vimeo demo reels and Skylanders: Giants behind-the-scenes footage provided early hints of this character's development. Nat Loh's design portfolio later revealed the character was inspired by Boomer before his concept was set aside, and his ability set was adapted for Rocky Roll.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/I-wei-huang-newtornado1-metalmage.jpg/revision/latest/scale-to-width-down/185?cb=20210707195204"
+    },
+    {
+      "story_name": "Trap Team Appearance",
+      "content": "In the final release of Skylanders: Trap Team, Metal Mage makes a brief appearance in Mystic Mill, where he provides magical shielding support for the Evilikin in one of the gates.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/92/Mystic_Mill_Unknown_Enemy.jpg/revision/latest/scale-to-width-down/185?cb=20160108135018"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Scrapped Development Concepts",
+      "content": [
+        "His abilities involved creating metal balls that he could combine into various weapons such as a giant metal hammer or a metal battering ram."
+      ]
+    }
+  ],
+  "trivia": [
+    "Had Metal Mage actually been playable, he would've been the first character with metal abilities not in Tech.",
+    "He would have also been the second Troll to be a Skylander.",
+    "Though he carries a dagger, he's incapable of attacking with it in his enemy form, nor is it mentioned in the development info for Rocky Roll.",
+    "He has the same red skin as troll Nightmare Villains, though he doesn't wear any purple or red outfits.",
+    "Unlike every other Troll, he also doesn't have an apparent nose."
+  ],
+  "trailers": [],
+  "gameplay": "In Skylanders: Trap Team, the Metal Mage functions as a support unit in the Mystic Mill stage, casting Electric Shield to defend Evilikin allies. He is one of the few enemies that holds treasure over his head. Scrapped gameplay elements for the character included the ability to forge large metal weapons from conjured spheres.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Metal_Mage",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Electric Shield",
+        "imgPath": "",
+        "content": "Creates a magical barrier around allies to protect them from incoming damage.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#1390FF",
+          "bg_content": "#B0E0E6"
+        }
+      },
+      {
+        "name": "Metal Ball Conjuration",
+        "imgPath": "",
+        "content": "A scrapped ability where the Metal Mage creates metal balls to combine into various weapons.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#1390FF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "basic_upgrades": [],
+    "soulgems": [
+      {
+        "name": "Giant Metal Hammer",
+        "imgPath": "",
+        "content": "A conceptual scrapped ability where the Metal Mage combines metal balls into a giant hammer.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#1390FF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "Metal Battering Ram",
+        "imgPath": "",
+        "content": "A conceptual scrapped ability where the Metal Mage combines metal balls into a metal battering ram.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#1390FF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "metal-mages",
-      "variant_name": "Metal Mages",
+      "id": "metal-mage",
+      "variant_name": "Metal Mage",
       "edition": "Series 1",
-      "type": "Giant",
+      "type": "Enemy",
       "game": "Skylanders: Trap Team (Console)",
       "image": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Metal_Mage_Mystic_Mill_Troll.png/revision/latest?cb=20200513170339",
       "attacks": [
         "Electric Shield"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Attack",
+          "stat_value": "N/A"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Metal_Mage"
     }
   ]
