@@ -4,20 +4,55 @@
   "species": "Fire Gollum",
   "gender": "Male",
   "element": "Fire",
+  "role": "Giant",
   "primary_game": "Skylanders: Battlecast",
   "appearances": [
     "Skylanders: Battlecast"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Obsidian Hot Head is a card counterpart of Hot Head in Skylanders: Battlecast.",
+  "biography": "Obsidian Hot Head is a card counterpart of Hot Head in Skylanders: Battlecast.",
+  "quote": "Hey! I'm on fire!",
+  "personality": "As an alternate counterpart of Hot Head, he likely shares the same explosive and enthusiastic personality as his original version.",
+  "story": [
+    {
+      "story_name": "Battlecast Counterpart",
+      "content": "Obsidian Hot Head is a card counterpart of Hot Head in Skylanders: Battlecast.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Fiery_Outburst_-_Special_Abilitycard.png/revision/latest?cb=20160801164959"
+    }
+  ],
+  "quotes": [],
+  "trivia": [
+    "He is the second alternate counterpart of a Giant to be released after Skylanders: Giants, the first being Admiral Thumpback in Skylanders: Lost Islands.",
+    "Unlike High Noon Trigger Happy, Obsidian Hot Head does not appear in other media."
+  ],
+  "trailers": [],
+  "gameplay": "In Skylanders: Battlecast, Obsidian Hot Head functions as a character card with the special ability Fiery Outburst.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Obsidian_Hot_Head",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Fiery Outburst",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Fiery_Outburst_-_Special_Abilitycard.png/revision/latest?cb=20160801164959",
+        "content": "Obsidian Hot Head unleashes a powerful burst of fire on his enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44444",
+          "bg_content": "#000000"
+        }
+      }
+    ],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "obsidian-hot-head",
@@ -29,7 +64,7 @@
       "attacks": [
         "Fiery Outburst"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Obsidian_Hot_Head"
     }
   ]
