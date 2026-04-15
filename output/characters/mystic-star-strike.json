@@ -4,18 +4,49 @@
   "species": "Alien",
   "gender": "Female",
   "element": "Magic",
+  "role": "Skylander",
   "primary_game": "Skylanders: Lost Islands(September 2014)",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Mystic Star Strike is a fortune telling counterpart of Star Strike for Skylanders: Lost Islands.",
+  "biography": "Mystic Star Strike is a fortune telling counterpart of Star Strike for Skylanders: Lost Islands.",
+  "quote": "Mystic Star Strike is here to unravel the mysteries of Skylands!",
+  "personality": "",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Mystic Star Strike is a fortune telling counterpart of Star Strike for Skylanders: Lost Islands.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Description Quote",
+      "content": [
+        "Mystic Star Strike is here to unravel the mysteries of Skylands!"
+      ]
+    }
+  ],
+  "trivia": [
+    "She is the third female Lost Islands exclusive, the first being Skeletal Cynder, the second being Snowler Brawl and the fourth being Hallows' Eve Hex.",
+    "She is also the only Lost Islands exclusive female that is not an Undead element character."
+  ],
+  "trailers": [],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Mystic_Star_Strike",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "mystic-star-strike",
@@ -25,7 +56,7 @@
       "game": "Skylanders: Lost Islands(September 2014)",
       "image": "https://static.wikia.nocookie.net/skylanders/images/0/05/Mystic_Star_Strike.jpg/revision/latest?cb=20210212005553",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Mystic_Star_Strike"
     }
   ]
