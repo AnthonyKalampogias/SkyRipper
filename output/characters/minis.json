@@ -2,34 +2,61 @@
   "id": "minis",
   "name": "Minis",
   "species": "Various",
-  "gender": null,
-  "element": null,
+  "gender": "Various",
+  "element": "Various",
+  "role": "Ally",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands Miniverse"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "The Skylander Minis started off as regular \" Sidekicks \", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-  "personality": null,
-  "story": null,
+  "description": "The Minis are miniature versions of existing Skylanders that were introduced in Skylanders: Trap Team. They take after their bigger counterparts, in both personality and abilities. In the IDW comics, they are depicted as Skylanders with personalities to that of children.",
+  "biography": "The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "quote": "Small but mighty!",
+  "personality": "Playful and courageous, the Minis possess child-like personalities and a strong determination to prove themselves as full-fledged heroes alongside their larger counterparts.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [],
+  "trivia": [
+    "Despite their small size, Giant Minis share some large effects with their full-size counterparts, such as the ability to destroy bomb-able obstacles.",
+    "Unlike their normal counterparts, the Minis have different defeated animations.",
+    "Minis that were Sidekicks in previous games are usable as Sidekicks in those games.",
+    "In 2017, opposite versions of Minis were considered - far older versions of Skylanders with different outfits. However, at the time, they never made it past the concept phase.",
+    "Like when they were sidekicks, the Minis' voices are basically sped up versions of their normal counterparts'. In Skylanders: Imaginators, Spry is the only mini Skylander with a unique voice. This is due to Spyro's change of voice actors while Spry still kept his old voice recordings.",
+    "In the 3DS version, they call themselves the name of their regular counterpart instead of their own names.",
+    "All of Minis are counterparts of Skylanders who first appeared in Skylanders: Spyro's Adventure and Giants (except for Small Fry who is a counterpart of Fryno, a Swap Force-debut Skylander)."
+  ],
+  "trailers": [],
+  "gameplay": "Minis play identically to their full-sized counterparts, possessing the same movesets, upgrades, and power levels. Their primary differences are their smaller physical scale, higher-pitched voices, and unique animations for certain actions.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Minis",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "minis",
+      "id": "minis_series1",
       "variant_name": "Minis",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Mini",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Minis_Comic.jpg/revision/latest?cb=20160531051131",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Minis"
     }
   ]
