@@ -4,29 +4,78 @@
   "species": "Gremlin",
   "gender": "Male",
   "element": "Tech",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Power Blue Trigger Happy is a special edition variant of Double Dare Trigger Happy, released in 2016 as part of a partnership between Activision and Autism Speaks.",
+  "biography": "Power Blue Trigger Happy is the special Power Blue version of Double Dare Trigger Happy. Like all Power Blue Skylanders, he was created to help raise awareness for autism through the Power Blue initiative. Despite his blue and white exterior, he remains the same hyperactive gold-loving Gremlin that Portal Masters have come to know and love.",
+  "quote": "No Gold, No Glory!",
+  "personality": "Trigger Happy is the solution to every problem, and that solution is usually 'shoot it'. He is hyperactive, easily excited, and has a near-obsessive love for gold and firepower. He is never seen without a manic grin on his face.",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "No Gold, No Glory!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the only alternate counterpart of a SuperCharger repose who does not keep his SuperCharger title. If he had kept it, his name would have been slightly longer than that of Birthday Bash Big Bubble Pop Fizz.",
+    "His in-game colors don't match his artwork and figure. The flaming rings in front of his Firecracker pistols are yellow instead of blue, and his eyes are yellow instead of white.",
+    "The Power Blue figures were released to support Autism Speaks."
+  ],
+  "trailers": [],
+  "gameplay": "As a SuperCharger, Power Blue Trigger Happy uses high-speed dual pistols called Fire Crackers. He can deploy a massive golden cannon for heavy damage and uses a variety of gold-themed gadgets to overwhelm enemies on the battlefield.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Power_Blue_Trigger_Happy",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Fire Cracker",
+        "imgPath": "",
+        "content": "Shoot gold-flinging pistols at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#004a99",
+          "bg_content": "#e0f0ff"
+        }
+      },
+      {
+        "name": "Crowd-Pleaser",
+        "imgPath": "",
+        "content": "Deploy a golden cannon that blasts enemies away.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#004a99",
+          "bg_content": "#e0f0ff"
+        }
+      }
+    ],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "power-blue-trigger-happy",
       "variant_name": "Power Blue Trigger Happy",
-      "edition": "Series 1",
+      "edition": "Power Blue",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a9/PB_Double_Dare_Trigger_Happy.jpg/revision/latest?cb=20160308221955",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a9/PB_Double_Dare_Trigger_Happy.jpg",
       "attacks": [
         "Fire Cracker",
         "Crowd-Pleaser",
@@ -34,7 +83,24 @@
         "Hoop N' Holler",
         "Can On and On"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Power",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "110"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "200"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Power_Blue_Trigger_Happy"
     }
   ]
