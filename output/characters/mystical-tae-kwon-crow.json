@@ -4,20 +4,112 @@
   "species": "Crow",
   "gender": "Male",
   "element": "Fire",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skyhighlands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Mystical Tae Kwon Crow is a mystical counterpart of Tae Kwon Crow in Skylanders: Imaginators. The figure was exclusively sold at GameStop.",
+  "biography": "Mystical Tae Kwon Crow is a mystical counterpart of Tae Kwon Crow in Skylanders: Imaginators. The figure was exclusively sold at GameStop.",
+  "quote": "Who Dares Face Me?",
+  "personality": "Not much is known about Mystical Tae Kwon Crow's personality, but as a Sensei, he is a master of the Ninja battle class.",
+  "story": [
+    {
+      "story_name": "Origin",
+      "content": "Mystical Tae Kwon Crow is a mystical counterpart of Tae Kwon Crow in Skylanders: Imaginators. The figure was exclusively sold at GameStop.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Mystical_Tae_Kwon_Crow_Promo.jpg/revision/latest?cb=20161112131915"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Sensei catchphrase",
+      "content": [
+        "Who Dares Face Me?"
+      ]
+    }
+  ],
+  "trivia": [
+    "Though his shurikens are red in the figure and official artwork, they have their original silver color in the game.",
+    "He and Mystical Bad Juju are the only Mystical counterparts of the franchise. Both are Senseis, and their original counterparts are both former villains."
+  ],
+  "trailers": [],
+  "gameplay": "Mystical Tae Kwon Crow utilizes Ninja techniques, throwing shurikens and delivering flame-powered kicks to his enemies. His arsenal includes Shuriken Throw, Flame Kick, Buzzer Beak, and advanced versions like Triple Shurikens and Triple Kicks.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Mystical_Tae_Kwon_Crow",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Shuriken Throw",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Mystical_Tae_Kwon_Crow_Promo.jpg/revision/latest?cb=20161112131915",
+        "content": "Mystical Tae Kwon Crow throws a sharp shuriken at enemies from a distance.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#e25822",
+          "bg_content": "#ffebcd"
+        }
+      },
+      {
+        "name": "Flame Kick",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Mystical_Tae_Kwon_Crow_Promo.jpg/revision/latest?cb=20161112131915",
+        "content": "Mystical Tae Kwon Crow delivers a powerful kick imbued with fire.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#e25822",
+          "bg_content": "#ffebcd"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Buzzer Beak",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Mystical_Tae_Kwon_Crow_Promo.jpg/revision/latest?cb=20161112131915",
+        "content": "A specialized ninja technique used to strike down foes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#e25822",
+          "bg_content": "#ffebcd"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Triple Shurikens",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Mystical_Tae_Kwon_Crow_Promo.jpg/revision/latest?cb=20161112131915",
+        "content": "Allows Mystical Tae Kwon Crow to throw three shurikens at once.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#e25822",
+          "bg_content": "#ffebcd"
+        }
+      },
+      {
+        "name": "Triple Kicks",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Mystical_Tae_Kwon_Crow_Promo.jpg/revision/latest?cb=20161112131915",
+        "content": "A powerful combination of three flaming kicks.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#e25822",
+          "bg_content": "#ffebcd"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "mystical-tae-kwon-crow",
@@ -33,7 +125,7 @@
         "Triple Shurikens",
         "Triple Kicks"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Mystical_Tae_Kwon_Crow"
     }
   ]
