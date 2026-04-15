@@ -4,6 +4,7 @@
   "species": "Unicorn/Dragon Hybrid",
   "gender": "Female",
   "element": "Air",
+  "role": "Skylander",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -13,32 +14,173 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Polar Whirlwind is a special winter-themed variant of Whirlwind, released as a Series 2 Skylander in Skylanders: Giants.",
+  "biography": "Whirlwind is an air dragon-unicorn hybrid. Being a hybrid of two very different species, Whirlwind was never truly accepted by either. The unicorns were envious of her ability to fly, and the dragons were jealous of her graceful beauty. But she found peace within the stormy clouds, where she learned to harness the power of the rainbow, making it a powerful force for good. Now, as a Skylander, she protects Skylands with her unique powers.",
+  "quote": "Reach for the Sky!",
+  "personality": "Whirlwind is known for being graceful, courageous, and determined. Despite being an outcast in her youth, she uses her unique heritage to help others and defend the Skylands.",
+  "story": [
+    {
+      "story_name": "The Winter Variant",
+      "content": "Polar Whirlwind is a rare variant of the Air Skylander, Whirlwind. She has been seen sporting a white and blue coat suited for the frozen peaks of Skylands.",
+      "hasImage": false,
+      "imgPath": "polar_whirlwind_story.png"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Reach for the Sky!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Polar Whirlwind's wings are blue in some occasions in the game but the toy does not show her with blue wings.",
+    "Her colorfully-glowing horn indicates her Wow Pow, Cloudbursting.",
+    "She is one of the few variants that has a different color scheme in-game than her standard counterpart."
+  ],
+  "trailers": [],
+  "gameplay": "Polar Whirlwind plays identically to Series 2 Whirlwind, utilizing rainbows and clouds to attack enemies. Her rainbows can bounce between enemies and her clouds provide area-of-effect damage. Her Wow Pow allows her to charge her rainbows for extra explosive damage.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Polar_Whirlwind",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Rainbow of Doom",
+        "imgPath": "rainbow_of_doom.png",
+        "content": "Shoots a rainbow that can damage enemies and bounce between them.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FFFFFF",
+          "bg_content": "#00BFFF"
+        }
+      },
+      {
+        "name": "Tempest Cloud",
+        "imgPath": "tempest_cloud.png",
+        "content": "Creates a cloud that rains down lightning on enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FFFFFF",
+          "bg_content": "#00BFFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Dragon Flight",
+        "imgPath": "dragon_flight.png",
+        "content": "Allows Whirlwind to fly over obstacles.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FFFFFF",
+          "bg_content": "#00BFFF"
+        }
+      },
+      {
+        "name": "Healing Rainbows",
+        "imgPath": "healing_rainbows.png",
+        "content": "Rainbows heal allies in co-op mode.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FFFFFF",
+          "bg_content": "#00BFFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Rainbow Singularity",
+        "imgPath": "rainbow_singularity.png",
+        "content": "Summons a black hole rainbow that sucks in enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#FFFFFF",
+          "bg_content": "#00BFFF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Cloudbursting",
+        "imgPath": "cloudbursting.png",
+        "content": "Hold the Rainbow button to charge a rainbow that creates a large explosion.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#FFFFFF",
+          "bg_content": "#00BFFF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Ultimate Rainbower",
+        "abilities": [
+          {
+            "name": "Atomic Rainbow",
+            "imgPath": "atomic_rainbow.png",
+            "content": "Rainbows create a large explosion on impact.",
+            "is_primary": true,
+            "is_secondary": false,
+            "price": 1200,
+            "colors": {
+              "header": "#FFFFFF",
+              "bg_content": "#00BFFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "polar-whirlwind",
       "variant_name": "Polar Whirlwind",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Special Edition",
+      "type": "Alt Deco",
       "game": "Skylanders: Giants",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Polar_Whirlwind1.jpg/revision/latest?cb=20130408180417",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Polar_Whirlwind1.jpg",
       "attacks": [
         "Rainbow of Doom",
         "Tempest Cloud",
         "Dragon Flight",
-        "Duel Rainbows",
+        "Dual Rainbows",
         "Atomic Rainbow"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "70"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Polar_Whirlwind"
     }
   ]
