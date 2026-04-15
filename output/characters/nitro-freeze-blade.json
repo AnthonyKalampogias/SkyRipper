@@ -4,32 +4,155 @@
   "species": "Feline",
   "gender": "Male",
   "element": "Water",
+  "role": "Nitro SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
     "Skylanders: Lost Islands",
     "Skylanders: Trap Team",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
-    "Skylands"
+    "Skylands",
+    "Frozen Wastelands of Vesh",
+    "Great Lava Lakes"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "When he was young, Freeze Blade's family moved from the Frozen Wastelands of Vesh to the Great Lava Lakes. As it turned out, this was a very difficult adjustment for Freeze Blade. Not only was he the sole one of his kind, it was also incredibly hot and there was no ice to skate on whatsoever. But over the years, he learned to fit in with the other fire-like creatures and even discovered he had a magical ability to ice skate on any surface... even bubbling lava. One day, while out setting a new frozen lava speed record, he came across Blast Zone , who had just been ambushed by some nasty Spell Punks . After Freeze Blade stepped in to defend him, Blast Zone was so impressed by his skill in battle that he introduced him to Master Eon , who invited him to join the Skylanders .",
-  "personality": null,
-  "story": null,
+  "description": "Nitro Freeze Blade is the Nitro counterpart of Freeze Blade in Skylanders: Swap Force.",
+  "biography": "When he was young, Freeze Blade's family moved from the Frozen Wastelands of Vesh to the Great Lava Lakes. As it turned out, this was a very difficult adjustment for Freeze Blade. Not only was he the sole one of his kind, it was also incredibly hot and there was no ice to skate on whatsoever. But over the years, he learned to fit in with the other fire-like creatures and even discovered he had a magical ability to ice skate on any surface... even bubbling lava. One day, while out setting a new frozen lava speed record, he came across Blast Zone, who had just been ambushed by some nasty Spell Punks. After Freeze Blade stepped in to defend him, Blast Zone was so impressed by his skill in battle that he introduced him to Master Eon, who invited him to join the Skylanders.",
+  "quote": "Keeping it Cool!",
+  "personality": "Freeze Blade is incredibly adaptable and determined. Having grown up in an environment completely opposite to his natural habitat, he developed a resilient and cool-headed nature. He is confident in his skating abilities and enjoys pushing his speed to the limit.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "When he was young, Freeze Blade's family moved from the Frozen Wastelands of Vesh to the Great Lava Lakes. As it turned out, this was a very difficult adjustment for Freeze Blade. Not only was he the sole one of his kind, it was also incredibly hot and there was no ice to skate on whatsoever. But over the years, he learned to fit in with the other fire-like creatures and even discovered he had a magical ability to ice skate on any surface... even bubbling lava. One day, while out setting a new frozen lava speed record, he came across Blast Zone, who had just been ambushed by some nasty Spell Punks. After Freeze Blade stepped in to defend him, Blast Zone was so impressed by his skill in battle that he introduced him to Master Eon, who invited him to join the Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Keeping it Cool!",
+        "Ice to meet you!",
+        "Chakram-a-ding-dong!",
+        "Slip sliding away!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He, Nitro Magna Charge, Nitro Head Rush, and Nitro Krypt King are the only Nitro Skylanders.",
+    "Unlike his normal counterpart, Nitro Freeze Blade's fur is lighter, silvery and shiny.",
+    "He is the only Water Skylander with the Nitro variant.",
+    "His design includes a checkered pattern, often associated with racing and the term 'Nitro'."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Nitro Freeze Blade (Keeping It Cool)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Nitro_Freeze_Blade_(Keeping_It_Cool)"
+    }
+  ],
+  "gameplay": "Nitro Freeze Blade focuses on speed and range. He can throw frozen chakrams that return to him or skate quickly across the battlefield, leaving a trail of ice that damages enemies. His SWAP ability allows him to combine his speed with the powers of other Skylanders.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Freeze_Blade",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Chakram Throw",
+        "imgPath": "chakram_throw.png",
+        "content": "Throw a frozen chakram that slices through enemies and returns.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00CCFF",
+          "bg_content": "#003366"
+        }
+      },
+      {
+        "name": "Speedy Skate",
+        "imgPath": "speedy_skate.png",
+        "content": "Skate rapidly in any direction to evade or move quickly.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#00CCFF",
+          "bg_content": "#003366"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Frostcicle",
+        "imgPath": "frostcicle.png",
+        "content": "Chakram deals increased damage and has a chance to slow enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#00CCFF",
+          "bg_content": "#003366"
+        }
+      },
+      {
+        "name": "Ice Trail",
+        "imgPath": "ice_trail.png",
+        "content": "Leaving a frozen trail while skating that damages and slows enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 700,
+        "colors": {
+          "header": "#00CCFF",
+          "bg_content": "#003366"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Frozen Solid",
+        "imgPath": "frozen_solid.png",
+        "content": "Skating into enemies has a chance to freeze them solid for a short time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#00CCFF",
+          "bg_content": "#003366"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Frozen Warrior",
+        "abilities": [
+          {
+            "name": "Double Chakram",
+            "imgPath": "double_chakram.png",
+            "content": "Throw two chakrams at once for double the damage.",
+            "is_primary": true,
+            "is_secondary": false,
+            "price": 1200,
+            "colors": {
+              "header": "#00CCFF",
+              "bg_content": "#003366"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "nitro-freeze-blade",
       "variant_name": "Nitro Freeze Blade",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Nitro",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9d/Nitro_Freeze_Blade.png/revision/latest?cb=20140315012421",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9d/Nitro_Freeze_Blade.png",
       "attacks": [
         "Chakram Throw",
         "Speedy Skate",
@@ -37,7 +160,24 @@
         "Ice Trail",
         "Shaved Ice"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "140"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "75"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "85"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Freeze_Blade"
     }
   ]
