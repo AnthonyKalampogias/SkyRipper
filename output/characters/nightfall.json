@@ -4,6 +4,7 @@
   "species": "Dreadwalker",
   "gender": "Female",
   "element": "Dark",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
@@ -11,16 +12,176 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Unexpected Allies",
+  "cameos": [
+    "Unexpected Allies"
+  ],
   "world": [
     "Fogshadow Tower"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Nightfall was a Dreadwalker from Fogshadow Tower, a mysterious fortress in the middle of the Poison Sea. While most Dreadwalkers stayed within the noxious cloud they called home, Nightfall preferred to dive into the black abyss and hunt the dark monsters that threatened her people. One day, as she was exploring a deep cavern in her submarine, the Sea Shadow, Nightfall came upon an enormous object that pulsed with a strange energy. It was gigantic, and before she could comprehend what she was looking at, it hatched! Out came a creature 100 times larger than anything she had ever seen! She fired the engines and raced back to warn her people. Just as the last citizens boarded an evacuation ship, the colossal head of the Leviathan broke the surface of the water and let out a terrible roar! Without hesitation, Nightfall rushed towards the monster, blasting it with everything she had while the others made their escape. This act of heroism caught the attention of Master Eon , and the rest is Skylander history!",
-  "personality": "As a Dark Skylander herself, Nightfall is considered pessimistic and brooding. When she became irritated by Stormblade's optimism, the lark called the Dreadwalker a \"walking bummer cloud\". She always has a threatening tone even towards her allies, and is implied by Buzz to skip training because of her overconfidence and pride. Nightfall hates being bored; she is inquisitive and energetic, and loves exploring. She cares deeply for her people, but has never cared about being popular or fitting in with the crowd. &#91; 3 &#93; Nightfall is also easy to anger, though she's quick to dial it back to just complaining.",
-  "story": null,
+  "description": "Nightfall is a Dreadwalker who is the Dark SuperCharger in Skylanders: SuperChargers. Her signature vehicle is the Sea Shadow. She's featured in the first Skylanders: Ring of Heroes Episode Dungeon, Story of Nightfall.",
+  "biography": "Nightfall was a Dreadwalker from Fogshadow Tower, a mysterious fortress in the middle of the Poison Sea. While most Dreadwalkers stayed within the noxious cloud they called home, Nightfall preferred to dive into the black abyss and hunt the dark monsters that threatened her people. One day, as she was exploring a deep cavern in her submarine, the Sea Shadow, Nightfall came upon an enormous object that pulsed with a strange energy. It was gigantic, and before she could comprehend what she was looking at, it hatched! Out came a creature 100 times larger than anything she had ever seen! She fired the engines and raced back to warn her people. Just as the last citizens boarded an evacuation ship, the colossal head of the Leviathan broke the surface of the water and let out a terrible roar! Without hesitation, Nightfall rushed towards the monster, blasting it with everything she had while the others made their escape. This act of heroism caught the attention of Master Eon, and the rest is Skylander history!",
+  "quote": "Dark and Dangerous!",
+  "personality": "As a Dark Skylander herself, Nightfall is considered pessimistic and brooding. When she became irritated by Stormblade's optimism, the lark called the Dreadwalker a 'walking bummer cloud'. She always has a threatening tone even towards her allies, and is implied by Buzz to skip training because of her overconfidence and pride. Nightfall hates being bored; she is inquisitive and energetic, and loves exploring. She cares deeply for her people, but has never cared about being popular or fitting in with the crowd. Nightfall is also easy to anger, though she's quick to dial it back to just complaining.",
+  "story": [
+    {
+      "story_name": "Secret Agent Secrets",
+      "content": "Nightfall, along with Spitfire and Stormblade, were assigned by Spyro their first mission to find Buzz's elite Skylander team. Upon arrival at Motleyville, the SuperChargers were ambushed by Spell Punks. They were held prisoner by Spellslamzer. Nightfall found a way for her fellow Skylanders to escape by using one of Stormblade's feather blades. Eventually, the SuperChargers were freed and discovered that Ghost Roaster and the others had gone undercover. Nightfall eventually acknowledged Stormblade as a teammate and apologized for her previous behavior.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/28/Secret_Agent_Secrets_SuperChargers.png/revision/latest?cb=20160301064944"
+    },
+    {
+      "story_name": "Skylanders: Ring of Heroes",
+      "content": "In Story of Nightfall, the Dreadwalker left the team for some time to investigate villain attacks at Fogshadow Tower. When she returned, she defended the team from a Lob Goblin poisoned by a strange crystalline powder. She later explained the events that transpired at Fogshadow Tower.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Dark and Dangerous!",
+        "My fate is before me!",
+        "Without a shadow of a doubt!",
+        "Triumphant!",
+        "Onward to victory!",
+        "Mission accomplished!"
+      ]
+    },
+    {
+      "quote_type": "Quest Quotes",
+      "content": [
+        "I am made of secrets, Buzz...",
+        "The Sea Shadow. It is your worst nightmare.",
+        "The ocean retakes everything someday."
+      ]
+    }
+  ],
+  "trivia": [
+    "Nightfall and Astroblast are the only SuperChargers of their respective elements.",
+    "Nightfall's toy was recalled due to a faulty RFID chip causing connection issues.",
+    "She is the second Skylander to have 'and Dangerous' in her catchphrase.",
+    "Nightfall's long hair and metal mask resemble The Predator."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders SuperChargers - Nightfall Soul Gem Preview",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Nightfall_Soul_Gem_Preview_(Dark_and_Dangerous)"
+    },
+    {
+      "name": "Meet the Skylanders SuperChargers Nightfall and Sea Shadow",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_SuperChargers_Nightfall_and_Sea_Shadow"
+    }
+  ],
+  "gameplay": "Using the power of her mysterious shadowy hair, Nightfall can use it to attack at a distance by burrowing it into the ground, and releasing floating strands of it that seek out enemies. She can also manipulate shadows to hide and move unseen. Her hooks also allow her to fight in close range with great speed.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Nightfall",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Handy Hooks",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cb/Nightfallprimarypower.png/revision/latest?cb=20170504001332",
+        "content": "Press Attack 1 to perform a flurry of right and left hooks.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Ambrush",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/60/Nightfallsecondarypower.png/revision/latest?cb=20170504001504",
+        "content": "Press Attack 2 to dash forward or behind enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Whip Lash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Nightfallbasicupgrade1.png/revision/latest?cb=20170504001729",
+        "content": "Press Attack 3 to unleash a strand of dark energy that whips enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Split Hook Ends",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Nightfallbasicupgrade2.png/revision/latest?cb=20170504001835",
+        "content": "New hooks cause melee attacks to do more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Bad Hair Day",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2f/Nightfallsoulgempower.png/revision/latest?cb=20170504001534",
+        "content": "Tap Attack 3 repeatedly to knock all enemies into the air in an area.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Master Angler",
+        "abilities": [
+          {
+            "name": "Splitting Hairs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4d/Nightfallpath1upgrade1.png/revision/latest?cb=20170504002302",
+            "content": "Hold Attack 1 and release to unleash a devastating combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Dread Head",
+        "abilities": [
+          {
+            "name": "Ambrush Rush",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Nightfallpath2upgrade1.png/revision/latest?cb=20170504002840",
+            "content": "Hold Attack 2 to Ambrush longer and shoot strands of dark energy.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "nightfall",
@@ -36,7 +197,16 @@
         "Splitting Hairs",
         "Ambrush Rush"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "230 (max. 460)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Nightfall"
     }
   ]
