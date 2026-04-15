@@ -4,6 +4,7 @@
   "species": "Walking Piñata",
   "gender": "Male",
   "element": "Magic",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Trap Team (Console)",
@@ -14,16 +15,365 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": "Pain-Yatta is an aggressive and vengeful creature, taking out his frustration of being rejected by the Doom Raiders in his attempts to rule Skylands no matter how many would be harmed by his candy army. However his backstory and Ring of Heroes show he's gullible, and was easily tricked by the Doom Raiders into believing the Skylanders were responsible for the disappearance of his best friend, the Unocorn; and later by Kaos. In Imaginators , however, he seems to have become more carefree and mocking, treating his fights like a party, though he takes his responsibility in protecting Skylands very seriously.",
-  "story": null,
+  "description": "Pain-Yatta is a piñata monster who is one of the Magic villains in Skylanders: Trap Team. After changing his ways in Skylanders: Imaginators, he is now a Sensei that trains Imaginators of the Smasher Class.",
+  "biography": "Growing up, Pain-Yatta's best friend was the legendary Unocorn, a unicorn with a churro-horn that sprinkles magical cinnamon from time to time. While the cinnamon donuts for breakfast were incredible, being so sweet and delicious made them both easy targets for those looking for yummy treats. But Pain-Yatta had no problem protecting the both of them with his giant sucker! One day, however, the Unocorn went missing, and Pain-Yatta was beside himself. He tried desperately to find his buddy, but to no avail. That's when the Doom Raiders tricked him into thinking that the Skylanders were behind it all, and Pain-Yatta fell for it. He joined up with the band of villains and ventured out to get revenge on the Skylanders, but was eventually captured by the Trap Masters. Master Eon explained that the Skylanders had nothing to do with the Unocorn's disappearance and said he would help Pain-Yatta find his friend, if he became a Skylander Sensei and trained new Imaginators in the ways of smashing! Pain-Yatta agreed and the search for the missing Unocorn continues.",
+  "quote": "So Long, Sucker!",
+  "personality": "Pain-Yatta is an aggressive and vengeful creature, taking out his frustration of being rejected by the Doom Raiders in his attempts to rule Skylands no matter how many would be harmed by his candy army. However his backstory and Ring of Heroes show he's gullible, and was easily tricked by the Doom Raiders into believing the Skylanders were responsible for the disappearance of his best friend, the Unocorn; and later by Kaos. In Imaginators, however, he seems to have become more carefree and mocking, treating his fights like a party, though he takes his responsibility in protecting Skylands very seriously.",
+  "story": [
+    {
+      "story_name": "Skylanders: Trap Team",
+      "content": "Pain-Yatta encountered the Skylanders at Telescope Towers, where he got into a brawl with them. In the end, he was beaten and trapped. After his capture, the Skylanders took him and Chomp Chest to the Secret Sewers of Supreme Stink for their Villain Quests. His Villain Quest was with one of the Skaletones, Bag O' Bones, called 'I'm With The Band'. After successfully delivering a gramophone to the Capybara King, he was awarded with Bag O' Bones' gratitude, the Rubber Glove Hat, and a new outfit.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Light in the Dark",
+      "content": "Pain-Yatta captured Spotlight and Blackout, using their Light and Dark elements to power a candy army. He imprisoned the Light and Dark Skylanders inside a massive piñata version of himself. However, they overloaded the piñata with their abilities, causing it to explode. Pain-Yatta became sick from absorbing too much energy, causing his army to crumble. He was easily apprehended by the Skylanders.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/14/Pain-Yatta_Comic.png"
+    },
+    {
+      "story_name": "Skylanders: SuperChargers and Skylanders: SuperChargers Racing",
+      "content": "Pain-Yatta makes an appearance in both the SuperVillain Cup of Skylanders: SuperChargers and the Wicked Tour of Skylanders: SuperChargers Racing, where he drives two near-identical piñata-based vehicles with a hippopotamus-like design.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Skylanders: Trap Team",
+      "content": [
+        "Ha ha, I'm gonna stick it to ya.",
+        "You'll never lick me!"
+      ]
+    },
+    {
+      "quote_type": "Trap Quotes",
+      "content": [
+        "What's there to decide? I'm filled with candy!",
+        "Ugh. I ate too much candy for this ride, NOOOOOOO! *blows party horn*",
+        "I'm not afraid of this place, I'm not afraid of anything. Except rain...and maybe trees...and definitely blind-folded kids. But other than that...",
+        "Hey, as long as no one hits me with a stick, I'm-I'm cool with whatever.",
+        "Who wants CANNNNNDY!",
+        "Sweet, batter up!",
+        "Now those suckers will pay!",
+        "Sweet dreams!",
+        "Like taking candy from, well, anyone!",
+        "Candy slam!",
+        "Time to serve up some sweet justice!",
+        "Be careful, I'm getting that kid-with-the-blindfold feeling again.",
+        "We might be getting into a sticky situation here...",
+        "You know, it's not that bad really being filled with candy except for when its hot, or really cold, or there are blindfolded kids around.",
+        "You lookin' a little sour there, Skylander. Why not bring me in?",
+        "Ha ha haaaa! That busts me up!",
+        "Aww, no, we're out of time!",
+        "This sucker ain't ready.",
+        "Oh no, I'm still hanging, not ready yet!",
+        "I'm ready! Let's sweeten things up! *blows party horn*",
+        "All charged up, and ready to swing! *blows party horn*",
+        "Can't say I'm not curious about this. Bring me in.",
+        "Sweet, a puzzle!",
+        "Any idea how to solve this? My first reaction would be to barf candy at it!",
+        "That would DEFINITELY clash with my color scheme, but on you, it looks good!",
+        "Ooh, now THERE'S someone we should invite to the party!",
+        "Nothing to shake your stick at, huh?"
+      ]
+    },
+    {
+      "quote_type": "Trailer Quotes",
+      "content": [
+        "My name is Pain-Yatta, and I've been bad as long as I can remember!",
+        "I maybe good at the mambo, but I am bad to the bone, amigo!!",
+        "Don't let the bright colors fool you, I've got a dark side!",
+        "Uh-oh, now that's a big stick, NOOOO!!!!",
+        "Let me out, amigo!!"
+      ]
+    },
+    {
+      "quote_type": "Comic Quotes",
+      "content": [
+        "They didn't take me seriously. They thought their precious Doom Raiders were too good for Pain-Yatta! But now they'll ALL regret it!",
+        "My candy combatants will crush all opposition, and the Skylands will be mine forevermore! Hope everybody has a sweet tooth!"
+      ]
+    },
+    {
+      "quote_type": "Skylanders: Battlecast",
+      "content": [
+        "Who wants candy?",
+        "Going to bring the pain!",
+        "Let's crush it!",
+        "Go time!",
+        "Break time!",
+        "Gotta go.",
+        "Power rush!",
+        "No pain, no gain!",
+        "Looking good!",
+        "Sweet!",
+        "Fun for all!",
+        "Party time!",
+        "Fill 'er up!",
+        "Oh yeah, that's the stuff!",
+        "I might have overdone it.",
+        "Always room for more!",
+        "There we go!",
+        "Okay, got it.",
+        "So long, sucker!",
+        "Sweet dreams!",
+        "Not my day.",
+        "And down I go.",
+        "Ending on a sour note...",
+        "This makes me want to puke...!",
+        "A real sweet victory!",
+        "Crushed it!",
+        "Okay, now.",
+        "Careful, before I bust open!",
+        "You want a piece of me?",
+        "Yeah?",
+        "Hey there!",
+        "You're getting into a sticky situation."
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Portal Master, whassup? I'm a Sensei now, and can totally train your Imaginators. It'll be sweet!",
+        "And you know what else is sweet? I can show other Smashers a Secret Technique!",
+        "This is gonna be sweet!",
+        "This sure beats getting hit with a stick!",
+        "You can't spell party without stats. Unless you really mispell party.",
+        "The one thing I'm not seeing here is how much candy I can barf out! The answer is...unlimited!",
+        "Sugar rush, coming on!!",
+        "Now that's what I call a party!",
+        "Life of the party!"
+      ]
+    }
+  ],
+  "trivia": [
+    "While Pain-Yatta's promo art and figure has a white tooth, in-game, his tooth is a candy corn. This happened once again in Skylanders: Imaginators.",
+    "His name is a combination of 'pain' and 'piñata'.",
+    "His voice was originally deeper in early stages of development.",
+    "In his Meet the Villains video, Pain-Yatta speaks with a Spanish accent, provided by John DiMaggio.",
+    "He is the only villain in Telescope Towers not to say 'Heads up!'. Bomb-Shell replaces him on this occasion.",
+    "Pain-Yatta, Bad Juju, and Blaster-Tron are the only non-Doom Raider characters to not have major changes in Imaginators, be it color scheme or element.",
+    "Each of Pain-Yatta's lollipops have different effects: Traditional lollipops create a shockwave, candy canes freeze enemies, cake pops slow enemies, sour suckers shock enemies, and rock candies temporarily increase armor.",
+    "His quotes in Trap Team show him to be terrified of blindfolded children.",
+    "He's the only Smasher Sensei without an alt deco, though he has a chase variant.",
+    "Pain-Yatta is technically the only Skylanders character to own and drive two signature vehicles, one for land and another for sky."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Trap Team 'Meet the Villains Pain-Yatta' Trailer",
+      "isValid": true,
+      "url": "/wiki/File:Official_Skylanders_Trap_Team_%22Meet_the_Villains_Pain-Yatta%22_Trailer"
+    },
+    {
+      "name": "Meet Painyatta l Skylanders Imaginators l Skylanders",
+      "isValid": true,
+      "url": "/wiki/File:Meet_Painyatta_l_Skylanders_Imaginators_l_Skylanders"
+    },
+    {
+      "name": "Skylanders Imaginators - Pain-Yatta Soul Gem Preview",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Imaginators_-_Pain-Yatta_Soul_Gem_Preview"
+    }
+  ],
+  "gameplay": "In Trap Team, when used as a trapped villain, Pain-Yatta wields a giant lollipop, which he uses to smash his enemies with as his main attack. His secondary attack makes him spew out large amounts of candy from his mouth at targets. He usually spits out a piñata as well during this attack - hitting the piñata with the lollipop will make it explode. During his boss fight, he only uses lollipop attacks, which however have a greater area and create an expanding shockwave. In Battlecast, hitting him will cause candy to fall out in the form of cards. However, he can also use it to his advantage, using its properties to force the opponent and himself to draw more cards, and then use several spells that cause more damage depending on how many they have. In Imaginators, Pain-Yatta retains his traditional attacks of lollipop slam and candy breath but now uses a variety of candy weapons with different attacks every time his current lollipop breaks. Additionally, he can summon miniature piñatas that distract enemies, then target them to explode. Upon taking damage, Pain-Yatta drops candy that restores health when picked up. Despite his bulk and size, Pain-Yatta is surprisingly nimble, allowing him to walk and smash with surprising speed.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Pain-Yatta_(character)",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Lollipop Slam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Pain-Yattaprimarypower.png",
+        "content": "Press Attack 1 to smash your lollipops, which break and explode after enough hits! Different lollipop flavors have different explosions!",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Candy Barf",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Pain-Yattasecondarypower.png",
+        "content": "Press Attack 2 to barf out candy!",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Break It Down!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Pain-Yattabasicupgrade1.png",
+        "content": "Get to the good stuff! Lollipops now break much faster!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Piñata Summon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fa/Pain-Yattabasicupgrade2.png",
+        "content": "Press Attack 3 to summon a piñata that distracts enemies and explodes when hit!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Piñata Posse",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Pain-Yattabasicupgrade3.png",
+        "content": "Piñata Summon now creates three piñatas",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "You Are What You Eat",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dd/Pain-Yattabasicupgrade4.png",
+        "content": "You drop candy when you take damage! Pick it up to get health back!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Everybody Dance Now",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e7/Pain-Yattasoulgempower.png",
+        "content": "Press Attack 2 while jumping for a dance party!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "Party of One",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/33/Pain-Yattaskychipower.png",
+        "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Sweet and Smashy!",
+        "abilities": [
+          {
+            "name": "Sour Sucker",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/12/Pain-Yattapath1upgrade1.png",
+            "content": "Lollipop Slam can give you a Sour Sucker, which shocks enemies when it breaks!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Sugar Rush",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fd/Pain-Yattapath1upgrade2.png",
+            "content": "Lollipops now break MUCH faster!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Party Mode!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7e/Pain-Yattapath1upgrade3.png",
+            "content": "After breaking a lollipop, you enter PARTY MODE! For a short time, you deal more damage, take less damage, and move faster!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Life of the Party!",
+        "abilities": [
+          {
+            "name": "Rock Candy!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Pain-Yattapath2upgrade1.png",
+            "content": "Lollipop Slam can give you a Rock Candy, which gives you a tough shield when it breaks!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "After Party!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dd/Pain-Yattapath2upgrade2.png",
+            "content": "A piñata magically appears anytime you defeat an enemy!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Candy Laser",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Pain-Yattapath2upgrade3.png",
+            "content": "Hold Attack 2 for a spectacular candy laser attack!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "pain-yatta",
@@ -33,11 +383,30 @@
       "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/3/38/Painyatta_Promo.jpg",
       "attacks": [
-        "Original= Lollipop Slam",
+        "Lollipop Slam",
         "Candy Barf",
-        "Piñata Summon"
+        "Piñata Summon",
+        "Sweet and Smashy!",
+        "Life of the Party!"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "350"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Pain-Yatta_(character)"
     }
   ]
