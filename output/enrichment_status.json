@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-15T03:36:43.918Z",
+  "last_run": "2026-04-15T09:08:48.276Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -887,7 +887,7 @@
     },
     {
       "name": "Metal Mage",
-      "sha": "37b3b03a6ee5ced17d031ee33ed7fd7e5fc3032e5bd35b5f4d4d29d3ba26edd4"
+      "sha": "63e775b179485306552f46434bddda176d4695c4c19bd1248b0bd7a5d2864bb6"
     },
     {
       "name": "Mini-Jini",
@@ -952,6 +952,10 @@
     {
       "name": "Nitro Magna Charge",
       "sha": "f3ac8f56f0001ed6cb45b765a210c06f83fd19f2de0a1a7148123a8f58430153"
+    },
+    {
+      "name": "Nitro Skylanders",
+      "sha": "183ab2f310ca5ff70148929dedec3c5217b249bab1b912a82d1dfe0df446e54f"
     }
   ]
 }
