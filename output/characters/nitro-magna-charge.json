@@ -4,32 +4,158 @@
   "species": "Ultron Robot",
   "gender": "Male",
   "element": "Tech",
+  "role": "Nitro SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
     "Skylanders: Lost Islands",
     "Skylanders: Trap Team",
-    "Skylanders: SuperChargers' (Racing)",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
-  "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Magna_Charge",
+  "description": "Nitro Magna Charge is a special Nitro-themed variant of the Tech element Skylander Magna Charge. He features a distinctive gold and checkered racing aesthetic, representing the high-speed 'Nitro' theme.",
+  "biography": "Magna Charge comes from the race of Ultron robots, who were the creators of the great machines of Skylands. When the Arkeyans took over, the Ultrons were destroyed, leaving Magna Charge as the only survivor. After being found by a group of Mabu and learning about the world, he put his magnetic powers to use for good. As a member of the SWAP Force, he can detach his top half and combine with other heroes to stop Evil.",
+  "quote": "Attract to Attack!",
+  "personality": "Magna Charge is incredibly focused, calculating, and efficient, as expected of a high-tech Ultron robot. Despite his mechanical nature, he shows great loyalty to the Skylanders and possesses a heroic drive to protect the innocent from Arkeyan-level threats.",
+  "story": [
+    {
+      "story_name": "The Last Ultron",
+      "content": "Hailing from a race of highly advanced robotic creators, Magna Charge survived the purge of his kind. He spent years wandering until he found his calling among the Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Attract to Attack!"
+      ]
+    },
+    {
+      "quote_type": "Battle Cry",
+      "content": [
+        "Fully Charged!",
+        "Polarizing!",
+        "Negative Attraction!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is one of the few Nitro variants in the series, alongside Nitro Freeze Blade, Nitro Krypt King, and Nitro Head Rush.",
+    "His design is inspired by racing culture, featuring a checkered flag pattern and a gold finish.",
+    "He shares a physical resemblance to Crow T. Robot from Mystery Science Theater 3000.",
+    "In the Wii version of SWAP Force, some of his projectile upgrades appear red rather than the standard yellow."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders SWAP Force: Nitro Magna Charge Trailer",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=R0R0R0R0R0R"
+    }
+  ],
+  "gameplay": "Nitro Magna Charge is a speed-based character who uses magnetism to manipulate enemies. He can pick up enemies and throw them, or use his bottom half to dash through groups of foes at incredible speeds. His top half focuses on projectile magnetic blasts.",
+  "wiki_url": "https://skylanders.fandom.com/wiki/Magna_Charge",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Magnet Cannon",
+        "imgPath": "magnet_cannon.png",
+        "content": "Shoots magnetic pulses at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FFD700",
+          "bg_content": "#222222"
+        }
+      },
+      {
+        "name": "Polarized Pickup",
+        "imgPath": "polarized_pickup.png",
+        "content": "Picks up an enemy with magnetic force and throws them.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FFD700",
+          "bg_content": "#222222"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Multi-Barrelled",
+        "imgPath": "multi_barrelled.png",
+        "content": "Fires two Magnet Cannon pulses at once.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FFD700",
+          "bg_content": "#222222"
+        }
+      },
+      {
+        "name": "Magneto Ball",
+        "imgPath": "magneto_ball.png",
+        "content": "Hold the primary attack to charge a large magnetic orb.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FFD700",
+          "bg_content": "#222222"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Shooting Stars",
+        "imgPath": "shooting_stars.png",
+        "content": "Attracted enemies are hit by falling magnetic stars.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#FFD700",
+          "bg_content": "#222222"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Magnetic Menace",
+        "abilities": [
+          {
+            "name": "Plasma Shots",
+            "imgPath": "plasma_shots.png",
+            "content": "Magnet Cannon shots deal increased damage.",
+            "is_primary": true,
+            "is_secondary": false,
+            "price": 1200,
+            "colors": {
+              "header": "#FFD700",
+              "bg_content": "#222222"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "nitro-magna-charge",
+      "id": "nitro-magna-charge-v1",
       "variant_name": "Nitro Magna Charge",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Nitro",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/7/78/Nitro_Magna_Charge.png/revision/latest?cb=20170304031832",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/78/Nitro_Magna_Charge.png",
       "attacks": [
         "Magnet Cannon",
         "Polarized Pickup",
@@ -37,7 +163,20 @@
         "Eject",
         "Plasma Shots"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Magna_Charge"
     }
   ]
