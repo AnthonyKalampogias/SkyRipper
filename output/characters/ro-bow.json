@@ -4,21 +4,294 @@
   "species": "Robot",
   "gender": "Male",
   "element": "Tech",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "There is no record of the person who originally built Ro-Bow. By the time his basic systems were fully online, his creator was nowhere to be found. Ro-Bow searched far and wide, but since his programming was incomplete, he was unable to communicate with anyone. Eventually he stumbled upon the remains of an old lair that had been built by Kaos , and discovered a strange device inside the Matter Refactoring Room. Ro-Bow was able to access the device and download a staggering amount of information from it, which gave him the ability to speak, albeit in a slightly strange language, as well as shoot driller arrows with pinpoint accuracy. He also acquired a lot of details about Kaos himself. Even though Ro-Bow's past was a mystery, his future became quite clear - his new prime directive was to seek out Master Eon and help fight evil. With this incredible archery knowledge and skills, there could be no better trainer for the Bowslinger Class, so Eon made him a Sensei on the spot.",
+  "description": "Ro-Bow is a robotic one-eyed Tech Sensei of the Bowslinger Battle Class in Skylanders: Imaginators. He is included in the Lost Imaginite Mines Level Pack.",
+  "biography": "There is no record of the person who originally built Ro-Bow. By the time his basic systems were fully online, his creator was nowhere to be found. Ro-Bow searched far and wide, but since his programming was incomplete, he was unable to communicate with anyone. Eventually he stumbled upon the remains of an old lair that had been built by Kaos, and discovered a strange device inside the Matter Refactoring Room. Ro-Bow was able to access the device and download a staggering amount of information from it, which gave him the ability to speak, albeit in a slightly strange language, as well as shoot driller arrows with pinpoint accuracy. He also acquired a lot of details about Kaos himself. Even though Ro-Bow's past was a mystery, his future became quite clear - his new prime directive was to seek out Master Eon and help fight evil. With this incredible archery knowledge and skills, there could be no better trainer for the Bowslinger Class, so Eon made him a Sensei on the spot.",
+  "quote": "Compute and Shoot!",
   "personality": "Though it's unclear if it was caused by the speech patterns or the other way around, Ro-Bow is prideful and arrogant, constantly taunting his enemies even after a victory and complimenting his own characteristics.",
-  "story": null,
+  "story": [
+    {
+      "story_name": "Physical Traits",
+      "content": "Ro-Bow is a robotic creature with parts of black and green metal and a single blue lens for his eye. He wears a green hood matching the green arms, the signature golden Sensei belt and a black tassel, and uses a red and gold bow with drill-shaped red arrows.",
+      "hasImage": true,
+      "imgPath": "Ro-Bow_Promo.jpg"
+    },
+    {
+      "story_name": "Personality",
+      "content": "Though it's unclear if it was caused by the speech patterns or the other way around, Ro-Bow is prideful and arrogant, constantly taunting his enemies even after a victory and complimenting his own characteristics.",
+      "hasImage": false,
+      "imgPath": "null"
+    },
+    {
+      "story_name": "Biography",
+      "content": "There is no record of the person who originally built Ro-Bow. By the time his basic systems were fully online, his creator was nowhere to be found. Ro-Bow searched far and wide, but since his programming was incomplete, he was unable to communicate with anyone. Eventually he stumbled upon the remains of an old lair that had been built by Kaos, and discovered a strange device inside the Matter Refactoring Room. Ro-Bow was able to access the device and download a staggering amount of information from it, which gave him the ability to speak, albeit in a slightly strange language, as well as shoot driller arrows with pinpoint accuracy. He also acquired a lot of details about Kaos himself. Even though Ro-Bow's past was a mystery, his future became quite clear - his new prime directive was to seek out Master Eon and help fight evil. With this incredible archery knowledge and skills, there could be no better trainer for the Bowslinger Class, so Eon made him a Sensei on the spot.",
+      "hasImage": false,
+      "imgPath": "null"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "\"Compute and Shoot!\"",
+        "\"OMG, plus one to all Imaginators who train with me!\" - Sensei Training Bonus",
+        "\"And now your Bowslingers can pwn the bad guys with this Secret Technique I hacked together.\" - Secret Technique Bonus",
+        "\"Let's log on to victory!\" - before a battle",
+        "\"Ugh, I'm spammed with enemies!\"",
+        "\"Game over for you bad guys!\" - after a battle",
+        "\"What a bunch of noobs.\"",
+        "\"Ro-Bow FTW!\"",
+        "\"OMG, they got pwned!\"",
+        "\"Password accepted!\" - opening a gate",
+        "\"Fixed that for you.\"",
+        "\"Plus one!\" - leveling up",
+        "\"I rule!\" - leveling up",
+        "\"Smiley face!\"",
+        "\"Overload!\"",
+        "\"Sweet!\"",
+        "\"Oh, that's going on the playlist!\" - Ringing a Battle Gong",
+        "\"Your mileage may vary with this attack.\"",
+        "\"Welcome to my homepage!\" - checking stats",
+        "\"TLDR.\"",
+        "\"Double clicking on Sensei Power!\"",
+        "\"Does this help?\" - Sky-Chi - Ctrl-Alt-Defeat",
+        "\"I heart Sky-Chi!\"",
+        "\"Sky-Chi.exe\"",
+        "\"OMG!\" - End of Sky-Chi",
+        "\"Okay, booting up!\" - Bowslinger Sensei Shrine"
+      ]
+    }
+  ],
+  "trivia": [
+    "Ro-Bow's 'strange' speech patterns are actually internet terms and various slang, also known as chatspeak. Dreamcatcher also speaks this way, though to a lesser degree and willingly.",
+    "The Snapshot Head part for Imaginators greatly resembles Ro-Bow's, and is possibly a reference to the fact his head resembles a computer webcam. It is also the name of another bow and arrow Skylander, Snap Shot.",
+    "Ro-Bow unlocks the Cavalier Hat headgear part for Imaginators, despite wearing a hood instead.",
+    "While in turret form, he resembles the Personality Core Wheatley from the Portal franchise.",
+    "He is the only robot Tech Skylander to lack silver, gold and/or orange parts, the element's main colors.",
+    "He, Wild Storm, Crash Bandicoot, and Dr. Neo Cortex are the only Skylanders figures to also double as Adventure or Level Pack figures.",
+    "He resembles Robin Hood, a legendary heroic outlaw in English folklore who was a highly skilled archer, usually depicted using a traditional medieval cloak and hood.",
+    "During a Grind Challenge, Ro-Bow curls up into a ball and rolls instead of sliding on his two feet.",
+    "He is the second Skylander to tuck and roll every time he jumps while Stink Bomb is the first.",
+    "His Sky-Chi 'Ctrl-Alt-Defeat' is a pun on 'Ctrl+Alt+Delete', a computer keyboard command on IBM PC compatible computers.",
+    "Strangely, Ro-Bow's name is stylized in all capital letters in-game.",
+    "Ro-Bow shares some design characteristics with a flash game character named GunBot, both are one eyed robots that wear cloaks and use ranged weapons.",
+    "If Ro-Bow presses attack 1 in the air before Havoc Orb is purchased, he will fire an explosive arrow diagonally downwards.",
+    "Due to being the last Skylander released, Ro-Bow is one of the few most expensive non-variant figures on the secondhand market (the other being Chompy Mage)."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Imaginators Meet Master Ro-Bow",
+      "isValid": true,
+      "url": "/wiki/File:Official_Skylanders_Imaginators_Meet_Master_Ro-Bow"
+    },
+    {
+      "name": "Skylanders Imaginators - Ro-Bow Soul Gem Preview",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Imaginators_-_Ro-Bow_Soul_Gem_Preview"
+    }
+  ],
+  "gameplay": "Ro-Bow is a long-range Bowslinger who utilizes high-tech arrows and internal gadgets. His primary attacks involve shooting explosive arrows and executing combos, while his secondary allows him to roll to safety. He can also deploy a Deconstruction Laser or transform into a stationary turret to slow and damage enemies. His Sky-Chi power, Ctrl-Alt-Defeat, allows him to drill through multiple foes.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Ro-Bow",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Archer Combo",
+        "imgPath": "Ro-Bowprimarypower.png",
+        "content": "Press Attack 1 to shoot. Press Attack 1, Attack 3, Attack 1 for an Archer Combo Finisher. Basic arrow shots also carry enemies with them.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Whirling Destruct-O-Matic",
+        "imgPath": "Ro-Bowsecondarypower.png",
+        "content": "Press Attack 2 to roll out. Hold Attack 2 to increase the duration of the roll.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Reinforced Arrows",
+        "imgPath": "Ro-Bowbasicupgrade1.png",
+        "content": "Arrows now explode.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Deconstruction Laser",
+        "imgPath": "Ro-Bowbasicupgrade2.png",
+        "content": "Press Attack 3 to fire a laser. Enemies hit by this attack take increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Whirling Destruct-O-Matic V2",
+        "imgPath": "Ro-Bowbasicupgrade3.png",
+        "content": "Increases max duration, damage, and speed in this mode.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Havoc Orb",
+        "imgPath": "Ro-Bowbasicupgrade4.png",
+        "content": "Jump and press Attack 1 to fire arrows everywhere.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Ro-Bow Rampage",
+        "imgPath": "Ro-Bowsoulgempower.png",
+        "content": "Press Attack 3 in the air to launch a barrage of lasers, missiles, and arrows on enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 6,
+        "name": "Ctrl-Alt-Defeat",
+        "imgPath": "Ro-Bowskychipower.png",
+        "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power and drill through your enemies! Use Left Stick to move around!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Archery Mastery",
+        "abilities": [
+          {
+            "name": "Charged Shot",
+            "imgPath": "Ro-Bowpath1upgrade1.png",
+            "content": "Hold Attack 1 to fire a charged arrow that deals heavy damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Improved Archery",
+            "imgPath": "Ro-Bowpath1upgrade2.png",
+            "content": "Arrow attacks deal increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Archer Combos",
+            "imgPath": "Ro-Bowpath1upgrade3.png",
+            "content": "Press Attack 1, Attack 3 twice to create a storm of arrows. Press Attack 1, Attack 3, Attack 2 to auto fire arrows from both hands.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Tech Mastery",
+        "abilities": [
+          {
+            "name": "Enhanced Deconstruction Laser",
+            "imgPath": "Ro-Bowpath2upgrade1.png",
+            "content": "Hold Attack 3 to charge the laser.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Whirling Destruct-O-Matic V3",
+            "imgPath": "Ro-Bowpath2upgrade2.png",
+            "content": "Whirling Destruct-o-matic v3 damage increases and it deals area damage at the end of the move based on the number of enemies hit.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Mechanical Obelisk",
+            "imgPath": "Ro-Bowpath2upgrade3.png",
+            "content": "Press Attack 3 to fire the charged laser or hold Attack 3 to transform into a turret that fires a beam that slows and damages enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "ro-bow",
@@ -34,7 +307,28 @@
         "Deconstruction Laser",
         "Havoc Orb"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "210"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "300"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "160"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "190"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "300"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Ro-Bow"
     }
   ]
