@@ -1,29 +1,402 @@
 {
   "id": "ninjini",
   "name": "Ninjini",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
+  "species": "Elven Genie",
+  "gender": "Female",
+  "element": "Magic",
+  "role": "Giant",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [
+    "The Kaos Trap",
+    "Rift into Overdrive"
+  ],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Ninjini is a Magic ninja genie, and one of the eight Giants in Skylanders: Giants.",
   "biography": "Ninjini was the most renowned magical ninja from ancient times, long before the Arkeyans rose to power. But a dark sorceress, who was jealous of Ninjini's skill as a warrior, trapped her within an enchanted bottle to be imprisoned for all of eternity. Time stretched on, yet Ninjini remained steadfast and determined to escape - even mastering the dual sword technique within the solitude of her bottle. Over the years, her strength continued to grow until alas, through sheer force of will, she broke free! From that moment on, Ninjini made it her mission to help those in need as one of the first Skylanders, always carrying that enchanted bottle as a reminder of her own resilience.",
-  "personality": "An eternal optimist, Ninjini spins into battle, convinced she will always succeed come what may. &#91; 3 &#93;",
-  "story": null,
+  "quote": "Any last wishes?",
+  "personality": "An eternal optimist, Ninjini spins into battle, convinced she will always succeed come what may.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "As a ninja with command over the Magic Element, Ninjini was a real force to be reckoned with back before the Arkeyans came along. Her skills, power and snazzy hairstyle drove an evil sorceress mad with jealousy, and using dark magic the sorceress trapped Ninjini inside an enchanted bottle. There she remained for years and years, but she didn't waste a single moment. Instead, she spent her time getting more awesome by the day, developing her Magic abilities and learning how to skillfully wield double swords. Eventually she became too powerful to contain, and managed to squeeze her way free of her enchanted prison. She swore then to use her Magic, ninja skill and massive size to protect Skylands from those would do it harm.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Spyro_Ninjini_StinkBomb_Comic.png"
+    },
+    {
+      "story_name": "The Kaos Trap",
+      "content": "Ninjini was helping Spyro and Stink Bomb battle against a raid of Drow in an unknown area of Skylands. When Hugo called upon them to assist Stealth Elf, Pop Fizz and Wash Buckler on a Level 13 threat, Spyro's team was unable to help out as they were tied up with their current situation.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Any Last Wishes?",
+        "You wish you could beat me!",
+        "I have granted you defeat!",
+        "My blade served me well!",
+        "I foresaw this outcome!",
+        "Excellent!",
+        "Sweet success!",
+        "How lovely!",
+        "Viola!",
+        "Surprise!",
+        "My path lies ahead.",
+        "Make way!",
+        "Reveal your secrets!",
+        "This place is strong with magic.",
+        "Ah riches.",
+        "Mmm, yes!",
+        "Such strength!",
+        "Impressive powers!",
+        "Wonderful!",
+        "Splendid!",
+        "I couldn't wish for a better name!",
+        "You granted me a fantastic name."
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Ninjini has arrived!",
+        "Behold, Ninjini!",
+        "And so it begins!",
+        "Ready to serve!",
+        "I wish you a swift defeat!",
+        "Any last wishes?",
+        "Alakazam!",
+        "Blades to battle!",
+        "I shall be watching.",
+        "Poof!",
+        "My power grows!",
+        "My strength is within!",
+        "Truly mystical!",
+        "Indeed impressive!",
+        "I approve.",
+        "Just the thing!",
+        "A revelation!",
+        "Ah ha!",
+        "Showtime!",
+        "Now this is a show stopper!",
+        "Have a ball - all of you!",
+        "There's plenty to go around!",
+        "All shall be revealed!",
+        "Wish and be amazed!",
+        "(Incantation in Gibberish)",
+        "No wishes for you!",
+        "Beware the bottle!",
+        "A triumphant blow!",
+        "Your destiny at failure awaits!",
+        "I must rest now...",
+        "I cannot see my path...!",
+        "Victory has been taken from me...",
+        "My victory has gone up in smoke...",
+        "My win was foretold!",
+        "You wish you could beat me!",
+        "I wish you to stop that!",
+        "Yes?",
+        "What say you?",
+        "You dare to trifle with Ninjini?",
+        "A grim destiny awaits you.",
+        "Don't press your luck!",
+        "My strength is ever growing!",
+        "Fulfilling my destiny!",
+        "OK!",
+        "Right on!",
+        "I fear no-one!",
+        "Yeah!",
+        "Bummer.",
+        "I wish to continue - now!",
+        "All right!",
+        "A worth adversary.",
+        "Fate has chosen a tie.",
+        "Nice!",
+        "Victory!",
+        "Hey!",
+        "Cool!",
+        "(sigh) I could be napping inside my bottle.",
+        "Perfect!",
+        "Excellent!",
+        "Not good.",
+        "Success!",
+        "Sweet!",
+        "Awesome!",
+        "Ninjini has NO equal."
+      ]
+    }
+  ],
+  "trivia": [
+    "Ninjini is the only Giant who is female.",
+    "She is also the first female Magic Skylander, as well as the first female non-core Skylander.",
+    "Ninjini holds her swords for a few seconds after entering the game or using her primary attack, before they disappear with a sparkle effect. They reappear whenever she uses the attack again.",
+    "Ninjini is the only Giant that doesn't pick up a boulder and pull a chained isle physically. Instead, she uses telekinesis.",
+    "Even when Ninjini hides in her bottle, she can still run over small enemies, such as Chompies, Spiderlings, and Trog Pinchers, like the rest of the Giants. In Swap Force, Ninjini can move while inside her bottle faster than being in Giants.",
+    "Ninjini is voiced by Laura Bailey, who also voices Persephone and is the wife of Travis Willingham who voices Eye-Brawl, Doom Stone, and Buzz.",
+    "Outisde of Skylanders, she is also the voice of Rayne in the Bloodrayne series, Jaina Proudmoore in World of Warcraft, and Maka Albarn in Soul Eater.",
+    "Ninjini is the first Skylander to have her catchphrase ending with a question mark, the second being Déjà Vu.",
+    "Coincidentally, they are both female Magic Skylanders.",
+    "Ninjini's Wishbladesplosion attack has the ability to slow time for a short moment. Because of this, she is the only Skylander able to manipulate the flow of time, other than Déjà Vu.",
+    "Out of all the Giants, Ninjini took the longest to develop.",
+    "In early development, Ninjini was called Djini and appeared drastically different from her final counterpart. Strangely, though, her alpha HUD portrait depicts her final appearance.",
+    "Her original model was shorter, light-skinned, and blonde, and she wore a crop top, purple earrings, and a yellow-jeweled purple skirt.",
+    "Her catchphrase was 'Your wish is my command.'",
+    "Her early moving animation included folding her hands in front of her chest.",
+    "Her swords, which appeared only as they were swung, were originally thick red-gold scimitars inlaid with blue jewels.",
+    "Ninjini, Thumpback, and Crusher are the only three Giants to have weapons that are not a part of their bodies.",
+    "She, Stealth Elf and Boom Bloom are the only female Skylanders who are ninjas.",
+    "Ninjini's name is a play on 'Ninja' and 'djinni'(or 'jinn'), the Arabic word for 'genie'.",
+    "Ninjini has more syllables in her name than any other giant.",
+    "Ninjini is similar to Giganta from Justice League Unlimited. Both are female giants who have red haired ponytails.",
+    "She is the only Skylander to have a Battlecast spell with the same name as an upgrade, Abraca-Stab-Bra.",
+    "Also in Battlecast, her echo filter is replaced with a reverb.",
+    "Several aspects of Ninjini were used for the Swashbuckler battle class in Imaginators.",
+    "In Ring of Heroes, Ninjini carries her bottle in her belt rather than her back. Oddly, she also has no attacks that use it, though it appears in one of her skill icons.",
+    "In Swap Force, when Ninjini is removed from the Portal, she either giggles or says 'Goodbye.'",
+    "In Universe, she is the only Skylander without a favorite plant.",
+    "Ninjini has the record for being the tallest Skylander figure across all games.",
+    "On her figure, Ninjini's LED eyes originally glowed so brightly that her face glowed as well, which required her face to be painted over twice."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Giants - Meet the Skylanders - Ninjini (Any Last Wishes?)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Ninjini_(Any_Last_Wishes%3F)"
+    },
+    {
+      "name": "Skylanders Giants - Ninjini's Soul Gem Preview (Any Last Wishes?)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Ninjini%27s_Soul_Gem_Preview_(Any_Last_Wishes%3F)"
+    }
+  ],
+  "gameplay": "Ninjini is a powerful Giant who can summon her ninja swords out of thin air to fight in close combat, she can create magical orbs to attack from afar, and hide inside her bottle for faster movement, more endurance and homing attacks such as magical rockets and enchanted mist which entrances enemies.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Ninjini",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Wishblades",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Ninjiniprimarypower.png",
+        "content": "Press the Attack 1 button to swing dual swords for hacking and slashing enemies. Press Attack 1, Attack 1, Hold Attack 1 for a special combo.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Bottle Blast",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ec/Ninjinisecondarypower.png",
+        "content": "Press Attack 2 to hide inside the bottle. Press Attack 2 again to blast out in a magical explosion.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Surrealistic Spheres",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b7/Ninjinibasicupgrade1.png",
+        "content": "Hold Attack 3 to summon magical orbs and cast them towards enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Abra-Ca-STAB-Bra",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/70/Ninjinibasicupgrade2.png",
+        "content": "Wishblades do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Juggling Act",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Ninjinibasicupgrade3.png",
+        "content": "Hold Attack 3 to summon four magical orbs and damage multiple enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Bottle Rockets",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/02/Ninjinibasicupgrade4.png",
+        "content": "While inside the bottle, press Attack 1 to launch rockets.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Dazzling Enchantment",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Ninjinisoulgempower.png",
+        "content": "While inside the bottle, hold down Attack 3 to put enemies into a trance.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Swords of Might",
+        "abilities": [
+          {
+            "name": "Wishblade Combos",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Ninjinipath1upgrade1.png",
+            "content": "Press Attack 1, Attack 1, Hold Attack 2 for Fling Blade. Press Attack 1, Attack 1, Hold Attack 3 for Enchanted Blade.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Wishbladesplosion",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Ninjinipath1upgrade2.png",
+            "content": "Hold Attack 1 button to charge up the swords into an explosive blast.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Ultimate Wishblade",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Ninjinipath1upgrade3.png",
+            "content": "Wishblades do maximum damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Ancient Djinn Magic",
+        "abilities": [
+          {
+            "name": "Super Surrealistic Spheres",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/85/Ninjinipath2upgrade1.png",
+            "content": "Magical orbs do more damage and affect a greater area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Ultimate Bottle Rockets",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c6/Ninjinipath2upgrade2.png",
+            "content": "Bottle rockets launch faster, do more damage, and affect a greater area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Buy a Better Bottle",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/81/Ninjinipath2upgrade3.png",
+            "content": "Bottle is stronger and moves faster.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "ninjini",
       "variant_name": "Ninjini",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
+      "type": "Giant",
+      "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/7/78/Ninjini_Promo.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Wishblades",
+        "Bottle Blast",
+        "Surrealistic Spheres",
+        "Abra-Ca-Stab-Bra",
+        "Juggling Act"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "410 (max. 820)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60 (max. 108)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "48 (max. 78)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "80 (max. 130)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "32 (max. 82)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Ninjini"
     }
   ]
