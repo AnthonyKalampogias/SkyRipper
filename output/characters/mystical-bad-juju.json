@@ -4,21 +4,133 @@
   "species": "Skeleton Ghost",
   "gender": "Female",
   "element": "Air",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": "Just like her name suggests, Bad Juju had always been bad. From her humble beginnings as a witch doctor, where she put curses on her patients instead of curing them, to being the Golden Queen’s right-hand sorceress, she had spent her entire life as a villain. Being captured by the Skylanders didn’t do much to change her attitude either. At least, that was the case until the day she conjured up more than she bargained for – a son named Juju Junior. That was when she finally decided it was time to come to change her lifestyle. She didn’t want to raise Juju Junior inside a prison thinking that his magical mother was a criminal. So she asked Master Eon to give her a chance to be a hero instead. As luck would have it, Eon was a looking for a Swashbuckler Sensei who could help train Imaginators the value of being good. Not bad for Bad Juju.",
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Mystical Bad Juju is the Mystical counterpart of Bad Juju in Skylanders: Imaginators. The figure was exclusively sold at GameStop stores and features a distinct black, white, and gold color scheme.",
+  "biography": "Just like her name suggests, Bad Juju had always been bad. From her humble beginnings as a witch doctor, where she put curses on her patients instead of curing them, to being the Golden Queen's right-hand sorceress, she had spent her entire life as a villain. Being captured by the Skylanders didn't do much to change her attitude either. At least, that was the case until the day she conjured up more than she bargained for – a son named Juju Junior. That was when she finally decided it was time to change her lifestyle. She didn't want to raise Juju Junior inside a prison thinking that his magical mother was a criminal. So she asked Master Eon to give her a chance to be a hero instead. As luck would have it, Eon was looking for a Swashbuckler Sensei who could help train Imaginators the value of being good. Not bad for Bad Juju.",
+  "quote": "The Spirit is Willing!",
+  "personality": "Mystical Bad Juju is a reformed villain whose primary motivation is her son, Juju Junior. She is determined, protective, and seeks to prove that even those with a dark past can become heroes through devotion and change.",
+  "story": [
+    {
+      "story_name": "The Reform of Bad Juju",
+      "content": "Desiring a better life for her son, Juju Junior, Bad Juju left her life of crime behind to join the Skylanders as a Sensei, proving her redemption through the Mystical arts.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Sensei catchphrase",
+      "content": [
+        "The Spirit is Willing!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Though her blades are red in the figure and official artwork, they have their original cyan color in the game.",
+    "Possibly because they share the same palette and outfit, Juju Junior has the same color changes as his mother.",
+    "She and Mystical Tae Kwon Crow are the only Mystical counterparts of the franchise.",
+    "A villainous variant appears as an Undead enemy in Skylanders: Ring of Heroes."
+  ],
+  "trailers": [],
+  "gameplay": "As a Swashbuckler Sensei, Mystical Bad Juju utilizes rapid-fire blade strikes and air-based magic. She can summon Juju Junior to the field to create whirlwinds and knock back enemies, providing a mix of melee and area-of-effect damage.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Mystical_Bad_Juju",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Whirling Blades",
+        "imgPath": "whirling_blades.png",
+        "content": "Press Attack 1 to slash with your blades. Continue pressing for a combo.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#33ccff",
+          "bg_content": "#002244"
+        }
+      },
+      {
+        "name": "Juju Junior",
+        "imgPath": "juju_junior.png",
+        "content": "Press Attack 2 to summon Juju Junior to create a small whirlwind.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#33ccff",
+          "bg_content": "#002244"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Windy Wail",
+        "imgPath": "windy_wail.png",
+        "content": "Hold Attack 2 to charge a more powerful whirlwind attack.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 500,
+        "colors": {
+          "header": "#33ccff",
+          "bg_content": "#002244"
+        }
+      },
+      {
+        "name": "Static Shock",
+        "imgPath": "static_shock.png",
+        "content": "Blade attacks now deal additional lightning damage to nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#33ccff",
+          "bg_content": "#002244"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Child Protection",
+        "imgPath": "child_protection.png",
+        "content": "Juju Junior will automatically counterattack any enemy that strikes Bad Juju.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#33ccff",
+          "bg_content": "#002244"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Lending a Hand",
+        "abilities": [
+          {
+            "name": "Junior's Justice",
+            "imgPath": "juniors_justice.png",
+            "content": "Juju Junior's whirlwind and attacks deal significantly more damage.",
+            "is_primary": false,
+            "is_secondary": true,
+            "price": 1200,
+            "colors": {
+              "header": "#33ccff",
+              "bg_content": "#002244"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "mystical-bad-juju",
@@ -34,7 +146,24 @@
         "Static Shock",
         "Child Protection"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Attack",
+          "stat_value": "220"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "110"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "130"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "150"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Mystical_Bad_Juju"
     }
   ]
