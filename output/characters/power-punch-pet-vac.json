@@ -4,6 +4,7 @@
   "species": "Sky Baron",
   "gender": "Male",
   "element": "Air",
+  "role": "Mini",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -11,16 +12,32 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands Miniverse"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "This year, Pet Vac is aiming to reign supreme in the Annual Dragon Egg Hunt and break the all-time Skylander record for number of eggs collected (currently held by Sonic Boom ). Some say that having a suction gun gives Pet Vac an unfair advantage. But everyone knows better than to say that directly to the little Sky Baron , because despite being small, he packs a big punch!",
-  "personality": null,
-  "story": null,
+  "description": "Power Punch Pet Vac is an alter ego of the Air Mini, Pet Vac, in Skylanders: Trap Team.",
+  "biography": "This year, Pet Vac is aiming to reign supreme in the Annual Dragon Egg Hunt and break the all-time Skylander record for number of eggs collected (currently held by Sonic Boom). Some say that having a suction gun gives Pet Vac an unfair advantage. But everyone knows better than to say that directly to the little Sky Baron, because despite being small, he packs a big punch!",
+  "quote": "Hawk and Awe!",
+  "personality": "",
+  "story": [],
+  "quotes": [],
+  "trivia": [
+    "His appearance resembles Full Blast Jet-Vac. This is exemplified by his figure, whose colour combinations are effectively identical to Full Blast Jet-Vac.",
+    "He, Eggsellent Weeruptor, and Gnarly Barkley are the only Minis to be available in single packs instead of double packs.",
+    "The coloration of his figure is actually different than the coloration of his official art and in game model. His figure is black and red, but his in game model and official art are gold and red. Interestingly, the figure shown on the official Skylanders website shows it with the in game colouration, despite this never being released.",
+    "The color of the suit resembles Iron Man."
+  ],
+  "trailers": [],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Power_Punch_Pet-Vac",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "power-punch-pet-vac",
@@ -36,7 +53,44 @@
         "Vac Blaster 9000",
         "Fiester Fan"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "???"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "110"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "130"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Power_Punch_Pet-Vac"
     }
   ]
