@@ -4,6 +4,7 @@
   "species": "Pufferthorn",
   "gender": "Male",
   "element": "Air",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -13,16 +14,261 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Pop Thorn is a pufferthorn who is one of the two Air Core Skylanders in Skylanders: Swap Force. He is part of the Tower of Time Adventure Pack, but is also available in a single pack.",
   "biography": "Pop Thorn hails from a race of creatures known as Pufferthorns. Often considered one of the cutest creatures in all of Skylands, they are generally quite timid and puff out sharp spines when scared. It is this ability that long ago led to the unfortunate legacy of being used as combs by giant trolls everywhere, being the sharp spines are perfect for brushing out tangles from their long, matted hair. But not long ago, one Pufferthorn took a stand. Tired of his race being used for nothing more than good grooming, Pop Thorn used his naturally thorny abilities to stand up and fight back against the giant trolls. Soon after, Master Eon made Pop Thorn a Skylander. And to this day, no trolls dare to comb their hair.",
-  "personality": "Pop Thorn is sweetness and light until something ruffles his spines. Nothing needles him more than being taken for granted. He doesn't let anyone walk all over him, and ensures that his foes get the point. &#91; 4 &#93;",
-  "story": null,
+  "quote": "Straight to the Point!",
+  "personality": "Pop Thorn is sweetness and light until something ruffles his spines. Nothing needles him more than being taken for granted. He doesn't let anyone walk all over him, and ensures that his foes get the point.",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Straight to the Point!",
+        "You've hit the point of no return!",
+        "Popping up!",
+        "A thorn in your side.",
+        "Puffing along.",
+        "A clear cut success.",
+        "Pointing the way.",
+        "Point of Fact: You lose.",
+        "A cool place to stick around.",
+        "Nice haul.",
+        "I'll take it.",
+        "Razor sharp.",
+        "Power blast!",
+        "Full power!",
+        "Sharp as a Tack!",
+        "Scoring major points.",
+        "Not a bad look for me.",
+        "I'm looking pretty sharp.",
+        "I can roll with this name.",
+        "Rolls right off the tongue."
+      ]
+    },
+    {
+      "quote_type": "Media Quotes",
+      "content": [
+        "Agghh! These cards are AWFUL!- The Card Game Short Cut",
+        "Yes! I do have a two! And a four and a king and a queen- maybe they're married."
+      ]
+    }
+  ],
+  "trivia": [
+    "Pop Thorn resembles a pufferfish.",
+    "When not puffed, he looks similar to a dragon.",
+    "He and Pop Fizz are the only Skylanders that have \"Pop\" in their names. Coincidentally, they both also have two changeable forms and were voiced by two American stand-up comedians.",
+    "His name is a play on the popular movie snack food \"popcorn.\" Coincidentally, his Lost Islands alter ego, Buttered Pop Thorn, is based on popcorn.",
+    "Developer Dan Wallace remarks, \"From the first time I saw Pop Thorn I knew he was going to be a character people love.\"",
+    "Soon after Pop Thorn was born, the Pufferthorns held a competition to find the cutest baby. The entries were all so adorable that every single one of them tied for first place except for Pop Thorn, who came second. Even back then, it seems, there was a hint of danger about him that was not present in other Pufferthorns.",
+    "Pop Thorn's single pack toy figure has a completely different mold and is more vibrant in color compared his toy figure in the Tower of Time adventure pack.",
+    "He makes squeaky noises whenever he walks.",
+    "Pop Thorn is mostly portrayed in his Puffed form.",
+    "Pop Thorn is a bit similar to Wrecking Ball, both are blue, small, roundish, and have a cute appearance.",
+    "He was originally called Gasteroid.",
+    "Whenever he is placed on the portal, after he says his Catchphrase, a tinkly sound can be heard in the background before he puffs up.",
+    "Whenever Pop Thorn changes from Pop to Puff form and vice versa, the resulting transformation can deal damage, but this is not mentioned in the upgrades.",
+    "Pop Thorn, Blades and Free Ranger are the only Air Skylanders who can't fly in-game.",
+    "As seen in the Skylanders Short Cuts, Pop Thorn puffs up when he bluffs.",
+    "On the 3DS, the art of Puffed Pop Thorn will switch to a picture of his Popped form, not seen anywhere else, when switched.",
+    "His Soul Gem Ability title, \"To Puff or Not to Puff,\" is a joke on \"To be or not to be\", a popular quote from William Shakespeare's Hamlet.",
+    "Pop Thorn and Blades share some similarities with each other: They are both Air element Skylanders. They are both quadrupedal creatures. They both have protection on their bodies (Pop Thorn's spikes and Blades' bladed armor). Both of their Soul Gems are found in the first level of their respective games. They both come in Adventure Packs (Tower of Time for Pop Thorn and Nightmare Express for Blades) that are available in the first wave.",
+    "In his HUD artwork in Swap Force, Pop Thorn's eyes are blue, but they appear yellow everywhere else."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Pop Thorn (Straight to the Point)",
+      "isValid": false,
+      "url": ""
+    },
+    {
+      "name": "Skylanders Swap Force - Pop Thorn Soul Gem Preview (Straight to the Point)",
+      "isValid": false,
+      "url": ""
+    }
+  ],
+  "gameplay": "Pop Thorn can inflate himself to a large size, and shoot homing spikes at enemies while inflated. Pop Thorn can also deflate himself and shoot blasts of wind while popped. While deflated, Pop Thorn's third attack allows him to create wind traps which explode when enemies are near, when he is deflated. While inflated, Pop Thorn's third attack lets him smash enemies with his spiky body.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Pop_Thorn",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Puff",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Pop_Thornprimarypower.png/revision/latest/scale-to-width-down/148?cb=20140802180915",
+        "content": "Press Attack 1 to Puff and damage nearby enemies. While puffed, rapidly press Attack 1 to shoot out homing spikes at nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Pop",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Pop_Thornsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20140802180942",
+        "content": "Press Attack 2 to Pop and shoot a large wind blast. While popped, hold Attack 2 to shoot gusts of wind at enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Fresh Breath",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d3/Pop_Thornbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20140802181044",
+        "content": "Press Attack 2 to Pop. After popping, hold Attack 2 to shoot more powerful air projectiles for a short time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Puffball Pound",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/35/Pop_Thornbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20140802181113",
+        "content": "Press Attack 1 to Puff. Press Attack 3 while puffed to slam into the ground, damaging all nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Polished Spikes",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/85/Pop_Thornbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20140802181137",
+        "content": "Press Attack 1 to Puff. After puffing, press Attack 1 rapidly to shoot more powerful spike projectiles for a short time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Wind Trap",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Pop_Thornbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20140802181216",
+        "content": "While popped, press Attack 3 to leave behind a spiny mine. The mine puffs and explodes when enemies approach, launching them into the air.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "To Puff or Not to Puff",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Pop_Thornsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20140802181007",
+        "content": "While popped, speed is increased. While puffed, armor is increased, which reduces damage taken.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Tough and Puffed",
+        "abilities": [
+          {
+            "name": "Rollerpuff",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Pop_Thornpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20140802181957",
+            "content": "While puffed, hold Attack 3 to roll forward, damaging all enemies in the way.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Bounceback",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ac/Pop_Thornpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20140802182029",
+            "content": "Puffing deals increased damage and reflects nearby projectiles.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Prickly Body",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/22/Pop_Thornpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20140802182057",
+            "content": "While puffed, taking damage releases a spike projectile that damages an attacker.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Controlled Breather",
+        "abilities": [
+          {
+            "name": "Aero Trampoline",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Pop_Thornpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20140802181359",
+            "content": "While puffed, hold Attack 3 to charge a powerful slam attack, release to bounce multiple times, damaging all enemies in the way.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Deep Breath",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Pop_Thornpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20140802181423",
+            "content": "While puffed, press Attack 2 to shoot three air blasts instead of one.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Scattered Winds",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Pop_Thornpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20140802181456",
+            "content": "While popped, air beams now shoot multiple projectiles that spread",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "pop-thorn",
@@ -39,7 +285,28 @@
         "Rollerpuff",
         "Wind Trap"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 (max. 560)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6 (max. 56)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Pop_Thorn"
     }
   ]
