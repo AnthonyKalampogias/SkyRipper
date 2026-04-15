@@ -4,6 +4,7 @@
   "species": "Fire Dog",
   "gender": "Male",
   "element": "Fire",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -12,16 +13,30 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Molten Hot Dog is a yellow flaming version of the Fire Skylander, Hot Dog.",
+  "biography": "",
+  "quote": "See Spot Burn!",
+  "personality": "",
+  "story": [],
+  "quotes": [],
+  "trivia": [
+    "Molten Hot Dog is set to be featured in his own Skylanders Activity Book: Molten Hot Dog's Quiz Quest.",
+    "He is the third Wal-Mart exclusive, and the first to appear different in-game (the first was a Red Drill Sergeant, the second was a Glow-In-The-Dark Series 2 Sonic Boom and the fourth was Enchanted Hoot Loop )."
+  ],
+  "trailers": [],
+  "gameplay": "Molten Hot Dog has the same ability as his normal counterpart, lobbing fireballs and turning himself into a comet to hurl himself at enemies. He can also summon a wall of fire.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Molten_Hot_Dog",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "molten-hot-dog",
@@ -37,7 +52,28 @@
         "Wall of More Fire",
         "Super Comet"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "250 (max. 500)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "70 (max. 120)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Molten_Hot_Dog"
     }
   ]
