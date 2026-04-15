@@ -4,6 +4,7 @@
   "species": "Fish",
   "gender": "Male",
   "element": "Water",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -13,22 +14,322 @@
     "Skylanders: Battlecast",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Rip Tide was known far and wide as one of the best Aqua-Fighters in Skylands . He mastered a multitude of water techniques and astonished tournament spectators with his ability to adapt his fighting style to any opponent. Amongst his repertoire were Swordfish Fencing, Hammerhead Heaving, and even the rare Blubber Whale Wallop -- which he had used on numerous occasions in the legendary Rumble in the Reef. His unrivaled skill as a swordsman soon drew the attention of Master Eon . But when Kaos learned of this, he sent forth a legion of Squidface Brutes to stop Rip Tide before he could join the Skylanders... and everyone knows how that turned out, except for the Squidface Brutes, who after being knocked senseless can't remember a thing.",
-  "personality": "Highly adaptable, Rip Tide can master any fighting style in minutes. &#91; 1 &#93; In Skylanders: Battlecast , he has gallant and proud mannerisms.",
-  "story": null,
+  "description": "Rip Tide is an Aqua Fighter who is one of the Core Water Skylanders in Skylanders: Swap Force.",
+  "biography": "Rip Tide was known far and wide as one of the best Aqua-Fighters in Skylands. He mastered a multitude of water techniques and astonished tournament spectators with his ability to adapt his fighting style to any opponent. Amongst his repertoire were Swordfish Fencing, Hammerhead Heaving, and even the rare Blubber Whale Wallop -- which he had used on numerous occasions in the legendary Rumble in the Reef. His unrivaled skill as a swordsman soon drew the attention of Master Eon. But when Kaos learned of this, he sent forth a legion of Squidface Brutes to stop Rip Tide before he could join the Skylanders... and everyone knows how that turned out, except for the Squidface Brutes, who after being knocked senseless can't remember a thing.",
+  "quote": "Go Fish!",
+  "personality": "Highly adaptable, Rip Tide can master any fighting style in minutes. In Skylanders: Battlecast, he has gallant and proud mannerisms.",
+  "story": [
+    {
+      "story_name": "Physical Appearance",
+      "content": "Rip Tide is a blue and teal fish-like amphibious creature wearing a gold outfit, containing fish scale-like patterns, the water logo on the chest and coral like features on the shoulders. He has a fin (resembling a mohawk) on the top of his head, 3 frog-like toes on each foot and 3 frog-like fingers on each hand. He carries a swordfish as his weapon, and can also throw a yellow hammerhead shark, or slam down a killer whale.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Character Development",
+      "content": "Rip Tide was the very first SWAP Force character created, but underwent numerous design changes during the development of Skylanders: Swap Force. His first incarnation was a fish-like creature named Krayken that possessed electrical abilities and had a sentient fish head as his left arm to trap enemies with bubbles, but kid testing revealed that the character looked unfitting for the franchise, and his bubble mechanic was too confusing as a non-damaging move. The design was later scrapped and a frog-like warrior named Bubble Trouble was brought in. However, the new changes to make him more battle-ready and clear made him more confusing instead, with too many contrasting areas and an unclear mechanic. As Wash Buckler and Freeze Blade had been approved at this point, Vicarious Visions decided instead to make him a Core Skylander, and pass on his abilities to other characters while making his fish hand a weapon on its own. The design and name evolved into Rip Tide, resulting with the traits from Bubble Trouble being passed down to Punk Shock and Wash Buckler. From his final design to release, some features on him were also slightly changed, like having smaller eye sockets and a prominent chin. Alternate concepts modeled his head off a seahorse, a squid, or a frog. During his time as Bubble Trouble, he wore a bubble helmet, had an electric eel tail, and wielded a pufferfish arm. According to developer Dan Wallace, 'Rip Tide took triple the time (and pain) to develop, but he sparked ideas for three of our coolest characters.'",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Go Fish!",
+        "Yeah, fin for the win!",
+        "Makin' waves!",
+        "Turning the tide!",
+        "No catching release here!",
+        "Hooked it!",
+        "Yeah!",
+        "Woo-hoo!",
+        "Go!",
+        "Flying fish!",
+        "Up high!",
+        "Going up!",
+        "Whopper of a haul!",
+        "Power wave!",
+        "More power!",
+        "Strapped to the gills!",
+        "I'm tipping the scales!",
+        "That's a whale of a hat!",
+        "I look like a real catch!",
+        "Something fishy about this name!",
+        "Bait and switch!"
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Fintastic!",
+        "Let's make some waves!",
+        "Casting out!",
+        "Surf's up!",
+        "Reeled in!",
+        "Ready for battle!",
+        "Off the hook!",
+        "Time for a rest!",
+        "A powerful swell!",
+        "Looking ship-shape!",
+        "I'll take it!",
+        "A real catch!",
+        "Making a splash!",
+        "Turning the tide!",
+        "Making waves!",
+        "Soak it up!",
+        "Make it rain!",
+        "Jelly time!",
+        "The shock of your life!",
+        "High voltage!",
+        "A whale of a time!",
+        "There's a whale on you!",
+        "Now that's a big one!",
+        "The catch of the day!",
+        "Time for a bite!",
+        "Snack attack!",
+        "Splashed down!",
+        "Tipping the scales!",
+        "Fish overboard!",
+        "Going down!",
+        "Another time!",
+        "I let that one get away...!",
+        "Fin for the win!",
+        "A swell victory!",
+        "Ahoy!",
+        "Easy, now!",
+        "Aye aye!",
+        "Steady on!",
+        "Better watch yourself!",
+        "Having fun?",
+        "A wave of energy!",
+        "Power surge!"
+      ]
+    },
+    {
+      "quote_type": "Media Quotes",
+      "content": [
+        "Looks like I caught myself a whopper! You guys are going down!",
+        "Alright! Time to fish or cut bait!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Rip Tide is voiced by Patrick Seitz, who also voiced Hot Head in Giants. He also voiced Scorpion from Mortal Kombat (2011) and Injustice: Gods Among Us.",
+    "He resembles the Lord of Atlantis from Monster Legends.",
+    "Some of his battle quotes are shared with Gill Grunt.",
+    "Rip Tide, Chill and Tidepool have the ability to summon cetacean allies.",
+    "Developer Arzu Fallahi comments, 'Every time I use the giant whale to attack, my inner child takes over and I get really excited.'",
+    "When he uses his primary attack with the hammerhead shark three times, Rip Tide performs a move similar to Ratchet's Multi-strike move from Ratchet & Clank.",
+    "When Rip Tide grind rails, he uses the hammerhead shark as a board and holds his swordfish no matter which fish he has active.",
+    "He and High Five have the shortest catchphrases, out of every Skylanders. High Five's only has one extra letter, making Rip Tide's the shortest.",
+    "His catchphrase is also the name of a popular card game.",
+    "In the Skylanders: Swap Force: Master Eon's Official Guide handbook, it incorrectly states that his Soul Gem is found in the Rampant Ruins.",
+    "An Awakened form version of Rip Tide was leaked in Skylanders: Ring of Heroes, but he never appeared in the final game.",
+    "He is named after a heavy current from an ocean shore creating heavy tidal waves. (A Riptide)",
+    "This name is also the title of a famous song by 'Vance Joy' released in 2013."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Rip Tide (Go Fish)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Rip_Tide_(Go_Fish)"
+    },
+    {
+      "name": "Skylanders Swap Force - Rip Tide Soul Gem Preview (Go Fish)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Rip_Tide_Soul_Gem_Preview_(Go_Fish)"
+    }
+  ],
+  "gameplay": "Being a skilled Aqua-Fighter, Rip Tide can swipe and slash his enemies with his Swordfish and Sharkfish like swords. He can also summon a large whale from his sleeve and slam it down on his enemies. In Skylanders: Battlecast, he can use fish for a variety of effects, from food for his allies, to draining health with jellyfish, electrifying his swordfish for a debuff, and even summoning sharks and piranhas to add to his team's own damage.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Rip_Tide",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Horn Tetra Attack",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/51/Rip_Tideprimarypower.png/revision/latest?cb=20170506191834",
+        "content": "Press Attack 1 to swing the currently held fish at enemies. Swordfish attacks are quick and Shark attacks are slow, but more powerful.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Fish Toss",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4d/Rip_Tidesecondarypower.png/revision/latest?cb=20170506191840",
+        "content": "Press Attack 2 to toss the currently held fish at enemies. Fish Toss will also change between Swordfish and Shark fish.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Whale On 'Em",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/80/Rip_Tidebasicupgrade1.png/revision/latest?cb=20170506191851",
+        "content": "Press Attack 3 to drop a large whale and smack down a large number of enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Bigger Fish to Fly",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/23/Rip_Tidebasicupgrade2.png/revision/latest?cb=20170506191901",
+        "content": "Press Attack 2 to throw the held fish, doing increased damage to enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Fresh Fish",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7e/Rip_Tidebasicupgrade3.png/revision/latest?cb=20170506191919",
+        "content": "Press Attack 2 to throw the currently held fish. Press Attack 1 to attack and critically hit with the new fish.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Blistering Blubber",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/57/Rip_Tidebasicupgrade4.png/revision/latest?cb=20170506191927",
+        "content": "Whale attacks do increased damage. Pocket whales are known for their helpful nature.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Reinventing the Whale",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/11/Rip_Tidesoulgempower.png/revision/latest?cb=20170506191937",
+        "content": "Angry fish explode out of the whale's spout, seeking out and damaging nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Fishy Fencer",
+        "abilities": [
+          {
+            "name": "Nipping Needle Nose",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d6/Rip_Tidepath1upgrade1.png/revision/latest?cb=20170506192519",
+            "content": "Press Attack 2 to throw the Swordfish which does damage over time to enemies that it hits.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Practiced Parry",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/Rip_Tidepath1upgrade2.png/revision/latest?cb=20170506192529",
+            "content": "Swordfish attacks do increased damage. A sword for a nose! Convenient!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Straight As An Angler",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fa/Rip_Tidepath1upgrade3.png/revision/latest?cb=20170506192532",
+            "content": "Hold Attack 1 to charge a swordfish attack, release to dash through enemies causing them to take damage and be knocked back.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Flounder Pounder",
+        "abilities": [
+          {
+            "name": "Shark Surprise",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Rip_Tidepath2upgrade1.png/revision/latest?cb=20170506192536",
+            "content": "Press Attack 2 to throw the shark which bounces off of enemies heads before landing.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Time to Hammer",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Rip_Tidepath2upgrade2.png/revision/latest?cb=20170506192542",
+            "content": "Hammerhead shark attacks do increased damage. There is more than one reason why they are called hammerheads.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Shark Bite Bait",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Rip_Tidepath2upgrade3.png/revision/latest?cb=20170506192551",
+            "content": "Hold Attack 1 Hold (Square) to charge a shark attack, release to dash forward biting any enemies in the way.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "rip-tide",
       "variant_name": "Rip Tide",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Rip_Tide_cpromo.jpg/revision/latest?cb=20140617031054",
       "attacks": [
@@ -38,7 +339,24 @@
         "Nipping Needle Nose",
         "Shark Surprise"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "75"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "55"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Rip_Tide"
     }
   ]
