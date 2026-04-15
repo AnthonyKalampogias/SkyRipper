@@ -4,6 +4,7 @@
   "species": "Vampire",
   "gender": "Male",
   "element": "Undead",
+  "role": "SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -13,22 +14,356 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Batcrypt Mountains"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "From high up in the gloomy Batcrypt Mountains, Night Shift was a full-fledged baron and heir to a great fortune. But one day, he decided to leave it all behind to pursue his dream as a prizefighter. It wasn’t long before Night Shift became the undefeated phantom-weight champion of Skylands famous for his massive uppercut and for having once bitten an opponent in the ring. Unfortunately, a rule change made teleportation illegal and Night Shift was forced to give up his belt, officially ending his career as a boxer. Crestfallen over being disqualified from a sport he loved so dearly, his spirits picked up when he was sought out by Master Eon , who told him that his skill as a fighter could be put to great use as a member of the Skylanders.",
-  "personality": "Night Shift can come off a bit grumpy, due to being an Undead character. He values boxing, and is commonly considered by others as old-school. Whenever he hears the sound of a boxing bell however, he goes into a wild frenzy, punching anyone and anything around him. Night Shift always plays by the rules, so when the Skylands Boxing Federation banned Teleportation, he had to give up the sport he loved. &#91; 1 &#93;",
-  "story": null,
+  "description": "Night Shift is an Undead vampire boxer who is one of the SWAP Force Skylanders in Skylanders: Swap Force. His SWAP Force Ability is Teleport.",
+  "biography": "From high up in the gloomy Batcrypt Mountains, Night Shift was a full-fledged baron and heir to a great fortune. But one day, he decided to leave it all behind to pursue his dream as a prizefighter. It wasn’t long before Night Shift became the undefeated phantom-weight champion of Skylands famous for his massive uppercut and for having once bitten an opponent in the ring. Unfortunately, a rule change made teleportation illegal and Night Shift was forced to give up his belt, officially ending his career as a boxer. Crestfallen over being disqualified from a sport he loved so dearly, his spirits picked up when he was sought out by Master Eon, who told him that his skill as a fighter could be put to great use as a member of the Skylanders.",
+  "quote": "Roll with the Punches!",
+  "personality": "Night Shift can come off a bit grumpy, due to being an Undead character. He values boxing, and is commonly considered by others as old-school. Whenever he hears the sound of a boxing bell however, he goes into a wild frenzy, punching anyone and anything around him. Night Shift always plays by the rules, so when the Skylands Boxing Federation banned Teleportation, he had to give up the sport he loved. [1]",
+  "story": [
+    {
+      "story_name": "Champions",
+      "content": "Night Shift was the voice of reason to Bouncer and Trigger Happy. When Blades was showing signs of ruining the mission to stop the Machine Magus, Night Shift convinced an irritated Bouncer that the young dragon would learn from his mistakes, but the former boxer himself hoped that he wasn't making a large mistake. Tensions rose when Blades knocked out the leader of a group of Drow who would've told the Skylanders where to find the Machine Magus. Night Shift and Bouncer scolded Blades for his actions and tried to explain to the young dragon about the value of being in a team. However, Blades shrugged off their words and claimed that he didn't need anyone's help.\nWhen Blades went off to face the Machine Magus on his own, Night Shift, Bouncer and Trigger Happy followed suit after realizing that Blades may be fighting a losing battle. They managed to rescue Blades before Magus could finish him off, and with their combined efforts as a team, the Skylanders defeated the Drow. After the mission, Night Shift's sound judgement came true as Blades apologized for his behavior and the Skylanders officially welcomed him into the team.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/73/Bouncer_Night_Trigger_Happy.jpg/revision/latest/scale-to-width-down/284?cb=20150128060059"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Roll With The Punches!",
+        "The winner, and still champion...me!",
+        "No drain, no gain!",
+        "You're down for the count!",
+        "I could be a contender!",
+        "My scorecard is frightening!",
+        "On the spirited success!",
+        "Opportunity knocks!",
+        "Cool!",
+        "Excellent!",
+        "Perfect!",
+        "Sweet!",
+        "Stick & move!",
+        "Up high!",
+        "Rising up!",
+        "Fantastic!",
+        "Knockout!",
+        "Pushing on! - gate",
+        "Let's go the distance!",
+        "Ooh, a big prize! - treasure",
+        "Stake and move!",
+        "Power punch! - when leveling up",
+        "Back in the fight!",
+        "I'm a real knockout! - when wearing a hat",
+        "Mmm, that look long in the tooth!",
+        "Mmm, a name with punch! - given a nickname",
+        "A headlining name!"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "Is this thing on? This is impossible! Boxing gloves and microphones do not mix. - Night Shift Short Cut",
+        "What? I am Undead. We are not meant to be all kittens and rainbows.",
+        "Correction, I am Older than the School.",
+        "Martial Arts? Bah. Boxing is the sweet science!",
+        "That is nothing! Watch me swap with Stink Bomb! - \"Just Like SWAP Force\" trailer",
+        "Oh, there are plenty of reasons to stink, my friend. - \"Just Like SWAP Force\" trailer",
+        "A demonstration: First comes the mist... And then comes the fist! - \"Just Like SWAP Force\" trailer."
+      ]
+    }
+  ],
+  "trivia": [
+    "Night Shift is the first Skylander to have the ability to return to life after getting defeated.",
+    "In early concept art, Night Shift was designed as a vampire bat.[2]",
+    "Night Shift has the smallest base health out of all SWAP Force Skylanders.",
+    "Night Shift exemplified the need to make Swap Force's animation system work flawlessly for Swap Force characters, as the developers had to maintain his boxer attitude no matter how he was swapped.[3]",
+    "In his magic moment, a boxing match bell ring is heard.",
+    "His teleporting differs from that of Hoot Loop, as he can only teleport a set distance in front of him, while Hoot Loop can choose where he teleports. However, Night Shift can teleport faster than Hoot Loop, especially in Teleport Zones.",
+    "He and Stink Bomb are seen in most of the commercials of Swap Force so far, including the intro of the game. They're always seen swapping with each other.",
+    "Night Shift, Bat Spin and Roller Brawl are all vampires. However, he is the only one whose attack involves biting his enemies.\nThe way he bites is similar to a fiasco at the 2014 FIFA World Cup match between Italy and Uruguay, where Luis Suarez bit Giorgio Chiellini.\nHis bite is a reference to boxer Mike Tyson’s infamous 1997 incident where he bit off Evander Holyfield’s ear.\nLike most vampires, he speaks with a stereotypical Transylvanian accent.\nSo far, Night Shift is the only male vampire in Skylanders.",
+    "Night Shift's voice actor, Maurice LaMarche, is best known for his voicework in Futurama as Kif Kroker, The Brain in Animaniacs and Pinky And The Brain, Horace Badun in 101 Dalmatians: Patch's London Adventure and Dr. Victor Fries/Mr. Freeze in the Batman: Arkham games. LaMarche is also the current voice actor for Doctor Nitrus Brio from Crash Bandicoot as of Crash: Mind over Mutant in 2008.\nHe is also known as one of the most prolific soundalike artists in the industry, be famous for his impression of Orson Welles, and flawlessly imitating Sean Connery's voice for the character Athair in Sonic Underground.",
+    "If you look closely in the Just Like Swap Force trailer, Night Shift's fangs are slightly drenched with blood.",
+    "As stated in his Short Cut, Night Shift is older than school itself.",
+    "He can heal himself with his Vampire Bite by biting sheep.",
+    "When swapped with the bottom half of Free Ranger, it creates Night Ranger, which shares a name with a rock band.",
+    "When swapped with the bottom half of Freeze Blade, it creates Night Blade, which shares a name with a character from the Saints Row Series.",
+    "Like Hood Sickle, in Skylanders: Trap Team, there is a glitch that allows you to Teleport through certain Mystery Traptanium Gates (in Know-It-All Island, Chompy Mountain and The Future of Skylands).",
+    "Night Shift was one of the many Skylanders planned to appear in Skylanders: Ring of Heroes. Before the game's closure, only concept art of his Awakened Form was released.",
+    "If Night Shift has the Batty Coach upgrade and falls during a Ring Out challenge, his health boost will appear on-screen although it will not revive him.",
+    "Night Shift's name references a \"night shift,\" a period of time when an employee works at night.",
+    "Night Shift's habit of punching everything upon hearing a bell is similar to a trope used in the classic Looney Tunes cartoons: every time a character trained as a boxer (or bred as one, in the case of the boxer dog breed) would do the exact same thing (often with painful results for bystanders)."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Night Shift",
+      "isValid": false,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Night_Shift"
+    },
+    {
+      "name": "Skylanders Swap Force - Night Shift Soul Gem Preview (Roll with the Punches)",
+      "isValid": false,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Night_Shift_Soul_Gem_Preview_%28Roll_with_the_Punches%29"
+    }
+  ],
+  "gameplay": "As a former boxing champion, Night Shift can throw heavy punches as his enemies, and can even charge up an enormous uppercut that deals heavy damage. Night Shift can teleport very quickly, and shoot out ghostly bat allies to attack enemies. Night Shift can even bite his enemies with his huge vampire fangs and regain health.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Night_Shift",
+  "abilities": {
+    "basic": [
+      {
+        "name": "One-Two Punch",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/33/Night_Shifttopprimarypower.png/revision/latest/scale-to-width-down/148?cb=20140731182144",
+        "content": "Press Attack 1 to punch nearby enemies with enormous boxing gloves.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Ethereal Shift",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/78/Night_Shiftbottomprimarypower.png/revision/latest/scale-to-width-down/148?cb=20140802150832",
+        "content": "Press Attack 2 to turn into mist and teleport a short distance forward.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Vampire’s Bite",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Night_Shifttopbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20140731182330",
+        "content": "Press Attack 3 to bite enemies and regain some health.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 300,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Sting Like a Bat",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/12/Night_Shifttopbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20140731182442",
+        "content": "Punching does increased damage. Give 'em the ol' one-two combo!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Don’t Move, Just Stick!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a5/Night_Shifttopbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20140731182548",
+        "content": "Hold Attack 1 to charge a punch, release to deal a massive uppercut to enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Float Like a Vampire",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Night_Shiftbottombasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20140802151519",
+        "content": "Press Attack 2 to teleport and shoot out a projectile that damages nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 300,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Foggy Movement",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Night_Shiftbottombasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20140802151631",
+        "content": "Speed is increased. Become faster than an old foggy!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "A Batty Coach",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Night_Shiftbottombasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20140802153251",
+        "content": "A bat ally prevents being defeated one time. What a great pep talk!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Gentlemanly",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f8/Night_Shifttopsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20140731183029",
+        "content": "All attacks do increased damage at full health. Quite sporting of the enemies to miss so often, yes...quite.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Grand Entrance",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a2/Night_Shiftbottomsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20140802153637",
+        "content": "Slows down nearby enemies when appearing after a teleport.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Proper Vampire",
+        "abilities": [
+          {
+            "name": "Infectious Smile",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/81/Night_Shifttoppath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20140731182809",
+            "content": "Vampire's Bite deals damage over time to its targets.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Healthy Appetite",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Night_Shifttoppath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20140731182838",
+            "content": "Vampire's Bite deals more damage with extra healing. Pack on the pounds!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Prize Fighter",
+        "abilities": [
+          {
+            "name": "Prize Fighter",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Night_Shifttoppath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20140802154159",
+            "content": "Hold Attack 1 to charge a punch, release to do an uppercut that causes enemies that are hit to take damage and drop money.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Pay Day",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Night_Shifttoppath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20140802154238",
+            "content": "Prize Fighter gives more money. Don't spend it all in one place like Moe Money and Moe Problems did.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Warping Vortexes",
+        "abilities": [
+          {
+            "name": "Vortex of Doom",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/89/Night_Shiftbottompath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20140802153911",
+            "content": "Press Attack 2 to teleport and create a large vortex that pulls in enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Close to Doom",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2f/Night_Shiftbottompath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20140802154118",
+            "content": "Vortex of Doom now deals damage to enemies. Doooooom!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Underbat",
+        "abilities": [
+          {
+            "name": "Round 2",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d3/Night_Shiftbottompath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20140802153414",
+            "content": "A Batty Coach now gives a health boost when returning from defeat. Get back in there!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Luck of the Underbat",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Night_Shiftbottompath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20140802153451",
+            "content": "A Batty Coach can be used twice. Okay, this time it's serious!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "night-shift",
       "variant_name": "Night Shift",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Night_Shift_Art.jpg",
       "attacks": [
@@ -38,7 +373,28 @@
         "Float Like a Vampire",
         "Infectious Smile"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "200 (max. 400)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "38 (max. 86)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "4 (max. 34)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Night_Shift"
     }
   ]
