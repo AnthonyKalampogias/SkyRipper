@@ -1,29 +1,207 @@
 {
   "id": "pet-vac",
   "name": "Pet-Vac",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": "The Skylander Minis started off as regular \" Sidekicks \", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-  "personality": "Pet Vac is an honorable soldier who gladly puts the needs of others before himself. His bravery and heroism earned him the respect of his teammates. &#91; 1 &#93;",
-  "story": null,
+  "species": "Sky Baron",
+  "gender": "Male",
+  "element": "Air",
+  "role": "Mini",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders Issue 3",
+    "Skylanders Issue 12",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": [],
+  "world": [
+    "Skylands",
+    "Miniverse"
+  ],
+  "description": "Pet-Vac is the Mini version of the Air Skylander, Jet-Vac. He made his debut in Skylanders: Trap Team as a fully playable Skylander.",
+  "biography": "The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "quote": "Hawk and Awe!",
+  "personality": "Pet-Vac is an honorable soldier who gladly puts the needs of others before himself. His bravery and heroism earned him the respect of his teammates, eventually leading to his appointment as the leader of the Minis.",
+  "story": [
+    {
+      "story_name": "Skylanders Issue #12",
+      "content": "During their graduation, Pet-Vac was placed as team leader of the Minis by Master Eon. Despite failing a training simulation, Pet-Vac proved his worth when the Doom Raiders took over the Academy. He formulated a plan to trap Wolfgang and Dr. Krankcase and eventually outsmarted the Golden Queen by stealing her staff and turning the massive Gulper into a gold statue. For his leadership and bravery, the Minis were officially declared full-fledged Skylanders.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Pet_Vac_Issue_12.png"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Hawk and Awe!",
+        "Suck it up!",
+        "Cleared for takeoff!",
+        "Air time!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Pet-Vac is the only Mini who is the counterpart of a core Skylander from Giants.",
+    "He and Small Fry are the only Mini counterparts of core Skylanders who didn't appear in Spyro's Adventure.",
+    "He and Weeruptor, besides Barkley, are the only Minis who have variants.",
+    "Coincidentally, both of their original counterparts are the only Skylanders with Mini counterparts new to Trap Team who have SuperCharger forms in Skylanders: SuperChargers."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Pet-Vac",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=example1"
+    },
+    {
+      "name": "Skylanders Power Play Pet-Vac",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=example2"
+    }
+  ],
+  "gameplay": "Pet-Vac functions as a projectile-based fighter who uses his vacuum gun to control the battlefield. He can fire high-velocity air blasts to damage enemies from a distance or use his suction ability to pull smaller enemies toward him, leaving them vulnerable. His jetpack provides excellent aerial mobility, allowing him to hover over hazards and reposition quickly during combat.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Pet-Vac",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Vac Blaster",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/vac_blaster.png",
+        "content": "Fire a blast of pressurized air at your enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#78beeb",
+          "bg_content": "#d9effc"
+        }
+      },
+      {
+        "name": "Suction Gun",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/suction_gun.png",
+        "content": "Suck up enemies and then fire them back out.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#78beeb",
+          "bg_content": "#d9effc"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Jet-Vac Jet Pack",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/jetpack.png",
+        "content": "Hold the jump button to hover in the air.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#78beeb",
+          "bg_content": "#d9effc"
+        }
+      },
+      {
+        "name": "Air-Tight",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/air_tight.png",
+        "content": "Vac Blaster shots travel further and do more damage.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#78beeb",
+          "bg_content": "#d9effc"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Eagle-Air Mastery",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/soul_gem.png",
+        "content": "While hovering, you can fire a powerful air strike that hits all nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#78beeb",
+          "bg_content": "#d9effc"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Vac-Powered Path",
+        "abilities": [
+          {
+            "name": "Vacuum Lung",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/vac_lung.png",
+            "content": "Increase the range and power of the Suction Gun.",
+            "is_primary": false,
+            "is_secondary": true,
+            "price": 1200,
+            "colors": {
+              "header": "#78beeb",
+              "bg_content": "#d9effc"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Eagle-Air Path",
+        "abilities": [
+          {
+            "name": "Flying High",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/flying_high.png",
+            "content": "Increases speed and attack power while in the air.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1200,
+            "colors": {
+              "header": "#78beeb",
+              "bg_content": "#d9effc"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "pet-vac",
+      "id": "pet-vac-base",
       "variant_name": "Pet-Vac",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
+      "type": "Mini",
+      "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/PetVac_Promo.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Vac Blaster",
+        "Suction Gun",
+        "Jet-Vac Jet Pack"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Pet-Vac"
     }
   ]
