@@ -4,20 +4,52 @@
   "species": "Crocagator",
   "gender": "Male",
   "element": "Water",
+  "role": "Trap Master",
   "primary_game": "Skylanders: Lost Islands (December 2014)",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Merry Snap Shot is the December 2014 counterpart of Snap Shot in Skylanders: Lost Islands.",
+  "biography": "Merry Snap Shot is the December 2014 counterpart of Snap Shot in Skylanders: Lost Islands. He was introduced as a special festive variant to celebrate the season of giving.",
+  "quote": "Celebrate the season of giving with Merry Snap Shot",
+  "personality": "Merry Snap Shot embodies the festive spirit of the holiday season, specifically the 'season of giving.' As a Trap Master, he remains a dedicated protector of Skylands, but with a jolly, winter-themed disposition.",
+  "story": [
+    {
+      "story_name": "Season of Giving",
+      "content": "Merry Snap Shot was released in December 2014 as a festive counterpart to the Trap Master Snap Shot. He is one of the few holiday-themed characters exclusive to the mobile game Skylanders: Lost Islands.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5f/Merry_Snap_Shot_Box.jpg/revision/latest?cb=20141201041200"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "In-game Description",
+      "content": [
+        "Celebrate the season of giving with Merry Snap Shot"
+      ]
+    }
+  ],
+  "trivia": [
+    "He, Jolly Bumble Blast, Holiday Wash Buckler, Missile-Tow Dive-Clops, Jingle Bell Chompy Mage and Winterfest Lob-Star are the only Skylanders who are Christmas counterparts.",
+    "Merry Snap Shot and Winterfest Lob-Star are the only Christmas Trap Masters.",
+    "Coincidentally they are both Water element.",
+    "Merry Snap Shot and Holiday Wash Buckler are the only Christmas Skylanders who are exclusive to the Lost Islands.",
+    "Coincidentally, they are also counterparts of non-core Water Skylanders that were on a Starter Pack."
+  ],
+  "trailers": [],
+  "gameplay": "As an Alter Ego in Skylanders: Lost Islands, Merry Snap Shot serves as a holiday-themed version of Snap Shot. While he functions similarly to his standard counterpart in the mobile environment, his primary distinction is his festive appearance and his status as a Christmas-themed Trap Master.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Merry_Snap_Shot",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "merry-snap-shot",
@@ -27,7 +59,7 @@
       "game": "Skylanders: Lost Islands (December 2014)",
       "image": "https://static.wikia.nocookie.net/skylanders/images/5/5f/Merry_Snap_Shot_Box.jpg/revision/latest?cb=20141201041200",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Merry_Snap_Shot"
     }
   ]
