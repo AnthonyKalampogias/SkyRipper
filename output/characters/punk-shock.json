@@ -4,6 +4,7 @@
   "species": "Electric Eel",
   "gender": "Female",
   "element": "Water",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -13,22 +14,268 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Wondrous Waters"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Daughter to the most royal family in Wondrous Waters, Punk Shock never really accepted her role as an undersea princess. She preferred a much more exciting life - hunting with her electric crossbow and listening to super-charged music. After journeying to the outer reaches of her kingdom to find adventure, Punk Shock returned home to discover adventure had found her. The kingdom and its people were magically frozen by the Snow Trolls , who were there to steal valuable treasure. Punk Shock used her awesomely charged crossbow to single handedly defeat the Snow Troll army and melt the ice that trapped her kingdom. Gill Grunt heard of the battle and quickly recruited Punk Shock into the Skylanders.",
-  "personality": "Punk Shock is a natural rebel. She is simply shocking when it comes to being told what to do. She dislikes acting in any way like a princess. &#91; 4 &#93;",
-  "story": null,
+  "description": "Punk Shock is an anthropomorphic electric eel who is one of the Water core Skylanders in Skylanders: Swap Force.",
+  "biography": "Daughter to the most royal family in Wondrous Waters, Punk Shock never really accepted her role as an undersea princess. She preferred a much more exciting life - hunting with her electric crossbow and listening to super-charged music. After journeying to the outer reaches of her kingdom to find adventure, Punk Shock returned home to discover adventure had found her. The kingdom and its people were magically frozen by the Snow Trolls, who were there to steal valuable treasure. Punk Shock used her awesomely charged crossbow to single handedly defeat the Snow Troll army and melt the ice that trapped her kingdom. Gill Grunt heard of the battle and quickly recruited Punk Shock into the Skylanders.",
+  "quote": "Amp It Up!",
+  "personality": "Punk Shock is a natural rebel. She is simply shocking when it comes to being told what to do. She dislikes acting in any way like a princess.",
+  "story": [
+    {
+      "story_name": "Character Development",
+      "content": "During development, Punk Shock was originally male and more closely resembled an amphibian. As her method of attack, she would use a long electrified tongue, a can of worms and a fishing rod as weapons, or could summon a water snake. Punk Shock was soon designed as female, but there were other options for her main weapon, like the fishing rod, a scepter, a spear, a whip, an electric guitar, or an electric bow. There were also numerous other design choices for her facial design and hairstyle, before her final design remained and a different color scheme was chosen. Close to the end of development she was pink-skinned, yellow-striped, and yellow-crested, with her clothes being red and black.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Character Development - Origin of Electrical Traits",
+      "content": "Her electrical traits originated from the scrapped Skylander, Krayken.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Amp It Up!",
+        "High voltage victory!",
+        "Charge ahead!",
+        "Charging through!",
+        "A shocking victory!",
+        "Whoo-hoo!",
+        "Up and away!",
+        "Success is mine!",
+        "Yes!",
+        "Another success!",
+        "All charged up!",
+        "Shock and roll!",
+        "Shock and awe!",
+        "Rock on!",
+        "Powerjolt! - leveling up",
+        "Power surge! - leveling up",
+        "I'll take it! - treasure",
+        "Jackpot! - treasure",
+        "Dare to be different! - hat",
+        "A hat I can rock! - hat",
+        "These numbers rock! - stats",
+        "The best there is! - stats",
+        "Change is good! - nickname",
+        "Yeah! A name with attitude! - nickname"
+      ]
+    }
+  ],
+  "trivia": [
+    "Punk Shock is the third Water Skylander with electrical powers and is from royalty (Zap is the first and Wham-Shell is the second).",
+    "She's the second female Water Skylander in the series while the first is Chill and the third is Echo.",
+    "Most of her upgrade names are water and electricity puns.",
+    "Her face slightly resembles Gill Grunt's Mermaid Girlfriend. They also both met Gill Grunt in their history.",
+    "Punk Shock is noticeably similar to Zap: Both are Water Skylanders. Both are from royalty. Both have electrical powers. Both can mix their electrical secondary abilities with their primary abilities.",
+    "Like Stink Bomb after obtaining \"Sporting Stripes\" in Trap Team, Punk Shock can literally move faster after \"Hypercharged\" is purchased.",
+    "She is voiced by Tara Platt, who voices Ester in Ben 10: Omniverse, Mitsuru Kirijo in Persona 3, and Edelgard in Fire Emblem: Three Houses. She is married to Yuri Lowenthal, who voices Fright Rider, Softpaw, and Trail Blazer. Tara Platt also voices Dreamcatcher in Skylanders: Trap Team.",
+    "She and Cross Crow are the only playable characters to wield a crossbow. Coincidentally, they are both of the Water element.",
+    "Her catchphrase is the same name as an attack upgrade for Wolfgang.",
+    "Punk Shock's name may have been a play on Punk rock."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet The Skylanders - Punk Shock (Amp It Up)",
+      "isValid": false,
+      "url": ""
+    },
+    {
+      "name": "Skylanders Swap Force - Punk Shock Soul Gem Preview (Amp It Up)",
+      "isValid": false,
+      "url": ""
+    }
+  ],
+  "gameplay": "Punk Shock can fire electrical arrows from her electric crossbow. She can also throw water bombs that can be electrified with her Spark Shots. Being an electric eel, she can also shock her enemies.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Punk_Shock",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Spark Shot",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Punk_Shockprimarypower.png/revision/latest?cb=20170506190222",
+        "content": "Press Attack 1 to shoot an electrified bolt. Shoot a Splash Bomb puddle to cause that area to become electrified.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Splash Bomb",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Punk_Shocksecondarypower.png/revision/latest?cb=20170506190227",
+        "content": "Press Attack 2 to throw a larger water balloon that makes a puddle where it lands. Shoot the puddle with Spark Shot to electrify it.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Spark Splash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2e/Punk_Shockbasicupgrade1.png/revision/latest?cb=20170506190240",
+        "content": "Press Attack 3 to perform a tail attack that shocks nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "High Boltage",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Punk_Shockbasicupgrade2.png/revision/latest?cb=20170506190247",
+        "content": "Press Attack 1 to shoot high powered crossbolt attacks that do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "OHMG",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/92/Punk_Shockbasicupgrade3.png/revision/latest?cb=20170506190252",
+        "content": "Press Attack 1 to shoot electric crossbow bolts that branch out and hit enemies in a larger area.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Hypercharged",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Punk_Shockbasicupgrade4.png/revision/latest?cb=20170506190257",
+        "content": "Increase movement speed. Adding a spark to each step!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Eelectrocute",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5c/Punk_Shocksoulgempower.png/revision/latest?cb=20170506190304",
+        "content": "Hold Attack 1 to charge a powerful crossbow attack, release to shoot all enemies around you!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Conductor Constructor",
+        "abilities": [
+          {
+            "name": "H2Throw",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Punk_Shockpath1upgrade1.png/revision/latest?cb=20170506190754",
+            "content": "Press Attack 2 to throw two additional water balloons. All water balloons last longer.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Troubled Waters",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Punk_Shockpath1upgrade2.png/revision/latest?cb=20170506190758",
+            "content": "All water balloon attacks do increased damage. Throwing water balloons never hurt so bad!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Bolting Blob",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Punk_Shockpath1upgrade3.png/revision/latest?cb=20170506190805",
+            "content": "Hold Attack 2 to throw balloon into the air, release to zap it and electrify all enemies in a very large area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Eelectrocutey",
+        "abilities": [
+          {
+            "name": "Positively Charged",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cb/Punk_Shockpath2upgrade1.png/revision/latest?cb=20170506190810",
+            "content": "Gain an electrical aura that sometimes shock and damages nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "It Hertz",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/24/Punk_Shockpath2upgrade2.png/revision/latest?cb=20170506190816",
+            "content": "Enemies damaged by electrified water take increased damage. A perfect example of why there is no swimming during a lightning storm.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Re-Volting Shock",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Punk_Shockpath2upgrade3.png/revision/latest?cb=20170506190820",
+            "content": "Hold Attack 3 to tail slap any enemies into the air.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "punk-shock",
       "variant_name": "Punk Shock",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core Skylander",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/f/f0/Punkshock.jpg/revision/latest?cb=20131231034556",
       "attacks": [
@@ -38,7 +285,28 @@
         "H2Throw",
         "Positively Charged"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Punk_Shock"
     }
   ]
