@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-15T15:05:42.129Z",
+  "last_run": "2026-04-15T21:39:07.049Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -960,6 +960,82 @@
     {
       "name": "Obsidian Hot Head",
       "sha": "f6528d06cf5b7085537f5955d0a4a33243a72b0654e0d7559a55df0eb30b7058"
+    },
+    {
+      "name": "Pain-Yatta",
+      "sha": "4ea69ecf2817027a9a4e5261ba4b9bc5aea356e5d71e1737d04191c5f3fce99e"
+    },
+    {
+      "name": "Pet-Vac",
+      "sha": "13f76f0fa84ae2b0e67de4a345fad9d6323888092d1726cea1bbac3052c581f8"
+    },
+    {
+      "name": "Pit Boss",
+      "sha": "66bcaf35f60054085ffe1bf4722b964849c0a9296d26e43be1f3ccf0f0a5c5f5"
+    },
+    {
+      "name": "Polar Whirlwind",
+      "sha": "50f3d2f95571cacfbc83126154b66f19ccc6379aec301136fe97021ce6a8cea9"
+    },
+    {
+      "name": "Pop Fizz",
+      "sha": "d2210a9c0be09d985bec4078faf6761440d613b7b2c0ff49aed3b6d7ebe783c5"
+    },
+    {
+      "name": "Pop Thorn",
+      "sha": "b4734b30448c69368f3eb12138440d5a6aee5cb7b8c5899f8467ecddcf11112d"
+    },
+    {
+      "name": "Power Blue Ember",
+      "sha": "bc4e126b60ae5e125c40bbb72eda471e4cca3853f5eb8e13e207c8fa65f250a3"
+    },
+    {
+      "name": "Power Blue Splat",
+      "sha": "479acfc840709497fcbde4542481528e7c4c44c2bd45754f3f184738cc83c290"
+    },
+    {
+      "name": "Power Blue Trigger Happy",
+      "sha": "53582e38964ef5e185dc923be86f8c9bcc39cd61b110c1a10994cd7799126750"
+    },
+    {
+      "name": "Power Blues",
+      "sha": "baf42bad2b0ec736c8be1b48db1cc27452047b652863d46a093fd5e7927d4323"
+    },
+    {
+      "name": "Power Punch Pet Vac",
+      "sha": "664b8d3471eacdcec68668db63897572e661c7c955c16c029c991a302116fdf7"
+    },
+    {
+      "name": "Prism Break",
+      "sha": "04dfee5c3416fa3500a07385d001f956940832606af12fe3fe33f9da1939724b"
+    },
+    {
+      "name": "Punch Pop Fizz",
+      "sha": "d315f8d54142d5bbac42153f28abce903e22e432401697d3a5afd6e2f6eff680"
+    },
+    {
+      "name": "Punk Shock",
+      "sha": "b242910cd7fc76387fb7904ea12ca50752be9278825cf6dd00fad90eef6eb38e"
+    },
+    {
+      "name": "Quickdraw Rattle Shake",
+      "sha": "aa711a1812311aa86f3c4ebad1536ce667b13c01d8013e0240c0f29d57558be8"
+    },
+    {
+      "name": "Rattle Shake",
+      "sha": "20bcc7c7d6ce01b888cdc9b3dd0abbf32354dc641acd5234b5cffcc86eb166d6"
+    },
+    {
+      "name": "Rip Tide",
+      "sha": "822d6a47b9d0aa511feb55a23529437fdb2cff76f65af34afba598f8b9f62c17"
+    },
+    {
+      "name": "Ro-Bow",
+      "sha": "e7b5bcc5dda0995fdf8f7ad9c060bcd9ca0e761ac72212325076141c54c918bd"
+    },
+    {
+      "name": "Rocky Egg Roll",
+      "sha": "e677246d65bf94ecc7cad00ab682e4c42bf65cd63ededcde51c5a456cb59de40"
     }
   ]
 }
