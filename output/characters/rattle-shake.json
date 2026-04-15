@@ -4,43 +4,202 @@
   "species": "Rattlesnake",
   "gender": "Male",
   "element": "Undead",
+  "role": "SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
     "Skylanders: Lost Islands",
-    "Champions",
+    "Skylanders: Collection Vault",
     "Skylanders: Trap Team",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
-    "Skylands"
+    "Skylands",
+    "Cloudbreak Islands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Some say Rattle Shake was the best tracker in the Cloudbreak Islands . Others say he could strike the center of a gold coin at a thousand paces. But the legend of Rattle Shake was immortalized when he found himself trapped by the Black Hat Gang, the infamous group of cowboys who literally were large cows... and evil ones at that. They threatened to plunder the local village unless Rattle Shake led them inside the magical volcano Mt. Cloudbreak , where they hoped to discover enchanted treasure. Badly outnumbered, the ever calm Rattle Shake magically summoned every snake in the area and overtook the notorious bovines in an epic fight. The tale of his heroism was heard by Master Eon , who then recruited him to the Skylanders.",
-  "personality": "Shake's enemies think he is sinister. In fact, so do some of his friends, but you can be sure that he's no slippery character - Rattle is a virtuous viper. &#91; 5 &#93;",
-  "story": null,
+  "description": "Rattle Shake is a yellow rattlesnake cowboy who is a SWAP Force Skylander in Skylanders: Swap Force. He is of the Undead element. His Swap Force Ability is Bounce.",
+  "biography": "Some say Rattle Shake was the best tracker in the Cloudbreak Islands. Others say he could strike the center of a gold coin at a thousand paces. But the legend of Rattle Shake was immortalized when he found himself trapped by the Black Hat Gang, the infamous group of cowboys who literally were large cows... and evil ones at that. They threatened to plunder the local village unless Rattle Shake led them inside the magical volcano Mt. Cloudbreak, where they hoped to discover enchanted treasure. Badly outnumbered, the ever calm Rattle Shake magically summoned every snake in the area and overtook the notorious bovines in an epic fight. The tale of his heroism was heard by Master Eon, who then recruited him to the Skylanders.",
+  "quote": "Go Ahead - Snake My Day!",
+  "personality": "Shake's enemies think he is sinister. In fact, so do some of his friends, but you can be sure that he's no slippery character - Rattle is a virtuous viper. He is calm under pressure and carries himself with the poise of a classic gunslinger.",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Go Ahead - Snake my Day!",
+        "You are hisssstory!",
+        "I always look good.",
+        "Gold rush!",
+        "No fang, no gain!",
+        "Rattle it up!",
+        "No bark and all bite!",
+        "Snake rattle and roll!"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "Except Kaos, eh?",
+        "It's true, amigo, you truly do suck!",
+        "Think again my friend! We can swap 16 ways!"
+      ]
+    }
+  ],
+  "trivia": [
+    "His catchphrase is a play on 'Go ahead, make my day'.",
+    "He resembles Rattlesnake Jake from the movie Rango.",
+    "Despite being a cowboy, he has a Spanish accent.",
+    "He is voiced by Troy Baker, who based the voice on Antonio Banderas.",
+    "He and Wash Buckler are the only Skylanders who have headwear that disappears when wearing a hat in-game."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet Rattle Shake",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=RATTLE_SHAKE_TRAILER"
+    }
+  ],
+  "gameplay": "Rattle Shake is a ranged attacker who utilizes a snake launcher. He can fire venom projectiles or charge up to fire snakes that bounce between enemies. His 'Bounce' lower half allows him to jump high and slam down on enemies. He can also deploy 'Deputy Snakes' which act as turrets to distract and damage foes.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Rattle_Shake",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Snake's Venom",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Rattle_Shaketopprimarypower.png",
+        "content": "Press Attack 1 to shoot snake venom at nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Tail Sweep",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/Rattle_Shakebottomprimarypower.png",
+        "content": "Press Attack 2 to sweep at nearby enemies with a quick tail strike.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Deputy Snake",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Rattle_Shaketopbasicupgrade1.png",
+        "content": "Press Attack 3 to throw down a snake ally that will attack and slow nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 300,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Bounce the Bones",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7e/Rattle_Shakebottombasicupgrade1.png",
+        "content": "Press Attack 2 to shoot one bouncing bone projectile.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 300,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Raise the Snakes",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/85/Rattle_Shaketopsoulgempower.png",
+        "content": "Get a new skin which increases Critical Hit and absorbs damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Deputy's Duty",
+        "abilities": [
+          {
+            "name": "Nasty Sssurprise",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/71/Rattle_Shaketoppath1upgrade1.png",
+            "content": "Deputy Snake causes an acid explosion that damages enemies where it lands.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "rattle-shake",
       "variant_name": "Rattle Shake",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/3/31/RattleShake2.jpg",
       "attacks": [
-        "Deputy Snake",
-        "Fistful of Snake",
-        "Spring Loaded Snake",
-        "Snake Bite",
-        "Nasty Sssurprise"
+        "Snake's Venom",
+        "Tail Sweep",
+        "Deputy Snake"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Rattle_Shake"
+    },
+    {
+      "id": "quickdraw-rattle-shake",
+      "variant_name": "Quickdraw Rattle Shake",
+      "edition": "Frito-Lay Exclusive",
+      "type": "Variant",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Quick_Draw_Rattle_Shake.png",
+      "attacks": [
+        "Snake's Venom",
+        "Tail Sweep",
+        "Deputy Snake"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Quickdraw_Rattle_Shake"
     }
   ]
 }
