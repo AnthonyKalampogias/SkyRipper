@@ -4,21 +4,275 @@
   "species": "Sphinx",
   "gender": "Male",
   "element": "Magic",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Mysticat is a sphinx Magic Sensei in Skylanders: Imaginators who trains Imaginators of the Sorcerer Battle Class.",
   "biography": "For centuries, Mysticat and the great Sphinxes guarded the entrance to the Enchanted Desert with their famous riddles, which few could solve. Mysticat was a curious creature, and had his own question that even he could not answer. He was puzzled as to why others wanted to enter the Enchanted Desert so badly. So he decided to venture himself to find the answer. But instead of finding answers, he was attacked by wandering gypsies and evil sand raiders that scoured the desert for lost treasure. After fighting them off with his impressive sorcery skills, he returned to the elders and explained what happened. It was then that they revealed the true nature of the desert to him. They told him that what he saw was a vision of his own destiny - and that he was meant to protect all of Skylands, not just the Enchanted Desert. Master Eon was then invited to enter the desert to meet Mysticat to see if their two destinies were intertwined. When Eon emerged the next day, it was clear to him that Mysticat was meant to be one of his best Senseis... and that he would one day shave his beard. But he kept that part to himself.",
-  "personality": null,
-  "story": null,
+  "quote": "“The Master of Mystery!”",
+  "personality": "",
+  "story": [
+    {
+      "story_name": "Physical Traits",
+      "content": "Mysticat is a purple sphinx wearing a black robe with gold lining and has the golden sensei belt tied around his waist. He holds a golden paw-shaped staff with a purple gem set in it.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "The Master of Mystery!",
+        "Here's a riddle - who can make all of your Imaginators stronger? Me! - Sensei Training Bonus",
+        "And oh yeah, I'sve got another one for you - who's got a secret technique to teach the Sorcerer Class? Me, again! - Secret Technique Bonus",
+        "Here today, gong tomorrow.",
+        "Magical!",
+        "Meow you see me!",
+        "Paw power!",
+        "Tooth and claw!",
+        "None shall pass, except for me.",
+        "Who dares confront me?",
+        "King of beasts!",
+        "A spellbinding display!",
+        "You call that a challenge?",
+        "Can't jinx the sphinx!",
+        "Drawing a lion in the sand!",
+        "There is no riddle I cannot solve!",
+        "Meee-wow! - level up",
+        "Manticore!",
+        "Hmm, most puzzling.",
+        "Behold hieroglyphics!",
+        "The cat's out of the bag! - Sky-Chi - Domo Arigato Hisster Rift-Boto",
+        "Cat's all, folks! Ha ha ha ha! - End of Sky-Chi"
+      ]
+    }
+  ],
+  "trivia": [
+    "Mysticat's name is a play on the word \"mystical\".",
+    "Although he is a sphinx, Mysticat resembles a Wampus cat, a mythical feline-like creature, often depicted with six or more legs.",
+    "Mysticat and Knight Mare both have a centaur-like structure.",
+    "His usage of riddles also resembles the behaviour of the mythological Sphinx.",
+    "Mysticat grants the King's Tail piece to Imaginators when first placed on the portal, and the Mysticat Staff when the feline's Shrine is opened.",
+    "One of his quotes \"Cat's all, folks!\" may have been a play on the Looney Tunes quote, \"That's all, folks!\"",
+    "Mysticat hisses loudly while he is jumping.",
+    "Like real life cats, one of his idle animations is also suddenly jumping with surprise despite no obvious threat.",
+    "Mysticat has a feminine voice despite being a male. This is because he is voiced by a female voice actress. This would make him the first playable character to have a voice actor of the opposite gender.",
+    "The name of his Sky Chi is a reference to the song “Mister Roboto” by the band Styx.",
+    "Though he did appear in the original version of the game, he didn't appear in the revamped version of Ring of Heroes until a few weeks later."
+  ],
+  "trailers": [
+    {
+      "name": "Meet Master Mysticat l Skylanders Imaginators l Skylanders",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_Master_Mysticat_l_Skylanders_Imaginators_l_Skylanders"
+    },
+    {
+      "name": "Skylanders Imaginators - Mysticat Soul Gem Preview",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Imaginators_-_Mysticat_Soul_Gem_Preview"
+    }
+  ],
+  "gameplay": "Mysticat can shoot magical beams out of his staff, and create a wave of energy to push back enemies. He can throw his staff which generates a clone of himself that helps him fight. Mysticat can also become invisible and gain immense speed while invisible. In additional upgrades, he is able to leave behind a magic decoy before disappearing.Mysticat can even conjure magical balls of yarn which seek out foes and explode upon impact. His Soul Gem allows him to create a rift which shoots out cat familiars, and spawns a copy cat as well. His Sky-Chi power lets Mysticat to temporarily levitate himself, and create a giant Cat Familiar that shoots out smaller balls of of yarn as well.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Mysticat",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Laser Painter",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Mysticatprimarypower.png/revision/latest?cb=20170506055120",
+        "content": "Press Attack 1 to channel a beam in front of you. Press it thrice to push back enemies with a laser wave.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Paw Print",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Mysticatsecondarypower.png/revision/latest?cb=20170506055129",
+        "content": "Press Attack 2 to throw a magical staff that creates a Copy Cat that attacks with its own Laser Painter.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Help Meow-t",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5c/Mysticatbasicupgrade1.png/revision/latest?cb=20170506055137",
+        "content": "You can now have up to two Copy Cats active at a time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Disappurring Act",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6a/Mysticatbasicupgrade2.png/revision/latest?cb=20170506055155",
+        "content": "Press Attack 3 to leave a decoy. You become invisible and run really fast. Reappear with an explosion at your location and your decoy's location.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Cat's Familiar",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Mysticatbasicupgrade3.png/revision/latest?cb=20170506055204",
+        "content": "Press Attack 1 to create magical yarnballs that circle around you.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Pawsome Painter",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/38/Mysticatbasicupgrade4.png/revision/latest?cb=20170506055213",
+        "content": "Your lasers hit an additional time. Attack 1 triple-combo shoots a wider laser spread.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Konnichi-paw!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8d/Mysticatsoulgempower.png/revision/latest?cb=20170506055223",
+        "content": "Hold Attack 1 to conjure a rift that shoots homing projectiles and creates a Copy Cat.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "Domo Arigato Hisster Rift-boto",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Mysticatskychipower.png/revision/latest?cb=20170506055229",
+        "content": "The ultimate Sensei attack! Hold Special Attack to create a Sensei-tional yarnball rift that shoots out Cat's Familiars. Move around with Left Stick.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Paw-erful Painter",
+        "abilities": [
+          {
+            "name": "Cat-astrophic Chasers",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Mysticatpath1upgrade1.png/revision/latest?cb=20170506060837",
+            "content": "Conjure 4 Cat's Familiars when you press Attack 1. They will do increased damage each time they hit an enemy.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Patience is a Fur-tue",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/Mysticatpath1upgrade2.png/revision/latest?cb=20170506060843",
+            "content": "Lasers are larger and increase in damage over time. Attack 1 triple-combo casts a much wider laser spread.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Fur-st Degree Purr-ns",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b0/Mysticatpath1upgrade3.png/revision/latest?cb=20170506060852",
+            "content": "Copy Cats create an explosion of magical energy when hit with a laser or a Cat's Familiar. Copy Cats also create this explosion when they time out.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Meow You See Me...",
+        "abilities": [
+          {
+            "name": "The Feline's Mutual",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Mysticatpath2upgrade1.png/revision/latest?cb=20170506060901",
+            "content": "Disapurring Act's explosion hits harder and wider. Press Attack 3 to now cause an explosion when entering stealth.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Keep Your Fur-ends Close",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/Mysticatpath2upgrade2.png/revision/latest?cb=20170506060910",
+            "content": "Hold Attack 3 when you are invisible to cause your Copy Cats to charge at nearby target for area damage. Your decoy explodes shortly afterwards too.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Not Kitten Around",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a7/Mysticatpath2upgrade3.png/revision/latest?cb=20170506060917",
+            "content": "You can now have three Copy Cats active at a time. Their charging explosion is stronger, as well as the decoy's explosion.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "mysticat",
@@ -34,7 +288,28 @@
         "Cat-astrophic Chasers",
         "The Feline's Mutual"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "220 (max. 440)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Mysticat"
     }
   ]
