@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-15T09:08:48.276Z",
+  "last_run": "2026-04-15T15:05:42.129Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -956,6 +956,10 @@
     {
       "name": "Nitro Skylanders",
       "sha": "183ab2f310ca5ff70148929dedec3c5217b249bab1b912a82d1dfe0df446e54f"
+    },
+    {
+      "name": "Obsidian Hot Head",
+      "sha": "f6528d06cf5b7085537f5955d0a4a33243a72b0654e0d7559a55df0eb30b7058"
     }
   ]
 }
