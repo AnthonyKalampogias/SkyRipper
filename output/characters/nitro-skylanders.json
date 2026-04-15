@@ -2,8 +2,9 @@
   "id": "nitro-skylanders",
   "name": "Nitro Skylanders",
   "species": "Various",
-  "gender": null,
-  "element": null,
+  "gender": "Various",
+  "element": "Various",
+  "role": "Skylanders",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -11,28 +12,69 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Nitro Skylanders are characters introduced in Skylanders: Swap Force that are mostly associated with speed. They have a yellow-and-white checker color scheme. They were exclusively sold at Target stores.",
+  "biography": "Nitro Skylanders are characters introduced in Skylanders: Swap Force that are mostly associated with speed. They have a yellow-and-white checker color scheme. They were exclusively sold at Target stores.",
+  "quote": "Mostly associated with speed.",
+  "personality": "Various",
+  "story": [
+    {
+      "story_name": "Nitro Skylanders",
+      "content": "Nitro Skylanders are characters introduced in Skylanders: Swap Force that are mostly associated with speed. They have a yellow-and-white checker color scheme. They were exclusively sold at Target stores.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [],
+  "trivia": [
+    "Nitro Krypt King is currently the only Nitro Skylander who doesn't possess any speed moves.",
+    "Nitro is a term used for a chemical makes cars move faster than normal, and Nitro variants have checkered patterns in their design, a symbol for racing.",
+    "Strangely there are no Nitro Skylanders for Skylanders: SuperChargers.",
+    "There are currently no core Nitro Skylanders."
+  ],
+  "trailers": [],
+  "gameplay": "Nitro Skylanders are characters that are mostly associated with speed. They have a yellow-and-white checker color scheme. Nitro Krypt King is currently the only Nitro Skylander who doesn't possess any speed moves.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Skylanders",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Various",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a3/NitroSymbol.png/revision/latest?cb=20141120153942",
+        "content": "Nitro Skylanders possess various attacks unique to each character, though they are mostly associated with speed.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FFCC00",
+          "bg_content": "#FFFFFF"
+        }
+      }
+    ],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "nitro-skylanders",
-      "variant_name": "Nitro Skylanders",
+      "id": "nitro-skylanders-variant-group",
+      "variant_name": "Nitro Skylanders Group",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Nitro Variant",
       "game": "Skylanders: Swap Force",
-      "image": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a3/NitroSymbol.png/revision/latest?cb=20141120153942",
       "attacks": [
         "Various"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Characteristics",
+          "stat_value": "Associated with speed"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Skylanders"
     }
   ]
