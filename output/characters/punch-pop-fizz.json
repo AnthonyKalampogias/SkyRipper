@@ -4,6 +4,7 @@
   "species": "Gremlin",
   "gender": "Male",
   "element": "Magic",
+  "role": "Skylander",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -13,32 +14,133 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Some of Pop Fizz's experiments end with a new potion to throw at his enemies. Others change the color of his fur completely, such as the one responsible for his red color. Sporting a new red coat, the change hasn't stopped Pop Fizz from continuing to mix his strange brews. The zany Skylander rushes into battle without hesitation, tossing his concoctions at his foes or drinking them to unleash the Berserker.&#160;",
-  "personality": null,
-  "story": null,
+  "description": "Punch Pop Fizz is a red variation of Pop Fizz, available in the Nintendo 3DS version of Skylanders: Giants. He is now available in a single pack in the United Kingdom.",
+  "biography": "Some of Pop Fizz's experiments end with a new potion to throw at his enemies. Others change the color of his fur completely, such as the one responsible for his red color. Sporting a new red coat, the change hasn't stopped Pop Fizz from continuing to mix his strange brews. The zany Skylander rushes into battle without hesitation, tossing his concoctions at his foes or drinking them to unleash the Berserker. ",
+  "quote": "The Motion Of The Potion!",
+  "personality": "",
+  "story": [],
+  "quotes": [],
+  "trivia": [
+    "In the trailer, he is called Red Pop Fizz.",
+    "He resembles the Press Your Luck mascot, the Whammy as both do crazy things and have red fur.",
+    "He resembles Ickys from the Nickelodeon series \"Aaaaaah! Real Monsters!\"",
+    "Initially, Punch Pop Fizz did not have a unique backstory, but eventually when he was released as part of a Trap Team promotion at GameStop for trading in an older portal, a backstory was written.",
+    "Using Love Potion Pop Fizz in Skylanders: Giants will cause him to appear as Punch Pop Fizz.",
+    "His cufflinks are silver instead of gold.",
+    "On his figure, his backpack is a darker shade of brown than the one on his regular blue counterpart."
+  ],
+  "trailers": [
+    {
+      "name": "Meet The Skylanders - Punch Pop Fizz \"The Motion Of The Potion!\" Official Trailer",
+      "isValid": false,
+      "url": ""
+    }
+  ],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Punch_Pop_Fizz",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Potion Lob",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      },
+      {
+        "name": "Beast Form",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      },
+      {
+        "name": "New Concoctions",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      },
+      {
+        "name": "Puddle of Pain",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      },
+      {
+        "name": "Raging Beast",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      }
+    ],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "punch-pop-fizz",
       "variant_name": "Punch Pop Fizz",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Variant",
+      "type": "Giant Variant",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/e/e7/Punch_pop_fizz.png/revision/latest?cb=20130414110714",
-      "attacks": [
-        "Potion Lob",
-        "Beast Form",
-        "New Concoctions",
-        "Puddle of Pain",
-        "Raging Beast"
+      "attacks": [],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40 (max. 90)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
       ],
-      "stats": null,
       "wiki_url": "https://skylanders.fandom.com/wiki/Punch_Pop_Fizz"
     }
   ]
