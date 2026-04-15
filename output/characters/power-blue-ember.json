@@ -1,37 +1,86 @@
 {
   "id": "power-blue-ember",
   "name": "Power Blue Ember",
-  "species": "Unknown",
+  "species": "Fire Elf",
   "gender": "Female",
   "element": "Fire",
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
+  "role": "Sensei",
+  "primary_game": "Skylanders: Imaginators",
+  "appearances": [
+    "Skylanders: Imaginators (Scrapped)"
+  ],
+  "cameos": [],
   "world": [
     "Dragonfire Dojo"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Power Blue Ember is a scrapped variant of Ember intended for the Power Blue special edition line.",
+  "biography": "Power Blue Ember was planned as a special variant for the Power Blue series, a partnership between Activision and Autism Speaks. Like other Power Blue Skylanders, she would have featured a distinct blue and white color scheme. However, the variant was never officially released and remains a piece of cut content from Skylanders: Imaginators.",
+  "quote": "Train for the Flame!",
+  "personality": "Determined and disciplined, Ember is a master of the dual blades who treats her role as a Sensei with the utmost respect and focus.",
+  "story": [
+    {
+      "story_name": "The Scrapped Variant",
+      "content": "Power Blue Ember was discovered through game files and prototype images. She was intended to represent the Samurai Class in the Power Blue lineup.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cry",
+      "content": [
+        "Train for the Flame!",
+        "Feel the heat!"
+      ]
+    }
+  ],
+  "trivia": [
+    "She is one of the few scrapped Sensei variants known to exist.",
+    "The Power Blue line was created to support autism awareness.",
+    "Her design replaces her usual red and gold armor with blue and white."
+  ],
+  "trailers": [],
+  "gameplay": "As a Samurai Sensei, Power Blue Ember would have utilized dual-wielding katana attacks, fire geysers, and explosive dash moves to control the battlefield.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Power_Blue_Ember",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "power-blue-ember",
+      "id": "power-blue-ember-variant",
       "variant_name": "Power Blue Ember",
-      "edition": "Series 1",
+      "edition": "Power Blue",
       "type": "Sensei",
-      "game": null,
-      "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/Phillip-worobey-ember-power-blue.jpg/revision/latest?cb=20230109004455",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/Phillip-worobey-ember-power-blue.jpg",
       "attacks": [
         "Samurai Combo",
         "Flame Geyser",
         "Immolation",
-        "Inner Fire",
-        "Living Bomb Path"
+        "Inner Fire"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Power",
+          "stat_value": "280"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "150"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Power_Blue_Ember"
     }
   ]
