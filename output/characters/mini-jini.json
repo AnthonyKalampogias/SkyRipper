@@ -4,6 +4,7 @@
   "species": "Elven Genie",
   "gender": "Female",
   "element": "Magic",
+  "role": "Sidekick, Mini",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -15,24 +16,139 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands Miniverse"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Within the Skylands , a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse . Everything there is smaller, including the Skylanders . The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures.&#160; The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-  "personality": "Mini-Jini always looks on the bright side of life. She believes in the power of positive thinking, and her good energy is infectious. Mini Jini is least likely to put a curse on everyone, as she the nice kind of genie. &#91; 1 &#93;",
-  "story": null,
+  "description": "Mini-Jini is one of the four Sidekicks in Skylanders: Giants. She is the miniature version of the giant Ninjini, eventually becoming a Mini Skylander in Skylanders: Trap Team.",
+  "biography": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "quote": "Any Last Wishes?",
+  "personality": "Mini-Jini always looks on the bright side of life. She believes in the power of positive thinking, and her good energy is infectious. Mini Jini is least likely to put a curse on everyone, as she the nice kind of genie.",
+  "story": [
+    {
+      "story_name": "Personality",
+      "content": "Mini-Jini always looks on the bright side of life. She believes in the power of positive thinking, and her good energy is infectious. Mini Jini is least likely to put a curse on everyone, as she the nice kind of genie.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Any Last Wishes?"
+      ]
+    },
+    {
+      "quote_type": "English Voice Actor",
+      "content": [
+        "Laura Bailey"
+      ]
+    }
+  ],
+  "trivia": [
+    "Mini-Jini is the miniature version of the Magic Giant, Ninjini.",
+    "She is voiced by Laura Bailey in English.",
+    "She originally debuted as a Sidekick in Skylanders: Giants before being released as a playable Mini Skylander in Trap Team."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Mini Skylanders Mini Jini",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Mini_Skylanders_Mini_Jini"
+    },
+    {
+      "name": "Meet the Skylanders Mini-Jini",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Mini-Jini"
+    }
+  ],
+  "gameplay": "Mini-Jini uses a variety of magical attacks including Wishblades and Bottle Blast. In games, she has a starting health of 410 and a speed of 85. Her power stats reflect high Agility and Luck, both at 130.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Mini-Jini",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Wishblades",
+        "imgPath": "",
+        "content": "A primary melee attack.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#B0E0E6"
+        }
+      },
+      {
+        "name": "Bottle Blast",
+        "imgPath": "",
+        "content": "A secondary magical projectile attack.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Surrealistic Spheres",
+        "imgPath": "",
+        "content": "Upgraded magical spheres for increased range and damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#B0E0E6"
+        }
+      },
+      {
+        "name": "Abra-Ca-Stab-Bra",
+        "imgPath": "",
+        "content": "A swift stabbing maneuver with magical blades.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Juggling Act",
+        "imgPath": "",
+        "content": "A powerful juggling maneuver that acts as Mini-Jini's ultimate attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "mini-jini",
+      "id": "mini-jini-mini",
       "variant_name": "Mini-Jini",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Mini",
       "game": "Skylanders: Giants",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Mini_jini.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Mini_jini.jpg/revision/latest?cb=20140813160310",
       "attacks": [
         "Wishblades",
         "Bottle Blast",
@@ -40,7 +156,28 @@
         "Abra-Ca-Stab-Bra",
         "Juggling Act"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "410 (max. 820)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "85 (max. 133)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "48 (max. 78)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "80 (max. 130)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "60 (max. 110)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Mini-Jini"
     }
   ]
