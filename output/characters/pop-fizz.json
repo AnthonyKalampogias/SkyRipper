@@ -1,29 +1,502 @@
 {
   "id": "pop-fizz",
   "name": "Pop Fizz",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
+  "species": "Blue Gremlin",
+  "gender": "Male",
+  "element": "Magic",
+  "role": "Core Skylander",
+  "primary_game": "Skylanders: Giants",
+  "appearances": [
+    "Skylanders: Giants",
+    "Lightning Rod Faces the Cyclops Queen",
+    "Skylanders: Swap Force",
+    "The Kaos Trap",
+    "Skylanders: Trap Team",
+    "Skylanders Issue 12",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [
+    "Stump Smash Crosses the Bone Dragon",
+    "Trigger Happy Targets the Evil Kaos",
+    "Return of the Dragon King"
+  ],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Pop Fizz is a blue gremlin alchemist who is one of the Magic Skylanders in Skylanders: Giants. His Series 2 counterpart is called Super Gulp Pop Fizz, and his Series 3 counterpart is Fizzy Frenzy Pop Fizz. Pop Fizz has a red counterpart called Punch Pop Fizz, who is available in the 3DS Starter Pack of Giants and is now available in a single pack. His Series 3 figure has a pink version called Love Potion Pop Fizz. He also has an Easter counterpart, Hoppity Pop Fizz, who was only available in Skylanders: Lost Islands for a limited time. In Skylanders: SuperChargers, Pop Fizz is redesigned as a SuperCharger named Big Bubble Pop Fizz.",
   "biography": "Nobody is quite sure who Pop Fizz was before he became an alchemist, least of all Pop Fizz himself. After many years of experimenting with magical potions, his appearance has changed quite significantly. In fact, no one even knows his original colour. But it’s widely known that he is a little crazy, his experiments are reckless, and the accidents they cause are too numerous to measure. Understandably, he has had a difficult time finding lab partners, or anyone that even wants to be near him. In hopes of making himself more appealing to others, he attempted to create the most effective charm potion ever — but that just turned him into a big, wild, berserker. Or maybe that’s just how he saw the potion working in the first place...",
-  "personality": "Pop Fizz is widely known as being a little crazy. The Skylander who puts the mad into a mad scientist, he is bubbling over with crazy amounts of enthusiasm. And that's before he's glugged from his bonkers beast beaker! &#91; 3 &#93; According to Pop Fizz, the reason he keeps drinking his potion, or soda, is that the effects keep him on edge, gives him powers and that it is \"soda-licious.\" He is also one of the few characters who fully understand Double Trouble 's language.",
-  "story": null,
+  "quote": "The Motion of the Potion!",
+  "personality": "Pop Fizz is widely known as being a little crazy. The Skylander who puts the mad into a mad scientist, he is bubbling over with crazy amounts of enthusiasm. And that's before he's glugged from his bonkers beast beaker! [3] According to Pop Fizz, the reason he keeps drinking his potion, or soda, is that the effects keep him on edge, gives him powers and that it is 'soda-licious.' He is also one of the few characters who fully understand Double Trouble's language.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Pop Fizz is a short and stubby, gremlin with blue fur. Well...at least, he's blue right now, but that could change at any moment. As an alchemist, Pop Fizz spends much of his time making potions, and the rest of his time drinking them. Everyone who has ever met him agrees that Pop Fizz is a little crazy. Actually he's a lot crazy, and the potions he brews up usually have some pretty wild effects. He once created a potion to make himself more charming and appealing to others. Unfortunately, when he drank it, he became a huge angry rage monster. Since then, his potions caused him to change colour, lose his memory and, on more than one occasion, violently explode. Despite this, he always keeps some potion close to hand, not just for the special abilities it gives him, but because it always tastes 'soda-licious'.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Lightning Rod Faces the Cyclops Queen",
+      "content": "Pop Fizz attended the Annual Storm Titan Games with Drobot and Cali to see their fellow Skylander, Lightning Rod, in action. When Flynn's balloon was struck by Rod's stray hammer, Pop Fizz quickly transformed into his berserker form and knocked away any debris that threatened the audience, while Drobot and Lightning Rod saved the balloon's passengers and both Master Eon and the King of the Storm Giants. Once everyone was safe, Hugo revealed that the Book of Power had revealed the next fragment to the dreaded Mask of Power. Within the stadium, the Skylanders discovered that the Air fragment to the Mask of Power has seemingly taken on the form of a Land Whale, which was stationed at a zoo held by the Cyclops Queen at Tempest Towers. Master Eon sent Pop Fizz, Lightning Rod, Double Trouble, Drobot, Cali, and Flynn to the Tempest Towers that lied beyond the Sea of Storms in their mission to claim the Air fragment before Kaos made his move. However before they could depart, Kaos captured Cali, who knew the path to Tempest Towers. The Skylanders gave chase, following Kaos while trekking through the Sea of Storms and battling Windbag Djinnis along the way. They managed to get to Tempest Towers before Kaos could and tricked their way into the Cyclops city by using Pop Fizz's berserker form to pose as a never-before-seen creature for the Cyclops Queen, leaving Flynn and Double Trouble outside to keep a lookout for Kaos. However, after tricking the Cyclops Queen and her husband, Pipsqueak, the Skylanders were found out. While Lightning Rod and Drobot were thrown to the Land Whale's tank to be eaten, Pop Fizz was captured and held prisoner in a cage. To escape from his prison, the alchemist became so excited that his potion wore off, allowing Pop Fizz to return to his normal form and slip through the cage bars to release Lightning Rod and Drobot from the tank. After Kaos's battle with the Cyclopses, resulting in Lightning Rod hurling the Land Whale far from Tempest Towers, Pop Fizz concocted a potion made from the animals held by the Cyclops Queen that grew Lightning Rod to an enormous size big enough to carry the tower (that was the true Air fragment) back to the Eternal Archive. Once there, Pop Fizz celebrated with his fellow Skylanders of their victory, unaware that there was a traitor in their midst revealing the locations of the fragments of the Mask of Power to Kaos.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8d/Pop_Fizz_Double_Trouble.jpg/revision/latest?cb=20130915180022"
+    },
+    {
+      "story_name": "Stump Smash Crosses the Bone Dragon",
+      "content": "Pop Fizz was one of the assembled Skylanders who attempted to fight against the rampaging Bone Dragon in the Giggling Forest but was turned to stone. He was soon returned to normal when the Dragon agreed to un-freeze the petrified present characters.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "The Kaos Trap",
+      "content": "Pop Fizz was assigned on a mission with Stealth Elf and Wash Buckler to deliver supplies to the Mabu mining expedition at the Radiant Isles. On their way there, the blue gremlin was with Flynn in the cockpit of the Dread-Yacht, trying to learn how to make s' mores. When the Mabu became under attack by Kaos' Trolls, Pop Fizz quickly transformed into his Berserker from under Stealth Elf's insistence, using his brute strength to attack the Trolls and protect the Mabu. Suddenly, the Doom Raider, Wolfgang, arrived during the heat of the battle, causing the Skylanders, including Pop Fizz, to feel threatened and outmatched, as they weren't prepared to tackle both a Troll army and a Doom Raider. Before Wolfgang could begin his attack, the Trap Masters, SnapShot and Wallop, arrived in time to help their comrades. With their combined efforts, they defeated Wolfgang and drove off the Trolls, saving the Mabu expedition. Both the Skylanders and the Trap Masters were praised by the Mabu leader for their efforts in saving the Mabu but soon came to notice that the Fork of Infinite Resonance was stolen by the Trolls, causing the Skylanders to ponder on what Kaos was up to.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Pop_Fizz_Flynn.png/revision/latest?cb=20141115095027"
+    },
+    {
+      "story_name": "Skylanders Issue #12: Graduation Day",
+      "content": "Pop Fizz was helping with the Skylander Academy graduation by pouring a special punch mix into the courtyard pool for the partygoers. When the Doom Raiders ambushed the school staff, Pop Fizz was turned to gold along with them until the Minis defeated the villains.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Imaginators",
+      "content": "Pop Fizz appeared in Skylanders: Imaginators as one of the Skylander NPC characters (though the player may still play as Pop Fizz using previous figures). At the beginning of the story, he served as the race starter to initiate the race between Spyro and Stealth Elf. When the Skylanders scouted the Academy for possible enemies, Pop Fizz and the other heroes were confronted by Kaos' ultimate Doomlander: the Guacamole Monster. After the Guacamole Monster was defeated, Pop Fizz alerted everyone that Fizzland was under attack by Kaos and proceeded to escort the Skylander to it. Upon arriving, a projection of Kaos confronted Pop Fizz and demanded to know where to find his Beast Mode potion. Pop Fizz instead consumed a bottle of his own potions and attempted to attack Kaos in his Berserker Form, only to go through the projection, fall to the abyss and later re-spawn. He then introduced the Skylander to the Fizz World Potion switching mechanic. When Kaos was successfully driven away, Pop Fizz downed some of his own potions in celebration. Pop Fizz was later put under the control of Brain's Mind Magic power but was later released from it after Spyro and the other Dragons used their Dragon Magic to dispel the brainwashing. Pop Fizz then revealed his plan to invade Kaos' Fortress by building a giant cake the heroes would hide inside and sent the Skylander out to collect cake ingredients. During and after main story mode, Pop Fizz can be found inside the Sensei Magic Realm, where a Bottle Beast he accidentally created was running rampant.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "The Motion of the Potion!",
+        "How's this?",
+        "Don't try this at home kids!",
+        "Drink up!",
+        "My potion has punch!",
+        "Another round!",
+        "My juice is loose!",
+        "Shake and Break!",
+        "Shake it up!",
+        "Success is my middle name!",
+        "Oh, that's the good stuff right here! - collecting treasure",
+        "What happened? - after Beast form",
+        "Ah, that's better.",
+        "What a rush!",
+        "The potion is in motion! - after receiving an upgrade",
+        "I like it!",
+        "So nice to be in here!- After finding a Magic Elemental Gate",
+        "Oh! Now that's strong! - When checking stats",
+        "Ooh! Look at all these numbers!",
+        "Hey, this hat matches my bottle! - After putting on hat",
+        "Very exciting to put on this hat.",
+        "I was very big there for a second! - After leveling up",
+        "Level up? Hoho, this is exciting!"
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Party time! - scanned in",
+        "Shake it out!",
+        "Let's do this! - when selected",
+        "Ready to pop!",
+        "The motion of the potion! - Battle Introduction",
+        "Shake and break!",
+        "Popping in! - swapping in",
+        "Time for a breather!",
+        "I got fire in my belly! - rank up",
+        "Fanta-stic!",
+        "Oh, I'll take it! - Summoning a Gear",
+        "Some extra help? Thank you!",
+        "Let's see what shakes out! - Summoning a Relic",
+        "A very good choice!",
+        "Wow, exciting! - randomly when playing spells",
+        "I like it!",
+        "Uh oh, I think I overdid it! - Chuggernaut",
+        "I may have overcalculated.",
+        "Awesome, did I eat anchovies?! - Buurrrp!",
+        "Oh, that's a keeper!",
+        "Sugar rush! - Loco-Potion",
+        "I feel great!",
+        "Soda strike! - Fizz! Bang!",
+        "I put the fizz in physics!",
+        "Woo-hoo, sodalicious! - Soda Fountain",
+        "There's always room for soda!",
+        "Sweet dreams! - KOed an enemy",
+        "Down and out!",
+        "I don't feel so good...! - when defeated",
+        "Pop goes the fizz!",
+        "Well, at least I didn't barf...! - defeat at the end of battle",
+        "My bubble has been burst!",
+        "What a rush! - Victory",
+        "Let's celebrate with soda!",
+        "If you break it, you buy it. - when poked",
+        "Hey, quit mixing me up!",
+        "It's getting weird now!",
+        "What's happening?",
+        "A little to the left...",
+        "*burp*'Scuse me!",
+        "Lookin' good! - Card Level Up"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "Hey guys, watch this.",
+        "No way! It's how I keep my edge! It's soda-licious...plus, urr... it gives me powers!- Tall Tales Trailer",
+        "I once heard, they are so strong, they can move islands! They're just like, 'Hey look at that island! I'm gonna pull it closer, because you know, I'm a Giant, no biggy.'",
+        "Ok, I'm quitting the soda!",
+        "We're toast! - Obey Commercial",
+        "Whoa! How'd you do that?",
+        "I'm too young to die! - Face Off Commercial",
+        "Actually, it's a tortoise. But, still... AHH!!!",
+        "Don't leave me here with him, look at his eyes!",
+        "So, uh... why do they call you Crusher? - Crusher TV Spot commercial",
+        "Now I get it.",
+        "So, wait. Explain it to me again. Why are we hiding?",
+        "Holly Swapamole, now you can swap four ways! - Stinky Commercial",
+        "That's a lot of ways to stink!",
+        "Oh no! Is the new guy in trouble?! - New Powers Extravaganza Comercial",
+        "Yeah, more new guys!",
+        "The new guys are totally awesome!"
+      ]
+    },
+    {
+      "quote_type": "Imaginators Storyteller Quotes",
+      "content": [
+        "Holy guacamole!",
+        "Oh, I'll tell you where it is alright... It's in my belly!!",
+        "DESTROY!!! DESTROY KAOS!!!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Early in development, Pop Fizz was called Alchemist. He was one of the earliest Skylanders for Skylanders: Giants to have voice lines during gameplay, and spoke with a heavy German accent. Unlike his final version, Pop Fizz originally ran all fours in Beast Form, and his standard orange potion was initially red. [4]",
+    "In the 3DS version however, Pop Fizz's beast form still runs on all fours.",
+    "His bottle minions originally reused the models of dark Flame Imps, firing purple energy bullets from their stalks. [5]",
+    "During Giants's alpha development, some of Pop Fizz's abilities/upgrades were differently named and arranged. [6]",
+    "'New Concoctions' was called 'Potion of Animation.'",
+    "'Puddle of Pain' was called 'Potion of Acid Splash.'",
+    "'Raging Beast' was called 'Raging Hulk.'",
+    "'Dexterous Delivery' was called 'Hyper Throw.'",
+    "'More Beast!' was replaced by an upgrade called 'Berserker,' which had the same effect as 'Berserker Boost.'",
+    "'Berserker Boost' was replaced by an upgrade called 'Smoldering Rage,' which had the same effect as 'More Beast!'",
+    "'Mutant Beast' was called 'Mutant.'",
+    "'Shake It!' was called 'Shake it like you just don't care.'",
+    "In a particular demo of Pop Fizz on YouTube, when he drinks his potion, his berserker form is pink instead of blue.",
+    "Pop Fizz bearing the ability to change between his normal state and his violent state using a potion is similar to the character, Dr. Jekyll and his split personality, Mr. Hyde.",
+    "Unlike Mr. Hyde, Pop Fizz retains his personality in his beast form; he does, however, seem to become more hyper.",
+    "As a LightCore figure, his bottle lights up. The beaker appears to be bigger than his regular counterpart's",
+    "There is an unused Prototype art of the lightcore figure shown on most platforms. It has two bottles.",
+    "As a Series 2 figure, he stands on top of his giant purple beaker indicating his Wow Pow, Beaker Buddy. His gauntlets appear to have turned gold after obtaining his Wow Pow. Also, his backpack of bottles appears to be purple as well.",
+    "The bottom of his Beaker is from his basic upgrade Dexterous Delivery since it changes the shape of the potion bottle.",
+    "Pop Fizz and Trigger Happy are, the only Gremlin Skylanders.",
+    "They were also the first Skylanders to get Easter variants.",
+    "The basic figures of both Skylanders released in Skylanders: SWAP Force have them be propped up by a large object, with Pop Fizz standing on a giant potion and Trigger Happy riding a large, golden rocket.",
+    "He is voiced by comedian, Bobcat Goldthwait, who is best known for his comedic delivery through an unusual raspy and high-pitched voice. He is also known for playing Zed McGlunk in the Police Academy franchise and voicing Pain in Disney's Hercules, XL from Buzz Lightyear of Star Command and Experiment 199 (aka Nosy) from Lilo & Stitch: The Series.",
+    "He and Pop Thorn have 'Pop' in their names and have two changeable forms. (Pop Fizz is a play on 'pop quiz' and Pop Thorn is a play on'popcorn').",
+    "Pop Fizz is one of the few Skylanders to break the fourth wall, by saying \"Don't try this at home, kids!\" , \"I was very big there for a second!\" and \"Level up? Hoho, this is exciting!\"",
+    "His name is a play on a popular music quiz called \"pop quiz.\"",
+    "Pop Fizz isn't the only character in Skylanders to go berserk after drinking the potion. A sheep took a sip of some of it in the extended version of the \"Just like SWAP Force\" commercial and transformed into a hairy, purple, beast-like version of its former self. Later the sheep reverted to its normal form.",
+    "There is a glitch that can possibly make Pop Fizz summon three big Beaker Buddies at the same time instead of one. In order to do so, first, he tosses one purple potion bottle over the edge and then throws three purple ones at the same time, thus turning them into big walking beakers. But it must be done while the path, \"Mad Scientist\", is chosen.",
+    "He, Kaos, and Grilla Drilla have the most syllables for catchphrases, counting seven.",
+    "The unused prototype version of LightCore Pop Fizz holding two beakers is shown on the Skylanders: Giants Poster.",
+    "He is the second Skylander to have a variant for a 3DS Starter pack (the first being Spyro and the third being Eruptor).",
+    "He is also the third Skylander to have three variants (the first being Food Fight and the second being Snap Shot) if not counting Eon's Elites.",
+    "As a Series 3 figure, Pop Fizz sometimes appears in the game in his Super Beast form even without having to drink his potions first, especially when his new Wow Pow, \"Oversize ME!\", hasn't been purchased yet.",
+    "In his Super Beast form, he is capable of running over smaller enemies like Chompies.",
+    "Pop Fizz is currently the name of a fast-food restaurant.",
+    "He is the first Skylander to have more than one variant figure that aren't Dark and Legendary.",
+    "He and Shroomboom are the only Skylanders who got a repose in Trap Team, and that don't have a Mini counterpart.",
+    "He slightly resembles Stitch from the Disney movie, Lilo & Stitch.",
+    "Fizzy Frenzy Pop Fizz appears as a separate variant in Skylanders: Lost Islands.",
+    "His second Wow Pow \"Oversize ME!\" could be a pun on the 2004 American documentary film Super Size Me.",
+    "In Skylanders: SuperChargers and Skylanders: Imaginators, he can perform his Soul Gem ability, Shake It!, with minimal end lag. He falls onto his back for a singular frame, before twisting upright over an extremely short amount of time, appearing as if he never falls onto his back.",
+    "Pop Fizz's abilities are similar to Doctor Nitrus Brio from the first Crash Bandicoot game. Both throw potions and when they drink them, they become monsters with strong melee attacks.",
+    "In Skylanders: SuperChargers and Skylanders: Imaginators, his Series 3 Wow Pow uses less polished animations, most likely due to them being reanimated. He also summons once per level into his regular Beast Form if the Wow Pow hasn’t been purchased, unlike Trap Team which summons the Super Beast regardless.",
+    "In Skylanders: SuperChargers Racing, when his Series 3 counterpart is placed on the portal, he doesn't say his catchphrase. Instead, he growls.",
+    "There is a glitch in Skylanders: SuperChargers, and Skylanders Imaginators, that if you jump right as Pop Fizz turns back from beast mode, he will appear without his potion satchel.",
+    "In Skylanders Giants, Pop Fizz cannot push puzzle blocks while in Beast Mode.",
+    "Also in Giants, Pop Fizz reverts out of Beast Mode when talking to NPCs, triggering a cinematic, or entering a loading zone.",
+    "He also reverts to normal form after defeating a dark Skylander in an elemental ambush.",
+    "In Giants, if he has the Berserker Boost upgrade, Pop Fizz's beast meter will recharge when he attacks breakable walls and key gates.",
+    "Despite him saying his Catchphrase as, \"The motion of the potion\" all packagings, games and cards just show his Catchphrase as, \"Motion Of the Potion!\""
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Giants - Meet the Skylanders - Pop Fizz (Motion of the Potion)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Pop_Fizz_(Motion_of_the_Potion)"
+    },
+    {
+      "name": "Skylanders Giants - Pop Fizz's Soul Gem Preview (The Motion of the Potion)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Pop_Fizz%27s_Soul_Gem_Preview_%28The_Motion_of_the_Potion%29"
+    },
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Super Gulp Pop Fizz",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Super_Gulp_Pop_Fizz"
+    },
+    {
+      "name": "Meet the Skylanders Fizzy Frenzy Pop Fizz",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Fizzy_Frenzy_Pop_Fizz"
+    },
+    {
+      "name": "Meet the Skylanders LightCore Pop Fizz",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_LightCore_Pop_Fizz"
+    }
+  ],
+  "gameplay": "Pop Fizz can throw his potions at enemies. He has three potions: a green one (which when thrown forms an acid pool on where it lands), a purple one (which when thrown spawns a potion minion that will attack for you), and an orange one (which explodes like a bomb on contact), and he can switch the active potion with the third attack button. For his second attack, he drinks his current potion and transforms into his Beast Form. Depending on his chosen upgrades, he will have different attacks in Beast Form. With his Soul Gem upgrade, repeatedly switching potions causes an explosion. In Skylanders: Battlecast, his potions can be used as spells, though with random results. He can also use cheap and powerful spells, but at great costs, such as muting him for the rest of a fight. His signature Gear is the Soda Fountain, which creates spells of an ally's element, and his Special Ability is Strange Brew, which randomly creates a spell. His scrapped card and signature Relic is the Carbonator, which decreases the cost of spells drawn after it is placed.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Pop_Fizz",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Potion Lob",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Pop_Fizzprimarypower.png",
+        "content": "Press the attack 1 button to lob his currently-equipped potion.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "Potion Lob",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Beast Form",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/48/Pop_Fizzsecondarypower.png",
+        "content": "Press the attack 2 button to drink his potion and temporarily change into a beast form.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "Beast Form",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "New Concoctions",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Pop_Fizzbasicupgrade1.png",
+        "content": "Press the attack 3 button to switch to some new potions, which forms a potion minion when it hits the ground",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "New Concoctions",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Puddle of Pain",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Pop_Fizzbasicupgrade2.png",
+        "content": "Press the attack 3 button to cycle to a new potion that leaves a damaging puddle of acid when thrown.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "Puddle of Pain",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Raging Beast",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9d/Pop_Fizzbasicupgrade3.png",
+        "content": "All attacks in Beast Form do additional damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "Raging Beast",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Dexterous Delivery",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/44/Pop_Fizzbasicupgrade4.png",
+        "content": "Throws potions and grabs new ones much faster.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "Dexterous Delivery",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Shake It!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Pop_Fizzsoulgempower.png",
+        "content": "Repeatedly press attack 3 to shake potion bottle until it explodes.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "Shake It!",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Beaker Buddy",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/97/Pop_Fizzwowpowpower.png",
+        "content": "When throwing Purple Potions, one of them will grow into a giant, special pet.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "Beaker Buddy",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "season": 3,
+        "name": "Oversize ME!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/78/Pop_Fizzwowpow2power.png",
+        "content": "Tap Attack 2 repeatedly to swallow a potion whole and become a Super Beast with overload abilities.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "Oversize ME!",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Best of the Beast!",
+        "abilities": [
+          {
+            "name": "More Beast!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a9/Pop_Fizzpath1upgrade1.png",
+            "content": "Beast Form meter drains more slowly and recharges faster.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "More Beast!",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Berserker Boost",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Pop_Fizzpath1upgrade2.png",
+            "content": "In Beast Form, damaging enemies increases the Beast Form meter.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "Berserker Boost",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Mutant Beast",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/07/Pop_Fizzpath1upgrade3.png",
+            "content": "In Beast Form, press attack 3 to perform a special attack based on which potion is active.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "Mutant Beast",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Mad Scientist",
+        "abilities": [
+          {
+            "name": "Master Chemist",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Pop_Fizzpath2upgrade1.png",
+            "content": "All potions do increased damage and have improved effects.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "Master Chemist",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Mixologist",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/32/Pop_Fizzpath2upgrade2.png",
+            "content": "Mix the effects of different color potions for brand new effects.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "Mixologist",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "All in",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5a/Pop_Fizzpath2upgrade3.png",
+            "content": "Hold the attack 1 button to pull up to 3 potions out and release to throw them all out at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "All in",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "pop-fizz",
       "variant_name": "Pop Fizz",
       "edition": "Series 1",
       "type": "Sensei",
-      "game": null,
+      "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/7/7b/PopFizz.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Potion Lob",
+        "Beast Form",
+        "New Concoctions",
+        "Puddle of Pain",
+        "Raging Beast"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Pop_Fizz"
     }
   ]
