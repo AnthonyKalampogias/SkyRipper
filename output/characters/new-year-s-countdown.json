@@ -4,28 +4,60 @@
   "species": "Bomb Launcher",
   "gender": "Male",
   "element": "Tech",
-  "primary_game": "Skylanders: Lost Islands (January 2014)",
+  "role": "Skylander",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "New Year's Countdown is a holiday-themed variant of the Tech Skylander Countdown, specifically released to celebrate the New Year in the mobile game Skylanders: Lost Islands.",
+  "biography": "New Year's Countdown is a New Year's counterpart of Countdown. He was available on January 2014 and 2015 in Skylanders: Lost Islands, featuring a festive hat with the year printed on it.",
+  "quote": "New Year's Countdown is here to ring in the New Year!",
+  "personality": "Like the standard Countdown, he is known for being explosive and high-energy. This variant specifically embraces a festive and celebratory spirit to ring in the New Year.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "New Year's Countdown is a New Year's counterpart of Countdown. He was available on January 2014 and 2015 in Skylanders: Lost Islands.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catch Phrase",
+      "content": [
+        "New Year's Countdown is here to ring in the New Year!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the first Lost Islands Exclusive Skylander to be released in 2014.",
+    "Because the Wishin' Well first appeared on February 2013, New Year's Countdown is the first and only Lost Islands Exclusive Skylander to be released on January.",
+    "In January 2015, the year on his hat was changed to 2015. No further changes have been made due to the lack of Lost Islands updates since May 2015."
+  ],
+  "trailers": [],
+  "gameplay": "In Skylanders: Lost Islands, New Year's Countdown could be obtained through the Wishin' Well during the January event. Once obtained, he could be used to perform tasks and help manage the player's island, similar to other Skylanders in the game.",
   "wiki_url": "https://skylanders.fandom.com/wiki/New_Year's_Countdown",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "new-year-s-countdown",
+      "id": "new-year-s-countdown-variant",
       "variant_name": "New Year's Countdown",
       "edition": "Series 1",
       "type": "Core",
-      "game": "Skylanders: Lost Islands (January 2014)",
+      "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/a/a4/New_Year%27s_Countdown.png/revision/latest?cb=20131231095454",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/New_Year's_Countdown"
     }
   ]
