@@ -4,21 +4,282 @@
   "species": "Pit Viper",
   "gender": "Male",
   "element": "Undead",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Great Twisty Mountains"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Pit Boss was a member of a powerful order of snake philosophers that lived high up in the Great Twisty Mountains. Travelers would come from miles around and make the treacherous climb just to seek out the snakes’ wisdom. Each visitor was permitted to ask one question, but Pit Boss became alarmed when the same question was asked by several different people – how to deal with the growing threat of Kaos ! With such a great concern, Pit Boss knew that it was time for action, not words. He left the Order of the Snake in search of this threat, and soon it was clear that Kaos was worse than Pit Boss had imagined. Knowing he could not stop Kaos on his own, Pit Boss joined the Skylanders , and due to his great wisdom and mystical powers, Master Eon enlisted him into the Sensei program as a Sorcerer Master.",
-  "personality": "Pit Boss' wisdom is said to have no bounds. &#91; 1 &#93; He has a love for certain \"S\" words that are related to snakes, such as the words 'snake', 'slither', 'serpent', and 'statistics'.",
-  "story": null,
+  "description": "Pit Boss is an Undead viper Sensei of the Sorcerer Battle Class in Skylanders: Imaginators.",
+  "biography": "Pit Boss was a member of a powerful order of snake philosophers that lived high up in the Great Twisty Mountains. Travelers would come from miles around and make the treacherous climb just to seek out the snakes' wisdom. Each visitor was permitted to ask one question, but Pit Boss became alarmed when the same question was asked by several different people – how to deal with the growing threat of Kaos! With such a great concern, Pit Boss knew that it was time for action, not words. He left the Order of the Snake in search of this threat, and soon it was clear that Kaos was worse than Pit Boss had imagined. Knowing he could not stop Kaos on his own, Pit Boss joined the Skylanders, and due to his great wisdom and mystical powers, Master Eon enlisted him into the Sensei program as a Sorcerer Master.",
+  "quote": "The Scales of Justice!",
+  "personality": "Pit Boss' wisdom is said to have no bounds. He has a love for certain 'S' words that are related to snakes, such as the words 'snake', 'slither', 'serpent', and 'statistics'.",
+  "story": [
+    {
+      "story_name": "Physical Traits",
+      "content": "Pit Boss is a green pit viper dressed in black robes held up by the sensei gold belt and holds a golden staff with a green jewel in the middle.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b0/Pit_Boss_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20160914194009"
+    },
+    {
+      "story_name": "Personality",
+      "content": "Pit Boss' wisdom is said to have no bounds. He has a love for certain 'S' words that are related to snakes, such as the words 'snake', 'slither', 'serpent', and 'statistics'.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "Pit Boss was a member of a powerful order of snake philosophers that lived high up in the Great Twisty Mountains. Travelers would come from miles around and make the treacherous climb just to seek out the snakes' wisdom. Each visitor was permitted to ask one question, but Pit Boss became alarmed when the same question was asked by several different people – how to deal with the growing threat of Kaos! With such a great concern, Pit Boss knew that it was time for action, not words. He left the Order of the Snake in search of this threat, and soon it was clear that Kaos was worse than Pit Boss had imagined. Knowing he could not stop Kaos on his own, Pit Boss joined the Skylanders, and due to his great wisdom and mystical powers, Master Eon enlisted him into the Sensei program as a Sorcerer Master.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "\"The Scales of Justice!\"",
+        "\"Greetingsss, Portal Massster, are your Imaginators ready to ssstudy the ways of the sssnake?\" - Sensei Training Bonus",
+        "\"And for the Sssorcerer classs, I will teach them the most awesome Sssecret Technique!\" - Secret Technique Bonus",
+        "\"The snake summons!\" - ringing a Battle Gong",
+        "\"Right on!\"",
+        "\"Python power!\"",
+        "\"Snake pit!\"",
+        "\"Anaconda!\"",
+        "\"Watch thisss.\" - Sorcerer Sensei Shrine",
+        "\"These enemies are about to be hissstory!\" - before a battle",
+        "\"Who daresss challenge the sssnake?!\"",
+        "\"They got served!\" - after a battle",
+        "\"Hope you like the tassste of venom and defeat!\"",
+        "\"Let that be a lesson to all my enemies: the sssnake reigns sssupreme!\"",
+        "\"Witness the power of the snake, witness it!\" - leveling up",
+        "\"Statistics are my fourth favorite 'S' word, behind snake, serpent, and slither, of course.\" - checking stats",
+        "\"These myssstical runes are tessstimony to my mysticalnesss!\"",
+        "\"Tassste the venom!\" - activating Sky-chi",
+        "\"Sssky-chi is ssso sssweet!\" - after Sky-chi"
+      ]
+    }
+  ],
+  "trivia": [
+    "Pit Boss is the third snake Skylander, after Rattle Shake and Cobra Cadabra.",
+    "Like them, Pit Boss has limbs and can call forth more snakes to assist him.",
+    "His name is based on the name of the snake species, the Pit Viper.",
+    "His name may also be based on concept of snake pits, places of torture in mythology and folklore, where unfortunate prisoners would be thrown in to be traumatized or even killed in horrific ways. Likewise, he can summon and control large amounts of snakes to harass his enemies, making him the boss of the pit.",
+    "His name also might be based on casino pit bosses, which manages other supervisors in the game tables.",
+    "He is the third Undead character voiced by John Kassir, after Ghost Roaster and Short Cut.",
+    "Although his scepter is golden on his promotional art and figure toy, in game is silver.",
+    "During development, Pit Boss was a Dark Skylander, at that point simply named Viper.",
+    "According to Jeff Murchie, Pit Boss was one of the first characters approved for Skylanders: Imaginators. Initially, some designers were concerned that he looked too much like a villain, but they decided that it was good to have at least one 'edgy' Skylander in the lineup."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Imaginators Meet Master Pit Boss",
+      "isValid": true,
+      "url": "/wiki/File:Official_Skylanders_Imaginators_Meet_Master_Pit_Boss"
+    },
+    {
+      "name": "Skylanders Imaginators - Pit Boss Soul Gem Preview",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Imaginators_-_Pit_Boss_Soul_Gem_Preview"
+    }
+  ],
+  "gameplay": "Pit Boss can blast ghostly snakes at his foes, as well as summon a swirling pit of vipers that damage foes. Pit Boss can also transform into a giant beastly snake, and even drag enemies along with him. His Soul Gem allows him to summon a colossal undead snake from the ground when in his snake form. His Sky-Chi power allows him to summon a rain of snakes from above which damages enemies in a wide range.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Pit_Boss",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Snake Attack",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Pit_Bossprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170408165657",
+        "content": "Press Attack 1 to launch ghostly snake attacks.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Slithering Soul Snake",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Pit_Bosssecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170408165717",
+        "content": "Press and hold Attack 2 to turn into a Snake.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Viper Pits",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Pit_Bossbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170408165740",
+        "content": "Press Attack 3 to create Viper Pits that damage enemies, and make your primary attacks do more damage and travel faster.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Besst for Lasst",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Pit_Bossbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170408165802",
+        "content": "Do damage around you when releasing Attack 2.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Pit Master",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b3/Pit_Bossbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170408165836",
+        "content": "Viper Pits slow enemies down, and they will always take critical hits. You can also make one more Viper Pit.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Slither Away",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Pit_Bossbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170408165856",
+        "content": "Carry enemies with you when turning into a Snake with Attack 2.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "The Undersnaker",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Pit_Bosssoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170408172938",
+        "content": "Release Attack 2 while coiled in Slithering Soul Snake to unleash a giant undead Snake.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "Viper Volley",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Pit_Bossskychipower.png/revision/latest/scale-to-width-down/148?cb=20170408173122",
+        "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power! It's raining snakes!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Snake Charmer",
+        "abilities": [
+          {
+            "name": "Superior Slithering",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/Pit_Bosspath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170408170209",
+            "content": "You can carry one more enemy during the secondary attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "The More the Snake-ier",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Pit_Bosspath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170408170243",
+            "content": "The more enemies you carry with Attack 2, the more damage you do.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Shedding",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0a/Pit_Bosspath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170408170304",
+            "content": "Leave your remains behind as a barrier when transforming back from Attack 2.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Pit Prowess",
+        "abilities": [
+          {
+            "name": "Restless Reptiles",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Pit_Bosspath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170408171341",
+            "content": "Vipers will shoot out of Viper Pits when they expire and damage enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Viper Pit Pounce",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Pit_Bosspath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170408171415",
+            "content": "Jumping while in Snake Form creates a Viper Pit. You can now make up to three of them.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Really Restless Reptiles",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Pit_Bosspath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170408172057",
+            "content": "Vipers will continuously escape the Viper Pits and damage enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "pit-boss",
@@ -34,7 +295,24 @@
         "Superior Slithering",
         "Restless Reptiles"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "250"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "250"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "200"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Pit_Boss"
     }
   ]
