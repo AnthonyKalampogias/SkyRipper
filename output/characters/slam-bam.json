@@ -4,6 +4,7 @@
   "species": "Four-armed Yeti",
   "gender": "Male",
   "element": "Water",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -18,22 +19,310 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Slam Bam lived alone on a floating glacier in a remote region of Skylands , where he spent his time ice surfing, eating snow cones, and sculpting amazing ice statues. It was a peaceful life, until Kaos destroyed the glacier, stranding Slam Bam on an iceberg that drifted through the skies for days. He awoke on Eon’s Island , where he was taken in and trained to become a Skylander. Now his ice sculptures serve as a frosty prison for any evil-doer that gets in his way.",
-  "personality": "Slam Bam can be a little frosty with folks he doesn't know, but soon thaws over time. Get on his bad side, however, and the polar pugilist will knock you out cold. &#91; 1 &#93;",
-  "story": null,
+  "description": "Slam Bam is a blue four-armed yeti Skylander who, in Skylanders: Spyro's Adventure, comes only in the Empire of Ice Adventure Pack. In Skylanders: Giants, he comes in a singular pack as a Series 2 figure. His Legendary counterpart is Legendary Slam Bam. He also has a summer counterpart which was available on June 2013 in Skylanders: Lost Islands.",
+  "biography": "Slam Bam lived alone on a floating glacier in a remote region of Skylands, where he spent his time ice surfing, eating snow cones, and sculpting amazing ice statues. It was a peaceful life, until Kaos destroyed the glacier, stranding Slam Bam on an iceberg that drifted through the skies for days. He awoke on Eon's Island, where he was taken in and trained to become a Skylander. Now his ice sculptures serve as a frosty prison for any evil-doer that gets in his way.",
+  "quote": "Armed and Dangerous!",
+  "personality": "Slam Bam can be a little frosty with folks he doesn't know, but soon thaws over time. Get on his bad side, however, and the polar pugilist will knock you out cold.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "This four-armed Yeti once lived a blissful, solitary life on a floating glacier. Here, he surfed the snowy slopes, studied ice sculptures and slurped his way through several squillion sensational snow cones, but an evil eye looked upon his every move. Kaos watched jealously for a glimpse of the secret ingredient that made Slam Bam's snow cones so sweet. When that didn't work, Kaos had the glacier destroyed. Little did Kaos know that it was a simple peppermint twist that gave the cones their extra kick. If only he'd thought of asking. Now homeless, Slam Bam drifted on a small floating iceberg. After several days, he hit land, which luckily happened to be Master Eon's island. One serious conversation and several snow cones later, Eon suggested Slam Bam to become a Skylander. So he did.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Eruptor Meets the Nightmare King",
+      "content": "Slam Bam accompanied Eruptor and Grim Creeper as part of a mission to answer a call of help in The Frozen Seas. After saving an expedition camp from a group of Cyclopses lead by Bloodshot, he and the two other Skylanders came upon a tunnel that lead to what remained of a frozen kingdom. Upon seeing another clone of Eruptor frozen in ice, Master Eon appeared and explained that the kingdom belonged to King Nefarion, a wicked being who terrorized Skylands with the Mask of Power. The old Portal Master further explained that Eruptor Eruptor will eventually go back in time and become frozen in ice. Suddenly, strange changes began to occur, as Kaos had made his way to the past and began changing history. Before their eyes, Professor Splinters morphed into a servant of Kaos, affected by the time change, and Master Eon quickly teleported them to safety. Once at Eon's Citadel, Master Eon explained that Kaos went back in time using Nefarion's coin Bloodshot stole and was able to change the past. With Master Eon's help, Eruptor, Grim Creeper and Slam Bam were transported to the distant past when Nefarion reigned over Skylands to stop Kaos.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Spyro's Adventure",
+      "content": "Slam Bam was one of the Skylanders who assembled when Kaos and The Darkness approached Eon's Island. The yeti participated in the battle against Kaos and his minions along with some of the other Skylanders to protect the Core of Light. He was seen holding a Cyclops Chopper by the neck, before he, Gill Grunt, and Trigger Happy looked up in surprise at the sight of the Hydra appearing and destroying the Core. Slam Bam, along with the other Skylanders, were then banished from Skylands to Earth, where he was turned into a toy and awaited the new Portal Master to help him save Skylands.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Armed and Dangerous!",
+        "Oh yeah!",
+        "Ho ho!",
+        "Wham slam!",
+        "Big bash!",
+        "Fists of fury!",
+        "Goin' up!",
+        "Power slam!",
+        "Bam!",
+        "Did it!",
+        "Alright!",
+        "Slam dunk!",
+        "Haha, you got slammed!",
+        "The power of four!",
+        "Movin' on!",
+        "Breakin' through!",
+        "Oooh, I like it here!",
+        "Slammer time!",
+        "Super slam!",
+        "Ooh, shiny things!",
+        "I'll take that!",
+        "Lookin' good... I think.",
+        "Hmm, I don't like numbers.",
+        "Not bad, hope it fits.",
+        "Slammin' hat!",
+        "Is that better than Slam Bam?",
+        "Umm... I guess that's okay.",
+        "I could juggle for you, but your mind couldn't handle it.",
+        "I... I think I'll just arm wrestle myself."
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "Stump Smash! Drop the Hammer!",
+        "Hey guess what else? Bigfoot's got big feet. C'mon! The Giants are just a myth.",
+        "Probably petting a unicorn at the end of a rainbow.",
+        "Why would you wanna stink?"
+      ]
+    }
+  ],
+  "trivia": [
+    "In Skylanders: Spyro's Adventure and Giants, Slam Bam travels across the water by surfing on an ice board.",
+    "In his toy form, his blue body is translucent.",
+    "Unlike the other Water Skylanders, Slam Bam's base actually has two splashes instead of one.",
+    "He, Thrillipede and Starcast are the only three Skylanders with approximately four arms.",
+    "While Slam Bam's eyes are yellow in his toy form and his promotional art, his eyes are light blue in the console game and Spyro's: Universe, however, he still seems to have yellow eyes in the 3DS version.",
+    "In the E3 trailer, when Slam Bam doesn't believe in Jet-Vac's theory that there are Giants, he sarcastically states that Bigfoot has big feet, though Slam Bam himself is a yeti.",
+    "He, Chill, Freeze Blade and King Pen are the only four Water Skylanders who have ice abilities as well as Chill Bill, though he is a Villain.",
+    "There is a glitch in Spyro's Adventure where if Slam Bam does an attack while on a bounce pad, he will freeze.",
+    "Slam Bam has iron bracelets in his some of his upgrade pictures but not in game. It is possible they were removed last-second before finalization, and the developers had no time to correct the upgrade pictures.",
+    "He is the first Skylander to have more than four limbs (the second is Wash Buckler and the third is Spy Rise).",
+    "As seen in Swap Force, Slam Bam appears to be much shorter than the other yetis.",
+    "Slam Bam, Zap, Echo, and Grave Clobber are currently the only four Water Skylanders who don't hold a weapon.",
+    "Oddly, Slam Bam was present in the Just Like Swap Force trailer despite not receiving a repose for that game."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Slam Bam (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Slam_Bam_(extended)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Slam Bam Preview (Armed and Dangerous)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Slam_Bam_Preview_(Armed_and_Dangerous)"
+    },
+    {
+      "name": "Meet the Skylanders Series 2 Slam Bam",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Series_2_Slam_Bam"
+    }
+  ],
+  "gameplay": "Slam Bam has the ability to create ice prisons to trap his enemies in and freeze them. He can also battle opponents with his powerful four fists. Slam Bam can create various objects out of ice, such as an ice surfboard to navigate across water, an ice hammer in one of his combos, and even an protective igloo as seen in Eruptor Meets the Nightmare King.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Slam_Bam",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Yeti Fists",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Slam_Bamprimarypower.png",
+        "content": "Throw powerful punches with all four fists.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Ice Prison",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/66/Slam_Bamsecondarypower.png",
+        "content": "Hold the secondary power button and then release to summon an ice prison that will trap enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Three's A Charm",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7d/Slam_Bambasicupgrade1.png",
+        "content": "Have up to 3 Ice Prisons active at once.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Arctic Explosion",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a2/Slam_Bambasicupgrade2.png",
+        "content": "Ice Prisons explode and damage nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Yeti Ice Shoe Slide",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Slam_Bambasicupgrade3.png",
+        "content": "Slide across the ground.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Ice Knuckles",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Slam_Bambasicupgrade4.png",
+        "content": "Punch attacks do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Yeti-Cooling Factor",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Slam_Bamsoulgempower.png",
+        "content": "Increased coolness and can surf faster.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Sleigh Me",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f0/Slam_Bamwowpowpower.png",
+        "content": "Hold Attack 3 to take a ride on a powerful ice sleigh. To perform his Wow Pow in the 3DS version he must be at level 6 and dash to make a giant spiky ice shield appear.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Blizzard Brawler",
+        "abilities": [
+          {
+            "name": "Brawler Combos",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/28/Slam_Bampath1upgrade1.png",
+            "content": "Attack with Ice Hammer.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Ice Mace",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Slam_Bampath1upgrade2.png",
+            "content": "Punch attacks does even MORE increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Blizzard Battle Armor",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Slam_Bampath1upgrade3.png",
+            "content": "Battle Armor makes it harder for enemies to hit Slam Bam. Grants +40..",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Glacier Hit",
+        "abilities": [
+          {
+            "name": "Deep Chill Ice Coffin",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/41/Slam_Bampath2upgrade1.png",
+            "content": "Ice Prisons damage enemies trapped inside them.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Glacier Tactics",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/Slam_Bampath2upgrade2.png",
+            "content": "Ice Prisons travel further and faster.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Work of Ice Art",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Slam_Bampath2upgrade3.png",
+            "content": "Ice Prisons last longer and are more resistant to attacks.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "slam-bam",
+      "id": "slam-bam-s1",
       "variant_name": "Slam Bam",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/f/f2/300px-SlamBam_01.jpg",
       "attacks": [
@@ -43,7 +332,67 @@
         "Yeti Ice Shoes",
         "Ice Knuckles"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "310 (max. 620)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 (max. 83)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30 (max. 60+40)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "10 (max. 60)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Slam_Bam"
+    },
+    {
+      "id": "slam-bam-s2",
+      "variant_name": "Slam Bam",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b8/SlambamGiantsArtwork.png",
+      "attacks": [
+        "Yeti Fists",
+        "Ice Prison",
+        "Arctic Explosion",
+        "Yeti Ice Shoes",
+        "Ice Knuckles",
+        "Sleigh Me"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "310 (max. 620)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 (max. 83)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30 (max. 60+40)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "10 (max. 60)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Slam_Bam"
     }
   ]
