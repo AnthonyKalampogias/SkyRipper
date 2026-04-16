@@ -4,22 +4,257 @@
   "species": "Dirt Shark",
   "gender": "Male",
   "element": "Earth",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Ring of Heroes",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Unexpected Allies",
+  "cameos": [
+    "Unexpected Allies"
+  ],
   "world": [
     "The Dirt Seas"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Shark Shooter Terrafin is the SuperChargers counterpart of Terrafin in Skylanders: SuperChargers. His signature vehicle is the Shark Tank.",
+  "biography": "Shark Shooter Terrafin is the SuperChargers counterpart of Terrafin in Skylanders: SuperChargers. His signature vehicle is the Shark Tank. Having once been a prize-fighter in the Dirt Seas, he now uses his boxing expertise and shark-rocket artillery to defend Skylands.",
+  "quote": "It's Feeding Time!",
+  "personality": "Terrafin is a gritty, determined fighter with a boxer's spirit. He is confident in his reflexes and footwork, often making boxing analogies while fighting. He has a rough exterior but a clear sense of duty, always ready for 'Feeding Time' when evil appears.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "Shark Shooter Terrafin is the SuperChargers counterpart of Terrafin in Skylanders: SuperChargers. His signature vehicle is the Shark Tank.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Shark_Shooter_Terrafin.jpg/revision/latest?cb=20150619191845"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "It's Feeding Time!",
+        "Alright!",
+        "Yes!",
+        "Let's go the distance!",
+        "Who wants an autograph?",
+        "That's the ticket!",
+        "Big money for the champ!",
+        "Where's my five dollars?",
+        "A perfect record!"
+      ]
+    },
+    {
+      "quote_type": "Quest Quotes",
+      "content": [
+        "When you're puttin' the bite on evil, you're never too busy to train.",
+        "It's all in the reflexes. And my fancy footwork. And the ol' one-two-CHOMP!",
+        "Aww, Buzz. You're makin' me smile! And smilin' always makes my teeth itch.",
+        "Sounds like feedin' time to me! Yeah! Let's get to it.",
+        "Just gimme the bell and I'll put those chumps on the ropes!",
+        "Yeah, and I can FIGHT good too!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Shark Shooter Terrafin's name is a play on 'sharpshooter'.",
+    "All of Shark Shooter Terrafin's Ring of Heroes abilities start with the letter S.",
+    "The latest known concept art of Shark Shooter Terrafin depicts him with orange goggles. Alternate concepts include him wearing orange boxing gloves, wielding a shovel, and wearing a safari hat.",
+    "He and Super Shot Stealth Elf are the only two SuperCharger versions of previous Skylanders to appear in Skylanders: Ring of Heroes.",
+    "There was a planned chase variant of Shark Shooter Terrafin with a green camo-print look that never made it into production."
+  ],
+  "trailers": [
+    {
+      "name": "Shark Shooter Terrafin",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Shark_Shooter_Terrafin"
+    },
+    {
+      "name": "Skylanders SuperChargers - Shark Shooter Terrafin's Soul Gem Preview (It's Feeding Time)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Shark_Shooter_Terrafin%27s_Soul_Gem_Preview_(It%27s_Feeding_Time)"
+    }
+  ],
+  "gameplay": "Shark Shooter Terrafin focuses on ranged artillery and subterranean mobility. He fires rockets that burrow and emerge under enemies, and his Earth Swim ability allows him to traverse the battlefield safely underground before surfacing with powerful splash attacks or calling upon his shark squadron for support.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Shark_Shooter_Terrafin",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Ballistic Frenzy",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Shark_Shooter_Terrafinprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170504164549",
+        "content": "Press Attack 1 to fire shark rockets that burrow into the ground.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Earth Swim Blast",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Shark_Shooter_Terrafinsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170504164550",
+        "content": "Press Attack 2 to burrow into the ground. Press Attack 1 to emerge and shoot a rocket at the ground.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Slam Support",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Shark_Shooter_Terrafinbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504164553",
+        "content": "Press Attack 3 to slam the gun on the ground and knockback nearby enemies. Press Attack 3 during Earth Swim Blast to launch a shark ally that will attack nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Seek or Swim",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/48/Shark_Shooter_Terrafinbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504164556",
+        "content": "Ballistic Frenzy rockets do more damage to enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Surface to Air to Surface Missiles",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Shark_Shooter_Terrafinbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504164603",
+        "content": "Hold Attack 3 to fire rockets into the ground that emerge and land on enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Seconds, Please",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Shark_Shooter_Terrafinbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170504164606",
+        "content": "Ballistic Frenzy rockets now hit enemies twice.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Sand Snare",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/eb/Shark_Shooter_Terrafinsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170504164609",
+        "content": "During Earth Swim Blast, press Jump to create a sand whirlpool to trap enemies in.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Shark Team Squadron",
+        "abilities": [
+          {
+            "name": "Three Best Fins",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Shark_Shooter_Terrafinpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504165442",
+            "content": "Press Attack 3 during Earth Swim Blast to launch three sharks.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "What Goes Up...",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Shark_Shooter_Terrafinpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504165444",
+            "content": "S.A.S missiles do more damage on the way up and on the way down.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Land Shark",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cb/Shark_Shooter_Terrafinpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504165447",
+            "content": "Hold Attack 1 and release to fire a mortar that summons a sand whirlpool and a large land shark.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "All Terrain Trooper",
+        "abilities": [
+          {
+            "name": "Mentor Program",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Shark_Shooter_Terrafinpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504165448",
+            "content": "Press Attack 3 during Earth Swim Blast to make a bigger shark ally that lasts longer, can hit enemies multiple times and does more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Finesse",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/41/Shark_Shooter_Terrafinpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504165452",
+            "content": "Earth Swim Blast speed is increased and enemies are damaged by the fancy new fin.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Mega Boomflop",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2f/Shark_Shooter_Terrafinpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504165458",
+            "content": "During Earth Swim Blast, press Attack 1 to fire rockets and perform a powerful bellyflop that knocks back enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "shark-shooter-terrafin",
@@ -35,7 +270,28 @@
         "Three Best Fins",
         "Mentor Program"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 (max. 83)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "4 (max. 54)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Shark_Shooter_Terrafin"
     }
   ]
