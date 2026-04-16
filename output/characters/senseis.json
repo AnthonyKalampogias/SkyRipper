@@ -2,35 +2,133 @@
   "id": "senseis",
   "name": "Senseis",
   "species": "Various",
-  "gender": null,
-  "element": null,
+  "gender": "Various",
+  "element": "Various",
+  "role": "Skylanders",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "The Senseis are a team of Skylanders introduced in Skylanders: Imaginators. The Sensei Skylanders are each masters of different fighting styles and secret battle techniques.",
+  "biography": "For many years, it had been their mission to explore the furthest reaches of Skylands, searching for potential heroes to train in the fight against evil. However, with Kaos unleashing Mind Magic to create villainous Doomlanders, Master Eon has summoned the Senseis to return and lead a new generation of heroes into battle – the Imaginators.",
+  "quote": "Master the Battle Classes!",
+  "personality": "As mentors and masters of their respective battle classes, the Senseis are dedicated, wise, and formidable warriors. They have taken it upon themselves to guide the new generation of Imaginators, passing on their secret techniques to protect Skylands from Kaos and his Doomlanders.",
+  "story": [
+    {
+      "story_name": "The Return of the Masters",
+      "content": "For many years, it had been their mission to explore the furthest reaches of Skylands, searching for potential heroes to train in the fight against evil. However, with Kaos unleashing Mind Magic to create villainous Doomlanders, Master Eon has summoned the Senseis to return and lead a new generation of heroes into battle – the Imaginators. Regular Senseis are identified by having armor or accessories with a black and gold color scheme, as well as having the title of Master.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Senseis.png/revision/latest?cb=20160902002408"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Thematic Quotes",
+      "content": [
+        "Master the Battle Classes!",
+        "Lead a new generation of heroes into battle!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Songs played with Asian instruments play when Senseis enter the game or use their Sky-Chi.",
+    "Three of the former Villains have changed Elements between games (Grave Clobber, Hood Sickle, and Tae Kwon Crow).",
+    "The icon for Senseis is a stylized version of Ember's helmet, known in real life as a Kabuto, a traditional helmet for Japanese warriors.",
+    "King Pen and Grave Clobber are both Brawler Senseis of the Water Element.",
+    "Most Elements and Battle Classes have three Senseis each, with Kaos being the exception as the only Sensei of the Kaos Element.",
+    "Senseis are currently the only Skylanders incapable of changing upgrade paths without resetting.",
+    "Senseis are the only Skylanders who cannot wear hats.",
+    "All Master Senseis wear a golden belt around their waists."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Imaginators: Senseis Reveal Trailer",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=jiZSItFwkKQ"
+    }
+  ],
+  "gameplay": "Senseis help train Imaginators by offering a range of benefits, including unlocking Imaginator parts, providing access to special areas in the game, and well as bestowing Secret Techniques across the Battle Classes. Senseis also have their own unique benefits, including the extraordinary ability to unleash Sky-Chi – the ultimate Battle Class super move. They are the only characters that can unlock Sensei Shrines and activate Battle Gongs. Additionally, one of each element is required to unlock the Sensei Elemental Realms in the M.A.P.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Senseis",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Battle Class Mastery",
+        "imgPath": "",
+        "content": "Each Sensei is a master of one of the ten fighting styles, or Battle Classes, and can use unique weapons and techniques associated with their discipline.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#BEE"
+        }
+      },
+      {
+        "name": "Secret Techniques",
+        "imgPath": "",
+        "content": "Senseis provide access to special areas in the game and bestow Secret Techniques across the Battle Classes to Imaginators.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#BEE"
+        }
+      }
+    ],
+    "basic_upgrades": [],
+    "soulgems": [
+      {
+        "name": "Sky-Chi",
+        "imgPath": "",
+        "content": "The ultimate Battle Class super move. This extraordinary ability is unique to Senseis and allows them to perform a devastating attack that can clear the battlefield.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FFD700",
+          "bg_content": "#00BFFF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "senseis",
+      "id": "senseis_base",
       "variant_name": "Senseis",
       "edition": "Series 1",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Senseis.png/revision/latest?cb=20160902002408",
       "attacks": [
-        "Various Sky-Chi"
+        "Various Weapons",
+        "Sky-Chi"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Power",
+          "stat_value": "Various"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "Various"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "Various"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "Various"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Senseis"
     }
   ]
