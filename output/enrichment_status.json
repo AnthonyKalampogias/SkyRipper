@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-16T09:19:28.224Z",
+  "last_run": "2026-04-16T15:14:03.068Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -1092,6 +1092,22 @@
     {
       "name": "Skylanders",
       "sha": "7c2499c5907a7a8d141e6cabea51360ab1f47f077eedf65cbf2975c7b6a3e9cf"
+    },
+    {
+      "name": "Slam Bam",
+      "sha": "2ac4cab12cfd890d26026938f84ea1aa44d0bdfa589d6c445c721d31f78cbb6d"
+    },
+    {
+      "name": "Slobber Tooth",
+      "sha": "d9c9942c7a997f1092e3dde7e35c67c4ecf1fd4af4732b3c1c0787be76071b71"
+    },
+    {
+      "name": "Small Fry",
+      "sha": "8bb79a892402a2496ec210a31b0f107eee4b9ecdfbc991d6bd65c75b23adb2c0"
+    },
+    {
+      "name": "Smash Hit",
+      "sha": "e24c4834378127e94a92472136ab9e6193d9447162b475b101c2ffc5629ee63a"
     }
   ]
 }
