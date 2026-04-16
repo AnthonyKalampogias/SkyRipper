@@ -1,29 +1,162 @@
 {
   "id": "skylanders",
   "name": "Skylanders",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "species": "Various Creatures",
+  "gender": "Various",
+  "element": "Various",
+  "role": "Protagonists",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Giants",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": [
+    "Skylanders Academy (TV series)",
+    "Skylanders: Ring of Heroes"
+  ],
+  "world": [
+    "Skylands",
+    "Earth"
+  ],
+  "description": "The Skylanders are legendary heroes and champions, protectors of their world, Skylands, as well as the main playable characters in the Skylanders franchise. Using their powerful abilities, the Skylanders have defended their world for generations, keeping peace and balance.",
+  "biography": "At one point, Kaos banished many of the Skylanders to Earth, while others arrived by different means. Far away from the magic of Skylands, they shrunk and turned into immobile figures, requiring a Portal of Power in order to return to Skylands and come back to life. Recruited by Portal Masters or graduated from Skylanders Academy, a new Skylander's image is engraved onto the Book of Skylanders and is bound to it.",
+  "quote": "Greetings, Portal Master!",
+  "personality": "Despite the fact that some of the Skylanders come from different realms/worlds and they each have their own personal struggles, they all know it is their duty to use their abilities and protect Skylands. For generations, the Skylanders worked with the Portal Masters in keeping peace and balance in their world. They have an unbreakable bond with their Portal Masters. Though they are not servants, the Skylanders chose to serve their Portal Master and do so eagerly.",
+  "story": [
+    {
+      "story_name": "Fall of the Arkeyans",
+      "content": "Ten thousand years ago, the Giants (the original Skylanders) battled against the tyrannical Arkeyans for the freedom of Skylands. In a final battle, the Giants were shot to Earth as a form of sacrifice, where they were buried underground for generations.",
+      "hasImage": true,
+      "imgPath": "Giants.jpg"
+    },
+    {
+      "story_name": "Cloudbreak Eruption",
+      "content": "A hundred years ago, a group of Skylanders protected the Cloudbreak Islands. Caught in a magical volcano eruption while fighting Fire Vipers, they were granted the ability to swap halves and became the SWAP Force.",
+      "hasImage": true,
+      "imgPath": "Swap Force.png"
+    },
+    {
+      "story_name": "A Purple Dragon's Adventure",
+      "content": "Modern-day Skylanders were led by Master Eon until Kaos destroyed the Core of Light. The heroes were banished to Earth and turned into toys, waiting for a new Portal Master to return them to Skylands to save the Mabu from Kaos' tyranny.",
+      "hasImage": true,
+      "imgPath": "Spyro, Trigger Happy with Master Eon.jpg"
+    },
+    {
+      "story_name": "The Return of the Giants",
+      "content": "The Skylanders remained trapped on Earth as toys in stores like Super Toy Planet. Kaos escaped his frozen form to return to Skylands, prompting the new Portal Master to recover the Giants and stop Kaos' Arkeyan robot army.",
+      "hasImage": true,
+      "imgPath": "Skylanders frozen HD.png"
+    },
+    {
+      "story_name": "The Swap Force Story",
+      "content": "As the next eruption of Mt. Cloudbreak neared, the Skylanders and the rediscovered Swap Force helped Tessa and Flynn defeat Kaos and his mother, safely concluding the eruption ceremony.",
+      "hasImage": false,
+      "imgPath": "none"
+    },
+    {
+      "story_name": "The Trap Team Story",
+      "content": "The Trap Team, wielding Traptanium weapons, captured the notorious Doom Raiders and imprisoned them in Cloudcracker Prison. Years later, after Kaos destroyed the prison, the Trap Team returned to capture the escaped villains and a newly empowered Kaos.",
+      "hasImage": true,
+      "imgPath": "Trap Team.png"
+    },
+    {
+      "story_name": "The SuperChargers Story",
+      "content": "To stop Kaos' Sky Eater machine, a special team of SuperChargers was assembled. Using Rift Engines, they piloted vehicles through portals to reach Skylands when the portal network was disconnected.",
+      "hasImage": true,
+      "imgPath": "SuperChargers intro.jpg"
+    },
+    {
+      "story_name": "Senseis and Imaginators Story",
+      "content": "Master Eon summoned the Senseis, masters of fighting styles, to return and lead a new generation of Imaginators created by Portal Masters using Creation Crystals to defeat Kaos' Doomlanders.",
+      "hasImage": true,
+      "imgPath": "Senseis.png"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Fierce battle cries when they appear from a portal."
+      ]
+    }
+  ],
+  "trivia": [
+    "In the series' marketing, Skylanders that do not belong to any specific team are called Core Skylanders.",
+    "There is at least one dragon Skylander in every element, five of which are hybrids.",
+    "All of the Skylanders originally spoke their own gibberish languages in the first game before receiving English lines.",
+    "In Giants, all Skylanders from the first game received unique animations when checking their stats.",
+    "Every year, there is a contest to see whose battle cry is the loudest or most frightening.",
+    "When Skylanders are defeated, they are teleported back home to heal rather than dying.",
+    "Developers used generic names for new Skylanders before final names were decided.",
+    "It is implied in the Future of Skylands that the group will eventually be extinguished or gone.",
+    "In the Academy canon, many veteran Skylanders like Ninjini and Snap Shot are retired."
+  ],
+  "trailers": [],
+  "gameplay": "Each Skylander is aligned to a single element: Air, Dark, Earth, Fire, Life, Light, Magic, Tech, Undead, or Water. The elemental alignment of each Skylander makes them strong against one element and weak against another element in the older games' Battle Arenas. Skylanders utilize magic powers, machinery, and physical abilities to defeat enemies. When Skylanders are defeated in battle, they do not die, but are instantly teleported back home where they can heal and rest.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Skylanders",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Magic powers",
+        "imgPath": "MagicSymbolSkylanders.png",
+        "content": "The use of mystical energies to defeat the forces of darkness.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Machinery",
+        "imgPath": "TechSymbolSkylanders.png",
+        "content": "Advanced technology and gadgets used in combat and traversal.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Physical abilities",
+        "imgPath": "EarthSymbolSkylanders.png",
+        "content": "Hand-to-hand combat and natural physical prowess.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "skylanders",
+      "id": "skylanders_s1",
       "variant_name": "Skylanders",
       "edition": "Series 1",
-      "type": "Sensei",
-      "game": null,
+      "type": "Core",
+      "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/5/5d/Skylanders.jpg",
       "attacks": [],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Element",
+          "stat_value": "Various"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Skylanders"
     }
   ]
