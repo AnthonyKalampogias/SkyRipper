@@ -1,29 +1,408 @@
 {
   "id": "snap-shot",
   "name": "Snap Shot",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": "Snap Shot came from a long line of Crocagators that lived in the remote Swamplands, where he hunted chompies for sport. After rounding up every evil critter in his homeland, Snap Shot ventured out into the world to learn new techniques that he could use to track down more challenging monsters. He journeyed far and wide, perfecting his archery skills with the Elves and his hunting skills with the wolves. Soon he was the most revered monster hunter in Skylands – a reputation that caught the attention of Master Eon . It then wasn’t long before Snap Shot became the leader of the Trap Masters, a fearless team of Skylanders that mastered legendary weapons made of pure Traptanium . It was this elite team that tracked down and captured the most notorious villains Skylands had ever known!",
-  "personality": "Snap Shot is a fearless crocagator who uses his wild tracking skills to hunt down evil monsters and eventually villains.&#160;",
-  "story": null,
+  "species": "Crocagator",
+  "gender": "Male",
+  "element": "Water",
+  "role": "Trap Master",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "The Kaos Trap",
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [
+    "Return of the Dragon King",
+    "Rift into Overdrive",
+    "Skylanders Issue 10"
+  ],
+  "world": [
+    "Swamplands"
+  ],
+  "description": "Snap Shot is a blue Water crocagator. He is the natural leader of the Trap Team in Skylanders: Trap Team, and is best friends with Wallop. He is available in the console Starter Pack along with Food Fight.",
+  "biography": "Snap Shot came from a long line of Crocagators that lived in the remote Swamplands, where he hunted chompies for sport. After rounding up every evil critter in his homeland, Snap Shot ventured out into the world to learn new techniques that he could use to track down more challenging monsters. He journeyed far and wide, perfecting his archery skills with the Elves and his hunting skills with the wolves. Soon he was the most revered monster hunter in Skylands – a reputation that caught the attention of Master Eon. It then wasn't long before Snap Shot became the leader of the Trap Masters, a fearless team of Skylanders that mastered legendary weapons made of pure Traptanium. It was this elite team that tracked down and captured the most notorious villains Skylands had ever known!",
+  "quote": "Croc and Roll!",
+  "personality": "Snap Shot is a fearless crocagator who uses his wild tracking skills to hunt down evil monsters and eventually villains.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "When the Doom Raiders wrecked havoc across Skylands, Snap Shot was among the Trap Masters who confronted the villains to put a stop to their evil deeds. After a lengthy battle, the Trap Masters succeeded in defeating the Doom Raiders and locked them away in Cloudcracker Prison.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "The Kaos Trap",
+      "content": "When the Skylanders, Stealth Elf, Wash Buckler and Pop Fizz, were becoming overwhelmed by Kaos' Trolls and the threat of the Doom Raider Wolfgang, Master Eon called upon the Trap Masters to aid them. Responding quickly, Snap Shot and Wallop arrived at the Mabu mining expedition in time to assist the three Skylanders, with Snap Shot briefly stopping Wolfgang by shooting the werewolf in the back with a traptanium arrow. While Wallop dealt with the trolls, the crocagator Trap Master fought with Wolfgang, easily overpowering the werewolf by hurling him into the air and allowing Wallop to deliver the finishing blow to the villain. After Wolfgang's defeat, the Skylanders hauled the werewolf back to Cloudcracker Prison. The Mabu leader thanked the Skylanders and the Trap Masters for their successful efforts in protecting the Mabu and the Radiance Crystals. However they came to notice that the Fork of Infinite Resonance needed for the mining expedition was stolen by the trolls during the attack. Pondering, Snap Shot was left wondering what Kaos was up to.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9e/SnapShot_WallopComic.png/revision/latest/scale-to-width-down/284?cb=20140725083704"
+    },
+    {
+      "story_name": "Skylanders: Trap Team",
+      "content": "Snap Shot and the other Trap Masters were hurled from Skylands when Kaos destroyed Cloudcracker Prison using his Frequency Modulator. This not only shattered the Traptanium stronghold, but also released the Doom Raiders and other villains from their imprisonment. The Trap Masters were sent to Earth along with pieces of Traptanium where they were found by the new Portal Master.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "When Malefor was launching an attack on the Skylanders Academy, Snap Shot was one of the remaining Skylanders that attempted to protect the school. The Crocagator used his archery skills, along with his fellow Skylanders, to attack the approaching dragon. When Malefor evaded their arrows, the Skylanders formed a barrier that successfully withstood Malefor's flames, but the dragon was able to pierce through and defeat Snap Shot and the Skylanders with a single strike of his metallic tail.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Rift into Overdrive",
+      "content": "Snap Shot was among the Skylanders that were stranded around Skylands when the Portal network was disconnected by Kaos' Sky Eater. Thanks to Mags' distress call through Magus' Omni-Disruptor, the Trap Master was able to hear that the Skylanders Academy was under attack and rushed to save it with the other Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Croc and Roll!",
+        "Croc and awe!",
+        "Crystal slam!",
+        "Turning the tides!",
+        "Sure shot!",
+        "Splash zone!",
+        "Bullseye!",
+        "Croc power!",
+        "The thrill of the hunt!",
+        "It's hunting time!",
+        "A smash hit!",
+        "Coming through!",
+        "No stopping me!",
+        "Let's get croccing!",
+        "Back in the game!",
+        "I'll take it from here!",
+        "Up high!",
+        "Feeling the power surge!",
+        "Power blast!",
+        "Croc-tastic!",
+        "A fine bounty!",
+        "Looking solid as a croc!",
+        "Even more amazing than I thought!",
+        "A big name for a big hero!",
+        "I could get used to this name.",
+        "I look good in any hat!",
+        "This hat should tide me over from air!",
+        "Croc-a-bye baby!"
+      ]
+    },
+    {
+      "quote_type": "Trailer Quotes",
+      "content": [
+        "Aaargh, crikey! It is no fun being frozen... and I'm cold-blooded.",
+        "We're the Trap Masters, mate. And we're about to teach an old dog some new tricks.",
+        "We're Croc'ed and Loaded, Kaos!",
+        "Come on, mate! Open it already!",
+        "Leo, the trap! Put it in the portal!"
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Croc solid!",
+        "Ready to roll!",
+        "I aim to please!",
+        "Let's do this!",
+        "Here comes the croc!",
+        "Croc and roll!",
+        "Feelin' the power surge!",
+        "The tide is rising...",
+        "Croc time!",
+        "Back in the game!",
+        "Later, gator.",
+        "Break time!",
+        "Oh yeah!",
+        "Nice!",
+        "Here we go!",
+        "Croctastic!",
+        "Right on!",
+        "Come on now, don't be shy!",
+        "Step right up, mate!",
+        "Two for the price of one!",
+        "Don't try this at home!",
+        "Say hello to my chilly friend!",
+        "Did I mention I brought a friend?",
+        "Setting my sights on victory!",
+        "Your end is in sight!",
+        "Time to pull the plug!",
+        "Lights out for you, buddy!",
+        "Down you go!",
+        "Big time beatdown!",
+        "Ok, that hurt!... A little.",
+        "What a croc!",
+        "No crocodile tears here...!",
+        "Lucky hit!",
+        "Croc on!",
+        "Bullseye!",
+        "Hey there!",
+        "Oi, mind the scales!",
+        "You need to calm down!",
+        "Ease up there, buddy.",
+        "Ready to go!",
+        "I'm here, mate!",
+        "I could get used to this.",
+        "On my way up!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Throughout the main series, IDW comics and commericals, Snap Shot seems to be ambidextrous, switching between left and right hands to hold his bow and traptanium arrows.",
+    "Both Snap Shot and Dino-Rang are reptilian Skylanders that use a projectile weapon. Both Skylanders also speak with an Australian accent.",
+    "He is similar to King Pen, the leader of the Senseis, as both are of the Water element and lead an elite team of Skylanders.",
+    "Prior to Imaginators, he and Flameslinger were the only two Skylanders to wield an archery set.",
+    "His name is a play on snapshot, a common word for photograph.",
+    "In an interview during San Diego Comic Con 2014, I-Wei called Snap Shot by his prototype named 'Croc Shot'. One of his expansion cards in Battlecast would be called Croc Shot. However, the card was never released.",
+    "In an early look at Skylanders merchandise, his weapons were known as 'Ranger Bow & Arrow'.",
+    "Snap Shot also appears in the Target Holiday 2014 commercials along with Barbie, Skye, Chase and Marshall from PAW Patrol, Leonardo from TMNT, Zoomer Dino and Doc McStuffins. He is the second Skylander to appear in a Target commercial whereas Tree Rex was the first.",
+    "He and Food Fight are the only two Trap Team characters with Instant counterparts, exclusive to the Tablet version of the game.",
+    "He and Wildfire are the only two Trap Masters to have Dark counterparts.",
+    "One of Snapshot's battle cries 'Croc and Awe' is similar to Jet-Vac's catchphrase 'Hawk and Awe'.",
+    "He is one of the few Skylanders whose catchphrase is a play on 'Rock and Roll' (the other two are Wrecking Ball and Bash).",
+    "Snap Shot is the fourth Skylander to be voiced by Fred Tatasciore (others being Slam Bam, Zook, and Warnado).",
+    "Although he is the leader of the Trap Masters, in the 'Trapping Kaos' trailer and the introduction of Trap Team, Wallop strangely, appears to have the leadership role. Personally they could share roles as Wallop is Snap Shot's best friend.",
+    "In the Wii version of Trap Team, there is a glitch when playing Skaletones Showdown or checking his stats, where his lower jaw will sometimes clip through his top jaw.",
+    "Buckshot's catchphrase is similar to Snap Shot's early catchphrase."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Snap Shot",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Snap_Shot"
+    },
+    {
+      "name": "Skylanders Power Play Snap Shot",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Snap_Shot"
+    },
+    {
+      "name": "Skylanders Trap Team - Snap Shot's Soul Gem Preview (Croc and Roll)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Snap_Shot%27s_Soul_Gem_Preview_(Croc_and_Roll)"
+    }
+  ],
+  "gameplay": "Snap Shot can use his Traptanium bow and arrow to shoot enemies in various ways and summon whirlpools. In Skylanders: Battlecast, he can also attack a hook to a special arrow to drag in enemies nearer. His special ability is Sharpshooter, which allows him to hit any enemy, and his signature Gear is the XL500 Scope, which attacks alongside his spells. He can also summon a trap Relic containing Chill Bill to temporarily assist him.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Snap_Shot",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Traptanium Arrows",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Snap_Shotprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506205816",
+        "content": "Fire Traptanium arrows.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Crystal Slam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/35/Snap_Shotsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170506205827",
+        "content": "Perform a Crystal Slam.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Sure Shot Croc",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Snap_Shotbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506205837",
+        "content": "Charge up a Traptanium Arrow attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Torrential Tidepool",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/79/Snap_Shotbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506205843",
+        "content": "Create a controllable Torrential Tidepool.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Super Slam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Snap_Shotbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506205848",
+        "content": "Charge up an extra powerful Crystal Slam.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Amazing Arrow",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/28/Snap_Shotbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506205857",
+        "content": "Improved Traptanium arrow does extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "A Shard Act to Follow",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d6/Snap_Shotsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506205903",
+        "content": "A Crystal Slam in the air creates a new Traptanium attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Crackshot Croc",
+        "abilities": [
+          {
+            "name": "Arrowsplosion",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Snap_Shotpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506210516",
+            "content": "Traptanium Arrows now explode on impact.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Traptanium Flechette",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9d/Snap_Shotpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506210521",
+            "content": "Shards of Traptanium splinter off arrows, doing extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Hydro Arrow",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6d/Snap_Shotpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506210527",
+            "content": "Charge up a Water Element-infused Traptanium arrow.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Tide Turner",
+        "abilities": [
+          {
+            "name": "Big Wave Torrent",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cb/Snap_Shotpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506210531",
+            "content": "Torrential Tidepool is bigger and does more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Water Trap",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Snap_Shotpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506210540",
+            "content": "Enemies caught in Torrential Tidepool become trapped.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "What's Kraken?",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Snap_Shotpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506210543",
+            "content": "Torrential Tidepool now calls forth the power of the Kraken.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "snap-shot",
       "variant_name": "Snap Shot",
-      "edition": "Series 1",
-      "type": "Sensei",
-      "game": null,
+      "edition": "Trap Master",
+      "type": "Trap Master",
+      "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/2/26/Snap_Shot_Promo.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Traptanium Arrows",
+        "Crystal Slam",
+        "Sure Shot Croc",
+        "Arrowsplosion",
+        "Big Wave Torrent"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (max. 580)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 (max. 118)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46 (max. 96)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Snap_Shot"
     }
   ]
