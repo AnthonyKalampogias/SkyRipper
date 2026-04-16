@@ -4,32 +4,64 @@
   "species": "Vampire",
   "gender": "Female",
   "element": "Undead",
-  "primary_game": "Skylanders: Lost Islands (December 2013)",
+  "role": "Skylander",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Snowler Brawl has come from the great white north to join the Skylands!",
+  "biography": "Snowler Brawl is the Winter counterpart of Roller Brawl, available exclusively on Skylanders: Lost Islands on December 2013.",
+  "quote": "Snowler Brawl has come from the great white north to join the Skylands!",
+  "personality": "As the winter counterpart of Roller Brawl, Snowler Brawl is a vampire Skylander who traveled from the great white north to assist the Skylanders.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "Snowler Brawl is the Winter counterpart of Roller Brawl, available exclusively on Skylanders: Lost Islands on December 2013.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Snowler_Brawl_Promo.jpg/revision/latest?cb=20131218033249"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Description",
+      "content": [
+        "Snowler Brawl has come from the great white north to join the Skylands!"
+      ]
+    }
+  ],
+  "trivia": [
+    "There was a glitch with Snowler Brawl being listed as SWAP Force Skylander in Lost Islands. This glitch has since been fixed.",
+    "She is the second female Lost Islands-exclusive Skylander of the Undead element, the first being Skeletal Cynder and the third being Hallows' Eve Hex.",
+    "Unlike the other two, Snowler Brawl is not a Halloween counterpart.",
+    "Snowler Brawl's helmet resembles Snowmeans from the video game Scooby-Doo! and the Spooky Swamp.",
+    "Snowler Brawl and Rocky Egg Roll are the only Lost Islands variants whose names are nonconventional puns on the original Skylander's name, as opposed to words being put in front of their name."
+  ],
+  "trailers": [],
+  "gameplay": "Snowler Brawl is a variant of Roller Brawl appearing in Skylanders: Lost Islands. She is categorized as an Undead Skylander and features a unique winter-themed character model with specific idle and poke animations. While she shares her base identity with Roller Brawl, she is a distinct digital-only variant.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Snowler_Brawl",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "snowler-brawl",
       "variant_name": "Snowler Brawl",
       "edition": "Series 1",
       "type": "Swap Force",
-      "game": "Skylanders: Lost Islands (December 2013)",
+      "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Snowler_Brawl_Promo.jpg/revision/latest?cb=20131218033249",
       "attacks": [
         "None"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Snowler_Brawl"
     }
   ]
