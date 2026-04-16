@@ -4,6 +4,7 @@
   "species": "Warsupial",
   "gender": "Male",
   "element": "Earth",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
@@ -11,16 +12,310 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Smash Hit is a Warsupial who is one of the Earth SuperChargers in Skylanders: SuperChargers. His signature vehicle is the Thump Truck. He also has a green counterpart called Steel Plated Smash Hit, which is exclusive to Best Buy.",
   "biography": "Smash Hit came from a long line of Warsupials - a rare species widely renowned for their skills in combat. But in more peaceful times, his people were responsible for locating and demolishing any remaining artifacts from the Arkeyan Empire that were deemed too dangerous to leave standing. Smash Hit liked his job because it allowed him to do what he loved most - break things! He was so skillful with his wrecking ball that he could single-handedly dismantle an entire Arkeyan Conquertron in under an hour and still have time for a snack. When Master Eon noticed his skill, he enlisted the talented Warsupial into a new wrecking crew he was forming to take on Kaos - the SuperChargers!",
-  "personality": "As his name suggests, Smash Hit loves demolishing objects (particularly remnants of the Arkeyans that were too dangerous to leave rusting). However when not battling evil, he tends to destroy old objects at the Skylanders Academy that no longer prove useful to its inhabitants ( Buzz in particular). He is also a real chatterbox when having a conversation, as revealed in his interactions with Buzz during his Quests in SuperChargers .",
-  "story": null,
+  "quote": "Let's Rock!",
+  "personality": "As his name suggests, Smash Hit loves demolishing objects (particularly remnants of the Arkeyans that were too dangerous to leave rusting). However when not battling evil, he tends to destroy old objects at the Skylanders Academy that no longer prove useful to its inhabitants (Buzz in particular). He is also a real chatterbox when having a conversation, as revealed in his interactions with Buzz during his Quests in SuperChargers.",
+  "story": [
+    {
+      "story_name": "Character Development",
+      "content": "Designed by Dave Phillips, Smash Hit underwent several design changes along with his weapon of choice. Initially he was a koala-like creature under the Life element with weapons that ranged from buzzsaws to brush cutters. At one point during development, he was set to be female and was designed as a dinosaur-like, Earth elemental character. Eventually Vicarious Visions decided to finalize Smash Hit into a mammalian Warsupial and his weapon became a large wrecking ball.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6f/Smash_Hit_Concept1.jpg/revision/latest?cb=20151206103607"
+    },
+    {
+      "story_name": "Background",
+      "content": "Personality: As his name suggests, Smash Hit loves demolishing objects (particularly remnants of the Arkeyans that were too dangerous to leave rusting). However when not battling evil, he tends to destroy old objects at the Skylanders Academy that no longer prove useful to its inhabitants (Buzz in particular). He is also a real chatterbox when having a conversation, as revealed in his interactions with Buzz during his Quests in SuperChargers. Biography: Smash Hit came from a long line of Warsupials - a rare species widely renowned for their skills in combat. But in more peaceful times, his people were responsible for locating and demolishing any remaining artifacts from the Arkeyan Empire that were deemed too dangerous to leave standing. Smash Hit liked his job because it allowed him to do what he loved most - break things! He was so skillful with his wrecking ball that he could single-handedly dismantle an entire Arkeyan Conquertron in under an hour and still have time for a snack. When Master Eon noticed his skill, he enlisted the talented Warsupial into a new wrecking crew he was forming to take on Kaos - the SuperChargers!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e7/Smash_Hit_Promo.jpg/revision/latest?cb=20151006092205"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Let's Rock!",
+        "Nothin' I can't handle!",
+        "Let's rev it up!",
+        "Right on!",
+        "Gotcha!",
+        "Time for some action!",
+        "Ha ha, smashed!",
+        "Hey, heh heh, need some assistance?",
+        "Money!",
+        "Treasure!",
+        "Hazard pay!",
+        "Getting stronger!",
+        "Those numbers are crackin'!",
+        "Ooh, smashing!"
+      ]
+    },
+    {
+      "quote_type": "Quest Quotes",
+      "content": [
+        "Wait a minute. You ARE seeing me right now, right Buzz? Just checking. Haha. I guess I don't know what you mean. Do you know what you mean? 'Cuz I don't know what you mean. You know what I mean?",
+        "Oh that's nothing. Wait till I get started! You know I had a cousin one time who came in like a wrecking ball. Which was great except for the fact his mother ran a china shop. The next day everything was half off. Which is silly cuz what can you do with half a plate? Right?",
+        "Driving?! Driving?!! I'm an excellent driver! No question! Well, actually I do have a question - but not about driving. You ever wonder, Buzz, about pie. Not pie the number, I mean pie the pie - you know apple, berry, cherry, rutabaga? Terrible pie that rutabaga. But good for bowling.",
+        "That's funny, Buzz, cuz I didn't even really need to go to town. I mean, I have all the supplies I need right now - and seriously, why would I ride a goon into town when I have a perfectly good Thump Truck. Unless it broke down. Then, of course, I'd change my mind about goons.",
+        "Rock and roll! Say, you know that's almost totally impossible, don't you? I mean the whole idea of rocking - you know in one perfectly still spot - and actually rolling at the same time. Unless of course one were to build a machine that could use the sheer power of rocking to propel one places. Wow - can you imagine all the grandparents?? They'd be totally unstoppable!",
+        "Oh, why thank you very much, Buzz. You know I've got to tell ya, if you're having a hard time getting impressed, I'd be more than happy to get something heavy and put it on top of you - maybe a building or a mountain or something. I think that's probably the best way to fix your problem, don't you? I do! Don't you? I do! You just be sure and let me know. Okay? Okay? Okay? - Okay."
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Crushing in!",
+        "Bringing the boom!",
+        "Ready to roll!",
+        "Showtime!",
+        "Let's rock!",
+        "Let's smash it up!",
+        "Clocking in!",
+        "Rocking out!",
+        "Break time!",
+        "Lookin' good!",
+        "No stopping me!",
+        "Heh heh! Paydirt!",
+        "I'll take it!",
+        "Bam!",
+        "Whammo!",
+        "Rockin'!",
+        "Smashin'!",
+        "Duck and cover!",
+        "Time for a shakedown!",
+        "Get your head in the game!",
+        "Should've worn a helmet!",
+        "A chain reaction!",
+        "Clear a path!",
+        "Rough and tumble!",
+        "Gotta get wrecked!",
+        "Coming through!",
+        "Smaaaashed!",
+        "Slammo!",
+        "Bad luck...",
+        "Going down!",
+        "Just got wrecked...",
+        "Crash and burn...",
+        "What's up?",
+        "Somebody's looking for trouble!",
+        "I'm here!",
+        "Hey, take a break,pal!",
+        "C'mooon, really?",
+        "Easy there!",
+        "Breaking new ground!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Smash Hit's voice actor, Rob Paulsen, is best known for his voice work in the 1987 and 2012 versions of Teenage Mutant Ninja Turtles as Raphael and Donatello, respectively, Yakko Warner and Dr. Otto Scratchansniff from Animaniacs, Pinky from Pinky and the Brain and Animaniacs, Carl Wheezer from Jimmy Neutron, Broccoli Overlord from The High Fructose Adventures of the Annoying Orange, Arthur from The Tick, and the announcer for Funniest Pets & People.",
+    "He, Shroomboom, Eye-Brawl, Magna Charge, Rocky Roll (Rocky part), Eye-Small, Dive-Clops and Ro-Bow are the only Skylanders with one eye.",
+    "Smash Hit is the only one among them who is not a cyclops.",
+    "His face resembles Conker the squirrel from the Rare video games Conker's Pocket Tales and Conker's Bad Fur Day.",
+    "He and Ghost Roaster have spiked balls at the end of their chains.",
+    "Both Smash Hit and Buzz have eyepatches over their right eye.",
+    "In his second quote to Buzz during his SuperChargers Quests, Smash Hit makes a reference to Miley Cyrus' song 'Wrecking Ball' when mentioning his cousin coming 'in like a wrecking ball'.",
+    "His species name, Warsupial, is a combination of the words 'war' and 'marsupial', an animal family consisting of kangaroos, wallabies, wombats, koalas etc, in which females have pouches to carry their babies in.",
+    "Smash Hit was originally intended to be of the Life element.",
+    "Because his quest quotes are longer than other SuperChargers', Smash Hit is considered a real chatterbox.",
+    "Smash Hit is one of the shortest Skylanders along with Rocky, Short Cut, and Blastermind.",
+    "He and Turbo Charge Donkey Kong have the highest amount of health out of all the SuperChargers.",
+    "Smash Hit's name is derived from the term used to describe a person or thing (such as a game, movie, song or play) that is overwhelmingly successful and/or popular."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders SuperChargers - Smash Hit Soul Gem Preview (Let's Rock)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Smash_Hit_Soul_Gem_Preview_(Let%27s_Rock)"
+    },
+    {
+      "name": "Meet the Skylanders SuperChargers Smash Hit and Thump Truck",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_SuperChargers_Smash_Hit_and_Thump_Truck"
+    }
+  ],
+  "gameplay": "Smash Hit can use his large ball and chain to crush enemies in various ways, and detach them to attack with the chain and leave the ball attacking on its own. In Skylanders: Battlecast, he can also summon the Thump Truck via rift to run over enemies quickly, and cause a shockwave that temporarily immobilizes enemies. His special ability is Ground Pound, ensnaring an enemy, and his signature gear is the Rip Chain.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Smash_Hit",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Demolisher",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Smash_Hitprimarypower.png/revision/latest?cb=20170504170048",
+        "content": "Press Attack 1 repeatedly to swing the boulder around in circle.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Crushinator",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Smash_Hitsecondarypower.png/revision/latest?cb=20170504170050",
+        "content": "Press Attack 2 to smash the boulder on the ground in front of you.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Connect and Disconnect",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cb/Smash_Hitbasicupgrade1.png/revision/latest?cb=20170504170053",
+        "content": "Press Attack 3 to Disconnect the boulder and gain unique chain attacks. Press Attack 3 again to Connect.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Junkyard Dog",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/75/Smash_Hitbasicupgrade2.png/revision/latest?cb=20170504170054",
+        "content": "Boulder attacks deal more damage. Rock on!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Spikey Spinner",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Smash_Hitbasicupgrade3.png/revision/latest?cb=20170504170057",
+        "content": "Hold Attack 3 for a short time to charge up the boulder and send it spinning at enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Junker",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Smash_Hitbasicupgrade4.png/revision/latest?cb=20170504170102",
+        "content": "Chain attacks deal more damage. Chain time!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Down, Under",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/Smash_Hitsoulgempower.png/revision/latest?cb=20170504170109",
+        "content": "Hold Attack 3 when connecting to the boulder to create a huge explosion underneath you!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Bolder Boulder",
+        "abilities": [
+          {
+            "name": "Heap",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Smash_Hitpath1upgrade1.png/revision/latest?cb=20170504185446",
+            "content": "Press Attack 2 for a short amount of time to charge your boulder. The next attack with the boulder will deal massive damage!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Better Together",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Smash_Hitpath1upgrade2.png/revision/latest?cb=20170504185451",
+            "content": "Gain a large armor increase when Connecting. Press Attack 3 to Disconnect the boulder, Press Attack 3 again to Connect.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Catch!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/75/Smash_Hitpath1upgrade3.png/revision/latest?cb=20170504185452",
+            "content": "Hold Attack 1 while Connected to throw your boulder at enemies!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Chain Champ",
+        "abilities": [
+          {
+            "name": "G'Day",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/53/Smash_Hitpath2upgrade1.png/revision/latest?cb=20170504185454",
+            "content": "Hold Attack 1 while Disconnected to pull yourself to enemies!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Cut Loose",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/Smash_Hitpath2upgrade2.png/revision/latest?cb=20170504185456",
+            "content": "The next attack will be a critical hit when Disconnecting. Press Attack 3 to Disconnect the boulder, press Attack 3 again to Connect.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Earth Currents",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5c/Smash_Hitpath2upgrade3.png/revision/latest?cb=20170504185500",
+            "content": "Press Attack 3 while Disconnected to pull enemies into the spinning boulder.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "smash-hit",
@@ -36,7 +331,28 @@
         "Heap",
         "G'Day"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "350 (max. 700)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 (max. 83)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "2 (max. 52)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Smash_Hit"
     }
   ]
