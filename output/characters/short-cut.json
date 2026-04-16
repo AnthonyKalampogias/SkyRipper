@@ -4,6 +4,7 @@
   "species": "Unknown",
   "gender": "Male",
   "element": "Undead",
+  "role": "Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -12,22 +13,251 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Short Cut was renowned for making the finest clothing in all of Skylands . With his magic shears, no thread was too thick, no cloth was too bunchy, and no pattern was too hard to follow. But one day, a fleet of flying sailing ships appeared overhead, crewed by raucous Skeleton Pirates . Having plundered a cargo of golden yarn from fortunetelling soothsayers, their leader demanded that Short Cut stitch together a magic hat that would tell him the futures of everyone in Skylands – or suffer the consequences! Not wanting to see his work used for evil, he bravely snuck onto the ship that night and sewed the pants and shirts of the sleeping pirates together so they were unable to fight. Short Cut then used his magic shears to cut the sails and wrap them around the ship, preventing the pirates from escaping. His brave actions caught the attention of Master Eon , who quickly made Short Cut a member of the Trap Team, where he now uses powerful Traptanium Shears to cut evil’s future short with every snip!",
-  "personality": "Short Cut can be a perfectionist, but only because he loves what he does. He puts a lot of time and energy into creating each masterpiece. &#91; 1 &#93;",
-  "story": null,
+  "description": "Short Cut is a seamster and one of the Undead Trap Masters in Skylanders: Trap Team.",
+  "biography": "Short Cut was renowned for making the finest clothing in all of Skylands. With his magic shears, no thread was too thick, no cloth was too bunchy, and no pattern was too hard to follow. But one day, a fleet of flying sailing ships appeared overhead, crewed by raucous Skeleton Pirates. Having plundered a cargo of golden yarn from fortunetelling soothsayers, their leader demanded that Short Cut stitch together a magic hat that would tell him the futures of everyone in Skylands – or suffer the consequences! Not wanting to see his work used for evil, he bravely snuck onto the ship that night and sewed the pants and shirts of the sleeping pirates together so they were unable to fight. Short Cut then used his magic shears to cut the sails and wrap them around the ship, preventing the pirates from escaping. His brave actions caught the attention of Master Eon, who quickly made Short Cut a member of the Trap Team, where he now uses powerful Traptanium Shears to cut evil's future short with every snip!",
+  "quote": "Cut To The Chase!",
+  "personality": "Short Cut can be a perfectionist, but only because he loves what he does. He puts a lot of time and energy into creating each masterpiece.",
+  "story": [
+    {
+      "story_name": "Light in the Dark",
+      "content": "Short Cut was among the Skylanders that took part in the fight against Pain-Yatta's army of candy warriors. Lead by Gearshift, he and several other Skylanders fought a group of candy soldiers to save three Mabu before retreating into an old castle fortress to hold out when the army began to grow in numbers. As they were cornered by the candy army within the fortress, Short Cut and the other Skylanders served as Skylands' last line of defense, battling Pain-Yatta's army with all of their might. The candy army soon fell to pieces just as the Skylanders were becoming overwhelmed (thanks to the actions of the Light and Dark Skylanders in their fight against Pain-Yatta), earning the heroes their victory.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Cut to the Chase!",
+        "Let's do this!",
+        "It's trimming time!",
+        "Grim and trim!",
+        "A cut above the rest!",
+        "Never a dull moment!",
+        "Live on the edge!",
+        "Bouncy!",
+        "Feeling sharper!",
+        "Bursting at the seams!",
+        "Hyperactive!",
+        "Shear power!",
+        "These stats are stylin'!",
+        "Lookin' fit and trim!",
+        "Ooh, lookin' sharp!",
+        "Tailor-made!",
+        "Hahahaha, that has me in stitches!",
+        "That sounds like a good fit!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Short Cut and Blastermind are the shortest of the Trap Masters.",
+    "The way he carries his scissors is similar to that of The Scissorman from the Clock Tower game franchise.",
+    "He is the second Undead Skylander voiced by John Kassir (the first being Ghost Roaster).",
+    "The Y-shape of his Cut Through Worlds attack is possibly an allusion to autopsy cuts, used identify a person's cause of death.",
+    "Short Cut gave the designer team trouble when creating his figure, since his scissors point straight up and form a potential safety hazard. His figure was made tipsy to compensate, minimizing the chances of harm."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Short Cut",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Short_Cut"
+    },
+    {
+      "name": "Skylanders Trap Team - Short Cut's Soul Gem Preview (Cut to the Chase)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Trap_Team_-_Short_Cut%27s_Soul_Gem_Preview_(Cut_to_the_Chase)"
+    }
+  ],
+  "gameplay": "Short Cut's playstyle revolves around his Traptanium Scissors and puppet manipulation. He can deliver quick snips or enter a cutting frenzy, and even open rifts into other dimensions. His tactical options include using a Nether Needle to pull enemies close or summoning Phantom Puppets that can be upgraded to explode or heal him. His Soul Gem ability, Scissor Stilts, provides a unique movement-based attack.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Short_Cut",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Traptanium Scissors",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/af/Short_Cutprimarypower.png/revision/latest/scale-to-width-down/148?cb=20160109004100",
+        "content": "Press Attack 1 to snip away with Traptanium Scissors.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Phantom Puppets",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Short_Cutsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20160109004141",
+        "content": "Press Attack 2 to summon puppet minions who attack enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Cutting Frenzy",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Short_Cutbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20160109004317",
+        "content": "Rapidly press Attack 1 to go into a cutting frenzy.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Nether Needle",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e3/Short_Cutbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20160109004341",
+        "content": "Press Attack 3 to shoot Nether Needle and pull enemies you hit in closer",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "No Strings Attached",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/63/Short_Cutbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20160109004427",
+        "content": "Cut a Puppet's string with Traptanium Scissors to make it faster and more powerful.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Cut Through Worlds",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/60/Short_Cutbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20160109004455",
+        "content": "Hold Attack 1 and release to cut open a rift into another dimension.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Scissor Stilts",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Short_Cutsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20160109004210",
+        "content": "Hold Attack 1 and press Attack 2 to walk on the Traptanium Scissors like stilts, damaging anything in your path.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Scary Seamster",
+        "abilities": [
+          {
+            "name": "Treacherous Tangle",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b1/Short_Cutpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20160109004539",
+            "content": "Enemies reeled in by the Nether Needle are tangled.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Super Snips",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/13/Short_Cutpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20160109004605",
+            "content": "Enemies tangled up in thread take extra damage from Scissor attacks.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Threadsplosion",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Short_Cutpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20160109004632",
+            "content": "After an enemy becomes untangled, an explosion occurs doing extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Puppet Master",
+        "abilities": [
+          {
+            "name": "Go Out with A Bang",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7a/Short_Cutpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20160109004702",
+            "content": "Phantom Puppets explode before disappearing, damaging anything around them.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Puppet Population",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Short_Cutpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20160109004732",
+            "content": "Can summon more Phantom Puppets at a time and all do extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Paging Dr. Puppets",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Short_Cutpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20160109004803",
+            "content": "Phantom Puppets can heal you after damaging an enemy.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "short-cut",
       "variant_name": "Short Cut",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/8/86/Short_Cut_Promo.jpg/revision/latest?cb=20141001165634",
       "attacks": [
@@ -37,7 +267,28 @@
         "Treacherous Tangle",
         "Go Out with A Bang"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 (max. 560)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 (max. 118)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "80 (max. 130)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "39 (max. 89)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Short_Cut"
     }
   ]
