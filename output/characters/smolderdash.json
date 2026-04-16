@@ -4,6 +4,7 @@
   "species": "Fire spirit",
   "gender": "Female",
   "element": "Fire",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -14,22 +15,284 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "*Stump Smash Crosses the Bone Dragon *Rift into Overdrive",
+  "cameos": [
+    "Stump Smash Crosses the Bone Dragon",
+    "Rift into Overdrive"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Smolderdash had always wanted to be a royal defender of the Fire Temple - home of the First Flame, a sacred torch that had been ignited by the original Fire Source. Unfortunately, she had been born during an eclipse and was believed by her people to be cursed, which prevented her from such an honor. But when Kaos stole the flame and used it to light the candles on his birthday cake, it was Smolderdash who went after it. Blazing like a comet, she dashed into Kaos' Lair, repelled the troll security force with her flaming whip, and retrieved the sacred flame just before Kaos blew out the candles. Smolderdash returned home as a champion of her people and was finally granted the honor of becoming a royal defender. But she graciously declined, having set a new goal for herself - to help fight against Kaos as a member of the Skylanders .",
-  "personality": "Smolderdash is as steely and determined as they come. She whips her enemies into shape, and doesn't take no for an answer. &#91; 3 &#93;",
-  "story": null,
+  "description": "Smolderdash is a fire spirit and one of the Core Skylanders in Skylanders: Swap Force. She is of the Fire element.",
+  "biography": "Smolderdash had always wanted to be a royal defender of the Fire Temple - home of the First Flame, a sacred torch that had been ignited by the original Fire Source. Unfortunately, she had been born during an eclipse and was believed by her people to be cursed, which prevented her from such an honor. But when Kaos stole the flame and used it to light the candles on his birthday cake, it was Smolderdash who went after it. Blazing like a comet, she dashed into Kaos' Lair, repelled the troll security force with her flaming whip, and retrieved the sacred flame just before Kaos blew out the candles. Smolderdash returned home as a champion of her people and was finally granted the honor of becoming a royal defender. But she graciously declined, having set a new goal for herself - to help fight against Kaos as a member of the Skylanders.",
+  "quote": "A Blaze of Glory!",
+  "personality": "Smolderdash is as steely and determined as they come. She whips her enemies into shape, and doesn't take no for an answer.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Smolderdash dreamed of becoming a defender of the Fire Temple and a protector of the First Flame that burned within. But there was a problem - since she was born during an eclipse, her people thought she was cursed, so they wouldn't let her. That all changed when Kaos stole the First Flame to light his birthday cake candles. Heroically, Smolderdash tracked him down and gave him a proper thrashing. Realizing then that she was destined to be more than a mere Fire Temple defender, she set off to join the Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Stump Smash Crosses the Bone Dragon",
+      "content": "Smolderdash was one of the Skylanders who attempted to fight the Bone Dragon, but was turned to stone during the struggle. She was later returned to normal along with the other present Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Trigger Happy Targets the Evil Kaos",
+      "content": "Smolderdash, Trigger Happy and Food Fight were assigned to defeat a Water Viper that was attacking the Mabu Market. After their mission, they were called back to Eon's Citadel by Spyro to see Master Eon. The Magic segment to the Mask of Power was revealed to be hiding somewhere on Wool Mountain under the guise of a sheep, and Master Eon enlisted Smolderdash, Spyro, Trigger Happy and Food Fight to find it before Kaos does. Once they found and claimed the Segment, they returned to Eon's Citadel. Afterwards, Smolderdash aided the other Skylanders in retrieving the pieces of the Mask of Power from Kaos, but were outmatched when the evil Portal Master used the Mask of Power to steal their abilities.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "A Blaze of Glory!",
+        "Bringing the heat!",
+        "The sun is rising!",
+        "Golden as the sun!",
+        "Lighting the way!",
+        "The Sun shines through!",
+        "You got burned!",
+        "Can't contain the flame!",
+        "Bright and shiny!",
+        "The sun is mine!",
+        "Sun rise!",
+        "Eclipsing all others.",
+        "Beware the Flare!",
+        "Put to the Torch!",
+        "Just warming up!",
+        "Heating up!",
+        "Yes!",
+        "Fire power!",
+        "Sun Burst!",
+        "Very bright!",
+        "This should shine some light on things!",
+        "This outta keep my head warm!",
+        "Fired up about this new hat!",
+        "This name is a scorcher!",
+        "Hot off the presses!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Smolderdash is the first female Fire Skylander in the series (second being Torch).",
+    "This also makes fire the last element of the original elements to have a female character, with Smolderdash not being introduced until Swap Force.",
+    "Her name is a play on 'balderdash', a word meaning preposterous or rubbish.",
+    "Developer Nathan Wilens comments, 'From the moment I started playing Smolderdash, I fell in the love with the precision, speed, grace, beauty and fire!'",
+    "Her official catchphrase 'A Blaze of Glory!' is a play on the phrase 'a blaze of glory', which doing something in a successful and impressive manner.",
+    "'Whip it good!' in her upgrades is a reference to the 80's song Whip It by Devo.",
+    "Her voice actress, Grey DeLisle, is very well known for voicing Azula in Avatar the Last Airbender and Daphne Blake in Scooby-Doo.",
+    "As a LightCore figure, her eyes, forehead and flaming hair light up.",
+    "She has an Employee 2013 Special Edition variant called 'Snowderdash'.",
+    "She resembles the Flame Guard from Adventure Time.",
+    "She resembles the Statue Of Liberty in New York, both sharing torches and tiaras."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders - Smolderdash (A Blaze of Glory)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Smolderdash_(A_Blaze_of_Glory)"
+    },
+    {
+      "name": "Smolderdash Soul Gem Preview (A Blaze of Glory)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Smolderdash_Soul_Gem_Preview_(A_Blaze_of_Glory)"
+    },
+    {
+      "name": "Meet the Skylanders LightCore Smolder Dash",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_LightCore_Smolder_Dash"
+    }
+  ],
+  "gameplay": "Smolderdash is a precision-based Fire Skylander who uses a flame whip and solar orbs. Her signature mechanic is the Eclipse mode, which enhances her attacks and speed. She can detonate her solar orbs for area damage or hit them with her whip to split them. Her upgrades allow her to focus on enhancing her projectile suns or becoming a melee powerhouse with sun slams and a fiery aura.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Smolderdash",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Flame Whip",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/89/Smolderdashprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505005019",
+        "content": "Press Attack 1 rapidly to perform whip combos.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Solar Orb",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Smolderdashsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170505005025",
+        "content": "Press Attack 2 to shoot a fiery orb. Press Attack 2 again to detonate it.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Eclipse",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Smolderdashbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505005033",
+        "content": "Press Attack 3 to become solar charged for a short time, making all attacks more powerful. Eclipse needs to recharge for a short time after it is used before it can be used again.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Solar Powered",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/68/Smolderdashbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505005040",
+        "content": "Speed is increased. Time to blaze through the Skylands!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Sunrise",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dd/Smolderdashbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505005046",
+        "content": "Hold Attack 1 to charge a sun attack, release to jump into the air and slam a huge sun into the ground.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Whip It!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6d/Smolderdashbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170505005052",
+        "content": "Press Attack 1 to attack with more powerful whips that do increased damage. Whip it good!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Smolder Dash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fd/Smolderdashsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505005059",
+        "content": "Perform the powerful Smolder Dash when you press Attack 3 while in Eclipse mode!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Sun Forger",
+        "abilities": [
+          {
+            "name": "Super Giant",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Smolderdashpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505010049",
+            "content": "Hold Attack 2 to charge a sun into a super giant sun, release to throw it forward which deals more damage and hits more enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Solar Flare",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Smolderdashpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505010054",
+            "content": "Critical Hit is increased. Unleash the power of a solar flare!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Sun Splitter",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Smolderdashpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505010059",
+            "content": "Press Attack 2 to shoot a blazing sun at enemies. Press Attack 1 to strike the sun with a whip attack causing the sun to speed up. Super Giant suns split into three smaller suns when hit.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Sun Forged",
+        "abilities": [
+          {
+            "name": "Solar Blast",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/10/Smolderdashpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505005551",
+            "content": "Hold Attack 1 to charge a sun attack, release to jump into the air and slam a huge sun into the ground causing five smaller suns to shoot out towards enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Sunny Armor",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Smolderdashpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505005555",
+            "content": "Armor is increased. So bright and cheery that enemies attacks don't do anything to damper the mood!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Sun's Core",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Smolderdashpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505005606",
+            "content": "Press Attack 2 to shoot a blazing sun at enemies. Press Attack 2 to strike the sun with a whip attack and gain a fiery aura that damages nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "smolderdash",
+      "id": "smolderdash_s1",
       "variant_name": "Smolderdash",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Smolderdash.png",
       "attacks": [
@@ -39,7 +302,115 @@
         "Super Giant",
         "Solar Blast"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 (max. 560)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "135"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "85"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "60"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Smolderdash"
+    },
+    {
+      "id": "lc_smolderdash",
+      "variant_name": "LightCore Smolderdash",
+      "edition": "LightCore",
+      "type": "LightCore",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/8c/LC_Smolderdash.jpg",
+      "attacks": [
+        "Flame Whip",
+        "Solar Orb",
+        "Eclipse",
+        "Super Giant",
+        "Solar Blast"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "0 (max. 0)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "0 (max. 48)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "0 (max. 30)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "0 (max. 50)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "0 (max. 50)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "140"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "85"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "60"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Smolderdash"
+    },
+    {
+      "id": "snowderdash",
+      "variant_name": "Snowderdash",
+      "edition": "Special Edition",
+      "type": "Employee 2013 Edition",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Smolderdash.png",
+      "attacks": [
+        "Flame Whip",
+        "Solar Orb",
+        "Eclipse",
+        "Super Giant",
+        "Solar Blast"
+      ],
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Smolderdash"
     }
   ]
