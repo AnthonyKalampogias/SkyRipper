@@ -4,6 +4,7 @@
   "species": "Winged Cat",
   "gender": "Female",
   "element": "Air",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -15,22 +16,280 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Stump Smash Crosses the Bone Dragon (mentioned)",
+  "cameos": [
+    "Stump Smash Crosses the Bone Dragon (mentioned)"
+  ],
   "world": [
     "Cats Eye Mountain"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "High in the peaks of Cats Eye Mountain sits a towering city of crystal and gold that can only be reached by creatures of the Air element . It was here that Scratch spent her youth soaring playfully in the clouds or exploring the endless number of crystal mines. One day, an army of Pirate Greebles arrived in a fleet of airships, looking to steal ancient magic crystals buried deep in the mountain. Donning specially made armor, Scratch led an epic battle against the pirates, using her incredible fighting skills to defend the crystals and the city. Tales of her heroism soon made their way to Jet-Vac , who traveled to Cats Eye Mountain and recruited Scratch to the Skylanders.",
-  "personality": "Scratch is a natural explorer, having investigated the crystal mines of her mountain home for days on end. She's still adventurous to this day. &#91; 4 &#93;",
-  "story": null,
+  "description": "Scratch is a purple winged cat who is one of the Air Skylanders in Skylanders: Swap Force.",
+  "biography": "High in the peaks of Cats Eye Mountain sits a towering city of crystal and gold that can only be reached by creatures of the Air element. It was here that Scratch spent her youth soaring playfully in the clouds or exploring the endless number of crystal mines. One day, an army of Pirate Greebles arrived in a fleet of airships, looking to steal ancient magic crystals buried deep in the mountain. Donning specially made armor, Scratch led an epic battle against the pirates, using her incredible fighting skills to defend the crystals and the city. Tales of her heroism soon made their way to Jet-Vac, who traveled to Cats Eye Mountain and recruited Scratch to the Skylanders.",
+  "quote": "The Luck of the Claw!",
+  "personality": "Scratch is a natural explorer, having investigated the crystal mines of her mountain home for days on end. She's still adventurous to this day.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Born in a city of crystal and gold atop Cats Eye Mountain, the young Scratch loved soaring through the sky and searching through the many gemstone mines. Her idyllic life was shattered when a band of Pirate Greebles invaded in their fleet of flying warships, plotting to steal the magical gems that lied deep inside the mountain. Donning her golden armor, some sharp claws and a nasty temper, Scratch led the counter-attack against the invaders for days on end. Although she was fast and powerful, the sheer number of the villains threatened to overwhelm her. Until that is, she realized their airships were built around enormous balloons. A few carefully aimed claw slashes later, and the pirates were sent plummeting back back down to earth. From that day to this, no Greeble has dared return to Cats Eye Mountain, and the city is safe once more. Scratch's heroic deed caught the eye of Jet-Vac, who invited her to join the Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Stump Smash Crosses the Bone Dragon",
+      "content": "Scratch and Flashwing were assigned by Spyro to search for Master Eon at Molekin Mine when the old Portal Master was kidnapped by Squirmgrub, who was an agent of Kaos. However, without a Portal Master to operate the Portals, it took long for the two Skylanders to reach their destination.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Rift into Overdrive",
+      "content": "Under Knight Light's command, Scratch participated with the other Skylanders in defending Skylanders Academy from Kaos and his aerial armada.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "The Luck of the Claw!",
+        "A curious place.",
+        "The jewel of the skies!",
+        "Moving right along.",
+        "Clawing my way through!",
+        "A purrfect victory!",
+        "Scratched and outmatched!",
+        "Up and away!",
+        "Fight and flight!",
+        "Alright!",
+        "Success is mine!",
+        "Skyward!",
+        "More power!",
+        "Good kitty!",
+        "Away we go!",
+        "I'll take it!",
+        "Just scratching the surface.",
+        "Clawing my way to the top!",
+        "A hat fit for a cat!",
+        "I'll wear this with pride!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Scratch resembles Nefertimon, a Digivolution form of Gatomon from the Digimon franchise.",
+    "Her catchphrase is a pun on the saying 'the luck of the draw'.",
+    "Scratch's voice actress, Kathryn 'Kat' Cressida, is also the voice actress of Dee Dee from Dexter's Laboratory during Seasons 2 and 4.",
+    "Scratch is one of the few Skylanders who are able to heal themselves without eating food (others include characters like Wrecking Ball, Stealth Elf, Camo and Slobber Tooth).",
+    "One of her upgrades, Whirlwing, alludes to whirlwinds. It also happen to be a pun on another Air Skylander, Whirlwind.",
+    "Like Sunburn and Flashwing, Scratch doesn't possess a Flight upgrade despite having wings, although she does fly while performing her attacks.",
+    "In her magic moment, Scratch briefly chases after a moving laser pointer, a common trait shared by felines who love chasing after moving shiny objects.",
+    "Scratch was originally called 'Masquerade'.",
+    "Scratch is one of two Air Skylanders without a blue-centered color scheme. The other one is Swarm.",
+    "She is currently the only quadruped female Skylander to have visible teeth (not counting Cynder's appearance in the Skylanders Academy TV series).",
+    "She, Flameslinger, and Freeze Blade are the only three Skylanders that wear masks over their eyes.",
+    "Despite being revealed as a Feathercat in Imaginators, she was originally referred as a Sphynx by the official Skylanders Facebook and Twitter pages.",
+    "One of her quotes, 'A hat fit for a cat!' may be a reference to Dr. Seuss and one of his stories, The Cat in the Hat."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Scratch (The Luck of the Claw)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Scratch_(The_Luck_of_the_Claw)"
+    },
+    {
+      "name": "Skylanders Swap Force - Scratch Soul Gem Preview (The Luck of the Claw)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Scratch_Soul_Gem_Preview_(The_Luck_of_the_Claw)"
+    },
+    {
+      "name": "Official Skylanders SWAP Force Scratch Trailer!",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_SWAP_Force_Scratch_Trailer!"
+    }
+  ],
+  "gameplay": "Scratch's golden suit of enchanted armor comes equipped with moveable lasers that come from the crystal atop of her mask. The crystal claws of her gauntlets are able to cut through virtually any substance, from solid rock to hardened steel, meaning there are few enemies who can stand up to a scratching from Scratch. When further upgraded, Scratch can regain health by collecting treasure. When imbued with the power of rubies, Scratch can fight more offensively. Her upgrades range from an increase in critical hit percentage, to better and more powerful attacks. Her laser ability now has much better area of affect and she gains a new attack that allows her to deal lots of damage in quick bursts to a single enemy. When imbued with the power of sapphires, Scratch can fight more defensively. Now she can gain a boost to her speed as well as improved abilities that pertain to keeping her safe from enemies. Her laser attack can slow enemies that are struck by it, and she can unleash a whirlwind that sucks in enemies and immobilizes them briefly.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Scratch",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Cat Scratch",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3d/Scratchprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170503151320",
+        "content": "Press Attack 1 to scratch at nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Playful Pounce",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Scratchsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170503151343",
+        "content": "Hold Attack 2 to shoot a moveable laser onto the ground, release to pounce where the laser was pointing.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Wing Spark",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d3/Scratchbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170503150528",
+        "content": "Press Attack 3 to dodge an attack and knock away all enemies in an area around you.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Silver Claws",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b2/Scratchbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170503150540",
+        "content": "Gain new silver claws that deal increased damage!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Whirlwing",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Scratchbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170503150552",
+        "content": "Hold Attack 3 to pull enemies into a massive whirlwind and do damage to all of them caught inside.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Silver Mask",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a7/Scratchbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170503150613",
+        "content": "Gain a new silver mask! Hold Attack 2 to shoot a powerful new laser at the ground, release to do a devastating pounce attack that does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Gem Affinity",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Scratchsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170503151426",
+        "content": "Gain health from collecting gems, coins and money.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Ruby",
+        "abilities": [
+          {
+            "name": "Sharpened Rubies",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Scratchpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170503150827",
+            "content": "Sharpened Rubies grant increased damage to critical hit.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Ruby Rage",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Scratchpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170503151154",
+            "content": "Claw damage is increased. Hold Attack 1 to charge a claw attack, release to slash through nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Ruby Mask",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f5/Scratchpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170503151305",
+            "content": "Hold Attack 2 to shoot a laser at the ground that damages enemies in a larger area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Sapphire",
+        "abilities": [
+          {
+            "name": "Speedy Sapphire",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/Scratchpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170503045148",
+            "content": "Speed is increased. Sapphires infused with the speed of wind!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Sapphire Slash",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Scratchpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170503045306",
+            "content": "Claw damage is increased. Hold Attack 1 to charge a wing attack, release to shoot a vortex that pulls enemies into it.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Sapphire Mask",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d6/Scratchpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170503045327",
+            "content": "Hold Attack 2 to shoot a laser at the ground that damages and slows enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "scratch",
       "variant_name": "Scratch",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Scratch_Promo.jpg/revision/latest?cb=20140313203454",
       "attacks": [
@@ -40,7 +299,28 @@
         "Sharpened Rubies",
         "Speedy Sapphire"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "6"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Scratch"
     }
   ]
