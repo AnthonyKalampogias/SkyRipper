@@ -4,31 +4,293 @@
   "species": "Turtle Dinosaur",
   "gender": "Male",
   "element": "Earth",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
     "Skylanders: Lost Islands",
     "Skylanders: Trap Team",
     "Trigger Happy Targets the Evil Kaos",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [
+    "Short Cuts: Fire Kraken"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Slobber Tooth is a turtle dinosaur who is one of the Earth Core Skylanders in Skylanders: Swap Force.",
   "biography": "Having been asleep for thousands of years, Slobber Tooth was awakened by the fiery eruption of two volcanic islands crashing together. Immediately sought out by Kaos to become one of his minions, Slobber Tooth was promised great power. But the gruff and headstrong fighter chose to follow his own path instead. For this, Kaos attacked his ancient petrified homeland. As the only one who could protect his hibernating race, Slobber Tooth fought tooth and tail against Kaos and his minions, ultimately driving them away. For his heroism, Master Eon asked Slobber Tooth to join the Skylanders, where he could continue defending Skylands against the evil Kaos.",
-  "personality": "Slobber Tooth is a gruff and headstrong fighter. Even though he was offered great power, he turned that down in order to follow his own path. He doesn't consider himself as a thinker to defeat Kaos 's minions, but only uses his head, literally. If in doubt, Slobber Tooth will head-butt something. Or tail-thwap it. Or bite it. Or sometimes all three! &#91; 2 &#93; He is also a ravenous eater.",
-  "story": null,
+  "quote": "Clobber and Slobber!",
+  "personality": "Slobber Tooth is a gruff and headstrong fighter. Even though he was offered great power, he turned that down in order to follow his own path. He doesn't consider himself as a thinker to defeat Kaos's minions, but only uses his head, literally. If in doubt, Slobber Tooth will head-butt something. Or tail-thwap it. Or bite it. Or sometimes all three! He is also a ravenous eater.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "An ancient earth beast, Slobber Tooth slumbered for thousands of years until he was awakened by two volcanic islands crashing into each other. The evil Portal Master Kaos sought him out and offered Slobber Tooth a place among his minions with the promise of great power. The turtle dinosaur rejected the offer, and in response, Kaos attacked Slobber Tooth's homeland that still housed the rest of his hibernating race. This caused Slobber Tooth to clobber Kaos and his minions into next week; his heroic deed earning him a place among the Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Trigger Happy Targets the Evil Kaos",
+      "content": "Slobber Tooth took part in the desperate attempt to protect the Core of Light from Kaos, who absorbed the powers of the Skylanders using the Mask of Power.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Clobber and Slobber!",
+        "I need to Crunch these numbers!",
+        "I'm working my tail off.",
+        "Crashed it!",
+        "Munch and Crunch!",
+        "The place to come out of my shell!",
+        "Bite-size.",
+        "Shell it out.",
+        "Munch and Crunch.",
+        "No bark and all bite.",
+        "Nailed it.",
+        "All might and all bite.",
+        "Crashin' through.",
+        "Put the bite on you!",
+        "A place to come out of my shell!",
+        "Power spike.",
+        "More power.",
+        "This new hat makes me drool.",
+        "Watch out for the horn."
+      ]
+    },
+    {
+      "quote_type": "Trailer Quotes",
+      "content": [
+        "Think? Me?? No, not exactly.",
+        "There's no butt like a head butt!",
+        "Man, those fireworks were awesome!",
+        "Mmmmmmm, barbecue."
+      ]
+    }
+  ],
+  "trivia": [
+    "Slobber Tooth is the second dinosaur and turtle while Dino-Rang and Warnado, respectively, are the first.",
+    "It takes Slobber Tooth almost an hour a day to keep his teeth in tip-top condition. This is partly because his fangs are so large and prominent, and partly because it's quite difficult to hold a toothbrush with those hands. Or claws. Or whatever they are.",
+    "Being a dinosaur, he most closely resembles the Ankylosaurus, which was known for its heavily armored body and its thick-ended tail, which, like Slobber Tooth, could swing as a club. He also resembles the Doedicurus, a prehistoric armadillo species.",
+    "He, Wrecking Ball, Thumpback, Gusto, and The Gulper can eat their enemies.",
+    "He and Bash are the only Skylanders that use spikes to attack in the Earth Element.",
+    "In his Short Cut, Slobber Tooth finds microphones delicious.",
+    "On the Swap Force 3DS character poster, his name was misspelled as 'Slobbler Tooth'.",
+    "His name may have been a play on 'Saber Tooth'.",
+    "Slobber Tooth was originally called 'Lock Jaw'.",
+    "He is voiced by Dave Fennoy who is most known for voicing Lee Everett from the 2012 game The Walking Dead. He also voices the Trap Master, Thunderbolt.",
+    "Slobber Tooth is noticeably similar to Wrecking Ball: Both are Core Skylanders. Both can eat their enemies. Both of their Soul Gems upgrade their primary attacks. Both can gain health without needing to eat food. Both can charge up one of their attacks each.",
+    "He, Trail Blazer, and Flashwing are capable of attacking enemies from behind without turning around.",
+    "In Skylanders: SuperChargers and Racing, he is the only four legged Skylander to actually hold the steering wheel while the others just lean on it."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Slobber Tooth Gameplay Vignette (Clobber and Slobber)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Slobber_Tooth_Gameplay_Vignette_(Clobber_and_Slobber)"
+    },
+    {
+      "name": "Skylanders Swap Force - Slobber Tooth Soul Gem Preview (Clobber and Slobber)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Slobber_Tooth_Soul_Gem_Preview_(Clobber_and_Slobber)"
+    },
+    {
+      "name": "Skylanders Short Cuts Slobber Tooth",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Short_Cuts_Slobber_Tooth"
+    }
+  ],
+  "gameplay": "Slobber Tooth attacks his enemies with his armored head and slamming his spiked tail to create a shockwave. He can also bite his opponents with his slobbery mouth, even grab them and spit them out at other enemies. Further upgrades regarding Food Fighter path will allow Slobber Tooth to swallow enemies to recover health.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Slobber_Tooth",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Horn Swipe",
+        "imgPath": "Slobber_Toothprimarypower.png",
+        "content": "Press Attack 1 to perform a head swipe that damages nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Chomp & Chuck",
+        "imgPath": "Slobber_Toothsecondarypower.png",
+        "content": "Press Attack 2 to grab enemies with a slobbery mouth attack. Press Attack 2 again to spit them out.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Unstoppable Force",
+        "imgPath": "Slobber_Toothbasicupgrade1.png",
+        "content": "Hold Attack 1 to charge forward a short distance with a powerful headbutt attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Tough Hide",
+        "imgPath": "Slobber_Toothbasicupgrade2.png",
+        "content": "Gain bonus armor. Skin as tough as tough as nails and rocks mixed together.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Shockwave",
+        "imgPath": "Slobber_Toothbasicupgrade3.png",
+        "content": "Press Attack 3 to do a tail slam on the ground, damaging all enemies nearby.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Loogey",
+        "imgPath": "Slobber_Toothbasicupgrade4.png",
+        "content": "Press Attack 2 after holding an enemy with a Chomp attack to spit them out and deal increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Iron Jaw",
+        "imgPath": "Slobber_Toothsoulgempower.png",
+        "content": "Gain an iron jaw causing all head attacks to deal increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Food Fighter",
+        "abilities": [
+          {
+            "name": "Snot Rocket",
+            "imgPath": "Slobber_Toothpath1upgrade1.png",
+            "content": "Enemies hit with a spit attack will be covered in goo and take damage over time.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Om Nom Nom",
+            "imgPath": "Slobber_Toothpath1upgrade2.png",
+            "content": "Press Attack 2 to eat enemies, enemies being eaten will give more health back after a short time.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Feast",
+            "imgPath": "Slobber_Toothpath1upgrade3.png",
+            "content": "Hold Attack 2 to pull enemies into a chomping mouth attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Seismic Tail",
+        "abilities": [
+          {
+            "name": "Fling",
+            "imgPath": "Slobber_Toothpath2upgrade1.png",
+            "content": "Press Attack 3 to do a tail slam on the ground, press Attack 3 again to fling all nearby enemies into the air.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Weight Gain",
+            "imgPath": "Slobber_Toothpath2upgrade2.png,is_primary:false,is_secondary:false,name:",
+            "content": "Gain a new spikey tail causing Shock wave attacks to do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Earth Shaker",
+            "imgPath": "Slobber_Toothpath2upgrade3.png",
+            "content": "Hold Attack 3 to continue tail slamming the ground, causing waves of rocks to spread out and damage enemies in the way.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "slobber-tooth",
       "variant_name": "Slobber Tooth",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Slobber_Tooth_Promo_Art.jpg/revision/latest?cb=20130821081127",
       "attacks": [
@@ -38,7 +300,28 @@
         "Snot Rocket",
         "Fling"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300 (600)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "33 (81)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30 (60)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "2 (52)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Slobber_Tooth"
     }
   ]
