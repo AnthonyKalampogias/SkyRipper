@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-16T03:12:37.917Z",
+  "last_run": "2026-04-16T09:19:28.224Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -1056,6 +1056,42 @@
     {
       "name": "Scarlet Ninjini",
       "sha": "3a8665cb7ae8e35489b3ee2c2da870729338a0ebbbf047d451ddd7e66b3e25c7"
+    },
+    {
+      "name": "Scorp",
+      "sha": "f5bfc7a1225ff0556a45c6020301864b870f80e80dc2d28a8fa76c538f432760"
+    },
+    {
+      "name": "Scratch",
+      "sha": "a287bd20de4e0bc6fb50892169e7bc426b40462e670cd475f452c14edef3bad0"
+    },
+    {
+      "name": "Senseis",
+      "sha": "9db8e17970f740b900eaf1bc00b83b7be14dcade6706afe0431cc4da90f73e0e"
+    },
+    {
+      "name": "Shark Shooter Terrafin",
+      "sha": "1f4f9d6fce8ec45616ecd7128d6a3ea658cb1db39033b0fdd513dcbb025f8d4f"
+    },
+    {
+      "name": "Short Cut",
+      "sha": "68b3ae979e6a0957fa9517af04bfd6e1f4d972c4b512a2aea0e72dc0a08b9de1"
+    },
+    {
+      "name": "Shroomboom",
+      "sha": "6ce4025c610cede83b6233f0916241fe744dac6193b63b04ebf712475bf71990"
+    },
+    {
+      "name": "Sir Hoodington",
+      "sha": "5f39a992b05477aecf3f705d2b0c97da0bc97536d8e42513233c8a2c0f7aeb64"
+    },
+    {
+      "name": "Skeletal Cynder",
+      "sha": "fe5ecd6cf823ce8484fe3a7c35aa4c392a946051b7a3d8ab7422ddacb83b793f"
+    },
+    {
+      "name": "Skylanders",
+      "sha": "7c2499c5907a7a8d141e6cabea51360ab1f47f077eedf65cbf2975c7b6a3e9cf"
     }
   ]
 }
