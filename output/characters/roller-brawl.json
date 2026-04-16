@@ -1,29 +1,400 @@
 {
   "id": "roller-brawl",
   "name": "Roller Brawl",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": "Roller Brawl grew up with five older vampire brothers , who were all very big and overprotective. Being the smallest of her family, she learned how to use her speed and cunning to become one of the toughest jammers in the Undead Roller Derby League. It was during the championship match when she caught the eye of Kaos, who fell head-over-heels in love with her. But when her overprotective brothers stepped in, Kaos had them captured by Drow and taken prisoner. Roller Brawl swore revenge, but even with her impressive skills, she was no match for an entire Drow army. Having developed a strong distaste for evil, she joined up with the Skylanders to fight against Kaos – while never giving up on her search for her brothers.",
-  "personality": "Roller Brawl never gives up. Realizing that she was no match for the Drow on her own, she joined the Skylanders to fight the lovesick Kaos . &#91; 4 &#93; Her SuperChargers Quest also shows her to be extremely dedicated to her training, even guessing Buzz 's orders ahead of time. Her personality file lists her as cunning and resourceful, making her an ideal scout and spy.",
-  "story": null,
+  "species": "Vampire",
+  "gender": "Female",
+  "element": "Undead",
+  "role": "Core Skylander",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers",
+    "Skylanders: Battlecast",
+    "Biting Back",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Roller Brawl is a vampire roller jammer and one of the Undead Core Skylanders in Skylanders: Swap Force.",
+  "biography": "Roller Brawl grew up with five older vampire brothers, who were all very big and overprotective. Being the smallest of her family, she learned how to use her speed and cunning to become one of the toughest jammers in the Undead Roller Derby League. It was during the championship match when she caught the eye of Kaos, who fell head-over-heels in love with her. But when her overprotective brothers stepped in, Kaos had them captured by Drow and taken prisoner. Roller Brawl swore revenge, but even with her impressive skills, she was no match for an entire Drow army. Having developed a strong distaste for evil, she joined up with the Skylanders to fight against Kaos - while never giving up on her search for her brothers.",
+  "quote": "Let's Roll!",
+  "personality": "Roller Brawl never gives up. Realizing that she was no match for the Drow on her own, she joined the Skylanders to fight the lovesick Kaos. Her SuperChargers Quest also shows her to be extremely dedicated to her training, even guessing Buzz's orders ahead of time. Her personality file lists her as cunning and resourceful, making her an ideal scout and spy.",
+  "story": [
+    {
+      "story_name": "Development",
+      "content": "Early concept art depicts Roller Brawl with a number of alternative skull caps and hairstyles, including twin braids or a ponytail. Her bone armor was originally white, and she wore green-striped clothing. Her early name was 'Topsy Derby'.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Physical Traits",
+      "content": "Roller Brawl is a pale pink silver vampire dressed as a roller jammer. She has a black skull helmet on her head, small fangs and pink hair, which covers her left eye and is styled into a plait/braid. Her eyes are white with pink irises. She wears a black armored chest plate and a black long sleeved shirt underneath. She also wears purple pants and has pink and silver saw blades in place of roller skates. Her black and purple gloves are equipped with black roller claws.",
+      "hasImage": true,
+      "imgPath": "Roller_Brawl2.jpg"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "\"Let's Roll!\"",
+        "\"Get ready to roll!\"",
+        "\"I'm on a roll!\"",
+        "\"Cha-ching!\"",
+        "\"Roll with it!\"",
+        "\"Aim high!\"",
+        "\"Here I go!\"",
+        "\"Time for a jam session!\"",
+        "\"Aw, man!\"",
+        "\"Let's jam!\"",
+        "\"Out of my way!\"",
+        "\"Roll on!\"",
+        "\"Rolling through!\"",
+        "\"Down in the derby!\"",
+        "\"Girl power!\"",
+        "\"Rock and roll!\"",
+        "\"Time to roll!\"",
+        "\"Power burst!\"",
+        "\"Ultimate jammer!\"",
+        "\"Check me out!\"",
+        "\"Off the charts!\"",
+        "\"Always wear a helmet!\"",
+        "\"Function and fashion!\"",
+        "\"I can roll with that!\"",
+        "\"Edgy, I like it!\"",
+        "\"A-number one!\"",
+        "\"In your dreams!\""
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "\"Time to roll!\"",
+        "\"A roller brawl!\"",
+        "\"Let's roll!\"",
+        "\"Born to brawl!\"",
+        "\"Roll to victory!\"",
+        "\"Let's jam!\"",
+        "\"Let's brawl!\"",
+        "\"Time in!\"",
+        "\"Time out!\"",
+        "\"Tagging out.\"",
+        "\"Check me out!\"",
+        "\"Off the chart!\"",
+        "\"I'll take it!\"",
+        "\"Cool gear!\"",
+        "\"Well played!\"",
+        "\"Check out that!\"",
+        "\"Awesome!\"",
+        "\"Jammin'!\"",
+        "\"Sparks will fly!\"",
+        "\"Let it slide!\"",
+        "\"Don't mind if I do!\"",
+        "\"Drain away!\"",
+        "\"Disco ball! Heads up!\"",
+        "\"Let's dance!\"",
+        "\"The one and only!\"",
+        "\"Showtime!\"",
+        "\"Blades a floor!\"",
+        "\"Skate and conquer!\"",
+        "\"You got rolled!\"",
+        "\"Too easy!\"",
+        "\"Gotta sit this one out.\"",
+        "\"Down and out!\"",
+        "\"Win some, lose some...\"",
+        "\"Another time...!\"",
+        "\"Rock and roll!\"",
+        "\"Hey now!\"",
+        "\"What's up?\"",
+        "\"I'm here.\"",
+        "\"Better back off now.\"",
+        "\"Cool it.\"",
+        "\"Does this amuse you?!\"",
+        "\"On a roll!\"",
+        "\"Moving up!\"",
+        "\"Just spinnin' my wheels here!\"",
+        "\"Did someone call a time out?\"",
+        "\"Better than a loss.\"",
+        "\"Too close to call!\"",
+        "\"Check out that!\"",
+        "\"Time for a jam session!\"",
+        "\"Keep your eye on the brawl!\"",
+        "\"Yeah!\"",
+        "\"Success!\"",
+        "\"Well played.\"",
+        "\"Too easy!\"",
+        "\"Awesome!\"",
+        "\"Nice!\"",
+        "\"Okay!\"",
+        "\"Yes!\"",
+        "\"Sweet!\"",
+        "\"Right on!\"",
+        "\"Alright!\"",
+        "\"Cool!\"",
+        "\"Victory!\"",
+        "\"Excellent!\"",
+        "\"Perfect!\"",
+        "\"Not good!\"",
+        "\"Bummer.\""
+      ]
+    }
+  ],
+  "trivia": [
+    "Roller Brawl was inspired by the sport of Roller Derby.",
+    "When Roller Brawl appears after being placed on the Portal of Power, a starting whistle is heard, as an allusion to the whistle in Roller Derby.",
+    "During development, Roller Brawl wasn't well-received, due to her bad controls and missing VFX.",
+    "Her claws bear a resemblance to X-23 from the X-Men comics.",
+    "She and Eye-Brawl both have the word 'Brawl' in their names. Coincidentally, they are both Undead Skylanders.",
+    "Both her regular and SuperCharger counterparts involve hearts flying all over the place. For regular Roller Brawl, it's Skateblades. For Bone Bash Roller Brawl, it's Love Bites and Brawling Out.",
+    "Her eye appearance is inconsistent between her portrayals. In her official art and toy form, her eyes are white with pink irises, in-game, her irises glow brightly, and in her Soul Gem video, they barely have any color at all (besides a dark gray).",
+    "She, Bat Spin and Night Shift are the only three vampire Skylanders.",
+    "She was originally going to be sleeveless in her early development. She does appear sleeveless in Skylanders: Battlecast.",
+    "Her name is a play on the 1975 movie title, 'Rollerball'.",
+    "Even though Roller Brawl lacks black pupils, she is shown to have them from her Soul Gem Trailer and Trap Team Intro.",
+    "Her voice actress, Cree Summer, provided the voices of Susie Carmichael from Rugrats and All Grown Up, Valerie Gray from Danny Phantom, Numbuh 5 from Codename: Kids Next Door, Bunny Star from The Patrick Star Show, Lizzle in The Land Before Time 11, as well as being the first actress for Cynder in The Legend of Spyro series. In SuperChargers, her voice actress is uncredited.",
+    "She is the second Skylander to have her hair in a braid (the first one being Stealth Elf).",
+    "In Trap Team, her character icon is actually, the same one the one in SWAP Force instead of her concept art.",
+    "In the Skylanders: Swap Force Master Eon's Official Guide handbook, it incorrectly states that her Soul Gem is in Iron Jaw Gulch.",
+    "She, Chill, Déjà Vu, and Stealth Elf are currently the only four female Skylanders with a Legendary counterpart.",
+    "In Skylanders: Imaginators, after purchasing her Soul Gem, if you go into selfie mode and zoom in on the back of her helmet, you can see the Undead element symbol.",
+    "Her name was originally going to be Topsy Derby in development. The name was later given to one of her teammates in Biting Back.",
+    "In Battlecast, one of her attacks is similar to Smolderdash's catchphrase.",
+    "She and Fryno are the only Swap Force-debuting core Skylanders to recieve new reposed figures in its sequels."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Roller Brawl",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Roller_Brawl"
+    },
+    {
+      "name": "Skylanders Swap Force - Roller Brawl Soul Gem Preview (Let's Roll)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Roller_Brawl_Soul_Gem_Preview_(Let%27s_Roll)"
+    }
+  ],
+  "gameplay": "Roller Brawl can use the claws on her gloves to slash at enemies. She can also launch her skate blades as well as use them to travel at high speeds. After dashing, she headbutts enemies to deliver a high amount of damage. She can even closeline enemies while dashing and - when her Soul Gem is purchased - create a cursed energy link between herself and an enemy. Regardless of which upgrade path is chosen, Roller Brawl focuses exclusively on offense, though with different benefits and through different methods.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Roller_Brawl",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Roller Claws",
+        "imgPath": "Roller_Brawlprimarypower.png",
+        "content": "Press Attack 1 to slash at nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Derby Dash",
+        "imgPath": "Roller_Brawlsecondarypower.png",
+        "content": "Press Attack 2 to dash and damage any nearby enemies when starting the dash. Press Attack 1 or 2 to attack while dashing.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Skateblades",
+        "imgPath": "Roller_Brawlbasic_upgrade1.png",
+        "content": "Press Attack 3 to shoot Skateblades that travel along the ground towards enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Impact Skater",
+        "imgPath": "Roller_Brawlbasic_upgrade2.png",
+        "content": "All attacks while dashing do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Deadly Clothesline",
+        "imgPath": "Roller_Brawlbasic_upgrade3.png",
+        "content": "Hold Attack 2 to charge a dash, release to dash forward and clothesline any enemies in the way.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Aggression",
+        "imgPath": "Roller_Brawlbasic_upgrade4.png",
+        "content": "New sharpened blades make claw attacks do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Cursed Helmet",
+        "imgPath": "Roller_Brawlsoulgempower.png",
+        "content": "Press Attack 2 while dashing to head-butt an enemy and create a cursed link. Touch enemies with the link to damage them.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Shadow Skater",
+        "abilities": [
+          {
+            "name": "Pirouette",
+            "imgPath": "Roller_Brawlpath1upgrade1.png",
+            "content": "Hold Attack 1 during a dash to do a spin attack that damages nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Hardened Helm",
+            "imgPath": "Roller_Brawlpath1upgrade2.png",
+            "content": "A new helmet increases Roller Brawl's armor, reducing damage taken.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Bullrush",
+            "imgPath": "Roller_Brawlpath1upgrade3.png",
+            "content": "Hold Attack 2 during a dash to bullrush enemies, damaging and knocking them back.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Skateblade Siren",
+        "abilities": [
+          {
+            "name": "Skateblade Trap",
+            "imgPath": "Roller_Brawlpath2upgrade1.png",
+            "content": "Press Attack 3 while dashing to leave behind a trap that damages nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Critical Claws",
+            "imgPath": "Roller_Brawlpath2upgrade2.png",
+            "content": "New claws increase Roller Brawl's Critical Hit chance.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Spinning Saws",
+            "imgPath": "Roller_Brawlpath2upgrade3.png",
+            "content": "Hold Attack 3 to create saws that spin around Roller Brawl.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "roller-brawl",
       "variant_name": "Roller Brawl",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
+      "type": "Core Skylander",
+      "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/8/8c/Roller_Brawl2.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Roller Claws",
+        "Derby Dash",
+        "Skateblades",
+        "Impact Skater",
+        "Deadly Clothesline"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "7"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Roller_Brawl"
     }
   ]
