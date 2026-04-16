@@ -4,6 +4,7 @@
   "species": "Tiki Masked Sorcerer.",
   "gender": "Male",
   "element": "Magic",
+  "role": "Skylander",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -14,22 +15,116 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Royal Double Trouble is a purple version of the Series 2 Magic Skylander, Double Trouble.",
   "biography": "Double Trouble was an adept spellcaster. On an expedition to find exotic ingredients for his potions, he traveled in search of a rare lily that was said to multiply the power of any spell. So thrilled was he when he found it, Double Trouble instantly ate the plant and performed a spell. Suddenly, there was a loud pop… then another… and another – until Double Trouble was surrounded by exact copies of himself. As it turned out, he had misunderstood the details about exactly what would multiply. But it didn’t matter, for he quickly realized the clones were delightful companions… never mind that they were only half his size and would explode on contact.",
-  "personality": null,
-  "story": null,
+  "quote": "Boom-shakalaka!",
+  "personality": "Double Trouble is an eccentric and thrill-seeking spellcaster who finds great joy in the company of his exploding clones.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Double Trouble was an adept spellcaster. On an expedition to find exotic ingredients for his potions, he traveled in search of a rare lily that was said to multiply the power of any spell. So thrilled was he when he found it, Double Trouble instantly ate the plant and performed a spell. Suddenly, there was a loud pop… then another… and another – until Double Trouble was surrounded by exact copies of himself. As it turned out, he had misunderstood the details about exactly what would multiply. But it didn’t matter, for he quickly realized the clones were delightful companions… never mind that they were only half his size and would explode on contact.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/Royal_Double_Trouble_.png/revision/latest?cb=20170306064121"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Boom-shakalaka!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He and King Cobra Cadabra are the only variants to have a monarch-related word in their name.",
+    "Coincidentally, they are both Magic Skylanders.",
+    "Royal Double Trouble's artwork on his card is similar to his Series 1 counterpart's artwork. However, in Skylanders: Lost Islands, his artwork is more based on his regular Series 2 counterpart.",
+    "In Skylanders: Giants his health bar image is in the style of his series 2 image.",
+    "Despite being released during Skylanders: Giants, his figure's pose is a recolor of his Series 1 figure from Spyro's Adventure."
+  ],
+  "trailers": [],
+  "gameplay": "Royal Double Trouble uses his staff to fire a homing Eldritch Beam and can summon exploding clones of himself to overwhelm enemies.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Royal_Double_Trouble",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Eldritch Beam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/Royal_Double_Trouble_.png/revision/latest?cb=20170306064121",
+        "content": "Double Trouble shoots a beam of energy from his staff that locks onto enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Conjure Exploding Double",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/Royal_Double_Trouble_.png/revision/latest?cb=20170306064121",
+        "content": "Double Trouble summons a small clone of himself that runs towards enemies and explodes on contact.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Summon Magic Bomb",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/Royal_Double_Trouble_.png/revision/latest?cb=20170306064121",
+        "content": "Double Trouble creates a magical bomb that damages nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Arcane Eldritch Beam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/Royal_Double_Trouble_.png/revision/latest?cb=20170306064121",
+        "content": "A more powerful version of the Eldritch Beam.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Magical Cataclysm",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/Royal_Double_Trouble_.png/revision/latest?cb=20170306064121",
+        "content": "Double Trouble creates a powerful magical explosion.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "royal-double-trouble",
+      "id": "royal-double-trouble-variant",
       "variant_name": "Royal Double Trouble",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Special Edition",
+      "type": "Series 2 Variant",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/6/69/Royal_Double_Trouble_.png/revision/latest?cb=20170306064121",
       "attacks": [
@@ -39,7 +134,28 @@
         "Arcane Eldritch Beam",
         "Magical Cataclysm"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "250 (max. 500)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 (max. 83)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50 (max. 100)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "39 (max. 89)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Royal_Double_Trouble"
     }
   ]
