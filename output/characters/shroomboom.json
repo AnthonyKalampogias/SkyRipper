@@ -4,6 +4,7 @@
   "species": "One-Eyed Fly Agaric Mushroom",
   "gender": "Male",
   "element": "Life",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -12,22 +13,289 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [
+    "Skylanders Academy",
+    "Skylanders: Ring of Heroes"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Shroomboom was most unfortunate to have been born in a pizza topping garden belonging to Kaos . Growing up among his fellow fungi, he knew it was only a matter of time before a late night craving would bring about their demise. So Shroomboom took a twig and a strand of spider web and made a slingshot. One by one, he launched all of his friends over the garden fence before flinging himself over to join them. Then he guided them all to the edge of the island and leapt to freedom, using his mushroom cap to catch a friendly breeze. Now as a member of the Skylanders, Shroomboom continues to perform courageous deeds... but he can be hard to find on pizza night.",
-  "personality": "Courageous and determined, Shroomboom lets nothing stand in his way. He's always ready to parachute into danger, no matter the risk. &#91; 2 &#93;",
-  "story": null,
+  "description": "Shroomboom is a one-eyed mushroom who is one of the eight Skylanders in Skylanders: Giants. He is of the Life element. His Series 2 counterpart is named Sure Shot Shroomboom.",
+  "biography": "Shroomboom was most unfortunate to have been born in a pizza topping garden belonging to Kaos. Growing up among his fellow fungi, he knew it was only a matter of time before a late night craving would bring about their demise. So Shroomboom took a twig and a strand of spider web and made a slingshot. One by one, he launched all of his friends over the garden fence before flinging himself over to join them. Then he guided them all to the edge of the island and leapt to freedom, using his mushroom cap to catch a friendly breeze. Now as a member of the Skylanders, Shroomboom continues to perform courageous deeds... but he can be hard to find on pizza night.",
+  "quote": "He Shoots, He Spores!",
+  "personality": "Courageous and determined, Shroomboom lets nothing stand in his way. He's always ready to parachute into danger, no matter the risk.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Growing up, there were two words Shroomboom lived in fear of: pizza night. As one of the group of living mushrooms inhabiting a pizza-topping garden owned by Kaos, Shroomboom knew he was destined to become part of a tasty midnight snack. While the other mushrooms resigned to their fate, Shroomboom decided there must be more to life than being sliced, cooked and slathered in cheese. Fashioning a catapult from a twig and a length of spider web, he fired his fungi friends over the wall, before launching himself over too. Their route to safety was not easy, but with Shroomboom taking the lead, the entire mushroom crop made their escape. It is believed a family of pineapple chunks weren't lucky. Shroomboom now uses his slingshot skills as a member of the Skyanders, althrough he is still haunted by the smell of mozzarella and tomato sauce.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "He Shoots, He Spores!",
+        "The Spore the merrier!",
+        "Spore!",
+        "Room for one spore?",
+        "Slingshot!",
+        "Shroom shield!",
+        "Put a cap on that victory!",
+        "That put the fun in fungus!",
+        "Hear me spore!",
+        "Mush rush!",
+        "I'm your slingman!",
+        "Growing stronger!",
+        "Look at my numbers grow!",
+        "Awesome, a cap for my cap!",
+        "Nice, more protection for my brain!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Shroomboom's official catchphrase is a play on 'He Shoots, He Scores!'",
+    "According to I-Wei Huang, he was a very difficult character to pose in toy form, due to having a giant mushroom hat that covers his eye.",
+    "Shroomboom's mushroom species is a Fly Agaric.",
+    "Despite the fact Shroomboom was born in a pizza topping garden, Fly Agaric mushrooms are types of toadstool and are actually poisonous.",
+    "Despite being afraid of pizza, this may not be true in gameplay as pizza appears as a food item to restore health.",
+    "Shroomboom's original name was 'Shroomy'.",
+    "He and Chill are the only ones with something sticking out of the pedestals, namely the glowing mushroom.",
+    "In-game and toy form, Shroomboom's slingshot is green, while in promotional artwork it is brown.",
+    "The spikes on his back in Skylanders Giants are placed in a square grid, contradicting his toy model where the spikes form a diamond grid. This was later corrected in Skylanders: SWAP Force.",
+    "Shroomboom is one of the Skylanders to have 'Boom' in his name.",
+    "He and Pop Fizz are the only two Skylanders who got a repose in Trap Team that don't have a Mini counterpart.",
+    "There are over 10,000 different species of mushroom in Skylands; Shroomboom is the only one to have dedicated his life to fighting evil.",
+    "Sure Shot Shroomboom's artwork can be seen in the Season 1 intro of the Skylanders Academy TV series within The Book of Skylanders.",
+    "Shroomboom was planned to appear in Skylanders: Ring of Heroes, with concept art of his Awakened Form released before the game's closure."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Giants - Shroomboom Preview Trailer",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Giants_-_Shroomboom_Preview_Trailer"
+    },
+    {
+      "name": "Meet the Skylanders Shroomboom",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Shroomboom"
+    },
+    {
+      "name": "Meet the Skylanders LightCore Shroomboom",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_LightCore_Shroomboom"
+    },
+    {
+      "name": "Skylanders Giants - Shroomboom's Soul Gem Preview (He Shoots, He Spores)",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Giants_-_Shroomboom%27s_Soul_Gem_Preview_(He_Shoots,_He_Spores)"
+    },
+    {
+      "name": "Meet the Skylanders Sure Shot ShroomBoom",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Sure_Shot_ShroomBoom"
+    }
+  ],
+  "gameplay": "Shroomboom attacks by shooting exploding mushrooms with a slingshot. His secondary attack is a force field of mushrooms. He can also launch slow mushrooms that glide before they fall and explode and launch himself out of his slingshot, and use his own mushroom cap to glide for short distances.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Shroomboom",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Slingshot",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Shroomboomprimarypower.png",
+        "content": "Press the Attack 1 button to shoot exploding mushrooms.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Mushroom Ring",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c0/Shroomboomsecondarypower.png",
+        "content": "Press Attack 2 to spawn a ring of mushrooms that damage enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Launch Paratroopers",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/be/Shroomboombasicupgrade1.png",
+        "content": "Press Attack 3 to shoot mushroom paratroopers who drop down from the sky.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Super Shrooms",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Shroomboombasicupgrade2.png",
+        "content": "Mushroom Ring gets bigger.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Bigger Boomshrooms",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Shroomboombasicupgrade3.png",
+        "content": "Press and hold Attack 1 to charge up a giant exploding mushroom.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Bouncing Boomshrooms",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Shroomboombasicupgrade4.png",
+        "content": "Exploding mushrooms bounce on the ground and do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Self-Slingshot",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d9/Shroomboomsoulgempower.png",
+        "content": "While holding Attack 1, press Attack 2 to slingshot Shroomboom towards enemies",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "High Spore",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Shroomboomwowpowpower.png",
+        "content": "Hold Attack 1 to create mushroom bumpers and play pinball with enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Barrier Boost",
+        "abilities": [
+          {
+            "name": "Spore Power",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b3/Shroomboompath1upgrade1.png",
+            "content": "Mushroom Ring creates a damaging spore cloud.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Ultimate Ring",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Shroomboompath1upgrade2.png",
+            "content": "Mushroom Ring is the biggest it gets.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Back to the Beginning",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/04/Shroomboompath1upgrade3.png",
+            "content": "Hold Attack 2 to remain underground, where you can move around freely.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Paramushroom Promotion",
+        "abilities": [
+          {
+            "name": "Lock 'N' Load",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a9/Shroomboompath2upgrade1.png",
+            "content": "Can fire exploding mushrooms faster that do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Fungal Infestation",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Shroomboompath2upgrade2.png",
+            "content": "Mushroom Paratroopers stick to enemies and do damage over time.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Paratrooper Invasion",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2e/Shroomboompath2upgrade3.png",
+            "content": "Shoot three Mushroom Paratroopers at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "shroomboom",
       "variant_name": "Shroomboom",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/41/Screenshot_48056.jpg",
       "attacks": [
@@ -37,7 +305,96 @@
         "Bouncing Boomshrooms",
         "Launch Paratroopers"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260 (max. 520)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20 (max. 70)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Shroomboom"
+    },
+    {
+      "id": "shroomboom_lightcore",
+      "variant_name": "LightCore Shroomboom",
+      "edition": "LightCore",
+      "type": "LightCore",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/3d/LightCore_Shroomboom_Promo.jpg",
+      "attacks": [
+        "Slingshot",
+        "Mushroom Ring",
+        "Bigger Boomshrooms",
+        "Bouncing Boomshrooms",
+        "Launch Paratroopers"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "110"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Shroomboom"
+    },
+    {
+      "id": "sure_shot_shroomboom",
+      "variant_name": "Sure Shot Shroomboom",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d6/S2_Shroomboom_Promo.jpg",
+      "attacks": [
+        "Slingshot",
+        "Mushroom Ring",
+        "Bigger Boomshrooms",
+        "Bouncing Boomshrooms",
+        "Launch Paratroopers"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "120"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Shroomboom"
     }
   ]
