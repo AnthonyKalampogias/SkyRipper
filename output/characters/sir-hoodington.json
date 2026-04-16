@@ -4,21 +4,50 @@
   "species": "Unknown",
   "gender": "Male",
   "element": "Fire",
+  "role": "Imaginator",
   "primary_game": "Skylanders: Creator",
   "appearances": [
     "Skylanders: Creator",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Sir Hoodington is made using a Hooded Mystery head, Buckles and Belts chest, Shell Arms, Deep Sea Legs, Double Guard for shoulder guards, Spike Bracelets for arm guards, Old Faithful Leg Armor and a Laserblade as his weapon.",
+  "biography": "Sir Hoodington is a notable Imaginator created by Toys For Bob. He serves as a mascot for Skylanders: Imaginators. He is a Knight of the Fire element and is seen in many commercials, screenshots and other promos.",
+  "quote": "Can't stop my sword",
+  "personality": "Sir Hoodington is one of the most prominent Imaginators who has proved himself invaluable in the fight against Kaos and his Doomlanders.",
+  "story": [
+    {
+      "story_name": "Mascot of the Imaginators",
+      "content": "Sir Hoodington is a notable Imaginator created by Toys For Bob who serves as a mascot for Skylanders: Imaginators. As a Knight of the Fire element, he is seen in many commercials, screenshots, and other promos. He is composed of specific parts: a Hooded Mystery head, Buckles and Belts chest, Shell Arms, Deep Sea Legs, Double Guard for shoulder guards, Spike Bracelets for arm guards, Old Faithful Leg Armor, and a Laserblade weapon. He is identified as one of the most prominent Imaginators and has proved himself invaluable in the fight against Kaos and his Doomlanders.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/59/Sir_Hoodington.png/revision/latest?cb=20161231001521"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Can't stop my sword"
+      ]
+    }
+  ],
+  "trivia": [
+    "An indirect reference to Sir Hoodington's 'mascot' role is made in the book A Portal Master's Guide to Skylands, where he is identified as 'one of the most prominent Imaginators'.",
+    "Additionally, he is stated to have proved himself invaluable in the fight against Kaos and his Doomlanders."
+  ],
+  "trailers": [],
+  "gameplay": "Sir Hoodington is a Knight of the Fire element who uses a Laserblade as his weapon.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Sir_Hoodington",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "sir-hoodington",
@@ -28,7 +57,7 @@
       "game": "Skylanders: Creator",
       "image": "https://static.wikia.nocookie.net/skylanders/images/5/59/Sir_Hoodington.png/revision/latest?cb=20161231001521",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Sir_Hoodington"
     }
   ]
