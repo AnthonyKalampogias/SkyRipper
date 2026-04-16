@@ -4,20 +4,42 @@
   "species": "Dragon",
   "gender": "Female",
   "element": "Undead",
+  "role": "Skylander",
   "primary_game": "Skylanders: Lost Islands (October 2013)",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Skeletal Cynder has risen from the darkness to join the Skylands!",
+  "biography": "Skeletal Cynder is the Halloween 2013 counterpart of Cynder in Skylanders: Lost Islands.",
+  "quote": "Skeletal Cynder has risen from the darkness to join the Skylands!",
+  "personality": "",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Description",
+      "content": [
+        "Skeletal Cynder has risen from the darkness to join the Skylands!"
+      ]
+    }
+  ],
+  "trivia": [
+    "She is the first dragon Lost Islands exclusive Skylander.",
+    "She is also the first female Lost Islands exclusive, the second being Snowler Brawl."
+  ],
+  "trailers": [],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Skeletal_Cynder",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "skeletal-cynder",
@@ -27,7 +49,7 @@
       "game": "Skylanders: Lost Islands (October 2013)",
       "image": "https://static.wikia.nocookie.net/skylanders/images/6/6f/Skeletal_Cynder.jpg/revision/latest?cb=20131114033837",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Skeletal_Cynder"
     }
   ]
