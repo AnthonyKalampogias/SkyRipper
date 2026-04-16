@@ -4,42 +4,147 @@
   "species": "Rhino",
   "gender": "Male",
   "element": "Fire",
+  "role": "Mini",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
-    "The Kaos Trap",
     "Skylanders: Trap Team",
-    "'Skylanders: Lost Islands",
-    "'Skylanders Issue 3",
-    "Skylanders Issue 12",
+    "Skylanders: Lost Islands",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands Miniverse"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "The Skylander Minis started off as regular \" Sidekicks ,\" assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-  "personality": "Small Fry has a short temper. It makes him a little hot under the collar. Like his mentor, Fryno, Small Fry always tells the truth, even when others don't want to hear it. He hates it when people lie and cheat. &#91; 1 &#93;",
-  "story": null,
+  "description": "Small Fry is the Mini counterpart of the Fire Skylander Fryno in Skylanders: Trap Team.",
+  "biography": "The Skylander Minis started off as regular 'Sidekicks,' assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "quote": "Crash and Burn!",
+  "personality": "Small Fry has a short temper, just like his mentor Fryno. He always tells the truth, even when it is uncomfortable, and he absolutely despises lying and cheating.",
+  "story": [
+    {
+      "story_name": "Academy Training",
+      "content": "Determined to be more than just sidekicks, Small Fry and the other Minis trained relentlessly at the Skylands Academy to prove their worth as heroes.",
+      "hasImage": false,
+      "imgPath": "none"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Crash and Burn!",
+        "I'm no small fry!",
+        "Feeling the heat!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the only Mini Skylander who is a counterpart of a character from Skylanders: Swap Force.",
+    "Some of his upgrades in the game code mistakenly refer to him as Fryno.",
+    "His name is a play on the idiom 'small fry', which refers to something insignificant or a young fish."
+  ],
+  "trailers": [],
+  "gameplay": "Small Fry plays identically to Fryno, utilizing fast melee punches and a high-speed motorcycle charge that allows him to zip across the battlefield.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Small_Fry",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Brawl",
+        "imgPath": "brawl_icon.png",
+        "content": "Punch enemies with fiery rhino fists.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#e23737",
+          "bg_content": "#f8a040"
+        }
+      },
+      {
+        "name": "Heated",
+        "imgPath": "heated_icon.png",
+        "content": "Release a burst of heat that damages nearby enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#e23737",
+          "bg_content": "#f8a040"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "The Horn and The Hog",
+        "imgPath": "horn_hog_icon.png",
+        "content": "Summon a flaming motorcycle to charge through enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#e23737",
+          "bg_content": "#f8a040"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Born to Ride",
+        "imgPath": "soulgem_icon.png",
+        "content": "The motorcycle charge lasts longer and deals more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#e23737",
+          "bg_content": "#f8a040"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Brawler",
+        "abilities": [
+          {
+            "name": "Hot Hands",
+            "imgPath": "hot_hands.png",
+            "content": "Increases the damage of punching attacks.",
+            "is_primary": true,
+            "is_secondary": false,
+            "price": 1000,
+            "colors": {
+              "header": "#e23737",
+              "bg_content": "#f8a040"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "small-fry",
+      "id": "small-fry-standard",
       "variant_name": "Small Fry",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Standard",
+      "type": "Mini",
       "game": "Skylanders: Trap Team",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Small_Fry_Promo.jpg/revision/latest?cb=20140813084342",
+      "image": "small_fry_toy.png",
       "attacks": [
         "Brawl",
         "Heated",
-        "The Horn And The Hog",
-        "Hot Hands",
-        "Born to Ride"
+        "The Horn and The Hog"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Power",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "130"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Small_Fry"
     }
   ]
