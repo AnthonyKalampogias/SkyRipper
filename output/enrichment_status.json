@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-15T21:39:07.049Z",
+  "last_run": "2026-04-16T03:12:37.917Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -1036,6 +1036,26 @@
     {
       "name": "Rocky Egg Roll",
       "sha": "e677246d65bf94ecc7cad00ab682e4c42bf65cd63ededcde51c5a456cb59de40"
+    },
+    {
+      "name": "Rocky Roll",
+      "sha": "c941924da53c1b22006d7414049b6e4e38bf591f3aaf822d74c7697802c34740"
+    },
+    {
+      "name": "Roller Brawl",
+      "sha": "b458ca177c9009dbaae3dae8183e873a04b5ad348f2c025f4e5b8aea86a4e104"
+    },
+    {
+      "name": "Royal Double Trouble",
+      "sha": "23bf90a1f94295ef984584614dffcfa9bcafee016ddab8d6a8ef907b2d31702d"
+    },
+    {
+      "name": "Rubble Rouser",
+      "sha": "6b31d68974a82c89d973de505975cbf38faa645a797af5fcc7ea05c47db8e6ef"
+    },
+    {
+      "name": "Scarlet Ninjini",
+      "sha": "3a8665cb7ae8e35489b3ee2c2da870729338a0ebbbf047d451ddd7e66b3e25c7"
     }
   ]
 }
