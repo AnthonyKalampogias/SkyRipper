@@ -1,9 +1,10 @@
 {
   "id": "rocky-roll",
   "name": "Rocky Roll",
-  "species": "Rocky: Rock Digger Roll: Living Boulder",
+  "species": "Rocky: Rock Digger, Roll: Living Boulder",
   "gender": "Male",
   "element": "Earth",
+  "role": "Core Skylanders",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -13,22 +14,253 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Rocky and Roll are a rock digger and a sentient boulder, together known as Rocky Roll. Together, they are one of the Earth core Skylanders in Skylanders: Trap Team.",
   "biography": "Rocky was a rock digger who wanted to make a difference, and Roll was a boulder that wanted to see the world. The two of them had known each other since they were young and in mining school together. They had shared the same goal – making the sacred journey to Peek’s Peak, where it was said that one’s destiny reveals itself. But time went on, and it wasn’t until many years later that they found each other traveling the same path towards the mythical peak. The connection that was established years before had finally taken shape, and the two realized they were meant to journey far and wide together – as Rocky Roll. After several adventures together, they met Master Eon by chance, who recognized that their connection was special. Now as an awesome Skylander duo, Rocky Roll will crush anything that threatens Skylands!",
-  "personality": "Rocky Roll loves helping others. There isn't anything they wouldn't do for their pals. Their friendship is as solid as a rock! &#91; 2 &#93;",
-  "story": null,
+  "quote": "Roll With It!",
+  "personality": "Rocky Roll loves helping others. There isn't anything they wouldn't do for their pals. Their friendship is as solid as a rock! [2]",
+  "story": [
+    {
+      "story_name": "Light in the Dark",
+      "content": "Rocky Roll was one of the Skylanders that accompanied Gearshift to combat Pain-Yatta's army of candy warriors. As they were cornered by the candy army within the fortress, Rocky Roll and the other Skylanders served as Skylands' last line of defense, battling Pain-Yatta's army with all of their might. The candy army soon fell to pieces just as the Skylanders were becoming overwhelmed (thanks to the actions of the Light and Dark Skylanders in their fight against Pain-Yatta), earning the heroes their victory.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Roll With It!",
+        "Let's rock!",
+        "Let's roll!",
+        "Rollin' the dough!",
+        "Roll with the punches!",
+        "Avalanche!",
+        "Oh yeah!",
+        "Rock and roll! - when leveling up",
+        "On a roll! - when leveling up",
+        "Looking Solid! - when checking stats",
+        "In for the long haul! - when checking stats"
+      ]
+    }
+  ],
+  "trivia": [
+    "Rocky Roll, along with Eye-Brawl, Fright Rider and Eye-Small, are currently the only Skylanders who are composed of two different characters in a symbiotic relationship.",
+    "Rocky is one of the many one-eyed Skylanders.",
+    "Rocky Roll and Gearshift are the only characters to have the same number for all stats.",
+    "Rocky Roll's name is probably a combination of 'Rock and Roll' and 'Rocky Road' (a type of ice cream).",
+    "Snap Shot, Bash and Wrecking Ball have catchphrases based on 'Rock and Roll'.",
+    "Without Roll, Rocky shares his name with a Stone Golem from Terrafin Battles the Boom Brothers.",
+    "'Rocky Boxing' is the only upgrade of the 'Rolling Rumbler' upgrade path that is not a catchphrase of a Skylander ('Roll With the Punches' is the same as Night Shift's catchphrase and 'Let's Roll!' is the same as Roller Brawl's catchphrase).",
+    "If a player selects a hat for Rocky Roll, Rocky's miner helmet gets replaced. However, Rocky's original headgear can be seen along with another hat when placed on the portal and shown in his character in-game profile.",
+    "Roll resembles a Geodude from Pokémon while in Bounce Mode.",
+    "Rocky is one of the shortest Skylanders, along with Short Cut, Blastermind, and Smash Hit.",
+    "If Rocky, without Roll, is considered the smallest Skylander as of Imaginators.",
+    "Rocky Roll is voiced by Billy West, who also voiced the SWAP Force Skylanders, Freeze Blade, Fire Kraken; and the Life Skylander Food Fight. West also voiced Sparx the Dragonfly in the 2007 video game, The Legend of Spyro: The Eternal Night.",
+    "When driving a vehicle in Skylanders: SuperChargers, Roll will sometimes go missing and sometimes overlap with Rocky.",
+    "Most Rocky Roll figures are wobbly on the base. Due to how widespread this is, this may have been an intentional feature to give him playability as a toy."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Rocky Roll",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Rocky_Roll"
+    },
+    {
+      "name": "Skylanders Trap Team - Rocky Roll's Soul Gem Preview (Roll With It)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Rocky_Roll%27s_Soul_Gem_Preview_(Roll_With_It)"
+    }
+  ],
+  "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games. Health: 270 (max. 540), Speed: 60 (max. 108), Armor: 30 (max. 60), Critical Hit: 40 (max. 90), Elemental Power: 25 (max. 75).",
   "wiki_url": "https://skylanders.fandom.com/wiki/Rocky_Roll",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Spit Ball",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Rocky_Rollprimarypower.png/revision/latest?cb=20150630030837",
+        "content": "Press Attack 1 to have Roll spit out a bouncing rock projectile.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Boulder Dash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/04/Rocky_Rollsecondarypower.png/revision/latest?cb=20150630030927",
+        "content": "Press Attack 2 to perform a Boulder Dash charge attack.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Boulder Barrier",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5d/Rocky_Rollbasicupgrade1.png/revision/latest?cb=20150630031046",
+        "content": "Press Attack 3 to form a protective Boulder Barrier, then press Attack 3 again to launch the boulders out.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Rock On",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/73/Rocky_Rollbasicupgrade2.png/revision/latest?cb=20150630031114",
+        "content": "Spit Ball and Boulder Barrier attacks do more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Bouncy Attack Mode",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ea/Rocky_Rollbasicupgrade3.png/revision/latest?cb=20150630031212",
+        "content": "Press Attack 3 to create Boulder Barriers, then hold Attack 2 to enter Bouncy Attack Mode.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "MOH Boulders",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/47/Rocky_Rollbasicupgrade4.png/revision/latest?cb=20150630031245",
+        "content": "Press Attack 3 to increase the amount of boulders in the Boulder Barrier from 3 to 6.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Boulder Posse",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Rocky_Rollsoulgempower.png/revision/latest?cb=20150630030957",
+        "content": "Press Attack 3 to increase the amount of boulders in the Boulder Barrier all the way up to nine.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Geological Grandmaster",
+        "abilities": [
+          {
+            "name": "Super Spit Ball",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8d/Rocky_Rollpath1upgrade1.png/revision/latest?cb=20150630031426",
+            "content": "Hold Attack 1 to charge up your Spit Ball into a giant boulder projectile.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Rock Hardest",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Rocky_Rollpath1upgrade2.png/revision/latest?cb=20150630031456",
+            "content": "Spit Ball and Boulder Barrier attacks do maximum damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Triple Spit Balls",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Rocky_Rollpath1upgrade3.png/revision/latest?cb=20150630031524",
+            "content": "Shoot 3 Spit Balls at once that ricochet into smaller boulders.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Rolling Rumbler",
+        "abilities": [
+          {
+            "name": "Let's Roll!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Rocky_Rollpath2upgrade1.png/revision/latest?cb=20150630031552",
+            "content": "Rapidly press Attack 2 to speed up the Boulder Dash for more damage and speed.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Roll With The Punches",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Rocky_Rollpath2upgrade2.png/revision/latest?cb=20150630031615",
+            "content": "In Bouncy Attack Mode, press Attack 1 to perform spinning fist attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Rocky Boxing",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/97/Rocky_Rollpath2upgrade3.png/revision/latest?cb=20150630031643",
+            "content": "In Bouncy Attack Mode, press Attack 2 to throw a dashing punch attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "rocky-roll",
       "variant_name": "Rocky Roll",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Rocky_Roll_Promo.jpg/revision/latest?cb=20150315230107",
       "attacks": [
@@ -38,7 +270,28 @@
         "Super Spit Ball",
         "Let's Roll!"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60 (max. 108)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30 (max. 60)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40 (max. 90)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Rocky_Roll"
     }
   ]
