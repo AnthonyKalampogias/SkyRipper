@@ -4,6 +4,7 @@
   "species": "Griffin",
   "gender": "Female",
   "element": "Air",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -17,24 +18,326 @@
     "Skylanders: Trap Team",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Battlecast",
-    "Skylanders: Imaginators}}"
+    "Skylanders: Imaginators"
   ],
-  "cameos": "*Trigger Happy Targets the Evil Kaos *Return of the Dragon King",
+  "cameos": [
+    "Trigger Happy Targets the Evil Kaos",
+    "Return of the Dragon King"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Long ago, Sonic Boom took refuge high atop a mountain peak in the far reaches of Skylands , hoping to keep her griffin hatchlings safe. But despite her precautions, a devious wizard tracked her down and placed a wicked curse on the griffin eggs. Once hatched, the young hatchlings can live for only mere moments before they magically return to their shells... only to be hatched again in an endless cycle. Wanting to prevent such evil from happening to others, Sonic Boom joined the Skylanders and has trained her young to defend Skylands each time they are hatched.",
-  "personality": "Sonic Boom is described as the maternal individual of the Skylanders since she and her young are the only Skylanders who fight evil as a family. As protective as only a mother can be, maternal Sonic Boom shelters all who need help beneath her wings. &#91; 2 &#93; She also dislikes bullying.&#160;Sonic Boom can also be sensitive, as demonstrated in Terrafin Battles the Boom Brothers when she looked hurt after Terrafin yelled at the griffin in order to get through Sonic Boom's screeching.",
-  "story": null,
+  "description": "Sonic Boom is a black and blue griffin in Skylanders: Spyro's Adventure. She is part of the Air element.",
+  "biography": "Long ago, Sonic Boom took refuge high atop a mountain peak in the far reaches of Skylands, hoping to keep her griffin hatchlings safe. But despite her precautions, a devious wizard tracked her down and placed a wicked curse on the griffin eggs. Once hatched, the young hatchlings can live for only mere moments before they magically return to their shells... only to be hatched again in an endless cycle. Wanting to prevent such evil from happening to others, Sonic Boom joined the Skylanders and has trained her young to defend Skylands each time they are hatched.",
+  "quote": "Full scream ahead!",
+  "personality": "Sonic Boom is described as the maternal individual of the Skylanders since she and her young are the only Skylanders who fight evil as a family. As protective as only a mother can be, maternal Sonic Boom shelters all who need help beneath her wings. She also dislikes bullying. Sonic Boom can also be sensitive, as demonstrated in Terrafin Battles the Boom Brothers when she looked hurt after Terrafin yelled at the griffin in order to get through Sonic Boom's screeching.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "When Sonic Boom chose the highest mountain peak to lay her eggs, little did she know that she was being watched by an evil wizard? Wearing a cloak of invisibility, the wizard made his way to Sonic Boom's nest, where he hoped to snatch a baby griffin feather for one of these wicked spells. Wizards live on a disgusting diet of liver and Brussels sprouts so, while Sonic Boom could not see an egg-thief, she could certainly smell one. She filled the sky with an ear-shattering shriek and the wizard stumbled backwards out of his cloak. But as he fell, the wizard put the young hatchlings under a cruel curse. Now, the babies can only break from their eggshells, for mere minutes before returning to one of their eggs, trapped in an endless cycle of rebirth. Sonic Boom and her hatchlings have used the curse to their advantage, however, and are now the first Skylanders to fight as a family. Their specialty is wiping out spout-stinking wizards.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Terrafin Battles the Boom Brothers",
+      "content": "Sonic Boom and her hatchlings were enjoying a day-off at the Fantastic Fairy Fair with fellow Skylanders, Terrafin and Hot Dog. The griffin mother heard someone crying nearby and the trio of Skylanders came upon Rocky, a Rock Golem who was taken from his home by the fair's owner Professor Puck because of his magical singing voice that made everyone within earshot dance. After saving Gurglefin from a sticky cluster of cotton candy, the Skylanders attended Puck's circus show with Rocky being the star attraction due to his singing. Soon, the show was interrupted when a group of Trolls and the evil Sweet-O-Tron 3000 trapped everyone, including the Skylanders, under a layer of sticky candyfloss, and kidnapped Rocky under orders of Kaos, believing him to be the Earth segment to the Mask of Power. Thanks to Hot Dog's firepower, the Skylanders were able to free themselves and the crowd from the candyfloss. Both Sonic Boom and Hot Dog then assisted Terrafin and Sprocket in their battle against Kaos, the Trolls, and Sweet-O-Tron 3000, saving the circus from a sticky explosion but were unable to rescue Rocky. The Skylanders returned to the Eternal Archives after discovering a leftover clue that helped them learn about the Boom Brothers, a pair of robots responsible for making explosives. Figuring that that the Explosive Emporium is where Kaos had taken Rocky, Sonic Boom, Terrafin, Hot Dog, and Sprocket journeyed to Junk Mountain where the explosions factory laid. After getting past an aggressive Trash Ogre and the emporium's security, the Skylanders were able to sneak inside and find Rocky only to fall into a trap made by Kaos and the Boom Brothers. The evil Portal Master then forced the heroes to dance uncontrollably by throwing sticks of dynamite that contained Rocky's enchanted singing called disco dynamite. Terrafin quickly thought of a plan and instructed Sonic Boom to use her ear-piercing screech to drown the Boom Brother's disco dynamite and help stop the Skylanders from dancing. Thanks to this, the Skylanders were able to drive Kaos out of the room and sealed themselves inside the chamber, which turns out to be the inner section of a large rocket they were in. Kaos then threatened to blow the Skylanders sky-high should they refuse to let him and his troll army back inside the rocket and turn over Rocky to them. Even worse, the Boom Brothers recovered from the attack and were holding Hot Dog hostage, also threatening the Skylanders to surrender otherwise the robots would detonate the whole room using a pineapple grenade. Sonic Boom, along with the other Skylanders, refused to give up but was surprised when Terrafin admitted defeat. This soon turned out to be a plan quickly conjured by Terrafin, who tricked the Boom Brothers into arguing with one another until one of the brothers forced the pineapple grenade down his sibling's throat, causing them both to explode and release Hot Dog. With the danger of the Boom Brothers gone, there was still the threat of Kaos preparing to blow up the rocket they were in should they refuse to surrender Rocky. The Skylanders were able to escape, using the rocket to fly out of Junk Mountain and leaving Kaos and his troll army under what was left of the Explosive Emporium. Back at the Eternal Archive, the Skylanders discovered that the Earth segment wasn't Rocky, but his singing voice, which was given to him centuries ago by one of the Spell Punks who first split the Mask of Power. They soon accompanied Rocky back to the fair and attended his show, which turned out to be disastrous for Professor Puck when Rocky's true, terrible singing voice was heard. This caused the audience to turn against Puck as they paid him to hear Rocky sing his magical voice that he lost and proceeded to run Puck out of town, leaving the Skylanders and Rocky satisfied over their victory.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/26/SonicBoom_Rocky_Terrafin.png/revision/latest/scale-to-width-down/274?cb=20150421065403"
+    },
+    {
+      "story_name": "Trigger Happy Targets the Evil Kaos",
+      "content": "Sonic Boom was one of the Skylanders whose powers were stolen by Kaos with the use of the Mask of Power. She would later regain her screeching powers after the evil Portal Master was separated from the Mask of Power, and used her restored abilities, along with the other Skylanders, to destroy the Mask once and for all.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Full scream ahead!",
+        "Feathers of fury!",
+        "Let's go!",
+        "Flying high!",
+        "Protect and soar!",
+        "Spreading my wings!",
+        "Not bad.",
+        "Oooh, this should stop the windchill!",
+        "Different, but I like it!",
+        "Sounds good to me!",
+        "I like the way that sounds!",
+        "I'll take it!",
+        "Savings for the nest egg!",
+        "Time for battle!",
+        "Breaking the barrier!",
+        "Setting a new path!",
+        "Boom!",
+        "Super Sonic!"
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Full Scream Ahead!",
+        "Back in action!",
+        "Show time!",
+        "Time for a breather.",
+        "Taking a rest.",
+        "Spreading my wings!",
+        "Flying high!",
+        "Awesome gear!",
+        "Just what I needed!",
+        "Some extra help.",
+        "The best in the nest!",
+        "Down and out...",
+        "Back to the coop...",
+        "Just wait 'til next time...",
+        "Do I have egg on my face?",
+        "Yeah?",
+        "Hey there!",
+        "Are you for real?! Seriously?"
+      ]
+    }
+  ],
+  "trivia": [
+    "Sonic Boom will occasionally vocally make a caw or squawk sound. If her babies are around, they will respond back!",
+    "If Sonic Boom is at full health, her babies will eat nearby food, and get both larger and more powerful.",
+    "Sonic Boom's eyes are yellow in-game and in her trailer, but in toy form, they are green. However, in Giants, her eyes are greenish-yellow in the game.",
+    "Her Roar attack can light up purple Tzo Crystals, but it can't destroy them.",
+    "Her Wow Pow power, Super Baby, resembles a Gryphon/T-Rex hybrid as it walks on two legs, has tiny forearms, and a large head. Unlike her regular babies, the Super Baby only lasts about 1 minute before it has to be summoned again.",
+    "If you have purchased Resonant Frequency, roaring at the Super Baby gives it the ability to release a circular roar, damaging all enemies around it.",
+    "The Wizard's curse may have actually given her griffin babies a form of immortality, as they return to their eggshells after a short time, and hatch out young again, never to grow old, and they also return when dealt heavy damage, to hatch again as if nothing happened.",
+    "Sonic Boom is one of many Skylanders who can spawn helpers (others include Warnado, Terrafin, Double Trouble, Hot Head, Pop Fizz, Zoo Lou, Bat Spin, and Turbo Charge Donkey Kong).",
+    "She speaks with a British accent.",
+    "Her upgrade path 'Medea Griffin' alludes to the mythical Greek sorceress Medea, who was the wife of Jason.",
+    "Some fans mistake Sonic Boom for a Dragon. Due to not being voiced in Spyro's Adventure, some fans mistook her as male. Which is odd considering she lays eggs that hatch chicks.",
+    "Sonic Boom's quote 'Breaking the barrier!' is a reference to her name, as a sonic boom is created by breaking the sound barrier.",
+    "In her Series 2 figure form, Sonic Boom has a baby griffin by her side. She and Double Trouble are the only two Skylanders whose Series 2 figure forms have little helpers by their sides.",
+    "She bears a great resemblance to a Verreaux's Eagle.",
+    "Her catchphrase is a play on the phrase 'Full Steam Ahead!' and 'Full Speed Ahead!'.",
+    "While on promotional art she looks dark blue, Sonic Boom looks black and navy blue in toy form.",
+    "She is missing her armour in most of her upgrade pictures in Spyro's Adventure.",
+    "Sonic Boom is one of the few mothers in the Skylanders series (another includes Kaos' Mom).",
+    "She is one of the few Skylanders to have 'Boom' in her name.",
+    "Sonic Boom and Black Canary from the DC Universe share the same power: Ultrasonic Scream.",
+    "Sonic Boom's babies are programmed as enemies in Spyro's Adventure, which means that they count toward levels' enemy goals when defeated. Additionally, the babies can be squashed by a pushblock like other foes, and if they touch a candlestick in the crypt levels, they will take 100 damage and die."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventure - Sonic Boom Trailer (Full Scream Ahead)",
+      "isValid": false,
+      "url": "/wiki/File:Skylanders_Spyro%27s_Adventure_-_Sonic_Boom_Trailer_(Full_Scream_Ahead)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Sonic Boom Preview Trailer (Full Scream Ahead)",
+      "isValid": false,
+      "url": "/wiki/File:Skylanders_Spyro%27s_Adventure_-_Sonic_Boom_Preview_Trailer_(Full_Scream_Ahead)"
+    },
+    {
+      "name": "Skylanders Giants - Meet the Skylanders - Series 2 Sonic Boom (Full Scream Ahead)",
+      "isValid": false,
+      "url": "/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Series_2_Sonic_Boom_(Full_Scream_Ahead)"
+    }
+  ],
+  "gameplay": "Sonic Boom has the ability to shoot sonic waves from her mouth at her enemies. She can also toss out her eggs and her hatchlings will emerge out of their eggshells to attack surrounding enemies and follow Sonic Boom around for a short while, and they can also grow over time, improving their damage output, and a later upgrade lets them develop wings to help their movement speed increase. After a while, they magically return to their eggshells due to the wizard's curse and must be released from their eggs again before repeating the attacking process. The babies also return to their eggshells when damaged enough, ready to be hatched again. Enemies will also try to target the babies as well, so Sonic Boom can use them to set them up for a roar attack. With the Medea Griffin path, her babies become more powerful. Her first upgrade, Sunny Side Up, allows her to summon all three babies at once and also use the actual eggs to knock away opponents, making it easier for her roar to damage them. The second upgrade, Sibling Rivalry, allows her to summon a fourth baby, further increasing the possible damage output. Her final upgrade, Terrible Twos, has her babies hatch at their maximum strength, giving them the speed benefit in the beginning, as well as giving them a faster attack speed. With the Siren Griffin path, her roar becomes more effective. Her first upgrade, Echolocation, creates a sound wave wherever a roar hits an enemy, damaging nearby opponents. Since she can move while roaring, she can create multiple shockwaves that can hit clustered enemies multiple times. Her second upgrade, Egg Shocker, has her create a shockwave that knocks opponents away if her roar hits an egg. Finally, her third upgrade, More Boom!, lets her charge up a massive sound wave that hits all around her for massive damage.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Sonic_Boom",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Roar",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Sonic_Boomprimarypower.png/revision/latest?cb=20120407213024",
+        "content": "Unleash a deafening screech.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Egg Toss",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/35/Sonic_Boomsecondarypower.png/revision/latest?cb=20120407212849",
+        "content": "Launch an egg that hatches into a feisty baby.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Loudmouth",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/95/Sonic_Boombasicupgrade1.png/revision/latest?cb=20120407213050",
+        "content": "Roar attack does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Let There Be Flight",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/52/Sonic_Boombasicupgrade2.png/revision/latest?cb=20120407213148",
+        "content": "Your speed and armor are increased while flying.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Ride of the Valkyries",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5b/Sonic_Boombasicupgrade3.png/revision/latest?cb=20120407213204",
+        "content": "Babies can now fly too. They travel at increased speed while flying.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Three's A Crowd",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Sonic_Boombasicupgrade4.png/revision/latest?cb=20120407213222",
+        "content": "Have three babies active at once.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Resonant Frequency",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Sonic_Boomsoulgempower.png/revision/latest?cb=20120407212935",
+        "content": "Roar at babies and they will roar too. This only lasts for about 30 seconds.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Super Baby",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/67/Sonic_Boomwowpowpower.png/revision/latest?cb=20160724124849",
+        "content": "Hold Attack 2 to combine regular babies into one Super Baby! Lasts for about 1 minute.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Medea Griffin",
+        "abilities": [
+          {
+            "name": "Sunny Side Up",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a2/Sonic_Boompath1upgrade1.png/revision/latest?cb=20120407213244",
+            "content": "Lets you throw all eggs at once. Eggs will knock back enemies before hatching.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Sibling Rivalry",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/05/Sonic_Boompath1upgrade2.png/revision/latest?cb=20120407213303",
+            "content": "Have four babies active at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Terrible Twos",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ec/Sonic_Boompath1upgrade3.png/revision/latest?cb=20120407213323",
+            "content": "Babies hatch fully grown and attack faster.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Siren Griffin",
+        "abilities": [
+          {
+            "name": "Echolocation",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/41/Sonic_Boompath2upgrade1.png/revision/latest?cb=20120407213340",
+            "content": "Roar attack continues to expand on impact.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Egg Shocker",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b7/Sonic_Boompath2upgrade2.png/revision/latest?cb=20120407213359",
+            "content": "Roar at eggs to create a big shockwave that pushes enemies back.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "More Boom!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/05/Sonic_Boompath2upgrade3.png/revision/latest?cb=20120407213420",
+            "content": "Increase the damage and size of the Roar attack by holding down your primary button.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "sonic-boom",
+      "id": "sonic-boom-s1",
       "variant_name": "Sonic Boom",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core Skylander",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Sonic_Boom_shot.jpg",
       "attacks": [
@@ -44,7 +347,66 @@
         "Let there be Flight",
         "Egg Shocker"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 (max. 560)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Sonic_Boom"
+    },
+    {
+      "id": "sonic-boom-s2",
+      "variant_name": "Series 2 Sonic Boom",
+      "edition": "Series 2",
+      "type": "Core Skylander",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/55/Sonic_Boom_Series_2.jpg",
+      "attacks": [
+        "Sonic Roar",
+        "Egg Toss",
+        "Loudmouth",
+        "Let there be Flight",
+        "Egg Shocker"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 (max. 560)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Sonic_Boom"
     }
   ]
