@@ -4,6 +4,7 @@
   "species": "Scorpion",
   "gender": "Male",
   "element": "Earth",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -12,22 +13,256 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Salt Flat Islands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Scorp is a rock scorpion who is one of the Earth Core Skylanders released alongside Skylanders: Swap Force.",
   "biography": "Scorp was raised in the Salt Flat Islands, an endless flat plain of rock where every day is very hot. To keep themselves entertained, the residents live for the sport of Sting Ball, an extreme game that only the strongest play to become King of Sting -- a title Scorp had won numerous times. During his last championship game, the opposing team cheated by using an enchanted water gem to make it rain. But the spell got out of control and soon a raging thunderstorm flooded the land. Using his powerful claws and incredible agility, Scorp bravely battled the rising waters to retrieve the gem and hurl it far into the clouds, breaking the spell and saving everyone. Seeing how his abilities could be used for more than sport, Scorp soon sought out and joined the Skylanders.",
-  "personality": "Rough-and-tumble Scorp is a real tough guy, but his experience with the gem taught him he could use his amazing abilities for more than just sport. &#91; 3 &#93;",
-  "story": null,
+  "quote": "King of the Sting!",
+  "personality": "Rough-and-tumble Scorp is a real tough guy, but his experience with the gem taught him he could use his amazing abilities for more than just sport.",
+  "story": [
+    {
+      "story_name": "Character Development",
+      "content": "Scorp's tail spike attack originally came from a scrapped Earth Skylander character named Aftershock. Vicarious Visions really liked the Aftershock character, so when they had to scrap him, they implemented his tail spike roll for Scorp's design. During development, Scorp was originally designed having one claw and one hand. Alternate concepts included a two-handed, sword-wielding design, design with claws inside his pincers, and a design with a brown-and-white color scheme and differing carapace.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "Scorp was raised in the Salt Flat Islands, an endless flat plain of rock where every day is very hot. To keep themselves entertained, the residents live for the sport of Sting Ball, an extreme game that only the strongest play to become King of Sting -- a title Scorp had won numerous times. During his last championship game, the opposing team cheated by using an enchanted water gem to make it rain. But the spell got out of control and soon a raging thunderstorm flooded the land. Using his powerful claws and incredible agility, Scorp bravely battled the rising waters to retrieve the gem and hurl it far into the clouds, breaking the spell and saving everyone. Seeing how his abilities could be used for more than sport, Scorp soon sought out and joined the Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "King of the Sting!",
+        "Pick your poison!",
+        "The tail will prevail!",
+        "I bring the sting!",
+        "Ready to strike!",
+        "Tails, you lose!",
+        "Power sting!",
+        "Power boost!",
+        "I always do my best!",
+        "Clawing my way up!",
+        "A striking look for me!",
+        "More protection for my head!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Scorp likes to sleep underground, or beneath large rocks. Once, after a hard day of battling evil, he curled under a boulder to have a nap. He didn't realize, though, that the boulder was actually one of Crusher's feet. It was only Scorp's tough armoured body that saved him from being squished flat!",
+    "He slightly resembles Scorponok from Beast Wars.",
+    "His catchphrase is similar to Swarm's catchphrase, which is 'Bring the Sting'.",
+    "One of his upgrades has a name similar to the Scorpion Striker.",
+    "Another is similar to the title of a Kirby game on the Nintendo 64, Kirby 64: the Crystal Shards.",
+    "He and Rattle Shake are the only known Skylanders who can poison their opponents.",
+    "His voice actor, Rino Romano, is also the voice of the narrator from Curious George and other animated films and Batman from the TV series, The Batman.",
+    "He also voices the Sensei, King Pen.",
+    "Scorp is currently the only arthropod Skylander who is not an insect or crustacean.",
+    "During his portal moments in Superchargers and Imaginators, he makes a stinging animation with his tail which he never did in previous games."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Scorp (King of the Sting)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Scorp_(King_of_the_Sting)"
+    },
+    {
+      "name": "Skylanders Swap Force - Scorp Soul Gem Preview (King of the Sting)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Scorp_Soul_Gem_Preview_(King_of_the_Sting)"
+    }
+  ],
+  "gameplay": "Scorp is an Earth element Skylander who specializes in sticky crystal projectiles and poisonous tail strikes. He uses his powerful claws and high agility to navigate the battlefield, often curling into a ball for a high-speed Shoulder Roll or Avalanche Dash. His playstyle allows for a choice between focusing on venomous damage over time or enhancing the explosive power and area-of-effect of his crystal attacks.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Scorp",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Emerald Crystal",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Scorpprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170504145914",
+        "content": "Press Attack 1 to throw a sticky explosive ball.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Tail Sting",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/35/Scorpsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170504145918",
+        "content": "Press Attack 2 to sting the ground nearby and poison enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Shoulder Roll",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/Scorpbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504145924",
+        "content": "Hold Attack 3 to curl up into a ball and roll around, damaging enemies in the way.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Chrome Carapace",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/68/Scorpbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504145930",
+        "content": "Armor is increased. New stone plating causes enemies' attacks to do less damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Crystal Ball",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Scorpbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504145934",
+        "content": "Hold Attack 1 to charge a crystal attack, release to smash two crystals together and throw a massive sticky ball.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Earthly Power",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Scorpbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170504145940",
+        "content": "Press Attack 1 to throw a sticky explosive crystal that now does increased damage to an enemy.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Avalanche Dash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Scorpsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170504145948",
+        "content": "Hold Attack 3 to curl up into a ball and roll around. Dashing now lasts as long as Attack 3 is held.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Stinger",
+        "abilities": [
+          {
+            "name": "Fuming Fissure",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b6/Scorppath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504150145",
+            "content": "Press Attack 2 to strike the ground with a poison tail and cause a shock wave that shoots toward enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Scorpion Strike",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Scorppath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504150150",
+            "content": "Poison from tail strike does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Potent Poisons",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Scorppath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504150155",
+            "content": "Press Attack 2 to strike with a poison tail that does damage to enemies over a longer amount of time.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Crystal Venomancer",
+        "abilities": [
+          {
+            "name": "Cracked Crystal",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7d/Scorppath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504150522",
+            "content": "Press Attack 1 to throw a powerful, sticky explosive that now does damage to enemies in a larger area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Crystal Shards",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Scorppath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504150527",
+            "content": "Emerald Crystal attacks now do even more damage. So pretty, yet so painful!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Venomous Crystals",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Scorppath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504150529",
+            "content": "When Crystal Ball explodes, it splits into two smaller crystals.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "scorp",
       "variant_name": "Scorp",
       "edition": "Series 1",
-      "type": "Sensei",
+      "type": "Core",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Scorp-promo.jpg/revision/latest?cb=20140617030938",
       "attacks": [
@@ -37,7 +272,28 @@
         "Fuming Fissure",
         "Cracked Crystal"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260 (max. 520)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 (max. 83)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Scorp"
     }
   ]
