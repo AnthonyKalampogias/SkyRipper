@@ -4,26 +4,115 @@
   "species": "Warsupial",
   "gender": "Male",
   "element": "Earth",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Steel Plated Smash Hit is an alter ego of the Earth SuperCharger, Smash Hit in Skylanders: SuperChargers.",
   "biography": "It is widely known that few Skylanders enjoy demolition more that Smash Hit. But after finishing runner-up to Crusher in last year's annual Destruct-o-Thon, Smash Hit decided to enter this year's competition better prepared. Now reinforced with indestructible Skytanium steel, the young Warsupial is primed and ready to smash anything and everything the competition can throw his way!",
-  "personality": null,
-  "story": null,
+  "quote": "Let's Rock!",
+  "personality": "Smash Hit is a determined competitor who loves demolition and takes pride in being prepared for any challenge.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "It is widely known that few Skylanders enjoy demolition more that Smash Hit. But after finishing runner-up to Crusher in last year's annual Destruct-o-Thon, Smash Hit decided to enter this year's competition better prepared. Now reinforced with indestructible Skytanium steel, the young Warsupial is primed and ready to smash anything and everything the competition can throw his way!",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Let's Rock!"
+      ]
+    }
+  ],
+  "trivia": [],
+  "trailers": [],
+  "gameplay": "Steel Plated Smash Hit's attacks include Demolisher, Crushinator, Connect and Disconnect, Heap, and G'Day. He focuses on high-impact demolition and flail-based combat.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Steel_Plated_Smash_Hit",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Demolisher",
+        "imgPath": "",
+        "content": "Smash Hit swings his massive flail to demolish enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Crushinator",
+        "imgPath": "",
+        "content": "Smash Hit uses his flail to crush everything in his path.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Connect and Disconnect",
+        "imgPath": "",
+        "content": "A tactical move involving the connection and disconnection of his flail.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Heap",
+        "imgPath": "",
+        "content": "A powerful move to pile on the damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "G'Day",
+        "imgPath": "",
+        "content": "A powerful finishing move and Smash Hit's signature Soul Gem ability.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "steel-plated-smash-hit",
       "variant_name": "Steel Plated Smash Hit",
-      "edition": "Series 1",
+      "edition": "Steel Plated",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
       "image": "https://static.wikia.nocookie.net/skylanders/images/2/26/Steel_Plated_Smash_Hit_Promo.jpg/revision/latest?cb=20150916001718",
@@ -34,7 +123,7 @@
         "Heap",
         "G'Day"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Steel_Plated_Smash_Hit"
     }
   ]
