@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-17T15:23:34.073Z",
+  "last_run": "2026-04-17T21:17:06.203Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -1172,6 +1172,38 @@
     {
       "name": "Stealth Elf",
       "sha": "3fdc1dd58ea55da54b70e6253ca5fd264ac77e57abd018754a22e37ac846b47d"
+    },
+    {
+      "name": "Steel Plated Hood Sickle",
+      "sha": "5b89580c5ad324f57449af7aa198765ea5d91393cc3455ce7f73f8cdd5996bee"
+    },
+    {
+      "name": "Steel Plated Smash Hit",
+      "sha": "9e5d5bbfde93aaa8742eaab7a3699b457dba51803b2f504a27b529530dc1988c"
+    },
+    {
+      "name": "Stink Bomb",
+      "sha": "556b95ad78083acc04d304760f975a0fe29dc83119c00e21a6e8bec5ada5a703"
+    },
+    {
+      "name": "Stormblade",
+      "sha": "c4d3c03c4697c8fe116f0c37aa4b0f7e3fae1f6908ca12714fb49e0b67fcf6b6"
+    },
+    {
+      "name": "Stump Smash",
+      "sha": "35d05c3e93f7596a33c5dec58ab3977dcc2d062b30f4a56bcb71ceb231753fea"
+    },
+    {
+      "name": "Sun Dragon",
+      "sha": "a3249d2f36113ecdc71a349c0e7b8f4aa620eb6eb0a359421e67fc371fda7180"
+    },
+    {
+      "name": "Sunburn",
+      "sha": "efef410733b0cdb8e9888cc6ea2c8c20c6d3d842aa71710ae9bcef8b19c49b30"
+    },
+    {
+      "name": "Sundae Slobber Tooth",
+      "sha": "62d5d6009903a907139ac9bd48225fe5b699a9896e6c9118fb73e0bf1110a9cf"
     }
   ]
 }
