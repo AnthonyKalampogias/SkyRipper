@@ -4,6 +4,7 @@
   "species": "Light Dragon",
   "gender": "Female",
   "element": "Light",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -12,22 +13,289 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Rift into Overdrive",
+  "cameos": [
+    "Rift into Overdrive"
+  ],
   "world": [
     "Prismatic Palace"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Spotlight was discovered by Master Eon in the Prismatic Palace, where the Portal Master had ventured seeking the Crystal Orb of Light. Upon finding the Orb, Eon reached out and gently touched it – causing a brilliant light to emanate in all directions. Having been infused with Eon’s magic, the Orb glowed magnificently. And when Eon slowly lowered his hand from his shielded eyes, Spotlight stood before him in a respectful bow. Her power of Light was unknown to him, for it was not of the eight common Elements in Skylands . But sensing that the Ancients sent Spotlight to him for a reason, he took her to the Core of Light and trained her to defend it as a member of the Skylanders. And when none other than evil Portal Master Kaos destroyed it – Spotlight vanished!",
-  "personality": null,
-  "story": null,
+  "description": "Spotlight is a white dragon who is the Light Core Skylander in Skylanders: Trap Team.",
+  "biography": "Spotlight was discovered by Master Eon in the Prismatic Palace, where the Portal Master had ventured seeking the Crystal Orb of Light. Upon finding the Orb, Eon reached out and gently touched it – causing a brilliant light to emanate in all directions. Having been infused with Eon's magic, the Orb glowed magnificently. And when Eon slowly lowered his hand from his shielded eyes, Spotlight stood before him in a respectful bow. Her power of Light was unknown to him, for it was not of the eight common Elements in Skylands. But sensing that the Ancients sent Spotlight to him for a reason, he took her to the Core of Light and trained her to defend it as a member of the Skylanders. And when none other than evil Portal Master Kaos destroyed it – Spotlight vanished!",
+  "quote": "Time to Shine!",
+  "personality": "Spotlight is a respectful and loyal dragon who was chosen by the Ancients to defend the Core of Light. She carries herself with dignity, showing a deep sense of duty toward Master Eon and the safety of Skylands.",
+  "story": [
+    {
+      "story_name": "Light in the Dark (Ambush)",
+      "content": "After eating a piece of candy and being unconscious for an unknown amount of time, Spotlight and Blackout found themselves inside an strange place, with an opening at the top. However, before they could do anything, the area started to become flooded with candy, threatening to drown the two Skylanders. Spotlight and Blackout were unable to break themselves out on their own, but by combining their Light and Dark powers, they managed to escape. They discovered they had been inside a giant piñata within Arkeyan ruins. As Spotlight and Blackout quickly flew away to alert Master Eon, from afar, Pain-Yatta announced his plans of a 'candy catastrophe' and that the Skylanders wouldn't be able to stop it in time.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Blackout_Spotlight.png/revision/latest?cb=20150526025726"
+    },
+    {
+      "story_name": "Light in the Dark (The Army)",
+      "content": "After reporting back to Master Eon about what happened to them, Spotlight and Blackout soon discovered through Gearshift that Pain-Yatta used their Light and Dark powers to create an army of Candy Soldiers in his attempt to rule Skylands. Upon learning of Pain-Yatta's plan, Master Eon sent Spotlight and Blackout back to the Arkeyan ruins in order to find out any clues about the attack. Once there, the two dragons were ambushed by a horde of candy warriors until Knight Light and Knight Mare came to assist their fellow Skylanders. However they were soon confronted by Pain-Yatta, who released a wave of candy upon the four Light and Dark Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Light in the Dark (The Victory)",
+      "content": "Spotlight, Blackout, Knight Light and Knight Mare became imprisoned inside Pain-Yatta's giant pinata to power him and his army of candy warriors during their impending conquest over Skylands. Should they use their powers of Light and Dark to try and escape their prison, they would only make Pain-Yatta and his army stronger. Eventually the Skylanders concocted a plan to overload the pinata with their powers, causing it to explode and allowing the Skylanders to escape. Despite absorbing the Light and Dark energies to empower himself, Pain-Yatta suddenly became sick from taking in too much power and his candy warriors around Skylands dropped to pieces, resulting in Pain-Yatta's defeat. At the Skylanders Academy, Master Eon congratulated the Light and Dark Skylanders for their efforts in saving Skylands once again, this time with with their Light and Dark abilities.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Time to Shine!",
+        "Rise and shine!",
+        "See the light!",
+        "Step into the light!",
+        "Outshining the rest!",
+        "Beware my glare!",
+        "The light to fight!",
+        "Razzle dazzle!",
+        "On the spot!",
+        "Go time!",
+        "Light it up!",
+        "Into the light!",
+        "Stellar performance!",
+        "Quick as a flash!",
+        "Brilliant!",
+        "Up high!",
+        "Rising up!",
+        "Oh yeah!",
+        "Lighting the way!",
+        "Shine on!",
+        "X marks the spot!",
+        "All that glitters!",
+        "Full bloom!",
+        "Brighter than the sun!",
+        "My future is looking bright!",
+        "Illuminating numbers!",
+        "A true vision!",
+        "Looking quite radiant!",
+        "This name is spot on!",
+        "A brilliant-sounding name!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Spotlight is the only core Skylander of the Light Element as of Imaginators.",
+    "Her attack pattern is similar to Flashwing, as both Skylanders use light-based attacks. Both dragon Skylanders also share few battle phrases, including one that is Spotlight's catchphrase, 'Time to Shine!' and 'Outshining the rest!'",
+    "Spotlight also has a very similar play style to Prism Break, where both Skylanders fire beams and summon items (rings for Spotlight and crystals for Prism Break) to refract said beams.",
+    "She and Aurora are the only female Light Skylanders.",
+    "Spotlight's battle cry 'See the light!' is shared by Knight Light's catchphrase 'See the Light!'.",
+    "Spotlight and Knight Light are the only Light Skylanders to bear the Light Element symbol.",
+    "She is generally considered a Light counterpart to the Dark Skylander Blackout, considering they are both Dragons, both the only core Skylander of their element within Trap Team, and were both released alongside the Trap Masters of the same elements, being Knight Light and Knight Mare respectively.",
+    "She is relatively similar to Star Strike: Both of their attacks are linked with light, they both possess featureless eyes, and they are both voiced by Misty Lee.",
+    "One of her 3DS upgrades, Spotlight, shares the same name as her.",
+    "There is a glitch in which, after using Spotlight for a while, her 'Light Dragons' power stops working. To remedy this, Spotlight must be removed from the portal, then placed back onto it.",
+    "She and Drobot are both dragons that use eye beams.",
+    "Like Flashwing, Echo, Whirlwind and Cynder, Spotlight is a female dragon with no visible teeth."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Spotlight",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Spotlight"
+    },
+    {
+      "name": "Skylanders Trap Team - Spotlight's Soul Gem Preview (Time to Shine)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Spotlight%27s_Soul_Gem_Preview_(Time_to_Shine)"
+    },
+    {
+      "name": "Skylanders Power Play Spotlight",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Spotlight"
+    }
+  ],
+  "gameplay": "Spotlight can shoot powerful eyebeams and throw golden halo rings that reflect the eye lasers onto enemies. Spotlight can summon a pillar of heavenly energy to erupt from the ground which damages foes near it. Her Soul Gem allows her to create other light dragons from the heavenly aura when zapped with her eyebeams.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Spotlight",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Eye Beams",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e9/Spotlightprimarypower.png/revision/latest?cb=20150318082128",
+        "content": "Press Attack 1 to fire concentrated beams of light.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Halo Rings",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5c/Spotlightsecondarypower.png/revision/latest?cb=20150318082218",
+        "content": "Press Attack 2 to release Halo Rings, which damage enemies and refract Eye Beams.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Bright Eyes",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/44/Spotlightbasicupgrade1.png/revision/latest?cb=20150318082310",
+        "content": "Eye Beams do more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Heavenly Aura",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e9/Spotlightbasicupgrade2.png/revision/latest?cb=20150318082400",
+        "content": "Press Attack 3 to create a Heavenly Aura, damaging enemies inside.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "The Halo Effect",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Spotlightbasicupgrade3.png/revision/latest?cb=20150318082502",
+        "content": "Hitting enemies with Halo Rings slows them down.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      },
+      {
+        "name": "Hello Halos",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/15/Spotlightbasicupgrade4.png/revision/latest?cb=20150318082552",
+        "content": "Can have more Halo Rings active at a time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Light Dragons",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Spotlightsoulgempower.png/revision/latest?cb=20151001234743",
+        "content": "Shoot a Heavenly Aura with Eye Beams to create Light Dragons who attack enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Visionary",
+        "abilities": [
+          {
+            "name": "Aura Charge",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/85/Spotlightpath1upgrade1.png/revision/latest?cb=20151001234820",
+            "content": "Shoot a Heavenly Aura with Eye Beams to power it up and do more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Light It Up",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Spotlightpath1upgrade2.png/revision/latest?cb=20151001234854",
+            "content": "Eye Beams do even MORE damage and have longer range.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Bling",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/52/Spotlightpath1upgrade3.png/revision/latest?cb=20151001234921",
+            "content": "Shoot two Halo Rings at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "The Ringer",
+        "abilities": [
+          {
+            "name": "Heavy Halo",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Spotlightpath2upgrade1.png/revision/latest?cb=20151001235000",
+            "content": "Halo Rings are larger and do more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Ring Shot",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6d/Spotlightpath2upgrade2.png/revision/latest?cb=20151001235227",
+            "content": "Halo Rings shoot light beams of their own.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          },
+          {
+            "name": "Uplifting Experience",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7e/Spotlightpath2upgrade3.png/revision/latest?cb=20151001235039",
+            "content": "Light enemies caught in Halo Rings up with the Heavenly Aura.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FE7",
+              "bg_content": "#FFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "spotlight",
       "variant_name": "Spotlight",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core Skylander",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Spotlight_Promo.jpg/revision/latest?cb=20221225040407",
       "attacks": [
@@ -37,7 +305,28 @@
         "Aura Charge",
         "Heavy Halo"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60 (max. 108)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "36 (max. 66)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20 (max. 70)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "35 (max. 85)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Spotlight"
     }
   ]
