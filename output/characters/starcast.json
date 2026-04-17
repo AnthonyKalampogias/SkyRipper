@@ -4,21 +4,293 @@
   "species": "Alien",
   "gender": "Male",
   "element": "Dark",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Unknown"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "No one knows where Starcast came from, including Starcast himself! He was first seen falling out of the sky and landing directly on top of Master Eon , after he had made a wish for a Ninja Master to train the new generation of Skylanders. While it appeared that Eon’s wish had come true, it was later revealed that Pop Fizz had simultaneously made a wish to get out of anger management lessons with the old Portal Master . Therefore, it was impossible to determine if Starcast was the result of one wish or the other. But after a brief martial arts display, it was clear to all that the mysterious Starcast was a very skilled ninja warrior. And seeing as how Master Eon had to walk around in crutches for the next few weeks, it was also clear that anger management class would have to be postponed – so it was a win-win!",
-  "personality": null,
-  "story": null,
+  "description": "Starcast is a black alien with four arms, each holding a star. He wears a gold helmet and the sensei gold belt. He is a Dark Sensei who trains Imaginators of the Ninja Battle Class.",
+  "biography": "No one knows where Starcast came from, including Starcast himself! He was first seen falling out of the sky and landing directly on top of Master Eon, after he had made a wish for a Ninja Master to train the new generation of Skylanders. While it appeared that Eon's wish had come true, it was later revealed that Pop Fizz had simultaneously made a wish to get out of anger management lessons with the old Portal Master. Therefore, it was impossible to determine if Starcast was the result of one wish or the other. But after a brief martial arts display, it was clear to all that the mysterious Starcast was a very skilled ninja warrior. And seeing as how Master Eon had to walk around in crutches for the next few weeks, it was also clear that anger management class would have to be postponed – so it was a win-win!",
+  "quote": "A Shot in the Dark!",
+  "personality": "Starcast is a mysterious and very skilled ninja warrior who fell from the sky to train the next generation of Skylanders.",
+  "story": [
+    {
+      "story_name": "Physical Traits",
+      "content": "Starcast is a black alien with four arms, each holding a star. He wears a gold helmet and the sensei gold belt.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/SI_Ilus_Starcast_FINAL.png/revision/latest/scale-to-width-down/268?cb=20160817073729"
+    },
+    {
+      "story_name": "Biography",
+      "content": "No one knows where Starcast came from, including Starcast himself! He was first seen falling out of the sky and landing directly on top of Master Eon, after he had made a wish for a Ninja Master to train the new generation of Skylanders. While it appeared that Eon's wish had come true, it was later revealed that Pop Fizz had simultaneously made a wish to get out of anger management lessons with the old Portal Master. Therefore, it was impossible to determine if Starcast was the result of one wish or the other. But after a brief martial arts display, it was clear to all that the mysterious Starcast was a very skilled ninja warrior. And seeing as how Master Eon had to walk around in crutches for the next few weeks, it was also clear that anger management class would have to be postponed – so it was a win-win!",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "A Shot in the Dark!",
+        "I have fallen from the sky to make your Imaginators stronger. Together, our powers will be astronomical.",
+        "And for those who have chosen the path of the Ninja, I shall bestow onto them a secret technique.",
+        "Only in darkness can you see the stars.",
+        "It's about to go dark.",
+        "The stars will come out tonight!",
+        "I shall embrace this attack with open arms!",
+        "Darkness there, and nothing more!",
+        "The stars have fallen, on my enemies!",
+        "It is always darkest before the dawn, or before getting defeated by me!",
+        "Star power!",
+        "No escape!",
+        "Super star!",
+        "Shadow form!",
+        "Going dark!",
+        "Double down!",
+        "The cover of darkness!",
+        "Starry night!",
+        "Space time!",
+        "Under the cover of darkness.",
+        "Moving at the speed of dark.",
+        "An all-star performance.",
+        "Excelent!",
+        "Upward!",
+        "Night flight!",
+        "To the stars!",
+        "Things just took a dark turn for my enemies.",
+        "My stars have never shown darker.",
+        "These numbers are quite astronomical.",
+        "Yes, I am pretty good, but I think you know that already.",
+        "Sensei supernova!",
+        "That is what I call a big bang.",
+        "Going dark, Catch."
+      ]
+    }
+  ],
+  "trivia": [
+    "Starcast is one of the few multi-armed Skylanders, others being Slam Bam and Thrillipede.",
+    "His color scheme and appearance bear a resemblance to Legendary Slam Bam, though his figure is slightly translucent, as can be seen when held up to a light source.",
+    "Additionally, he bares strong resemblances to both Slam Bam and Star Strike. His body shape is very similar to the yeti, and he is also an extraterrestrial with featureless eyes much like her. Coincidentally, Starcast and Slam Bam are both voiced by Fred Tatasciore, and he and Star Strike do not originiate from Skylands.",
+    "Both Starcast and Flashwing were summoned or created by wishes, having no memories prior to them.",
+    "His color scheme resembles the night sky, the stars on his body even twinkle.",
+    "Both Starcast and Spotlight were summoned by Master Eon's will.",
+    "Starcast's battle quote 'Darkness there, and nothing more,' is a line from Edgar Allan Poe's famous poem 'The Raven.'",
+    "Both Ka-Boom and Starcast have outfits but are shirtless.",
+    "While on a rail in a grind challenge, he is seen running on it instead of actually sliding.",
+    "If Starcast uses his Interdimensional Shurikens while jumping, he will shoot down four shurikens and somersault when he hits the ground.",
+    "Like Stealth Elf, Starcast employs the decoy based ninjutsu art known as the Bushin No Justu, by deploying a decoy that distracts or fools enemies, allowing him to escape or otherwise confuse the enemy.",
+    "Starcast's shurikens are shaped just like the Hira Shaken, which were shuriken that commonly had a hole in them, and were of many different shapes. They were aerodynamic and easy to carry as they could be placed on one's belt.",
+    "One of his upgrades, 'Get over here!' is a reference to a quote from Scorpion, a character from the Mortal Kombat franchise.",
+    "Starcast bears multiple similarities to Hidden Phantom, one of the Four Guardians in the Mega Man Zero series. Both of them are ninja with dark or shadow elementality, both use shuriken in combat and even ride a bigger one, and use clones in combat to distract enemies.",
+    "Starcast, Spyro, Dino-Rang, Star Strike, Enigma, Hammer Slam Bowser, Turbo Charge Donkey Kong, Crash Bandicoot, and Dr. Neo Cortex are the only Skylanders who do not originate from Skylands.",
+    "Starcast's appearance resembles that of the Celestialsapien alien species from the Ben 10 series.",
+    "His Chase Variants, Clear Starcast and Happy Birthday Ben Starcast, are the only dark elemental chase variants."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Imaginators Meet Master Starcast",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Imaginators_Meet_Master_Starcast"
+    }
+  ],
+  "gameplay": "Starcast uses his inter-dimensional powers for the Ninja Class. Having four arms he is able to rapid fire shurikens from the Dark Dimension, this is later upgraded when he fires two more powerful shurikens at the end of a combo and drop dangerous shards whilst jumping. Starcast is also able to conjure a rideable Megastar which mows down any enemy in his path but can still take damage whilst riding - on the Megastar, Starcast can throw larger and explosive shurikens. If he comes under enemy attention, he is able to disappear and attack whilst summoning a decoy which distracts and attacks enemies. The decoy later causes a vortex before it disappears, drawing enemies together. Depending on which path is chosen, Starcast can either upgrade the decoy or Megastar.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Starcast",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Interdimensional Shurikens",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Starcastprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170504015302",
+        "content": "Press Attack 1 to throw shurikens from the dark dimension. On impact, shurikens cause a rift that may shift enemies around.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Megastar Surfer",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/32/Starcastsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170504015555",
+        "content": "Press Attack 2 to summon a giant rideable Megastar",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Shadow Form Decoy",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b3/Starcastbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504015659",
+        "content": "Press Attack 3 to summon a decoy from the darkness. Enemies will ignore Starcast when the decoy is active.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Extra Dimensional Shurikens",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/10/Starcastbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504015750",
+        "content": "Keep tapping Attack 1 to finish the combo with two larger and more powerful shurikens.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Dense Dimensional Shuriken",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Starcastbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504015904",
+        "content": "Press Attack 1 while surfing the Megastar to throw a huge extra heavy exploding Shuriken",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Get Over Here!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Starcastbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170504015928",
+        "content": "Press Attack 3 and the Shadow Form Decoy will summon a vortex, which brings nearby enemies closer before he attacks.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Flying Starcer",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Starcastsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170504020018",
+        "content": "Press Attack 2 while riding the Megastar to morph it into a flying saucer! Then press Attack 1 to unleash dark torpedo cannon goodness.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "A Real Kick in the Shurikens",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Starcastskychipower.png/revision/latest/scale-to-width-down/148?cb=20170504020051",
+        "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power and send a barrage of shurikens hurtling towards the enemy.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BBD"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Megastart Me Up",
+        "abilities": [
+          {
+            "name": "Star Stomp",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Starcastpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504020204",
+            "content": "While surfing the Megastar, press Attack 3 to do a shockwave inducing stomp attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Star Leap",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Starcastpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504020237",
+            "content": "Press the Jump button to leap off the Megastar, which stays there a while and damages enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Star Shards",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/06/Starcastpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504020313",
+            "content": "Interdimensional Shurikens now shatter into many smaller but deadly pieces when they hit the Megastar.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Enhance the Decoy",
+        "abilities": [
+          {
+            "name": "Star of the Show",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Starcastpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504020601",
+            "content": "Shadow Form Decoy shoots SIX homing projectiles.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Dark N' Powerful",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Starcastpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504020915",
+            "content": "Shadow Form Decoy now does even more damage!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Sharp and to the Point",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Starcastpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504021103",
+            "content": "Homing projectiles now pierce enemies. Also, Starcast has a greater critical hit chance when Shadow Form Decoy is active.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "starcast",
@@ -34,7 +306,24 @@
         "Star Stomp",
         "Star of the Show"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "300"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "280"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "150"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Starcast"
     }
   ]
