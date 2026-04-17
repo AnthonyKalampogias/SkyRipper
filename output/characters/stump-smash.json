@@ -4,6 +4,7 @@
   "species": "Ent",
   "gender": "Male",
   "element": "Life",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -16,22 +17,321 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Stump Smash was once a magical tree that spent most of his time sleeping peacefully in the forests of Skylands . Then one day he awoke to discover his entire forest had been chopped down and logged by trolls– himself included. His long branches were gone, leaving him with only powerful mallets for hands, which he used to smash the troll tree-cutting machines. Although still grumpy about what happened to him, Stump Smash has vowed to protect Skylands against those who would do it harm… especially trolls.",
-  "personality": "Prior to being cut down and logged, Stump Smash was a peaceful tree creature who spent most of his lifetime sleeping in the forest areas of his world, that is, until his incident with the Trolls . To this day, Stump Smash is still grouchy about what happened to him and takes his anger out on evil doers. He knows how to bare a grudge. Even after all these years he still seeks out trolls to teach them a lesson. He's no sap. &#91; 3 &#93;",
-  "story": null,
+  "description": "Stump Smash is an ent who is one of the main core Skylanders in Skylanders: Spyro's Adventure. He is of the Life element.",
+  "biography": "Stump Smash was once a magical tree that spent most of his time sleeping peacefully in the forests of Skylands. Then one day he awoke to discover his entire forest had been chopped down and logged by trolls– himself included. His long branches were gone, leaving him with only powerful mallets for hands, which he used to smash the troll tree-cutting machines. Although still grumpy about what happened to him, Stump Smash has vowed to protect Skylands against those who would do it harm… especially trolls.",
+  "quote": "Drop The Hammer!",
+  "personality": "Prior to being cut down and logged, Stump Smash was a peaceful tree creature who spent most of his lifetime sleeping in the forest areas of his world, that is, until his incident with the Trolls. To this day, Stump Smash is still grouchy about what happened to him and takes his anger out on evil doers. He knows how to bare a grudge. Even after all these years he still seeks out trolls to teach them a lesson. He's no sap.[3]",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Stump Smash was once a magical tree in an ancient glade of wonderous woodland. But one day, he awoke to a bark-bristling sight. Every tree, shrub and sapling around him had been cut down and hauled away. Holding up in his branches in horror, Stump Smash realized he too had been 'logged'. All that was left were two wooden stumps in the shape of mallets. With a resounding roar, Stump Smash uprooted himself and stomped toward the gaggle of lumberjack trolls responsible. He brought together his mallet hands, and WHACK! The terrified trolls ran screaming for their pointy-nosed googly-eyed lives. Even Master Eon heard the racket and set off to investigate. And, after learning Stump Smash's sad story, he brought him on board at once.[4]",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Stump Smash Crosses the Bone Dragon",
+      "content": "Stump Smash was the Skylander who helped calm Spyro down when he was upset at Wiggleworth about Master Eon's capture by the traitorous Warrior Librarian Squirmgrub. When the Giggling Forest mysteriously started crying, Spyro assigned Stump Smash, Wrecking Ball, Countdown and Flameslinger to investigate. There, they discovered that the most of the giggling trees were turned to stone by a rampaging Bone Dragon, who was awakened by Kaos and his group of trolls. The Dragon then attacked Stump Smash, a half petrified Glumshanks and the other Skylanders, nearly turning them to stone as well. The stench of Wrecking Ball's belch was enough to drive the Bone Dragon off, and Stump Smash instructed Countdown to signal for help, which managed to reach Lightning Rod who was heading back from Fantasm Forest.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Spyro's Adventure",
+      "content": "Stump Smash was one of the Skylanders who assembled on Eon's Island when Kaos arrived with The Darkness to destroy the Core of Light. The tree creature participated in the fight against the dark forces, chasing after a small group of Cyclops Choppers and smashing them down with his mallets. After dealing with the minor enemies, Stump Smash was suddenly struck from behind by an axe, and he turned around to find himself confronted by a large group of Cyclopses and Trolls. He realized that he was greatly outnumbered, but the tree creature was saved by the arrival of Trigger Happy. Working together, both Stump Smash and the gremlin gunslinger took out the horde of Cyclopses and Trolls, including two Goliath Drow individually.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Giants",
+      "content": "Stump Smash, along with Spyro, Gill Grunt, Stealth Elf, and Eruptor, are still frozen as toys on Earth and were put in a toy display inside a toy store called Super Toy Planet. They were few of the Skylanders who witnessed Kaos breaking free of his statue-like form due to his power as a Portal Master. When Kaos noticed the frozen Skylanders and taunted them, Stump Smash angrily declared that if he could move, he would be 'dropping the hammer' on Kaos right there and then, to which the other Skylanders agreed. Afterwards, the present Skylanders could do nothing but watch as Kaos returned to Skylands with the use of a nearby Portal of Power.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Cutscene Quotes",
+      "content": [
+        "If I could move, I'd be dropping the hammer on you right now!"
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Drop the Hammer!",
+        "Time to branch out!",
+        "Be the tree!",
+        "One, two, smash!",
+        "Here comes the smash!",
+        "My bark is worse than my bite!",
+        "You've been Stump Smash'd!",
+        "You barked up the wrong tree!",
+        "Timber!",
+        "You've been stumped!",
+        "Leaf it to me!",
+        "Another one for the smashing!",
+        "I came, I saw, I smashed!",
+        "Seen enough, let's go smash!",
+        "Barkin' some improvements",
+        "You know this hat is growing on me!",
+        "Dashing and smashing!",
+        "Still gonna smash!",
+        "Great name, can we smash now?",
+        "Flying tree!",
+        "Stump jump!",
+        "Battering-ram coming through!"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "I am Stump Smash! Tag Team!",
+        "Okee-dokee.",
+        "Working out?"
+      ]
+    }
+  ],
+  "trivia": [
+    "Stump Smash was originally brown during gameplay prior to his character trailer.",
+    "He is the first non-earth Skylander that uses hammers as weapons (the second being Hammer Slam Bowser).",
+    "His promo title 'Tree Rex' is shared by the Giant Skylander of the same name.",
+    "When floating in the water (possible with the Soul Gem ability), press the Attack Button to squirt water out of Stump Smash's mouth.[6]",
+    "In the boss battle with the Evil Ent, he charges up his Meganuts and Acorns before launching them, while the real Stump Smash is incapable of doing so.",
+    "Stump Smash, Lightning Rod and Double Trouble are the only non-Water Skylanders that can cross over water without the ability to fly.",
+    "He has the highest amount of health out of all of the Core Skylanders.",
+    "The original name for the Smash-N-Bash path is the Nut Master path.",
+    "Stump Smash is the only Skylander who has their magic moment changed in Giants.",
+    "He and Tree Rex are both Skylanders who resemble trees and are voiced by Kevin Michael Richardson.",
+    "Because Swap Force has excluded the ability to swim, Stump Smash, Zap and Double Trouble's soul gems have changed.",
+    "In Skylanders: Lost Islands, Stump Smash mentions having feelings for Frilly, and has gone on a date with her at least once with the help of the Portal Master.",
+    "Stump Smash was one of the many Skylanders planned to appear in Skylanders: Ring of Heroes. Before the game's closure, only concept art of his Awakened Form was released.",
+    "If Stump Smash has his Thornbark upgrade and falls during a Ring Out Battle Arena, he fires thorns as his plummets out of the arena.",
+    "His Japanese dub voice actor, Soichi Abe, also portrayed Eruptor in the Japanese dub of Skylanders Academy."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Stump Smash (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Stump_Smash_(extended)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure GamesCom 2011 Trailer - Stump Smash",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_GamesCom_2011_Trailer_-_Stump_Smash"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Stump Smash Preview Trailer (Drop the Hammer)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Stump_Smash_Preview_Trailer_(Drop_the_Hammer)"
+    },
+    {
+      "name": "Skylanders Giants - Series 2 Stump Smash Trailer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Series_2_Stump_Smash_Trailer"
+    }
+  ],
+  "gameplay": "Despite having his branches chopped, Stump Smash can still attack his enemies by slamming them with his mallet-like hands. He also has the ability to spit and roll a large, spiked acorn upon his opponents, and can spit out smaller acorns at his opponent that will cause branches to grow on the enemy's body, slowing them down as a result. He can even regain health when in water. In 'Stump Smash crosses the Bone Dragon' it's shown that he can use his own life force energy to speed the growth of plants, as he used it on the acorns he spit out, which caused them to grow into large trees that tangled the Bone Dragon.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Stump_Smash",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Pulverize",
+        "imgPath": "IMG_3",
+        "content": "Uncork a Stumpfist smash.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "When Acorns Attack",
+        "imgPath": "IMG_4",
+        "content": "Spit acorns at your foes to slow them down.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Petrified Pummel",
+        "imgPath": "IMG_7",
+        "content": "Stumpfist attacks do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Spiny Acorns",
+        "imgPath": "IMG_8",
+        "content": "Acorns are spiny and thus do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Meganut",
+        "imgPath": "IMG_9",
+        "content": "Create a Meganut that damages any enemy it touches",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Thornbark",
+        "imgPath": "IMG_10",
+        "content": "Thorns shoot out when you are hit, damaging all nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Waterlogged",
+        "imgPath": "IMG_5",
+        "content": "You can float and regain health in water. In Swap Force: Stump Smash regenerates health in Water Power Zones.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Auto-Nuts",
+        "imgPath": "IMG_6",
+        "content": "Hold Attack 2 to rapidly spit out a series of nuts.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Smash 'N' Bash",
+        "abilities": [
+          {
+            "name": "Stump Crusher Combos",
+            "imgPath": "IMG_11",
+            "content": "Trigger a powerful Stumpfist attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Acorn Croquet",
+            "imgPath": "IMG_12",
+            "content": "When facing a Meganut, send it flying at your enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Smash Meganut",
+            "imgPath": "IMG_13",
+            "content": "When facing a Meganut, detonate it and damage enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Nut Crafter",
+        "abilities": [
+          {
+            "name": "Pollen Plume",
+            "imgPath": "IMG_14",
+            "content": "Acorns explode, growing plants on all nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Meganut Propagation",
+            "imgPath": "IMG_15",
+            "content": "When facing a Meganut, make it burst into acorns.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Double Nut",
+            "imgPath": "IMG_16",
+            "content": "Spit 2 Acorns at once!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "stump-smash",
       "variant_name": "Stump Smash",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Stump_Smash_Promo.jpg",
       "attacks": [
@@ -41,7 +341,62 @@
         "Thorn Bark",
         "Stump Crusher Combos"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "340 / 680"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 / 91"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30 / 60"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20 / 70"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 / 75"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Stump_Smash"
+    },
+    {
+      "id": "series-2-stump-smash",
+      "variant_name": "Series 2 Stump Smash",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Series_Stump_Smash_Promo.jpg",
+      "attacks": [
+        "Wood Hammer",
+        "Acorn Spit",
+        "Meganut",
+        "Thorn Bark",
+        "Stump Crusher Combos"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "60"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Stump_Smash"
     }
   ]
