@@ -4,30 +4,46 @@
   "species": "Turtle Dinosaur",
   "gender": "Male",
   "element": "Earth",
+  "role": "Skylander",
   "primary_game": "Skylanders: Lost Islands (July 2014)",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Sundae Slobber Tooth has come to celebrate savory summer sundaes in Skylands!",
+  "biography": "Sundae Slobber Tooth is an ice cream counterpart of Slobber Tooth in Skylanders: Lost Islands, introduced in July 2014 as an Alter Ego variant to celebrate the summer season.",
+  "quote": "Slobber and Chomp!",
+  "personality": "Sundae Slobber Tooth is a festive and sweet-toothed version of the original Slobber Tooth, known for his persistence and love for frozen treats.",
+  "story": [],
+  "quotes": [],
+  "trivia": [
+    "He is an Alter Ego variant specifically released for the mobile game Skylanders: Lost Islands.",
+    "His design is themed after an ice cream sundae, including scoops on his back and a cherry on his head.",
+    "He was released in July 2014."
+  ],
+  "trailers": [],
+  "gameplay": "As an Alter Ego in Skylanders: Lost Islands, Sundae Slobber Tooth provides players with a unique visual variant of Slobber Tooth that maintains the base character's mechanics and utility within the game.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Sundae_Slobber_Tooth",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "sundae-slobber-tooth",
+      "id": "sundae-slobber-tooth-v1",
       "variant_name": "Sundae Slobber Tooth",
-      "edition": "Series 1",
-      "type": "Core",
-      "game": "Skylanders: Lost Islands (July 2014)",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/2/2a/Sundae_Slobber_Tooth.jpg/revision/latest?cb=20140715010338",
+      "edition": "Lost Islands Alter Ego",
+      "type": "Variant",
+      "game": "Skylanders: Lost Islands",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/2a/Sundae_Slobber_Tooth.jpg",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Sundae_Slobber_Tooth"
     }
   ]
