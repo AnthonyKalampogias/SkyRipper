@@ -1,29 +1,375 @@
 {
   "id": "spyro",
   "name": "Spyro",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
+  "species": "Purple Dragon",
+  "gender": "Male",
+  "element": "Magic",
+  "role": "Core Skylander",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Spyro's Kingdom (Scrapped)",
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "The Machine of Doom",
+    "Skylanders: Lost Islands",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Giants",
+    "Spyro versus The Mega Monsters",
+    "Gill Grunt and the Curse of the Fish Master",
+    "Skylanders: Swap Force",
+    "Cynder Confronts the Weather Wizard",
+    "Skylanders: Trap Team",
+    "Stump Smash Crosses the Bone Dragon",
+    "Champions",
+    "Trigger Happy Targets the Evil Kaos",
+    "Return of the Dragon King",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Secret Agent Secrets",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Full Blast",
+    "Goldslinger",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [
+    "The Kaos Trap",
+    "Dive, Dive, Dive!"
+  ],
+  "world": [
+    "Unknown"
+  ],
+  "description": "Spyro is a purple dragon who is the titular character of Skylanders: Spyro's Adventure, and a Core Skylander in the franchise. He is one of the three Skylanders that come with the console version starter pack of Spyro's Adventure, the other two being Gill Grunt and Trigger Happy. Additionally, he has Dark, Legendary, and Eon's Elite counterparts. His Series 3 counterpart is called Mega Ram Spyro.",
   "biography": "Spyro hails from a rare line of magical purple dragons that come from a faraway land few have ever traveled. It's been said that the Scrolls of the Ancients mention Spyro prominently -- the old Portal Masters having chronicled his many exciting adventures and heroic deeds. Finally, it was Master Eon himself who reached out and invited him to join the Skylanders. Now calling Skylands his home, Spyro remains one of its most valued protectors, with evil facing a new enemy -- and the Skylanders gaining a valued ally.",
-  "personality": "Although eager and young at heart, Spyro is a strong-willed dragon who is fearless and brave; a born hero dedicated to defending his world from all things evil. He holds a photographic memory, and as a result, has encyclopedic knowledge of all the islands and creatures in Skylands he has encountered, more so than any other Skylander. &#91; 7 &#93; &#91; 8 &#93; &#91; 9 &#93; He is always up for adventure (his favorite kind being treasure hunts), and is the first Skylander to leap into action. Spyro is a usual quick learner, able to master new abilities in a matter of hours. &#91; 10 &#93; Due to this, he is convinced that he can be good at everything so he can put his new powers to good use to help defend Skylands. However Spyro isn't used to not being able to learn new abilities right away, feeling greatly disheartened when he isn't able to harness them despite being trained by Master Eon , the greatest among the Portal Masters . Although he is well in the company of his companions, Spyro possesses a headstrong and impulsive side. In The Machine of Doom , he believed that he could do everything by himself &#91; 11 &#93; , implying that Spyro was used to doing heroics on his own prior to becoming a Skylander. This resulted in him struggling to work in a team at first (with his Skylander companions always reminding Spyro that he doesn't have to do everything by himself). However, his headstrong trait has presumably diminished during the course of being a Skylander when Spyro gradually became more humble, as shown in Spyro versus The Mega Monsters when he shared his victory over Kaos with the other Skylanders who helped him. He always keeps his temper in check &#91; 12 &#93; , but there are times when he allows his emotions to get the better of him. After many adventures with the Skylanders, Spyro grew into a natural leader dedicated to scorching the forces of darkness. He takes his role as a Skylander seriously after being taught by Master Eon and holds deep insight regarding his fellow Skylanders, seeing them as more than just a team, but family, making them an unstoppable force against the toughest of foes. According to Roller Brawl , Spyro's leadership is on par with a roller derby's pivot, \"establishing the team's strategy and sets the pace of the pack\". &#91; 13 &#93; In Skylanders: Imaginators , Spyro still displays a slight cocky behavior and occasionally cracks a joke or two, much to the dismay of certain Skylanders. According to him, he is awesome, but a Skylander who does pretty good in handling Doomlanders is pretty cool in his book.",
-  "story": null,
+  "quote": "All Fired Up!",
+  "personality": "Although eager and young at heart, Spyro is a strong-willed dragon who is fearless and brave; a born hero dedicated to defending his world from all things evil. He holds a photographic memory, and as a result, has encyclopedic knowledge of all the islands and creatures in Skylands he has encountered, more so than any other Skylander. He is always up for adventure (his favorite kind being treasure hunts), and is the first Skylander to leap into action. Spyro is a usual quick learner, able to master new abilities in a matter of hours. Due to this, he is convinced that he can be good at everything so he can put his new powers to good use to help defend Skylands. However Spyro isn't used to not being able to learn new abilities right away, feeling greatly disheartened when he isn't able to harness them despite being trained by Master Eon, the greatest among the Portal Masters. Although he is well in the company of his companions, Spyro possesses a headstrong and impulsive side. In The Machine of Doom, he believed that he could do everything by himself, implying that Spyro was used to doing heroics on his own prior to becoming a Skylander. This resulted in him struggling to work in a team at first (with his Skylander companions always reminding Spyro that he doesn't have to do everything by himself). However, his headstrong trait has presumably diminished during the course of being a Skylander when Spyro gradually became more humble, as shown in Spyro versus The Mega Monsters when he shared his victory over Kaos with the other Skylanders who helped him. He always keeps his temper in check, but there are times when he allows his emotions to get the better of him. After many adventures with the Skylanders, Spyro grew into a natural leader dedicated to scorching the forces of darkness. He takes his role as a Skylander seriously after being taught by Master Eon and holds deep insight regarding his fellow Skylanders, seeing them as more than just a team, but family, making them an unstoppable force against the toughest of foes. According to Roller Brawl, Spyro's leadership is on par with a roller derby's pivot, 'establishing the team's strategy and sets the pace of the pack'. In Skylanders: Imaginators, Spyro still displays a slight cocky behavior and occasionally cracks a joke or two, much to the dismay of certain Skylanders. According to him, he is awesome, but a Skylander who does pretty good in handling Doomlanders is pretty cool in his book.",
+  "story": [
+    {
+      "story_name": "Character Development",
+      "content": "While looking for new ideas for the Spyro the Dragon license in 2007, Activision and Toys for Bob explored many concepts with Spyro, including a 'realistic, gritty Spyro', a 'tiny Spyro', and an 'Origami Spyro'. Eventually the toys-to-life idea of Spyro's Kingdom came into light.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d3/SpyrosKingdom_KingSpyro.jpg"
+    },
+    {
+      "story_name": "History",
+      "content": "Spyro is the great, stout-hearted hero of legend, not to mention the number one defender of Skylands. Hailing from a rare race of magic purple dragons, Spyro was born in a land far away from Skylands' furthest frontiers. From a young age, Spyro became a battler for good; a warrior against evil and protector of the peace. One of the many Portal Masters who watched Spyro's success with acclaim and applause was the bearded legend himself, Master Eon. Eon found Spyro playing in the Summer Forest and asked for his help in protecting Skylands from evil. When Spyro agreed to help, Eon transported him through the Portal of Power to his citadel at the Core of Light.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Spyro_Comic2.png"
+    },
+    {
+      "story_name": "The Machine of Doom",
+      "content": "Spyro, Gill Grunt, Eruptor and Boomer were on Eon's island with the other Skylanders listening to Gill Grunt's concert. Shortly afterwards, Flynn and Hugo crash landed in their hot air balloon nearby. Hugo informed the Skylanders and Master Eon urgent news of flying sheep attacking the Mabu Market. The Skylanders decided to get the Chattering Key before Kaos does. Using Flynn to transport them, Spyro led the team to the Forest of Fear. After a hallucination trap and a Wyvern pursuit, Kaos used Flynn as a hostage to steal the key. Spyro eventually saved Kaos from being buried alive in the pyramid, showing the values Master Eon taught him.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7a/Machine_of_Doom_Illustration5.jpg"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Cutscene Quotes",
+      "content": [
+        "I'd like to see you try, Kaos!"
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "All Fired Up!",
+        "To defend all!",
+        "Don't dare the dragon!",
+        "It's showtime!",
+        "Defend one and all!",
+        "Adventure calls!",
+        "For Skylands!",
+        "Never back down!",
+        "Born to battle!",
+        "Oh yeah!",
+        "Mess with the dragon, get the horns!",
+        "This dragon can't be beat!",
+        "Never had a doubt!",
+        "Up high!",
+        "You want some of this?",
+        "Yeah, I'm all fired up!",
+        "I knew I could do it!",
+        "Suh-weet!"
+      ]
+    },
+    {
+      "quote_type": "Book Quotes",
+      "content": [
+        "You told us not to underestimate him. I won't do it again.",
+        "Just trying to save your life, that's all.",
+        "Kaos is as evil as they come. This is a man who would give candy to a baby just so he could steal it back again.",
+        "It was a team effort, Master. It's always a team effort."
+      ]
+    }
+  ],
+  "trivia": [
+    "Throughout the games, Spyro's design features differ in gameplay and media, such as his horns, spines, and claw color.",
+    "In Spyro's Adventure, while Spyro's CGI version and toy form have two colors on his wings, his in-game version doesn't possess that detail.",
+    "In the Ruins of Skylanders: Spyro's Adventure there is a young Mabu named Quigley who asks Spyro 'Haven't I seen you somewhere before?'.",
+    "According to the novel The Machine of Doom, Spyro was first found by Master Eon in Summer Forest.",
+    "Out of all the Skylanders, Spyro has the most variants - Series 1, Dark, Legendary, Series 2, Series 3, Series 3 Dark, Mini, and Eon's Elite."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventure Spyro Trailer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_Spyro_Trailer"
+    },
+    {
+      "name": "Meet the Skylanders- Spyro l Skylanders Spyro’s Adventure l Skylanders",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders-_Spyro_l_Skylanders_Spyro%E2%80%99s_Adventure_l_Skylanders"
+    },
+    {
+      "name": "Skylanders Giants - Meet the Skylanders - Series 2 Spyro (All Fired Up)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Series_2_Spyro_(All_Fired_Up)"
+    }
+  ],
+  "gameplay": "As a magical purple dragon, Spyro has the ability to harness the power of the other elements, though he prefers to master fire. He can also charge at his enemies with his horns and knock down obstacles, even lighting them ablaze with the element of fire. Being a dragon, Spyro has the ability to fly. When energies of darkness are nearby, Spyro can use their power to transform into his dark alter ego - Dark Spyro. In Skylanders: Battlecast, Spyro's abilities mostly stay the same, though with debuffing effects to some of them; however, he also gains the ability to brand enemies magically with the Sigil of the Dragon. His Special Ability is Dragon Breath, which attacks all enemies, and his signature Gear is the Ampli-fier, steel enhancements with engraved runes for his wings that power him and his allies up.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Spyro",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Dragon's Fire",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/33/Spyroprimarypower.png",
+        "content": "Spyro breathes balls of flame from his mouth, incinerating enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Charge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Spyrosecondarypower.png",
+        "content": "Spyro runs head down knocking over enemies with his horns.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Long Range Raze",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Spyrobasicupgrade1.png",
+        "content": "Enhancing Spyro's lung capacity, this ability lets Spyro shoot Flameballs that travel much farther than before.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Spyro's Flight",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0a/Spyrobasicupgrade2.png",
+        "content": "Spyro takes to the skies. Well, off the ground at least! Fly over water and move at great speed.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Sprint Charge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Spyrobasicupgrade3.png",
+        "content": "Fitness counts. Spyro is able to charge for a longer distance with this upgrade.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Triple Flameballs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Spyrobasicupgrade4.png",
+        "content": "Shoot 3 Flameballs instead of one.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Spyro's Earth Pound",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/31/Spyrosoulgempower.png",
+        "content": "Perform a devastating dive-bomb head smash while flying, damaging enemies all around you.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Fireslam!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Spyrowowpowpower.png",
+        "content": "While flying, press Attack 2 to allow Spyro to shoot fireballs and perform a flaming slam.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "season": 3,
+        "name": "Head Start!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/Spyrowowpow2power.png",
+        "content": "Summon a magic worm ally at the end of your charge and send it after your enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Sheep Burner Spyro",
+        "abilities": [
+          {
+            "name": "Fire Shield",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fd/Spyropath1upgrade1.png",
+            "content": "This upgrade generates fire shields around Spyro when he uses his Flameball attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Exploding Fireblast",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/47/Spyropath1upgrade2.png",
+            "content": "Spyro's central Flameball ignites into an explosive force that not only does more damage but hits multiple enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "The Daybringer Flame",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a8/Spyropath1upgrade3.png",
+            "content": "Hold down your primary power button to build up this attack, which generates a flame so big and bright it is said to bring daylight to the sky.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Blitz Spyro",
+        "abilities": [
+          {
+            "name": "Stun Charge",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/65/Spyropath2upgrade1.png",
+            "content": "Enemies hit by Spyro's charge become temporarily stunned.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Comet Dash",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Spyropath2upgrade2.png",
+            "content": "A magic aura surrounds Spyro's horns imbuing them with extra power and damage that burns enemies in its path.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Ibex's Wrath Charge",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b0/Spyropath2upgrade3.png",
+            "content": "Find Spyro's extra gear. With this upgrade, Spyro builds up speed and such a destructive force that it causes the very air around him to ignite into the magical form of fiery ibex horns.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "spyro",
+      "id": "spyro-s1",
       "variant_name": "Spyro",
       "edition": "Series 1",
-      "type": "Sensei",
-      "game": null,
+      "type": "Core",
+      "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/7/73/Spyro.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Dragon's Fire",
+        "Charge",
+        "Dragon's Flight",
+        "Spyro's Earth Pound"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 / 560"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 / 98"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 / 48"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 / 80"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 / 100"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Spyro"
     }
   ]
