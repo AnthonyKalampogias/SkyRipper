@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-16T21:11:10.757Z",
+  "last_run": "2026-04-17T03:04:50.121Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -1128,6 +1128,14 @@
     {
       "name": "Sonic Boom",
       "sha": "a0de602250cced1d241356deba12e5dbf2fc745ab8bca9ba92790d0170123f3b"
+    },
+    {
+      "name": "Spitfire",
+      "sha": "c72b03c9a2c09e6a1834c95a2fa32af93b29b6c56299ef829886e1c5962d9fe1"
+    },
+    {
+      "name": "Splat",
+      "sha": "11d606044c15c80be858f355d74e0613efd20bccc312bb752a7c2024f22f27f9"
     }
   ]
 }
