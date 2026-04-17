@@ -1,29 +1,215 @@
 {
   "id": "spry",
   "name": "Spry",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": "The Skylander Minis started off as regular \" Sidekicks \", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-  "personality": "Spry is an eager young dragon who wants to fight evil whenever he can. He's good at learning things quickly, which is a very important part of teamwork. He can be a little impulsive from time to time, but that's just because he loves being a hero so much. &#91; 1 &#93;",
-  "story": null,
+  "species": "Purple Dragon",
+  "gender": "Male",
+  "element": "Magic",
+  "role": "Mini",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "The Kaos Trap",
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "Skylanders Issue 12",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": [
+    "Spyro"
+  ],
+  "world": [
+    "Skylands Miniverse"
+  ],
+  "description": "Spry is the Mini counterpart of the Magic Skylander, Spyro in Skylanders: Trap Team.",
+  "biography": "The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "quote": "All Fired Up!",
+  "personality": "Spry is an eager young dragon who wants to fight evil whenever he can. He's good at learning things quickly, which is a very important part of teamwork. He can be a little impulsive from time to time, but that's just because he loves being a hero so much.",
+  "story": [
+    {
+      "story_name": "The Kaos Trap",
+      "content": "Spry was one of the Minis who attended their first day of school at the Skylanders Academy.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "All Fired Up!"
+      ]
+    }
+  ],
+  "trivia": [
+    "In the game, Spry's spines are completely purple.",
+    "In the 3DS version, he calls himself 'Spyro' instead of 'Spry'.",
+    "Paul Reiche stated that he thinks that Spry is Spyro's little brother or cousin. This statement doesn't match with the Miniverse. It's possible that Spyro views Spry as an little brother or cousin.",
+    "In Skylanders: SuperChargers, Spry seems to be the only Mini who doesn't have his voice pitched up.",
+    "Spry's eyes are so big, it takes him twice as long to blink.",
+    "Despite his regular counterpart having a different voice actor in Imaginators, Spry's voice remains unchanged, making him the only mini to have a unique voice.",
+    "Before Trap Team, Spry was originally planned to be a sidekick in Spyro's Adventure. He shares this designation with Bop."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Mini Skylanders Spry",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Mini_Skylanders_Spry"
+    },
+    {
+      "name": "Meet the Skylanders Spry",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Spry"
+    },
+    {
+      "name": "Skylanders Power Play Spry",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Spry"
+    }
+  ],
+  "gameplay": "In the games, Spry functions as a Mini character. He shares the same moveset as Spyro, utilizing fire breath for long-range attacks and horn charges for melee. He is characterized by his smaller stature and high agility compared to full-sized Skylanders.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Spry",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Fire Breath",
+        "imgPath": "FireBreath.png",
+        "content": "Spry shoots a stream of fire from his mouth.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#D8BFD8"
+        }
+      },
+      {
+        "name": "Horn Charge",
+        "imgPath": "HornCharge.png",
+        "content": "Spry charges forward with his horns.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#D8BFD8"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Dragon Flight",
+        "imgPath": "DragonFlight.png",
+        "content": "Spry takes to the skies to avoid attacks and strike from above.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#D8BFD8"
+        }
+      },
+      {
+        "name": "Triple Shot",
+        "imgPath": "TripleShot.png",
+        "content": "Fire Breath shoots three fireballs instead of one.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#D8BFD8"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Fire Shield",
+        "imgPath": "FireShield.png",
+        "content": "Spry surrounds himself with a protective shield of fire.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#D8BFD8"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Fire Breath Path",
+        "abilities": [
+          {
+            "name": "Fire Path",
+            "imgPath": "FirePath.png",
+            "content": "Enhances Fire Breath attacks for maximum fire damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1000,
+            "colors": {
+              "header": "#4B0082",
+              "bg_content": "#D8BFD8"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Horn Charge Path",
+        "abilities": [
+          {
+            "name": "Charge Path",
+            "imgPath": "ChargePath.png",
+            "content": "Enhances Horn Charge attacks for faster and more powerful charges.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1000,
+            "colors": {
+              "header": "#4B0082",
+              "bg_content": "#D8BFD8"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "spry",
-      "variant_name": "Spry",
-      "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
+      "id": "spry-mini",
+      "variant_name": "Spry Mini",
+      "edition": "Mini",
+      "type": "Mini",
+      "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/2/22/Spry_Promo.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Fire Breath",
+        "Horn Charge",
+        "Dragon Flight",
+        "Triple Shot",
+        "Fire Shield"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 / 560"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 / 118"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 / 48"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 / 80"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "60 / 110"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Spry"
     }
   ]
