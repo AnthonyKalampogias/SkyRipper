@@ -4,6 +4,7 @@
   "species": "Phoenix/Dragon Hybrid",
   "gender": "Male",
   "element": "Fire",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Spyro's Kingdom (scrapped)",
@@ -19,24 +20,279 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Stump Smash Crosses the Bone Dragon",
+  "cameos": [
+    "Stump Smash Crosses the Bone Dragon"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Born in the center of an active volcano, Sunburn is part dragon, part phoenix, and 100% fire power. He is very proud of his unique heritage, and is the only dragon and phoenix hybrid known to exist in Skylands . This rare combination makes him a desirable target for dark wizards and bounty hunters that seek to gain power by unlocking the secrets behind Sunburn’s ability to teleport. Joining the Skylanders gave Sunburn a way to help defend the world from evil, but also provided him with protection, as he remains one of the most sought after creatures in Skylands.",
-  "personality": "Like all dragons , Sunburn is quite the prankster, but hates evil with a passion. &#91; 3 &#93; He uses his powers of teleportation to play practical jokes on his Skylander buddies, appearing when they least expect it. He doesn't like to stay in one place for more than a minute at a time. &#91; 4 &#93;",
-  "story": null,
+  "description": "Sunburn is a Fire phoenix/dragon hybrid Skylander in Skylanders: Spyro's Adventure. He is bundled with the Dragon's Peak Adventure Pack.",
+  "biography": "Born in the center of an active volcano, Sunburn is part dragon, part phoenix, and 100% fire power. He is very proud of his unique heritage, and is the only dragon and phoenix hybrid known to exist in Skylands. This rare combination makes him a desirable target for dark wizards and bounty hunters that seek to gain power by unlocking the secrets behind Sunburn’s ability to teleport. Joining the Skylanders gave Sunburn a way to help defend the world from evil, but also provided him with protection, as he remains one of the most sought after creatures in Skylands.",
+  "quote": "Roast N' Toast!",
+  "personality": "Like all dragons, Sunburn is quite the prankster, but hates evil with a passion. He uses his powers of teleportation to play practical jokes on his Skylander buddies, appearing when they least expect it. He doesn't like to stay in one place for more than a minute at a time.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "For years, soothsayers and psychics had predicted the birth of a dragon-phoenix cross. So, when the newly hatched Sunburn was catapulted into the world from his cozy volcanic nest, he became the drag-nix (or phoe-gon?) everyone wanted to meet. Sunburn became a target for every thief, bandit and evil sorcerer who wanted a piece of his powers. Thankfully, being able to both throw flames and teleport was a handy defense. Still for Sunburn, Skylands was not a safe place. Luckily, Master Eon also noticed his amazing abilities and made him a Skylander. This not only provided Sunburn with protection, but gave him a license to incinerate evil. It also provided plenty of opportunities to play teleporting pranks on his new teammates.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Stump Smash Crosses the Bone Dragon",
+      "content": "Sunburn was one of the assembled Skylanders who attempted to fight against the rampaging Bone Dragon in the Giggling Forest, but was turned to stone. He was soon returned to normal when the Dragon agreed to un-freeze the petrified present characters.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Roast N' Toast!",
+        "Rise and shine!",
+        "I'll take it all!",
+        "More treasure!",
+        "You got burned!",
+        "Roasted!",
+        "Feel the flame!",
+        "No problem.",
+        "It's toasty in here.",
+        "Gettin' stronger.",
+        "Lookin' good.",
+        "That should work.",
+        "Ok, let's go with that.",
+        "A name is a name!",
+        "Not bad."
+      ]
+    }
+  ],
+  "trivia": [
+    "Images of Hot Flash, Sunburn's earlier reptilian design, can be found in early coloring book images and on the Skylanders Spyro's Adventure Carrying Case product.",
+    "This original artwork is mistakenly displayed in Battle Mode of Spyro's Adventure (possibly a glitch exclusive to specific versions).",
+    "Sunburn, along with Flashwing, Scratch and Blades are the only four winged Skylanders who cannot fly in game; however, Sunburn and Flashwing are both seen flying in their promotion trailers, and both Sunburn and Scratch hover while performing some attacks (in Sunburn's case, he slightly hovers when using his Phoenix Dash attack).",
+    "However, he is able to fly or at least hover in the 3DS version of Spyro's Adventure and Giants.",
+    "Sunburn's feathers are so hot, you can fry a troll egg on them!",
+    "He is one of the Skylanders in Spyro's Adventure who didn't make it to being a Series 2 in Skylanders: Giants (the others being Boomer, Camo, Voodood, Ghost Roaster, Warnado, Dino-Rang, and Wham-Shell) although Wham-Shell and Warnado get LightCore versions of themselves in Swap Force, Camo gets a Series 2 in the game and the rest of those Skylanders (Except for Sunburn) have an Eon's Elite in SuperChargers).",
+    "While he doesn't make a Series 2 counterpart, his evil counterpart, the Evil Phoenix Dragon, appears in the chapter of the former mentioned game, Glacier Gully as an ambush in the Elemental Gate.",
+    "As of Imaginators, Sunburn is the only dragon from Spyro's Adventure who never got a Series 2 or LightCore counterpart.",
+    "He is able to teleport, and uses this ability to play pranks on the other Skylanders.",
+    "He shares some similarities to Skywarp from the Transformers franchise: Both are teleporting pranksters capable of flight.",
+    "In the Skylanders Giants Official Guide, at one point, he is mistakenly called Sunbeam.",
+    "At another part, he is referred to as female.",
+    "The explosions his teleporting ability leaves behind have a much smaller area of effect after Giants compared to the first game.",
+    "He is also the only Skylander to have an area named after them, as in Dragon's Peak there is an area called Sunburn's Rest.",
+    "However, a non-Skylander has a place named after it as well - Quigley (Quigley's Grotto).",
+    "Sunburn is voiced by Troy Baker, who also voices Steeljaw in Transformers: Robots in Disguise (2015), Joel from The Last of Us, Loki in multiple Marvel Animated series, and Batman in Lego Batman 2: DC Superheroes.",
+    "He and Blades are currently the only two dragon Skylanders who came in Adventure Packs.",
+    "Sunburn is the only Skylander from Spyro's Adventure who has not had a repose in any sequel game so far.",
+    "On the Wii and Wii U version of Spyro's Adventure, Sunburn doesn't make a jumping animation when summoned on the portal, whereas on other consoles versions and in Giants, he jumps.",
+    "If an enemy in Skylanders Giants hits Sunburn during his Phoenix Dash, Sunburn's body will appear along with its fiery outline.",
+    "In the Xbox 360 version of Spyro's Adventure, Sunburn can teleport underneath certain Air Elemental gates, such as those in Stormy Stronghold, Goo Factory, and Arkeyan Armory."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventure - Sunburn Trailer (Roast-N-Toast)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_-_Sunburn_Trailer_(Roast-N-Toast)"
+    },
+    {
+      "name": "Meet the Skylanders Sunburn (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Sunburn_(extended)"
+    },
+    {
+      "name": "Skylanders Giants - Sunburn's Soul Gem Preview (Roast-N-Toast)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Sunburn's_Soul_Gem_Preview_(Roast-N-Toast)"
+    }
+  ],
+  "gameplay": "Sunburn has the ability to breathe streams of fire. He also has a unique ability to teleport from one place to another, leaving a trail of flames behind. Sunburn is able to perform a fiery dash, where his speed increases while burning enemies in his path, which ends in an fiery explosion. It is said that his body temperature is so hot that his very molecules can't remain in one place and will teleport to a new location. Truth to be told, this ability has nothing to do with temperature, but is in fact a side effect of Sunburn being the only known half-dragon half-phoenix to exist.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Sunburn",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Flamethrower Breath",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Sunburnprimarypower.png/revision/latest?cb=20120518061638",
+        "content": "Unleash a stream of flame breath",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Immolation Teleport",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a6/Sunburnsecondarypower.png/revision/latest?cb=20120518061709",
+        "content": "Teleport to another location, leaving a damaging flame behind.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Guided Teleportation",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Sunburnbasicupgrade1.png/revision/latest?cb=20120518061759",
+        "content": "Control the direction of your teleport.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Blazethrower",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Sunburnbasicupgrade2.png/revision/latest?cb=20120518061820",
+        "content": "Flamethrower Breath does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Phoenix Dash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/31/Sunburnbasicupgrade3.png/revision/latest?cb=20130316192806",
+        "content": "Perform a Phoenix Dash.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Immolation Inflammation",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9f/Sunburnbasicupgrade4.png/revision/latest?cb=20120518061957",
+        "content": "Flames left behind after teleporting do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Flight of the Phoenix",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5d/Sunburnsoulgempower.png/revision/latest?cb=20120518061733",
+        "content": "Phoenix Dash lasts longer, does more damage, and ends with a blast.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Blaze Dragon",
+        "abilities": [
+          {
+            "name": "Infinite Flame",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Sunburnpath1upgrade1.png/revision/latest?cb=20120518062020",
+            "content": "Endlessly use the Flamethrower Breath attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Intense Heat",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Sunburnpath1upgrade2.png/revision/latest?cb=20120518062121",
+            "content": "Hold the Flamethrower Breath attack longer for extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Phoenix Grand Blaze",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Sunburnpath1upgrade3.png/revision/latest?cb=20120518062142",
+            "content": "Hold Flamethrower Breath long enough to be surrounded by flame and do extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Flame Lord",
+        "abilities": [
+          {
+            "name": "Immolation Destruction",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/af/Sunburnpath2upgrade1.png/revision/latest?cb=20120518062237",
+            "content": "Flames left behind after teleporting are larger and do extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Flame Streaks",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Sunburnpath2upgrade2.png/revision/latest?cb=20120518062301",
+            "content": "Teleporting creates streaks of flames that damage enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Burning Trail",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Sunburnpath2upgrade3.png/revision/latest?cb=20120518062329",
+            "content": "Streaks of flames do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "sunburn",
       "variant_name": "Sunburn",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e9/310px-Sunburn_01.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e9/310px-Sunburn_01.jpg/revision/latest?cb=20170326190741",
       "attacks": [
         "Flamethrower Breath",
         "Immolation Teleport",
@@ -44,7 +300,28 @@
         "Phoenix Dash",
         "Infinite Flame"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 (max. 560)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "39 (max. 89)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Sunburn"
     }
   ]
