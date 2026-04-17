@@ -4,32 +4,107 @@
   "species": "Dragon",
   "gender": "Male",
   "element": "Life",
+  "role": "Skylander",
   "primary_game": "Spyro's Kingdom (scrapped)",
   "appearances": [
     "Spyro's Kingdom (scrapped)",
     "Skylanders: The Beginning",
     "Skylanders: SuperChargers (flashback)"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Sun Dragon is a scrapped character and the original design for the Skylander Camo. He briefly appeared in the early promotional trailer 'Skylanders: The Beginning' as a member of the Life element.",
+  "biography": "Sun Dragon was one of the earliest Skylanders designed during the development of 'Spyro's Kingdom'. He was originally intended to be a more menacing Life-elemental dragon. However, during the transition into 'Skylanders: Spyro's Adventure', his design was overhauled and softened, eventually becoming the character Camo. Despite being replaced, he remains a notable part of Skylanders history due to his appearance in early trailers.",
+  "quote": "Unknown",
+  "personality": "Sun Dragon was designed with a more intimidating and menacing appearance compared to the final version of Camo. While he was never given a spoken personality in the final games, his early concept art suggests a fiercer, more primal nature.",
+  "story": [
+    {
+      "story_name": "Development History",
+      "content": "Sun Dragon was present during the initial pitch of the game. He was intended to represent the Life element as a playable dragon. Late in the development cycle, the team decided to redesign him, leading to the creation of Camo. The two share an identical moveset, indicating that Camo is a direct evolution of the Sun Dragon concept.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Generic",
+      "content": [
+        "Roar!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Sun Dragon, Fire Kraken, and Flare Wolf are the only Skylanders who use fireworks to fight.",
+    "The dragon heads on the door archways around the Creepy Citadel are modelled after Sun Dragon.",
+    "He can be seen in the background of 'The Beginning' trailer near Slam Bam and Wrecking Ball.",
+    "Sun Dragon bears a resemblance to Shenron from the Dragon Ball series.",
+    "He appears in a flashback in Skylanders: SuperChargers using footage from the original teaser."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders: The Beginning",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=S38W_y6Y10I"
+    }
+  ],
+  "gameplay": "Sun Dragon's gameplay was centered around life-based magic and explosive pyrotechnics. Like Camo, he would have summoned firecracker vines to trap enemies and fired sun bursts to deal ranged damage.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Sun_Dragon",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Sun Burst",
+        "imgPath": "sun_burst_icon.png",
+        "content": "Fires a concentrated burst of sun energy at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#8DB600",
+          "bg_content": "#E2F2D5"
+        }
+      },
+      {
+        "name": "Firecracker Vines",
+        "imgPath": "firecracker_vines_icon.png",
+        "content": "Summons vines that explode upon contact with enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#8DB600",
+          "bg_content": "#E2F2D5"
+        }
+      }
+    ],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "sun-dragon",
-      "variant_name": "Sun Dragon",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "id": "sun-dragon-prototype",
+      "variant_name": "Sun Dragon (Prototype)",
+      "edition": "Prototype",
+      "type": "Core",
       "game": "Spyro's Kingdom (scrapped)",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d4/SunDragon_PrototypeToy.png/revision/latest?cb=20211011234236",
-      "attacks": [],
-      "stats": null,
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d4/SunDragon_PrototypeToy.png",
+      "attacks": [
+        "Sun Burst",
+        "Firecracker Vines"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "60"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Sun_Dragon"
     }
   ]
