@@ -4,6 +4,7 @@
   "species": "Gremlin",
   "gender": "Male",
   "element": "Tech",
+  "role": "Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -12,22 +13,123 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Springtime Trigger Happy is an Easter-themed counterpart of Trigger Happy in Skylanders: Swap Force.",
   "biography": "Every year the residents of Skylands gather together for the annual Dragon Egg Hunt, celebrating the arrival of spring time. In his enthusiasm for the event, Trigger Happy has dyed himself and his rocket in the pastel colors of the season. Now disguised as a dragon egg, his new mission is to end up in the basket of a lucky kid... and not a dragon!",
-  "personality": null,
-  "story": null,
+  "quote": "No Gold, No Glory!",
+  "personality": "Trigger Happy is highly enthusiastic about seasonal events, particularly the annual Dragon Egg Hunt, going as far as to disguise himself as a dragon egg in hopes of being found by a lucky child.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Every year the residents of Skylands gather together for the annual Dragon Egg Hunt, celebrating the arrival of spring time. In his enthusiasm for the event, Trigger Happy has dyed himself and his rocket in the pastel colors of the season. Now disguised as a dragon egg, his new mission is to end up in the basket of a lucky kid... and not a dragon!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest/scale-to-width-down/267?cb=20140311183832"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "No Gold, No Glory!"
+      ]
+    }
+  ],
+  "trivia": [
+    "To help go along with the Dragon Egg hunt, Trigger Happy also painted his rocket in the colors of the season.",
+    "Springtime Trigger Happy is one of three holiday based alter-ego Skylanders to come with an exclusive hat, the other two being Jolly Bumble Blast, and Kickoff Countdown.",
+    "They were also only released in Swap Force.",
+    "Springtime Trigger Happy comes with a unique hat for Swap Force, the Springtime Hat.",
+    "Springtime Trigger Happy, Hoppity Pop Fizz, Rocky Egg Roll, Eggsellent Weeruptor, and Eggcited Thrillipede are the only Easter Skylanders.",
+    "There is a flocked figure of Springtime Trigger Happy, which is the only case of a variant of a variant."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders - Springtime Trigger Happy",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Springtime_Trigger_Happy"
+    }
+  ],
+  "gameplay": "Springtime Trigger Happy uses Tech-based weaponry such as Gold Coin Shooters and Safe Cracker Bombs. He shares the same move set as Series 3 Trigger Happy, allowing him to throw Pots O' Gold and unleash a Coinsplosion.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Springtime_Trigger_Happy",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Gold Coin Shooters",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest/scale-to-width-down/267?cb=20140311183832",
+        "content": "Shoots gold coins at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#523112"
+        }
+      },
+      {
+        "name": "Safe Cracker Bomb",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest/scale-to-width-down/267?cb=20140311183832",
+        "content": "Throws safe cracker bombs that explode on impact.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#523112"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Pot O' Gold",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest/scale-to-width-down/267?cb=20140311183832",
+        "content": "Throws a pot of gold that causes significant damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#523112"
+        }
+      },
+      {
+        "name": "Golden Super Charge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest/scale-to-width-down/267?cb=20140311183832",
+        "content": "A powerful super-charged attack using golden energy.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#523112"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Coinsplosion",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest/scale-to-width-down/267?cb=20140311183832",
+        "content": "A massive explosion of coins that damages all nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#523112"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "springtime-trigger-happy",
+      "id": "springtime-trigger-happy-variant",
       "variant_name": "Springtime Trigger Happy",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Spring Edition",
+      "type": "Special Edition",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest?cb=20140311183832",
       "attacks": [
@@ -37,7 +139,24 @@
         "Golden Super Charge",
         "Coinsplosion"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "100"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Springtime_Trigger_Happy"
     }
   ]
