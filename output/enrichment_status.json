@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-17T09:03:28.737Z",
+  "last_run": "2026-04-17T15:23:34.073Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -1140,6 +1140,38 @@
     {
       "name": "Spotlight",
       "sha": "1619adda587ea875bdd3f0db81ab628b2d9fda7d97535fca55fb9bb463f2b7c0"
+    },
+    {
+      "name": "Springtime Trigger Happy",
+      "sha": "ac69ffb45ceac7590450dcc9f439e99ecb4cef32e58aa93b86c4382ee1ead8fa"
+    },
+    {
+      "name": "Sprocket",
+      "sha": "993f312eb590d42991806915723970aa84652bb51854ff5429f54bd228b04618"
+    },
+    {
+      "name": "Spry",
+      "sha": "5f7f628f9c0098e7bee9818532fc86d76bf9dee0a95ef0a2f588086bafc7d5a7"
+    },
+    {
+      "name": "Spy Rise",
+      "sha": "964e4e4997c444430dd1019d92372bc259438df0c82639492b3bdef0533ba8d1"
+    },
+    {
+      "name": "Spyro",
+      "sha": "cd9bbf23a0e87d835f41b8915bda16ddf6658e2f3849a2b42be690d1b404a963"
+    },
+    {
+      "name": "Star Strike",
+      "sha": "34ba3ef97fc11b5656c49b060abb33ddd592305b06a7b3c11ee53f2f945bf5f6"
+    },
+    {
+      "name": "Starcast",
+      "sha": "3e5b6a7badd7ee4d9696adf2f484efc48764387e41947f300a01a0f781b1f862"
+    },
+    {
+      "name": "Stealth Elf",
+      "sha": "3fdc1dd58ea55da54b70e6253ca5fd264ac77e57abd018754a22e37ac846b47d"
     }
   ]
 }
