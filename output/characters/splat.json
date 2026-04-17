@@ -4,22 +4,287 @@
   "species": "Faun",
   "gender": "Female",
   "element": "Magic",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Unexpected Allies",
+  "cameos": [
+    "Unexpected Allies"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Splat grew up in a typical faun village, which was perfectly manicured and orderly. Every day in school, she and her classmates would recite the same poems, play the same music, and paint the same picture – which was always a portrait of their great ancestor, Fluty Hoofdancer. But this didn’t suit Splat. The only art she wanted to learn was the art of war! After school, she would sneak off to the river and practice her own free form fighting technique against Chompies and other creatures that were causing trouble. When the elder fauns learned of this, they were outraged. But soon thereafter, a band of Drow attacked the village to steal their valuable art, and while the other fauns cowered in fear, Splat stood her ground. Unleashing her self-taught fighting style, she defended her village and sent the Drow running. Now as a member of the Skylanders , Splat makes quite the impression wherever she goes!",
-  "personality": "Although Splat was in boredom of doing repetitive work at school, she is still a colorful character and admires her various artwork. She also encourages others to break free of their comfort zones and express themselves with paintings. She also knows how to make an excellent impression on her peers. She is the definition of spunky; she's got a lot of fight in her and rarely backs down from a ruckus. Splat is also known to be quite brave when duty calls. &#91; 6 &#93;",
-  "story": null,
+  "description": "Splat is a pink faun who is one of the two Magic SuperChargers in Skylanders: SuperChargers. Her signature vehicle is the Splatter Splasher.",
+  "biography": "Splat grew up in a typical faun village, which was perfectly manicured and orderly. Every day in school, she and her classmates would recite the same poems, play the same music, and paint the same picture – which was always a portrait of their great ancestor, Fluty Hoofdancer. But this didn't suit Splat. The only art she wanted to learn was the art of war! After school, she would sneak off to the river and practice her own free form fighting technique against Chompies and other creatures that were causing trouble. When the elder fauns learned of this, they were outraged. But soon thereafter, a band of Drow attacked the village to steal their valuable art, and while the other fauns cowered in fear, Splat stood her ground. Unleashing her self-taught fighting style, she defended her village and sent the Drow running. Now as a member of the Skylanders, Splat makes quite the impression wherever she goes!",
+  "quote": "The Art of War!",
+  "personality": "Although Splat was in boredom of doing repetitive work at school, she is still a colorful character and admires her various artwork. She also encourages others to break free of their comfort zones and express themselves with paintings. She also knows how to make an excellent impression on her peers. She is the definition of spunky; she's got a lot of fight in her and rarely backs down from a ruckus. Splat is also known to be quite brave when duty calls.",
+  "story": [
+    {
+      "story_name": "Personality",
+      "content": "Although Splat was in boredom of doing repetitive work at school, she is still a colorful character and admires her various artwork. She also encourages others to break free of their comfort zones and express themselves with paintings. She also knows how to make an excellent impression on her peers. She is the definition of spunky; she's got a lot of fight in her and rarely backs down from a ruckus. Splat is also known to be quite brave when duty calls.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "Splat grew up in a typical faun village, which was perfectly manicured and orderly. Every day in school, she and her classmates would recite the same poems, play the same music, and paint the same picture – which was always a portrait of their great ancestor, Fluty Hoofdancer. But this didn't suit Splat. The only art she wanted to learn was the art of war! After school, she would sneak off to the river and practice her own free form fighting technique against Chompies and other creatures that were causing trouble. When the elder fauns learned of this, they were outraged. But soon thereafter, a band of Drow attacked the village to steal their valuable art, and while the other fauns cowered in fear, Splat stood her ground. Unleashing her self-taught fighting style, she defended her village and sent the Drow running. Now as a member of the Skylanders, Splat makes quite the impression wherever she goes!",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "The Art of War!",
+        "A new landscape!",
+        "Exquisite!",
+        "Don't worry, it'll wash out.",
+        "I know how to make an impression!",
+        "Yes!",
+        "Alright!",
+        "Yeah!",
+        "Oh yeah!",
+        "Silence the critics!",
+        "Let's make some magic!",
+        "Splat attack!",
+        "Better luck next time!",
+        "Gotcha good!",
+        "Here we go!",
+        "This is surreal!",
+        "Mint condition!",
+        "Fame & fortune!",
+        "Treasure!",
+        "Money!",
+        "A new coat of paint!",
+        "Picture perfect!",
+        "Paint by numbers!",
+        "How abstract!",
+        "One of my finest performances!"
+      ]
+    },
+    {
+      "quote_type": "Quest Quotes",
+      "content": [
+        "You bet. It never hurts to brush up.",
+        "Thank you, Buzz. An artist likes to be appreciated.",
+        "No sweat, Buzz. With Kaos out there, I have all the inspiration I need.",
+        "Hehe, thanks Buzz... Um, but I wouldn't say 'draw' the line. It was really more of a barrage...",
+        "Yup, I think this one's going to be a real masterpiece, Buzz...",
+        "I'm glad to have made such a strong impression."
+      ]
+    }
+  ],
+  "trivia": [
+    "Her catchphrase is based on Sun Tzu's Chinese military text called The Art of War.",
+    "While Splat's eyes are purple in her promotional art, her eyes are green in the game and in toy form.",
+    "Her nose is pink in toy form and in her promotional art, but it is black in the game.",
+    "Splat's name, her methods of attack, and her inkling creations strongly resemble the gameplay mechanics of the game Splatoon.",
+    "Her name early in development, Oil Pan, is a pun on the object and the faun god of the wilds in Greek Mythology.",
+    "Certain toy figures of Splat have been reported to possess a faint, sweet vanilla-like scent.",
+    "Splat's voice actress, Brittany Snow is best known for her roles as Amber Von Tussle in Hairspray and Chloe in the Pitch Perfect trilogy.",
+    "Her stats phrase 'Picture perfect' may be a reference to Snow's role in the latter films.",
+    "In Skylanders: Ring of Heroes, Splat's outfit was changed from the waist up and parts of her hair are longer, for reasons unknown."
+  ],
+  "trailers": [
+    {
+      "name": "Splat",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Splat"
+    },
+    {
+      "name": "Skylanders SuperChargers - Splat Soul Gem Preview (The Art of War)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Splat_Soul_Gem_Preview_(The_Art_of_War)"
+    },
+    {
+      "name": "Meet the Skylanders SuperChargers Splat and Splatter Splasher",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_SuperChargers_Splat_and_Splatter_Splasher"
+    }
+  ],
+  "gameplay": "Splat can pummel enemies with her paintbrush staff as well as lob blobs of paint. She can also summon billy goat-like inklings to charge forward and leave pools of ink that damage her opponents.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Splat",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Artisan Arts",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/75/Splatprimarypower.png",
+        "content": "Press Attack 1 to pummel enemies with your brush staff.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Heave Hue!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/68/Splatsecondarypower.png",
+        "content": "Press Attack 2 to fling an explosive ink blob at enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Have An Inkling",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/be/Splatbasicupgrade1.png",
+        "content": "Press Attack 3 to send an inkling charging forward, leaving damaging ink pools behind and hitting enemies in the way.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Dye Hard",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/65/Splatbasicupgrade2.png",
+        "content": "Melee attacks do more damage to enemies. The sparkly bits make it hurt more!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Broad Strokes",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Splatbasicupgrade3.png",
+        "content": "Press Attack 2 to fling an even larger explosive ink blob at enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Scape-Goat",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Splatbasicupgrade4.png",
+        "content": "Press Attack 3 to summon a more powerful inkling that leaves behind longer lasting ink pools.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Bringing the Stain",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Splatsoulgempower.png",
+        "content": "Enemies hit with ink attacks are now slowed.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Prolific Painter",
+        "abilities": [
+          {
+            "name": "Wet Paint",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6d/Splatpath1upgrade1.png",
+            "content": "Hold Attack 2 and release to throw a huge explosive ink blob that leaves a pool of damaging ink on the ground.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Canvas the Area",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/df/Splatpath1upgrade2.png",
+            "content": "Ink pools created by Wet Paint are now larger.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Shades of Pain",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Splatpath1upgrade3.png",
+            "content": "Hold Attack 2 and release to throw a huge explosive ink blob that creates a large angry ink monster that attacks nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Abstract Designer",
+        "abilities": [
+          {
+            "name": "Running Colors",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/02/Splatpath2upgrade1.png",
+            "content": "Inkling creatures now charge a further distance to hit enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Stroke of Genius",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/24/Splatpath2upgrade2.png",
+            "content": "Inklings and ink pools left behind by inklings will now explode!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Graffiti Gruff",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Splatpath2upgrade3.png",
+            "content": "Hold Attack 3 even longer and release to draw a huge inkling that will trample enemies in front of you.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "splat",
@@ -35,7 +300,28 @@
         "Wet Paint",
         "Running Colors"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "240"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "6"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "4"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "30"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Splat"
     }
   ]
