@@ -4,22 +4,239 @@
   "species": "Kong",
   "gender": "Male",
   "element": "Life",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Unexpected Allies",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Rift into Overdrive",
+  "cameos": [
+    "Rift into Overdrive"
+  ],
   "world": [
     "Donkey Kong Island"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Donkey Kong is a fun-loving powerhouse gifted with great strength and incredible agility. His insatiable curiosity and easy-going attitude led him to explore the rift that appeared in his native jungle and brought him to exciting new adventures in this world called Skylands . Donkey Kong's fearlessness and reflexes made him a welcome addition to the SuperChargers and also the perfect driver for the stunt-tacular Barrel Blaster vehicle.",
-  "personality": "Being one of Nintendo's most iconic protagonists, Donkey Kong is a carefree, lazy, intelligence-lacking, yet trustworthy hero on Donkey Kong Island. However on various occasions, he was forced to take action with his sidekick and best friend, Diddy Kong and other members of the Kong Family to reclaim their main priority, the Banana Hoard, from their common enemies, the Kremling Krew. Now as a SuperCharger, Donkey Kong is very competitive and agile on the battlefield; because he isn't as fast as Spitfire , Stormblade , or Stealth Elf , he tends to revert to Super Donkey Kong mode to keep up. He is also now deeply concerned for the safety of his fellow Skylanders and loved ones. Like all Life Skylanders, Donkey Kong prefers to keep his feet on the ground. At certain times, he can act a bit immature in the midst of battle, but is very protective of the defenseless. Despite his generally relaxed demeanor, he can easily get irritated when one mistakes him for a monkey, which is evidenced when Blubberbeard was introducing himself to the former and Bowser.",
-  "story": null,
+  "description": "Turbo Charge Donkey Kong, otherwise known as Donkey Kong, is a Kong who is the main protagonist of the Donkey Kong series. He is a special Skylander-amiibo hybrid, along with Hammer Slam Bowser, who is one of the Life SuperChargers in Skylanders: SuperChargers. His signature vehicle is the Barrel Blaster.",
+  "biography": "Donkey Kong is a fun-loving powerhouse gifted with great strength and incredible agility. His insatiable curiosity and easy-going attitude led him to explore the rift that appeared in his native jungle and brought him to exciting new adventures in this world called Skylands. Donkey Kong's fearlessness and reflexes made him a welcome addition to the SuperChargers and also the perfect driver for the stunt-tacular Barrel Blaster vehicle.",
+  "quote": "None",
+  "personality": "Being one of Nintendo's most iconic protagonists, Donkey Kong is a carefree, lazy, intelligence-lacking, yet trustworthy hero on Donkey Kong Island. However on various occasions, he was forced to take action with his sidekick and best friend, Diddy Kong and other members of the Kong Family to reclaim their main priority, the Banana Hoard, from their common enemies, the Kremling Krew. Now as a SuperCharger, Donkey Kong is very competitive and agile on the battlefield; because he isn't as fast as Spitfire, Stormblade, or Stealth Elf, he tends to revert to Super Donkey Kong mode to keep up. He is also now deeply concerned for the safety of his fellow Skylanders and loved ones. Like all Life Skylanders, Donkey Kong prefers to keep his feet on the ground. At certain times, he can act a bit immature in the midst of battle, but is very protective of the defenseless. Despite his generally relaxed demeanor, he can easily get irritated when one mistakes him for a monkey, which is evidenced when Blubberbeard was introducing himself to the former and Bowser.",
+  "story": [
+    {
+      "story_name": "Unexpected Allies",
+      "content": "When Kaos cut off the connection between the Portals in Skylands, Mags' distress signal was not only able to reach all of Skylands but to other worlds as well. Both Donkey Kong and Bowser were transported to Skylands through a rift where they were soon attacked by a gang of pirates lead by Captain Blubberbeard. During the battle, they discovered two Rift Engines nearby and touched them, transforming into SuperChargers. With their newfound powers, Bowser and Donkey Kong defeated the pirates and drove them away. Skylanders, Bone Bash Roller Brawl and Lava Lance Eruptor, discovered the two newcomers and brought them back to the Skylanders Academy where Buzz explained what was happening to Skylands. Donkey Kong was enthusiastic on helping out against Kaos and The Darkness, while Bowser was hesitant before the two were given their own personal vehicles to aid them in their cause.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [],
+  "trivia": [
+    "Skylanders: SuperChargers marks one of Donkey Kong's appearances outside of his original gaming franchise and the Mario franchise behind the Punch-Out!! and Super Smash Bros. franchises.",
+    "Unlike most bipedal Skylanders and other characters with either three or four digits on each of their hands and feet, Turbo Charge Donkey Kong and Diddy Kong have five on each hand and foot.",
+    "They were the only characters to have five digits until the introduction of the Portal Masters from Skylanders: Ring of Heroes.",
+    "He is the third simian Skylander, with the first being Grilla Drilla and the second being Fling Kong.",
+    "Turbo Charge Donkey Kong was originally going to belong to a new Element called Banana, but this idea was scrapped.",
+    "Turbo Charge Donkey Kong's first basic ability, the Primate Punch, has the same name as Chunky Kong's special ability in Donkey Kong 64.",
+    "His ability to heal himself (only with the Pointy Preparations path and the Healthy Kong upgrade purchased) can restore his health by +136, which makes him the fastest self-healing Skylander in the game series.",
+    "He and Bowser are the only two SuperChargers with vehicles not of their respective Elements.",
+    "They are also the only Guest Star Skylanders that have dark versions of themselves.",
+    "When compared to the other SuperChargers in game, Donkey Kong and Bowser appear to be taller than the rest of them.",
+    "He, Spyro, Dino-Rang, Flashwing, Star Strike, Enigma, Hammer Slam Bowser, Crash Bandicoot, Dr. Neo Cortex, and Starcast are the only Skylanders who do not originate from Skylands.",
+    "Donkey Kong, Bowser, and Crash Bandicoot are the only Skylanders without catchphrases due to none of them actually able to talk. Dr. Neo Cortex also lacks a catchphrase, but is fully capable of speech.",
+    "Crash, however, is able to say some short words and phrases, although for full communication, Aku Aku serves as his translator.",
+    "Coincidentally, Donkey Kong and Crash are currently the only guest characters of the Life element.",
+    "He and Smash Hit are tied for having the highest amount of health out of all the SuperChargers.",
+    "Donkey Kong, Bowser, Spyro, Cynder, Sparx, Malefor, Crash Bandicoot, and Dr. Neo Cortex are the only characters to appear in franchises before the series.",
+    "Of these characters, Donkey Kong was the first to make his debut. He first appeared in the 1981 arcade game Donkey Kong, making him the oldest character in the Skylanders series.",
+    "Super Donkey Kong may be a reference to the Japanese title of the Donkey Kong Country series."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders SuperChargers Turbo Charge Donkey Kong",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_SuperChargers_Turbo_Charge_Donkey_Kong"
+    }
+  ],
+  "gameplay": "Although he was transformed by a Rift Engine, Donkey Kong still retains some of his original powers from his old days. He can use his Barrels of Fun from the Donkey Kong Country games to sneak past enemies; his Bongo Barrel from the Donkey Konga games to release a damaging shockwave as well as summoning Diddy Kong, and transform into Super Donkey Kong to perform a barrel roll, barrel punches, and his Old School ability, using the girders and ladders from the 1981 Donkey Kong arcade game (originally forming a construction site which served as a fortress for his grandfather, Cranky Kong). Reverting to Super Donkey Kong also allows him to rapidly heal if he chooses his Pointy Preparations path. His primary ability, Primate Punch, gets its name from Donkey Kong 64, being Chunky Kong's secondary ability. He can also throw his barrels, which damage faraway enemies or self-destruct on contact with nearby baddies.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Turbo_Charge_Donkey_Kong",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Primate Punch",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Turbo_Charge_Donkey_Kongprimarypower.png/revision/latest?cb=20170505144150",
+        "content": "Press Attack 1 rapidly to perform melee attacks.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Barrel Toss",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Turbo_Charge_Donkey_Kongsecondarypower.png/revision/latest?cb=20170505144155",
+        "content": "Press Attack 2 to throw your barrels at nearby enemies. If they get too close you'll smash them with the barrel instead.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Bongo Barrel",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a5/Turbo_Charge_Donkey_Kongbasicupgrade1.png/revision/latest?cb=20170505144203",
+        "content": "Press Attack 3 rapidly to slam your barrel down and use it as a Bongo, use your bongos to damage nearby enemies. When you stop your Bongo will continue to play for a short time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Super Donkey Kong",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Turbo_Charge_Donkey_Kongbasicupgrade2.png/revision/latest?cb=20170505144208",
+        "content": "Hold Attack 1 to enter Super Donkey Kong mode. When in Super Donkey Kong mode press Attack 3 to stomp and Attack 1 to do a barrel roll!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Barrels of Fun",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Turbo_Charge_Donkey_Kongbasicupgrade3.png/revision/latest?cb=20170505144214",
+        "content": "Charge up Attack 2 and release to be put into an arrow barrel. While in the barrel you'll be able to aim around the level and shoot yourself causing an explosion where you land.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Old School",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/91/Turbo_Charge_Donkey_Kongbasicupgrade4.png/revision/latest?cb=20170505144220",
+        "content": "Tap Attack 3 in Super Donkey Kong mode to cause ladders and girders to fall from the sky.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Diddy You Call?",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c3/Turbo_Charge_Donkey_Kongsoulgempower.png/revision/latest?cb=20160912140809",
+        "content": "Press Attack 3 to build up a power meter, when filled you will call in Diddy Kong to fly around on his jetpack and attack nearby enemies!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Powder Keg Power",
+        "abilities": [
+          {
+            "name": "Boom Barrels",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Turbo_Charge_Donkey_Kongpath1upgrade1.png/revision/latest?cb=20170505144740",
+            "content": "Tapping Attack 2 will now throw explosive barrels!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Explosive Landing",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/59/Turbo_Charge_Donkey_Kongpath1upgrade2.png/revision/latest?cb=20170505144745",
+            "content": "Charge up Attack 2 and release to be shot around in a barrel. At the end of the move you'll now trigger a big explosion.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Bongo Blast",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/20/Turbo_Charge_Donkey_Kongpath1upgrade3.png/revision/latest?cb=20170505144752",
+            "content": "Press Attack 3 rapidly to start playing the Bongos that are left behind now explode!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Pointy Preperations",
+        "abilities": [
+          {
+            "name": "Spikey Barrels",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Turbo_Charge_Donkey_Kongpath2upgrade1.png/revision/latest?cb=20170505144504",
+            "content": "Tapping Attack 2 will now throw spikey barrels! Also, Super Donkey mode will use spiked barrels to attack enemies!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Barrel Rolled",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Turbo_Charge_Donkey_Kongpath2upgrade2.png/revision/latest?cb=20170505144509",
+            "content": "Hold Attack 1 to enter Super Donkey Kong mode. Press Attack 2 while in Super Donkey Kong mode to roll over nearby enemies in a huge spiked barrel.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Healthy Kong",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ec/Turbo_Charge_Donkey_Kongpath2upgrade3.png/revision/latest?cb=20170505144516",
+            "content": "Regenerate Health while in Super Donkey Kong mode.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "turbo-charge-donkey-kong",
@@ -35,7 +252,28 @@
         "Super Donkey Kong",
         "Barrels of Fun"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "370 (1110)"
+        },
+        {
+          "stat_name": "Attack",
+          "stat_value": "8 (58)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "4 (29)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "15 (45)"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "8 (28)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Turbo_Charge_Donkey_Kong"
     }
   ]
