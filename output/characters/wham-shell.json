@@ -4,6 +4,7 @@
   "species": "Crab",
   "gender": "Male",
   "element": "Water",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -17,16 +18,313 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Wham-Shell is a crimson-colored crab in Skylanders: Spyro's Adventure. He is of the Water element.",
   "biography": "Wham-Shell was the long-standing ruler of a kingdom deep in the oceans of Skylands that for a long time lived peacefully. That is, until his underwater utopia was invaded by a legion of oil-drilling trolls that scattered his people to the wind. Armed with a powerful mace that had been handed down from one king to the next for generations, Wham-Shell defeated the greedy trolls and drove them away. Soon after, he joined the Skylanders to help defend against this type of atrocity ever happening again.",
-  "personality": "Regal and heroic, Wham-Shell never forgets the common clams and protects the seas for all his worth. &#91; 3 &#93; As the son of an underwater king, he isn't used to being refused anything. &#91; 4 &#93; It is also said that he is usually a pretty together kind of guy. &#91; 5 &#93;",
-  "story": null,
+  "quote": "Brace for the Mace!",
+  "personality": "Regal and heroic, Wham-Shell never forgets the common clams and protects the seas for all his worth. As the son of an underwater king, he isn't used to being refused anything. It is also said that he is usually a pretty together kind of guy.",
+  "story": [
+    {
+      "story_name": "Gill Grunt and the Curse of the Fish Master",
+      "content": "Wham-Shell and Zap were called by Master Eon to assist Gill Grunt when a Gillman was about to be eaten alive by a rampaging Cloud Kraken. They both saved Gill Grunt and attempted to stop the Cloud Kraken, only to make the beast turn its blind fury upon a pirate ship called the Fearsome Fang and its crew. The ship's captain, Grimslobber, mysteriously scared off the Cloud Kraken without having to do a thing, confusing Gill Grunt, Zap, and Wham-Shell.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Zap%2C_Gill%2C_Wham-Shell%2C_and_Grimslobber.jpg/revision/latest/scale-to-width-down/172?cb=20130412195955"
+    },
+    {
+      "story_name": "Gill Grunt and the Curse of the Fish Master",
+      "content": "When Grimslobber called Gill Grunt names to try and pick a fight, Wham-Shell was the first to defend his fellow Skylander before Zap but was calmed down by Gill Grunt as they didn't want any trouble with the captain and his band of pirates. Zap then unintentionally asked them about a treasure one of the pirates accidentally blurted out, prompting the seemingly friendly Grimslobber to surround the Water Skylanders with his crew and attack them. Gill Grunt, Zap, and Wham-Shell narrowly escaped the Fearsome Fang and dove into the safety of the sea, leaving Grimslobber to swear vengeance.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Gill Grunt and the Curse of the Fish Master",
+      "content": "The Water Skylanders then hear from Spyro that Kaos was after the Water Fragment as well, and Gill Grunt quickly lead his fellow Water Skylanders to the Kingdom of the Merpeople, knowing that the merpeople, who have swam the waters for thousands of years, would know the location of the fragment. The Skylanders discovered the kingdom was deserted, with only the elderly, children, King Scalebeard, Prince Aquan, and Princess Finella still within the kingdom's barrier. Suddenly Prince Aquan and Princess Finella fell under a strange trance and swam out of the kingdom along with several other merfolk, and the Skylanders followed them in hot pursuit to see where they were going.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Gill Grunt and the Curse of the Fish Master",
+      "content": "With the help of Zap's speed, the Water Skylanders were able to keep up with the merfolk, avoiding a swarm of electro-jellies along the way. During the chase, Wham-Shell mysteriously had fallen under a spell and turned on Gill Grunt and Zap. The rogue crustacean captured Zap after knocking him nearly unconscious with his starfish bullets and dragged him into a cave where the hypnotized merfolk went into.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Gill Grunt and the Curse of the Fish Master",
+      "content": "Wham-Shell was later revealed to be under the control of Captain Grimslobber, who was using the Fish Master's Crown to force the merfolk into digging out the gem-eels and hauling them to the surface so that he could become rich. Gill Grunt was able to free himself from the curse with the help of Zap, causing Grimslobber to lose control over a portion of his hypnotized victims. During the confusion, Wham-Shell was freed from the curse and released the Gem-Eels, causing Grimslobber to lose his hold on the Crown, and it shattered on the ocean floor into two pieces, fully freeing the merfolk. As the pirate captain made a hasty retreat, Wham-Shell followed after Gill Grunt back onto the deck of the Fearsome Fang along with Zap. With the help of the freed merfolk and even Spyro, the Water Skylanders bested Grimslobber and his pirate crew.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Wham-Shell_and_Grimslobber.jpg/revision/latest/scale-to-width-down/222?cb=20130412195955"
+    },
+    {
+      "story_name": "Gill Grunt and the Curse of the Fish Master",
+      "content": "Grimslobber pulled out a pistol and attempted to kill Gill Grunt when the captain was knocked overboard and eaten alive by the Cloud Kraken. Kaos then revealed his presence, having recovered the pieces of the broken Fish Master's Crown that supposedly contained the Water fragment. After taunting the Skylanders, the evil Portal Master made his leave but not before sinking the Fearsome Fang. Spyro, Gill Grunt, Zap, and Wham-Shell quickly escaped off of Grimslobber's sinking ship through a portal.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Gill Grunt and the Curse of the Fish Master",
+      "content": "Back at the Eternal Archives, it seemed the Skylanders had failed their mission to retrieve the Water fragment when Gill Grunt checked Grimslobber's satchel he brought back with him and held a dirty rag the captain had used to wrap the Fish Master's Crown. The rag soon revealed itself to be the Water Fragment, making the Skylanders realize that Kaos had stolen nothing more than a worthless broken crown. Knowing that Kaos would be after the next fragment to the Mask of Power, the Skylanders would be ready for him...",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Brace for the Mace!",
+        "Here I go!",
+        "Power blast!",
+        "More power!",
+        "Success!",
+        "Excellent!",
+        "Perfect!",
+        "Victory is mine!",
+        "Shell shocked!",
+        "You're all washed up!",
+        "On my way!",
+        "No stopping me!",
+        "A water wonderland!",
+        "Yeah!",
+        "Power surge!",
+        "Just like sand dollars!",
+        "Gifts of the sea!",
+        "My strength is growing!",
+        "My numbers are sweating!",
+        "This will make a great swimming cap!",
+        "Nice hat, it should look good underwater!",
+        "A worthy name!",
+        "A wise choice!",
+        "My mace and I are getting bored. Can we go now?",
+        "Maybe I'll just burrow in the ground for a while..."
+      ]
+    }
+  ],
+  "trivia": [
+    "Wham Shell has the least amount of blue on his body out of any Water Skylander, with it only being on his eyes.",
+    "His razor-sharp teeth don't stay so perfectly white by themselves. Wham-Shell brushes them up to fourteen times a day with a toothbrush carved from coral and toothpaste made from mashed fish scales.",
+    "His weapon, the Malacostracan Mace, is named after the scientific class of crustaceans where crabs are part of.",
+    "Despite referring to his weapon as a mace, his weapon is actually a morning star.",
+    "When he enters the water, he rides on his morning star like a witch riding on a broomstick.",
+    "Wham-Shell is one of the eight Skylanders without a Series 2 figure in Giants (the others being Voodood, Dino-Rang, Warnado, Boomer, Sunburn, Camo and Ghost Roaster). However, he and Warnado return in Swap Force as LightCore figures and Camo returns as a Series 2 in Swap Force as well.",
+    "In Giants, the spikes on Wham Shell's morning star are red instead of gold.",
+    "He, Flashwing and Warnado are the only LightCore Skylanders without an additional counterpart as part of the Swap Force toyline.",
+    "As a LightCore figure, the head of his mace lights up when placed on the Portal of Power.",
+    "According to the Spyro's Adventure Sticker Book, Wham-Shell is the son of King Roland and is therefore the prince of said kingdom.",
+    "His exact ruling status is somewhat unclear at times however the majority of sources state that he is a prince and not a king.",
+    "It is said that Wham-Shell's mace can crack almost anything, even the shell of the legendary Sky Lobster.",
+    "Series 1 Wham Shell is the only non-variant character from Skylanders: Spyro's Adventure who was only released in a single-pack. All other characters from the game also appeared in 3-packs, starter packs, or adventure packs.",
+    "Wham-Shell and Crusher are the only Skylanders to change their \"Need to Rest\" animations between games. On the PS3, 360 and PC versions of Spyro's Adventure, Wham-Shell has a completely different death animation than on the Wii version and all subsequent games.",
+    "Gill Grunt was sent by Master Eon to recruit him to the Skylanders."
+  ],
+  "trailers": [
+    {
+      "name": "Brace For The Mace! Meet the Skylanders Wham-Shell (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Brace_For_The_Mace!_Meet_the_Skylanders_Wham-Shell_(extended)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Wham-Shell Trailer (Brace for the Mace)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Wham-Shell_Trailer_(Brace_for_the_Mace)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Wham-Shell Preview Trailer (Brace for the Mace)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Wham-Shell_Preview_Trailer_(Brace_for_the_Mace)"
+    },
+    {
+      "name": "Skylanders Giants - Wham-Shell's Soul Gem Preview (Brace for the Mace)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Wham-Shell%27s_Soul_Gem_Preview_(Brace_for_the_Mace)"
+    },
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - LightCore Wham Shell",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_LightCore_Wham_Shell"
+    }
+  ],
+  "gameplay": "Using his mace, which is called the Troll Cracker (originally called the Claw Cracker due to him defeating the trolls), Wham-Shell can release electricity discharged from the mace's spiked tip. He can also strike his enemies with his mace and release pulses of water from it. In Gill Grunt and the Curse of the Fish Master, it is shown that the mace can magically return to Wham-Shell after being thrown.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Wham-Shell",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Malacostracan Mace",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Wham-Shellprimarypower.png/revision/latest?cb=20241003092245",
+        "content": "Swing Wham-Shell's big mace at his enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Starfish Bullets",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/15/Wham-Shellsecondarypower.png/revision/latest?cb=20241003092348",
+        "content": "Wham-Shell's mace shoots starfish bullets.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Starfishicus Giganticus",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/81/Wham-Shellbasicupgrade1.png/revision/latest?cb=20241003092427",
+        "content": "Charge up the Starfish attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "King's Mace",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/85/Wham-Shellbasicupgrade2.png/revision/latest?cb=20241003092436",
+        "content": "Mace attack does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Starfishicus Superioralis",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/71/Wham-Shellbasicupgrade3.png/revision/latest?cb=20241003092454",
+        "content": "Starfish attack does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Poseidon Strike",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/27/Wham-Shellbasicupgrade4.png/revision/latest?cb=20241003092509",
+        "content": "Create an electrified field that damages enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Carapace Plating",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/05/Wham-Shellsoulgempower.png/revision/latest?cb=20241003092403",
+        "content": "New armor makes Wham-Shell harder to hit.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Captain Crustacean",
+        "abilities": [
+          {
+            "name": "Crustacean Combos",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Wham-Shellpath1upgrade1.png/revision/latest?cb=20241003092529",
+            "content": "Unleash the Mace Master attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Mega Trident",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5c/Wham-Shellpath1upgrade2.png/revision/latest?cb=20241003092539",
+            "content": "Mace attack does even more increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Mace of the Deep",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bf/Wham-Shellpath1upgrade3.png/revision/latest?cb=20241003092547",
+            "content": "Create a more powerful Poseidon Strike.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Commander Crab",
+        "abilities": [
+          {
+            "name": "Triplicate Starfish",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/26/Wham-Shellpath2upgrade1.png/revision/latest?cb=20241003092608",
+            "content": "Shoot 3 Starfish at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Semi-Eternal Pursuit",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0f/Wham-Shellpath2upgrade2.png/revision/latest?cb=20241003092615",
+            "content": "Starfish attack homes in on enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Nightmare Huggers",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/98/Wham-Shellpath2upgrade3.png/revision/latest?cb=20241003092621",
+            "content": "Starfish latch onto enemies doing continuous damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "wham-shell",
@@ -42,7 +340,28 @@
         "Poseidon Strike",
         "Mega Trident"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300 (max. 600)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 88)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "39 (max. 89)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Wham-Shell"
     }
   ]
