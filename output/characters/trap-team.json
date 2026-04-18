@@ -3,35 +3,106 @@
   "name": "Trap Team",
   "species": "Various",
   "gender": "Various",
-  "element": null,
+  "element": "Various",
+  "role": "Skylanders",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "The Trap Team, individually referred to as Trap Masters, are a group of Skylanders who use special crystallized weapons to weaken Villains in Skylanders: Trap Team. Their weaponry is crafted from Traptanium, allowing them to harness the power of the crystals to defeat the most notorious criminals in Skylands.",
+  "biography": "The Trap Masters were the ones who originally caught and imprisoned the villains, including the notorious Doom Raiders, in Cloudcracker Prison. They were the original guardians of the prison until Kaos blew up the walls with a blast of concentrated Evil, which caused the Trap Masters to be banished to Earth alongside the shards of Traptanium. On Earth, they wait for a Portal Master to help them return to Skylands and recapture the escaped villains.",
+  "quote": "The Trap Masters use special crystallized weapons to weaken Villains.",
+  "personality": "The Trap Team is a group of dedicated and powerful protectors of Skylands. As the former wardens of Cloudcracker Prison, they are unified by their duty to capture escaped villains. While the team consists of various individuals with unique traits, they are characterized by their natural leadership—with Snap Shot often acting as their primary leader—and their commitment to using their Traptanium weapons for the greater good.",
+  "story": [
+    {
+      "story_name": "The Siege of Cloudcracker Prison",
+      "content": "The Trap Masters were the original guardians of Cloudcracker Prison. They were responsible for the capture of the Doom Raiders and other notorious villains. After the prison was destroyed by Kaos, the Trap Masters were sent to Earth. They are the only ones capable of using Traptanium weapons to recapture the escaped convicts.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Trap_Team.png/revision/latest?cb=20141010205626"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Characteristics",
+      "content": [
+        "The Trap Team, individually referred to as Trap Masters, are a group of Skylanders who use special crystallized weapons to weaken Villains in Skylanders: Trap Team."
+      ]
+    }
+  ],
+  "trivia": [
+    "The Trap Team were originally called Crystal Warriors during development.",
+    "Each Trap Master has the Trap Team symbol somewhere on their attire or bodies.",
+    "Because the Trap Team's weapons are made of Traptanium, they are the same color as the elemental trap they represent.",
+    "In toy form, Trap Masters are almost about the same size as the Giants.",
+    "Gearshift, Head Rush, Tuff Luck, and Knight Mare are the only female Trap Masters.",
+    "Out of all the Trap Masters, Blastermind and Short Cut are the shortest.",
+    "When used with Villains, they get a timer that drains slower, but recharges faster.",
+    "Trap Masters are the only Skylanders that can open Elemental Gates in Skylanders: Trap Team (this does not apply to the 3DS version).",
+    "Snap Shot, Lob-Star, Gearshift, Gusto, and Ka-Boom are the only Trap Masters to use long-range weaponry.",
+    "The Trap Attack from the Nintendo 3DS version is similar to the Sky-Chi from Skylanders: Imaginators. Both are unique powerful attacks tied to a gauge.",
+    "Wallop is shown to serve as the leader in most trailers and commercials, but Snap Shot is the natural leader of the Trap Masters."
+  ],
+  "trailers": [
+    {
+      "name": "Trap Team's Magic Moment",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=yJhd4btJuZE"
+    }
+  ],
+  "gameplay": "Trap Masters utilize Traptanium weaponry that glows when in proximity to Traptanium crystals or trappable villains. In the console version of Skylanders: Trap Team, they are the only Skylanders capable of opening Elemental Gates. In the Nintendo 3DS version, they have access to a special power called Trap Attack, which is executed by filling a gauge with Traptanium shards. Additionally, when using Villains, the Trap Masters provide a timer that drains slower and recharges faster.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Trap_Team",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Traptanium Weaponry",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Trap_Team.png/revision/latest?cb=20141010205626",
+        "content": "The Trap Masters use specialized crystallized weapons made of Traptanium to weaken and capture villains. These weapons glow brightly when near a Traptanium crystal cluster or when facing a trappable Villain.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#BEE",
+          "bg_content": "#0BF"
+        }
+      }
+    ],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [
+      {
+        "season": 4,
+        "name": "Trap Attack",
+        "imgPath": "",
+        "content": "A unique powerful attack used in the 3DS version of the game. It is activated by filling a trap gauge with Traptanium shards collected from defeated enemies or destroyed objects.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#BEE",
+          "bg_content": "#0BF"
+        }
+      }
+    ],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "trap-team",
       "variant_name": "Trap Team",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Trap Team",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Trap_Team.png/revision/latest?cb=20141010205626",
       "attacks": [
         "Traptanium Weaponry"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Trap_Team"
     }
   ]
