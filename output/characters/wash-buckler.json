@@ -4,6 +4,7 @@
   "species": "Mermasquid",
   "gender": "Male",
   "element": "Water",
+  "role": "SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -12,29 +13,399 @@
     "Skylanders: Trap Team",
     "Return of the Dragon King",
     "Rift into Overdrive",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Battlecast",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [
+    "Skylanders Academy episode, Power Struggle"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Wash Buckler was an orphan Mermasquid, who grew up on one of the roughest pirate ships in Skylands . While most pirates were interested in pillaging and plundering, Wash Buckler had other ideas for the future of pirating. Over the years, he earned the respect of his crew and eventually convinced his fellow pirates that they didn’t all need to be cantankerous bad guys. Thus, they set forward doing heroic deeds. Of course, this new good guy image did not sit well with other pirating crews, who attempted to sabotage Wash Buckler at every turn. But he was no ordinary pirate, and he defended his ship and his crew against the many attacking hordes. It was then that Master Eon took notice of Wash Buckler and asked him to join the Skylanders .",
-  "personality": "Unlike most pirates, Wash Buckler is kind-hearted and true. He was never comfortable with pirating. &#91; 5 &#93;",
-  "story": null,
+  "description": "Wash Buckler is a Water Mermasquid pirate who is one of the SWAP Force Skylanders in Skylanders: Swap Force. His SWAP Force Ability is Climb.",
+  "biography": "Wash Buckler was an orphan Mermasquid, who grew up on one of the roughest pirate ships in Skylands. While most pirates were interested in pillaging and plundering, Wash Buckler had other ideas for the future of pirating. Over the years, he earned the respect of his crew and eventually convinced his fellow pirates that they didn't all need to be cantankerous bad guys. Thus, they set forward doing heroic deeds. Of course, this new good guy image did not sit well with other pirating crews, who attempted to sabotage Wash Buckler at every turn. But he was no ordinary pirate, and he defended his ship and his crew against the many attacking hordes. It was then that Master Eon took notice of Wash Buckler and asked him to join the Skylanders.",
+  "quote": "Eight Legs and No Pegs!",
+  "personality": "Unlike most pirates, Wash Buckler is kind-hearted and true. He was never comfortable with pirating.",
+  "story": [
+    {
+      "story_name": "The Kaos Trap",
+      "content": "Wash Buckler was one of the three Skylanders assigned to deliver supplies to a Mabu mining expedition digging for Radiance Crystals. While travelling there by Flynn's Dread-Yacht, the Mermasquid was relaxing on deck and insisted that Stealth Elf should relax and enjoy the ride to the expedition. In response, Wash Buckler was intimidated when Stealth Elf asked if he had a problem with her way of 'relaxing' after making short work of the training dummies. Suddenly, the Skylanders noticed that Kaos' army of trolls were attacking the Mabu mining expedition for the Radiance Crystals, and Wash Buckler, along with Pop Fizz and Stealth Elf quickly took action to aid the Mabu. During the battle, the three Skylanders were forced to handle the trolls on their own due to the other Skylanders currently defending parts of Skylands elsewhere. Things soon turned for the worse when the Doom Raider Wolfgang arrived, causing the Skylanders, including Wash Buckler, to feel threatened and outmatched as they weren't prepared to tackle both a Troll army and a Doom Raider. Before Wolfgang could begin his attack, the Trap Masters, Snap Shot and Wallop, arrived in time to help their comrades. With their combined efforts, they defeated Wolfgang and drove off the Trolls, saving the Mabu expedition. Both the Skylanders and the Trap Masters are praised by the Mabu leader for their efforts in saving the Mabu, but soon came to notice that the Fork of Infinite Resonance was stolen by the Trolls, causing the Skylanders to ponder on what Kaos was up to.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "Wash Buckler was one of the many Skylanders who were summoned to stop Malefor from attacking the Skylanders Academy. Despite their best efforts, they were overwhelmed by the evil dragon, who proceeded to drain the powers of the Skylanders with a crystal to make himself stronger.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Rift into Overdrive",
+      "content": "Wash Buckler aided the defense of the Skylanders Academy with Chill, Slam Bam, and Zap as his crew on board his ship. When Kaos arrived with a group of his minions in an all-out war, the Mermasquid and his group fought back as enemies breached his ship. Wash Buckler would gain help in the form of Knight Light and his Skylander flight support, successfully fighting off the first wave of enemies before they were met with Kaos' impossibly huge fleet of airships approaching them.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Eight Legs and No Pegs!",
+        "Sailing Ahead!",
+        "Sail Away!",
+        "Your ship has sailed!",
+        "Shape up or ship out!",
+        "Turning the tide!",
+        "No map needed!",
+        "A fine bounty!",
+        "Clear the deck!",
+        "Another success!",
+        "Power blast!",
+        "Power wave!",
+        "Let's chart a new course!",
+        "Making my mark!",
+        "I'm looking ship-shape!",
+        "Where's my pirate hat?",
+        "A hat fit for a captain!"
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Clear the deck!",
+        "Let's set sail!",
+        "At the ready!",
+        "Ready to take the wheel!",
+        "Eight legs and no pegs!",
+        "Prepare for battle!",
+        "Let's turn the tide!",
+        "Captain on deck!",
+        "Retreating!",
+        "Shoving off!",
+        "Making my mark!",
+        "Rising tides!",
+        "A fine trinket.",
+        "Fit for a captain!",
+        "Prosperous!",
+        "A bounty for all!",
+        "Striking!",
+        "Impressive!",
+        "Getting help from the kelp!",
+        "Feeling refreshed!",
+        "Ink marks the spot!",
+        "Strike a pose!",
+        "A strong wind blows...",
+        "Caught you in my wake!",
+        "Think I'll take this!",
+        "Junk it!",
+        "No harming me now!",
+        "Fortified!",
+        "Anchors away!",
+        "Your ship has sailed!",
+        "I shall return...",
+        "A cruel fate!",
+        "Dropped like an anchor...",
+        "Took the wind out of my sails!",
+        "You're all washed up!",
+        "A victory for the ages!",
+        "Shape up or ship out.",
+        "Not very wise.",
+        "Ahoy!",
+        "Do you mind?",
+        "Yes?",
+        "What?!",
+        "Rising in rank!",
+        "Up the chain of command!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Wash Buckler is the third pirate character to be on the side of good; the first ones are Captain Dreadbeard and Thumpback.",
+    "He is also the second pirate character to be a Skylander.",
+    "Even though Wash Buckler's catchphrase is 'Eight Legs and No Pegs', he only has six legs, in-game and toy model.",
+    "Counting his arms would add up to eight limbs, though, as would his mustache, which is made of two tentacles similar to his legs.",
+    "David Nathanielsz came up with Wash Buckler's catchphrase, 'Eight Legs, No Pegs' while he was stuck in traffic at the Detroit Metropolitan Airport.",
+    "Wash Buckler's name comes from the word 'swashbuckler,' a synonym for pirate.",
+    "He resembles Davy Jones from Pirates of the Caribbean.",
+    "He also resembles Squidfaces such as Squiddlers, Blastaneers, and Squidface Brutes (who are also pirates) and may be a more distant relative of them.",
+    "When you put on a different hat for Wash Buckler, his usual hat disappears. The same goes for Rattle Shake. However, his red bandanna remains on his head while either his original hat or another is placed.",
+    "Wash Buckler is the second Skylander to have more than four limbs (the first is Slam Bam and the third is Spy Rise).",
+    "He is the first Skylander to hold two different weapons that doesn't include a shield.",
+    "His moustache is a pair of tentacles, complete with suckers.",
+    "He also has suckers on the tips of his 'fingers.'",
+    "He is voiced by John DiMaggio who is very prominent for portraying Bender from Futurama, Jake from Adventure Time, Dr. Drakken, Fung from Kung Fu Panda: Legends of Awesomeness, Motor Ed from Kim Possible.",
+    "John also provided the voice of Wallop.",
+    "He and Spy Rise are the only SWAP Force Skylanders with more than two legs.",
+    "They are also the SWAP Force Skylanders who have Climb Abilities.",
+    "He is the second Water Skylander to come with a console starter pack; the first being Gill Grunt for Skylanders: Spyro's Adventure, and the third being Snap Shot for Skylanders: Trap Team.",
+    "He is also the first to do so as a non-core Skylander.",
+    "As seen in the Can of Kelp card in Skylanders: Battlecast, Wash Buckler apparently eats and is strengthened by kelp, not unlike the cartoon character Popeye who likes and is strengthened by spinach.",
+    "Interestingly, he is the only member of the SWAP Force to be featured in Battlecast.",
+    "He makes a cameo in Skylanders Academy episode, Power Struggle during Master Eon's flashback. Oddly enough, he seems to be siding with Strykore, though it is possible that it is simply another Mermasquid.",
+    "Despite being called a Mermasquid, he resembles more of an octopus than a squid. As he has a round head like an octopus.",
+    "However his hat is triangular making it look like a squid.",
+    "His tentacles also resemble octopus tentacles as they are pointed and have no triangular tip on them like squid do.",
+    "However both squid and octopuses squirt ink when threatened."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Wash Buckler (Eight Legs and No Pegs)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Wash_Buckler_(Eight_Legs_and_No_Pegs)"
+    },
+    {
+      "name": "Skylanders Swap Force - Wash Buckler Soul Gem Preview (Eight Legs and No Pegs)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Wash_Buckler_Soul_Gem_Preview_(Eight_Legs_and_No_Pegs)"
+    }
+  ],
+  "gameplay": "Wash Buckler can attack by slapping foes with his tentacles as well as shoot ink from them which stuns enemies, his tentacles even allow him to climb walls and steep surfaces easily. He can also use his cutlass to slash at his foes, and his bubble gun to fire bubbles that trap his opponents; and his soul gem allows him to create a watery pirate ship. In Skylanders: Battlecast, Wash Buckler can Rust Gear into Rusted Junk, eat kelp to increase his attack, and paralyze enemies with his ink. His signature Gear is the Mermasquid Buckler, decreasing incoming damage, and his Special Ability is Muckshot, decreasing enemy damage temporarily.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Wash_Buckler",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Sword Slash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Wash_Bucklertopprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506193319",
+        "content": "Press Attack 1 to swing a bubbly cutlass at nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Bubble Blaster",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Wash_Bucklertopbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506193323",
+        "content": "Press Attack 3 to shoot a bubble that will trap an enemy for a short time.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 300,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Somersaulty",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/35/Wash_Bucklerbottomprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506193543",
+        "content": "Press Attack 2 to dash forward and roll over enemies with powerful tentacles.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Bladesail",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a6/Wash_Bucklertopbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506193427",
+        "content": "Sword attacks do increased damage. Hold Attack 1 to charge the sword, release to perform a dash attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Dangerous Waters",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3f/Wash_Bucklertopbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506193430",
+        "content": "Press Attack 3 to shoot a piranha filled bubble at an enemy. Warning: these little fish are angry!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Deep Skin",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/60/Wash_Bucklerbottombasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506193604",
+        "content": "Health is increased. All of the deep sea treasure hunts have really paid off!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Ink Jet",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a8/Wash_Bucklerbottombasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506193611",
+        "content": "Octolash now shoots ink that damages and temporarily causes enemies to have difficulties seeing.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "On Stormy Seas",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/Wash_Bucklertopsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506193517",
+        "content": "Hold Attack 1 to charge Bladesail even further, release to summon a watery pirate ship that rams into enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Tentacle Carousel",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9f/Wash_Bucklerbottomsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506193616",
+        "content": "Press Attack 2 rapidly to perform a spin attack that damages all nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Cutlass Captain",
+        "abilities": [
+          {
+            "name": "Parley Popper",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/79/Wash_Bucklertoppath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506200840",
+            "content": "Popping bubbles with sword attacks will create a bubble shield that reduces damage and explodes when attacked.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "First Mate Cutlass",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/91/Wash_Bucklertoppath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506200845",
+            "content": "Sword attacks do even more damage. The most trusty first mate a pirate could have.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Bubble Buccaneer",
+        "abilities": [
+          {
+            "name": "Marooned",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/08/Wash_Bucklertoppath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506203054",
+            "content": "Bubble attacks do increased damage. Hold attack 3 to charge the Bubble Blaster, release to shoot two mega bubbles that can trap many enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Captain of Piranha Bay",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Wash_Bucklertoppath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506203102",
+            "content": "Piranhas do increased damage. More dangerous than your average piranha!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Tentacoolest",
+        "abilities": [
+          {
+            "name": "Tentacleaver",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Wash_Bucklerbottompath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506200850",
+            "content": "Hold Attack 2 to slap enemies repeatedly.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Sea Legs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Wash_Bucklerbottompath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506200854",
+            "content": "Tentacles do increase damage. Whip those enemies into shape!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Ink Artist",
+        "abilities": [
+          {
+            "name": "Ink Trail",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Wash_Bucklerbottompath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506203106",
+            "content": "Press Attack 2 to leave behind a cloud of ink.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "This Will Never Come Out!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Wash_Bucklerbottompath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506203111",
+            "content": "Ink attacks do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "wash-buckler",
       "variant_name": "Wash Buckler",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/6/63/Wash_Buckler_Art.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/63/Wash_Buckler_Art.jpg/revision/latest?cb=20130819015552",
       "attacks": [
         "Sword Slash",
         "Bladesail",
@@ -42,7 +413,28 @@
         "Somersaulty",
         "Octolash"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (Lv. 20: 810)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Wash_Buckler"
     }
   ]
