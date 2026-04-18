@@ -3,36 +3,73 @@
   "name": "SWAP Force",
   "species": "Various",
   "gender": "All male",
-  "element": null,
+  "element": "Various",
+  "role": "Skylanders",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
     "Skylanders: Trap Team",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Cloudbreak Islands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "The SWAP Force, also known as the SWAP Force Skylanders, are a special group of Skylanders who have the ability to mix and match their abilities and powers. They made their debut in Skylanders: Swap Force.",
+  "biography": "During an epic battle, a brave group of Skylanders were caught in the eruption of a mystical volcano in the Cloudbreak Islands while defending the Ancient Elementals from servants of the Darkness. The result blasted them apart and sent them to Earth. But the magic of the volcano gave these heroes a remarkable new power -- the ability to swap halves with each other -- turning them into a special team known as the SWAP Force.",
+  "quote": "Swappable. Unstoppable!",
+  "personality": "A team of brave, versatile heroes known for their cooperation and ability to adapt to any combat situation by sharing their unique strengths.",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Swappable. Unstoppable!"
+      ]
+    }
+  ],
+  "trivia": [
+    "This team was originally named the ShapeShifters.",
+    "This is the only special team of Skylanders to be entirely male. This is due to Vicarious Visions wanting to take a 'gender-neutral approach' to the SWAP Force so the swapping would make sense.",
+    "Only seven of the SWAP Force Skylanders appeared in the console storyline of Skylanders: Swap Force. However, in the Nintendo 3DS version's introduction, they switched out Freeze Blade with Rattle Shake.",
+    "Wash Buckler is the only member of the SWAP Force to appear in Skylanders: Battlecast.",
+    "In the Switch version of Skylanders: Imaginators, when you scan in a SWAP Force character, they will have none of their upgrades, but they will be at level 20, and they will have no gold. This is due to the Joy-Con only being able to scan the bottom half of the SWAP Force figures.",
+    "Additionally, they're the only Skylanders in the Switch version of Skylanders: Imaginators that cannot be deleted.",
+    "Originally, the SWAP Force were going to have the ability to swap heads.",
+    "There were also several SWAP Force Skylanders that didn't make it into the final game, used for the game's initial pitch and kid testing. One of them was Krayken (who later became the core Skylander, Rip Tide), a dinosaur named Aftershock, and Breezewing. They were all eventually scrapped as they did not fit the design philosophy of the series, had negative feedback during the first test, and were far too large.",
+    "However, Krayken and Breezewing do make a cameo in the Enchanted Elven Forest as swimming floats. Oddly, Breezewing has also been also seen in Skylanders: Spyro's Adventure development art, indicating she was passed around both developers.",
+    "Interestingly enough, Aftershock would be a placeholder name for the Skylander, Fist Bump.",
+    "The name of Spy Rise's top half 'Spy' is the shortest of all the SWAP Force's top halves, while the name of Boom Jet's bottom half 'Jet' is the shortest of all the SWAP Force's bottom halves, each only have three letters.",
+    "There are a total of 256 combinations."
+  ],
+  "trailers": [],
+  "gameplay": "SWAP Force characters can be physically separated into two pieces (the top half and the bottom half). Players can combine the top half of one Skylander with the bottom half of another to create a custom hybrid with unique attacks and movement types.",
   "wiki_url": "https://skylanders.fandom.com/wiki/SWAP_Force",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "swap-force",
+      "id": "swap-force-standard",
       "variant_name": "SWAP Force",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Standard",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Swap_Force.png/revision/latest?cb=20210405015831",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Swap_Force.png",
       "attacks": [
         "Swapabilities"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Combinations",
+          "stat_value": "256"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/SWAP_Force"
     }
   ]
