@@ -4,6 +4,7 @@
   "species": "Gremlin",
   "gender": "Male",
   "element": "Tech",
+  "role": "Mini",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -16,22 +17,125 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands Miniverse"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Within the Skylands , a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse . Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular \"Sidekicks,\" assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-  "personality": "Trigger Snappy is a ball of positive energy. He's funny and happy, and his teammates love being around him. When trouble blows into town, he blows it right back out, like his mentor Trigger Happy. Trigger Snappy can be a pretty antsy sometimes. &#91; 1 &#93;",
-  "story": null,
+  "description": "Trigger Snappy is the miniature counterpart of Trigger Happy. Originally appearing as a Sidekick, he eventually became a playable Mini Skylander.",
+  "biography": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular 'Sidekicks,' assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "quote": "No Gold, No Glory!",
+  "personality": "Trigger Snappy is a ball of positive energy. He's funny and happy, and his teammates love being around him. When trouble blows into town, he blows it right back out, like his mentor Trigger Happy. Trigger Snappy can be a pretty antsy sometimes. [1]",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular 'Sidekicks,' assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "No Gold, No Glory!"
+      ]
+    }
+  ],
+  "trivia": [
+    "As a Sidekick in Spyro's Adventure and Giants, Trigger Snappy had dark brown fur and white eyes. From Swap Force onward, his eyes and fur became just like his original counterpart's color.",
+    "As a Mini Skylander, Trigger Snappy has two different summoning poses: in Trap Team, he turns to face the player and jumps while exclaiming his catchphrase. In SuperChargers and Imaginators, he pretend fires his guns at the player and poses. He is the only Mini Skylander to have different summoning poses between games.",
+    "In SuperChargers and Imaginators, he has 840 health and more health than Trigger Happy."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Trigger Snappy",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Trigger_Snappy"
+    },
+    {
+      "name": "Skylanders Power Play Trigger Snappy",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Trigger_Snappy"
+    }
+  ],
+  "gameplay": "Trigger Snappy functions as a miniature counterpart to Trigger Happy. Originally a Sidekick who assisted other Skylanders, he became a fully playable Mini Skylander starting in Trap Team. He shares a similar move set with Trigger Happy, utilizing gold-based weaponry. In later titles like SuperChargers and Imaginators, his health scaling is notably high, even surpassing that of his full-sized mentor.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Trigger_Snappy",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Gold Coin Shooters",
+        "imgPath": "",
+        "content": "Shoots gold coins at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FE7"
+        }
+      },
+      {
+        "name": "Safe Cracker Bomb",
+        "imgPath": "",
+        "content": "Throws a safe that explodes upon impact.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FE7"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Pot O' Gold",
+        "imgPath": "",
+        "content": "Upgrades the coin shooters to fire pots of gold.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FE7"
+        }
+      },
+      {
+        "name": "Golden Super Charge",
+        "imgPath": "",
+        "content": "A powerful charge attack that unleashes golden energy.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FE7"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Coinsplosion",
+        "imgPath": "",
+        "content": "A massive explosion of gold coins that damages all nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FE7"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "trigger-snappy",
       "variant_name": "Trigger Snappy",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Mini",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Trigger_Snappy_Promo.jpg",
       "attacks": [
@@ -41,7 +145,28 @@
         "Golden Super Charge",
         "Coinsplosion"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "200 (max. 400)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 (max. 118)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30 (max. 60)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50 (max. 100)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Trigger_Snappy"
     }
   ]
