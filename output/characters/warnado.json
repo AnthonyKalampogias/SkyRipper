@@ -4,6 +4,7 @@
   "species": "Turtle",
   "gender": "Male",
   "element": "Air",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -15,24 +16,280 @@
     "Skylanders: Swap Force",
     "Skylanders: Trap Team",
     "Skylanders: SuperChargers (Racing)",
-    "Skylanders: Imaginators}}"
+    "Skylanders: Imaginators"
   ],
-  "cameos": "Spyro versus The Mega Monsters",
+  "cameos": [
+    "Spyro versus The Mega Monsters"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Warnado is an Air-elemental turtle who is one of the main 32 Skylanders from Skylanders: Spyro's Adventure.",
   "biography": "Warnado was hatched in the fury of a rare and powerful Enchanted Twister. Although initially frightened and quite dizzy, over the passing years he grew to enjoy his whirling surroundings and learned many abilities and secrets of the Air Element. This led to Warnado becoming a powerful force and the only known turtle of his kind. Now, the only time he gets dizzy is when standing still.",
-  "personality": "One of the most powerful Air sorcerers of all time, Warnado is quick-witted and has lightning fast reflexes. &#91; 2 &#93; Because of his past, he is fond of roller coasters. &#91; 3 &#93;",
-  "story": null,
+  "quote": "For the Wind!",
+  "personality": "One of the most powerful Air sorcerers of all time, Warnado is quick-witted and has lightning fast reflexes. Because of his past, he is fond of roller coasters.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Warnado was supposed to be born a simple turtle and lead a humdrum life in a Skylands swamp. But in an exciting turn, while still a tiny, unassuming egg, he was plucked from his nest by an enchanted twister and sucked into the sky. Upon hatching, he found himself being hurled around the spinning centre of the twister with no apparent way out. After a while, Warnado became quite accustomed to his twirly, whirly surroundings. Being enchanted, the twister taught him Elemental secrets and magical wind tricks. By the time he hit adulthood, Warnado was as skilled as a senior Skylands sorcerer. And it was around this time that the next exceptional event took place: a storm of dark magic collided with the twister, knocking Warnado out onto solid ground for the first time in his life. But, to a turtle, who had spent his life inside a twister, solid ground didn't feel all that solid. In fact, it made Warnado a little seasick (or perhaps landsick). He found that the only way to avoid dizziness was to avoid standing still altogether - so he carried on spinning. As he twisted and turned across the Skylands terrain, Warnado was spotted by a creature in kind - Whirlwind. Whirlwind presented Warnado to Master Eon, who managed to convince the turtle to sit still for just long enough to make him his latest Skylander.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Spyro versus the Mega Monsters",
+      "content": "Warnado made a cameo as one of the Skylanders called by Master Eon to help restore the walls of the Eternal Archives after they were damaged by Kaos during his attempt to steal the Book of Power.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "For the Wind!",
+        "The Path of Warnado!",
+        "Yeah! Payday!",
+        "Sky turtle!",
+        "Winding it up!",
+        "Check it out!",
+        "Goes well with my shell!",
+        "Up and up!",
+        "Maybe next time!",
+        "Round we go!",
+        "Too easy!",
+        "Looking good.",
+        "It's on now!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Warnado is most likely based on the Japanese Kaiju, Gamera. Both are turtles who fly by using jets from their shells to spin rapidly in the air.",
+    "While he may be based off of Gamera with his spinning, his design looks a lot like Baragon from the Godzilla franchise.",
+    "Warnado, Jet-Vac, and Lightning Rod are currently the only Air Skylanders who can fly without the use of wings.",
+    "While flying, he cannot use his Spin Attack, only Summon Tornados, though he does gain several moves that use the primary attack button while flying on the Eye of the Storm path.",
+    "His catchphrase is a play on the phrase 'For the win!'.",
+    "Warnado is one of many Skylanders who have an attack that summons friendly characters to help defeat enemies (some others include Sonic Boom, Double Trouble, Terrafin, and Pop Fizz).",
+    "He, Flashwing and Wham-Shell are the only LightCore Skylanders without an additional counterpart as part of the Swap Force toyline.",
+    "He speaks with a Brooklyn-like accent in Giants.",
+    "One of his upgrades (Whirlwind Flight) is partially named after another Skylander.",
+    "As a LightCore, his shell lights up. This works even on the Spyro's Adventure Portal, though no Lightcore toy existed for that game.",
+    "Both of his toy forms have him flying on a tornado.",
+    "The 'Wind Elemental' upgrade as a part of his Wind Master path transforms his Tornadoes into recolored Windbag Djinnis.",
+    "Despite his backstory stating that he cannot stand on solid ground for long without getting dizzy, he is able to stand still just fine in-game.",
+    "Guided Twister has the black tornado from Summon Cyclone."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventure - Warnado Preview Trailer (For the Wind)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_-_Warnado_Preview_Trailer_(For_the_Wind)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Warnado Trailer (For the Wind)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_-_Warnado_Trailer_(For_the_Wind)"
+    },
+    {
+      "name": "Meet the Skylanders Warnado (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Warnado_(extended)"
+    },
+    {
+      "name": "Skylanders Giants - Warnado's Soul Gem Preview (For the Wind)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Warnado's_Soul_Gem_Preview_(For_the_Wind)"
+    },
+    {
+      "name": "Meet the Skylanders- LightCore Warnado l SWAP Force l Skylanders",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders-_LightCore_Warnado_l_SWAP_Force_l_Skylanders"
+    }
+  ],
+  "gameplay": "Having learned the ways of the Air element, Warnado has the ability to spin around in a whirling motion, knocking enemies away with his spiky shell. He can also summon tornadoes at a high velocity to help him fight off nearby opponents, and he can spin himself into a gray tornado to tear his way through enemies.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Warnado",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Spin Attack",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cb/Warnadoprimarypower.png/revision/latest?cb=20241018175753",
+        "content": "Spin in your shell to take out enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Summon Tornado",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Warnadosecondarypower.png/revision/latest?cb=20241018175905",
+        "content": "A high velocity spin generates a tornado that picks up enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Sharp Shell",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Warnadobasicupgrade1.png/revision/latest?cb=20241018180113",
+        "content": "Spin Attack does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Extended Tornado",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Warnadobasicupgrade2.png/revision/latest?cb=20241018180328",
+        "content": "Extend the range of your Tornado attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "High Winds",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dd/Warnadobasicupgrade3.png/revision/latest?cb=20241018180528",
+        "content": "Tornadoes can damage multiple enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Whirlwind Flight",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Warnadobasicupgrade4.png/revision/latest?cb=20241018180708",
+        "content": "This upgrade provides increased speed and armor while flying.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Thick Shelled",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Warnadosoulgempower.png/revision/latest?cb=20241018180021",
+        "content": "A thicker shell provides better armor. Grants +40 armor.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Eye of the Storm",
+        "abilities": [
+          {
+            "name": "Low Friction Shell",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/86/Warnadopath1upgrade1.png/revision/latest?cb=20241018180909",
+            "content": "Spin attack strikes faster.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Flying Mini Turtles",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Warnadopath1upgrade2.png/revision/latest?cb=20241018181052",
+            "content": "Mini-Warnados fly with you and you can launch them at your enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Turtle Slam",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/73/Warnadopath1upgrade3.png/revision/latest?cb=20241018181158",
+            "content": "While flying, slam down on your enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Wind Master",
+        "abilities": [
+          {
+            "name": "Guided Twister",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9f/Warnadopath2upgrade1.png/revision/latest?cb=20241018181435",
+            "content": "Manually control the direction of your tornado attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Summon Cyclone",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Warnadopath2upgrade2.png/revision/latest?cb=20241018181538",
+            "content": "Tornadoes are super-sized and do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Wind Elemental",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/eb/Warnadopath2upgrade3.png/revision/latest?cb=20241018181713",
+            "content": "Tornadoes will attack enemies on their own.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "warnado",
+      "id": "warnado_s1",
       "variant_name": "Warnado",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/5/50/290px-Warnado_03.jpg",
       "attacks": [
@@ -42,7 +299,66 @@
         "Whirlwind Flight",
         "Turtle Slam"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "310 (620)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 (83)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30 (100)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "10 (60)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "39 (89)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Warnado"
+    },
+    {
+      "id": "warnado_lc",
+      "variant_name": "LightCore Warnado",
+      "edition": "LightCore",
+      "type": "LightCore",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/57/Lightcorewarnado.jpg",
+      "attacks": [
+        "Spin Attack",
+        "Summon Tornado",
+        "Sharp Shell",
+        "Whirlwind Flight",
+        "Turtle Slam"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "465 (930)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Warnado"
     }
   ]
