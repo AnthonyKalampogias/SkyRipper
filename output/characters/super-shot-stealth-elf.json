@@ -4,22 +4,258 @@
   "species": "Elf",
   "gender": "Female",
   "element": "Life",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Unexpected Allies",
+  "cameos": [
+    "Unexpected Allies"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Super Shot Stealth Elf is the SuperChargers counterpart of Stealth Elf in Skylanders: SuperChargers. Her signature vehicle is the Stealth Stinger.",
+  "biography": "Separated from her parents at a young age, Stealth Elf was raised by a mysterious forest ninja who trained her in the art of stealth. As a SuperCharger, she has upgraded her arsenal with a high-tech Dagger Cannon to take on the Darkness and protect Skylands.",
+  "quote": "Silent but Deadly!",
+  "personality": "Stealth Elf is a disciplined, mysterious, and highly focused ninja. She is a dedicated protector of Skylands who values speed and precision, often letting her actions speak louder than her words.",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Silent, but Deadly!",
+        "All right!",
+        "Oh yeah!",
+        "Yeah!",
+        "On a mission!",
+        "Quick and quiet!",
+        "Mission accomplished!",
+        "Told you not to blink!",
+        "Did you see that?",
+        "I'll just sneak on by!",
+        "When you least expect it.",
+        "Getting even better!",
+        "Catch a glimpse!",
+        "Another disguise"
+      ]
+    },
+    {
+      "quote_type": "Quest Quotes",
+      "content": [
+        "A ninja's work is never done. I am ready for anything, Buzz.",
+        "They never saw it coming, Buzz.",
+        "Silent or not, my Stealth Stinger and I are up to the challenge.",
+        "Yes, the Stealth Stinger and I are becoming one.",
+        "I always expect the unexpected.",
+        "Assuming you can find us. And even if you did, it'd be too late."
+      ]
+    }
+  ],
+  "trivia": [
+    "Her Soul Gem power summons her Mini counterpart, Whisper Elf.",
+    "Super Shot Stealth Elf has dramatic changes in her gameplay from her regular counterpart, changing from melee and crowd control tactics to a mostly ranged moveset.",
+    "She has even less health than her regular counterpart, being less than even Trigger Happy and Spitfire.",
+    "One of her upgrades shares the name of Wind-Up's catchphrase.",
+    "The upgrades 'Say hello' and 'to my little friend' when combined are a reference to a quote from the film Scarface.",
+    "She, regular Stealth Elf and the Golden Queen are the only female Skylanders with dark edition counterparts.",
+    "She and Shark Shooter Terrafin are the only SuperCharger versions of previous Skylanders in Skylanders: Ring of Heroes.",
+    "She was originally going to be additionally released in a single pack, but was unreleased for unknown reasons.",
+    "Her Needle-pointed daggers upgrade includes a description identical to Pop Thorn's catchphrase: 'Straight to the point!'"
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders SuperChargers Super Shot Stealth Elf",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_SuperChargers_Super_Shot_Stealth_Elf"
+    },
+    {
+      "name": "Skylanders SuperChargers - Super Shot Stealth Elf's Soul Gem Preview (Silent but Deadly)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Super_Shot_Stealth_Elf%27s_Soul_Gem_Preview_%28Silent_but_Deadly%29"
+    }
+  ],
+  "gameplay": "In Skylanders: SuperChargers Racing, Super Shot Stealth Elf is mostly all-around in her stats. She has balanced Top Speed and Acceleration, as well as Firepower and Armour. Her best stat is her Handling, which is set to the maximum value for a driver. As a SuperCharger, she has access to vehicle mods.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Super_Shot_Stealth_Elf",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Dagger Cannon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Super_Shot_Stealth_Elfprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505142812",
+        "content": "Press Attack 1 and hold to lock onto enemies and shoot daggers at them.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Say Hello",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Super_Shot_Stealth_Elfsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170505142817",
+        "content": "Press Attack 2 to disappear and create a turret that distracts enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Circle Slash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/08/Super_Shot_Stealth_Elfbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505142824",
+        "content": "Press Attack 3 to perform an acrobatic spin that hits and knocks back enemies nearby.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Needle-pointed Daggers",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/31/Super_Shot_Stealth_Elfbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505142826",
+        "content": "Dagger Cannon deals more damage. Straight to the point!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "To My Little Friend",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bf/Super_Shot_Stealth_Elfbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505142830",
+        "content": "The turret now shoots enemies in front of it.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Speed of the Spin",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/70/Super_Shot_Stealth_Elfbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170505142837",
+        "content": "Gain increased movement speed for a short time after using Circle Slash.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Health Elf",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Super_Shot_Stealth_Elfsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505142842",
+        "content": "After injury and after defeating an enemy, a familiar face appears and brings a health bonus!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Heavy Gunner",
+        "abilities": [
+          {
+            "name": "Smog Slash",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Super_Shot_Stealth_Elfpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505143053",
+            "content": "Create a poison cloud when you exit stealth mode.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "All Wound Up",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Super_Shot_Stealth_Elfpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505143056",
+            "content": "Dagger Cannon projectiles do more damage the longer Attack 1 is held.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Splinter Shells",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/70/Super_Shot_Stealth_Elfpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505143104",
+            "content": "Dagger Cannon projectiles splinter off enemies and hit nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Stealth Saboteur",
+        "abilities": [
+          {
+            "name": "Distraction Destruction",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Super_Shot_Stealth_Elfpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505143111",
+            "content": "On expiration, the turret explodes and damages nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Acquisition Intelligence Mode",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/be/Super_Shot_Stealth_Elfpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505143116",
+            "content": "The turret now aims at nearby enemies and does more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Spin to Win!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/75/Super_Shot_Stealth_Elfpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505143120",
+            "content": "Circle Slash does more damage and knocks enemies further away.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "super-shot-stealth-elf",
@@ -27,7 +263,7 @@
       "edition": "Series 1",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b5/SuperShot_Stealth_Elf_Promo.jpg/revision/latest?cb=20150603223605",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b5/SuperShot_Stealth_Elf_Promo.jpg",
       "attacks": [
         "Dagger Cannon",
         "Say Hello",
@@ -35,7 +271,56 @@
         "Smog Slash",
         "Distraction Destruction"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "190 (Lv. 20: 570)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        },
+        {
+          "stat_name": "Attack",
+          "stat_value": "8 (Lv. 20: 58)"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "6 (Lv. 20: 26)"
+        },
+        {
+          "stat_name": "Top Speed",
+          "stat_value": "10"
+        },
+        {
+          "stat_name": "Acceleration",
+          "stat_value": "11"
+        },
+        {
+          "stat_name": "Handling",
+          "stat_value": "20"
+        },
+        {
+          "stat_name": "Firepower",
+          "stat_value": "10"
+        },
+        {
+          "stat_name": "Armour",
+          "stat_value": "11"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Super_Shot_Stealth_Elf"
     }
   ]
