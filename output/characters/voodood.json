@@ -4,6 +4,7 @@
   "species": "Orc",
   "gender": "Male",
   "element": "Magic",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -16,34 +17,339 @@
     "Skylanders: Trap Team",
     "Skylanders: SuperChargers (Racing)",
     "Secret Agent Secrets",
-    "Skylanders: Imaginators}}"
+    "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Voodood is an orc Skylander in Skylanders: Spyro's Adventure. He is in the Magic element.",
   "biography": "Voodood was a brave warrior among his people. During his rite of passage as a young orc, he entered the Cave of Trials to prove his worth. It was there he found much more than expected. Lured by a brilliant light, Voodood discovered the skeleton of an enormous dragon with an ornate axe buried where the heart would have been. The village was astonished when he exited the cave holding the legendary Axe Reaver and wearing the dragon skull on his head. Voodood quickly became warrior leader and defended his homeland from many beasts and invaders... until he was the last of his tribe. Soon after, he joined the Skylanders.",
-  "personality": "Voodood was known as a highly decorated soldier of his people, commanding a well-known team of dangerous warriors. When not fighting evil, he is constantly searching for new and exotic bones to expand his collection. Voodood also insists that he has a heart of gold, despite knowing about the Orcs' bad reputation. &#91; 2 &#93;",
-  "story": null,
+  "quote": "Axe First, Questions Later!",
+  "personality": "Voodood was known as a highly decorated soldier of his people, commanding a well-known team of dangerous warriors. When not fighting evil, he is constantly searching for new and exotic bones to expand his collection. Voodood also insists that he has a heart of gold, despite knowing about the Orcs' bad reputation.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "The Ooga Warriors were one of the most revered tribes in all of Skylands, yet something haunted them - every night, wild dragons would circle their houses and any warrior not taking shelter would end up missing, presumably eaten. However, the only weapon that could destroy these dragons was the legendary Axe Reaver, long lost for centuries and said to increase in power if its wielder had true inner magic. The Ooga Orcs once had a reputation for being the fiercest fighting force around. Any Orcs who fancied signing up had first to retrieve a pebble from deep within the trouser-wettingly terrifying Cave of Trials. One such wannabe was Voodood. Down he went, into the dark dirty depths. Suddenly, a beam of light appeared ahead, Voodood stumbled forward into a chamber containing the skeleton of a dragon. In place of the dragon's heart lay a gleaming gem with an axe sticking out. Voodood stepped from the cave with something far better than a pebble; he had the magical Axe Reaver, along with the skull of the slain dragon (which he would later adapt into an outlandish hat). The Ooga folk made Voodood their leader at once, and he became a great Orc hero. But even the Ooga could not defeat the dreadful Darkness. The whole tribe marched to meet this new threat, but only Voodood returned alive. So, as you might have guessed, he joined the Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Secret Agents Secrets",
+      "content": "Voodood, Boomer, and Ghost Roaster were Buzz's elite team of Skylanders when they mysteriously disappeared while on a mission at Motleyville and hadn't returned for months. SuperChargers Spitfire, Stormblade and Nightfall, were assigned to find the lost Skylanders at their last known location. Upon getting ambushed by Spell Punks lead by Spellslamzer, the SuperChargers were suddenly defeated and knocked unconscious by Voodood, Boomer and Ghost Roaster, who were now working for Spellslamzer. With the three SuperChargers imprisoned, Spellslamzer announced his plan to raid the Mabu Radiance mines of its rare and powerful minerals, controlling the crystal supply to become the supreme power in all of Skylands. As Stormblade wondered why Voodood, Ghost Roaster, and Boomer would turn their backs on Skylands and Master Eon, Ghost Roaster revealed that he and the other two Elites grew tired of being tossed aside and forgotten while the Skylanders such as the SuperChargers, SWAP Force and the Giants were more appreciated. Voodood later caught Spitfire, Stormblade and Nightfall when they attempted to escape, and Spellslamzer had the three SuperChargers strapped helplessly to the front of their own vehicles as the evil Spell Punk and his army rode out towards the Mabu mines. During their attack on the Radiance Mines, Voodood and Boomer turned against Spellslamzer, revealing that all three Elites were pretending to be evil from the start. However, Ghost Roaster remained on Spellslamzer's side, holding onto the belief that he and the Elites would simply be tossed aside and forgotten even if they turned in Spellslamzer. The remaining Elites and the freed SuperChargers would then engage Spellslamzer, his minions, and Ghost Roaster in battle. When it seemed that Ghost Roaster would destroy Stormblade, he instead threw his explosive ball and chain at the Radiance crystals under Spellslamzer, blowing them up and knocking Spellslamzer unconscious. The Skylanders welcomed Ghost Roaster back to the side of good and the SuperChargers as full-fledged Skylanders.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/Elites_Issue_2.png/revision/latest/scale-to-width-down/282?cb=20151217081140"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Axe First, Questions Later!",
+        "Mmm, strong magic!",
+        "Mmm, big strength!",
+        "Voodood great!",
+        "Voo-did!",
+        "Axemen can!",
+        "Voodood has great strength, axe too.",
+        "Big axe, bigger victory!",
+        "Axemen handle any challenge!",
+        "Path revealed!",
+        "War cannot stop Voodood!",
+        "This place is sacred.",
+        "Voodood strong with spirit!",
+        "Now, Voodood even stronger!",
+        "Useful ingredients!",
+        "Great offering!",
+        "Stats show great strength!",
+        "Haha! See Voodood's many gifts!",
+        "We look good for ceremony.",
+        "This hat has special magic!",
+        "Voodood accept name!",
+        "Big name, big responsibility.",
+        "Voodood not like standing still!",
+        "Somebody guide me, now!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Voodood's face bears a resemblance to the Grinch.",
+    "Voodood is voiced by Andre Sogliuzzo who voices Sparx in the classic Spyro series as well as another Skylander, Camo.",
+    "If you hit a Tripwire with his axe, it gets bigger and does more damage.",
+    "It is unknown why his Attack 2 combo is called 'Axe Spin', as his attack 3 combo (Magic Axe) is an actual spin. The Attack 2 combo is a ranged projectile attack.",
+    "This mistake is fixed in Skylanders: Swap Force.",
+    "His soul gem preview in Skylanders: Giants might have been zoomed in because of its low quality and his name not fully shown.",
+    "His catchphrase may be based off 'Shoot first, ask questions later!'.",
+    "His name is a play on 'Voodoo' and 'Dude'.",
+    "'Dood' also means 'dead' in Dutch.",
+    "His Electric Feedback upgrade also activates when he heals.",
+    "On the Wii version of Swap Force, if an enemy hits the round end of his trip wire, it will disappear which may freeze the game.",
+    "He speaks in third person.",
+    "In game, Voodood is one of the smallest non-Mini Skylanders. If one doesn't count his Axe in his height, Voodood is the smallest.",
+    "He is the only Skylander whose name starts with the letter 'V'.",
+    "During the war against the beasts that threatened their tribe, Voodood slayed three times as many enemies as his fellow tribesmen, and it is said that the axe seemed to have a life of its own - a magical power that extended beyond Voodood's hands and brought the meanest and most ferocious beasts that Skylands has ever seen to their knees!",
+    "According to prototype figures in Toys For Bob's office, Voodood was originally planned to be an Undead Skylander.",
+    "The battle-axe on Voodood's figure droops over time due to the weight of the axehead, a problem that designer I-Wei Huang wanted to fix but was unable to do because strengthening the plastic would have sharpened the axe's points, making it a hazard."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Voodood (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Voodood_(extended)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Voodood Preview (Axe First, Questions Later)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_-_Voodood_Preview_(Axe_First,_Questions_Later)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventures Extraction- Voodood (Wii)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventures_Extraction-_Voodood"
+    },
+    {
+      "name": "Voodood Soul Gem (Spyro's Adventure) (PlayStation 3 & Xbox 360)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Voodood_Soul_Gem_(Spyro's_Adventure)"
+    },
+    {
+      "name": "Voodood Soul Gem (Giants)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Voodood_Soul_Gem_(Giants)"
+    }
+  ],
+  "gameplay": "Using his axe, Voodood can attack enemies using magical energy that channels through his weapon, he can even create magical tripwires with it. He can also use his axe as a grappling hook to latch onto his opponents, stunning them while he pulls himself towards their location to finish them off in close combat. In 'Secret Agent Secrets' it was also shown that Voodood's axe can unleash magical blasts.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Voodood",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Axe Reaver",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d9/Voodoodprimarypower.png/revision/latest?cb=20120809181626",
+        "content": "Voodood swings his fearsome axe. Damage = 16. Crit = 24.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Zipline Axe",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b2/Voodoodsecondarypower.png/revision/latest?cb=20120809181707",
+        "content": "Launch the blade of your axe and rapidly reel yourself in. Damage = 18. Crit = 27.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Magical Tripwire Bomb",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/33/Voodoodbasicupgrade1.png/revision/latest?cb=20120809182230",
+        "content": "Summon a Magic Tripwire that collapses on your enemies. Damage = 30. Crit = 45.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Weighted Axe",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Voodoodbasicupgrade2.png/revision/latest?cb=20120809182831",
+        "content": "Axe attack does increased damage. Damage = 26. Crit = 39.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Tripwire Reserves",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Voodoodbasicupgrade3.png/revision/latest?cb=20120809182934",
+        "content": "Summon up to two Magic Tripwires. Damage = 30x2 (60). Crit = 24x2 (90).",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Extended Blade",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Voodoodbasicupgrade4.png/revision/latest?cb=20120809183411",
+        "content": "Zipline Axe attack has increased speed.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Impervious Tripwire",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/77/Voodoodsoulgempower.png/revision/latest?cb=20120809182058",
+        "content": "Magic Tripwire deflects shots.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Elementalist",
+        "abilities": [
+          {
+            "name": "Roadblock Tripwire",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4d/Voodoodpath1upgrade1.png/revision/latest?cb=20120809183828",
+            "content": "Magical Tripwires are longer and do increased damage. Damage = 60. Crit = 90.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Electric Feedback",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Voodoodpath1upgrade2.png/revision/latest?cb=20120809183938",
+            "content": "Magical energy radiates from you when hit, damaging nearby enemies. Damage = 10. Crit = 15.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Electro Axe",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Voodoodpath1upgrade3.png/revision/latest?cb=20120809184009",
+            "content": "When you strike with your Axe, anything nearby gets hurt too. Damage = 10. Crit = 15.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Marauder",
+        "abilities": [
+          {
+            "name": "Shaman Style",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/37/Voodoodpath2upgrade1.png/revision/latest?cb=20120809184053",
+            "content": "Unleash the Axe Spin and Magic Axe combo attack. Axe Spin Damage = 94. Crit = 141. Magic Axe Damage = 42. Crit = 63.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Legendary Blade",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/20/Voodoodpath2upgrade2.png/revision/latest?cb=20120809184123",
+            "content": "Axe attack does even more increased damage. Damage = 45. Crit = 67.5.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Hyperwire",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Voodoodpath2upgrade3.png/revision/latest?cb=20120809184213",
+            "content": "Zipline Axe travels much faster and does increased damage. Damage = 36. Crit = 54.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "voodood",
+      "id": "voodood-s1",
       "variant_name": "Voodood",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/3/38/Voodood_Promo.jpg",
       "attacks": [
         "Axe Reaver",
         "Zipline Axe",
-        "Magical Tripwire",
-        "Extended Blade",
+        "Magical Tripwire Bomb",
+        "Roadblock Tripwire",
         "Electro Axe"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 / 580"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 / 83"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 / 42"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 / 80"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 / 75"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "75"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "35"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Voodood"
     }
   ]
