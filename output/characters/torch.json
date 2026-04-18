@@ -4,6 +4,7 @@
   "species": "Unknown",
   "gender": "Female",
   "element": "Fire",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -12,16 +13,262 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Rift into Overdrive",
+  "cameos": [
+    "Rift into Overdrive"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Torch is one of the Fire core Skylanders in Skylanders: Trap Team.",
   "biography": "Torch’s childhood was spent working with her grandfather as a dragon keeper, where she helped tend to a stable of dragons that protected her village. One year, an evil Snow Dragon unleashed a terrible blizzard that trapped her entire homeland inside a massive ice glacier! Torch was the only one to escape. Having always been fearless, she set out at once to rescue the villagers and her dragons from their chilly fate. Armed with her Firespout Flamethrower, she fought hard through the treacherous conditions and bravely defeated the Snow Dragon in an epic battle. After the village was free from its icy doom, Torch returned home to find her grandfather missing. The only token left behind was his lucky flaming horseshoe. Now as a member of the Skylanders, Torch wields her powerful flamethrower as well as her lucky horseshoe in hopes it will one day lead her to the grandfather she had lost.",
-  "personality": "Torch is pretty fearless. Some might say she is hotheaded. &#91; 2 &#93;",
-  "story": null,
+  "quote": "Fire It Up!",
+  "personality": "Torch is pretty fearless. Some might say she is hotheaded. [2]",
+  "story": [
+    {
+      "story_name": "Champions",
+      "content": "Torch was Déjà Vu's opponent in the semi-finals of the Legendary Tournament. After a fierce battle, Déjà Vu won the round and Torch congratulated her before wishing the Magic Skylander luck in her battle against Fist Bump, Trail Blazer, and Fling Kong in the Finals.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Fire it up!",
+        "Fire in the hole!",
+        "Maximum fire power!",
+        "Yeah!",
+        "Nice and toasty!",
+        "Blaze of glory!",
+        "Dead ringer!",
+        "Catch!",
+        "The heat is on!",
+        "Hot stuff!",
+        "Careful, its hot!",
+        "You got burned!",
+        "Sizzle time!",
+        "Torch time!",
+        "No match for me!",
+        "Forging ahead!",
+        "Red hot! - when levelled up",
+        "Heat wave!",
+        "Money to burn! - when opening a treasure chest",
+        "More fuel for the fire!",
+        "It doesn't get much hotter! - when checking out stats",
+        "Burning up the charts!",
+        "A hot new look for me! - when wearing a hat",
+        "Most of my hats burn off!",
+        "A hot sounding name! - when given a nickname",
+        "Catching name, I like it!"
+      ]
+    }
+  ],
+  "trivia": [
+    "She is the second Fire Skylander to be female, the first being Smolderdash.",
+    "Her Soul Gem upgrade, The Incinerator, has many similarities with the Incinerator from Ratchet & Clank Future: Tools of Destruction, as they're both the maximum upgrade, have dual flame jets coming out of the flamethrower, and have similar names.",
+    "Torch is one of the few Skylanders who are currently searching for their loved ones while fighting evil (others being Gill Grunt, Chill, Sprocket, and Roller Brawl).However, Roller Brawl reunited with her brothers in Biting Back by freeing them from Kaos, who ordered trolls to control them by magical puppets.",
+    "Torch's voice actor, Salli Saffioti, also voiced Whirlwind and Eye Scream.",
+    "Torch claims that the villain Hood Sickle 'gives her the creeps'.[3]",
+    "During Gamescom 2014, some of the game's developers mispronounced her name as 'Forge'.",
+    "A skin texture map of Torch was leaked in the 1.0 version of Skylanders: Ring of Heroes, but she never appeared in the final game."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Torch",
+      "isValid": false,
+      "url": ""
+    },
+    {
+      "name": "Skylanders Trap Team - Torch's Soul Gem Preview (Fire It Up)",
+      "isValid": false,
+      "url": ""
+    },
+    {
+      "name": "Skylanders Power Play Torch",
+      "isValid": false,
+      "url": ""
+    }
+  ],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Torch",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Blazing Bellows",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/33/Torchprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505120005",
+        "content": "Press and hold Attack 1 to roast enemies with a flamethrower attack.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "black",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Flaming Horseshoes",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/47/Torchsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170505120010",
+        "content": "Press Attack 2 to pitch Flaming Horseshoes that stick to enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "black",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Heating Up",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/63/Torchbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505120119",
+        "content": "Blazing Bellows attack shoots farther and does extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "black",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Flaming Hair Whip",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/Torchbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505120022",
+        "content": "Press Attack 3 to whip flaming hair around and knock back nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "black",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Pyro Pendant",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Torchbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505120027",
+        "content": "Enemies with Flaming Horseshoes stuck to them take extra damage from fire.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "black",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Blue Flame",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Torchbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170505120044",
+        "content": "Hold Attack 1 for a little longer and flames turn blue, doing extra damage and going through enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "black",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "The Incinerator",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Torchsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505120109",
+        "content": "Press Attack 1 rapidly to create the ultimate flamethrower.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "black",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Forged in Flames",
+        "abilities": [
+          {
+            "name": "Scorched Earth Policy",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Torchpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505120409",
+            "content": "Blazing Bellows attack now sets the ground on fire, damaging anyone who touches it.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "black",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Hair's Getting Long",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Torchpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505120413",
+            "content": "Flaming Hair Whip has increased range and does extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "black",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Double Barrel Bellows",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/66/Torchpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505120420",
+            "content": "Bigger Blazing Bellows flames.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "black",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Maid of Metal",
+        "abilities": [
+          {
+            "name": "Extra Hot Shoes",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/20/Torchpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505120424",
+            "content": "Flaming Horseshoes stuck to enemies do additional damage to them over time.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "black",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Fireworks Display",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Torchpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505120430",
+            "content": "Flaming Horseshoes will explode upon wearing off.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "black",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Hopping Mad Horseshoes",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/89/Torchpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505120436",
+            "content": "Use a fire attack on a Flaming Horseshoe and it comes to life, attacking enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "black",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "torch",
@@ -37,7 +284,28 @@
         "Scorched Earth Policy",
         "Extra Hot Shoes"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "230 (max. 460)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60 (max. 108)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40 (max. 90)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Torch"
     }
   ]
