@@ -4,6 +4,7 @@
   "species": "Unknown",
   "gender": "Male",
   "element": "Tech",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -11,16 +12,248 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Dizzying Dunes"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "As an orphan from the Dizzying Dunes, Tread Head had always dreamed of racing. And after a summer of scavenging for parts, he finally managed to build a bike that would allow him to enter the local racing circuit. The other competitors laughed at the crudeness of his work, but Tread Head had built it for performance, not for style. So when the race began, he jumped out to a commanding lead. But as he entered a canyon, he suddenly found himself at a roadblock – of Goblin troops! Knowing the other racers were in danger, he pulled off the road and kicked up so much dust that the Goblins had no choice but to flee, allowing the other racers to pass safely. Tread Head may have lost the race that day, but he earned the respect of Master Eon , who would see to it that Tread Head would tread on evil wherever he goes!",
-  "personality": "Tread Head prefers substance over style. It's what inside that matters the most. The outside is just for show. &#91; 1 &#93;",
-  "story": null,
+  "description": "Tread Head is one of the Tech Skylanders introduced in Skylanders: Trap Team.",
+  "biography": "As an orphan from the Dizzying Dunes, Tread Head had always dreamed of racing. And after a summer of scavenging for parts, he finally managed to build a bike that would allow him to enter the local racing circuit. The other competitors laughed at the crudeness of his work, but Tread Head had built it for performance, not for style. So when the race began, he jumped out to a commanding lead. But as he entered a canyon, he suddenly found himself at a roadblock – of Goblin troops! Knowing the other racers were in danger, he pulled off the road and kicked up so much dust that the Goblins had no choice but to flee, allowing the other racers to pass safely. Tread Head may have lost the race that day, but he earned the respect of Master Eon, who would see to it that Tread Head would tread on evil wherever he goes!",
+  "quote": "Tread and Shred!",
+  "personality": "Tread Head prefers substance over style. It's what inside that matters the most. The outside is just for show.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "As an orphan from the Dizzying Dunes, Tread Head had always dreamed of racing. And after a summer of scavenging for parts, he finally managed to build a bike that would allow him to enter the local racing circuit. The other competitors laughed at the crudeness of his work, but Tread Head had built it for performance, not for style. So when the race began, he jumped out to a commanding lead. But as he entered a canyon, he suddenly found himself at a roadblock – of Goblin troops! Knowing the other racers were in danger, he pulled off the road and kicked up so much dust that the Goblins had no choice but to flee, allowing the other racers to pass safely. Tread Head may have lost the race that day, but he earned the respect of Master Eon, who would see to it that Tread Head would tread on evil wherever he goes!",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Quotes",
+      "content": [
+        "Tread and Shread!",
+        "Tread carefully!",
+        "Wheelie!",
+        "Vroom!",
+        "Check me out!",
+        "No competition!",
+        "Time for a victory lap!",
+        "On the right track!",
+        "Mhm, gaining some traction!",
+        "Cool hat, sort of",
+        "Awesome headgear!",
+        "The name worth of a champ!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Tread Head is one of the few Skylanders who aren't Superchargers but use vehicles as weapons (other examples are Sprocket and Fryno). However, he is the first and currently the only one to never get off his ride.",
+    "He and High Five both have a racing theme.",
+    "The only time he is seen out of his vehicle is in his rest cutscene, where he gets out as it breaks down.",
+    "In Skylanders: SuperChargers, if you put him in another Vehicle, he will get out of his own bike and drive the vehicle he is driving.",
+    "Tread Head shares many physical similarities with Air Strike, including proportions, stature and facial features.",
+    "If Tread Head jumps while in wheelie mode, he’ll do a backflip with his bike.",
+    "When given a hat, it appears much smaller on him compared to on other Skylanders. This is most likely to avoid having it clip through his bike.",
+    "Unlike other playable characters, when the player stops moving the control stick, Tread Head won’t stop moving right away, as he has to slow his bike to a stop.",
+    "However, if the player presses the jump button, moves the control stick in the direction they want to go, then lets go before Tread Head hits the ground, he will land in place, just like every other playable character."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Tread Head",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Tread_Head"
+    },
+    {
+      "name": "Skylanders Trap Team - Tread Head's Soul Gem Preview (Tread and Shred)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Tread_Head%27s_Soul_Gem_Preview_%28Tread_and_Shred%29"
+    },
+    {
+      "name": "Skylanders Power Play- Tread Head",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play-_Tread_Head"
+    }
+  ],
+  "gameplay": "Skylanders can use abilities depending on their level.\n\nStarting Powers\n\nSteamroll Smash (Primary Attack): Hold (Y) to jump forward and roll over anything in range.\nExhaust Blast (Secondary Attack): Press (X) to shoot fire from the exhaust.\nUpgrades\n\nFull Steamroll Smash (requires level: 3): Steamroll now has 4 levels. Releasing the button with the right timing will do a front flip for extra damage. Releasing too late will have the bike fall backwards.\nFlame Circle (requires level: 6): Repeatedly press (Y) to spin frantically, and eventually trigger a flamethrower.\nRocket (requires level: 9): Hold (X) to charge-up then release to shoot forward like a rocket and damage everything ahead.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Tread_Head",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Wheelie",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Tread_Headprimarypower.png/revision/latest?cb=20170506150514",
+        "content": "Press Attack 1 to speed up and pop a wheelie right through enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Backfire Blast",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b7/Tread_Headsecondarypower.png/revision/latest?cb=20170506150521",
+        "content": "Press Attack 2 to shoot enemies behind you with backfire from your cycle.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Pedal to the Metal",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Tread_Headbasicupgrade1.png/revision/latest?cb=20170506150529",
+        "content": "Perform the Wheelie attack for longer.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Spin Out",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Tread_Headbasicupgrade2.png/revision/latest?cb=20170506150539",
+        "content": "Press Attack 3 for a spin attack - any damage you take while spinning is cut in half.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Tread Heavily",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fd/Tread_Headbasicupgrade3.png/revision/latest?cb=20170506150547",
+        "content": "Bigger treads equals bigger damage from the Wheelie attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Kick Up Some Dust",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bf/Tread_Headbasicupgrade4.png/revision/latest?cb=20170506150601",
+        "content": "Spin out attack does extra damage around a larger area.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Rocket Boost",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5a/Tread_Headsoulgempower.png/revision/latest?cb=20170506150610",
+        "content": "Once you hit maximum speed in Wheelie Mode, press Attack 3 to rocket boost off of a ramp.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Drag Racer",
+        "abilities": [
+          {
+            "name": "Spike a Wheelie",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/81/Tread_Headpath1upgrade1.png/revision/latest?cb=20170506151020",
+            "content": "Spiked wheels make Wheelie attack do extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Go Out With a Bang",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Tread_Headpath1upgrade2.png/revision/latest?cb=20170506151027",
+            "content": "Shoot out a massive backfire during the last stage of a Wheelie.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Burning Rubber",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Tread_Headpath1upgrade3.png/revision/latest?cb=20170506151034",
+            "content": "Leave a fire trail during the last stages of a Wheelie.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Pavement Peeler",
+        "abilities": [
+          {
+            "name": "Eat My Dust",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/20/Tread_Headpath2upgrade1.png/revision/latest?cb=20170506151140",
+            "content": "Enemies hit by the Spin out attack are slowed down by a dust cloud.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Spray It, Don't Say It",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Tread_Headpath2upgrade2.png/revision/latest?cb=20170506151149",
+            "content": "In Wheelie Mode, make tight turns to spray enemies with dirt and rocks.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Fire Spin",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/df/Tread_Headpath2upgrade3.png/revision/latest?cb=20170506151200",
+            "content": "Spin out attack goes so fast that it sets the ground on fire.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "tread-head",
@@ -36,7 +269,28 @@
         "Spike a Wheelie",
         "Eat My Dust"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "85 (max. 133)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20 (max. 70)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Tread_Head"
     }
   ]
