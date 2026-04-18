@@ -1,30 +1,71 @@
 {
   "id": "user-blog-cookiecake12347-episode-idea-1",
   "name": "User blog:Cookiecake12347/episode idea 1",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
-  "wiki_url": "https://skylanders.fandom.com/wiki/User_blog%3ACookiecake12347%2Fepisode_idea_1",
+  "species": "Fan Content",
+  "gender": "None",
+  "element": "None",
+  "role": "User Blog",
+  "primary_game": "Skylanders Academy",
+  "appearances": [
+    "Skylanders Academy"
+  ],
+  "cameos": [
+    "Stealth Elf",
+    "Wolfgang",
+    "Elf Elder",
+    "Skylanders",
+    "Doom Raiders"
+  ],
+  "world": [
+    "Elf Village"
+  ],
+  "description": "A fan-written episode idea for the Skylanders Academy series involving a tango-style duel between Stealth Elf and Wolfgang.",
+  "biography": "I've thought of an episode idea that could have made skylanders acadamy better\n\nthe skylander gang visit an elf viliage when it is attacked by the doomraders. wolfgang decides to fight steath elf in a one-on-one battle and almost everything stops. the elf elder then tells them that neither side can help them and that stealth elf and wolfgang cannot use weapons. as the two fight, both the skylanders and doomraders eat popcorn and talk about the fight. the fight itself is styled like a tango ,compleat with wolfgang catching a flower in his teeth near the end of the fight, but neither side backs down. soon both sides are worn out but neither has backed down. however a bell rings and tells them that because they failed to defeat eachother, they are equal and promply tells them that because of this, they must be married. of course both of them are shocked",
+  "quote": "I've thought of an episode idea that could have made skylanders acadamy better",
+  "personality": "None",
+  "story": [
+    {
+      "story_name": "The Episode Idea",
+      "content": "the skylander gang visit an elf viliage when it is attacked by the doomraders. wolfgang decides to fight steath elf in a one-on-one battle and almost everything stops. the elf elder then tells them that neither side can help them and that stealth elf and wolfgang cannot use weapons. as the two fight, both the skylanders and doomraders eat popcorn and talk about the fight. the fight itself is styled like a tango ,compleat with wolfgang catching a flower in his teeth near the end of the fight, but neither side backs down. soon both sides are worn out but neither has backed down. however a bell rings and tells them that because they failed to defeat eachother, they are equal and promply tells them that because of this, they must be married. of course both of them are shocked",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Blog Content",
+      "content": [
+        "I've thought of an episode idea that could have made skylanders acadamy better",
+        "the skylander gang visit an elf viliage when it is attacked by the doomraders. wolfgang decides to fight steath elf in a one-on-one battle and almost everything stops. the elf elder then tells them that neither side can help them and that stealth elf and wolfgang cannot use weapons. as the two fight, both the skylanders and doomraders eat popcorn and talk about the fight. the fight itself is styled like a tango ,compleat with wolfgang catching a flower in his teeth near the end of the fight, but neither side backs down. soon both sides are worn out but neither has backed down. however a bell rings and tells them that because they failed to defeat eachother, they are equal and promply tells them that because of this, they must be married. of course both of them are shocked"
+      ]
+    }
+  ],
+  "trivia": [
+    "The episode idea was proposed by user Cookiecake12347.",
+    "The story centers on a non-weapon battle between Stealth Elf and Wolfgang that is styled like a tango.",
+    "The plot concludes with the characters being declared equal and ordered to be married."
+  ],
+  "trailers": [],
+  "gameplay": "This is a fan-authored blog post and does not contain gameplay features.",
+  "wiki_url": "https://skylanders.fandom.com/wiki/User_blog:Cookiecake12347/episode_idea_1",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "user-blog-cookiecake12347-episode-idea-1",
       "variant_name": "User blog:Cookiecake12347/episode idea 1",
       "edition": "Series 1",
       "type": "Core",
-      "game": null,
-      "image": null,
+      "game": "Skylanders Academy",
+      "image": "",
       "attacks": [],
-      "stats": null,
-      "wiki_url": "https://skylanders.fandom.com/wiki/User_blog%3ACookiecake12347%2Fepisode_idea_1"
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/User_blog:Cookiecake12347/episode_idea_1"
     }
   ]
 }
