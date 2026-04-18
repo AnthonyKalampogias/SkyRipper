@@ -4,6 +4,7 @@
   "species": "Ent",
   "gender": "Male",
   "element": "Life",
+  "role": "Giant",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -16,22 +17,355 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "The Kaos Trap",
+  "cameos": [
+    "The Kaos Trap"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
+  "description": "Tree Rex is a colossal Ent who is a Life Skylander and one of the eight Giants in Skylanders: Giants. He is available exclusively in the Skylanders: Giants Starter Pack and Portal Owners Pack.",
   "biography": "Long ago before the Giants protected Skylands, Tree Rex was a majestic tree living peacefully in the ancient woods. But this tranquil peace came to an end when the Arkeyans built a nearby factory to produce war machines. After years of his soil being poisoned by the magic and tech waste from the factory, he mutated into who he is now - a powerful Giant who will crush anything that threatens the natural order of things.",
-  "personality": "Tree Rex is a natural protector who is as wise as he is majestic, unwavering in his mission to protect Skylands from evil magic. &#91; 3 &#93; He has also dedicated his life to maintain the natural balance of all things. &#91; 4 &#93;",
-  "story": null,
+  "quote": "Be Afraid of the Bark!",
+  "personality": "Tree Rex is a natural protector who is as wise as he is majestic, unwavering in his mission to protect Skylands from evil magic. He has also dedicated his life to maintain the natural balance of all things.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Long ago before the first Giant had set foot on Skylands, there stood a tall, towering tree. It loomed above the other trees in the forest and shielded the creatures below with its mighty branches. When the Arkeyans built a factory at the edge of the forest, little did they know it would ultimately spell their doom. Magic leaked from the factory, poisoning the soil over hundreds of years. Slowly, bit by bit, that tallest tree began to mutate. Its branches became arms, its trunk became a body and its roots formed into a particularly massive pair of legs. Tree Rex was born, and he wasn't happy. He immediately stomped the factory flat, then set off to find out who had stuck it there in the first place so he could stomp them flat too. Tree Rex believes there is a natural order to all things, and anyone who threatens that order had better prepare for a squishing.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "The Kaos Trap",
+      "content": "When Hugo called for any available Skylander teams to help Stealth Elf, Pop Fizz and Wash Buckler against an army of trolls, Gill Grunt's team, which consisted of Star Strike and Tree Rex, were unable to help as they were busy evacuating the inhabitants of Stonetown from a flood released from a cracked dam. Tree Rex was holding back a stone slab to keep the rushing waters at bay, while ushering his two companions to hurry before it gave way.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/GillGrunt_Team.png/revision/latest/scale-to-width-down/290?cb=20140801000912"
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "When Malefor was on his way to attack the Skylanders Academy, Tree Rex, the Giants and other Skylanders were summoned to stop the evil dragon. The Giants managed to grab hold of the Malefor's tail to hold him down, but were caught off guard when the mechanical tail was also made as a weapon, allowing Malefor to knock Tree Rex and the other Giants off-balance. In the end, all forty Skylanders, including the Giants, were defeated in a single blow, allowing Malefor to absorb their powers with a crystal to make himself more powerful. Once the crystal was destroyed by Spyro, Tree Rex and the other Skylanders were granted back their strength and powers.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Rift into Overdrive",
+      "content": "In response to the sky rifts appearing around Skylands, Tree Rex and the other Giants were assigned to directly protect the Core of Light stationed at the Skylanders Academy in case of a direct assault. The giant Ent calmed Bouncer's fears when the robot giant expressed worry regarding the sky rifts that were threatening Skylands. Knowing that they are the first Skylanders, Tree Rex knew that the other Skylanders would look up to the Giants in need of courage and hoped that the others would find the answer to the rifts. When Kaos captured Master Eon and demanded the Skylanders to surrender the Core of Light, Spyro sent out the Giants, who proceeded to break apart the whole island, hurling the rocky remains at the attacking airships.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Be Afraid of the Bark!",
+        "Bouncy, bouncy!",
+        "Oh yeah!",
+        "Woohoo!",
+        "Yeah!",
+        "Spring time!",
+        "Yes!",
+        "All right!",
+        "Come get some!",
+        "All bark and all bite!",
+        "No stopping me!",
+        "Took you to the wood shed!",
+        "That's what I'm talking about!",
+        "Tree-menudous!",
+        "You got tree wrecked!",
+        "Coming through!",
+        "Bring it on!",
+        "Giants rule!",
+        "Unstoppable!",
+        "Timber!",
+        "Back to my roots!",
+        "Branchin' out!",
+        "My power has grown!",
+        "Now that's a tree top!",
+        "Yeah, lookin' pretty good!",
+        "Now that has a nice ring to it!",
+        "A tree by any other name!"
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Ready for action!",
+        "Nature calls!",
+        "That's what I'm talking about!",
+        "Be afraid of the bark!",
+        "Make it green!",
+        "Tree Rex back in!",
+        "Bring me in!",
+        "Logging out!",
+        "Time for a break!",
+        "My power grows!",
+        "Continued growth!",
+        "Hey hey, I like it!",
+        "Smashing!",
+        "Tree-mendous!",
+        "Bringing it big time!",
+        "All right!",
+        "Solid!",
+        "You've been sapped!",
+        "Heh heh heh, sucker!",
+        "I'm one with nature.",
+        "Large and recharged!",
+        "A natural disaster!",
+        "Go green or go home!",
+        "The power to heal!",
+        "The Tree of Life!",
+        "You can't beat Mother Nature!",
+        "A force of nature!",
+        "Barked up the wrong tree!",
+        "You're out!",
+        "Timber...!",
+        "Going down...!",
+        "Win or lose, I'm still the best...",
+        "Chopped down...",
+        "You got tree wrecked!",
+        "All bark and no bite!",
+        "Easy there, tough guy!",
+        "Knock,knock.",
+        "You're barking up the wrong tree.",
+        "Hey, watch the bark!",
+        "Better knock it off!",
+        "What's up?",
+        "Getting stronger!",
+        "Branching out!"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "I've got this! Take a seat, furball.",
+        "I'm a Giant, booyah.",
+        "You don't believe in unicorns do you?"
+      ]
+    },
+    {
+      "quote_type": "Comic Quotes",
+      "content": [
+        "There's no shame in fear, Bouncer. Everybody here is feeling it. But we are the Giants, the first Skylanders. When others need courage, they will look to us. Not because we are the biggest, or the strongest... but because even though we're afraid, we keep fighting."
+      ]
+    }
+  ],
+  "trivia": [
+    "Tree Rex's name is a pun on the giant dinosaur, T. Rex, also known as Tyrannosaurus Rex.",
+    "Tree Rex's soul gem is a woodpecker nested on his back that pecks nearby enemies to death.",
+    "Tree Rex is voiced by Kevin Michael Richardson, who also voices Stump Smash.",
+    "Despite the rumors, counting his rings will not tell you Tree Rex's age.",
+    "His catchphrase is a pun on 'Be Afraid of the Dark!'.",
+    "Tree Rex was the first Giant revealed for Skylanders: Giants.",
+    "One of his battle cries, 'Bouncy Bouncy!' is the name of one of Eye-Brawl's upgrades.",
+    "He and Cynder are the only Skylanders to have an ally follow them continuously via Soul Gems in the Giants Starter Pack.",
+    "He, Thumpback, Eye-Brawl, and Ninjini are the only Giants who have Minis.",
+    "His name was first used for 3DS versions of Stump Demons.",
+    "In early versions of Giants, Tree Rex has green eyes, but in concept art and the final version his eyes are blue.",
+    "Tree Rex's attacks all use his right arm, except for his Soul Gem.",
+    "Tree Rex was planned for the second season of Skylanders Academy, but he was cut for budget reasons."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Giants - Tree Rex Preview Trailer (Be Afraid of the Bark)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Tree_Rex_Preview_Trailer_(Be_Afraid_of_the_Bark)"
+    },
+    {
+      "name": "Meet the Skylanders Tree Rex",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Tree_Rex"
+    },
+    {
+      "name": "Skylanders Giants - Tree Rex's Soul Gem Preview (Be Afraid of the Bark)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Tree_Rex%27s_Soul_Gem_Preview_%28Be_Afraid_of_the_Bark%29"
+    }
+  ],
+  "gameplay": "Tree Rex can smash his arm against the ground to crush enemies, and create massive shockwaves. When upgraded further, he can make his arm grow thorns, and cause even larger shockwaves. He can also charge at enemies and crush enemies with his elbow, and shoot solar beams at opponents. In Skylanders: Battlecast, he is able to grow roots to restore his own health while increasing his maximum amount, being a formidable tank.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Tree_Rex",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Shockwave Slam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6f/Tree_Rexprimarypower.png/revision/latest?cb=20121105134247",
+        "content": "Press Attack 1 button to slam the ground with massive fists, causing shockwaves. Damage = 28. Crit = 42.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Sequoia Stampede",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e7/Tree_Rexsecondarypower.png/revision/latest?cb=20121105134315",
+        "content": "Press and hold the Attack 2 button to charge through enemies and obstacles. Damage = 20. Crit = 30.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Big Thorn Shockwave Slam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0f/Tree_Rexbasicupgrade1.png/revision/latest?cb=20121105221424",
+        "content": "Press and hold Attack 1 for a bigger, more powerful Shockwave Slam. Damage = 44. Crit = 66.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Photosynthesis Cannon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Tree_Rexbasicupgrade2.png/revision/latest?cb=20121105221446",
+        "content": "Press Attack 3 to harness the power of the sun and shoot light beams. Damage = 9. Crit = 13.5.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Super Stampede",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/16/Tree_Rexbasicupgrade3.png/revision/latest?cb=20121105221611",
+        "content": "Sequoia Stampede attack does increased damage. Damage = 24. Crit = 36.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Treefolk Tripleshot",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Tree_Rexbasicupgrade4.png/revision/latest?cb=20121105221634",
+        "content": "Photosynthesis Cannon fires triple burst shots. Damage = 9x3=27. Crit = 13.5x3=40.5.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Woodpecker Pal",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Tree_Rexsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20121119042102",
+        "content": "A woodpecker buddy joins Tree Rex in battle. Damage = 16. Crit = 24.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Treefolk Charger",
+        "abilities": [
+          {
+            "name": "Titanic Elbow Drop",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c4/Tree_Rexpath1upgrade1.png/revision/latest?cb=20121105221656",
+            "content": "Press Attack 1 while charging to perform one serious elbow drop move. Damage = 35+56=91. Crit = 52.5+84=136.5.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Lightfooted",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Tree_Rexpath1upgrade2.png/revision/latest?cb=20121105221720",
+            "content": "Tree Rex can now charge for longer and at double speed.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Ultimate Stampede",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/77/Tree_Rexpath1upgrade3.png/revision/latest?cb=20121105221755",
+            "content": "Sequoia Stampede attack does maximum damage. Damage = 35. Crit = 52.5.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Lumbering Laserer",
+        "abilities": [
+          {
+            "name": "Super-Charged Vaporizer",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Tree_Rexpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20121118014628",
+            "content": "Hold down Attack 3 to charge up the Photosynthesis Cannon for more damage. Damage = 100. Crit = 150.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Sun Skewer",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/af/Tree_Rexpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20121118014643",
+            "content": "Photosynthesis Cannon blasts through enemies and explodes for more damage. Damage = 12x3=36. Crit = 18x3=54.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "The Pod Maker",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/92/Tree_Rexpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20121118014829",
+            "content": "Vaporized enemies turn into exploding plant pods. Damage = 40. Crit = ???.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "tree-rex",
       "variant_name": "Tree Rex",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Giant",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Tree_Rex_Artwork.jpg/revision/latest?cb=20120604215621",
       "attacks": [
@@ -41,7 +375,28 @@
         "Photosynthesis Cannon",
         "Super Stampede"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "430"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "20"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Tree_Rex"
     }
   ]
