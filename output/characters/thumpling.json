@@ -4,6 +4,7 @@
   "species": "Whale-like Behemoth",
   "gender": "Male",
   "element": "Water",
+  "role": "Sidekick",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -15,16 +16,53 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands Miniverse"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Within the Skylands , a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse . Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-  "personality": "Thumpling is a dedicated hero who will always be there whenever his teammates need him. He shares Thumpback's love for fishing. &#91; 1 &#93;",
-  "story": null,
+  "description": "Thumpling is one of the four Sidekicks in Skylanders: Giants. He is the miniature version of the giant Thumpback, eventually becoming a Mini Skylander in Skylanders: Trap Team.",
+  "biography": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "quote": "Hail to the Whale!",
+  "personality": "Thumpling is a dedicated hero who will always be there whenever his teammates need him. He shares Thumpback's love for fishing.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Hail to the Whale!"
+      ]
+    }
+  ],
+  "trivia": [
+    "His name is most likely a pun on the food \"dumpling\".",
+    "His pedestal has a small wavy splash in front of him, while most Water pedestals have a uniform wave pattern around the character.",
+    "He is the second Skylander to named after a food; the first being Hot Dog and the third being Pop Thorn.",
+    "In Skylanders: Lost Islands, Thumpling seems to be much smaller than Barkley, Eye-Small, and Mini Jini despite being the Mini version of a Giant. Because of the way the game's Skylander section worked, it was easier to select him through the list than to try and pick him up on the overworld.",
+    "In Skylanders Issue 3, while being attacked by Kaos's trolls, Thumpling calls himself a 'shark'."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Thumpling",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Thumpling"
+    }
+  ],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Thumpling",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "thumpling",
@@ -40,7 +78,24 @@
         "The Whalest Chomp",
         "Now There's An Anchor!"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "100"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Thumpling"
     }
   ]
