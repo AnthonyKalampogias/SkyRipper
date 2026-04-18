@@ -4,6 +4,7 @@
   "species": "Sabre-toothed Tiger",
   "gender": "Male",
   "element": "Magic",
+  "role": "SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -12,22 +13,332 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Once part of an elite tribe of hunters in a remote area of Skylands , Trap Shadow used his cat-like cunning, ingenious traps and mystical stealth abilities to catch nearly everything that could be caught. As a result, his fame around Skylands grew so much that it attracted the attention of an evil cadre of wizards. They plotted to capture Trap Shadow and use his abilities to ensnare the most uncatchable thing of all - Master Eon himself. But Trap Shadow could sense them coming from miles away. Outsmarted and outmaneuvered, each of the wizards was easily captured by Trap Shadow's bewildering array of traps and snares until they were all locked away for good. Having saved Master Eon, he quickly made Trap Shadow a Skylander.",
-  "personality": "The finest feline tracker of his tribe, Trap Shadow was the go-to cat if you wanted something caught. He mostly keeps to himself. However, since becoming a Skylander, he's been trying to become a team player. You have to get up early to catch Trap Shadow out - as the wicked wizards discovered. He sniffed out their plans and trapped them before they could trap him (or Eon, for that matter). &#91; 5 &#93;",
-  "story": null,
+  "description": "Trap Shadow is a sabre-toothed tiger hunter who is one of the SWAP Force Skylanders in Skylanders: Swap Force.",
+  "biography": "Once part of an elite tribe of hunters in a remote area of Skylands, Trap Shadow used his cat-like cunning, ingenious traps and mystical stealth abilities to catch nearly everything that could be caught. As a result, his fame around Skylands grew so much that it attracted the attention of an evil cadre of wizards. They plotted to capture Trap Shadow and use his abilities to ensnare the most uncatchable thing of all - Master Eon himself. But Trap Shadow could sense them coming from miles away. Outsmarted and outmaneuvered, each of the wizards was easily captured by Trap Shadow's bewildering array of traps and snares until they were all locked away for good. Having saved Master Eon, he quickly made Trap Shadow a Skylander.",
+  "quote": "Hide and Sleek!",
+  "personality": "The finest feline tracker of his tribe, Trap Shadow was the go-to cat if you wanted something caught. He mostly keeps to himself. However, since becoming a Skylander, he's been trying to become a team player. You have to get up early to catch Trap Shadow out - as the wicked wizards discovered. He sniffed out their plans and trapped them before they could trap him (or Eon, for that matter).",
+  "story": [
+    {
+      "story_name": "Character Development",
+      "content": "During development, Trap Shadow originally was a scary character who wielded a bowie knife. In early concepts he appeared as a larger, more muscular bear-like creature, but was eventually refined into a panther with violet fur. During early playtesting, Trap Shadow was poorly received because he came across as weak. His stealth ability originally had him fire darts that created splashes of shadow on the ground, and stepping into them turned him black as well. However, this power was later simplified into simply holding the secondary attack button to enter stealth mode, and his clawing attacks were given additional effects to make them look stronger.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Trap_Shadow_Concept.jpg/revision/latest/scale-to-width-down/185?cb=20170424202406"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Hide and Sleek!",
+        "Snap a trap!",
+        "Stay out of my way!",
+        "Into the shadows!",
+        "That's how to make an entrance!",
+        "Beyond the shadow of a doubt!",
+        "Oh yeah!",
+        "The claws have it!",
+        "Better luck next time!",
+        "Nice try, but nice only gets you so far!",
+        "You fell right into my trap!",
+        "Another success!",
+        "Gotcha!",
+        "Payday!",
+        "I needed that",
+        "Power boost!",
+        "The numbers don't tell the whole story.",
+        "My credentials."
+      ]
+    }
+  ],
+  "trivia": [
+    "After purchasing his Soul Gem ability, 'Shadow Striker', Trap Shadow wears his green bandanna over his muzzle, instead of around his neck.",
+    "His catchphrase is a pun on 'hide and seek'.",
+    "When he turns invisible, his eyes glow purple, but in the Sneak SWAP Zone, he will fully vanish while leaving his purple aura shown at the bottom and shadowy paw prints.",
+    "His appearance has some of the features of a saber-tooth cat (long fangs), panther (facial features), and tiger (fur color patterns).",
+    "He is the second SWAP Force Skylander with the ability to turn invisible, but only when his Soul Gem ability, 'Living Shadow', is purchased. If not, enemies and bosses will spot him. Also, he stays invisible much shorter than Stink Bomb and can do so while the second attack button is held down.",
+    "He is the only SWAP Force Skylander on the 3DS with no dash attack upgrade.",
+    "He has many abilities that would later be associated with the Dark Element, such as hiding in shadows and using dark magic. Oddly, these abilities were associated with Undead Skylanders (such as Cynder) at the time of Swap Force's release, not Magic.",
+    "Trap Shadow was one of the many Skylanders planned to appear in Skylanders: Ring of Heroes. Before the game's closure, only concept art of his Awakened Form was released.",
+    "While Trap Shadow is in stealth mode, the music, ambient sounds, and dialogues become muted.",
+    "On his toy from, his top half shows him holding a snap trap in his right hand, and the left one held up, with his index finger up to his mouth, as if saying, 'Ssshhh!'",
+    "In the animated intro to his Soul Gem, Trap Shadow's eyes appear a much more vivid green than they do in-game or in his art."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Trap Shadow",
+      "isValid": false,
+      "url": "/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Trap_Shadow"
+    },
+    {
+      "name": "Skylanders Swap Force - Trap Shadow Soul Gem Preview (Hide and Sleek)",
+      "isValid": false,
+      "url": "/wiki/File:Skylanders_Swap_Force_-_Trap_Shadow_Soul_Gem_Preview_(Hide_and_Sleek)"
+    },
+    {
+      "name": "Meet the SWAP Force Trap Shadow",
+      "isValid": false,
+      "url": "/wiki/File:Meet_the_SWAP_Force_Trap_Shadow"
+    }
+  ],
+  "gameplay": "Trap Shadow attacks by slashing enemies with his shadowy claws, and can kick waves of shadows at foes. He can also throw magical traps that snap and damage enemies, and even turn invisible by using shadows, and create an explosion of shadows when reappearing.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Trap_Shadow",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Clawing Shadow",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Trap_Shadowtopprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505201729",
+        "content": "Press Attack 1 to swipe shadowy claws at nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Shadow Kick",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Trap_Shadowbottomprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505201800",
+        "content": "Press Attack 2 to kick a wave of shadows at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Snap Trap",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/20/Trap_Shadowtopbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505201734",
+        "content": "Press Attack 3 to throw a magically animated trap which will snap at enemies and damage them.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 300,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Sharp Magic",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/53/Trap_Shadowtopbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505201743",
+        "content": "Press Attack 1 rapidly to use powerful claw attacks that deal increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Catch!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Trap_Shadowtopbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505201749",
+        "content": "Hold Attack 3 to aim Snap Trap, release to throw it.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Prowl",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a8/Trap_Shadowbottombasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505201830",
+        "content": "Hold Attack 2 to prowl for a short time, causing any enemy touched to be damaged.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 300,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Nine Lives",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Trap_Shadowbottombasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505201845",
+        "content": "Health is increased. This cat is never done for.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Out of the Shadows",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/75/Trap_Shadowbottombasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505201851",
+        "content": "Hold Attack 2 to prowl for a short time, coming out of power causes a large explosion that damages nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Shadow Striker",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/14/Trap_Shadowtopsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505201757",
+        "content": "Press Attack 1 to rapidly to do quick claw attacks. While doing claw attacks, hold Attack 1 to unleash a powerful shadowy dash.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Living Shadow",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ea/Trap_Shadowbottomsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505201855",
+        "content": "Press Attack 2 to prowl and become invisible. Who needs shadows to hide in? Just become one!",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Feral Instincts",
+        "abilities": [
+          {
+            "name": "Me-ouch!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/77/Trap_Shadowtoppath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505202209",
+            "content": "Hold Attack 1 to combo into a swipe that knocks enemies into the air.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Nocturnal Predcator",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Trap_Shadowtoppath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505202214",
+            "content": "Me-ouch! does increased damage. This kitty has claws... big, pointy claws!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Trap Trickster",
+        "abilities": [
+          {
+            "name": "Gloom and Boom",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Trap_Shadowtoppath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505204039",
+            "content": "Traps will explode after a short time, damaging all enemies within a large area.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Make It Snappy",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/53/Trap_Shadowtoppath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505204047",
+            "content": "All traps are now more powerful and do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Shadow Combat",
+        "abilities": [
+          {
+            "name": "Dark Magic",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c6/Trap_Shadowbottompath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505202238",
+            "content": "Press Attack 2 to kick a wave of shadow that can damage enemies farther away.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Shade Steps",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/56/Trap_Shadowbottompath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505202242",
+            "content": "All shadow wave attacks do even more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Prowler",
+        "abilities": [
+          {
+            "name": "Black Cat",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/79/Trap_Shadowbottompath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505204052",
+            "content": "Hold Attack 2 to prowl, moving while prowling leaves behind magical pawprints that damage enemies that touch them.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Bumps in the Night",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Trap_Shadowbottompath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505204059",
+            "content": "Shade Steps do increased damage. Huh? Who's footprints are these?",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "trap-shadow",
       "variant_name": "Trap Shadow",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/a/a7/Trap_Shadow_Promo.jpg",
       "attacks": [
@@ -37,7 +348,28 @@
         "Prowl",
         "Me-Ouch!"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Trap_Shadow"
     }
   ]
