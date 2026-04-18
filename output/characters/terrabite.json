@@ -4,6 +4,7 @@
   "species": "Dirt Shark",
   "gender": "Male",
   "element": "Earth",
+  "role": "Sidekick / Mini",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -16,22 +17,47 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands Miniverse"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Within the Skylands , a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-  "personality": "Terrabite is pretty persistent. If he gets knocked down, he gets right back up again in true hero style. &#91; 1 &#93;",
-  "story": null,
+  "description": "Terrabite is one of the four Sidekicks in Skylanders: Spyro's Adventure. He is the miniature version of Terrafin, eventually becoming a Mini Skylander in Skylanders: Trap Team.",
+  "biography": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "quote": "It's Feeding Time!",
+  "personality": "Terrabite is pretty persistent. If he gets knocked down, he gets right back up again in true hero style.",
+  "story": [],
+  "quotes": [],
+  "trivia": [
+    "Terrabite's name is a play on the word Terabyte, referring to a unit of information that is equal to one million million bytes (or 2^40).",
+    "As a sidekick in Spyro's Adventure to Swap Force, Terrabite had spikes on his head. As a Mini Skylander in Trap Team onward, his spikes are not featured. Strangely, in his promo art and toy figure, Terrabite's spikes are black. In-game, they are orange."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Terrabite",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Terrabite"
+    },
+    {
+      "name": "Skylanders Power Play- Terrabite",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play-_Terrabite"
+    }
+  ],
+  "gameplay": "null",
   "wiki_url": "https://skylanders.fandom.com/wiki/Terrabite",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "terrabite",
       "variant_name": "Terrabite",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Mini",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/3/37/Terrabite_promo.jpg",
       "attacks": [
@@ -41,7 +67,28 @@
         "Mega Bellyflop",
         "Razorfin"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "310 (max. 620)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Terrabite"
     }
   ]
