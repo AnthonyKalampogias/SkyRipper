@@ -4,36 +4,273 @@
   "species": "Unknown",
   "gender": "Unknown",
   "element": "Non-Elemental",
-  "primary_game": "Skylanders: Swap Force (Console)",
+  "role": "Debug Skylander",
+  "primary_game": "Skylanders: Swap Force",
   "appearances": [
-    "Skylanders: Swap Force (Console)",
+    "Skylanders: Swap Force",
     "Skylanders: SuperChargers",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Template Template is used as a debug character and can be found in various Vicarious Visions titles, first seen in Skylanders: Swap Force. He is a humanoid character with no particular details aside from large hands and a tail.",
+  "biography": "Template Template is used as a debug character and can be found in various Vicarious Visions titles, first seen in Skylanders: Swap Force. He is a humanoid character with no particular details aside from large hands and a tail. In Skylanders: Swap Force, using a glitch, he can be seen in-game. He has three attacks (two tail spin moves and ineffective slaps) and a full, though placeholder, upgrade tree. He cannot attack enemies but can be attacked and swapped with. His element HUD is not rendered, revealing parts of the health and XP gauges. His movement type is Climb (or Rocket on Player 2), but he cannot participate in SWAP Force Zones. His portrait is a 'PLACEHOLDER' puff of smoke, except during battle results where he uses Magna Charge's portrait. During summoning, he's incorrectly described as Fire element. In Skylanders: SuperChargers, he appears in the mainline version with a generic placeholder icon and lacks a 3D preview. In Skylanders: Imaginators, his summon animation causes a crash, though his bottom half can be summoned with another Skylander's top half without crashing (except in racing mode where he can participate). If taken from racing mode to the main game without a summoning sequence, the game won't crash. His icon is Stink Bomb's, except in racing setup where it's a red exclamation mark. In the Nintendo Switch version, he remains in files but cannot be summoned without modification due to the lack of racing mode.",
+  "quote": "null",
+  "personality": "null",
+  "story": [
+    {
+      "story_name": "Swap Force",
+      "content": "Using a glitch, it is possible to see the character in-game by replacing a regular SWAP Force Skylander's files with his, though he can be accessed through other means. Template Template has three attacks, which includes two different tail spin moves and a series of ineffective slaps. Template Template also possesses five of the normal nine quests and a full upgrade tree, the latter of which is placeholder and will not grant any upgrades. Template Template is unable to attack any enemies, but he is able to be attacked. Other Skylanders with the Swap ability are also able to swap with Template Template. The HUD icon for the Skylander's element is not rendered due to Template Template lacking an element, revealing a part of the health and XP gauges that aren't seen during normal gameplay. Template Template's movement type is Climb (or Rocket on Player 2) according to the HUD, but he is unable to participate in any of the SWAP Force Zones. In addition, he uses a 'placeholder' image for his portrait, which is a puff of smoke that resembles a silhouette of a prototype rendition of Blast Zone with the word 'PLACEHOLDER' written on it, except during a battle results screen where he instead uses Magna Charge's portrait. During the summoning sequence or 'Magic Moment', Template Template is incorrectly described as a Fire element Skylander. However, when summoned, the element panel(s) don't show as normal for the loading animation of a Swap Force Skylander, leaving the sequence background completely visible if both halves are used, the white bar that is supposed to represent the split in elements for a Swap Force character and the top element panel missing if the top half is used, or the bottom element panel missing if the bottom half is used.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Template_Template_Swap_Force.png"
+    },
+    {
+      "story_name": "SuperChargers",
+      "content": "Template Template appears in the mainline version of Skylanders: SuperChargers, but does not make an apperance in Skylanders: SuperChargers Racing. Although In the main game, he uses a generic placeholder icon. Additionally, in Skylanders: SuperChargers, he lacks any 3D preview that can be seen with all other Skylanders while driving a vehicle.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Imaginators",
+      "content": "In Skylanders: Imaginators, Template Template is able to appear during his summon animation, but once it ends, the game will crash. Only Template Template's bottom half can be summoned in this game without crashing, as long as the top half is of another Skylander - this is with the exception of the game's racing mode, where he is able to participate. If he is taken out of the racing mode and into the main game without a summoning sequence, the game will not crash. Unlike prior games which use generic placeholder icons to represent him, his icon is that of Stink Bomb, except when in the racing setup menu where he shows as a red exclamation mark. In the Nintendo Switch version of Imaginators, he is not able to be summoned without modification, due to the lack of a racing mode, but does remain in the files of the game.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Template_Template_Swap_Force.png"
+    }
+  ],
+  "quotes": [],
+  "trivia": [
+    "His name refers to his use as the base for Swap Force Skylanders, indicating both of his top and bottom half. Though he doesn't seem to be a placeholder for any particular Swap Force character, his overall body shape and movement most resembles that of the officially released Skylander, Fire Kraken.",
+    "Template Template's head most resembles that of an earless Greeble.",
+    "They share some animations with Free Ranger (such as his primary attack)",
+    "Template Template's traversal animations are used by the Jet swapper half when it is dismounted from the board.",
+    "Template Template slides around if any attacks are done whilst moving, due to the lack of any partial/alternative animations for them.",
+    "Template Template is also used as a placeholder in Vicarious Visions's storyboards, representing the in-engine Skylander.",
+    "Template Template possesses happy, angry, and goofy facial animations. However, he is missing a sad animation (which typically appears on other Skylanders from Swap Force), causing his emotion to reset back to normal when pressed.",
+    "His victory animation for Battle Mode uses the idle animation for another template character, Template Legacy, causing his body to shrink down considerably.",
+    "Template Template's materials are not present in the Wii version of Swap Force, resulting in a fully white appearance.",
+    "Template Template can be seen as part of two development screenshots present in the files for Swap Force, SuperChargers, and Imaginators. Rather noteworthily, these images aren't stored in any archives like all other image files, and are instead stored as raw PNG files. Additionally, both screenshots also contain the Utah Teapot, a common test geometry used in rendering.",
+    "Template Template was originally fully blue instead of green, as seen in an GDC Vault Representation"
+  ],
+  "trailers": [],
+  "gameplay": "Template Template has three attacks: two different tail spin moves and a series of ineffective slaps. He possesses five of the normal nine quests and a full upgrade tree, which is placeholder and grants no upgrades. He is unable to attack enemies but can be attacked. Other Skylanders with the Swap ability can swap with him. His element HUD is not rendered due to lacking an element. His movement type is Climb (or Rocket on Player 2), but he cannot participate in SWAP Force Zones. In Imaginators, his summon animation crashes the game unless only his bottom half is summoned with another Skylander's top half, or if he's taken from racing mode to the main game without a summoning sequence. He is able to participate in racing mode in Imaginators.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Template_Template",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Tackle",
+        "imgPath": "",
+        "content": "(null)",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4169E1",
+          "bg_content": "#87CEFA"
+        }
+      },
+      {
+        "name": "Spin Attack",
+        "imgPath": "",
+        "content": "(null)",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4169E1",
+          "bg_content": "#87CEFA"
+        }
+      },
+      {
+        "name": "Slap",
+        "imgPath": "",
+        "content": "(null)",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4169E1",
+          "bg_content": "#87CEFA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Item Name That Is Way Too Long",
+        "imgPath": "",
+        "content": "Hold to aim the portal loop, release it under Loop to cause a massive attack that damages enemies in a large area.release it under Loop to cause a massive attack that attack that",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1500,
+        "colors": {
+          "header": "#4169E1",
+          "bg_content": "#87CEFA"
+        }
+      },
+      {
+        "name": "Basic_Skills_BaseAbility1",
+        "imgPath": "",
+        "content": "(null)",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4169E1",
+          "bg_content": "#87CEFA"
+        }
+      },
+      {
+        "name": "Basic_Skills_BaseStat1",
+        "imgPath": "",
+        "content": "(null)",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4169E1",
+          "bg_content": "#87CEFA"
+        }
+      },
+      {
+        "name": "Basic_Skills_BaseAbility2",
+        "imgPath": "",
+        "content": "(null)",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4169E1",
+          "bg_content": "#87CEFA"
+        }
+      },
+      {
+        "name": "Basic_Skills_BaseStat2",
+        "imgPath": "",
+        "content": "(null)",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4169E1",
+          "bg_content": "#87CEFA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "SoulGem",
+        "imgPath": "",
+        "content": "(null)",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4169E1",
+          "bg_content": "#87CEFA"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Path 1",
+        "abilities": [
+          {
+            "name": "Tier1_Skills_Ability1",
+            "imgPath": "",
+            "content": "(null)",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 0,
+            "colors": {
+              "header": "#4169E1",
+              "bg_content": "#87CEFA"
+            }
+          },
+          {
+            "name": "Tier1_Skills_Stat1",
+            "imgPath": "",
+            "content": "(null)",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 0,
+            "colors": {
+              "header": "#4169E1",
+              "bg_content": "#87CEFA"
+            }
+          },
+          {
+            "name": "Tier1_Skills_Ability2",
+            "imgPath": "",
+            "content": "(null)",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 0,
+            "colors": {
+              "header": "#4169E1",
+              "bg_content": "#87CEFA"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Path 2",
+        "abilities": [
+          {
+            "name": "Tier2_Skills_Ability1",
+            "imgPath": "",
+            "content": "(null)",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 0,
+            "colors": {
+              "header": "#4169E1",
+              "bg_content": "#87CEFA"
+            }
+          },
+          {
+            "name": "Tier2_Skills_Stat1",
+            "imgPath": "",
+            "content": "(null)",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 0,
+            "colors": {
+              "header": "#4169E1",
+              "bg_content": "#87CEFA"
+            }
+          },
+          {
+            "name": "Tier2_Skills_Ability2",
+            "imgPath": "",
+            "content": "(null)",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 0,
+            "colors": {
+              "header": "#4169E1",
+              "bg_content": "#87CEFA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "template-template",
       "variant_name": "Template Template",
-      "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": "Skylanders: Swap Force (Console)",
+      "edition": "Unknown",
+      "type": "Debug",
+      "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Template_Template_Swap_Force.png",
       "attacks": [
         "Tackle",
         "Spin Attack",
         "Slap"
       ],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Template_Template"
     }
   ]
