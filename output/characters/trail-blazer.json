@@ -4,6 +4,7 @@
   "species": "Flaming Unicorn",
   "gender": "Male",
   "element": "Fire",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -12,22 +13,256 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Trail Blazer was always hot tempered, especially when he saw anything as being unfair. One day, he came across another unicorn that was trapped in a net. But it wasn’t just any unicorn. It was the mythical Unocorn – a magical creature with a Churro Horn that sprinkled enchanted cinnamon throughout Skylands . Trail Blazer freed it at once. Soon after, the Dark Wizards who had set the trap returned, and were very angry to find their dastardly deed had been thwarted. But Trail Blazer was much more fired up – for it turned out the spicy cinnamon from the Churro Horn had somehow rubbed off on him and mixed with his elemental fire. So he was literally set ablaze with fury! He then ran fiery circles around the wizards, forcing them to flee and never return. After realizing his newfound fury could be used to fight evil everywhere, Trail Blazer sought out the Skylanders, who immediately welcomed him as a member.",
+  "description": "Trail Blazer is a fire unicorn who is one of the Fire Core Skylanders in Skylanders: Trap Team.",
+  "biography": "Trail Blazer was always hot tempered, especially when he saw anything as being unfair. One day, he came across another unicorn that was trapped in a net. But it wasn’t just any unicorn. It was the mythical Unocorn – a magical creature with a Churro Horn that sprinkled enchanted cinnamon throughout Skylands. Trail Blazer freed it at once. Soon after, the Dark Wizards who had set the trap returned, and were very angry to find their dastardly deed had been thwarted. But Trail Blazer was much more fired up – for it turned out the spicy cinnamon from the Churro Horn had somehow rubbed off on him and mixed with his elemental fire. So he was literally set ablaze with fury! He then ran fiery circles around the wizards, forcing them to flee and never return. After realizing his newfound fury could be used to fight evil everywhere, Trail Blazer sought out the Skylanders, who immediately welcomed him as a member.",
+  "quote": "The Mane Event!",
   "personality": "Trail Blazer is a hot-tempered unicorn, being set ablaze when he saw anything unfair. However he also possesses a competitive spirit, which in one case causes him to discourage others.",
-  "story": null,
+  "story": [
+    {
+      "story_name": "Champions",
+      "content": "Trail Blazer, along with Fist Bump and Fling Kong, served as the final opponents in the Legendary Tournament. The trio of Skylanders taunted and discouraged Déjà Vu, who made it to the Finals, by claiming that she was out of their league and that the finals were only for Skylanders who can 'handle heavy combat'. As the final round began, Trail Blazer teamed up with Fist Bump and Fling Kong to defeat Déjà Vu, not wanting her to win so that they can be only ones left to battle for the champion title amongst themselves. In the end, all three Skylanders underestimated the Magic Skylander, who used exploding duplicates to surround Trail Blazer, Fist Bump and Fling Kong and knocked them out. Déjà Vu is crowned the new Legendary Champion, and Trail Blazer apologized to her for his behavior along with Fling Kong and Fist Bump.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2f/Trail_Fling_Fist_Comic.jpg/revision/latest/scale-to-width-down/250?cb=20150108063616"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "The Mane Event!",
+        "All fired up!",
+        "I'm always a sure bet!",
+        "Back in the winner's circle!",
+        "Here comes the heat!",
+        "Let the blaze begin!",
+        "Red hot!",
+        "I'm on fire!",
+        "Hot to trot!",
+        "Let's burn!",
+        "Start the fire!",
+        "Rising heat! - when using bounce pod",
+        "Fire power! - when leveled up/upgraded",
+        "Heat blast! - when leveled up/upgraded",
+        "Prize money! - when opening a treasure chest",
+        "Ha ha! I'm on a real hot streak! - when checking out stats",
+        "Just getting warmed up!",
+        "I can warm up to this name! - when given a nickname",
+        "That's the ticket!",
+        "Is a horse wearing a hat weird? - when given a hat",
+        "A catchy new look!"
+      ]
+    }
+  ],
+  "trivia": [
+    "His catchphrase is a play on the phrase, \"The main event\".",
+    "One of his battle cries is shared by Spyro's catchphrase, \"All Fired Up!\" Meanwhile, one of his basic upgrades is the same with Spitfire's catchphrase, \"Fuel the Fire!\"",
+    "He, Knight Mare and Whirlwind are currently the only equestrian-based Skylanders. He and Whirlwind are the only ones to be unicorn-based. Oddly enough, in the Tall Tales trailer for Giants, it implies that unicorns don't exist in Skylands, despite the fact that Trail Blazer is a unicorn.",
+    "Trail Blazer is voiced by Yuri Lowenthal, who also voiced Fright Rider and Softpaw in the series.",
+    "When driving in SuperChargers, he grabs the wheel with his mouth to drive.",
+    "Both Pain-Yatta and Trail Blazer came across the Unocorn, and the latter frees it not long after the piñata lost his friend.",
+    "Trail Blazer's defeat animation was changed between Trap Team and SuperChargers. In Trap Team, he collapses onto his side, whereas in SuperChargers, he sits down like a dog."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Trail Blazer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Trail_Blazer"
+    },
+    {
+      "name": "Skylanders Trap Team - Trail Blazer's Soul Gem Preview (The Mane Event)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Trail_Blazer%27s_Soul_Gem_Preview_(The_Mane_Event)"
+    }
+  ],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Trail_Blazer",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Fireball",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Trail_Blazerprimarypower.png/revision/latest?cb=20170505120825",
+        "content": "Press Attack 1 to shoot Fireballs.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "black",
+          "bg_content": "#F44"
+        }
+      },
+      {
+        "name": "Roundhouse Kick",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Trail_Blazersecondarypower.png/revision/latest?cb=20170505120834",
+        "content": "Press Attack 2 to deliver a Roundhouse Kick.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "black",
+          "bg_content": "#F44"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Burning The Heat",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d6/Trail_Blazerbasicupgrade1.png/revision/latest?cb=20170505120835",
+        "content": "Fireball attack does extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "black",
+          "bg_content": "#F44"
+        }
+      },
+      {
+        "name": "Stampede!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ac/Trail_Blazerbasicupgrade2.png/revision/latest?cb=20170505120841",
+        "content": "Press Attack 3 for a charge attack, shooting fire out of your horn.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "black",
+          "bg_content": "#F44"
+        }
+      },
+      {
+        "name": "Bucking Bronco",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b9/Trail_Blazerbasicupgrade3.png/revision/latest?cb=20170505120847",
+        "content": "Hold Attack 2 to go into Bucking Bronco Mode, kicking in every direction.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "black",
+          "bg_content": "#F44"
+        }
+      },
+      {
+        "name": "Fuel the Fire",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/db/Trail_Blazerbasicupgrade4.png/revision/latest?cb=20170505120850",
+        "content": "All attacks do extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "black",
+          "bg_content": "#F44"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Heat Wave",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6a/Trail_Blazersoulgempower.png/revision/latest?cb=20170505120856",
+        "content": "Hold Attack 1 to charge up the Fireball attack, then release for a wave of fire.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "black",
+          "bg_content": "#d04c8e"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Equine Excellence",
+        "abilities": [
+          {
+            "name": "Flaming Forms",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Trail_Blazerpath1upgrade1.png/revision/latest?cb=20170505121131",
+            "content": "Two flaming forms accompany you during the Stampede attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "black",
+              "bg_content": "#F44"
+            }
+          },
+          {
+            "name": "Firewalker",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/79/Trail_Blazerpath1upgrade2.png/revision/latest?cb=20170505121135",
+            "content": "Stampede attack leaves behind a trail of fiery footprints that damage enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "black",
+              "bg_content": "#F44"
+            }
+          },
+          {
+            "name": "Triple Fireballs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/73/Trail_Blazerpath1upgrade3.png/revision/latest?cb=20170505121138",
+            "content": "Shoot three Fireballs at a time.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "black",
+              "bg_content": "#F44"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Fireballer",
+        "abilities": [
+          {
+            "name": "Kick It Up A Notch",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Trail_Blazerpath2upgrade1.png/revision/latest?cb=20170505121146",
+            "content": "Roundhouse Kick and Bucking Bronco attacks have increased power and duration.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "black",
+              "bg_content": "#F44"
+            }
+          },
+          {
+            "name": "Bouncing Fireballs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/91/Trail_Blazerpath2upgrade2.png/revision/latest?cb=20170505121151",
+            "content": "Fireballs now bounce along the ground and travel further.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "black",
+              "bg_content": "#F44"
+            }
+          },
+          {
+            "name": "Not His 1st Rodeo",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Trail_Blazerpath2upgrade3.png/revision/latest?cb=20170505121155",
+            "content": "Hold Attack 2 to stay in Bucking Bronco Mode for longer and kick up extra flame dust.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "black",
+              "bg_content": "#F44"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "trail-blazer",
       "variant_name": "Trail Blazer",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core Skylander",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/11/Trail_Blazier_Promo.png/revision/latest?cb=20150527220904",
       "attacks": [
@@ -37,7 +272,44 @@
         "Flaming Forms",
         "Kick It Up A Notch"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "85 (max. 133)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "140"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "40"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Trail_Blazer"
     }
   ]
