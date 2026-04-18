@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-18T03:03:13.090Z",
+  "last_run": "2026-04-18T09:42:32.106Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -1208,6 +1208,82 @@
     {
       "name": "Super Shot Stealth Elf",
       "sha": "024006d9a4849d279ab7ab6d53e1d5e3e27fe6f0bdfd9e86e50dd4347b65baf6"
+    },
+    {
+      "name": "SuperChargers",
+      "sha": "26ea04a23fab4fe7aa9f0fb6681a31970e163e95d77f3b531fde9a4bd3dd9716"
+    },
+    {
+      "name": "Surfer Slam Bam",
+      "sha": "cc04cb8c13689d8c7020134674684086815e4aed7ec4b115a0722356728b03ec"
+    },
+    {
+      "name": "SWAP Force",
+      "sha": "e85ebdc2e4346aea5d773bf0039f7b2961a4700f63bc7003d43f329681f00821"
+    },
+    {
+      "name": "Swarm",
+      "sha": "eedc37d7ac1b4112042fd7cd7e3c16c55d5a8c914188ef0fe99c57344857e64b"
+    },
+    {
+      "name": "Tae Kwon Crow",
+      "sha": "91d3439bc2005caed293cfc231f372ff998cf7a032f837d6e6d4169af1cc8342"
+    },
+    {
+      "name": "Template Template",
+      "sha": "64f2e9b620972fbfa72a0bc83a264d8d8cfc4b9abfbd1783cf770b989f9ff531"
+    },
+    {
+      "name": "Terrabite",
+      "sha": "7414e4d70f8a95a392a3f826f5bfb93395f95793f7db2482a611804fcde8284c"
+    },
+    {
+      "name": "Terrafin",
+      "sha": "5a51b6ac1cead26ef83bfbf8178ac68eb0c5f5298c49ea39ac5eeaf9b87fbb9b"
+    },
+    {
+      "name": "Thrillipede",
+      "sha": "950cca1c324acd4f2b3f5cc804b479ccc53ebdca9681187449c7d80bc6a244c4"
+    },
+    {
+      "name": "Thumpback",
+      "sha": "945194624754d7200f2dee3a091f27f4d7f65b2c48cd06bc563c7377edd69ab0"
+    },
+    {
+      "name": "Thumpling",
+      "sha": "b2a8638edefb2f48f44ee7dc6f9448e7685330a271b01bad52b05aba14def489"
+    },
+    {
+      "name": "Thunderbolt",
+      "sha": "75545562b4b528740701d5689d9e732710e0bd81461754275ba5c2a677487f4c"
+    },
+    {
+      "name": "Tidepool",
+      "sha": "86a0c45dbcbb6989d379f69ef73d9783f50debe2a0f7e07d4631718dad3c1d94"
+    },
+    {
+      "name": "Torch",
+      "sha": "c2a553d29aee821a997d3dd7ab2aba468777c98f6681fad1da2f3ded2dab7dc9"
+    },
+    {
+      "name": "Trail Blazer",
+      "sha": "4e56eea9d9aa41119ae1be19bcd77df2610e3754a8fdd1414253961185f235bb"
+    },
+    {
+      "name": "Trap Shadow",
+      "sha": "c5ff2d64e6415824d7148cac8fa42e429b83993f520e8fe3d37b53ec62b88ce3"
+    },
+    {
+      "name": "Trap Team",
+      "sha": "ae1d5656199d44cc0b9f4e730408037c964c004ccc192fbb2d03a7ac0cc4e7b1"
+    },
+    {
+      "name": "Tread Head",
+      "sha": "724e2af6344ae2c18415b1475485943690524e91716fd4eae012e87e33a2def4"
+    },
+    {
+      "name": "Tree Rex",
+      "sha": "35deab71ccd5b994e48981b0105d90da24ac38239922f67971e6b52c61b737cc"
     }
   ]
 }
