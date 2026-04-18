@@ -4,7 +4,8 @@
   "species": "Feline (Caracal)",
   "gender": "Female",
   "element": "Life",
-  "primary_game": "Skylander: Trap Team",
+  "role": "Trap Master",
+  "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
@@ -13,23 +14,269 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [
+    "Robot Chicken (Episode: Fridge Smell)"
+  ],
   "world": [
     "Random Canyons"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "For many years, Tuff Luck and her tribe guarded the Fortunata Springs – the source of all good luck in Skylands . Though hidden in the Random Canyons, which move without warning to cover the hidden entrance to the magical waters, minions of Kaos located the springs and flew in sponge-tankers to drain every drop of the lucky liquid. Fortunately, Tuff Luck was patrolling the area and immediately jumped into action when she saw what was happening. Between her awesome skill and unbeatable good luck, she single-handedly drove off the minions. She then drank from the magical waters, as was custom for her tribe. Sensing a greater calling, Tuff Luck decided to leave her tribe to join the Trap Team, where she could do even more to help protect Skylands. Armed with her Traptanium Warblades, she always beats the odds – and evil – at every turn!",
-  "personality": "Tuff Luck has a lot of good stuff going for her. She is all about taking chances. Like the rest of her tribe, she is also very protective of the Fortunata Springs. &#91; 2 &#93;",
-  "story": null,
+  "description": "Tuff Luck is a (caracal) feline who is one of the Life Trap Masters in Skylanders: Trap Team.",
+  "biography": "For many years, Tuff Luck and her tribe guarded the Fortunata Springs – the source of all good luck in Skylands. Though hidden in the Random Canyons, which move without warning to cover the hidden entrance to the magical waters, minions of Kaos located the springs and flew in sponge-tankers to drain every drop of the lucky liquid. Fortunately, Tuff Luck was patrolling the area and immediately jumped into action when she saw what was happening. Between her awesome skill and unbeatable good luck, she single-handedly drove off the minions. She then drank from the magical waters, as was custom for her tribe. Sensing a greater calling, Tuff Luck decided to leave her tribe to join the Trap Team, where she could do even more to help protect Skylands. Armed with her Traptanium Warblades, she always beats the odds – and evil – at every turn!",
+  "quote": "Deal With It!",
+  "personality": "Tuff Luck has a lot of good stuff going for her. She is all about taking chances. Like the rest of her tribe, she is also very protective of the Fortunata Springs.",
+  "story": [
+    {
+      "story_name": "Light in the Dark",
+      "content": "Tuff Luck was one of the Trap Masters sought by Gearshift to help tackle Pain-Yatta's army of candy warriors. When they managed to save a group of Mabu from the enemy, she along with the other Skylanders were forced to retreat into an old fortress, holding out until help arrives. As they were cornered by the candy army within the fortress, Tuff Luck and the other Skylanders served as Skylands' last line of defense, battling Pain-Yatta's army with all of their might. The candy army soon fell to pieces just as the Skylanders were becoming overwhelmed (thanks to the actions of the Light and Dark Skylanders in their fight against Pain-Yatta), earning the heroes their victory.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Deal With It!",
+        "Better luck next time!",
+        "Victory is mine!",
+        "Blades to battle!",
+        "Bring it on!",
+        "My turn!",
+        "Ready to go!",
+        "Let's roll!",
+        "I'm on a roll!",
+        "Coincidence? I think not!",
+        "Up up up!",
+        "Wheee!",
+        "Spring time!",
+        "Mean and green!",
+        "Full power!",
+        "Powered up!",
+        "Good fortune!",
+        "Lucky numbers!",
+        "My odds are looking good!",
+        "My new lucky hat!",
+        "Now that's a good look!",
+        "A charming new name!",
+        "Whatever name you like."
+      ]
+    }
+  ],
+  "trivia": [
+    "Her original catchphrase was 'It's Your Lucky Day!' although it was changed to 'Deal With It!' late in development.",
+    "In Skylanders Collection Vault, her catchphrase is still listed as 'It's Your Lucky Day!'",
+    "She is the third Life Skylander who can turn invisible, after Stealth Elf and Stink Bomb.",
+    "She appears in the Robot Chicken episode 'Fridge Smell'.",
+    "Tuff Luck is the second female Life Skylander.",
+    "Tuff Luck speaks with an Irish accent, likely inspired by Leprechauns.",
+    "She shares the attack name 'Green Thumb' with Food Fight and a character card for Broccoli Guy.",
+    "Her appearance is similar to Cali's, as both are caracals.",
+    "Tuff Luck jumps farther than other Skylanders, giving her a slight advantage but making some platforms easier to miss.",
+    "She is only shown at her full height during her idle animation."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Tuff Luck",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Tuff_Luck"
+    },
+    {
+      "name": "Skylanders Trap Team - Tuff Luck's Soul Gem Preview (Deal With It)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Tuff_Luck%27s_Soul_Gem_Preview_(Deal_With_It)"
+    },
+    {
+      "name": "Skylanders Power Play Tuff Luck",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Tuff_Luck"
+    }
+  ],
+  "gameplay": "Tuff Luck can attack her enemies with her Traptanium Warblades, and even unleash waves of energy from them. She can also turn invisible in clusters of four-leaf clovers to pounce on her opponents. Upon purchasing her Soul Gem ability, she can create spiky blades of grass that attack all enemies around her. One of Tuff Luck's notable gameplay traits is her major luck factor. When using the Warblade Stab attack, either alone or in tangent, to another ability, there is a chance that it will be charged with the energy of a rainbow, increasing the area of effect and dealing significantly more damage to enemies.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Tuff_Luck",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Traptanium Warblades",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f8/Tuff_Luckprimarypower.png/revision/latest?cb=20141222095313",
+        "content": "Press Attack 1 to swipe with Traptanium Warblades. Press Attack 1, Attack 1, Attack 1 for a combo strike.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Pounce Mode",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d6/Tuff_Lucksecondarypower.png/revision/latest?cb=20141222095415",
+        "content": "Press Attack 2 to enter Pounce Mode, invisible to enemies. Then press Attack 1 to pounce!.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Warblade Stab",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Tuff_Luckbasicupgrade1.png/revision/latest?cb=20141222095756",
+        "content": "Press Attack 3 to spring forward with a powerful Warblade Stab attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Green Thumb",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Tuff_Luckbasicupgrade2.png/revision/latest?cb=20141222095836",
+        "content": "Stay in Pounce Mode longer.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Control Your Destiny",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Tuff_Luckbasicupgrade3.png/revision/latest?cb=20141222095911",
+        "content": "Hold Attack 3 to control where Warblade Stab lands.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Glave Wave",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Tuff_Luckbasicupgrade4.png/revision/latest?cb=20141222095941",
+        "content": "Traptanium Warblade attack now shoots an energy wave.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Garden of Pain",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Tuff_Lucksoulgempower.png/revision/latest?cb=20141222100204",
+        "content": "Hold Attack 3 and press Attack 1 to grow spiky blades of grass that do massive damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Pouncy Pounce!",
+        "abilities": [
+          {
+            "name": "Poison Ivy",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5a/Tuff_Luckpath1upgrade1.png/revision/latest?cb=20150222034622",
+            "content": "Clover patches in Pounce Mode stun enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Powerful Pounce",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Tuff_Luckpath1upgrade2.png/revision/latest?cb=20150222034645",
+            "content": "Traptanium Warblade attack from Pounce Mode does more damage",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "4-Leafed Clover",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dd/Tuff_Luckpath1upgrade3.png/revision/latest?cb=20150222034655",
+            "content": "Touching clover in Pounce Mode restores HP.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Warblade Whacker",
+        "abilities": [
+          {
+            "name": "Wave Goodbye",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/Tuff_Luckpath2upgrade1.png/revision/latest?cb=20150222034705",
+            "content": "Energy wave released from Traptanium Warblade attack does more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Lucky Spin",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/be/Tuff_Luckpath2upgrade2.png/revision/latest?cb=20150222034713",
+            "content": "Press Attack 1, Attack 1 Hold Attack 2 for Lucky Spin combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Wiggin' Warblade",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/05/Tuff_Luckpath2upgrade3.png/revision/latest?cb=20150222034724",
+            "content": "Press Attack 1, Attack 1, Hold Attack 3 for Wiggin' Warblade combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "tuff-luck",
       "variant_name": "Tuff Luck",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": "Skylander: Trap Team",
+      "type": "Trap Master",
+      "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/5/51/Tuff_Luck_Promo.jpg/revision/latest?cb=20240521091017",
       "attacks": [
         "Traptanium Warblades",
@@ -38,7 +285,28 @@
         "Poison Ivy",
         "Wave Goodbye"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "310 (Lv. 20: 930)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "85"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "48"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Tuff_Luck"
     }
   ]
