@@ -3,35 +3,176 @@
   "name": "Tae Kwon Crow",
   "species": "Crow",
   "gender": "Male",
-  "element": "Dark/Fire",
+  "element": "Fire",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Trap Team (Console)",
     "Skylanders: Imaginators"
   ],
-  "cameos": "*Skylanders: SuperChargers (Skystone) *SuperChargers Issue 5",
+  "cameos": [
+    "Skylanders: SuperChargers (Skystone)",
+    "SuperChargers Issue 5"
+  ],
   "world": [
     "Skyhighlands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Tae Kwon Crow, formerly known as the Great Hawkmongous, is a ninja crow who first appeared as one of the Dark trappable villains in Skylanders: Trap Team.",
+  "biography": "Tae Kwon Crow, formerly known as the Great Hawkmongous, is a ninja crow who first appeared as one of the Dark trappable villains in Skylanders: Trap Team. He is the former leader of a notorious gang of evil Sky Pirates in the Skyhighlands and is a former member of the Feathered Fiends. Tae Kwon Crow returns in Skylanders: Imaginators, where he has switched elements to Fire and is one of the ten villains who trades in a life of crime to become a Sensei. He now trains Imaginators who belong to the Ninja Battle Class, hence why he traded in his katana for a pair of large shuriken.",
+  "quote": "Who Dares Face Me?",
+  "personality": "Tae Kwon Crow's Imaginators backstory implies he might have OCD (obsessive compulsive disorder), constantly desiring for things to be done the way he thinks is right, even if other people are the ones acting out of line, to the point of obsession.",
+  "story": [
+    {
+      "story_name": "Skylanders: Trap Team",
+      "content": "Tae Kwon Crow was a ninja who served as leader of an evil gang of Sky Pirates in the Skyhighlands. After escaping from Cloudcracker Prison, the crow returned to the Skyhighlands, where he soon encountered the Skylanders throughout his hideout. He challenged them to a few games of Skystones Smash, before ultimately battling them for the possession of the crystal prism. He was eventually defeated and trapped.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Imaginators",
+      "content": "Tae Kwon Crow was once the leader of a villainous band of air pirates. But after he was captured by the Trap Masters, Master Eon dared him to change his ways and use his abilities for good. Tae Kwon Crow realized he could serve as a role model to young Ninjas and help them avoid the dark path he went down. Forsaking his katana for traditional fire-kicks, he now defends Skylands.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Skylanders: Trap Team",
+      "content": [
+        "Who dares disturb the Great Hawkmongous and his evil band of pirates?",
+        "No one captures me, twice!",
+        "Let us fight!"
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Who dares face me?!",
+        "Tae Kwon Crow is here to steal the show!",
+        "Junbi! Begin!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the second trappable villain who changes his name (the first being Threatpack).",
+    "His name is a play on 'tae kwon do', a Korean martial art.",
+    "Tae Kwon Crow is the only Ninja Sensei with a visible mouth."
+  ],
+  "trailers": [],
+  "gameplay": "In Skylanders: Trap Team, Tae Kwon Crow uses his ninja abilities to teleport to avoid enemy attack and uses his katana for offense. After renouncing his evil ways in Imaginators, he abandoned his katana and now uses throwing stars and fire roundhouse kicks. He can summon Buzzer Beak helpers and use a Fire Kick that leaves behind a wall of fire. His combat style revolves around long-range shuriken tossing or close-range fire combos depending on the upgrade path chosen.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Tae_Kwon_Crow_(character)",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Shuriken Throw",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Tae_Kwon_Crowprimarypower.png",
+        "content": "Press Attack 1 to throw ninja stars at nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Flame Kick",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4c/Tae_Kwon_Crowsecondarypower.png",
+        "content": "Press Attack 2 to do a spin kick, lighting the ground on fire.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Ricochet Shot",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2e/Tae_Kwon_Crowbasicupgrade1.png",
+        "content": "Your Shuriken Throw ninja stars now deal more damage and bounce between nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Big Momma",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/Tae_Kwon_Crowsoulgempower.png",
+        "content": "Press and hold Attack 3 to call down the Big Momma Buzzer Beak",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "Final Fire Flurry",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Tae_Kwon_Crowskychipower.png",
+        "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Shuriken Slinger",
+        "abilities": [
+          {
+            "name": "Triple Shurikens",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/32/Tae_Kwon_Crowpath1upgrade1.png",
+            "content": "Press Attack 1 to throw 3 ninja stars.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "tae-kwon-crow",
+      "id": "tae-kwon-crow-sensei",
       "variant_name": "Tae Kwon Crow",
-      "edition": "Series 1",
+      "edition": "Standard",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Tae_Kown_Crow.png",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/10/Tae_Kwon_Crow_Sensei_Promo.jpg",
       "attacks": [
-        "Trap Team=*Samurai sword",
-        "Ninja stars"
+        "Shuriken Throw",
+        "Flame Kick"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Attack",
+          "stat_value": "8"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Tae_Kwon_Crow_(character)"
     }
   ]
