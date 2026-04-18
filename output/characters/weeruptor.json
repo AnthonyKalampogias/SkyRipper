@@ -1,29 +1,170 @@
 {
   "id": "weeruptor",
   "name": "Weeruptor",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": "The Skylander Minis started off as regular \" Sidekicks \", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-  "personality": "Much like Eruptor, Weeruptor has a bad temper. Even the slightest thing will make him angry. Sometimes he's just a typical hothead. He doesn't just hate evil; he wants to burn it to the ground until there's nothing left but a pile of ashes. &#91; 1 &#93;",
-  "story": null,
+  "species": "Lava Monster",
+  "gender": "Male",
+  "element": "Fire",
+  "role": "Mini",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "Skylanders: Trap Team",
+    "Skylanders: Lost Islands",
+    "The Kaos Trap",
+    "Return of the Dragon King",
+    "Skylanders Issue 12",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": [],
+  "world": [
+    "Skylands Miniverse"
+  ],
+  "description": "Weeruptor is the Mini counterpart of the Fire Skylander, Eruptor in Skylanders: Trap Team.",
+  "biography": "The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "quote": "Born to Burn!",
+  "personality": "Much like Eruptor, Weeruptor has a bad temper. Even the slightest thing will make him angry. Sometimes he's just a typical hothead. He doesn't just hate evil; he wants to burn it to the ground until there's nothing left but a pile of ashes.",
+  "story": [
+    {
+      "story_name": "The Kaos Trap",
+      "content": "Weeruptor was ambushed by Kaos on his way to the Skylanders Academy along with the other Minis. The evil Portal Master marooned the Fire Mini off Flynn's Dread-Yacht and onto a floating life raft, but Weeruptor burned through the raft and managed to hang onto a branch dangling above a body of water. However he was still in danger as his fiery limbs were burning through the branch as well, until Tessa, Cali and Whiskers rescued him from a watery fate. Weeruptor explained to them that he was ambushed and placed overboard by someone, leading the others to believe that the stowaway at the Academy is impersonating the real Weeruptor. Weeruptor became disheartened when they couldn't return to the Academy in their search for Flynn, as he was looking forward to the Academy orientation. Tessa gladly lifted the Mini's spirits by retelling the stories of the Skylanders to him, from the Giants to the current generation of Skylanders in form of the Trap Masters. Soon they came across a troll battalion attacking Flynn and Chopper. In an attempt to save his friends, Weeruptor leapt off of Whiskers and managed to take out few of the Troll Bombers, but was about to be blasted by another Troll Bomber. He was saved by the timely arrival of the Fire Trap Master, Wildfire, who drove off the remaining Troll Bombers. As soon as they were safe, Flynn explained that Kaos was the one who impersonated Weeruptor and plans to ruin the Academy. As they began their trek back, Wildfire saw promise in Weeruptor, proclaiming that the Mini has the 'fire to be an amazing Skylander one day'. Weeruptor and the others arrived at the Skylanders Academy to expose Kaos, only to discover that the Portal Master was already being driven out of the academy by Food Fight. Despite missing the first day of school, Weeruptor happily exclaimed that it was the best day of school ever.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "Weeruptor was one of the Skylanders who was stationed onboard a ship that was en route to the Wilikin Village. When Captain Frightbeard and his cyclops pirates attacked the vessel, the Skylanders led by Spyro emerged from a hatch on the ship to battle the pirates. They emerged victorious, but the Skylanders came to notice that there was something wrong with Spyro's powers.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Born to Burn!"
+      ]
+    }
+  ],
+  "trivia": [
+    "When viewing Weeruptor's upgrades descriptions in the 3DS version of Trap Team, they actually match Jet-Vac's descriptions."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Weeruptor",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Weeruptor"
+    },
+    {
+      "name": "Skylanders Power Play Weeruptor",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Weeruptor"
+    }
+  ],
+  "gameplay": "As a Mini version of Eruptor, Weeruptor possesses volcanic powers, allowing him to lob lava at foes and cause massive eruptions from the ground to burn evil to a crisp.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Weeruptor",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Lava Lob",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg",
+        "content": "Lobs a ball of lava at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#B22222",
+          "bg_content": "#FF4500"
+        }
+      },
+      {
+        "name": "Eruption",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg",
+        "content": "An eruption of lava from the ground to burn nearby foes.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#B22222",
+          "bg_content": "#FF4500"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Quick Eruption",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg",
+        "content": "Allows for faster and more frequent eruption attacks.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#B22222",
+          "bg_content": "#FF4500"
+        }
+      },
+      {
+        "name": "Heavy Duty Plasma",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg",
+        "content": "Enhances the intensity and damage of fire-based plasma attacks.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#B22222",
+          "bg_content": "#FF4500"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Big Blob Lava Throw",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg",
+        "content": "The ultimate lava attack, throwing massive globs of molten rock at enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#B22222",
+          "bg_content": "#FF4500"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
       "id": "weeruptor",
       "variant_name": "Weeruptor",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
+      "type": "Mini",
+      "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Lava Lob",
+        "Eruption",
+        "Big Blob Lava Throw",
+        "Heavy Duty Plasma",
+        "Quick Eruption"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "100"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Weeruptor"
     }
   ]
