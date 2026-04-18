@@ -4,6 +4,7 @@
   "species": "Giant Hornet/Hymenopteran Insect",
   "gender": "Male",
   "element": "Air",
+  "role": "Giant",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -16,22 +17,294 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": "Return of the Dragon King",
+  "cameos": [
+    "Return of the Dragon King"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Swarm was once a prince from a proud race of mysterious insect warriors that had built their entire civilization inside a giant honeycombed pyramid. Growing up as one of the 9,000 members of the royal family, he was never permitted to leave the hive. But unlike his brethren, there was a magical quality to Swarm that caused him to grow much larger than the rest of his kind. No longer able to fit amongst the rest of his colony, the young prince broke the long standing tradition and stepped out into the open world - where his size and strength would be put to good use in the legendary battle between the Giants and the Arkeyans .",
-  "personality": "Swarm is as adventurous as he is unique. He always adds a barbed insult to a stinging attack. He never gets caught short of ideas, always having a 'plan bee' up his sleeve. &#91; 2 &#93;",
-  "story": null,
+  "description": "Swarm is a giant hornet-like hymenopteran insect who is one of the eight Giants in Skylanders: Giants. He is of the Air element.",
+  "biography": "Swarm was once a prince from a proud race of mysterious insect warriors that had built their entire civilization inside a giant honeycombed pyramid. Growing up as one of the 9,000 members of the royal family, he was never permitted to leave the hive. But unlike his brethren, there was a magical quality to Swarm that caused him to grow much larger than the rest of his kind. No longer able to fit amongst the rest of his colony, the young prince broke the long standing tradition and stepped out into the open world - where his size and strength would be put to good use in the legendary battle between the Giants and the Arkeyans.",
+  "quote": "Bring the Sting!",
+  "personality": "Swarm is as adventurous as he is unique. He always adds a barbed insult to a stinging attack. He never gets caught short of ideas, always having a 'plan bee' up his sleeve.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "As one of the nine thousand members of an insect royal family all crammed together in a hive, it was difficult for Swarm to stand out. All that changed when, without any explanation, the young prince began to grow. And grow. And grow. Although it was forbidden for any member of the royal family to ever leave the hive, they were forced to make an exception for Swarm when his head starting growing through the roof. Emerging into an unfamiliar world, Swarm struggled to find a place to fit in. He wandered for months, and discovered that stinging insects, particularly enormous talking monster stinging insects, are not very popular. He soon became homesick, and longed for the days he was being trampled by several thousands of his closet relatives. However, when he was discovered by the other Giants, he finally found a purpose - using his brute strength and stinger attacks to ruin the Arkeyans' picnic and restore peace to Skylands.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "When Malefor was on his way to attack the Skylanders Academy, Swarm was one of the many Skylanders that were summoned to stop the evil dragon. Tree Rex, Eye-Brawl and Crusher managed to grab hold of the Malefor's tail and hold him down, allowing Swarm and Bouncer to attack the dragon. However the Giants were caught off guard when Malefor's mechanical tail was also made as a weapon and he was able to defeat all of the attacking Skylanders, including the Giants, with a powerful tail whip. Malefor then proceeded to absorb their powers to make himself more powerful before advancing towards the Academy. Swarm's powers were later returned to him when Spyro destroyed Malefor's crystal that was used to steal the powers of Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Bring the Sting!",
+        "Prepare to buzz!",
+        "Form the swarm!",
+        "Go to 'plan bee'!",
+        "Rumble with the bumble!",
+        "Hive and seek!",
+        "The buzz and the swarm!",
+        "Buzz on through!",
+        "Moving on.",
+        "Going up!",
+        "Boing boing!",
+        "A buzz-worthy victory!",
+        "I'm the king...of sting!",
+        "The king of the sting!",
+        "Woohoo!",
+        "Buzz off!",
+        "Oh yeah!",
+        "Let's buzz on in!",
+        "Strength in numbers!",
+        "Looking good!",
+        "Nice!",
+        "Hopefully this will fit over my antennas!",
+        "Ha, the name is buzzing in my ears!",
+        "Not a bad name."
+      ]
+    }
+  ],
+  "trivia": [
+    "Some of Swarm's prototype names include Giant Hornet, Wasp Man, and Bug Giant.",
+    "Swarm speaks in a Spanish accent, though the original inspiration was an Italian voice actor, who couldn't be hired due to SAG-AFTRA restrictions.",
+    "He has the lowest health out of the other Giants.",
+    "During Giants's early development, Swarm's abilities/upgrades were differently named.",
+    "\"Barb Blades\" was called \"Barb Blade / Barb Bullets.\"",
+    "\"Sharpened Barbs\" was called \"Wasp Blade.\" \"Wingin' It\" was called \"Aerial Throttle.\"",
+    "\"Swarm Form\" was called \"Insect Shroud Form.\"",
+    "\"Stinger Shot\" was called \"Air Cutter.\"",
+    "\"Better Barb Blast\" was called \"Barb Blast.\"",
+    "\"Ultimate Barbs\" was called \"Fury Barbs.\"",
+    "\"Swarm Storm\" was called \"Wasp Shroud Storm.\"",
+    "\"Insectsplosion\" was called \"Wasp Shroud Shockwave.\"",
+    "\"Bee Cleaver\" was called \"Wasp Shroud Axe.\"",
+    "\"Bee is for Butt Stinger\" was called \"Butt Stinger Missile.\"",
+    "Unlike most flying Skylanders, Swarm (and Gill Grunt) flies in a standing position rather than in a quadruped stance. However, Swarm can slightly turn during the process of flight.",
+    "He and Drobot are the only two Skylanders who can damage enemies by just flying.",
+    "There is a glitch where if Swarm enters a cutscene or is otherwise interrupted whilst flying, he will land but will still be showing the animation of his wings buzzing.",
+    "He, Hot Dog and Bumble Blast are the only Skylanders with bee related moves.",
+    "He and Scratch are the only air Skylanders without a blue color.",
+    "Although Swarm can only fly for a limited amount of time, he can fly infinitely if he goes over water.",
+    "Swarm has the shortest name of all Giants.",
+    "Swarm is the only giant who can fly, although Ninjini can float.",
+    "Having 8,999 other insect siblings makes it hard to wrap presents and write birthday cards for each of them everyday. But on the bright side, on Swarm's birthday, he gets a whole pile of presents and cards.",
+    "Swarm is one of the Skylanders who appear to be based upon insects (others being Dune Bug and High Five).",
+    "Despite being called a \"Giant Hornet\", it is unclear whether or not Swarm is more of a bee or wasp, as his moves and voice dialogue contain references to both bees and wasps. Examples being the \"Flight of the Wasp\" ability, the \"Wasp Stormer\" Path, \"Bee is for Butt-Stinger\" Soul Gem power, and his \"Bee Cleaver\" attack.",
+    "He resembles more of a bombardier beetle than a bee or wasp.",
+    "Some of his prototype names indicate he is most likely a wasp.",
+    "The name of his secondary ability \"Flight of the Wasp\", is perhaps a reference to the orchestral interlude, Flight of the Bumblebee.",
+    "Swarm is voiced by Danny Jacobs, best known for voicing Victor Zsasz in Batman: Arkham Asylum and being the second voice of King Julien XIII in the Madagascar series."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Swarm (Giant) Extended cut",
+      "isValid": false,
+      "url": "/wiki/File:Meet_the_Skylanders_Swarm_(Giant)_Extended_cut"
+    },
+    {
+      "name": "Meet the Skylanders Swarm",
+      "isValid": false,
+      "url": "/wiki/File:Meet_the_Skylanders_Swarm"
+    },
+    {
+      "name": "Skylanders Giants - Swarm's Soul Gem Preview (Bring the Sting)",
+      "isValid": false,
+      "url": "/wiki/File:Skylanders_Giants_-_Swarm%27s_Soul_Gem_Preview_(Bring_the_Sting)"
+    }
+  ],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Swarm",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Barb Blades",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/be/Swarmprimarypower.png/revision/latest?cb=20121118020934",
+        "content": "Press the Attack 1 button to slash enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "black",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Flight of the Wasp",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Swarmsecondarypower.png/revision/latest?cb=20121118021124",
+        "content": "Press Attack 2 to hover in the air. While flying, press Attack 1 to shoot Barb Blades.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "black",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Sharpened Barbs",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9d/Swarmbasicupgrade1.png/revision/latest?cb=20121118021141",
+        "content": "Barb Blades melee attacks do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "black",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Wingin' It",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ea/Swarmbasicupgrade2.png/revision/latest?cb=20121118021155",
+        "content": "Can fly faster and for longer durations.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "black",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Swarm Form",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d6/Swarmbasicupgrade3.png/revision/latest?cb=20121118021223",
+        "content": "Press Attack 3 to turn into a swarm of bugs which damage everything they touch.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "black",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Stinger Shot",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5f/Swarmbasicupgrade4.png/revision/latest?cb=20121118021240",
+        "content": "Hold Attack 1 to charge up and release to shoot a stinging energy blast.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "black",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Bee is for the Butt Stinger",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Swarmsoulgempower.png/revision/latest?cb=20121113065018",
+        "content": "While flying, press Attack 3 to fire butt stinger missiles that track enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "black",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Barberous Avenger",
+        "abilities": [
+          {
+            "name": "Razor Wings",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f8/Swarmpath1upgrade1.png/revision/latest?cb=20170503042546",
+            "content": "Wings damage any enemies they touch.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "black",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Better Barb Blast",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/05/Swarmpath1upgrade2.png/revision/latest?cb=20170503042613",
+            "content": "Barb Blades shot while flying do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "black",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Ultimate Barbs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/81/Swarmpath1upgrade3.png/revision/latest?cb=20170503042635",
+            "content": "All Barb Blade attacks do maximum damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "black",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Wasp Stormer",
+        "abilities": [
+          {
+            "name": "Swarm Storm",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/78/Swarmpath2upgrade1.png/revision/latest?cb=20121118021255",
+            "content": "Swarm Form is bigger and does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "black",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Insectsplosion",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a6/Swarmpath2upgrade2.png/revision/latest?cb=20121118021312",
+            "content": "While in Swarm Form, press Attack 2 to do shockwave damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "black",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Bee Cleaver",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b7/Swarmpath2upgrade3.png/revision/latest?cb=20121118021328",
+            "content": "While in Swarm Form, press Attack 1 to form a giant axe and swing at enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "black",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "swarm",
       "variant_name": "Swarm",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Giant",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/b/be/Swarm.jpg",
       "attacks": [
@@ -41,7 +314,28 @@
         "Sharpened Barbs",
         "Stinger Shot"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "400 (max. 800)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "20 (max. 68)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50 (max. 100)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Swarm"
     }
   ]
