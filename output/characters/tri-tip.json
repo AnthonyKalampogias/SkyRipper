@@ -4,22 +4,280 @@
   "species": "Triceratops",
   "gender": "Male",
   "element": "Earth",
+  "role": "Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
     "Tri and Tri Again",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Long before he became a Sensei, Tri-Tip wandered Skylands searching for the mythical Warping Walnut Tree, rumored to never be at the same place long before moving to a new location. After many years, he found the tree - and just before it vanished once again, he took from it a Golden Walnut, which was said to reveal life’s purpose to those who could open it. But to his dismay, the enchanted walnut could not be cracked no matter how hard he struck it with his thick head. Realizing that only a weapon of immense power could crack the magical shell, and not his head, Tri-Tip forged a mighty mace and trained with the greatest warriors to become the ultimate Master of Smashing. But on the day when he was finally ready to open the shell, he paused. It was then that Tri-Tip realized his true purpose – one that the unopened walnut had been teaching him all along. His purpose in life was to use his skills to protect Skylands. He then gifted the unopened walnut to one of his students and left to join the Skylanders.",
-  "personality": null,
-  "story": null,
+  "description": "Tri-Tip is an Earth-elemental Triceratops who is one of the Smasher Senseis in Skylanders: Imaginators. He wields a massive mace and wears black and gold armor adorned with the golden Sensei belt.",
+  "biography": "Long before he became a Sensei, Tri-Tip wandered Skylands searching for the mythical Warping Walnut Tree, rumored to never be at the same place long before moving to a new location. After many years, he found the tree - and just before it vanished once again, he took from it a Golden Walnut, which was said to reveal life's purpose to those who could open it. But to his dismay, the enchanted walnut could not be cracked no matter how hard he struck it with his thick head. Realizing that only a weapon of immense power could crack the magical shell, and not his head, Tri-Tip forged a mighty mace and trained with the greatest warriors to become the ultimate Master of Smashing. But on the day when he was finally ready to open the shell, he paused. It was then that Tri-Tip realized his true purpose – one that the unopened walnut had been teaching him all along. His purpose in life was to use his skills to protect Skylands. He then gifted the unopened walnut to one of his students and left to join the Skylanders.",
+  "quote": "Face the Mace!",
+  "personality": "Determined and reflective, Tri-Tip spent years focused on a single goal before realizing his true calling was to protect others. He possesses a disciplined warrior's spirit tempered by a sense of duty to Skylands. He is also known to have a bit of humor, jokingly admitting to 'stealing' catchphrases from other dinosaur Skylanders.",
+  "story": [
+    {
+      "story_name": "Physical Traits",
+      "content": "Tri-Tip is an anthropomorphic triceratops wearing black and gold armor with the golden Sensei belt tied around his waist. He wields a massive mace in his hand.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "Long before he became a Sensei, Tri-Tip wandered Skylands searching for the mythical Warping Walnut Tree, rumored to never be at the same place long before moving to a new location. After many years, he found the tree - and just before it vanished once again, he took from it a Golden Walnut, which was said to reveal life's purpose to those who could open it. But to his dismay, the enchanted walnut could not be cracked no matter how hard he struck it with his thick head. Realizing that only a weapon of immense power could crack the magical shell, and not his head, Tri-Tip forged a mighty mace and trained with the greatest warriors to become the ultimate Master of Smashing. But on the day when he was finally ready to open the shell, he paused. It was then that Tri-Tip realized his true purpose – one that the unopened walnut had been teaching him all along. His purpose in life was to use his skills to protect Skylands. He then gifted the unopened walnut to one of his students and left to join the Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Face the Mace!",
+        "You have chosen wisely, Portal Master! My club smashes all and can make your Imaginators more powerful!",
+        "And no one smashes like a Smasher, especially with this secret technique.",
+        "My club knows all - and also smashes all.",
+        "Welcome to Club Me!",
+        "Deep inside, they all wanted to be smashed!",
+        "I am powerful!",
+        "More levels equal more smashing!",
+        "Dino Might! And yes, I stole that one from Chopper.",
+        "Ahh, a perfect balance between fury and rage.",
+        "A smashing success!",
+        "I love that move!",
+        "You can put your faith in numbers, mine is in the club.",
+        "Stats schmats I always say! Well...I don't, but I will now!",
+        "A club's gotta do what a club's gotta do!",
+        "Sensei-tional!",
+        "I love when that happens!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He is the only male Sensei of the Earth element.",
+    "He is the fourth dinosaur Skylander (behind Dino-Rang, Slobber Tooth and Chopper).",
+    "Tri-Tip mentioned Chopper after admitting that he 'stole' the latter's catchphrase. He and Hurricane Jet-Vac are the only two playable Skylanders to mention another Skylander in game.",
+    "He and Bash have triceratops related traits.",
+    "His name is a play on Tri-tip, which is a cut of beef.",
+    "This would make him the 6th Skylander with a food-based name, after Hot Dog, Pop Thorn, Rocky Roll, Jawbreaker and Thumpling.",
+    "Tri-Tip somewhat resembles a Triceraton from Teenage Mutant Ninja Turtles.",
+    "His Posey Power Swing attack is a reference to baseball star Buster Posey.",
+    "One of his upgrades, Jurassic Whirled, is a play on the title of the movie Jurassic World.",
+    "His catchphrase is similar to Wham-Shell's.",
+    "His defeated animation is similar to Pop Fizz's, both hitting their weapon of choice against their forehead.",
+    "Tri-Tip is voiced by Brad Abrell, who is best known for voicing Bubble Buddy in Spongebob Squarepants. He also voiced Phil the Penguin and a Mammoth in Spyro: A Hero's Tail and Frankenstein in Hotel Transylvania: Transformania (replacing Kevin James).",
+    "He also voiced Prism Break (replacing Peter Lurie) in Skylanders: Battlecast. Coicidentally, both are Earth elemental Skylanders.",
+    "Tri-Tip's upgrade portraits, Mace Smash and Mighter Mace, are swapped."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Imaginators Meet Master Tri-Tip",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Imaginators_Meet_Master_Tri-Tip"
+    },
+    {
+      "name": "Skylanders Imaginators - Tri-Tip Soul Gem Preview",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Imaginators_-_Tri-Tip_Soul_Gem_Preview"
+    }
+  ],
+  "gameplay": "Tri-Tip is a powerful Smasher Sensei who uses his mace for devastating ground smashes and his horns for charging through enemies. He can strategically control the battlefield using fossil traps and call down orbital asteroids with his Soul Gem ability. His Sky-Chi power, Mesozoic Mayhem, allows him to spin and demolish surrounding foes.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Tri-Tip",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Mace Smash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c0/Tri-Tipprimarypower.png/revision/latest?cb=20170504215408",
+        "content": "Press Attack 1 to smash the ground with your mace!",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Dino Dash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Tri-Tipsecondarypower.png/revision/latest?cb=20170504215412",
+        "content": "Press Attack 2 to charge with your horns, pushing enemies with you.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Rock Blast",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Tri-Tipbasicupgrade1.png/revision/latest?cb=20170504215419",
+        "content": "Mace Smash launches rocks forward.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Summon Fossil Traps",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Tri-Tipbasicupgrade2.png/revision/latest?cb=20170504215428",
+        "content": "Press Attack 3 to trap enemies in fossils.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Posey Power Swing",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2b/Tri-Tipbasicupgrade3.png/revision/latest?cb=20170504215434",
+        "content": "Hold Attack 1 for a powerful baseball swing.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "What Goes Up",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ee/Tri-Tipbasicupgrade4.png/revision/latest?cb=20170504215439",
+        "content": "Press Attack 2 in the air for a powerful jump attack that launches enemies way up.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Never Saw It Coming",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/Tri-Tipsoulgempower.png/revision/latest?cb=20170504215445",
+        "content": "Occasionally, a powerful asteroid falls from the sky and creates a devastating explosion.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "Mesozoic Mayhem",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/Tri-Tipskychipower.png/revision/latest?cb=20170504215453",
+        "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power! Spin for the win!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Peleolithic Pounder",
+        "abilities": [
+          {
+            "name": "Mightier Mace",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/01/Tri-Tippath1upgrade1.png/revision/latest?cb=20170504220159",
+            "content": "Do more damage with your Mace Smashes with an improved weapon!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Fault Zone",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f8/Tri-Tippath1upgrade2.png/revision/latest?cb=20170504220202",
+            "content": "Mace Smash attacks leave a dangerous lingering quake zone.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Jurassic Whirled",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Tri-Tippath1upgrade3.png/revision/latest?cb=20170504220204",
+            "content": "The last hit of your Attack 1 triple-combo creates an exploding dust storm vortex!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Jurassic Justice",
+        "abilities": [
+          {
+            "name": "Historic Preservation",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/da/Tri-Tippath2upgrade1.png/revision/latest?cb=20170504220209",
+            "content": "You get new horns! And after doing a Dino Dash, you gain a shield and take less damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Fossil Forte",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b9/Tri-Tippath2upgrade2.png/revision/latest?cb=20170504220207",
+            "content": "You summon Fossil Traps faster, and you deal critical hits to enemies tarred by them!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          },
+          {
+            "name": "Matador Might",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d9/Tri-Tippath2upgrade3.png/revision/latest?cb=20170504220212",
+            "content": "Dino Dash into a Fossil Trap to create a massive explosion.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#C95",
+              "bg_content": "#EDA"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "tri-tip",
@@ -35,7 +293,24 @@
         "Mightier Mace",
         "Historic Preservation"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "300"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "350"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "130"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Tri-Tip"
     }
   ]
