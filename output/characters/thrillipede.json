@@ -4,21 +4,249 @@
   "species": "Millipede",
   "gender": "Male",
   "element": "Life",
+  "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Flutter Bay"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Thrillipede served in the Millipede Military in the outer regions of Skylands . As the top pilot in his unit, Thrillipede was responsible for single-handedly blasting over 300 Greeble warships out of the sky! When the Great Greeble War came to an end, he returned to his hometown of Flutter Bay as a celebrated hero. He was the talk of the town and everyone wanted to shake the many hands of the famous young pilot. News of his heroics eventually made their way to Captain Flynn at the Skylanders Academy , who set out to determine if the stories were true. In a series of friendly challenges, the two pilots raced, soared through obstacles, and performed incredible stunts in front of a cheering Flutter Bay crowd. In each event, Thrillipede stood victorious, and was asked to join the Skylanders shortly after. Of course, Flynn later admitted that he “let him win” so that Thrillipede wouldn’t be embarrassed in front of his hometown.",
-  "personality": "Thrillipede is incredibly skilled in combat, but is very reserved when not battling evil. Despite not being a bird, he is very observant when riding his Buzz Wing, and has great knowledge on flight mechanics. In his SuperCharger Quest, he is also shown to be very modest, and holds a longstanding friendship with Buzz . Thrillipede flies fearless through the skies, zipping through the air without a care. He's committed to his duty, but freely admits he loves to wow the crowds. &#91; 1 &#93;",
-  "story": null,
+  "description": "Thrillipede is a green millipede who is one of the Life SuperChargers in Skylanders: SuperChargers. His signature vehicle is the Buzz Wing.",
+  "biography": "Thrillipede served in the Millipede Military in the outer regions of Skylands. As the top pilot in his unit, Thrillipede was responsible for single-handedly blasting over 300 Greeble warships out of the sky! When the Great Greeble War came to an end, he returned to his hometown of Flutter Bay as a celebrated hero. He was the talk of the town and everyone wanted to shake the many hands of the famous young pilot. News of his heroics eventually made their way to Captain Flynn at the Skylanders Academy, who set out to determine if the stories were true. In a series of friendly challenges, the two pilots raced, soared through obstacles, and performed incredible stunts in front of a cheering Flutter Bay crowd. In each event, Thrillipede stood victorious, and was asked to join the Skylanders shortly after. Of course, Flynn later admitted that he “let him win” so that Thrillipede wouldn’t be embarrassed in front of his hometown.",
+  "quote": "All Hands on Deck!",
+  "personality": "Thrillipede is incredibly skilled in combat, but is very reserved when not battling evil. Despite not being a bird, he is very observant when riding his Buzz Wing, and has great knowledge on flight mechanics. In his SuperCharger Quest, he is also shown to be very modest, and holds a longstanding friendship with Buzz. Thrillipede flies fearless through the skies, zipping through the air without a care. He's committed to his duty, but freely admits he loves to wow the crowds.",
+  "story": [],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "All Hands on Deck!",
+        "Coming up aces!",
+        "Moving up the ranks!",
+        "Metamorphosis!",
+        "Fortune and glory!",
+        "The spoils of war...!",
+        "Too easy!",
+        "Well, the numbers speak for themselves, hm hm. - when checking stats"
+      ]
+    },
+    {
+      "quote_type": "Driver Quest Quotes",
+      "content": [
+        "Haha! Good times, Buzz, good times...",
+        "Haha! I'm not sure those grenades remained secret for very long...",
+        "I call her the Buzz Wing! And she's the fiercest aerial assault machine this side of the Cloudscraper Mountains.",
+        "From one soldier to another, Buzz, it kinda helps when you've got four arms to steer with. Heh heh.",
+        "Oh, that's your area of operation, Buzz. I'm just a grenade-slinging grunt. Hm hm.",
+        "Hehe! Maybe, Buzz. But you and I both know that being a Skylander is a full time job. And that's what I'm sticking to."
+      ]
+    }
+  ],
+  "trivia": [
+    "His Soul Gem shares a name with Beautifly, a creature from Pokémon.",
+    "Strangely, although Thrillipede can wrap himself in a cocoon with his Cocooned ability, millipedes do not cocoon themselves. Also, Thrillipede possesses wings in later upgrades, but millipedes in real life don't actually have wings.",
+    "He, Slam Bam and Starcast are the only Skylanders who have four arms.",
+    "Thrillipede's voice actor is Patrick Seitz, who also voices Hot Head, Rip Tide, and Chomp Chest, and is the voice actor for Ratchet & Clank characters Slim Cognito and Wendall Lumos in the PlayStation 4 version of the game, as well as the English voice actor for Dark Cacao Cookie in Cookie Run Kingdom.",
+    "He is the only Life SuperCharger without a dark edition counterpart. He is also the only Life SuperCharger to not be included in a starter pack.",
+    "Thrillipede is the only SuperCharger (not counting the SuperCharger versions of previous Skylanders or guest characters) who did not appear in Skylanders: Ring of Heroes.",
+    "Strangely, Thrillipede was unreleased in the US for an unknown reason, but his vehicle and his easter counterpart were not.",
+    "Concept art included various alternative designs of Thrillipede as a legless, four-winged moth; a stocky, armored beetle; and a slender dragonfly.",
+    "Developer David A. Rodriguez says of Thrillipede, \"He's like a pitching machine... for grenades.\""
+  ],
+  "trailers": [
+    {
+      "name": "Thrillipede",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Thrillipede"
+    },
+    {
+      "name": "Skylanders SuperChargers - Thrillipede's Soul Gem Preview (All Hands on Deck)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Thrillipede%27s_Soul_Gem_Preview_(All_Hands_on_Deck)"
+    }
+  ],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Thrillipede",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Bug Bomb",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/db/Thrillipedeprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505143423",
+        "content": "Press Attack 1 to throw cocoon grenades at your enemies slowing them down in a cloud of bugs.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "black",
+          "bg_content": "#4D5"
+        }
+      },
+      {
+        "name": "Bug Brawl",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Thrillipedesecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170505143428",
+        "content": "Press Attack 2 to use those arms and punch nearby enemies in your way.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "black",
+          "bg_content": "#4D5"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Cocooned",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Thrillipedebasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505143433",
+        "content": "Hold Attack 3 to wrap yourself in a cocoon, protecting yourself from damage, release to explode out and damage nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "black",
+          "bg_content": "#4D5"
+        }
+      },
+      {
+        "name": "Bug N' Cover",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Thrillipedebasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505143437",
+        "content": "Press Attack 1 to throw a grenade into a swarm of dragonflies which slows enemy movement.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "black",
+          "bg_content": "#4D5"
+        }
+      },
+      {
+        "name": "Mind Your Beeswax",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/56/Thrillipedebasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505143442",
+        "content": "Hold Attack 2 to prepare four sticky grenades that you can place as a trap in the ground or directly onto an enemy!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "black",
+          "bg_content": "#4D5"
+        }
+      },
+      {
+        "name": "Cocooties",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Thrillipedebasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170505143450",
+        "content": "Hold Attack 3 to wrap yourself in a cocoon protecting yourself from damage, release to explode out which damages and slows nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "black",
+          "bg_content": "#4D5"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Beautiflies",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/Thrillipedesoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505143456",
+        "content": "When Sticky Grenades blow up, they will release butterflies that heal you when caught.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "black",
+          "bg_content": "#d04c8e"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Mighty-morphosis",
+        "abilities": [
+          {
+            "name": "Better Fly",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Thrillipedepath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505143658",
+            "content": "Hold Attack 3 to wrap yourself in a cocoon protecting yourself from damage, release to explode out and grow wings! While flying, hold Attack 1 to bombard enemies with Bug Bombs!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "black",
+              "bg_content": "#4D5"
+            }
+          },
+          {
+            "name": "Bugging Out",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/26/Thrillipedepath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505143704",
+            "content": "Increased damage of all thrown grenade projectiles.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "black",
+              "bg_content": "#4D5"
+            }
+          },
+          {
+            "name": "Tick It To 'Em",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5a/Thrillipedepath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505143708",
+            "content": "Pressing Attack 2 while jumping will toss sticky grenades below you.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "black",
+              "bg_content": "#4D5"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Insistent Insect",
+        "abilities": [
+          {
+            "name": "Gnawing Gnats",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/05/Thrillipedepath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505143712",
+            "content": "Bug Bombs now cause a swarm of tiny insects to appear and do damage overtime. Hitting targets again with Bug Bomb will remove the swarm and cause extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "black",
+              "bg_content": "#4D5"
+            }
+          },
+          {
+            "name": "Nesting Gnats",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a7/Thrillipedepath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505143718",
+            "content": "The damage over time caused by swarming insect can stack up to 5 times, doubling its damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "black",
+              "bg_content": "#4D5"
+            }
+          },
+          {
+            "name": "Insect Epidemic",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c2/Thrillipedepath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505143725",
+            "content": "Targets affected by the damage over time from the swarm explode spreading the swarm to nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "black",
+              "bg_content": "#4D5"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "thrillipede",
@@ -34,7 +262,28 @@
         "Better Fly",
         "Gnawing Gnats"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 (max. 560)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Thrillipede"
     }
   ]
