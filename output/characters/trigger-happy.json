@@ -1,29 +1,466 @@
 {
   "id": "trigger-happy",
   "name": "Trigger Happy",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
+  "species": "Gremlin",
+  "gender": "Male",
+  "element": "Tech",
+  "role": "Core Skylander",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Lost Islands",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Giants",
+    "Spyro versus The Mega Monsters",
+    "Skylanders: Swap Force",
+    "Skylanders: Trap Team",
+    "Champions",
+    "Trigger Happy Targets the Evil Kaos",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [
+    "The Machine of Doom"
+  ],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Trigger Happy is a gremlin gunslinger Skylander in Skylanders: Spyro's Adventure. He is one of the three Skylanders in the Spyro's Adventure Starter Pack, alongside Spyro and Gill Grunt. He has a Legendary counterpart called Legendary Trigger Happy exclusive to Toys 'R' Us. He also has a Spring counterpart, and his Series 3 counterpart is called Big Bang Trigger Happy.",
   "biography": "Trigger Happy is more than his name -- it's his solution to every problem. Nobody knows from where he came. He just showed up one day in a small village, saving it from a group of terrorizing bandits by blasting gold coins everywhere with his custom-crafted shooters. Similar tales were soon heard from other villages, and his legend quickly grew. Now everyone in all of Skylands knows of the crazy goldslinger that will take down any bad guy... usually without bothering to aim.",
-  "personality": "Trigger Happy's solution to every problem is being, well, trigger-happy. He is known by the other Skylanders as a crazy gunslinger who will take down any evil-doer. The little gremlin always loved hearing about his friends' exploits in their fight against evil to the point of hopping from one foot to the other in excitement.&#160;He has shown to have a reckless and impatient side, as he's willing to dive into danger without waiting for commands, which can cause him to get himself hurt. &#91; 3 &#93; Trigger Happy also has a sense of humor, as he always liked nothing better than to hide a sheep or two in Hugo 's wardrobe most weekends to mess with the Mabu . &#91; 4 &#93; In Goldslinger , Trigger Happy shows a liking for roleplaying, passing as a dramatic Western fiction hero for the fun of it, and trying to convince Spyro to do similar in the future. Despite his reckless personality, there are moments when Trigger Happy can think of ideas that helped save the day, as his idea to have a Mask of Power -imbued Kaos harness all of the elements at once is what saved the Skylanders and gave Trigger Happy an opening to yank the mask off Kaos's face. In Skylanders: Battlecast , being a Tech Skylander, Trigger Happy shows great knowledge of fighting gear and machine customization, as seen previously in SuperChargers with his personally customized Gold Rusher .",
-  "story": null,
+  "quote": "No Gold, No Glory!",
+  "personality": "Trigger Happy's solution to every problem is being, well, trigger-happy. He is known by the other Skylanders as a crazy gunslinger who will take down any evil-doer. The little gremlin always loved hearing about his friends' exploits in their fight against evil to the point of hopping from one foot to the other in excitement. He has shown to have a reckless and impatient side, as he's willing to dive into danger without waiting for commands, which can cause him to get himself hurt. Trigger Happy also has a sense of humor, as he always liked nothing better than to hide a sheep or two in Hugo's wardrobe most weekends to mess with the Mabu. In Goldslinger, Trigger Happy shows a liking for roleplaying, passing as a dramatic Western fiction hero for the fun of it, and trying to convince Spyro to do similar in the future. Despite his reckless personality, there are moments when Trigger Happy can think of ideas that helped save the day. In Skylanders: Battlecast, being a Tech Skylander, Trigger Happy shows great knowledge of fighting gear and machine customization.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Trigger Happy first appeared in a tough frontier town on the furthest reaches of Skylands. The town was dirt poor and had recently been beset by a band of bully bandits. One day, the bandits were holding up the local bank. Suddenly, a short, stumpy stranger strolled into the high street. After taking one look at the bandits, Trigger Happy started shooting. Gold coins sprayed everywhere, embedding themselves into the buildings and the behinds of the bandits, who promptly hightailed it out of there. The town was made instantly rich and Trigger Happy a legend. Master Eon immediately made him a Skylander.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Spyro versus The Mega Monsters",
+      "content": "Trigger Happy was in a training session with Jet-Vac, Spyro, and Drill Sergeant when Spyro's attempt to master his Daybringer Flame attack went out of control. The gremlin gunslinger later accompanied Spyro, Stealth Elf, and Drill Sergeant to the Eternal Archives with the Warrior Librarians. The Skylanders battled against mega-sized Chompies, but were outmatched until Kaos arrived with a magic staff. The Skylanders eventually managed to defeat the Chompies with the help of a mega-sized Spyro.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/87/Spyro_with_Jet-Vac_and_Trigger_Happy.jpg"
+    },
+    {
+      "story_name": "Trigger Happy Targets the Evil Kaos",
+      "content": "Trigger Happy, Food Fight and Smolderdash battled a rampaging Water Viper that was attacking the Mabu Market. They were later assigned to Wool Mountain to find the Magic segment to the Mask of Power. After a series of battles with Kaos and his minions, the Skylanders were eventually able to stop Kaos from using the Mask of Power by coaxing him into using all of their abilities at once, causing him to lose control. Trigger Happy took the opportunity to pull the Mask of Power off Kaos's face, restoring their powers.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/75/Kaos_Mask_of_Power_Skylanders.jpg"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "No Gold, No Glory!",
+        "Mine mine mine mine!",
+        "Pow p-p-p-p-p-p-pow!",
+        "Heha, shoot now, aim later, haha!",
+        "Hehahaha, eat gold!",
+        "Haha, good as gold!",
+        "Up, hehe, up, hehe, up!",
+        "Hehe, bounce bounce!",
+        "Heha, boing boing!",
+        "Hehehaha, I did it!",
+        "Kapooey, heheheha!",
+        "Hehe, happy time, hehe!",
+        "Winning is mine, hehehehe!",
+        "I win, hehehe, big time!",
+        "Pow pow pow, you you you, hehehehaha!",
+        "Hehe, more power!",
+        "Hehahaha, gimme gimme!"
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Trigger time!",
+        "Here we go!",
+        "A golden opportunity!",
+        "You struck gold!",
+        "In it to win it!",
+        "Here I go! Ha ha!",
+        "Time to reload!",
+        "Rest time!",
+        "Bigger, trigger!",
+        "Moving up!",
+        "Mine,mine,mine!",
+        "Gimme gimme!",
+        "Yeah,yeah,yeah!",
+        "Ka-ching! Ha ha!"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "Here comes Trigger Happy! In the face!",
+        "He's so hot right now.",
+        "My name is Trigger Happy! No Gold, No Glory!",
+        "Here they come!",
+        "This is not me at my best.",
+        "Holy guacamole!",
+        "Giants rule!",
+        "Spee too! ...Or you know, I just wait here.",
+        "In the face!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Trigger Happy's guns bears a slight resemblance to Maverick REV-6s, a toy made by NERF.",
+    "He has the lowest base health in the game out of all the original Skylanders.",
+    "In Series 1 Trigger Happy's artwork, the coins he is shooting have Spyro's head on them. But in-game, the coins have his own face on them.",
+    "His catchphrase is a joke on the phrase 'No guts, No glory'.",
+    "Pop Fizz and Trigger Happy are, so far, the only Gremlin Skylanders.",
+    "Trigger Happy's Golden Yamato Blast can destroy cracked rocks in Molekin Mine and deals more damage than any other attack from a green base Skylander.",
+    "In the Xbox 360 version of Spyro's Adventure, obtaining his Soul Gem incorrectly states the name of the upgrade as 'Infinite Hellfire'.",
+    "Trigger Happy (under the development name of Golden Cheat) was originally going to have his gold continuously spent whenever he uses his guns.",
+    "One of Trigger Happy's upgrades, 'Happiness Is A Golden Gun', is a reference to the Beatles' song 'Happiness Is a Warm Gun'."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventure Trigger Happy Trailer",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Spyro%27s_Adventure_Trigger_Happy_Trailer"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure GamesCom 2011 Trailer - Trigger Happy",
+      "isValid": true,
+      "url": "/wiki/File:Skylanders_Spyro%27s_Adventure_GamesCom_2011_Trailer_-_Trigger_Happy"
+    },
+    {
+      "name": "Meet the Skylanders Series 2 Trigger Happy",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Series_2_Trigger_Happy"
+    },
+    {
+      "name": "Meet the Skylanders Big Bang Trigger Happy",
+      "isValid": true,
+      "url": "/wiki/File:Meet_the_Skylanders_Big_Bang_Trigger_Happy"
+    }
+  ],
+  "gameplay": "Trigger Happy can fire a barrage of gold coins at his enemies from his two guns. He can also hurl large gold objects, fire away at his opponents using a machine gun filled with coins, and release two yellow beams from his guns after charging them up. His upgrade paths allow him to focus on either his guns or his gold-throwing abilities, with the Golden Yamato Blast being a particularly devastating charged shot.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Trigger_Happy",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Golden Pistols",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/Trigger_Happyprimarypower.png",
+        "content": "Shoot rapidfire coins out of both golden guns.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Lob Golden Safe",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Trigger_Happysecondarypower.png",
+        "content": "Lob explosive golden safes at Trigger Happy's enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Golden Super Charge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Trigger_Happybasicupgrade1.png",
+        "content": "Charge up the Golden Gun, then release to fire a bullet that does damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Pot O' Gold",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Trigger_Happybasicupgrade2.png",
+        "content": "Throw a Pot of Gold, which does increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Golden Mega Charge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d3/Trigger_Happybasicupgrade3.png",
+        "content": "Charge up Trigger Happy's Golden Gun longer to do even more damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Golden Machine Gun",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Trigger_Happybasicupgrade4.png",
+        "content": "Activate a machine gun and swivel its aim with the control stick.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Infinite Ammo",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c3/Trigger_Happysoulgempower.png",
+        "content": "Golden Machine Gun has unlimited ammo.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Megablast",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Trigger_Happywowpowpower.png",
+        "content": "While using the mini-gun, press Attack 1 for a super blast.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "season": 3,
+        "name": "Rocket Ride!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/eb/Trigger_Happywowpow2power.png",
+        "content": "While holding Attack 1, press and hold Attack 2 to charge up a golden rocket, then release to ride it as a missile.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Golden Frenzy",
+        "abilities": [
+          {
+            "name": "Happiness Is A Golden Gun",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/77/Trigger_Happypath1upgrade1.png",
+            "content": "Golden Gun does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Bouncing Bullets",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Trigger_Happypath1upgrade2.png",
+            "content": "Golden Gun's bullets bounce off walls.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Golden Yamato Blast",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Trigger_Happypath1upgrade3.png",
+            "content": "Charge up the Golden Gun even longer to do maximum damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Golden Money Bags",
+        "abilities": [
+          {
+            "name": "Just Throwing Money Away",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/48/Trigger_Happypath2upgrade1.png",
+            "content": "Pot O' Gold attack has longer range.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Coinsplosion",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6d/Trigger_Happypath2upgrade2.png",
+            "content": "Pot O' Gold attack explodes in a shower of damaging coins.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Heads or Tails",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/16/Trigger_Happypath2upgrade3.png",
+            "content": "Toss a coin that does extra damage ... and if it lands on heads, it does even more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "trigger-happy",
       "variant_name": "Trigger Happy",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
+      "type": "Core",
+      "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Sky_trigger2.jpg",
-      "attacks": [],
-      "stats": null,
+      "attacks": [
+        "Golden Pistols",
+        "Lob Golden Safe",
+        "Golden Super Charge",
+        "Pot O' Gold",
+        "Golden Mega Charge",
+        "Golden Machine Gun",
+        "Infinite Ammo"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "200 (Lv. 10: 400)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (Max: 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30 (Max: 60)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50 (Max: 100)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (Max: 100)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Trigger_Happy"
+    },
+    {
+      "id": "series-2-trigger-happy",
+      "variant_name": "Trigger Happy",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Series_2_Trigger_Happy_Promo.jpg",
+      "attacks": [
+        "Golden Pistols",
+        "Lob Golden Safe",
+        "Megablast"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Trigger_Happy"
+    },
+    {
+      "id": "big-bang-trigger-happy",
+      "variant_name": "Big Bang Trigger Happy",
+      "edition": "Series 3",
+      "type": "Core",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Bigbangartwork.jpg",
+      "attacks": [
+        "Golden Pistols",
+        "Lob Golden Safe",
+        "Rocket Ride!"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Trigger_Happy"
     }
   ]
