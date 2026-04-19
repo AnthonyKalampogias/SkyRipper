@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-19T03:04:15.530Z",
+  "last_run": "2026-04-19T09:27:26.065Z",
   "processed": [
     {
       "name": "Admiral Thumpback",
@@ -1340,6 +1340,46 @@
     {
       "name": "Whirlwind",
       "sha": "939d056c8c2e5f49ff7024848e6a6706a925d47cde54aa61c229584d5c402703"
+    },
+    {
+      "name": "Whisper Elf",
+      "sha": "3713ccabaaf80bce671079c2775973817221408c07033ae4247e3d996a65438e"
+    },
+    {
+      "name": "Wild Storm",
+      "sha": "d8c83a498344c2687c14439d972a60e6cab6faf0074a18809987e0088c655cad"
+    },
+    {
+      "name": "Wildfire",
+      "sha": "fe92dd7edfd04e39eb732a7277452b02cb9f6cd9a54b336051582dbf6d67f62f"
+    },
+    {
+      "name": "Wind-Up",
+      "sha": "70ca56d170f64c8a92f4e5a2403a485a84e7370ae5b841ca7098961ae033c46e"
+    },
+    {
+      "name": "Winterfest Lob-Star",
+      "sha": "90213774c1c083aac31ea1941870137581e35514a06609db8d33fbd6c97eae44"
+    },
+    {
+      "name": "Wolfgang",
+      "sha": "7bf0dcf8979d65f60aa5ad5d70191267451c238c1b868a8d24faa92f1f2c33a7"
+    },
+    {
+      "name": "Woodenem",
+      "sha": "0ac5bead30e7366234efdaf9af954912c2eac8e1661a6927ba22d8bf856a6671"
+    },
+    {
+      "name": "Wrecking Ball",
+      "sha": "603c729f0eeb25b53deb4a6705baa07c3a50ae858ade524f3df0c13a06dc737e"
+    },
+    {
+      "name": "Zap",
+      "sha": "9b38e71c71533c3c2bd83cf451dfd3beb8bb782e91523d3c055d66b600fcb753"
+    },
+    {
+      "name": "Zoo Lou",
+      "sha": "eb2f8b57cb6c79918d906ebb25368b96d6394d125a6636ee0fbe8ecd32081b77"
     }
   ]
 }
