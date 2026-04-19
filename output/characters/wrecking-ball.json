@@ -4,6 +4,7 @@
   "species": "Grub",
   "gender": "Male",
   "element": "Magic",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Spyro's Kingdom (scrapped)",
@@ -18,22 +19,333 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Wrecking Ball was once a tiny grub worm about to become the main ingredient in an old wizard’s cauldron of magic stew. But when he was dropped in, the wizard was shocked to see the little grub devour all of the soup and emerge from the cauldron 20 times larger and with a long, sticky tongue. The poor old wizard was even more surprised seconds later, when Wrecking Ball proceeded to swallow him whole. Eventually he ran, quite literally, into the powerful Portal Master Eon , who was intrigued by how he came to be and impressed with his unique abilities.",
-  "personality": "Possibly the most reckless of all the Skylanders, Wrecking Ball rolls into danger without thought for his own personal safety. This lively larva smashes anything in his path (often) by accident, and is always hungry, even when he's just eaten! &#91; 4 &#93; In some media, he possesses dog-like qualities.",
-  "story": null,
+  "description": "Wrecking Ball is a grub worm Skylander in Skylanders: Spyro's Adventure. He is in the Magic element.",
+  "biography": "Wrecking Ball was once a tiny grub worm about to become the main ingredient in an old wizard’s cauldron of magic stew. But when he was dropped in, the wizard was shocked to see the little grub devour all of the soup and emerge from the cauldron 20 times larger and with a long, sticky tongue. The poor old wizard was even more surprised seconds later, when Wrecking Ball proceeded to swallow him whole. Eventually he ran, quite literally, into the powerful Portal Master Eon, who was intrigued by how he came to be and impressed with his unique abilities.",
+  "quote": "Wreck-N-Roll!",
+  "personality": "Possibly the most reckless of all the Skylanders, Wrecking Ball rolls into danger without thought for his own personal safety. This lively larva smashes anything in his path (often) by accident, and is always hungry, even when he's just eaten! In some media, he possesses dog-like qualities.",
+  "story": [
+    {
+      "story_name": "Character Development",
+      "content": "At the earliest development point of Spyro's Kingdom, Wrecking Ball was of the Water element. Wrecking Ball was originally called Force Field Grub, having started out as Nat Loh's creation but he couldn't finish the character. Lead Designer Toby Schadt had a very particular vision for this character that he wanted to personally develop. The one ability that Nat had originally designed that did not quite make it through was the Power Belch. In the original design, it functioned much like the Mycon Podship's semi-sentient Plasma ball attack. This was a small homing projectile that was very strong at its start and got bigger but weaker with time.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/Spyrokingdommap.png/revision/latest/scale-to-width-down/185?cb=20190918192447"
+    },
+    {
+      "story_name": "History",
+      "content": "Once upon a time, Wrecking Ball was nothing more than a common or garden grub. His adventure began when he became a speciality ingredient in a wizard's magical stew. After being chucked into the cooking concoction, a curious occurrence took place. The hungry little grub worm took a sip, and then a gulp, and ended up devouring the whole lot. When the wizard came in to check on his cauldron, instead of his tasty stew he found one enormous grub who had grown to over twenty times his original size. And as Wrecking Ball was still a little peckish, he popped the wizard in his mouth too - only to spit him straight back out again (even a grub's standard's, the wizard tasted like a warthog!). The story soon spread, raising smiles across the Skylands world. Soon the plucky grub bounced into Master Eon, who evidently felt that the Skylanders could do with a serious stomach among their ranks.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Stump Smash Crosses the Bone Dragon",
+      "content": "Wrecking Ball was assigned with Countdown and Flameslinger to accompany Stump Smash to the Giggling Forest to investigate why the trees had stopped giggling. There, they discover that several of the living trees and Kaos' trolls were turned to stone by an unknown force, which soon revealed itself to be an angry Bone Dragon... [Event continued through the Fort attack and final confrontation in the Forest]. With the help of Wrecking Ball's gassy indigestion from eating General Disaster, the Skylanders were able to escape the Troll Bastion on Flynn's balloon.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Spyro's Adventure",
+      "content": "After being banished from Skylands along with the other Skylanders, being a frozen statue was a living nightmare for Wrecking Ball. This lively, giant blue grub is never content unless he's smashing things around him (though never on purpose). His thoughts were a mix between food and how to unleash his rapidly building energy.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Wreck-N-Roll!",
+        "Bouncy!",
+        "Mmm, that hits the spot!",
+        "More power!",
+        "Success!",
+        "Alright!",
+        "Easy enough!",
+        "Rolled right over you!",
+        "I'm on a roll!",
+        "You got wrecked!",
+        "Rolling on!",
+        "Breaking through!",
+        "Ah, I could definitely do some damage in here!",
+        "Oh yeah!",
+        "Right on!",
+        "I'll take it!",
+        "Oh, treasure! I wanna eat it!",
+        "Getting better and better!",
+        "Looking pretty good!",
+        "Alright, lookin' good!",
+        "Yeah, now I look even cooler!",
+        "Sure, I can roll with that!",
+        "I dig the new name!",
+        "C'mon, I'm bouncing off the walls here!",
+        "Bowling is my favorite sport, especially when I'm the ball!"
+      ]
+    },
+    {
+      "quote_type": "Skylanders: Lost Islands",
+      "content": [
+        "I'm hungry! Got any snacks?",
+        "Delicious Skylander snacks from the famous Skylander snack vendors!",
+        "Silena's going to build me a kitchen! What should I stock the shelves with?",
+        "The Luminaries make it taste sweet. *Gobble* Oh, wait, did you want some?",
+        "A magic fruit that only grows at the tip of Dragon's Peak?"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "Not good!",
+        "Say what?"
+      ]
+    }
+  ],
+  "trivia": [
+    "His Series 1 figure is off, model and only has 8 spikes. It's missing two of the ten yellow spikes on his body. This inconsistency was corrected in his Series 2 figure.",
+    "Series 2 Wrecking Ball's artwork can be seen in the Season 1 intro of the Skylanders Academy TV series within the Book of Skylanders.",
+    "His Series 2 figure's Wow Pow gives him two long tusks sticking out from his lower lip, and a disco ball forcefield round his body while rolling.",
+    "His missing teeth is the price all good grubs pay for eagerness in battle.",
+    "He is so energetic, he never stands still and constantly bounces from one leg to the other.",
+    "Wrecking Ball reminded Master Eon of his favorite childhood pet. The old Portal Master was also the one who named Wrecking Ball after the grub worm wrecked a few of Eon's statues.",
+    "Since Jawbreakers seem to be affected by moves that don't work on large enemies, Wrecking Ball is able to eat them.",
+    "Once his Soul Gem ability has been obtained, Wrecking Ball can eat treasure in Spyro's Adventure to gain +10 health.",
+    "In Swap Force, Superchargers, and Imaginators, there is a mistake in Wrecking Ball’s Digestive Detonation upgrade image where the image for his Tongue Whap ability can be seen in the top-left corner.",
+    "He's named after a big heavy metal round object on a crane usually used to destroy old concrete buildings and rubble.",
+    "This name is also the name of a popular song by 'Miley Cyrus'."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Wrecking Ball (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Wrecking_Ball_(extended)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Wrecking Ball Trailer (Wreck 'n' Roll)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Wrecking_Ball_Trailer_(Wreck_%27n%27_Roll)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventures Extraction- Wrecking Ball (Wii)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventures_Extraction-_Wrecking_Ball"
+    },
+    {
+      "name": "Wrecking Ball Soul Gem (Spyro's Adventure) (PS3 & Xbox 360)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Wrecking_Ball_Soul_Gem_(Spyro%27s_Adventure)"
+    },
+    {
+      "name": "Skylanders Giants - Meet the Skylanders - Series 2 Wrecking Ball (Wreck 'n' Roll)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Series_2_Wrecking_Ball_(Wreck_%27n%27_Roll)"
+    },
+    {
+      "name": "Wrecking Ball Soul Gem (Giants)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Wrecking_Ball_Soul_Gem_(Giants)"
+    }
+  ],
+  "gameplay": "Having consumed an entire cauldron of magic stew, its effects not only made Wrecking Ball grow 20 times his normal size and enhanced him with magical energy, but also gave him a long, sticky tongue which he uses to lash at his enemies. He can also curl into a ball and steamroll into his enemies using the magical energy he uses as a protective forcefield. This is a charged attack in home console games, but he can freely switch into the ball in the Nintendo 3DS games without charging it. Wrecking Ball can also let loose out a burp of gas from his mouth to blow enemies away, and can also devour his enemies to regain health if he has gained his Soul Gem ability.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Wrecking_Ball",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Tongue Whap",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/aa/Wrecking_Ballprimarypower.png/revision/latest?cb=20120421002059",
+        "content": "Wrecking Ball slaps enemies with his super-tongue. Damage = 8. Crit = 12.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Forcefield Ball",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/22/Wrecking_Ballsecondarypower.png/revision/latest?cb=20120421002112",
+        "content": "Summon magic for a spin forcefield charge.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Magic Ball Control",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fa/Wrecking_Ballbasicupgrade1.png/revision/latest?cb=20120421002203",
+        "content": "Forcefield Ball can be controlled and it does increased damage. Damage = 44. Crit = 66.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Power Belch",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/71/Wrecking_Ballbasicupgrade2.png/revision/latest?cb=20120421002248",
+        "content": "Releases a burp attack that has increased range after eating something. Damage = 30-60. Crit = 45-90.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Tongue Evolution",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Wrecking_Ballbasicupgrade3.png/revision/latest?cb=20120421002259",
+        "content": "Your Tongue Whap grows longer and does increased damage. Damage = 11. Crit = 16.5.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Digestive Detonation",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/34/Wrecking_Ballbasicupgrade4.png/revision/latest?cb=20120421002311",
+        "content": "Charge up your Burp attack. Damage = 40. Crit = 60.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Enemy Slurp",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e7/Wrecking_Ballsoulgempower.png/revision/latest?cb=20120421002133",
+        "content": "Wrecking Ball can swallow smaller enemies and regains 10 health when he does so.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Disco Ball",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Wrecking_Ballwowpowpower.png/revision/latest?cb=20130428011345",
+        "content": "Press Attack 2 to turn Wrecking Ball's Force Field into a magical disco ball.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Total Tongue",
+        "abilities": [
+          {
+            "name": "Lightning Tongue",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5b/Wrecking_Ballpath1upgrade1.png/revision/latest?cb=20120421002330",
+            "content": "Your Tongue Whap can attack quicker than ever.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Tongue Grabber",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Wrecking_Ballpath1upgrade2.png/revision/latest?cb=20120421002346",
+            "content": "Tongue Whap does extra damage and can pick up food and power-ups. Damage = 15. Crit = 22.5.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Tongue Supermax",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/80/Wrecking_Ballpath1upgrade3.png/revision/latest?cb=20120421002400",
+            "content": "Your Tongue grows even longer.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Ultimate Spinner",
+        "abilities": [
+          {
+            "name": "Forcefield Blast",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d9/Wrecking_Ballpath2upgrade1.png/revision/latest?cb=20120421002412",
+            "content": "While in your Forcefield Ball, create a Forcefield explosion. Damage = 20. Crit = 30.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "Swath of Terror",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/96/Wrecking_Ballpath2upgrade2.png/revision/latest?cb=20120421002426",
+            "content": "The Forcefield Ball is larger and does even more increased damage. Damage = 61. Crit = 91.5.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          },
+          {
+            "name": "It's Gotta Go Somewhere",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/85/Wrecking_Ballpath2upgrade3.png/revision/latest?cb=20120421002443",
+            "content": "While in your Forcefield Ball, create a more powerful burp attack. Damage = 60. Crit = 90.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#A7B",
+              "bg_content": "#EBF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "wrecking-ball",
+      "id": "wrecking-ball-s1",
       "variant_name": "Wrecking Ball",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/5/55/Wrecking_Ball.jpg",
       "attacks": [
@@ -43,7 +355,98 @@
         "Digestive Detonation",
         "Tongue Grabber"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20 (max. 70)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "35"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "60"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Wrecking_Ball"
+    },
+    {
+      "id": "wrecking-ball-s2",
+      "variant_name": "Wrecking Ball",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Series_2_Wrecking_Ball_Promo.jpg",
+      "attacks": [
+        "Tongue Whip",
+        "Forcefield Ball",
+        "Power Belch",
+        "Digestive Detonation",
+        "Tongue Grabber"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20 (max. 70)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "95"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "65"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "70"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Wrecking_Ball"
     }
   ]
