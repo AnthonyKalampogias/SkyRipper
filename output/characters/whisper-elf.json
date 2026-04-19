@@ -4,6 +4,7 @@
   "species": "Elf",
   "gender": "Female",
   "element": "Life",
+  "role": "Sidekick / Mini",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
@@ -16,22 +17,138 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [
+    "Super Shot Stealth Elf's Soul Gem ability, Health Elf"
+  ],
   "world": [
     "Skylands Miniverse"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Within the Skylands , a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse . Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-  "personality": "Whisper Elf is a ninja who knows her way around an enchanted forest or two. Like her mentor Stealth Elf, she will always tell you how she's feeling. That can be really awkward sometimes. &#91; 1 &#93;",
-  "story": null,
+  "description": "Whisper Elf is a Life element Mini and Sidekick Skylander. She is the miniature version of Stealth Elf and shares her legendary ninja skills and stealthy combat style.",
+  "biography": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "quote": "Silent but Deadly!",
+  "personality": "Whisper Elf is a ninja who knows her way around an enchanted forest or two. Like her mentor Stealth Elf, she will always tell you how she's feeling. That can be really awkward sometimes.",
+  "story": [
+    {
+      "story_name": "The Miniverse Origin",
+      "content": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Rise of the Minis",
+      "content": "The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Silent but Deadly!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Whisper Elf reappears not only as a playable character in SuperChargers, but also in Super Shot Stealth Elf's Soul Gem ability, Health Elf."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Whisper Elf",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Whisper_Elf"
+    }
+  ],
+  "gameplay": "Whisper Elf plays identically to Stealth Elf, utilizing high agility and rapid dagger strikes to overwhelm enemies. Her stealth ability allows her to safely navigate dangerous situations by leaving behind a decoy, while her acrobatic skills make her one of the quickest characters on the battlefield.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Whisper_Elf",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Blade Slash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Whisper_Elf_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140813155119",
+        "content": "Slash at enemies with quick dagger strikes.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Stealth",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Whisper_Elf_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140813155119",
+        "content": "Disappear and leave a decoy behind to distract enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Dragonfang Daggers",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Whisper_Elf_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140813155119",
+        "content": "Upgrade to powerful Dragonfang Daggers for increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Arboreal Acrobatics",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Whisper_Elf_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140813155119",
+        "content": "Perform advanced acrobatic maneuvers in combat.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Elf Jitsu",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Whisper_Elf_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140813155119",
+        "content": "Master the art of Elf Jitsu for superior combat efficiency.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Health Elf",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Whisper_Elf_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140813155119",
+        "content": "Regenerate health over time, making Whisper Elf even harder to defeat.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "whisper-elf",
+      "id": "whisper-elf-mini",
       "variant_name": "Whisper Elf",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Mini / Sidekick",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Whisper_Elf_Promo.jpg/revision/latest?cb=20140813155119",
       "attacks": [
@@ -41,7 +158,44 @@
         "Arboreal Acrobatics",
         "Elf Jitsu"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 (max. 118)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50 (max. 100)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "120"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Whisper_Elf"
     }
   ]
