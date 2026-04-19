@@ -4,6 +4,7 @@
   "species": "Lobster",
   "gender": "Male",
   "element": "Water",
+  "role": "Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -11,32 +12,160 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Star City"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Winter is here and the Skylanders are gearing up for the Great Annual Winterfest! Every year, the citizens of Skylands come together to celebrate the holiday season by participating in the most popular seasonal events including Sheep Skating, Bobbing for Chompies , and Angry Yeti Tipping. This year, Lob-Star plans on leveraging his legendary culinary skills to take home the coveted first place trophy in the Costume Baking Competition – with his licorice flavored suit and candy-coated frosted beard!",
-  "personality": null,
-  "story": null,
+  "description": "Winterfest Lob-Star is the holiday-themed variant of the Trap Master Lob-Star, released for the 2014 holiday season.",
+  "biography": "Winter is here and the Skylanders are gearing up for the Great Annual Winterfest! Every year, the citizens of Skylands come together to celebrate the holiday season by participating in the most popular seasonal events including Sheep Skating, Bobbing for Chompies, and Angry Yeti Tipping. This year, Lob-Star plans on leveraging his legendary culinary skills to take home the coveted first place trophy in the Costume Baking Competition – with his licorice flavored suit and candy-coated frosted beard!",
+  "quote": "Star Bright, Star Fight!",
+  "personality": "Winterfest Lob-Star is as disciplined and focused as any master chef, bringing a culinary precision to his combat style. He is festive yet fierce, always ready to defend Skylands during the holidays with the same passion he uses in the kitchen.",
+  "story": [
+    {
+      "story_name": "The Great Annual Winterfest",
+      "content": "Lob-Star decided to enter the Costume Baking Competition during the Winterfest, sporting a suit made of licorice and a beard of candy-coated frosting.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "Star Bright, Star Fight!"
+      ]
+    },
+    {
+      "quote_type": "Battle",
+      "content": [
+        "Coming through!",
+        "Freshly caught!",
+        "A recipe for disaster!"
+      ]
+    }
+  ],
+  "trivia": [
+    "He, Merry Snap Shot, Holiday Wash Buckler, Jolly Bumble Blast, Missile-Tow Dive-Clops and Jingle Bell Chompy Mage are the only Christmas Skylanders.",
+    "Coincidentally, He and Merry Snap Shot are Christmas counterparts of Water Trap Masters.",
+    "Unlike his original counterpart, he turns gold whenever he uses Boiling Temper in Trap Team.",
+    "He is the first variant to get a Power Play video segment."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Power Play Winterfest Lob-Star",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=0k1L4Z2"
+    }
+  ],
+  "gameplay": "As a Trap Master, Winterfest Lob-Star uses his Traptanium Throwing Stars to deal massive damage to enemies and can open Water Elemental Gates. His secondary attack, Boiling Temper, allows him to heat up the water around him to create a steam-based area of effect attack.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Winterfest_Lob-Star",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Starshooter",
+        "imgPath": "starshooter.png",
+        "content": "Throws Traptanium throwing stars at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#0072BB",
+          "bg_content": "#E1F5FE"
+        }
+      },
+      {
+        "name": "Boiling Temper",
+        "imgPath": "boiling_temper.png",
+        "content": "Lob-Star heats up the water around him to damage nearby enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#0072BB",
+          "bg_content": "#E1F5FE"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Lob-Star Roll",
+        "imgPath": "lob_star_roll.png",
+        "content": "Perform a dash attack through enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#0072BB",
+          "bg_content": "#E1F5FE"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Pressure Cooker",
+        "imgPath": "pressure_cooker.png",
+        "content": "Charging Starshooter increases the speed and damage of the stars.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#0072BB",
+          "bg_content": "#E1F5FE"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Star Studded",
+        "abilities": [
+          {
+            "name": "Super Stars",
+            "imgPath": "super_stars.png",
+            "content": "Throw more stars at once.",
+            "is_primary": true,
+            "is_secondary": false,
+            "price": 1200,
+            "colors": {
+              "header": "#0072BB",
+              "bg_content": "#E1F5FE"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "winterfest-lob-star",
       "variant_name": "Winterfest Lob-Star",
-      "edition": "Series 1",
-      "type": "SuperCharger",
+      "edition": "Special Edition",
+      "type": "Holiday",
       "game": "Skylanders: Trap Team",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/7/78/Winterfest_Lob-Star_promo.jpg/revision/latest?cb=20141202044314",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/78/Winterfest_Lob-Star_promo.jpg",
       "attacks": [
         "Starshooter",
         "Boiling Temper",
-        "Lob-Star Roll",
-        "Super Stars",
-        "Boiling Temper"
+        "Lob-Star Roll"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "110"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "240"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "180"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Winterfest_Lob-Star"
     }
   ]
