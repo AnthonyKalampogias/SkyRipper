@@ -1,29 +1,317 @@
 {
   "id": "wind-up",
   "name": "Wind-Up",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": "Built in the enchanted workshop of a toymaker obsessed with time, Wind-Up was created to help keep his massive collection of complicated clocks working perfectly. But when the toymaker popped out of existence in a freak accident caused by putting hot cocoa in a cross-wired Arkeyan oven, Wind-Up found himself surrounded by an invading Cyclops platoon - with an eye towards claiming the toymaker's secrets for themselves. Using split-second timing, clockwork strategy, and his totally wound up energy, Wind-Up bravely sprang into action and handily defeated the Cyclops. He later joined the Skylanders to help swing the pendulum the other way in their fight against anything that threatens Skylands .",
-  "personality": "Wind-Up is always on time. Bursting with coiled-up energy, he's also always ready to spring into action. &#91; 3 &#93;",
-  "story": null,
+  "species": "Wind-Up Robot",
+  "gender": "Male",
+  "element": "Tech",
+  "role": "Core Skylander",
+  "primary_game": "Skylanders: Swap Force",
+  "appearances": [
+    "Skylanders: Swap Force",
+    "Skylanders: Lost Islands",
+    "Skylanders: Trap Team",
+    "Skylanders: SuperChargers",
+    "Skylanders: Imaginators"
+  ],
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Wind-Up is a wind-up robot who is one of the Tech core Skylanders in Skylanders: Swap Force. He is available in the Sheep Wreck Island Adventure pack. A single pack was offered at Gamestop in the US with pre-orders for Skylanders: Trap Team.",
+  "biography": "Built in the enchanted workshop of a toymaker obsessed with time, Wind-Up was created to help keep his massive collection of complicated clocks working perfectly. But when the toymaker popped out of existence in a freak accident caused by putting hot cocoa in a cross-wired Arkeyan oven, Wind-Up found himself surrounded by an invading Cyclops platoon - with an eye towards claiming the toymaker's secrets for themselves. Using split-second timing, clockwork strategy, and his totally wound up energy, Wind-Up bravely sprang into action and handily defeated the Cyclops. He later joined the Skylanders to help swing the pendulum the other way in their fight against anything that threatens Skylands.",
+  "quote": "All Wound Up!",
+  "personality": "Wind-Up is always on time. Bursting with coiled-up energy, he's also always ready to spring into action.",
+  "story": [
+    {
+      "story_name": "Development",
+      "content": "Early concept art depicts Wind-Up as a gumball-vending machine who could summon an army of small toy minions. His blue parts were originally colored green.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Physical Traits",
+      "content": "Wind-Up is a blue and gold metal wind-up robot, of short stature. Each of his arms are blue in color with a gold ring on the end, a gold wind up key on top, and his hands consist of silver claws; he also has two metal legs with blue-ankled feet and gold shoe-like toes. His head is blue with a gold bottom jaw, mechanical segmented eyes, and a large key on top. A wind up coil keeps Wind-Up's body connected as a torso.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "All Wound Up!",
+        "Fun!",
+        "Yeah!",
+        "Built to last!",
+        "Spin it to win it!",
+        "That grinds my gears!",
+        "Springing to action!",
+        "Crank it up!",
+        "Firing at all cylinders!",
+        "No more toying around!",
+        "Ooh-ho-ho! Shiny things!",
+        "A place to unwind!",
+        "Winding through!",
+        "Spring ahead!",
+        "Ooh spare parts!",
+        "High gear!",
+        "Ho-ho! Tune-up!",
+        "No more toying around!",
+        "Hmm, better than a new coat of paint!",
+        "However you want to spin it!",
+        "Springy!",
+        "Whee!",
+        "Fun!",
+        "Ooh, lots of moving parts!",
+        "Playing by the numbers!",
+        "New assembly required!",
+        "Nice accessory!",
+        "Success for me, just like clockwork!",
+        "Crank it up!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Wind-Up's voice actor, Bob Bergen, is best known for recreating the voice of Porky Pig from the Looney Tunes Show.",
+    "Whenever Wind-Up wears a hat, it constantly spins around. This might possibly be because of the wind-up key on his head.",
+    "He, Bouncer, Magna Charge, Drill Sergeant, Jawbreaker, Gearshift, and Ro-Bow are the only seven Tech Skylanders to be fully robotic.",
+    "However, he is the first one with an organic voice instead of a mechanical type.",
+    "He, Jawbreaker, Gearshift and Ro-Bow each have two legs instead of wheels for feet.",
+    "His Soul Gem Spring-Loaded Crank adds +15 to speed in Swap Force.",
+    "Whichever upgrade path Wind-Up chooses, his original turn key changes into a gyroscope with two gears in it.",
+    "He is the only Skylander to be a toy both in game and figure.",
+    "Wind-Up's official catchphrase sounds similar to Spyro's ('All Fired Up!'). This also applies to Gearshift ('All Geared Up!').",
+    "Wind-Up was one of the many Skylanders planned to appear in Skylanders: Ring of Heroes. Before the game's closure, only concept art of his Awakened Form was released.",
+    "In Swap Force, Wind-Up will automatically turn to keep facing nearby enemies."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Wind-Up",
+      "isValid": false,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Wind-Up"
+    },
+    {
+      "name": "Skylanders Swap Force - Wind-Up Soul Gem Preview (All Wound Up)",
+      "isValid": false,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Wind-Up_Soul_Gem_Preview_(All_Wound_Up)"
+    }
+  ],
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Wind-Up",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Short Circuit",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/68/Wind-Upprimarypower.png/revision/latest/scale-to-width-down/148?cb=20140822104626",
+        "content": "Press Attack 1 to attack nearby enemies with sparking claws.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Wind Up!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c2/Wind-Upsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20140822223123",
+        "content": "Press Attack 2 to wind up and damage nearby enemies. Winding up is needed to perform more powerful attacks.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Overcrank Stabilizer",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Wind-Upbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506064745",
+        "content": "Press Attack 2 to rapidly fill the wind up meter. When full, press Attack 2 again to overcrank. During overcrank press Attack 1 to cause a large explosion that damages nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Winding Weapon",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7d/Wind-Upbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506064512",
+        "content": "Press Attack 2 to wind up, dealing increased damage and pulling enemies in.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Spring Shot",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a6/Wind-Upbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506064521",
+        "content": "Press Attack 3 to shoot a spring shot that launches enemies into the air. Attacking launched enemies will deal automatic critical damage!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Power Pistons",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Wind-Upbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506064802",
+        "content": "Press Attack 1 to deal increased punching damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Spring-Loaded Crank",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7e/Wind-Upsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506064528",
+        "content": "Speed is increased. Automatically wind up while running.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Toy Box",
+        "abilities": [
+          {
+            "name": "Cymbals",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Wind-Uppath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506065228",
+            "content": "Hold Attack 1 to charge a cymbal attack, release to attack all enemies in the way with a pair of cymbals.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Crash Cymbals",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/af/Wind-Uppath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506065235",
+            "content": "Cymbal attacks do increased damage. An easy way to crash any party!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Toy Gun",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/Wind-Uppath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506065238",
+            "content": "Hold Attack 3 to shoot rapid fire suction cup projectiles at enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Winder",
+        "abilities": [
+          {
+            "name": "Windup Punch",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/73/Wind-Uppath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506065245",
+            "content": "Hold Attack 1 to charge a boxing glove punch, release to deliver a massive punch to enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Auto Wind Up",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/ff/Wind-Uppath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506065252",
+            "content": "Taking damage automatically adds to winding up.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Power Crank",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5d/Wind-Uppath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506065258",
+            "content": "Press Attack 2 rapidly to begin overcranking which now pulls enemies in and deals bonus damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "wind-up",
       "variant_name": "Wind-Up",
       "edition": "Series 1",
-      "type": "SuperCharger",
-      "game": null,
-      "image": "https://static.wikia.nocookie.net/skylanders/images/8/86/Windup.jpg",
-      "attacks": [],
-      "stats": null,
+      "type": "Core",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/86/Windup.jpg/revision/latest?cb=20131231034228",
+      "attacks": [
+        "Short Circuit",
+        "Wind Up!",
+        "Overcrank Stabilizer",
+        "Cymbals",
+        "Windup Punch"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "250 (max. 500)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "4 (max. 54)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Wind-Up"
     }
   ]
