@@ -4,28 +4,45 @@
   "species": "Tree Monster",
   "gender": "Male",
   "element": "Life",
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
+  "role": "Scrapped Skylander",
+  "primary_game": "Skylanders: Spyro's Adventure",
+  "appearances": [
+    "Skylanders: Spyro's Adventure (Concept Art)"
+  ],
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": null,
-  "story": null,
+  "description": "Woodenem is a scrapped Skylander during the development of Skylanders: Spyro's Adventure. Only a piece of his concept design was released.",
+  "biography": "Woodenem was an early character concept for the first Skylanders game. He was ultimately cut before production, though visual elements of his design likely inspired the creation of the character Stump Smash and the design of the Stump Demon enemies.",
+  "quote": "Unknown",
+  "personality": "As a scrapped character, Woodenem has no official personality profile or backstory.",
+  "story": [],
+  "quotes": [],
+  "trivia": [
+    "He bears a resemblance to the Skylander Stump Smash and the enemy Stump Demon.",
+    "Some of Arbo's rejected designs look similar to Woodenem."
+  ],
+  "trailers": [],
+  "gameplay": "As he was scrapped during development, Woodenem has no playable gameplay mechanics or moveset.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Woodenem",
+  "abilities": {
+    "basic": [],
+    "basic_upgrades": [],
+    "soulgems": [],
+    "wow_pows": [],
+    "upgrade_paths": []
+  },
   "variants": [
     {
-      "id": "woodenem",
+      "id": "woodenem_concept",
       "variant_name": "Woodenem",
-      "edition": "Series 1",
+      "edition": "Series 1 (Scrapped)",
       "type": "Core",
-      "game": null,
+      "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Woodenem_awe.png/revision/latest?cb=20121016113846",
       "attacks": [],
-      "stats": null,
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Woodenem"
     }
   ]
