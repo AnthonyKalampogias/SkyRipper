@@ -1,29 +1,345 @@
 {
   "id": "wolfgang",
   "name": "Wolfgang",
-  "species": null,
-  "gender": null,
-  "element": null,
-  "primary_game": null,
-  "appearances": [],
-  "cameos": null,
-  "world": [],
-  "quote": null,
-  "description": null,
-  "biography": null,
-  "personality": "Wolfgang takes joy in terrorizing civilians with his ferocity and evil music. When irritated, he won't hesitate in challenging the authority of those stronger than him. He has a short fuse, but seems to care for his fellow Doom Raiders, referring to them at one point as his \"pack\" when a few of them were captured by the Skylanders . Despite his aggressive behavior, he is said to be optimistic of being rewarded for his music even when people don't appreciate the cacophony and flee in terror. &#91; 3 &#93; He is a werewolf that can make even other werewolves run in fear. &#91; 4 &#93; His wish to be recognized as a musician was the tipping point for him to turn over a new leaf. After his rehabilitation, Wolfgang is still somewhat agitated and aggressive in battle, but now towards those on the side of evil.",
-  "story": null,
+  "species": "Werewolf",
+  "gender": "Male",
+  "element": "Undead",
+  "role": "Sensei",
+  "primary_game": "Skylanders: Trap Team",
+  "appearances": [
+    "The Kaos Trap",
+    "Skylanders: Trap Team (Console)",
+    "Skylanders: Lost Islands",
+    "Skylanders Issue 12",
+    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: Battlecast",
+    "Skylanders: Imaginators",
+    "Skylanders: Ring of Heroes"
+  ],
+  "cameos": [],
+  "world": [
+    "Skylands"
+  ],
+  "description": "Wolfgang is a werewolf guitarist who is one of the Undead playable villains in Skylanders: Trap Team. He is a former member of a group of notorious villains called the Doom Raiders.",
+  "biography": "Wolfgang wasn't always a werewolf. He was once a handsome, brilliant musician set to marry a beautiful princess. Before the wedding, he planned to unveil his ultimate symphony to the greatest music aficionados in Skylands, convinced they would love it and instantly hail him as the best composer of all time. But they didn't. They hated it – and even worse, it actually physically hurt when heard. Turns out Wolfgang had unintentionally discovered the musical note for pain. Being shunned like this drove Wolfgang utterly and completely mad, physically transforming him into the werewolf he is today. With the princess no longer wanting to marry him, he turned to a life of crime, terrorizing the royal subjects and using his evil music as a weapon.",
+  "quote": "Let There Be Rock!",
+  "personality": "Wolfgang takes joy in terrorizing civilians with his ferocity and evil music. When irritated, he won't hesitate in challenging the authority of those stronger than him. He has a short fuse, but seems to care for his fellow Doom Raiders, referring to them at one point as his 'pack' when a few of them were captured by the Skylanders. Despite his aggressive behavior, he is said to be optimistic of being rewarded for his music even when people don't appreciate the cacophony and flee in terror. He is a werewolf that can make even other werewolves run in fear. His wish to be recognized as a musician was the tipping point for him to turn over a new leaf. After his rehabilitation, Wolfgang is still somewhat agitated and aggressive in battle, but now towards those on the side of evil.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Wolfgang wasn't always a werewolf. He was once a handsome, brilliant musician set to marry a beautiful princess. Before the wedding, he planned to unveil his ultimate symphony to the greatest music aficionados in Skylands, convinced they would love it and instantly hail him as the best composer of all time. But they didn't. They hated it – and even worse, it actually physically hurt when heard. Turns out Wolfgang had unintentionally discovered the musical note for pain. Being shunned like this drove Wolfgang utterly and completely mad, physically transforming him into the werewolf he is today.",
+      "hasImage": false,
+      "imgPath": "null"
+    },
+    {
+      "story_name": "The Kaos Trap",
+      "content": "Wolfgang had been on the run and managed to evade the Trap Masters across Skylands. He is the leader of the group of Trolls that were sent by Kaos to threaten the Mabu mining expedition and steal their Radiance Crystals. When the Skylanders, Wash Buckler, Pop Fizz, and Stealth Elf were battling the trolls to protect the Mabu and the Radiance, Wolfgang arrived on the battleground to deal with the 'party crashers' personally.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b3/Wolfgang_Comic.png/revision/latest?cb=20140724033948"
+    },
+    {
+      "story_name": "Skylanders: Trap Team",
+      "content": "Wolfgang and his fellow Doom Raiders were freed from Cloudcracker Prison by the evil Portal Master, Kaos, who sought to ally himself with the villains in completing his latest plan to rule Skylands. Eventually, the Doom Raiders overthrew Kaos and obtained his troll butler, Glumshanks. Using Kaos's powers, Wolfgang traveled 10,000 years into the future where he successfully conquered Skylands and became its emperor. After a musical battle, Wolfgang was defeated and captured, restoring the timeline in the future.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Wolfgang_GoldenQueen.jpg/revision/latest?cb=20150122031617"
+    },
+    {
+      "story_name": "Skylanders: Imaginators",
+      "content": "During their rehabilitation, Master Eon gave some of the villains a choice – either go back to a newly reformed Cloudcracker Prison or become Skylander Senseis. They accepted the deal but first had to prove themselves by re-arranging all the books in the Academy's library, a task which took almost two years. Wolfgang realized he could earn more respect as a Sensei training the Bowslinger Class than he ever could as a musician.",
+      "hasImage": false,
+      "imgPath": "null"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Story Quotes",
+      "content": [
+        "Enough with the games, little man. What do you want from us?",
+        "Fat lot of good your 'protection' did The Gulper. And you know what else? *sniffs* I don't like your smell.",
+        "Yeah, about that...this all sounded well and good when we were locked up, but we've already lost two of our pack! And I don't feel like being number 3! Maybe it's time for a little change in management!",
+        "Please, Majesty! Let me go after the Skylanders, before they make a mess of everything!",
+        "Well, well, well. Look who's managed to attend my big concert, some 10,000 years into the future! Ya know, Skylander, we don't have to fight. Together, we could RULE this place.",
+        "Get ready to cry WOLF!!",
+        "Orchestrate the hate!"
+      ]
+    },
+    {
+      "quote_type": "Trap Quotes",
+      "content": [
+        "Stick around for the encooOOOORRREE!",
+        "What?! What happened?! Oh well. The show must go on.",
+        "Let there be rock! ARROOOOOO!!",
+        "A symphony of pain!",
+        "Ready to rock?",
+        "Time for a solo!"
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Let there be rock!",
+        "Taking the stage!",
+        "Head banger!",
+        "Show's over!"
+      ]
+    },
+    {
+      "quote_type": "Imaginators Skylander Quotes",
+      "content": [
+        "Let there be rock! *howls*",
+        "Ready to rock, Portal Master? Good! Now let's turn the volume up on your Imaginators!",
+        "Topping the charts once again!",
+        "Aroooo!"
+      ]
+    }
+  ],
+  "trivia": [
+    "His creation, the Big Bad Woofer, is a reference to the Big Bad Wolf from fabled stories like Little Red Riding Hood.",
+    "Despite being a rock star, Wolfgang's name is based off of Wolfgang Amadeus Mozart.",
+    "Wolfgang speaks with a British accent along with Bomb Shell, Brawl & Chain and Nightshade.",
+    "Wolfgang's black eye makeup is very much like Kaos'.",
+    "Wolfgang is one of the few playable characters to use a musical instrument as a weapon.",
+    "In Skylanders: Imaginators, Wolfgang has a twin brother named Sal, who holds animosity towards him.",
+    "His catchphrase 'Let There Be Rock!' is a reference to the AC/DC song of the same name."
+  ],
+  "trailers": [
+    {
+      "name": "Official Skylanders Trap Team 'Meet the Villains Wolfgang' Trailer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Trap_Team_%22Meet_the_Villains_Wolfgang%22_Trailer"
+    },
+    {
+      "name": "Official Skylanders Imaginators Meet Wolfgang",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Imaginators_Meet_Wolfgang"
+    }
+  ],
+  "gameplay": "Playing his bone harp, Wolfgang is able to release evil music as a means of bringing harm. He also uses the sharp blade on the harp as a melee weapon, and can slide into enemies. In Imaginators, Wolfgang's harp has been slightly modified, replacing the melee attack with bone arrows that play notes while they are shot. He can also summon speakers that play deadly music in a straight line, and use his knee slide attack much faster.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Wolfgang",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Strike a Chord",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Wolfgangprimarypower.png/revision/latest?cb=20170323223206",
+        "content": "Press Attack 1 to shoot musical arrows at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Knee Slide",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/Wolfgangsecondarypower.png/revision/latest?cb=20170323223235",
+        "content": "Press Attack 2 to knock your enemies back with a Knee Slide!",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Song of the Underworld",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8a/Wolfgangbasicupgrade1.png/revision/latest?cb=20170323223310",
+        "content": "Press Attack 3 to summon speakers so loud they'll blast your enemies away!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Ultrasonic Supercharge",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Wolfgangbasicupgrade2.png/revision/latest?cb=20170323223352",
+        "content": "Hold Attack 1 to shoot a supercharged ultrasonic arrow.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Now in Stereo",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2e/Wolfgangbasicupgrade3.png/revision/latest?cb=20170323223422",
+        "content": "Songs of the Underworld can now make one more set of speakers and lasts longer.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Power Chord",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/87/Wolfgangbasicupgrade4.png/revision/latest?cb=20170323223447",
+        "content": "Blast enemies around you with your notes at the end of a Knee Slide.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Rock Concert",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Wolfgangsoulgempower.png/revision/latest?cb=20170323223542",
+        "content": "Press Attack 3 during a jump to please a crowd of enemies with stunning music.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 6,
+        "name": "Crowd Surfer",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Wolfgangskychipower.png/revision/latest?cb=20170323223618",
+        "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power! Use Left Stick to crowd surf through your foes!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Soundmeister",
+        "abilities": [
+          {
+            "name": "Lay Some Tracks",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/63/Wolfgangpath1upgrade1.png/revision/latest?cb=20170323234511",
+            "content": "Knee Slide now leaves reels of recording tape behind that will damage and slow enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Song Stuck in my Head",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/Wolfgangpath1upgrade2.png/revision/latest?cb=20170323234648",
+            "content": "Arrows make enemies take damage over time.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Amp it Up",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c6/Wolfgangpath1upgrade3.png/revision/latest?cb=20170323234723",
+            "content": "Speakers shoot arrows when you do.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Crowd Pleaser",
+        "abilities": [
+          {
+            "name": "Surround Sound",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/Wolfgangpath2upgrade1.png/revision/latest?cb=20170323234146",
+            "content": "Create a musical barrier as the end of a Knee Slide that keeps enemies away.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Encore",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/Wolfgangpath2upgrade2.png/revision/latest?cb=20170323234244",
+            "content": "Strike a Chord shoots multiple arrows while inside a musical barrier.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Grand Finale",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/56/Wolfgangpath2upgrade3.png/revision/latest?cb=20170323234328",
+            "content": "Blow up your speakers by exiting the musical barrier with a Knee Slide.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "wolfgang",
+      "id": "wolfgang-s1",
       "variant_name": "Wolfgang",
       "edition": "Series 1",
       "type": "Sensei",
-      "game": null,
-      "image": "https://static.wikia.nocookie.net/skylanders/images/1/13/Wolfgang_Promo.jpg",
-      "attacks": [],
-      "stats": null,
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/13/Wolfgang_Promo.jpg/revision/latest?cb=20140610214033",
+      "attacks": [
+        "Strike a Chord",
+        "Knee Slide",
+        "Song of the Underworld",
+        "Now in Stereo",
+        "Power Chord"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "210"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "180"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "310"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "80"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Wolfgang"
     }
   ]
