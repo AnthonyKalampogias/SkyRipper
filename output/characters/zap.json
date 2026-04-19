@@ -4,46 +4,196 @@
   "species": "Water Dragon",
   "gender": "Male",
   "element": "Water",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Skylanders: Spyro's Adventure",
-    "Skylanders: Universe",
-    "Skylanders: Cloud Patrol",
     "Skylanders: Giants",
-    "Gill Grunt and the Curse of the Fish Master",
     "Skylanders: Swap Force",
     "Skylanders: Trap Team",
-    "Trigger Happy Targets the Evil Kaos",
-    "Rift into Overdrive",
-    "Skylanders: SuperChargers (Racing)",
-    "Skylanders: Imaginators}}"
+    "Skylanders: SuperChargers",
+    "Skylanders: Imaginators",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Zap was born into the royal family of water dragons, but a riptide washed him to a distant sea, where he was raised by electric eels. Growing up, he excelled in everything and even created a special gold harness that allows him to carry an endless electrical charge and shock things at a great distance. Zap also proved to be a gifted racer, outstripping any opponent... with the possible exception of the dolphins. With them, it became a good natured challenge to see who could keep up with Zap. But an electric current in his wake often reminded them who they were dealing with. Despite his mischievous streak, Zap grew to be a true protector of the seas and Skylands.",
-  "personality": "Zap is a friendly and mischevious water dragon, being revered by most of the sea creatures of Skylands who see him as a true dedicated guardian of both the seas and Skylands. He enjoys racing, being able to outstrip almost any opponent, and excels at everything he turns his claws to. Naturally curious and super-competitive, Zap is also a bit of a prankster, loving to shock his fellow Skylanders whenever he gets a chance. &#91; 3 &#93; However, he can be too curious for his own good and has a nose (or snout) for trouble, which can lead him and his fellow Skylanders into dangerous situations. &#91; 4 &#93;",
-  "story": null,
+  "description": "Zap is a water dragon Core Skylander who first appeared in Skylanders: Spyro's Adventure. He is a fast-paced fighter who combines water and electricity.",
+  "biography": "Zap was born into the royal family of water dragons, but a riptide washed him to a distant sea, where he was raised by electric eels. Growing up, he excelled in everything and even created a special gold harness that allows him to carry an endless electrical charge and shock things at a great distance.",
+  "quote": "Ride the Lightning!",
+  "personality": "Zap is a friendly and mischievous water dragon. He is a prankster who loves to shock his fellow Skylanders whenever he gets the chance. Naturally curious and competitive, he is a dedicated guardian of the seas.",
+  "story": [
+    {
+      "story_name": "Early Life",
+      "content": "Born into a royal family of water dragons, Zap was a show-off swimmer and mischief maker. One afternoon, a riptide sucked him out into the open ocean. He was found by electric eels who raised him as one of their own.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Joining the Skylanders",
+      "content": "Zap built himself an electric harness to fit in with his eel family. His exploits as a champion swimmer eventually reached Master Eon, who recruited him to the Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Ride the Lightning!",
+        "It's surfin' time!",
+        "Time to sizzle!",
+        "You got zapped!",
+        "High voltage!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Zap is one of the dragon Skylanders who cannot fly in-game.",
+    "His voice sounds gurgly, as if he has water in his mouth.",
+    "The Series 2 Wow Pow 'For Riley' was named in memory of a young fan.",
+    "Despite being a water dragon, he lacks claws and resembles an amphibian."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventure - Zap Trailer",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=R9j0D_uT7X0"
+    },
+    {
+      "name": "Meet the Skylanders - Series 2 Zap",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=0hL76D_8L4E"
+    }
+  ],
+  "gameplay": "Zap focuses on speed and area denial. He can slide on Sea Slime to move quickly and leave a trail that slows enemies. His Lightning Breath can be upgraded to bounce off walls, and his Wave Rider ability allows him to wash away groups of enemies.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Zap",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Lightning Breath",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Zapprimarypower.png",
+        "content": "Zap spits out pure electricity.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Sea Slime Slide",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/af/Zapsecondarypower.png",
+        "content": "Zap slides on a trail of sea slime that enemies will become stuck in.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Electro-Slime",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Zapbasicupgrade1.png",
+        "content": "Sea Slime can be electrified by Zap's Lightning Breath.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Wave Rider",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Zapbasicupgrade4.png",
+        "content": "Zap can summon and ride a great wave that washes away enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Love for the Sea",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Zapsoulgempower.png",
+        "content": "Regenerate health in water.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "For Riley",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/60/Zapwowpowpower.png",
+        "content": "While riding a wave, press Attack 2 to make a big splash.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Tesla Dragon",
+        "abilities": [
+          {
+            "name": "Lightning Strikes Twice",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Zappath1upgrade1.png",
+            "content": "Lightning Breath bounces off of enemies and walls.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "zap",
+      "id": "zap_s1",
       "variant_name": "Zap",
       "edition": "Series 1",
-      "type": "Sensei",
+      "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/7/7c/288px-Zap_Promo.jpg",
       "attacks": [
         "Electric Bolt",
-        "Water Surge",
-        "Electro-Slime",
-        "Mega-Volt",
-        "Wave Rider"
+        "Water Surge"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Zap"
     }
   ]
