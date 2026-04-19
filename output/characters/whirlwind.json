@@ -1,9 +1,10 @@
 {
   "id": "whirlwind",
   "name": "Whirlwind",
-  "species": "Unicorn Dragon\\\"Unidragon\"",
+  "species": "Unicorn Dragon \\\"Unidragon\\\"",
   "gender": "Female",
   "element": "Air",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
     "Spyro's Kingdom (scrapped)",
@@ -18,34 +19,411 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Battlecast",
     "Skylanders: Imaginators",
-    "Skylanders: Ring of Heroes}}"
+    "Skylanders: Ring of Heroes"
   ],
-  "cameos": "Return of the Dragon King",
+  "cameos": [
+    "Return of the Dragon King"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Whirlwind is an air dragon with unicorn ancestry – two species that could not be more opposite in nature, which made her never quite fit in with either group. Other dragons were envious of her beauty, while unicorns shunned her for her ability to fly. But Whirlwind found peace within the dark and stormy clouds, where she learned to harness the tempest power within her. Despite her turbulent youth, she was the first to defend both dragons and unicorns when the trolls began hunting them, unleashing her ferocity in a brilliant and powerful rainbow that could be seen throughout many regions of Skylands . From that day forward, evil-doers would quake when dark clouds brewed, and run from the rainbow that followed the storm.",
-  "personality": "Whirlwind is as brave as she is graceful. Her mood swings can be as changeable as the weather, but since becoming a Skylander , she has tried to keep her temper in check. &#91; 3 &#93; &#160;However, she doesn't keep a calm head when provoked. &#91; 4 &#93; Whirlwind is strong-winged, wild and ferocious. But deep down, she is pure of heart, having held no grudge against the dragons and unicorns for shunning her.&#160;",
-  "story": null,
+  "description": "Whirlwind is a blue unicorn dragon, Air Skylander from Skylanders: Spyro's Adventure. Her winter counterpart is called Polar Whirlwind, and her Series 3 counterpart is called Horn Blast Whirlwind.",
+  "biography": "Whirlwind is an air dragon with unicorn ancestry – two species that could not be more opposite in nature, which made her never quite fit in with either group. Other dragons were envious of her beauty, while unicorns shunned her for her ability to fly. But Whirlwind found peace within the dark and stormy clouds, where she learned to harness the tempest power within her. Despite her turbulent youth, she was the first to defend both dragons and unicorns when the trolls began hunting them, unleashing her ferocity in a brilliant and powerful rainbow that could be seen throughout many regions of Skylands. From that day forward, evil-doers would quake when dark clouds brewed, and run from the rainbow that followed the storm.",
+  "quote": "Twists of fury!",
+  "personality": "Whirlwind is as brave as she is graceful. Her mood swings can be as changeable as the weather, but since becoming a Skylander, she has tried to keep her temper in check. However, she doesn't keep a calm head when provoked. Whirlwind is strong-winged, wild and ferocious. But deep down, she is pure of heart, having held no grudge against the dragons and unicorns for shunning her.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Born of both unicorn and dragon descent, Whirlwind often felt like an oddball outsider. Unicorns were unimpressed with her wings and dragons disliked the horn on her head. Shunned and seeking solace, Whirlwind retreated to the cover of storm clouds, where she learned to harness her tempest power. When a troublesome troupe of trolls came searching for unicorn tails and dragon scales, Whirlwind burst from her cover and unleashed a blinding rainbow to send them fleeing. From that day on, unicorns and dragons saw her in a new light. Seeing her purity of heart, Master Eon made her a Skylander. Today, nothing makes a troll tremble like a small, stormy cloud moving speedily towards him. Some time after joining the Skylanders, Whirlwind would encounter and recruit Warnado. Years later, Whirlwind rescued the Frost Elves of Winter Keep from a curse of eternal midnight by enchanting a crystal horn called the Illuminator to grant eternal daylight to the elves. This not only helped break the curse, but also protected the Keep and gave the elves courage during their fight against potential attacks. However, by granting eternal daylight, the Elves never know when it is time for bed.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "Whirlwind was one of the many Skylanders that were summoned to stop Malefor from attacking the Skylanders Academy. Under Blades' command, she and the other aerial dragons charged towards Malefor to attack his eyes, but were all swiftly shot down by the evil dragon's powerful flamethrower. Whirlwind's powers were then absorbed by Malefor when he defeated the other Skylanders with a single strike of his tail. When Spyro, Cynder, Hex and Wallop destroyed the crystal Malefor used to steal Skylander powers, the act restored all of the Skylanders' strength and abilities, including Whirlwind's.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Twists of fury!",
+        "Natural strength!",
+        "Away we go!",
+        "Skyward!",
+        "Hmmm... Impressive!",
+        "Bow to my beauty!",
+        "The wind howls victory!",
+        "Quite a gust!",
+        "How majestic!",
+        "I will adorn this with pride!",
+        "A name worthy of me!",
+        "The wind whispers my name!",
+        "I shall proceed!",
+        "I'll whisp these away!",
+        "A flurry of treasure!",
+        "Throw caution to the wind!",
+        "Gale force!",
+        "Felt the wind on my back!",
+        "Yeah!",
+        "Whoo-hoo!",
+        "Ahahahahahaha!"
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Ready to roll!",
+        "Time to give it a whirl!",
+        "Ready to fly!",
+        "Soaring into action!",
+        "Storm rolling in!",
+        "Twists of fury!",
+        "Rolling in!",
+        "Go time!",
+        "Taking a breather!",
+        "Rolling out!",
+        "Power blast!",
+        "Flying high!",
+        "Right on!",
+        "Awesome!",
+        "Excellent play!",
+        "A real twist!",
+        "Perfect!",
+        "Impressive!",
+        "The healing power of nature!",
+        "Forecast calls for friendly skies!",
+        "A helping hand!",
+        "How about a pick-me-up?",
+        "Rejuvenation!",
+        "Rainbow power!",
+        "Two for the price of one!",
+        "Lightning strikes twice!",
+        "How do you like that?!",
+        "Your pain is my gain!",
+        "Ha ha! Easy breezy!",
+        "A force of nature!",
+        "Not cool...",
+        "Blowing away!",
+        "Down I go...!",
+        "A cruel twist of fate...",
+        "A gale-force victory!",
+        "Can't hold back the storm!",
+        "Consider this a warning.",
+        "Hey there!",
+        "Is that really necessary?",
+        "Your fate is being sealed.",
+        "Yep.",
+        "Easy now!",
+        "Power surge!",
+        "Quite a gust!"
+      ]
+    }
+  ],
+  "trivia": [
+    "Whirlwind was originally called Stormee.",
+    "Though she is a unicorn dragon hybrid, Whirlwind also has feathered wings like a Pegasus.",
+    "Prior to Skylanders: Imaginators, she was the only Skylander to be mentioned in a story chapter and a Story Scroll, as Winter Keep seems to be a level dedicated to the unicorn dragon Skylander.",
+    "Some people nickname her species a 'Unidragon'",
+    "While checking her stats in Giants, her typical animation shows her preening at her feathered wing.",
+    "Her early promotional title in her Toy Fair 2011 debut was called 'Tempest Dragon.'",
+    "Like Cynder, Echo, Spotlight and Flashwing, Whirlwind has no teeth.",
+    "Incidentally, they are all the only dragons Skylanders in the games who are female.",
+    "However Scratch is almost half dragon, and has visible fangs.",
+    "When Whirlwind revealed that one of her attacks was called the Rainbow of Doom, Flynn laughed, which proved to be a mistake when Whirlwind lashed out at him. Afterwards Flynn was back on his feet after just a few weeks, implying that Whirlwind went easier on him than she normally would have when angered.",
+    "Her catchphrase is a play on 'Fists of Fury.'",
+    "Despite her hatred for Trolls, Whirlwind is seen healing the troll Skylander Boomer in her Soul Gem upgrade picture, meaning she may only have a fondness of 'him', as he is the only good troll.",
+    "Whirlwind can also use her rainbow energy to heal her friends in battle.",
+    "She and Trail Blazer are the only two unicorn-based Skylanders.",
+    "Oddly enough, in the Tall Tales trailer for Giants, it implies that unicorns don't exist in Skylands, despite the fact that Whirlwind is part unicorn.",
+    "When shooting a rainbow once the Rainbow of Healing upgrade is purchased and as a Series 2 figure, Whirlwind's unicorn horn is colored yellow and pink.",
+    "When she obtains the Wow-Pow ability, Whirlwind's horn begins glowing in colors of the rainbow. This does not happen in Swap Force. However, there is a glitch where Horn Blast Whirlwind's horn will continue to glow in the colors of the rainbow after using a rainbow based attack, and if the Rainbow Singularity isn't charged all the way, then her horn will glow colorfully until it is fully charged and then shot.",
+    "The Tempest Matrix upgrade resembles the attacks of the Arkeyan Blasters from Spyro's Adventure.",
+    "There is a glitch in Trap Team where Whirlwind is still able to fly even after jumping, which can make it impossible to not fall from the course.",
+    "In Trap Team, Horn Blast Whirlwind appears to have two Wow Pows instead of one. She can perform 'Cloudbursting' much like her Series 2 version.",
+    "On the Wii Version of Swap Force and Trap Team, Horn Blast Whirlwind does not contain gold armour on her chest, after obtaining her Wow Pow. However, she has gold armour present on her head.",
+    "She, Breeze, and Astroblast are the only three Skylanders capable of healing others.",
+    "There is a glitch where they can actually heal the Mabu soldiers with their Rainbows of Doom in Mystic Mill and Operation: Troll Rocket Steal.",
+    "She and Breeze are the only two Skylanders capable of healing any Skylander while Astroblast is only capable of healing Skylanders of the Life element.",
+    "Although not a bird herself, Whirlwind is able to access the Bird House in Skylanders: Lost Islands.",
+    "At the Skylanders Academy, there is a glitch that prevents Whirlwind from jumping over the entrance of one of the coin mazes near the Adventure Pack gate.",
+    "Whirlwind's name is the base for Scratch's upgrade 'Whirlwing' and the attack of the villainess Bad Juju.",
+    "She and Scratch also share the Catchphrase, 'Skyward!' When jumping on a bounce pad.",
+    "Coincidentally, they are all females of the Air element.",
+    "She, Spyro and Chop Chop are the only three Skylanders with Elite counterparts who have not been reposed for Skylanders: SuperChargers.",
+    "Though her tempest clouds can create electricity, Whirlwind only uses it herself in Skylanders: Battlecast; she can also manipulate wind currents to drain a foe's health in contrast to her Healing Rainbows in that game.",
+    "Her unique quest, 'What does it mean?', is a reference to a popular Youtube video where a double rainbow is recorded, with 'What does it mean?' being one of the quotes.",
+    "It is possible that Whirlwind could be over a hundred years old, considering she created the illuminator on Winter Keep and the Cloudbreak Islands are known to have been unprotected for a hundred years after the SWAP Force got banished from Skylands.",
+    "An early version of Whirlwind can be found on the Air Island of the Spyro’s Kingdom WIP website layout.",
+    "Whirlwind shares several similarities with Rainbow Dash from the television series, My Little Pony: Friendship is Magic: Both are based off of mythical equines, both have primarily bright blue color schemes and a rainbow theme, and both have the ability to manipulate the weather."
+  ],
+  "trailers": [
+    {
+      "name": "Skylanders Spyro's Adventure - Whirlwind Preview (Twists of Fury)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Whirlwind_Preview_(Twists_of_Fury)"
+    },
+    {
+      "name": "Skylanders Giants - Meet the Skylanders - Series 2 Whirlwind (Twists of Fury)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Series_2_Whirlwind_(Twists_of_Fury)"
+    },
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Horn Blast Whirlwind (Twists of Fury)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Horn_Blast_Whirlwind_(Twists_of_Fury)"
+    },
+    {
+      "name": "Skylanders Spryo's Adventure Official Whirlwind Trailer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spryo%27s_Adventure_Official_Whirlwind_Trailer"
+    }
+  ],
+  "gameplay": "As a result of spending time within dark storm clouds, Whirlwind gained the ability to shoot rainbow energy from her horn, which can also be used to heal her allies. She can launch storm clouds at her enemies with a single clap of her wings. Being part dragon, Whirlwind has the ability to fly. Opting for the Ultimate Rainbower path further improves Whirlwind's 'Rainbow of Doom' attack, leaning to more offensive gameplay. The attack can be upgraded to launch a second rainbow, effectively extending the attack distance, and also deal more damage. The attack can also be charged up and then unleashed to create a 'Rainbow Singularity' black hole, sucking in enemies and leaving them susceptible to attacks. Opting for the Tempest Dragon path further improves Whirlwind's tempest clouds, leaning to more defensive gameplay. The attack can be upgraded to do more damage, but also unleash more rainbows when hit by one. With the 'Tempest Matrix' upgrade, Whirlwind can create lightning between the clouds, allowing her to create a barrier that electrocutes enemies and protects her from attackers. She holds the ability to enchant an object with her power, as evident when she empowered the Illuminator in Winter Keep. In Skylanders: Battlecast, Whirlwind also has the ability to conduct lightning through her horn to shock enemies and drain their health with a vortex or tornado. Her Special Ability is the Dragon's Wisdom, which raises the XP of her team, and her signature Gear is the Chromatic Bauble, which restores health to whichever ally is active.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Whirlwind",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Rainbow of Doom",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/Whirlwindprimarypower.png/revision/latest?cb=20120420191958",
+        "content": "An arced blast of rainbow energy.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Tempest Cloud",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Whirlwindsecondarypower.png/revision/latest?cb=20120420192019",
+        "content": "Send forth clouds that electrocute nearby enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Rainbow Chain",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/Whirlwindbasicupgrade1.png/revision/latest?cb=20120420192100",
+        "content": "Rainbows do extra damage. Shoot a Tempest Cloud and a second rainbow comes off of it.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Triple Tempest",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/06/Whirlwindbasicupgrade2.png/revision/latest?cb=20120420192148",
+        "content": "Have 3 Tempest Clouds active. Tempest Clouds do extra damage as well.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Dragon Flight",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/32/Whirlwindbasicupgrade3.png/revision/latest?cb=20120420192211",
+        "content": "Allows Whirlwind to fly.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Dual Rainbows",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Whirlwindbasicupgrade4.png/revision/latest?cb=20120420192436",
+        "content": "Shoot a Tempest Cloud and two rainbows will chain off it.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Rainbow of Healing",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/60/Whirlwindsoulgempower.png/revision/latest?cb=20120420191433",
+        "content": "Rainbows HEAL your allies!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Cloudbursting",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/01/Whirlwindwowpowpower.png/revision/latest?cb=20130625230427",
+        "content": "When clouds disappear, they explode into rainbows.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "season": 3,
+        "name": "Rainbow Rush",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9d/Whirlwindwowpow2power.png/revision/latest?cb=20160724101301",
+        "content": "Hold Attack 3 to take flight and release powerful rainbow shockwaves with each wing flap.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "upgrade_paths": [
+      {
+        "path_name": "Ultimate Rainbower",
+        "abilities": [
+          {
+            "name": "Double Dose of Doom",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/86/Whirlwindpath1upgrade1.png/revision/latest?cb=20131109015905",
+            "content": "Shoot two Rainbows of Doom at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Atomic Rainbow",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Whirlwindpath1upgrade2.png/revision/latest?cb=20131109015944",
+            "content": "Rainbow of Doom attack does increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Rainbow Singularity",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/31/Whirlwindpath1upgrade3.png/revision/latest?cb=20131109020025",
+            "content": "Press and hold Attack 1 to charge up a super powerful Rainbow of Doom, release to fire. Rainbow Singularity also draws in enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Tempest Dragon",
+        "abilities": [
+          {
+            "name": "Triple Rainbow, It's Full On",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0a/Whirlwindpath2upgrade1.png/revision/latest?cb=20120420191912",
+            "content": "Shoot a Tempest Cloud and 3 rainbows will chain off of it.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Tempest Tantrum",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Whirlwindpath2upgrade2.png/revision/latest?cb=20120420191810",
+            "content": "Biggest Tempest Cloud does increased damage with increased range.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Tempest Matrix",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/db/Whirlwindpath2upgrade3.png/revision/latest?cb=20120420191831",
+            "content": "Electricity forms between Tempest Clouds that hurt enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
-      "id": "whirlwind",
-      "variant_name": "Whirlwind",
+      "id": "whirlwind-s1",
+      "variant_name": "Whirlwind Series 1",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Whirlwind.png",
       "attacks": [
         "Rainbow of Doom",
         "Tempest Cloud",
         "Dragon Flight",
-        "Duel Rainbows",
+        "Dual Rainbows",
         "Atomic Rainbow"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50 (max. 100)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Whirlwind"
     }
   ]
