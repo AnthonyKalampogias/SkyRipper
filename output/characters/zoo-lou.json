@@ -4,6 +4,7 @@
   "species": "Bear-like creature",
   "gender": "Male",
   "element": "Life",
+  "role": "Core Skylander",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -12,22 +13,270 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": "*Stump Smash Crosses the Bone Dragon *The Kaos Trap *Trigger Happy Targets the Evil Kaos",
+  "cameos": [
+    "Stump Smash Crosses the Bone Dragon",
+    "The Kaos Trap",
+    "Trigger Happy Targets the Evil Kaos"
+  ],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Descended from a long line of shamans, Zoo Lou traveled far and wide to the Seven Strange Strongholds – ancient, mysterious sites of great wonder in Skylands – where he studied the wisdom and fighting styles of the Seven Strange Mages. After many years of traveling and studying, Zoo Lou returned to find an army of trolls had invaded his sacred homeland to mine its natural magic resources. Zoo Lou’s warrior heart burned with fury. And having now mastered the enchanted art of communicating with nature and summoning animals, he unleashed his great mojo – attacking the trolls and single handedly freeing his lands once again. It was this heroic feat that caught the eye of Double Trouble , who then brought Zoo Lou to Master Eon and the Skylanders.",
-  "personality": "A wild and wooly warrior, Zoo Lou doesn't suffer fools gladly. He also is most likely to talk to animals, plants, and sometimes a pebble or two. &#91; 4 &#93;",
-  "story": null,
+  "description": "Zoo Lou is a white bear-like shaman who is one of the Life Core Skylanders that was released alongside Skylanders: Swap Force.",
+  "biography": "Descended from a long line of shamans, Zoo Lou traveled far and wide to the Seven Strange Strongholds – ancient, mysterious sites of great wonder in Skylands – where he studied the wisdom and fighting styles of the Seven Strange Mages. After many years of traveling and studying, Zoo Lou returned to find an army of trolls had invaded his sacred homeland to mine its natural magic resources. Zoo Lou's warrior heart burned with fury. And having now mastered the enchanted art of communicating with nature and summoning animals, he unleashed his great mojo – attacking the trolls and single handedly freeing his lands once again. It was this heroic feat that caught the eye of Double Trouble, who then brought Zoo Lou to Master Eon and the Skylanders.",
+  "quote": "Nature Calls!",
+  "personality": "A wild and wooly warrior, Zoo Lou doesn't suffer fools gladly. He also is most likely to talk to animals, plants, and sometimes a pebble or two.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "A bear shaman with a warrior's heart, Zoo Lou spent many years studying the wisdom of the Seven Strange Mages, gaining the ability to summon mystical animals to his side. When his studies were complete, he returned home, only to find it had been invaded by trolls. Zoo Lou flew into a rage, put his newly-acquired skills into action, and the entire troll army had to grin and 'bear' the beating of their lives. Double Trouble witnessed Zoo Lou's heroic deed and brought the shaman to Master Eon, who proceeded to make Zoo Lou a Skylander.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Stump Smash Crosses the Bone Dragon",
+      "content": "Zoo Lou and Lightning Rod were assigned by Spyro to search Fantasm Forest for Master Eon, who was kidnapped by Squirmgrub.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Nature Calls.",
+        "Growing Stronger.",
+        "Ahead of the Pack.",
+        "Super-natural.",
+        "Feeling the power.",
+        "A big offering.",
+        "Precious stones.",
+        "Nature always wins.",
+        "Naturally.",
+        "Coming through.",
+        "The nature of the beast.",
+        "Moving ahead.",
+        "It's second nature.",
+        "My victory was foretold.",
+        "Nature took its course.",
+        "Things could get wild in here.",
+        "Wild and wooly.",
+        "The call of the wild.",
+        "A wild-looking head dress.",
+        "I look beastly."
+      ]
+    }
+  ],
+  "trivia": [
+    "Zoo Lou's name is a play on Zulu and Lou Studdert, Activision's Production Coordinator for Skylanders.",
+    "His mystical weapon slightly resembles the Green Lantern Corps' abilities to create things out of green light.",
+    "His weapon looks similar in material to the weapons wielded by Trap Masters.",
+    "He speaks with an African accent.",
+    "If Zoo Lou chooses 'The Wild Wolf', the spirit wolf becomes black with glowing green outlines. It will also dig up food if he's low on health.",
+    "On his artwork, the spirit birds face looks like Free Ranger, only without the crest.",
+    "He, Double Trouble, Sonic Boom, and Sprocket are currently the only four Skylanders that can summon an ally as their secondary ability.",
+    "He is the only Life Skylander on the 3DS to glide.",
+    "He is similar to Banjo from Banjo-Kazooie. They are both bears who attack with the help of birds.",
+    "Zoo Lou doesn't jump high as the rest of the Skylanders.",
+    "Zoo Lou's catchphrase, 'Nature Calls!', is a reference to the phrase people say when they need to use the restroom.",
+    "He also shares his catchphrase with Tree Rex for one of his battle cries."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Zoo Lou",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Zoo_Lou"
+    },
+    {
+      "name": "Skylanders Swap Force - Zoo Lou Soul Gem Preview (Nature Calls)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Zoo_Lou_Soul_Gem_Preview_%28Nature_Calls%29"
+    }
+  ],
+  "gameplay": "Zoo Lou is able to summon three different animal spirits to help him in battle. The first animal spirit is a ghostly eagle that swoops down on enemies before disappearing. The second animal spirit he can summon is a wolf that can attack enemies, and will disappear after a while. The third animal spirit is a Boghog that Zoo Lou can ride, and trample enemies with. However, the Boghog is not usable as a speed boosting mount, as it moves at a very slow pace while being ridden. He can still summon his eagles and wolf while riding a Boghog, but the Boghog can't be summoned again for a short while after being summoned.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Zoo_Lou",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Bird Call",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/56/Zoo_Louprimarypower.png/revision/latest?cb=20170505140515",
+        "content": "Press Attack 1 to summon birds that will attack nearby enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Wolf Call",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/42/Zoo_Lousecondarypower.png/revision/latest?cb=20170505140519",
+        "content": "Press Attack 2 to summon a helpful wolf ally.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Piggyback Ride",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/Zoo_Loubasicupgrade1.png/revision/latest?cb=20170505140525",
+        "content": "Press Attack 3 to ride around on a wild boar, dealing damage to all nearby enemies. There is a short wait before this ability can be used again.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Raging Boar",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/06/Zoo_Loubasicupgrade2.png/revision/latest?cb=20170505140530",
+        "content": "Boar does increased damage. Riding on a raging boar doesn't seem safe...for enemies!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Swoop Re-loop",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/76/Zoo_Loubasicupgrade3.png/revision/latest?cb=20170505140538",
+        "content": "Press Attack 1 to shoot spirit birds that will seek out enemies and attack them twice before flying away.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      },
+      {
+        "name": "Better Beaks",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Zoo_Loubasicupgrade4.png/revision/latest?cb=20170505140543",
+        "content": "Bird attacks do increased damage. Caw caw caw!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#4D5",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Birds of Prey",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Zoo_Lousoulgempower.png/revision/latest?cb=20170505140548",
+        "content": "Hold Attack 1 to summon up to five birds, release to have them all swoop in on enemies doing a devastating amount of damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "The Bucking Boar",
+        "abilities": [
+          {
+            "name": "Rough Rider",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Zoo_Loupath1upgrade1.png/revision/latest?cb=20131107121853",
+            "content": "Press Attack 3 to ride around on a wild boar that kicks up damaging dust and rocks at nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Thicker Pigskin",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/af/Zoo_Loupath1upgrade2.png/revision/latest?cb=20131107121922",
+            "content": "Armor is increased. Thicker skin reduces damage taken from attacks and insults.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Hog Wild",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Zoo_Loupath1upgrade3.png/revision/latest?cb=20131107121950",
+            "content": "Press Attack 3 to ride around on a wild boar. After jumping off, the boar will continue to trample nearby enemies for a short time.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "The Wild Wolf",
+        "abilities": [
+          {
+            "name": "Alpha Wolf",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/14/Zoo_Loupath2upgrade1.png/revision/latest?cb=20131107122019",
+            "content": "Press Attack 2 to summon a more powerful wolf ally that does increased damage and has more health.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Hunger of the Wolf",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Zoo_Loupath2upgrade2.png/revision/latest?cb=20131107122045",
+            "content": "Each time the wolf attacks it gains increased attack speed.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          },
+          {
+            "name": "Hunter and Gatherer",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Zoo_Loupath2upgrade3.png/revision/latest?cb=20131107122114",
+            "content": "The wolf will dig up food when health is low. Such a good little spirit pet!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#4D5",
+              "bg_content": "#BFB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "zoo-lou",
       "variant_name": "Zoo Lou",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core Skylander",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Zoo_Lou_Promo_Art.jpg/revision/latest?cb=20130821200845",
       "attacks": [
@@ -37,7 +286,28 @@
         "Thicker Pigskin",
         "Hunger of the Wolf"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (max. 580)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6 (max. 56)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Zoo_Lou"
     }
   ]
