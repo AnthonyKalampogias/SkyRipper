@@ -4,6 +4,7 @@
   "species": "Golden Lion",
   "gender": "Male",
   "element": "Fire",
+  "role": "Trap Master",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "The Kaos Trap",
@@ -13,22 +14,282 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": null,
+  "cameos": [],
   "world": [
     "Skylands"
   ],
-  "quote": null,
-  "description": null,
-  "biography": "Wildfire was once a young lion of the Fire Claw Clan, about to enter into the Rite of Infernos – a test of survival in the treacherous fire plains. However, because he was made of gold, he was treated as an outcast and not allowed to participate. But this didn’t stop him. That night, Wildfire secretly followed the path of the other lions, carrying only his father’s enchanted shield. Soon he found them cornered by a giant flame scorpion. Using the shield, he protected the group from the beast’s enormous stinging tail, giving them time to safely escape. And though Wildfire was injured in the fight, his father’s shield magically changed him – magnifying the strength that was already in his heart – making him the mightiest of his clan. Now part of the Trap Team, Wildfire uses his enormous Traptanium -bonded shield to defend any and all who need it!",
-  "personality": "Wildfire is a loyal lion with a heart of gold, but he can be fierce in battle. He's very protective of the Fire Claw Clan and is always ready to lend them a magical hand when they need it. &#91; 2 &#93;",
-  "story": null,
+  "description": "Wildfire is a golden lion who is one of the Trap Masters in Skylanders: Trap Team. He is of the Fire element.",
+  "biography": "Wildfire was once a young lion of the Fire Claw Clan, about to enter into the Rite of Infernos – a test of survival in the treacherous fire plains. However, because he was made of gold, he was treated as an outcast and not allowed to participate. But this didn’t stop him. That night, Wildfire secretly followed the path of the other lions, carrying only his father’s enchanted shield. Soon he found them cornered by a giant flame scorpion. Using the shield, he protected the group from the beast’s enormous stinging tail, giving them time to safely escape. And though Wildfire was injured in the fight, his father’s shield magically changed him – magnifying the strength that was already in his heart – making him the mightiest of his clan. Now part of the Trap Team, Wildfire uses his enormous Traptanium-bonded shield to defend any and all who need it!",
+  "quote": "Bringing The Heat!",
+  "personality": "Wildfire is a loyal lion with a heart of gold, but he can be fierce in battle. He's very protective of the Fire Claw Clan and is always ready to lend them a magical hand when they need it. [2]",
+  "story": [
+    {
+      "story_name": "The Kaos Trap",
+      "content": "When Tessa, Cali, Weeruptor, Flynn and Chopper were being attacked by Troll Bombers, Wildfire arrived just in time to save Weeruptor by using his Traptanium Shield like a boomerang to take out few of the bombers. As they were still outnumbered by the Troll Bombers, the golden lion aggressively spoke to the trolls on behalf of Weeruptor by giving the enemies a chance to flee before he gets nasty and crush their ships with the trolls still in them. The intimidation worked, and the Troll Bombers retreated out of fear of Wildfire's wrath. With Flynn and Chopper safe, the group began their trek back to the Skylanders Academy, but not before Wildfire sees promise in Weeruptor, proclaiming that the Mini has the 'fire to be an amazing Skylander one day'. By the time Wildfire and the others got to the Academy to expose Kaos, the evil Portal Master was already being driven out by Food Fight.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Wildfire_comic2.jpg/revision/latest?cb=20150112103756"
+    },
+    {
+      "story_name": "Skylanders: Trap Team",
+      "content": "Wildfire was one of the Trap Masters who confronted the Doom Raiders in their hideout within the Outlands. Using his Traptanium shield, he protected his fellow Trap Masters against the Golden Queen's attack, which was reflected back at her and The Gulper.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "\"Bringing The Heat!\"",
+        "\"Inferno claw!\"",
+        "\"Flash fire!\"",
+        "\"Let's get started!\"",
+        "\"In the line of fire!\"",
+        "\"Fuel the fire!\"",
+        "\"Lion time!\"",
+        "\"Turn up the heat!\"",
+        "\"My turn to burn!\"",
+        "\"The heat is on!\"",
+        "\"Hot streak!\"",
+        "\"Fire away!\"",
+        "\"Can't be contained!\"",
+        "\"Hear me roar!\"",
+        "\"Flyin lion!\"",
+        "\"Power streak!\"",
+        "\"Unstoppable!\"",
+        "\"Fire blast!\" - when levelled up",
+        "\"Full power!\" - when levelled up",
+        "\"Hmm, feeling hot!\" - when Traptanium weapon glows",
+        "\"Heating up!\" - when Traptanium weapon glows",
+        "\"Hm, I'll take it\" - when opening a treasure chest",
+        "\"A lion's share!\" - when opening a treasure chest",
+        "\"The pride of the wild!\" - when opening the stats",
+        "\"Let’s face the truth? I’m Awesome!\" - when opening the stats",
+        "\"Dare I say, the 'mane' attraction!\" - when putting on a hat",
+        "\"Nice hat. Is it fireproof?\"",
+        "\"This name gives me...paws.\" - when changing name",
+        "\"An honorary title!\""
+      ]
+    },
+    {
+      "quote_type": "Book Quotes",
+      "content": [
+        "\"Totally Bringing The Heat!\"",
+        "\"I was thinking of crushing your ships into useless scrap with you still in 'em... but my pal here is feeling generous. He's offering you a chance to retreat, before he decides to get really nasty. So what's it gonna be?\""
+      ]
+    }
+  ],
+  "trivia": [
+    "Wildfire is one of the few Skylanders who are felines (the others are Freeze Blade, Trap Shadow, Scratch, Tuff Luck and Mysticat).",
+    "He is the second Trap Master capable of becoming a quadruped after his Soul Gem ability, \"Lion Form\", is purchased, the first being Knight Mare.",
+    "Being made entirely out of gold, Wildfire's footsteps are metallic.",
+    "Wildfire's voice sounded much like that of Eruptor, who Keythe Fairly also voiced since Skylanders: Giants. Coincidentally, they are both Fire Skylanders.",
+    "He bears a slight resemblance and is similar to Lionizer from Power Rangers In Space. Both are bipedal, golden lions. Both wield weapons relating to fire.",
+    "He, Fire Kraken and Spitfire are the only Skylanders to have \"Fire\" (their element) in their names.",
+    "Wildfire shares some similarities with Wild Storm. Both have the word \"Wild\" in their name, both have many lion-like features, both can channel their element through roaring, and both are traditionally bipedal but move around on all-fours in certain circumstances."
+  ],
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Wildfire",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Wildfire"
+    },
+    {
+      "name": "Skylanders Trap Team - Wildfire's Soul Gem Preview (Bringing the Heat)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Wildfire%27s_Soul_Gem_Preview_(Bringing_the_Heat)"
+    },
+    {
+      "name": "Skylanders Power Play- Wildfire",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play-_Wildfire"
+    }
+  ],
+  "gameplay": "Using his father's Traptanium shield, Wildfire can use it as defense, protecting himself even from the Golden Queen's magic and burning enemies that approach, or as offense, bashing enemies with it. Wildfire can also summon chains of fire that pull enemies closer and breathe fire with a mighty roar, and temporarily destroy his shield to assume a quadruped stance for melee attacks.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Wildfire",
+  "abilities": {
+    "basic": [
+      {
+        "name": "Traptainium Shield Bash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/08/Wildfireprimarypower.png/revision/latest?cb=20170505121644",
+        "content": "Press Attack 1 for a single shield bash. Press Attack 1, Attack 1 and Attack 1, Attack 1, Attack 1 for Shield Bash combos.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Chains of Fire",
+        "imgPath": "https://wikia.nocookie.net/skylanders/images/4/45/Wildfiresecondarypower.png/revision/latest?cb=20170505121646",
+        "content": "Summon Chains of Fire that not only burn but also pull enemies closer.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Heat Shield",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Wildfirebasicupgrade1.png/revision/latest?cb=20170505121654",
+        "content": "Hold Attack 1 to use the Heat Shield for protection and damage to nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Extra Chains",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Wildfirebasicupgrade2.png/revision/latest?cb=20170505121659",
+        "content": "Chains of Fire now pull four enemies at once.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Fire Roar",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/66/Wildfirebasicupgrade3.png/revision/latest?cb=20170505121703",
+        "content": "Unleash a Fire Roar attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Hotter Heat Shield.",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Wildfirebasicupgrade4.png/revision/latest?cb=20170505121709",
+        "content": "Heat Shield now burns brighter and does extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Lion Form",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Wildfiresoulgempower.png/revision/latest?cb=20170505121715",
+        "content": "Hold Attack 1 to enter Heat Shield Mode, then press Attack 1 again to transform into a wild, Fire Lion.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "wow_pows": [],
+    "upgrade_paths": [
+      {
+        "path_name": "Shield Slasher",
+        "abilities": [
+          {
+            "name": "Burning Bash",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Wildfirepath1upgrade1.png/revision/latest?cb=20170505122038",
+            "content": "Press Attack 1, Attack 1 and Attack 2 for a Heat Wave combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Fire Spin",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Wildfirepath1upgrade2.png/revision/latest?cb=20170505122050",
+            "content": "Press Attack 1, Attack 1 and Attack 3 for a Fire Spin combo.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Searing Slam",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/68/Wildfirepath1upgrade3.png/revision/latest?cb=20170505122152",
+            "content": "Press Attack 1 in the air for a Searing Slam attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Chain Champion",
+        "abilities": [
+          {
+            "name": "Lots of Chains",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Wildfirepath2upgrade1.png/revision/latest?cb=20170505122158",
+            "content": "Chains of Fire can now pull five enemies at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "Blazing Breath",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Wildfirepath2upgrade2.png/revision/latest?cb=20170505122209",
+            "content": "Fire Roar has longer range and does extra damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          },
+          {
+            "name": "No Escape!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/07/Wildfirepath2upgrade3.png/revision/latest?cb=20170505122213",
+            "content": "Chains of Fire has a wider area of effect and can pull 5 enemies at once.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#F44",
+              "bg_content": "#FBB"
+            }
+          }
+        ]
+      }
+    ]
+  },
   "variants": [
     {
       "id": "wildfire",
       "variant_name": "Wildfire",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/b/b9/Wildfire_Promo.jpg/revision/latest?cb=20140610214032",
       "attacks": [
@@ -38,7 +299,44 @@
         "Burning Bash",
         "Lots of Chains"
       ],
-      "stats": null,
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "???"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "130"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "80"
+        }
+      ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Wildfire"
     }
   ]
