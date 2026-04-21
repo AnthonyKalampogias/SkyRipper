@@ -21,7 +21,7 @@
   ],
   "description": "Bat Spin is a vampire who is one of the Core Frito-Lay Skylanders for Skylanders: Trap Team.",
   "biography": "Bat Spin hailed from the underworld, where as a child she was separated from her people. After spending months searching for them, she eventually was welcomed by a colony of magical bats who raised her as one of their own. After many peaceful years living with the bats, the colony was invaded by an army of undead trolls, who were set on stealing their magic to build an ultimate sonar weapon. Bat Spin quickly took action and used powerful abilities that she had learned growing up with the bats and essentially becoming one of them. She heroically defeated the trolls and saved the colony. This caught the attention of Master Eon, who saw at once she would make a worthy Skylander!",
-  "quote": "“No Rest for the Wicked!”",
+  "quote": "No Rest for the Wicked!",
   "personality": "Bat Spin was born in the underworld, which makes her witchy in a good way. She's also pretty cool under pressure and isn't known to fly off the handle. Her mannerisms in idle and win animations imply she might be still young, and strangely she sounds hesitant when given a hat or nickname.",
   "story": [
     {
@@ -111,7 +111,7 @@
     "basic": [
       {
         "name": "Bat Attack",
-        "imgPath": "Bat_Spinprimarypower.png",
+        "imgPath": "Bat Spinprimarypower.png",
         "content": "Press Attack 1 to shoot bitey pet bats at enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -123,7 +123,7 @@
       },
       {
         "name": "Bat Swarm",
-        "imgPath": "Bat_Spinsecondarypower.png",
+        "imgPath": "Bat Spinsecondarypower.png",
         "content": "Press Attack 2 to summon a maelstrom of bat damage.",
         "is_primary": false,
         "is_secondary": true,
@@ -137,7 +137,7 @@
     "basic_upgrades": [
       {
         "name": "Healing Bite",
-        "imgPath": "Bat_Spinbasicupgrade1.png",
+        "imgPath": "Bat Spinbasicupgrade1.png",
         "content": "Collect pet bats after they have bitten enemies to regain HP.",
         "is_primary": false,
         "is_secondary": false,
@@ -149,7 +149,7 @@
       },
       {
         "name": "Brawny Bats",
-        "imgPath": "Bat_Spinbasicupgrade2.png",
+        "imgPath": "Bat Spinbasicupgrade2.png",
         "content": "Pet bats last longer, do more damage and are more aggressive.",
         "is_primary": false,
         "is_secondary": false,
@@ -161,7 +161,7 @@
       },
       {
         "name": "Go Batty!",
-        "imgPath": "Bat_Spinbasicupgrade3.png",
+        "imgPath": "Bat Spinbasicupgrade3.png",
         "content": "Press Attack 3 to transform into a Giant Bat! In Bat Form, press Attack 1 to bite and Attack 2 to screech.",
         "is_primary": false,
         "is_secondary": false,
@@ -173,7 +173,7 @@
       },
       {
         "name": "A Colony of Bats",
-        "imgPath": "Bat_Spinbasicupgrade4.png",
+        "imgPath": "Bat Spinbasicupgrade4.png",
         "content": "Increase the maximum number of pet bats.",
         "is_primary": false,
         "is_secondary": false,
@@ -187,7 +187,7 @@
     "soulgems": [
       {
         "name": "Great Balls of Bats!",
-        "imgPath": "Bat_Spinsoulgempower.png",
+        "imgPath": "Bat Spinsoulgempower.png",
         "content": "Hold Attack 1 to launch a giant ball of bats!",
         "is_primary": false,
         "is_secondary": false,
@@ -271,7 +271,7 @@
         "abilities": [
           {
             "name": "Mr. Dizzy",
-            "imgPath": "Bat_Spinpath1upgrade1.png",
+            "imgPath": "Bat Spinpath1upgrade1.png",
             "content": "A new pet bat, Mr. Dizzy, stuns and confuses enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -283,7 +283,7 @@
           },
           {
             "name": "Mr. Blocky",
-            "imgPath": "Bat_Spinpath1upgrade2.png",
+            "imgPath": "Bat Spinpath1upgrade2.png",
             "content": "A new pet bat, Mr. Blocky, protects you by deflecting projectiles.",
             "is_primary": false,
             "is_secondary": false,
@@ -295,7 +295,7 @@
           },
           {
             "name": "Mr. Bitey",
-            "imgPath": "Bat_Spinpath1upgrade3.png",
+            "imgPath": "Bat Spinpath1upgrade3.png",
             "content": "A new pet bat, Mr. Bitey, does extra biting damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -312,7 +312,7 @@
         "abilities": [
           {
             "name": "Bat-tle Cry",
-            "imgPath": "Bat_Spinpath2upgrade1.png",
+            "imgPath": "Bat Spinpath2upgrade1.png",
             "content": "In Bat Form, the screech attack does extra damage and powers up bats.",
             "is_primary": false,
             "is_secondary": false,
@@ -324,7 +324,7 @@
           },
           {
             "name": "Ultimate Bat Squad",
-            "imgPath": "Bat_Spinpath2upgrade2.png",
+            "imgPath": "Bat Spinpath2upgrade2.png",
             "content": "More pet bats fly with you and have additional powers.",
             "is_primary": false,
             "is_secondary": false,
@@ -336,7 +336,7 @@
           },
           {
             "name": "Chiropteran Call",
-            "imgPath": "Bat_Spinpath2upgrade3.png",
+            "imgPath": "Bat Spinpath2upgrade3.png",
             "content": "In Bat Form, the bite attack shoots out three additional pet bats.",
             "is_primary": false,
             "is_secondary": false,
