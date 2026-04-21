@@ -1,7 +1,7 @@
 {
   "id": "bad-juju",
   "name": "Bad Juju",
-  "species": "Skeleton Ghost",
+  "species": "Skeleton, Ghost",
   "gender": "Female (Bad Juju), Male (Juju Junior)",
   "element": "Air",
   "role": "Villain, Ally, Sensei",
@@ -26,14 +26,14 @@
     {
       "story_name": "Skylanders: Trap Team",
       "content": "Bad Juju was first encountered in the Lair of the Golden Queen. When the Skylanders were battling their way through the Queen's homestead, they inadvertently awoke Bad Juju from her slumber, enraging her. Her attempts to subdue them with her magic failed and after her defeat, she was promptly trapped. After the Skylanders defeated the Golden Queen, they took the ghostly skeleton back to the lair for her Villain Quest with Glumshanks, called 'Remote Location'. He explained to the heroes that they both wanted to stop the Queen, so the Troll built a spare remote in hopes of shutting it down for good. However, he accidentally dropped it down a sandpit and needed Bad Juju to use her whirlwind to pick it up for him. After her task was complete, she was awarded with Glumshanks' thanks, a new outfit, and the Beetle Hat.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/BadJuju.png"
     },
     {
       "story_name": "Skylanders: Imaginators",
       "content": "Just like her name suggests, Bad Juju had always been bad. From her humble beginnings as a witch doctor, where she put curses on her patients instead of curing them, to being the Golden Queen's right-hand sorceress, she had spent her entire life as a villain. Being captured by the Skylanders didn't do much to change her attitude either. At least, that was the case until the day she conjured up more then she bargained for - a son named Juju Junior. That was when she finally decided it was time to come to change her lifestyle. She didn't want to raise Juju Junior inside a prison thinking that his magical mother was a criminal. So she asked Master Eon to give her a chance to be a hero instead. As luck would have it, Eon was looking for a Swashbuckler Sensei who could help train Imaginators the value of being good. Not bad for Bad Juju.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fd/Bad_Juju_Artwork.jpg"
     }
   ],
   "quotes": [
@@ -141,7 +141,7 @@
     }
   ],
   "trivia": [
-    "When explaining her quest, she is incorrectly referred to as male ('He') by Glumshanks, eventhough she is female ('She'). She is also referred to as a male, ('he/him') by a Battlecast artist.",
+    "When explaining her quest, she is incorrectly referred to as male ('He') by Glumshanks, even though she is female ('She'). She is also referred to as a male, ('he/him') by a Battlecast artist.",
     "She and Eye Scream are the only two female villains that are mistaken to be males in gameplay, either by the writers or the voice actors of Cali and Glumshanks.",
     "In game, she is slouched over but she straightens when she uses her attacks, as well as spinning her skull vertically or horizontally.",
     "She is briefly seen in Stormblade's backstory in Dive, Dive, Dive!, being chased by the Sky Slicer, and shown with Grave Clobber in Biting Back's credits page. This is because she would've been a major villain in the next comic arc along with Grave Clobber, but it was cancelled during production.",
@@ -366,7 +366,39 @@
       "edition": "Series 1",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/c/cd/BadJuju.png/revision/latest?cb=20140915220323",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/fd/Bad_Juju_Artwork.jpg",
+      "attacks": [
+        "Lightning strike",
+        "Hurricane",
+        "Whirling Blades",
+        "Juju Junior",
+        "Windy Wail",
+        "Static Shock",
+        "Child Protection"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "230 (max. 460)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "12 (max. 60)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Bad_Juju_(character)"
+    },
+    {
+      "id": "mystical-bad-juju",
+      "variant_name": "Mystical Bad Juju",
+      "edition": "Alt Deco",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/fd/Bad_Juju_Artwork.jpg",
       "attacks": [
         "Lightning strike",
         "Hurricane",
