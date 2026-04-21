@@ -73,14 +73,20 @@
     "Barbella is very similar to Crusher - Both are members of elite Skylander teams, are Earth elements, have very similar powers and weapons, and have nearly identical catchphrases.",
     "She's the only Earth sensei without an alternate deco."
   ],
-  "trailers": [],
+  "trailers": [
+    {
+      "name": "The Making Of Skylanders Imaginators Figures With I-Wei! - Barbella!",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=w3R3g4LKXZo"
+    }
+  ],
   "gameplay": "Barbella uses her super-strength and boulder barbells in battle. With her boulder barbells she can smash enemies, and even use them to summon rock constructs, ranging from a large pair of stone hands, or a runic cube that she can push at enemies with great force. Her Sky-Chi has her lift her barbells which causes crystal shards to shoot out towards her foes.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Barbella",
   "abilities": {
     "basic": [
       {
         "name": "Barbell Bash",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Barbellaprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170504204440",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Barbellaprimarypower.png/revision/latest?cb=20170504204440",
         "content": "Press Attack 1 to whack, thwack and smash with your Boulder Barbells.",
         "is_primary": true,
         "is_secondary": false,
@@ -92,7 +98,7 @@
       },
       {
         "name": "Rocky Rep",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fd/Barbellasecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170504204445",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fd/Barbellasecondarypower.png/revision/latest?cb=20170504204445",
         "content": "Press Attack 2 to create stone hands that pull enemies towards you.",
         "is_primary": false,
         "is_secondary": true,
@@ -106,7 +112,7 @@
     "basic_upgrades": [
       {
         "name": "Cubic Runic Rock",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/01/Barbellabasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504204453",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/01/Barbellabasicupgrade1.png/revision/latest?cb=20170504204453",
         "content": "Press Attack 3 to conjure a giant rock that damages enemies near it and can be launched to explode into Rock Crystals.",
         "is_primary": false,
         "is_secondary": false,
@@ -118,7 +124,7 @@
       },
       {
         "name": "Unsteady Ground",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Barbellabasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504204500",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Barbellabasicupgrade2.png/revision/latest?cb=20170504204500",
         "content": "Attack 1 triple-combo covers a larger area, dealing more bonus damage to closer enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -130,7 +136,7 @@
       },
       {
         "name": "Have a Gneiss Day",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/51/Barbellabasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504204510",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/51/Barbellabasicupgrade3.png/revision/latest?cb=20170504204510",
         "content": "Rocky Rep's stone hands create Rock Crystals you can launch at foes with Barbell Bash.",
         "is_primary": false,
         "is_secondary": false,
@@ -142,7 +148,7 @@
       },
       {
         "name": "Rocks in a Hard Place",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Barbellabasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170504204514",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Barbellabasicupgrade4.png/revision/latest?cb=20170504204514",
         "content": "Press Attack 2 during Rocky Rep to create Rock Crystals.",
         "is_primary": false,
         "is_secondary": false,
@@ -156,7 +162,7 @@
     "soulgems": [
       {
         "name": "Taken for Granite",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/62/Barbellasoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170504204522",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/62/Barbellasoulgempower.png/revision/latest?cb=20170504204522",
         "content": "Press Attack 2 five times to buff yourself. You take less damage. Rock Crystals spawn over time. Attack 1 pulls Rock Crystals.",
         "is_primary": false,
         "is_secondary": false,
@@ -165,10 +171,13 @@
           "header": "#d04c8e",
           "bg_content": "#EDA"
         }
-      },
+      }
+    ],
+    "wow_pows": [
       {
+        "season": 6,
         "name": "Do You Even Lift?",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Barbellaskychipower.png/revision/latest/scale-to-width-down/148?cb=20170504204526",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Barbellaskychipower.png/revision/latest?cb=20170504204526",
         "content": "The ultimate Sensei attack! Hold Special Attack for a Sensei-tional workout! Aim with Left Stick to shoot out Crystal Shards at your enemies!",
         "is_primary": false,
         "is_secondary": false,
@@ -179,14 +188,13 @@
         }
       }
     ],
-    "wow_pows": [],
     "upgrade_paths": [
       {
         "path_name": "Seismic Smasher",
         "abilities": [
           {
             "name": "Gifts of the Deadlift",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Barbellapath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504213240",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Barbellapath1upgrade1.png/revision/latest?cb=20170504213240",
             "content": "Rock Crystals will pound the ground when you press Attack 1. Press Attack 1 thrice to create Rock Crystals.",
             "is_primary": false,
             "is_secondary": false,
@@ -198,7 +206,7 @@
           },
           {
             "name": "Caving In",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/56/Barbellapath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504213246",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/56/Barbellapath1upgrade2.png/revision/latest?cb=20170504213246",
             "content": "Barbell Bash does even more damage and the shockwave extends further.",
             "is_primary": false,
             "is_secondary": false,
@@ -210,7 +218,7 @@
           },
           {
             "name": "Rocky Roads",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Barbellapath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504213252",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Barbellapath1upgrade3.png/revision/latest?cb=20170504213252",
             "content": "Press Attack 1 thrice to send out cascading earthquakes.",
             "is_primary": false,
             "is_secondary": false,
@@ -227,7 +235,7 @@
         "abilities": [
           {
             "name": "For the Crater Good",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/34/Barbellapath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504213256",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/34/Barbellapath2upgrade1.png/revision/latest?cb=20170504213256",
             "content": "Damaging enemies sometimes spawns a Rock Crystal.",
             "is_primary": false,
             "is_secondary": false,
@@ -239,7 +247,7 @@
           },
           {
             "name": "Rocky Rebound",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/07/Barbellapath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504213300",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/07/Barbellapath2upgrade2.png/revision/latest?cb=20170504213300",
             "content": "Rock Crystals will return to their targets when they fly out.",
             "is_primary": false,
             "is_secondary": false,
@@ -251,7 +259,7 @@
           },
           {
             "name": "Boulder and All the Wiser",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/39/Barbellapath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504213304",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/39/Barbellapath2upgrade3.png/revision/latest?cb=20170504213304",
             "content": "Rock Crystals spawn more frequently when damaging enemies. Rock Crystals critically hit on their return trip.",
             "is_primary": false,
             "is_secondary": false,
