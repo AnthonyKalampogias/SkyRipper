@@ -4,6 +4,7 @@
   "species": "Whale-like Behemoth",
   "gender": "Male",
   "element": "Water",
+  "role": "Giant",
   "primary_game": "Skylanders: Lost Islands (September 2013)",
   "appearances": [
     "Skylanders: Lost Islands"
@@ -14,11 +15,19 @@
   ],
   "description": "Admiral Thumpback is a sailor counterpart of Thumpback exclusive to Skylanders: Lost Islands.",
   "biography": "Admiral Thumpback is a sailor counterpart of Thumpback exclusive to Skylanders: Lost Islands. Unlike the other Lost Islands-exclusive Skylanders, he cannot be owned from the Wishing Well. Instead, you can only get him by paying 2,000 Kudos.",
-  "personality": "",
-  "story": [],
+  "quote": "Admiral Thumpback has sailed into the kingdom!",
+  "personality": "Not much is known about Admiral Thumpback's personality, other than his role as a sailor counterpart to Thumpback.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Admiral Thumpback is a sailor counterpart of Thumpback exclusive to Skylanders: Lost Islands. Unlike the other Lost Islands-exclusive Skylanders, he cannot be owned from the Wishing Well. Instead, you can only get him by paying 2,000 Kudos.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Admirał_Thumbpack.JPG/revision/latest?cb=20140816053424"
+    }
+  ],
   "quotes": [
     {
-      "quote_type": "description",
+      "quote_type": "Admiral Thumpbacks's description",
       "content": [
         "Admiral Thumpback has sailed into the kingdom!"
       ]
@@ -34,7 +43,7 @@
     "He is also the only Lost Islands-exclusive Skylander who is always available."
   ],
   "trailers": [],
-  "gameplay": "",
+  "gameplay": "Admiral Thumpback is the only Lost Islands-exclusive Skylander to be a Giant and the only one that must be bought by Kudos. Unlike other characters in the game, he cannot be obtained through the Wishing Well and is instead always available for purchase for 2,000 Kudos.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Admiral_Thumpback",
   "abilities": {
     "basic": [],
