@@ -31,8 +31,14 @@
   "personality": "Never tell Bash he can't do something. This resourceful, stubborn Skylander will keep on rolling until he's proved you wrong. He never gives up without a fight. Despite his gruff disposition, Bash is very sensitive about his inability to fly.",
   "story": [
     {
+      "story_name": "Character Development",
+      "content": "Bash was originally called Rock Dragon and was one of the first five original Skylanders for the cancelled project, Spyro's Kingdom. During development, he underwent numerous character designs before being finalized into something more specific: Bash. Bash's moveset was relatively straightforward; roll close to enemies and smash them with your mace tail. Some of the touches put into Bash's roll ability were variable yaw correction based on the normal of a wall you hit. There was a minor correction threshold, a major correction threshold, and a stop/impact threshold. The corrections gave his roll a fluid feeling. Additionally, the move loses speed as it ends. Nat Loh received frequent feedback that the roll ending abruptly felt bad for players so the slow down at the end successfully and almost subliminally conveyed to the player what was previously frustrating, a necessary game-balancing action.",
+      "hasImage": false,
+      "imgPath": "none"
+    },
+    {
       "story_name": "History",
-      "content": "From an early age there was something that set Bash apart. He was a dragon without wings! But Bash wasn't content to sit around feeling sorry for himself. He would curl up into a tight ball and make a terrific take-off. His speed as he careened across the plains was something to behold - and the more he rolled, the rougher and tougher his skin became. Then the dark day came. A huge flying machine was catching Bash's dragon friends in massive nets. Fired up with fury, he curled up and chased it to the very edge of his floating island. There, Bash launched himself like a bouncing bomb and busted through the side of the airship, creating a colossal hole for his friends to escape through. Having witnessed the entire event through his portal, Master Eon was blown away by Bash's courage and loyalty and made him a Skylander on the spot.",
+      "content": "From an early age there was something that set Bash apart. He was a dragon without wings! But Bash wasn't content to sit around feeling sorry for himself. He would curl up into a tight ball and make a terrific take-off. His speed as he careened across the plains was something to behold - and the more he rolled, the rougher and tougher his skin became. Then the dark day came. A huge flying machine was catching Bash's dragon friends in massive nets. Fired up with fury, he curled up and chased it to the very edge of his floating island. There, Bash launched himself like a bouncing bomb and busted through the side of the airship, creating a colossal hole for his friends to escape through. Having witnessed the entire event through his portal, Master Eon was blown away by Bash's courage and loyalty and made him a Skylander on the spot. During his time as a Skylander, Bash still longed for the ability to fly. One night, he made a wish that he could fly, and without warning, he saw a shooting star fall from the sky and land in a nearby valley. Bash investigated the crash site and saw a gem-like dragon named Flashwing emerging from a large geode that was the falling star. The earth dragon immediately became attracted to Flashwing. But when he approached her, Flashwing attacked Bash, not knowing whether he was friend or foe, sending the earth dragon flying off of the cliff they were on, and ironically fulfilling Bash's wish to fly.",
       "hasImage": false,
       "imgPath": "none"
     },
@@ -59,31 +65,32 @@
         "Next time, dig deeper!",
         "Grounded and pounded!",
         "I can bash with the best!",
-        "Get ready to rock!",
-        "Here I come!",
-        "This is my turf!",
-        "Let the good times roll!",
-        "Bigger and boulder!",
-        "Yeah, rock it to me!",
-        "Liking these rocks!",
-        "Hey, these rock!",
-        "Hmm, mighty impressive!",
-        "Great!",
-        "I can definitely rock this!",
-        "Great name!",
-        "Call me whatever, I got thick skin!",
-        "Come on, let's get rollin'!",
-        "Getting stone cold out here!"
+        "Get ready to rock! - When opening a barrier",
+        "Here I come! - When opening a barrier",
+        "This is my turf! - When entering an elemental gate",
+        "Let the good times roll! - When leveling up",
+        "Bigger and boulder! - When leveling up",
+        "Yeah, rock it to me! - When opening a treasure chest",
+        "Liking these rocks! - When opening a treasure chest",
+        "Hey, these rock! - When viewing stats",
+        "Hmm, mighty impressive! - When viewing stats",
+        "Great! - When putting on a hat",
+        "I can definitely rock this! - When putting on a hat",
+        "Great name! - When given a nickname",
+        "Call me whatever, I got thick skin! - When given a nickname",
+        "Come on, let's get rollin'! - Unused idle line",
+        "Getting stone cold out here! - Unused idle line"
       ]
     }
   ],
   "trivia": [
-    "Many fans mistake him for being a dinosaur due to his resemblance to an Ankylosaurus (and Triceratops, if he is equipped with the Triceratops Honor Guard Soul Gem power). He also bears a slight resemblance to Doedicurus with Postosuchus and Styracosaurus features.",
+    "Many fans mistake him for being a dinosaur due to his resemblance to an Ankylosaurus (and Triceratops, if he is equipped with the Triceratops Honor Guard Soul Gem power).",
+    "He also bears a slight resemblance to Doedicurus with Postosuchus and Styracosaurus features.",
     "Over the years, Bash has jumped off cliffs, leapt from airships and even launched himself into the sky from a giant catapult in his attempts at flying. He always makes a painful landing, but he refuses to give up and insists that one day he'll soar like the other dragons.",
     "One of his upgrades, Iron Tail, share its name with a Pokémon move.",
     "Despite the upgrade description saying he rolls into a ball, Bash rolls more in the form of a wheel, like a Droideka from the Star Wars series.",
     "Series 2 Bash has his Iron Tail and Triceratops Honor Guard upgrades, giving him a steel-plated skull and a metal plated tail.",
-    "His catchphrase is the base of Wrecking Ball's (\"Wreck-n-Roll!\") and Snap Shot's (\"Croc and Roll!\").",
+    "His catchphrase is the base of Wrecking Ball's ('Wreck-n-Roll!') and Snap Shot's ('Croc and Roll!').",
     "In Skylanders: Spyro's Adventure: Master Eon's Official Guide, it incorrectly states that he is a Tech Skylander.",
     "He and Ghost Roaster both have spikeballs attached to them.",
     "Bash's quote, 'Rock it to me!' is a play on the term 'Sock it to me!'",
@@ -96,7 +103,7 @@
     {
       "name": "Skylanders Spyro's Adventure - Bash Trailer (Rock and Roll)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Bash_Trailer_(Rock_and_Roll)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_-_Bash_Trailer_(Rock_and_Roll)"
     },
     {
       "name": "Meet the Skylanders Bash (extended)",
@@ -106,16 +113,16 @@
     {
       "name": "Skylanders- Spyro's Adventure - Bash Preview Trailer (Rock 'n' Roll)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders-_Spyro%27s_Adventure_-_Bash_Preview_Trailer_(Rock_%27n%27_Roll)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders-_Spyro's_Adventure_-_Bash_Preview_Trailer_(Rock_'n'_Roll)"
     },
     {
       "name": "Skylanders Giants - Meet the Skylanders - Series 2 Bash (Rock and Roll)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Series_2_Bash_%28Rock_and_Roll%29"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Series_2_Bash_(Rock_and_Roll)"
     }
   ],
   "gameplay": "Bash uses his spiky tail to slam and strike his opponents away using a 360 degree tailspin. He can also summon rocks to rise from the ground to scramble his enemies. His signature attack is Rock Roll, which involves him curling up into a spiky ball and steamrolling into his enemies.",
-  "wiki_url": "https://skylanders.fandom.com/wiki/Bash",
+  "wiki_url": "https://skylander.fandom.com/wiki/Bash",
   "abilities": {
     "basic": [
       {
@@ -342,6 +349,22 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "25"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "85"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "20"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Bash"
