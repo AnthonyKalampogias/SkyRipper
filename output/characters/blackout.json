@@ -29,7 +29,7 @@
       "story_name": "Light in the Dark",
       "content": "After eating a piece of candy and being unconscious for an unknown amount of time, Blackout and Spotlight found themselves inside a strange place with an opening at the top. However, before they could do anything, the area started to become flooded with candy, threatening to drown the two Skylanders. Both Spotlight and Blackout were unable to break themselves out on their own, but by combining their Light and Dark powers, the two dragons managed to escape. They discovered that they had been inside a giant piñata with Arkeyan ruins, and quickly flew away to alert Master Eon. From afar, Pain-Yatta announced his plans of a 'candy catastrophe' that the Skylanders wouldn't be able to stop in time. After reporting back to Master Eon at the Skylanders Academy about what happened to them, Spotlight and Blackout soon discovered through Gearshift's report that Pain-Yatta used their Light and Dark powers to create an army of candy warriors to rule Skylands. Upon learning about Pain-Yatta's plan, Master Eon sent Spotlight and Blackout back to the Arkeyan ruins in order to find out any clues about the attack. Once there, the two dragons were ambushed by a horde of candy warriors until Knight Light and Knight Mare came to assist their fellow Skylanders. However they were soon confronted by Pain-Yatta, who released a wave of candy upon the four Light and Dark Skylanders. Blackout, Spotlight, Knight Light and Knight Mare became imprisoned inside Pain-Yatta's giant pinata to power him and his army of candy warriors during their impending conquest over Skylands. Should they use their powers of Light and Dark to try and escape their prison, they would only make Pain-Yatta and his army stronger. Eventually the Skylanders concocted a plan to overload the pinata with their powers, causing it to explode and allowing the Skylanders to escape. Despite absorbing the Light and Dark energies to empower himself, Pain-Yatta suddenly became sick from taking in too much power and his candy warriors around Skylands dropped to pieces, resulting in Pain-Yatta's defeat. At the Skylanders Academy, Master Eon congratulated the Light and Dark Skylanders for their efforts in saving Skylands once again with their Light and Dark abilities.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Blackout_Spotlight.png/revision/latest/scale-to-width-down/258?cb=20150526025726"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Blackout_Spotlight.png/revision/latest?cb=20150526025726"
     }
   ],
   "quotes": [
@@ -76,23 +76,24 @@
     "Statues of Blackout can be seen on the ledges of the Midnight Museum.",
     "The Legendary Treasure, Legendary Gargoyle, is based on Blackout.",
     "Blackout's wings appear in the design of the Dark towers in Kaos Doom Challenges.",
+    "His dark skin color, dream teleportation and manipulation, horn and wings, and night motif also makes him similar to Princess Luna aka Nightmare Moon from the same series.",
     "Although Blackout has wings, he cannot fly. However, the Cloud Gravity upgrade from his 'Prince of Darkness' path allows him to fly over enemies for a short time."
   ],
   "trailers": [
     {
       "name": "Meet the Skylanders Blackout",
       "isValid": true,
-      "url": "/wiki/File:Meet_the_Skylanders_Blackout"
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Blackout"
     },
     {
       "name": "Skylanders Trap Team - Blackout's Soul Gem Preview (Darkness Falls)",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Trap_Team_-_Blackout's_Soul_Gem_Preview_(Darkness_Falls)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Blackout's_Soul_Gem_Preview_(Darkness_Falls)"
     },
     {
       "name": "Skylanders Power Play Blackout",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Power_Play_Blackout"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Blackout"
     }
   ],
   "gameplay": "Blackout can fire orbs of darkness from his horn and summon black holes with a flick of his wings. Using the powers of the Dark element, he can teleport through his black holes from one to place to another. His wings are elastic, allowing Blackout to stretch his wings and whip them at enemies.",
@@ -276,7 +277,7 @@
   },
   "variants": [
     {
-      "id": "blackout",
+      "id": "blackout_s1",
       "variant_name": "Blackout",
       "edition": "Series 1",
       "type": "Core",
