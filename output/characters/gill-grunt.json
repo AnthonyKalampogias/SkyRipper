@@ -41,14 +41,38 @@
     {
       "story_name": "History",
       "content": "Gill Grunt grew up in a typical Gillmen city on the ocean bottom. From his glass bedroom bubble window, he would gaze out at circling cyber squid and menacing mega sharks. He couldn't have been more bored. So he joined the toughest military corps ever to soldier in salt water: the Gillmen marines. His first tour of duty sent him to a far-flung floating cloud land in the sky. Here, by the waters of a misty lagoon, Gill was disarmed by the unlikeliest of opponents - an enchanting mermaid. With his jaw on the ground and eyes bulging even more than usual, Gill was smitten. He vowed to return as soon he had stonkered enough spit spiders.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/Spyro_and_Gill_Grunt1.jpg"
     },
     {
       "story_name": "The Machine of Doom",
       "content": "On Eon's island, Gill Grunt was celebrating the Skylanders' latest victory over the forces of evil with a song, much to the Skylanders' discomfort. Afterwards, the Gillman was sent on a mission with Spyro and Eruptor to the Mabu Market to check on Hugo and Flynn's report of flying sheep attacking. They soon found out that the sheep weren't really flying, but were carried by invisible trolls led by a Spell Punk who were looking for an item called the Chattering Key for Kaos. Gill Grunt later embark on a journey with Spyro, Boomer, Flynn, and Eruptor to the Forest of Fear to find the Chattering Key, which was used to unlock a tomb that contained an Arkeyan weapon. The Gillman fell victim to the Fungus Rings of Despair, and his worst fear came to life as he hallucinated being barbecued alive by two trolls who intend on eating Gill Grunt. Spyro soon saved Gill Grunt from his nightmare along with the other Skylanders, and make their way through the Forest of Fear.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Machine_of_Doom_Illustration10.jpg"
+    },
+    {
+      "story_name": "Gill Grunt and the Curse of the Fish Master",
+      "content": "As the Skylanders finished repairing the damage done to the Eternal Archives, Spyro called Gill Grunt over to the halls of the Archives so that he and the Gillmen could look into the Book of Power with Master Eon, Hugo, and Wiggleworth. Realizing that Kaos had already found the Tech fragment of the Mask and wanted to reassemble the Mask to use the it to destroy the Core of Light, Spyro and Gill Grunt became determined to find the rest of the fragment before the evil Portal Master does. Master Eon was able to find the location of the next fragment from the Book of Power and sent Gill Grunt to Deep Water Wasteland to locate it. Gill Grunt, Zap, and Wham-Shell narrowly escaped a pirate attack by Captain Grimslobber and went to the Kingdom of the Merpeople, where they discovered the merfolk were being enslaved by the Fish Master's Crown. Gill Grunt fell under the control of the Crown but was able to break free, helping to defeat Grimslobber and recover the Water Fragment.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Zap,_Gill,_Wham-Shell,_and_Grimslobber.jpg"
+    },
+    {
+      "story_name": "The Kaos Trap",
+      "content": "When Hugo called upon the Skylander Teams to help out Stealth Elf, Pop Fizz and Wash Buckler against an army of trolls, Gill Grunt's group of Skylanders was busy evacuating the inhabitants of Stonetown before the town's dam would wash them away. While carrying two villagers to safety, Gill Grunt apologized to Hugo but suggested the Mabu to call someone else who was available.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/GillGrunt_Team.png"
+    },
+    {
+      "story_name": "Rift into Overdrive",
+      "content": "Gill Grunt was one of the Skylander party-goers who celebrated the last day of school at the Skylanders Academy. When Kaos escaped his Traptanium prison and cut off the connection between Portals and other worlds, Gill Grunt joined the team to find the Rift Engines. During the battle in an underwater city, Gill Grunt was chosen by a Water-elemental Rift Engine and transformed into his SuperCharged form, using his newfound powers to help stop Kaos' latest plan.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Imaginators",
+      "content": "When Spyro and Stealth Elf were racing one another, Gill Grunt was one of the Skylander spectators at the start of the race. The Gillman and his team later patrolled the Mushroom River, but Gill wound up falling asleep on the job. Gill became one of the Skylanders who were brainwashed by Kaos and his new ally Ancient Brain, but was freed afterwards. He can be found in the Sensei Water Realm as the chapter's Storyteller.",
+      "hasImage": false,
+      "imgPath": ""
     }
   ],
   "quotes": [
@@ -110,20 +134,55 @@
     "Although Gill Grunt's biography and later games state that he still searches for his mermaid girlfriend after joining the Skylanders, Alex Ness mentioned that the Gillman eventually rescued her before he became a Skylander.",
     "On Gill Grunt's old render image for Spyro's Adventure, he originally had a mad-looking frown on his face. So it was redesigned giving him a smile on his face.",
     "Despite being one of the Skylanders who can speak English in Spyro's Adventure, Gill Grunt still has few of his original gibberish lines.",
-    "Gill Grunt is the only Skylander in the starter pack for Spyro's Adventure who doesn't have a Legendary counterpart.",
+    "Gill Grunt is the only Skylander in the starter pack for Spyro's Adventure who doesn't have a Legendary counterpart. He is also the only console version starter to have an evil counterpart.",
     "His gameplay is similar to that of F.L.U.D.D.'s from Super Mario Sunshine.",
-    "He and Jet-Vac share various similarities, including using large guns and wearing jetpacks."
+    "He and Jet-Vac share various similarities, including using large guns and wearing jetpacks.",
+    "Gill Grunt is the only Skylander whose Series 3 counterpart's appearance remains the same as before (shared with Trigger Happy and Eruptor).",
+    "In Spyro's Adventure, he was given a high voice with a French accent. In Giants and the rest of the future title Series, he was given a tougher and scratchier voice with an American accent.",
+    "Gill Grunt is the only Skylander to have a Series 4 version of himself in Trap Team.",
+    "He is the only Water Skylander to have a Series 3 figure.",
+    "Series 2 Gill Grunt's figure and artwork design is impossible to get in game as the design has the first upgrade from both paths."
   ],
   "trailers": [
     {
       "name": "Skylanders Spyro's Adventure Gill Grunt Trailer",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_Gill_Grunt_Trailer"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_Gill_Grunt_Trailer"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure GamesCom 2011 Trailer - Gill Grunt",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_GamesCom_2011_Trailer_-_Gill_Grunt"
+    },
+    {
+      "name": "Skylanders Spyro's Adventures Extraction- Gill Grunt (Wii)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventures_Extraction-_Gill_Grunt"
+    },
+    {
+      "name": "Gill Grunt Soul Gem (Spyro's Adventure)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Gill_Grunt_Soul_Gem_(Spyro's_Adventure)"
     },
     {
       "name": "Skylanders Giants - Meet the Skylanders - Series 2 Gill Grunt (Fear the Fish)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Series_2_Gill_Grunt_%28Fear_the_Fish%29"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Series_2_Gill_Grunt_(Fear_the_Fish)"
+    },
+    {
+      "name": "Gill Grunt Soul Gem (Giants)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Gill_Grunt_Soul_Gem_(Giants)"
+    },
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Anchors Away Gill Grunt",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Anchors_Away_Gill_Grunt"
+    },
+    {
+      "name": "Meet the Skylanders Tidal Wave Gill Grunt",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Tidal_Wave_Gill_Grunt"
     }
   ],
   "gameplay": "Gill Grunt can shoot harpoons and also launch torrents of water at his enemies using his harpoon gun. He can also use his water jet pack to hover above ground, and even fly.",
@@ -380,6 +439,108 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "25 (Max: 100)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Gill_Grunt"
+    },
+    {
+      "id": "gill-grunt-s2",
+      "variant_name": "Series 2 Gill Grunt",
+      "edition": "Series 2",
+      "type": "Core Skylander",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f5/Series_2_Gill_Grunt_Promo.jpg",
+      "attacks": [
+        "Harpoon Gun",
+        "Water Cannon",
+        "Boiling Water Hose",
+        "Water Jet Pack",
+        "Anchor Cannon"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "85"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "85"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Gill_Grunt"
+    },
+    {
+      "id": "gill-grunt-s3",
+      "variant_name": "Anchors Away Gill Grunt",
+      "edition": "Series 3",
+      "type": "Core Skylander",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d0/S3_Gill_Grunt_Promo.jpg",
+      "attacks": [
+        "Harpoon Gun",
+        "Water Cannon",
+        "Boiling Water Hose",
+        "Water Jet Pack",
+        "Anchor Cannon"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "105"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "95"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Gill_Grunt"
+    },
+    {
+      "id": "gill-grunt-s4",
+      "variant_name": "Tidal Wave Gill Grunt",
+      "edition": "Series 4",
+      "type": "Core Skylander",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/20/Anchor.jpg",
+      "attacks": [
+        "Harpoon Gun",
+        "Water Cannon",
+        "Boiling Water Hose",
+        "Water Jet Pack",
+        "Anchor Cannon"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "110"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Gill_Grunt"
