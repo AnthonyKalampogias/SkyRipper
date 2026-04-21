@@ -216,7 +216,7 @@
       },
       {
         "name": "Sharper Sabers",
-        "imgPath": "Blaster-Tron_(character)basicupgrade4.png,",
+        "imgPath": "Blaster-Tron_(character)basicupgrade4.png",
         "content": "Saber Slash does more damage. Press Attack 1, Attack 1, Attack 2 to pull enemies towards you. Press Attack 1, Attack 1, Attack 3 to launch enemies upwards.",
         "is_primary": false,
         "is_secondary": false,
