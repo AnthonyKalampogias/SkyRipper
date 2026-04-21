@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-21T21:01:48.506Z",
+  "last_run": "2026-04-21T22:20:45.745Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -8,6 +8,82 @@
     {
       "name": "Admiral Thumpback",
       "sha": "252aba879ace3194dff3d4769dac24e6cc2ec932d5a54f043d42f67820c02a74"
+    },
+    {
+      "name": "Air Strike",
+      "sha": "fc2a8192a42412a1e97f6de249ceba3a98459f0805444319ab941728c8ea5578"
+    },
+    {
+      "name": "Ambush",
+      "sha": "dcad9d1c7f7485866185447a6cc0c57daf78af3c5a3b2e770025dc18fb542b0f"
+    },
+    {
+      "name": "Astroblast",
+      "sha": "83c192fe833636c6083c67d00532172c18fe3017cb6be828950643ee90549cdf"
+    },
+    {
+      "name": "Aurora",
+      "sha": "05dd6666677b65defc572428ee299a439469b3cb1ef15dcc0fdb892c241e367e"
+    },
+    {
+      "name": "Autumn Stump Smash",
+      "sha": "f16d45f228cf33914f4a8fd686354e22138de658fc0a4d408d56f487de1f4aa6"
+    },
+    {
+      "name": "Awakened Forms",
+      "sha": "7ce3d6e6d566948f55ed5ff452a231b54dd728f2fbe19ad5e61f5cd9ee94b8ea"
+    },
+    {
+      "name": "Bad Breath",
+      "sha": "9b6a59c4dc518b9eea376e588b7b4a716be0e1d7fb229010c569087992fef3ab"
+    },
+    {
+      "name": "Bad Juju",
+      "sha": "026c4433c796e8ba29153420b8fb65a5ce49c1e400ab43c6596ea33baa72fd68"
+    },
+    {
+      "name": "Barbella",
+      "sha": "7f794f2cb1c185b27fff901fb0d294ca7c96c6eee713756e3cb5de7da164ce92"
+    },
+    {
+      "name": "Barkley",
+      "sha": "80ac01c96866d7a382206d0a9ab084985e12d1863df149111ba5302a6ae5fbea"
+    },
+    {
+      "name": "Bash",
+      "sha": "9886f08556c2489379fa12def5739cd3da5f2147a809ebe08ac6e5f322078e85"
+    },
+    {
+      "name": "Bat Spin",
+      "sha": "cbd4fd9b8abe426479c560f2995c2c21e06c62ecced431d55a70d702b548d418"
+    },
+    {
+      "name": "Big Bubble Pop Fizz",
+      "sha": "16ac54c071413f6371f6498d15985723fd794e6586340bf3902d23d81e01daf8"
+    },
+    {
+      "name": "Birthday Bash Big Bubble Pop Fizz",
+      "sha": "f6a38a217a282272fc1d3c3414a217918ccbf59c9e6144ce97fed015c2e1c28e"
+    },
+    {
+      "name": "Birthday Bash",
+      "sha": "1ebdb2dd718f90995e621c27458fbcded4b99f532ba4ac4eeda6785bff6550a1"
+    },
+    {
+      "name": "Blackout",
+      "sha": "fd514f2ec0f789880a0fef21faa606f36fc2087761414a0326c55bb359497d31"
+    },
+    {
+      "name": "Blades",
+      "sha": "429f352f154b4029a95f19e47a7a8f2ccd9771d1779ef5bed44894e6e0202e89"
+    },
+    {
+      "name": "Blast Zone",
+      "sha": "1860bde9ee6b0a69013fbfe83d652317ca15531c3b7456ca2396658ec036a5d8"
+    },
+    {
+      "name": "Blaster-Tron",
+      "sha": "0010b6f2c3c8a154adca27073bed1c7f57516bc45c9fade321164787df1ee5b5"
     }
   ]
 }
