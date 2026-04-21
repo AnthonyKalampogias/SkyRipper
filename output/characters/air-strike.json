@@ -1,7 +1,7 @@
 {
   "id": "air-strike",
   "name": "Air Strike",
-  "species": "Unknown (Air Strike) Blue Zephyr Falcon (Birdie)",
+  "species": "Unknown (Air Strike), Blue Zephyr Falcon (Birdie)",
   "gender": "Male (both)",
   "element": "Air",
   "role": "Sensei",
@@ -15,9 +15,17 @@
     "Skylands"
   ],
   "description": "Air Strike and Birdie are an Air elemental falconer Sensei and his Blue Zephyr Falcon friend in Skylanders: Imaginators that teach Imaginators of the Brawler Class. They are available in the Gryphon Park Observatory Adventure Pack.",
-  "biography": "Before he began training Brawlers, Air Strike trained birds – especially the rare Blue Zephyr Falcons. They were once one of Skylands' most endangered species, but Air Strike taught them how to defend themselves from predators... and not fly into windows. Birds would come from all over Skylands to learn his proven techniques. But despite their new defensive skills, the Blue Zephyr Falcons continued to be hunted by a band of evil trolls, who liked to use their eggs in blue-bacon omelets. So it was time for Air Strike to strike back! He journeyed to the peak of the Zephyr Mountain and single-handedly took down the trolls, rescuing the stolen eggs. After returning them to their mother, one of the eggs hatched, revealing a very energetic Falcon that would not leave his side. Air Strike named him “Birdie” – and together, they now use their skills to train Skylanders, despite Master Eon’s crippling fear of falcons.",
-  "personality": "",
-  "story": [],
+  "biography": "Before he began training Brawlers, Air Strike trained birds – especially the rare Blue Zephyr Falcons. They were once one of Skylands' most endangered species, but Air Strike taught them how to defend themselves from predators... and not fly into windows. Birds would come from all over Skylands to learn his proven techniques. But despite their new defensive skills, the Blue Zephyr Falcons continued to be hunted by a band of evil trolls, who liked to use their eggs in blue-bacon omelets. So it was time for Air Strike to strike back! He journeyed to the peak of the Zephyr Mountain and single-handedly took down the trolls, rescuing the stolen eggs. After returning them to their mother, one of the eggs hatched, revealing a very energetic Falcon that would not leave his side. Air Strike named him 'Birdie' – and together, they now use their skills to train Skylanders, despite Master Eon's crippling fear of falcons.",
+  "quote": "Fight and Flight!",
+  "personality": "Air Strike is a dedicated trainer of birds who rescued the rare Blue Zephyr Falcons from extinction. His companion Birdie is a very energetic Falcon that refuses to leave his side.",
+  "story": [
+    {
+      "story_name": "Physical Traits",
+      "content": "Air Strike is a short blue creature wearing gold lined black armor. Like all master senseis, Air Strike wears a golden karate belts around his waist. Birdie is a Blue Zephyr Falcon wearing silver blades on its wings.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
   "quotes": [
     {
       "quote_type": "Catchphrase",
@@ -43,7 +51,7 @@
         "These numbers ain't nothin' but numbers! Can't measure what's really inside a guy. Or bird...",
         "Ring-a ding ding!",
         "Sky-Chi smackdown!",
-        "Who wants some more of that, huh!"
+        "Who wants some more of that, huh?"
       ]
     }
   ],
@@ -55,9 +63,9 @@
     "When first placed on the portal, Air Strike grants Imaginators backpack wings that resemble Birdie's, and knuckles fashioned after metal wings when his Shrine is opened.",
     "Air Strike is the only Sensei who doesn't use any kind of weapon in combat, as other Brawlers have wrist blades (King Pen), gloves with metal knuckles (Crash Bandicoot) or large natural gauntlets (Grave Clobber).",
     "When Air Strike is driving a vehicle, Birdie is absent.",
-    "Air Strike is the first Air Skylander to have the word \"Air\" in his name.",
+    "Air Strike is the first Air Skylander to have the word 'Air' in his name.",
     "Air Strike shares many physical similarities with Tread Head, including proportions, stature and facial features.",
-    "Air Strike's catchphrase (\"Fight and Flight!\") is a reference to the survival instinct, the fight or flight response, that prepares one for either fighting or fleeing a life or death situation.",
+    "Air Strike's catchphrase ('Fight and Flight!') is a reference to the survival instinct, the fight or flight response, that prepares one for either fighting or fleeing a life or death situation.",
     "Air Strike was the most difficult and expensive figure to make within the game's available budget, as there were so many parts on them that Toys For Bob struggled to get the cost down. As a result, Air Strike's colors had to be tweaked and parts of his and Birdie's armor had to be removed."
   ],
   "trailers": [],
@@ -247,7 +255,7 @@
             "price": 3000,
             "colors": {
               "header": "#6DF",
-              "bg_content": "#BFF"
+              "bg_content": "#BFFNavigator"
             }
           }
         ]
@@ -308,6 +316,60 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Air_Strike"
+    },
+    {
+      "id": "egg-bomber-air-strike",
+      "variant_name": "Egg Bomber Air Strike",
+      "edition": "Special Edition",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/75/Air_Strike_Promo.jpg",
+      "attacks": [
+        "Bird Brawl",
+        "Bird Dive Bomb",
+        "Spinning Bird Fist",
+        "Eye of the Storm",
+        "Free Range Eggs"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "???"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "190"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "250"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "160"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Egg_Bomber_Air_Strike"
     }
   ]
 }
