@@ -20,15 +20,15 @@
     "Sardonic Mountains"
   ],
   "description": "Blastermind is a purple alien-like Magic Trap Master who appeared in Skylanders: Trap Team.",
-  "biography": "Blastermind was once the \"hide and sheep\" champion of the Sardonic Mountains, where he and his friends played regularly. But when he was about to set a new Skylands record, the ground collapsed and Blastermind fell into a deep, mysterious cavern filled with shimmering crystals. As his friends circled the hole up top, they suddenly found themselves face to face with a dangerous Ham Dragon, who had felt the rumble of the collapse. Down below, Blastermind felt helpless. But fortunately, the cavern was filled with Psionic Power Crystals once used by the Ancients to amplify their thoughts. When the crystals \"heard\" Blastermind's worried thoughts about saving his friends, they found him worthy – and bestowed upon him awesome psionic powers, which he used to get out of the hole and mentally blast the circling Ham Dragon. Soon after, Blastermind joined the Skylanders as part of the Trap Team, using his new Traptanium Psionic Helmet to fight evil everywhere!",
+  "biography": "Blastermind was once the 'hide and sheep' champion of the Sardonic Mountains, where he and his friends played regularly. But when he was about to set a new Skylands record, the ground collapsed and Blastermind fell into a deep, mysterious cavern filled with shimmering crystals. As his friends circled the hole up top, they suddenly found themselves face to face with a dangerous Ham Dragon, who had felt the rumble of the collapse. Down below, Blastermind felt helpless. But fortunately, the cavern was filled with Psionic Power Crystals once used by the Ancients to amplify their thoughts. When the crystals 'heard' Blastermind's worried thoughts about saving his friends, they found him worthy – and bestowed upon him awesome psionic powers, which he used to get out of the hole and mentally blast the circling Ham Dragon. Soon after, Blastermind joined the Skylanders as part of the Trap Team, using his new Traptanium Psionic Helmet to fight evil everywhere!",
   "quote": "Mind Over Matter!",
   "personality": "Blastermind is very attuned to the feelings of others and tries hard to help his friends with their problems whenever he can.",
   "story": [
     {
       "story_name": "Biography",
-      "content": "Blastermind was once the \"hide and sheep\" champion of the Sardonic Mountains, where he and his friends played regularly. But when he was about to set a new Skylands record, the ground collapsed and Blastermind fell into a deep, mysterious cavern filled with shimmering crystals. As his friends circled the hole up top, they suddenly found themselves face to face with a dangerous Ham Dragon, who had felt the rumble of the collapse. Down below, Blastermind felt helpless. But fortunately, the cavern was filled with Psionic Power Crystals once used by the Ancients to amplify their thoughts. When the crystals \"heard\" Blastermind's worried thoughts about saving his friends, they found him worthy – and bestowed upon him awesome psionic powers, which he used to get out of the hole and mentally blast the circling Ham Dragon. Soon after, Blastermind joined the Skylanders as part of the Trap Team, using his new Traptanium Psionic Helmet to fight evil everywhere!",
-      "hasImage": false,
-      "imgPath": ""
+      "content": "Blastermind was once the 'hide and sheep' champion of the Sardonic Mountains, where he and his friends played regularly. But when he was about to set a new Skylands record, the ground collapsed and Blastermind fell into a deep, mysterious cavern filled with shimmering crystals. As his friends circled the hole up top, they suddenly found themselves face to face with a dangerous Ham Dragon, who had felt the rumble of the collapse. Down below, Blastermind felt helpless. But fortunately, the cavern was filled with Psionic Power Crystals once used by the Ancients to amplify their thoughts. When the crystals 'heard' Blastermind's worried thoughts about saving his friends, they found him worthy – and bestowed upon him awesome psionic powers, which he used to get out of the hole and mentally blast the circling Ham Dragon. Soon after, Blastermind joined the Skylanders as part of the Trap Team, using his new Traptanium Psionic Helmet to fight evil everywhere!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Blastermind_Promo.jpg/revision/latest?cb=20141212181923"
     }
   ],
   "quotes": [
@@ -77,7 +77,7 @@
     "In-game, the Traptanium crystals on his head are crooked, but in artwork and figure, they are straight.",
     "He doesn't get any money if you use Lock Puzzle Psychic on a Lock Puzzle. However, in Skylanders: SuperChargers, he can perform his Soul Gem ability on any Lock Puzzle, whether they are on treasure chests or doors.",
     "When driving in SuperChargers, he steers telepathically.",
-    "He shares several similarities with the villain, Masker Mind: Both are purple creatures who float. Both have names which are plays on the term \"mastermind\". Both have quotes based on the phrase \"Mind over matter\". Both have abilities to temporarily control enemies."
+    "He shares several similarities with the villain, Masker Mind: Both are purple creatures who float. Both have names which are plays on the term 'mastermind'. Both have quotes based on the phrase 'Mind over matter'. Both have abilities to temporarily control enemies."
   ],
   "trailers": [
     {
@@ -88,7 +88,7 @@
     {
       "name": "Skylanders Trap Team - Blastermind's Soul Gem Preview (Mind Over Matter)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Blastermind%27s_Soul_Gem_Preview_(Mind_Over_Matter)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Blastermind's_Soul_Gem_Preview_(Mind_Over_Matter)"
     },
     {
       "name": "Skylanders Power Play Blastermind",
@@ -102,25 +102,25 @@
     "basic": [
       {
         "name": "Brainwaves",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/26/Blastermindprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505204453",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/26/Blastermindprimarypower.png/revision/latest?cb=20170505204453",
         "content": "Press Attack 1 to blast nearby enemies with powerful Brainwaves.",
         "is_primary": true,
         "is_secondary": false,
         "price": 0,
         "colors": {
-          "header": "black",
+          "header": "#A7B",
           "bg_content": "#EBF"
         }
       },
       {
         "name": "Levitation",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Blastermindsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170505204457",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Blastermindsecondarypower.png/revision/latest?cb=20170505204457",
         "content": "Press Attack 2 to levitate enemies and smash them to the ground.",
         "is_primary": false,
         "is_secondary": true,
         "price": 0,
         "colors": {
-          "header": "black",
+          "header": "#A7B",
           "bg_content": "#EBF"
         }
       }
@@ -128,49 +128,49 @@
     "basic_upgrades": [
       {
         "name": "Tasty Waves",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/29/Blastermindbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505204502",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/29/Blastermindbasicupgrade1.png/revision/latest?cb=20170505204502",
         "content": "Hold Attack 1 to use the Brainwave attack for a longer duration.",
         "is_primary": false,
         "is_secondary": false,
         "price": 500,
         "colors": {
-          "header": "black",
+          "header": "#A7B",
           "bg_content": "#EBF"
         }
       },
       {
         "name": "Brain Freeze",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Blastermindbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505204510",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Blastermindbasicupgrade2.png/revision/latest?cb=20170505204510",
         "content": "Press Attack 3 to create energy balls that slow enemies down.",
         "is_primary": false,
         "is_secondary": false,
         "price": 700,
         "colors": {
-          "header": "black",
+          "header": "#A7B",
           "bg_content": "#EBF"
         }
       },
       {
         "name": "Brain Storm",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c4/Blastermindbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505204517",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c4/Blastermindbasicupgrade3.png/revision/latest?cb=20170505204517",
         "content": "Hold Attack 1 to charge up the Brainwave attack, and release for a super-powered Brain Storm.",
         "is_primary": false,
         "is_secondary": false,
         "price": 900,
         "colors": {
-          "header": "black",
+          "header": "#A7B",
           "bg_content": "#EBF"
         }
       },
       {
         "name": "Down to Earth",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Blastermindbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170505204527",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Blastermindbasicupgrade4.png/revision/latest?cb=20170505204527",
         "content": "Levitated enemies damage other nearby foes during the smashdown.",
         "is_primary": false,
         "is_secondary": false,
         "price": 1200,
         "colors": {
-          "header": "black",
+          "header": "#A7B",
           "bg_content": "#EBF"
         }
       }
@@ -178,13 +178,13 @@
     "soulgems": [
       {
         "name": "Lock Puzzle Psychic",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Blastermindsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505204529",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Blastermindsoulgempower.png/revision/latest?cb=20170505204529",
         "content": "Hold Attack 2 to charge up Levitation attack and shoot Lock Puzzles with it to solve them instantly.",
         "is_primary": false,
         "is_secondary": false,
         "price": 4000,
         "colors": {
-          "header": "black",
+          "header": "#d04c8e",
           "bg_content": "#EBF"
         }
       }
@@ -196,37 +196,37 @@
         "abilities": [
           {
             "name": "Brain Blowout",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Blastermindpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506010840",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Blastermindpath1upgrade1.png/revision/latest?cb=20170506010840",
             "content": "Press Attack 1 near levitating enemies for a massive knockout.",
             "is_primary": false,
             "is_secondary": false,
             "price": 1700,
             "colors": {
-              "header": "black",
+              "header": "#A7B",
               "bg_content": "#EBF"
             }
           },
           {
             "name": "Remote Control",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Blastermindpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506010846",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Blastermindpath1upgrade2.png/revision/latest?cb=20170506010846",
             "content": "Hold Attack 2 to charge up the Levitation attack and control enemies you levitate.",
             "is_primary": false,
             "is_secondary": false,
             "price": 2200,
             "colors": {
-              "header": "black",
+              "header": "#A7B",
               "bg_content": "#EBF"
             }
           },
           {
             "name": "Mind Mash",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ec/Blastermindpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506010853",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ec/Blastermindpath1upgrade3.png/revision/latest?cb=20170506010853",
             "content": "While levitating an enemy, press Attack 1, Attack 2, or Attack 3 to slam them down repeatedly.",
             "is_primary": false,
             "is_secondary": false,
             "price": 3000,
             "colors": {
-              "header": "black",
+              "header": "#A7B",
               "bg_content": "#EBF"
             }
           }
@@ -237,37 +237,37 @@
         "abilities": [
           {
             "name": "Mind Control",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Blastermindpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506010905",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Blastermindpath2upgrade1.png/revision/latest?cb=20170506010905",
             "content": "Hold Attack 3 to create an energy ball that takes control of enemies' minds.",
             "is_primary": false,
             "is_secondary": false,
             "price": 1700,
             "colors": {
-              "header": "black",
+              "header": "#A7B",
               "bg_content": "#EBF"
             }
           },
           {
             "name": "The More The Merrier",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Blastermindpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506010907",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Blastermindpath2upgrade2.png/revision/latest?cb=20170506010907",
             "content": "Levitation Field passes through enemies and can levitate multiple foes.",
             "is_primary": false,
             "is_secondary": false,
             "price": 2200,
             "colors": {
-              "header": "black",
+              "header": "#A7B",
               "bg_content": "#EBF"
             }
           },
           {
             "name": "Mind Blown",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/01/Blastermindpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506010911",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/01/Blastermindpath2upgrade3.png/revision/latest?cb=20170506010911",
             "content": "Mind-controlled enemies damage others after going back to normal.",
             "is_primary": false,
             "is_secondary": false,
             "price": 3000,
             "colors": {
-              "header": "black",
+              "header": "#A7B",
               "bg_content": "#EBF"
             }
           }
