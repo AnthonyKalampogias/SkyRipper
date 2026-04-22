@@ -16,7 +16,17 @@
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
-  "cameos": [],
+  "cameos": [
+    "Blades",
+    "Night Shift",
+    "Trigger Happy",
+    "Malefor",
+    "Spyro",
+    "Tree Rex",
+    "Kaos",
+    "Master Eon",
+    "Evilized Glumshanks"
+  ],
   "world": [
     "Skylands"
   ],
@@ -96,7 +106,7 @@
     "His name is probably based on bouncers, which are security guards for various exclusive locations.",
     "During production of Giants, Chopper was originally going to be the Tech Giant, but as T-Rexes were more horizontal than vertical, he wouldn't fit on the Portal of Power. Eventually, the development team tried other ideas for the Tech Giant, including a Dark Arkeyan with miniguns for hands, until they created Bouncer.",
     "Interestingly, he and Chopper both have the ability to fire missiles.",
-    "During Giants's early development, Bouncer's abilities/upgrades were differently named.",
+    "During Giants's early development, Bouncer's abilities/upgrades were differently named, such as 'I-Beam' being called 'Unlock Laser Beams' and 'Atomic Clouds' being 'Mushroom Cloud Explosions'.",
     "His Fingerguns resemble the hand gesture of the Oklahoma State Cowboys, as well as the gestures frequently used in the South Park episode 'Something You Can Do with Your Finger'.",
     "He and Ninjini are the only Giants without legs.",
     "His base is much smaller than the base of all other Giants.",
@@ -122,7 +132,7 @@
     {
       "name": "Skylanders Giants - Bouncer's Soul Gem Preview (Deal with the Wheel)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Bouncer%27s_Soul_Gem_Preview_(Deal_with_the_Wheel)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Bouncer's_Soul_Gem_Preview_(Deal_with_the_Wheel)"
     }
   ],
   "gameplay": "Bouncer's attacks include finger pistols, in which he shoots out some tiny bouncy balls, shoulder mounted cannons with which he fires powerful (and slow) missiles with a targeting computer, and can't move leaving him open to attack; and finally, I-Beam, where he shoots strong lasers from his eyes for close range combat, but it can overheat if used too long and it lowers his speed when using it.",
@@ -306,7 +316,7 @@
   },
   "variants": [
     {
-      "id": "bouncer",
+      "id": "bouncer-s1",
       "variant_name": "Bouncer",
       "edition": "Series 1",
       "type": "Giant",
@@ -338,6 +348,40 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Bouncer"
+    },
+    {
+      "id": "legendary-bouncer",
+      "variant_name": "Legendary Bouncer",
+      "edition": "Legendary",
+      "type": "Giant",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/ec/SG_Illus_Bouncer_Crop_LoRes1.jpg/revision/latest?cb=20120930202737",
+      "attacks": [
+        "Fingerguns",
+        "Shoulder Rockets",
+        "I-Beam",
+        "Cooler I-Beam",
+        "Machine Fingerguns"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "430 (max. 860)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60 (max. 108)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bouncer"
     }
   ]
 }
