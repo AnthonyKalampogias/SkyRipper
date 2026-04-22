@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-22T03:03:05.921Z",
+  "last_run": "2026-04-22T09:21:29.094Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -88,6 +88,50 @@
     {
       "name": "Blastermind",
       "sha": "49f0f0d7e87545c5e51e69fc27165318558189ebfde2149773a889824bc4d086"
+    },
+    {
+      "name": "Bone Bash Roller Brawl",
+      "sha": "c65c266a487ade9745f067dfeda5801267166dd0702e7d72b197eb82cb4ea1e7"
+    },
+    {
+      "name": "Boom Bloom",
+      "sha": "75010d3042ddca21e9bd68f50186488eaf0b1400c6f49f80400e5fe3e15ea58b"
+    },
+    {
+      "name": "Boom Jet",
+      "sha": "6542a0787ef781cf38ca44bb893e72642ac128bf93be15b51e15ed6f262faee2"
+    },
+    {
+      "name": "Boomer",
+      "sha": "c01fc0e240c81bd1c5a44871a4eaa6d46b91615fe8d9945249145292d5f7a749"
+    },
+    {
+      "name": "Bop",
+      "sha": "f6837c667b64523fcab0181cb5a18cb25778f8ffed676fa5b2889b2a5845e7cb"
+    },
+    {
+      "name": "Bouncer",
+      "sha": "4f78446e20d6e8a88713d013a3ede28ccb3abc3e2f0c5a5b7f1592a89099589f"
+    },
+    {
+      "name": "Breeze",
+      "sha": "c2a476edf82f066e82d8b9b6eaa2bf522c725517c9b13fc6e2f403800dbc65d4"
+    },
+    {
+      "name": "Buckshot",
+      "sha": "037fb210c26381c6e438bc33367955e403976c1f5c134384db2b6161f8adf0fa"
+    },
+    {
+      "name": "Buddy Wrecking Ball",
+      "sha": "63cd9145fb496cd94f8ea375e7f0568d2d0630898578018aa295cc65eeb2f649"
+    },
+    {
+      "name": "Builda Grilla Drilla",
+      "sha": "aba2cfff10d8516e8cd6484e0836c07b7a8c897325bc127f7ee56d87a2b90230"
+    },
+    {
+      "name": "Bumble Blast",
+      "sha": "faa45cbae7b9f8db72f0022654a1700ca1704c27110e3f348bec3fbf2a0f124a"
     }
   ]
 }
