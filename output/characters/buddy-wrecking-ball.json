@@ -5,7 +5,7 @@
   "gender": "Male",
   "element": "Magic",
   "role": "Skylander",
-  "primary_game": "Skylanders: Lost Islands (May 2013)",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
@@ -16,14 +16,21 @@
   "description": "Buddy Wrecking Ball is the Spring counterpart of Wrecking Ball, available only on Skylanders: Lost Islands.",
   "biography": "Buddy Wrecking Ball is the Spring counterpart of Wrecking Ball, available only on Skylanders: Lost Islands.",
   "quote": "Buddy Wrecking Ball has sprouted into Skylands!",
-  "personality": "",
+  "personality": "None",
   "story": [],
-  "quotes": [],
+  "quotes": [
+    {
+      "quote_type": "Buddy Wrecking Ball's description",
+      "content": [
+        "Buddy Wrecking Ball has sprouted into Skylands!"
+      ]
+    }
+  ],
   "trivia": [
     "Buddy Wrecking Ball is the only spring themed variant that is not an Easter variant."
   ],
   "trailers": [],
-  "gameplay": "",
+  "gameplay": "Buddy Wrecking Ball is the Spring counterpart of Wrecking Ball, available only on Skylanders: Lost Islands.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Buddy_Wrecking_Ball",
   "abilities": {
     "basic": [],
@@ -36,9 +43,9 @@
     {
       "id": "buddy-wrecking-ball",
       "variant_name": "Buddy Wrecking Ball",
-      "edition": "Series 1",
+      "edition": "Alter Ego",
       "type": "Core",
-      "game": "Skylanders: Lost Islands (May 2013)",
+      "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Buddy_Wrecking_Ball_Promo.png/revision/latest?cb=20130504012619",
       "attacks": [],
       "stats": [],
