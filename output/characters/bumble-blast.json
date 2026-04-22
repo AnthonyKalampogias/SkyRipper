@@ -1,7 +1,7 @@
 {
   "id": "bumble-blast",
   "name": "Bumble Blast",
-  "species": "Anthropomorphic Beehive",
+  "species": "Anthropomorphic Beehive/Honey Tree",
   "gender": "Male",
   "element": "Life",
   "role": "Core Skylander",
@@ -19,8 +19,8 @@
   "world": [
     "Radiant Mountains"
   ],
-  "description": "Bumble Blast is a living, anthropomorphic beehive who is one of the core Skylanders in Skylanders: Swap Force. He is of the Life element, and is available in the Fiery Forge Battle Pack and in a single pack. He has a Christmas version called Jolly Bumble Blast who is available in a single pack.",
-  "biography": "Bumble Blast started life as a humble beehive in the Radiant Mountains, where for ages the bees made the most sweetest, most magical honey in all of Skylands. When Kaos heard about this \"super honey\", he wanted all of it for himself and soon launched an attack on the peaceful Bees. But when his minions arrived to plunder everything the bees had created, they were met by Bumble Blast. He alone had been home to the bees and considered himself their protector. Using the power of the magic honey, Bumble Blast valiantly battled the evil minions, who felt his powerful sting that day. Afterward, Bumble Blast roamed Skylands as a protector of nature, where he soon joined with the Skylanders.",
+  "description": "Bumble Blast is a living, anthropomorphic beehive or honey tree, who is one of the core Skylanders in Skylanders: Swap Force. He is of the Life element, and is available in the Fiery Forge Battle Pack and in a single pack. He has a Christmas version called Jolly Bumble Blast who is available in a single pack.",
+  "biography": "Bumble Blast started life as a humble beehive in the Radiant Mountains, where for ages the bees made the most sweetest, most magical honey in all of Skylands. When Kaos heard about this 'super honey', he wanted all of it for himself and soon launched an attack on the peaceful Bees. But when his minions arrived to plunder everything the bees had created, they were met by Bumble Blast. He alone had been home to the bees and considered himself their protector. Using the power of the magic honey, Bumble Blast valiantly battled the evil minions, who felt his powerful sting that day. Afterward, Bumble Blast roamed Skylands as a protector of nature, where he soon joined with the Skylanders.",
   "quote": "The Perfect Swarm!",
   "personality": "Protective to the extreme, Bumble Blast defends all wildlife, not just his beloved bees. He places himself in danger to defend others.",
   "story": [
@@ -84,17 +84,17 @@
     {
       "name": "Meet the Skylanders Bumble Blast",
       "isValid": true,
-      "url": "/wiki/File:Meet_the_Skylanders_Bumble_Blast"
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Bumble_Blast"
     },
     {
       "name": "Skylanders Swap Force - Bumble Blast Soul Gem Preview (The Perfect Swarm)",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Swap_Force_-_Bumble_Blast_Soul_Gem_Preview_(The_Perfect_Swarm)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Bumble_Blast_Soul_Gem_Preview_(The_Perfect_Swarm)"
     },
     {
       "name": "Meet the Skylanders LightCore Bumble Blast",
       "isValid": true,
-      "url": "/wiki/File:Meet_the_Skylanders_LightCore_Bumble_Blast"
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_LightCore_Bumble_Blast"
     }
   ],
   "gameplay": "Any unit that does not have abilities to run or dodge will feel his sting. Just cover them with honey and let the bees do their work.",
@@ -103,7 +103,7 @@
     "basic": [
       {
         "name": "Beezooka",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b6/Bumble_Blastprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505135047",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b6/Bumble_Blastprimarypower.png/revision/latest?cb=20170505135047",
         "content": "Press Attack 1 to shoot honey homing bees at enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -115,7 +115,7 @@
       },
       {
         "name": "Honey Glob",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8a/Bumble_Blastsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170505135053",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8a/Bumble_Blastsecondarypower.png/revision/latest?cb=20170505135053",
         "content": "Press Attack 2 to shoot a big ball of honey that will coat enemies in honey when hit.",
         "is_primary": false,
         "is_secondary": true,
@@ -129,7 +129,7 @@
     "basic_upgrades": [
       {
         "name": "Honey Beecon",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Bumble_Blastbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505135102",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Bumble_Blastbasicupgrade1.png/revision/latest?cb=20170505135102",
         "content": "Bees will always target and attack enemies coated in honey.",
         "is_primary": false,
         "is_secondary": false,
@@ -141,7 +141,7 @@
       },
       {
         "name": "Hungry Bees",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/06/Bumble_Blastbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505135120",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/06/Bumble_Blastbasicupgrade2.png/revision/latest?cb=20170505135120",
         "content": "Bees deal increased damage against honeyed targets.",
         "is_primary": false,
         "is_secondary": false,
@@ -153,7 +153,7 @@
       },
       {
         "name": "Hive Mine",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Bumble_Blastbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505135118",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Bumble_Blastbasicupgrade3.png/revision/latest?cb=20170505135118",
         "content": "Press Attack 3 to shoot a beehive into the ground. The hive explodes into honey when an enemy approaches it.",
         "is_primary": false,
         "is_secondary": false,
@@ -165,7 +165,7 @@
       },
       {
         "name": "Painful Stings",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Bumble_Blastbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170505135122",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Bumble_Blastbasicupgrade4.png/revision/latest?cb=20170505135122",
         "content": "Bees gain more powerful stingers, increasing their damage!",
         "is_primary": false,
         "is_secondary": false,
@@ -179,7 +179,7 @@
     "soulgems": [
       {
         "name": "Bee-Pack Backpack",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/Bumble_Blastsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505135130",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/Bumble_Blastsoulgempower.png/revision/latest?cb=20170505135130",
         "content": "Gain a beehive backpack that automatically launches bees at nearby foes.",
         "is_primary": false,
         "is_secondary": false,
@@ -197,7 +197,7 @@
         "abilities": [
           {
             "name": "Bee Armada",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/95/Bumble_Blastpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505135628",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/95/Bumble_Blastpath1upgrade1.png/revision/latest?cb=20170505135628",
             "content": "Hold Attack 1 to charge the Beezooka, release to shoot three bees at once.",
             "is_primary": false,
             "is_secondary": false,
@@ -209,7 +209,7 @@
           },
           {
             "name": "Stirred up a Nest",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/81/Bumble_Blastpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505135631",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/81/Bumble_Blastpath1upgrade2.png/revision/latest?cb=20170505135631",
             "content": "A new Beezooka now shoots even more bees that do increased damage!",
             "is_primary": false,
             "is_secondary": false,
@@ -221,7 +221,7 @@
           },
           {
             "name": "Queen Bee",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/10/Bumble_Blastpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505135635",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/10/Bumble_Blastpath1upgrade3.png/revision/latest?cb=20170505135635",
             "content": "Hold Attack 1 and charge the Beezooka even longer, release to shoot a Queen Bee that knocks enemies into the air.",
             "is_primary": false,
             "is_secondary": false,
@@ -238,7 +238,7 @@
         "abilities": [
           {
             "name": "Honey Buzz Blast",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/df/Bumble_Blastpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505135642",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/df/Bumble_Blastpath2upgrade1.png/revision/latest?cb=20170505135642",
             "content": "Hold Attack 2 to charge a honey attack, release to shoot a honey glob that contains angry bees.",
             "is_primary": false,
             "is_secondary": false,
@@ -250,7 +250,7 @@
           },
           {
             "name": "Heavy Honey",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Bumble_Blastpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505135646",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Bumble_Blastpath2upgrade2.png/revision/latest?cb=20170505135646",
             "content": "Honey attacks deal increased damage and slow enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -262,7 +262,7 @@
           },
           {
             "name": "Honeycomb Bark",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/65/Bumble_Blastpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505135650",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/65/Bumble_Blastpath2upgrade3.png/revision/latest?cb=20170505135650",
             "content": "Armor is increased. Bark skin will sometimes drip out honey that coats enemy attackers.",
             "is_primary": false,
             "is_secondary": false,
@@ -278,12 +278,12 @@
   },
   "variants": [
     {
-      "id": "bumble-blast",
-      "variant_name": "Bumble Blast",
+      "id": "bumble-blast-s1",
+      "variant_name": "Bumble Blast S1",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Bumble_blast.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Bumble_blast.jpg/revision/latest?cb=20131031002520",
       "attacks": [
         "Beezooka",
         "Honey Glob",
@@ -293,24 +293,54 @@
       ],
       "stats": [
         {
-          "stat_name": "Health",
-          "stat_value": "N/A"
+          "stat_name": "Strength",
+          "stat_value": "85"
         },
         {
-          "stat_name": "Speed",
-          "stat_value": "N/A"
+          "stat_name": "Defense",
+          "stat_value": "85"
         },
         {
-          "stat_name": "Armor",
-          "stat_value": "N/A"
+          "stat_name": "Agility",
+          "stat_value": "50"
         },
         {
-          "stat_name": "Critical Hit",
-          "stat_value": "N/A"
+          "stat_name": "Luck",
+          "stat_value": "90"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Bumble_Blast"
+    },
+    {
+      "id": "lightcore-bumble-blast",
+      "variant_name": "LightCore Bumble Blast",
+      "edition": "LightCore",
+      "type": "LightCore",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/6c/LightCore_Bumble_Blast_Promo.jpg/revision/latest?cb=20140531041504",
+      "attacks": [
+        "Beezooka",
+        "Honey Glob",
+        "Honey Beecon",
+        "Bee Armada",
+        "Honey Buzz Blast"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "105"
         },
         {
-          "stat_name": "Elemental Power",
-          "stat_value": "N/A"
+          "stat_name": "Defense",
+          "stat_value": "105"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "90"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Bumble_Blast"
