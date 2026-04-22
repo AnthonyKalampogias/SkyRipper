@@ -19,24 +19,31 @@
     "Skylands Miniverse"
   ],
   "description": "Bop is the Mini version of the Earth Skylander, Bash, in Skylanders: Trap Team.",
-  "biography": "The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "biography": "The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
   "quote": "Rock and Roll!",
-  "personality": "Bop can be a little headstrong sometimes. But he never gives up, when the odds are against him. That's the true mark of a hero. He shares Bash's longing for the ability to flight. [1]",
+  "personality": "Bop can be a little headstrong sometimes. But he never gives up, when the odds are against him. That's the true mark of a hero. He shares Bash's longing for the ability to flight.",
   "story": [
     {
       "story_name": "Personality",
-      "content": "Bop can be a little headstrong sometimes. But he never gives up, when the odds are against him. That's the true mark of a hero. He shares Bash's longing for the ability to flight. [1]",
+      "content": "Bop can be a little headstrong sometimes. But he never gives up, when the odds are against him. That's the true mark of a hero. He shares Bash's longing for the ability to flight.",
       "hasImage": false,
       "imgPath": ""
     },
     {
       "story_name": "Biography",
-      "content": "The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+      "content": "The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
       "hasImage": false,
       "imgPath": ""
     }
   ],
-  "quotes": [],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Rock and Roll!"
+      ]
+    }
+  ],
   "trivia": [
     "In the Nintendo 3DS version of Skylanders: Trap Team, Bop doesn't have red sclera in his eyes, instead, he has white.",
     "The crystals on the base of his figure are brown instead of transparent.",
@@ -46,20 +53,83 @@
     {
       "name": "Meet the Skylanders Bop",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylands_Bop"
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Bop"
     },
     {
       "name": "Skylanders Power Play Bop",
       "isValid": true,
-      "url": "https://skylands.fandom.com/wiki/File:Skylanders_Power_Play_Bop"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Bop"
     }
   ],
   "gameplay": "Bop, being the Mini version of Bash, utilizes similar rock-themed attacks. He can perform close-range tail swipes and roll into enemies, dealing damage. His gameplay focuses on physical attacks and potentially defensive rock abilities, similar to Bash's earth-elemental combat style.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Bop",
   "abilities": {
-    "basic": [],
-    "basic_upgrades": [],
-    "soulgems": [],
+    "basic": [
+      {
+        "name": "Tail Swipe",
+        "imgPath": "",
+        "content": "Bop swings his powerful tail to strike nearby enemies with earth-shattering force.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Rock Roll",
+        "imgPath": "",
+        "content": "Bop curls into a boulder and rolls into enemies, knocking them back.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Summoning: Stone Projection",
+        "imgPath": "",
+        "content": "Bop summons a stone projection to aid in combat.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      },
+      {
+        "name": "Mace of Destruction",
+        "imgPath": "",
+        "content": "Enhances Bop's tail attacks with a mace-like force for massive destruction.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Gaia Hammer",
+        "imgPath": "",
+        "content": "The ultimate earth attack, slamming the ground with the force of Gaia itself.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#EDA"
+        }
+      }
+    ],
     "wow_pows": [],
     "upgrade_paths": []
   },
@@ -98,6 +168,22 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "100"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Bop"
