@@ -43,19 +43,19 @@
         "Can't stop the chop!",
         "Burying the hatchet!",
         "The call of the wild!",
-        "Nature protect me! - when using Bushes Shack",
-        "Timber! - when using Soul Gem ability",
-        "Back in action! - when switched in",
+        "Nature protect me!",
+        "Timber!",
+        "Back in action!",
         "Natural selection!",
-        "Nature's bounty! - when opening a treasure chest",
+        "Nature's bounty!",
         "Lost and found!",
-        "Nature is calling! - when Traptanium Axe glows",
+        "Nature is calling!",
         "My energy is growing!",
-        "Over the edge! - when leveling up",
+        "Over the edge!",
         "Full power!",
-        "Looks like I'm a natural! - when checking stats",
+        "Looks like I'm a natural!",
         "Showing signs of growth!",
-        "My very own canopy! - when wearing a hat",
+        "My very own canopy!",
         "An edgy new look for me!"
       ]
     }
@@ -75,27 +75,27 @@
   "trailers": [
     {
       "name": "Meet the Skylanders Bushwhack",
-      "isValid": false,
-      "url": ""
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Bushwhack"
     },
     {
       "name": "Skylanders Trap Team - Bushwhack's Soul Gem Preview (Axe to the Max)",
-      "isValid": false,
-      "url": ""
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Bushwhack%27s_Soul_Gem_Preview_(Axe_to_the_Max)"
     },
     {
       "name": "Skylanders Power Play- Bushwhack",
-      "isValid": false,
-      "url": ""
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play-_Bushwhack"
     }
   ],
-  "gameplay": "",
+  "gameplay": "Bushwhack is a Life element Trap Master who wields a Traptanium Axe. His primary attacks involve swinging his axe in various combos, while his secondary attack allows him to throw Mystic Acorns to stun enemies. His upgrades allow him to use a powerful Headbash and create a 'Bush's Shack' for healing and protection. In the 3DS version, he features abilities like Log Splitter and Acorn Grenade, with level-based upgrades including Axe Spin, Head Butt, and a defensive Shield.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Bushwhack",
   "abilities": {
     "basic": [
       {
         "name": "Traptanium Axe",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Bushwhackprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505141324",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Bushwhackprimarypower.png/revision/latest?cb=20170505141324",
         "content": "Press Button 1 to swing the Traptanium Axe. Press Button 1, 1 and hold 1 for a combo attack.",
         "is_primary": true,
         "is_secondary": false,
@@ -107,7 +107,7 @@
       },
       {
         "name": "Mystic Acorn",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Bushwhacksecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170505141329",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Bushwhacksecondarypower.png/revision/latest?cb=20170505141329",
         "content": "Throw a Mystic Acorn that stuns enemies.",
         "is_primary": false,
         "is_secondary": true,
@@ -121,7 +121,7 @@
     "basic_upgrades": [
       {
         "name": "Headbash",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/15/Bushwhackbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505141333",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/15/Bushwhackbasicupgrade1.png/revision/latest?cb=20170505141333",
         "content": "Press Button 3 for a powerful Headbash move, damaging anything nearby.",
         "is_primary": false,
         "is_secondary": false,
@@ -133,7 +133,7 @@
       },
       {
         "name": "Nut Grenade!",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Bushwhackbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505141339",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Bushwhackbasicupgrade2.png/revision/latest?cb=20170505141339",
         "content": "Acorns now explode on impact, doing more damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -145,7 +145,7 @@
       },
       {
         "name": "In a Nut Shell",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5b/Bushwhackbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505141344",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5b/Bushwhackbasicupgrade3.png/revision/latest?cb=20170505141344",
         "content": "Get some new armor, taking reduced damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -157,7 +157,7 @@
       },
       {
         "name": "Thorn Tail",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Bushwhackbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170505141350",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Bushwhackbasicupgrade4.png/revision/latest?cb=20170505141350",
         "content": "Traptanium Axe attack now leaves a trail of thorns that damage enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -171,7 +171,7 @@
     "soulgems": [
       {
         "name": "Timber!",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Bushwhacksoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505141355",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Bushwhacksoulgempower.png/revision/latest?cb=20170505141355",
         "content": "Jump and hold Button 3 to plant a giant tree, which is then cut down to smash whatever's below.",
         "is_primary": false,
         "is_secondary": false,
@@ -189,7 +189,7 @@
         "abilities": [
           {
             "name": "An Axe to Grind",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Bushwhackpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505141625",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Bushwhackpath1upgrade1.png/revision/latest?cb=20170505141625",
             "content": "Traptanium Axe does extra damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -201,7 +201,7 @@
           },
           {
             "name": "Combo Attacks",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/Bushwhackpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505141630",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/Bushwhackpath1upgrade2.png/revision/latest?cb=20170505141630",
             "content": "Press Button 1, 1 and hold 2 for the Slash and Spin combo, and Button 2, 2 and hold 3 for Head first combo.",
             "is_primary": false,
             "is_secondary": false,
@@ -213,7 +213,7 @@
           },
           {
             "name": "Go Nuts!",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Bushwhackpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505141633",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Bushwhackpath1upgrade3.png/revision/latest?cb=20170505141633",
             "content": "Keep holding Button 3 after a Slash and Spin combo to shoot nuts in all directions.",
             "is_primary": false,
             "is_secondary": false,
@@ -230,7 +230,7 @@
         "abilities": [
           {
             "name": "Bush's Shack",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f8/Bushwhackpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505141638",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f8/Bushwhackpath2upgrade1.png/revision/latest?cb=20170505141638",
             "content": "Hold Button 2 to create a leafy hut for protection and healing.",
             "is_primary": false,
             "is_secondary": false,
@@ -242,7 +242,7 @@
           },
           {
             "name": "Primal Warrior",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/44/Bushwhackpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505141642",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/44/Bushwhackpath2upgrade2.png/revision/latest?cb=20170505141642",
             "content": "Get new armor, taking reduced damage and doing extra damage with the Headbash Attack.",
             "is_primary": false,
             "is_secondary": false,
@@ -254,7 +254,7 @@
           },
           {
             "name": "Spring Forward",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b4/Bushwhackpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505141650",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b4/Bushwhackpath2upgrade3.png/revision/latest?cb=20170505141650",
             "content": "Hold Button 3 to dash forward and perform a super Headbash attack.",
             "is_primary": false,
             "is_secondary": false,
@@ -273,7 +273,7 @@
       "id": "bushwhack",
       "variant_name": "Bushwhack",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Trap Master",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/6/68/Bushwhack_Promo.jpg/revision/latest?cb=20140813084342",
       "attacks": [
@@ -302,6 +302,40 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Bushwhack"
+    },
+    {
+      "id": "legendary_bushwhack",
+      "variant_name": "Legendary Bushwhack",
+      "edition": "Legendary",
+      "type": "Trap Master",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/4c/Legendary_Bushwhack_Promo.jpg/revision/latest",
+      "attacks": [
+        "Traptanium Axe",
+        "Mystic Acorn",
+        "Headbash",
+        "An Axe to Grind",
+        "Bush's Shack"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "220"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "180"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "50"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bushwhack"
     }
   ]
 }
