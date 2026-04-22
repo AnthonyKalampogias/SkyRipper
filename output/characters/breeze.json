@@ -19,14 +19,28 @@
     "Skylands Miniverse"
   ],
   "description": "Breeze is the Mini counterpart of the Air Skylander, Whirlwind. She made her debut in Skylanders: Trap Team.",
-  "biography": "The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "biography": "The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
   "quote": "Twists of Fury!",
   "personality": "When Breeze blows into town - look out! She likes to keep things light and airy but can be a little stubborn from time to time.",
-  "story": [],
-  "quotes": [],
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official catchphrase",
+      "content": [
+        "Twists of Fury!"
+      ]
+    }
+  ],
   "trivia": [
     "Breeze and Whirlwind are currently the only Skylanders capable of healing others.",
-    "She shares the same glitches with Whirlwind in Trap Team, including colorfully-glowing horn after failing to fully charge the \"Rainbow Singularity\" after taking flight."
+    "She shares the same glitches with Whirlwind in Trap Team, including colorfully-glowing horn after failing to fully charge the 'Rainbow Singularity' after taking flight."
   ],
   "trailers": [
     {
@@ -35,12 +49,75 @@
       "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Breeze"
     }
   ],
-  "gameplay": "",
+  "gameplay": "Breeze's gameplay mirrors Whirlwind, utilizing rainbow-based projectiles and tempest clouds to control the battlefield. She is one of the few characters capable of healing allies, making her a valuable support unit. Her flight ability allows for high mobility across levels.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Breeze",
   "abilities": {
-    "basic": [],
-    "basic_upgrades": [],
-    "soulgems": [],
+    "basic": [
+      {
+        "name": "Rainbow of Doom",
+        "imgPath": "",
+        "content": "Shoot a rainbow beam at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#D8BFD8"
+        }
+      },
+      {
+        "name": "Tempest Cloud",
+        "imgPath": "",
+        "content": "Create clouds that strike enemies with lightning.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#D8BFD8"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Dragon Flight",
+        "imgPath": "",
+        "content": "Take to the skies and fly over obstacles.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#D8BFD8"
+        }
+      },
+      {
+        "name": "Duel Rainbows",
+        "imgPath": "",
+        "content": "Fire two rainbows at once for increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#D8BFD8"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Atomic Rainbow",
+        "imgPath": "",
+        "content": "A powerful rainbow explosion that deals massive damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#4B0082",
+          "bg_content": "#D8BFD8"
+        }
+      }
+    ],
     "wow_pows": [],
     "upgrade_paths": []
   },
