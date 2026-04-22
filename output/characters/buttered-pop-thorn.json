@@ -5,7 +5,7 @@
   "gender": "Male",
   "element": "Air",
   "role": "Skylander",
-  "primary_game": "Skylanders: Lost Islands June 2014",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
@@ -16,22 +16,30 @@
   "description": "Buttered Pop Thorn is a movie theater counterpart of Pop Thorn in Skylanders: Lost Islands.",
   "biography": "Buttered Pop Thorn is a movie theater counterpart of Pop Thorn in Skylanders: Lost Islands.",
   "quote": "Buttered Pop Thorn has popped into Skylands!!",
-  "personality": "",
-  "story": [],
+  "personality": "None",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Buttered Pop Thorn is a movie theater counterpart of Pop Thorn in Skylanders: Lost Islands.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Buttered_Pop_Thorn_Promo.jpg/revision/latest?cb=20140602232122"
+    }
+  ],
   "quotes": [
     {
       "quote_type": "Buttered Pop Thorn's description",
       "content": [
-        "“Buttered Pop Thorn has popped into Skylands!!”"
+        "Buttered Pop Thorn has popped into Skylands!!"
       ]
     }
   ],
   "trivia": [
     "Buttered Pop Thorn is the first Lost Islands variant to be an Air element.",
-    "His name is a pun of the phrase \"buttered pop corn\"."
+    "His name is a pun of the phrase 'buttered pop corn'.",
+    "He is voiced by Chris Edgerly."
   ],
   "trailers": [],
-  "gameplay": "",
+  "gameplay": "Buttered Pop Thorn is a movie theater counterpart of Pop Thorn in Skylanders: Lost Islands.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Buttered_Pop_Thorn",
   "abilities": {
     "basic": [],
@@ -42,11 +50,11 @@
   },
   "variants": [
     {
-      "id": "buttered-pop-thorn",
+      "id": "buttered-pop-thorn-alter-ego",
       "variant_name": "Buttered Pop Thorn",
-      "edition": "Series 1",
+      "edition": "Alter Ego",
       "type": "Core",
-      "game": "Skylanders: Lost Islands June 2014",
+      "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Buttered_Pop_Thorn_Promo.jpg/revision/latest?cb=20140602232122",
       "attacks": [],
       "stats": [],
