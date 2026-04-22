@@ -16,14 +16,29 @@
   "description": "Builda Grilla Drilla is a construction counterpart of Grilla Drilla in Skylanders: Lost Islands. He was available on May 2014.",
   "biography": "Builda Grilla Drilla is a construction counterpart of Grilla Drilla in Skylanders: Lost Islands. He was available on May 2014.",
   "quote": "Builda Grilla Drilla has come to fortify Skylands!",
-  "personality": "",
-  "story": [],
-  "quotes": [],
+  "personality": "Builda Grilla Drilla is the construction-themed counterpart of Grilla Drilla.",
+  "story": [
+    {
+      "story_name": "History",
+      "content": "Builda Grilla Drilla is a construction counterpart of Grilla Drilla in Skylanders: Lost Islands. He was available on May 2014.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Builda_Grilla_Drilla.jpg/revision/latest?cb=20210212005932"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Description",
+      "content": [
+        "Builda Grilla Drilla has come to fortify Skylands!"
+      ]
+    }
+  ],
   "trivia": [
-    "Builda Grilla Drilla is the first Alter Ego of a non-core Skylander to be available in the Wishing Well."
+    "Builda Grilla Drilla is the first Alter Ego of a non-core Skylander to be available in the Wishing Well.",
+    "He is voiced by Chris Fries."
   ],
   "trailers": [],
-  "gameplay": "",
+  "gameplay": "Builda Grilla Drilla is an Alter Ego of Grilla Drilla specifically available in the mobile game Skylanders: Lost Islands. He was first released in May 2014 and can be obtained via the Wishing Well.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Builda_Grilla_Drilla",
   "abilities": {
     "basic": [],
@@ -34,7 +49,7 @@
   },
   "variants": [
     {
-      "id": "builda-grilla-drilla",
+      "id": "builda-grilla-drilla-s1",
       "variant_name": "Builda Grilla Drilla",
       "edition": "Series 1",
       "type": "Swap Force",
