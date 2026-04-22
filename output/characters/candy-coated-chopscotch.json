@@ -22,7 +22,7 @@
       "story_name": "Biography",
       "content": "The only thing that ever mattered to Chopscotch was mastering her weapon of choice, the giant axe, while rocking out to her favorite musical idol, Wolfgang. It never bothered her that she was short in stature or that all of the other ghouls in the Underworld laughed at the way she spoke in rhymes as she made up her own lyrics to Wolfgang's guitar jams. So when Wolfgang joined the villainous Doom Raiders, she was devastated. But instead of letting it destroy her, she chose to put her axe skills to good use, and fought Wolfgang and his Moon Goons when they attempted to curse her entire town during an evil concert. Her willingness to stand up to her long time hero came as a surprise to everyone, and soon all of the villagers were speaking in rhymes in her honor. Soon after, she met Master Eon, who was so impressed at her fighting abilities and positive outlook that he recruited her as a Sensei for the Smasher Class. Now she teaches new Skylanders how to fight… and how to rhyme!",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Candy-Coated_Chopscotch_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161027193333"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Candy-Coated_Chopscotch_Promo.jpg/revision/latest?cb=20161027193333"
     }
   ],
   "quotes": [
@@ -45,7 +45,7 @@
     "basic": [
       {
         "name": "Chop Chop Chop",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7a/CandyCoatedChopscotchGameplay1.jpg/revision/latest/scale-to-width-down/185?cb=20161022143957",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6f/CandyCoatedChopscotchGameplay1.jpg",
         "content": "Perform a series of axe chops to defeat enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -57,7 +57,7 @@
       },
       {
         "name": "Spin to Win",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/CandyCoatedChopscotchGameplay2.jpg/revision/latest/scale-to-width-down/185?cb=20161022144035",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/CandyCoatedChopscotchGameplay2.jpg",
         "content": "Spin with the giant axe to deal damage to surrounding foes.",
         "is_primary": false,
         "is_secondary": true,
@@ -71,7 +71,7 @@
     "basic_upgrades": [
       {
         "name": "Lose Your Head",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/CandyCoatedChopscotchGameplay2.jpg/revision/latest/scale-to-width-down/185?cb=20161022144035",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/CandyCoatedChopscotchGameplay2.jpg",
         "content": "Detach and throw your head at enemies for a ranged attack.",
         "is_primary": false,
         "is_secondary": false,
@@ -83,7 +83,7 @@
       },
       {
         "name": "Jump Attract",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Candy-Coated_Chopscotch_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161027193333",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Candy-Coated_Chopscotch_Promo.jpg",
         "content": "Perform a powerful jump that attracts nearby enemies toward the point of impact.",
         "is_primary": false,
         "is_secondary": false,
@@ -97,7 +97,7 @@
     "soulgems": [
       {
         "name": "Axe Frenzy",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Candy-Coated_Chopscotch_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161027193333",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Candy-Coated_Chopscotch_Promo.jpg",
         "content": "Unleash a devastating frenzy of axe strikes.",
         "is_primary": false,
         "is_secondary": false,
