@@ -24,7 +24,7 @@
       "story_name": "Physical Traits",
       "content": "Buckshot is a bipedal, white-furred Sky-Faun with white featureless eyes, orange horns, and light brown skin. He wears black pants with the signature gold Sensei belt, and a shoulder strap over his right shoulder and fingerless gloves with arm guards. Buckshot's bow is golden and armed with an arrow with an amethyst head.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Buckshot_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161112054954"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Buckshot_Promo.jpg/revision/latest?cb=20161112054954"
     },
     {
       "story_name": "Biography",
@@ -103,7 +103,7 @@
     "basic": [
       {
         "name": "Spread Shot",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Buckshotprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506054337",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Buckshotprimarypower.png/revision/latest?cb=20170506054337",
         "content": "Press Attack 1 to shoot a lot of arrows at once!",
         "is_primary": true,
         "is_secondary": false,
@@ -115,7 +115,7 @@
       },
       {
         "name": "Goat Portals",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/Buckshotsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170506054345",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/Buckshotsecondarypower.png/revision/latest?cb=20170506054345",
         "content": "Press Attack 2 to create mystical Goat Portals. Shoot arrows in one portal to make them come out the other portal!",
         "is_primary": false,
         "is_secondary": true,
@@ -129,7 +129,7 @@
     "basic_upgrades": [
       {
         "name": "Through and Through",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Buckshotbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506054352",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Buckshotbasicupgrade1.png/revision/latest?cb=20170506054352",
         "content": "Arrows that go through portals do more damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -141,7 +141,7 @@
       },
       {
         "name": "Vortex Boomerang",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/66/Buckshotbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506054359",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/66/Buckshotbasicupgrade2.png/revision/latest?cb=20170506054359",
         "content": "Press Attack 3 to fire a magic boomerang that pulls enemies together.",
         "is_primary": false,
         "is_secondary": false,
@@ -153,7 +153,7 @@
       },
       {
         "name": "Now You See Me",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Buckshotbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506054402",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Buckshotbasicupgrade3.png/revision/latest?cb=20170506054402",
         "content": "When you are creating portals, you move faster and stun most enemies that you touch.",
         "is_primary": false,
         "is_secondary": false,
@@ -165,7 +165,7 @@
       },
       {
         "name": "Speedy Exit",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Buckshotbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506054407",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Buckshotbasicupgrade4.png/revision/latest?cb=20170506054407",
         "content": "After exiting a portal, you gain a burst of speed!",
         "is_primary": false,
         "is_secondary": false,
@@ -179,7 +179,7 @@
     "soulgems": [
       {
         "name": "More Bang for Your Buck",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Buckshotsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506054414",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Buckshotsoulgempower.png/revision/latest?cb=20170506054414",
         "content": "Create a magical shockwave every time you make a portal, and have a lot more portals active at a time!",
         "is_primary": false,
         "is_secondary": false,
@@ -194,7 +194,7 @@
       {
         "season": 1,
         "name": "You've Goat to Be Kidding Me",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Buckshotskychipower.png/revision/latest/scale-to-width-down/148?cb=20170506054420",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Buckshotskychipower.png/revision/latest?cb=20170506054420",
         "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power!",
         "is_primary": false,
         "is_secondary": false,
@@ -211,7 +211,7 @@
         "abilities": [
           {
             "name": "Not the Face!",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b3/Buckshotpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506054634",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b3/Buckshotpath1upgrade1.png/revision/latest?cb=20170506054634",
             "content": "You have a much higher chance of dealing critical hits to enemies that are very close to you.",
             "is_primary": false,
             "is_secondary": false,
@@ -223,7 +223,7 @@
           },
           {
             "name": "Random Selection",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/db/Buckshotpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506054640",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/db/Buckshotpath1upgrade2.png/revision/latest?cb=20170506054640",
             "content": "Spread Shot now always includes a single, more powerful arrow that stuns enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -235,7 +235,7 @@
           },
           {
             "name": "Where'd That Come From?",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Buckshotpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506054645",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Buckshotpath1upgrade3.png/revision/latest?cb=20170506054645",
             "content": "Portals sometimes shoot ram or sheep projectiles on their own.",
             "is_primary": false,
             "is_secondary": false,
@@ -252,7 +252,7 @@
         "abilities": [
           {
             "name": "Main Attraction",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Buckshotpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506054649",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Buckshotpath2upgrade1.png/revision/latest?cb=20170506054649",
             "content": "Goat Portals naturally pull enemies towards themselves.",
             "is_primary": false,
             "is_secondary": false,
@@ -264,7 +264,7 @@
           },
           {
             "name": "Dimensional Damage",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Buckshotpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506054654",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Buckshotpath2upgrade2.png/revision/latest?cb=20170506054654",
             "content": "Goat Portals damage anything nearby.",
             "is_primary": false,
             "is_secondary": false,
@@ -276,7 +276,7 @@
           },
           {
             "name": "Two for One",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/44/Buckshotpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506054700",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/44/Buckshotpath2upgrade3.png/revision/latest?cb=20170506054700",
             "content": "Shoot a Vortex Boomerang at a Goat Portal to destroy all Goat Portals in a huge explosion!",
             "is_primary": false,
             "is_secondary": false,
