@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-22T09:21:29.094Z",
+  "last_run": "2026-04-22T15:23:57.726Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -132,6 +132,38 @@
     {
       "name": "Bumble Blast",
       "sha": "faa45cbae7b9f8db72f0022654a1700ca1704c27110e3f348bec3fbf2a0f124a"
+    },
+    {
+      "name": "Bushwhack",
+      "sha": "26e3ae901bd1e7612c57856a00eb431b23fe729ed19067dfbee0698ea8eb82c9"
+    },
+    {
+      "name": "Buttered Pop Thorn",
+      "sha": "35f174b5df5bcb2d584dbf4f887d1078eab81b3708c1f2803066fa3328d5fb84"
+    },
+    {
+      "name": "Camo",
+      "sha": "8acdcfc7f40e74ddfd9af8f4bbbe79d4f10bec6ff88595dfb9011bda1d2e22bc"
+    },
+    {
+      "name": "Candy-Coated Chopscotch",
+      "sha": "217e8bbed15cde8fa3a423910af480f93cfe9613fdadf2400da3680220967898"
+    },
+    {
+      "name": "Chain Reaction",
+      "sha": "52260d9cf323942e7014aa57fd94731aab06fbb0e2095299c109eefa4a8adfa8"
+    },
+    {
+      "name": "Charming Cobra Cadabra",
+      "sha": "3fb544997607aa19f6e32044d7f0df701767b0566334486370c975dafd214365"
+    },
+    {
+      "name": "Chill",
+      "sha": "c69601ef117723c2c63ec600d2d0cd953ccf87af4fefa78cc7cc47bf49dd2020"
+    },
+    {
+      "name": "Chompy Mage",
+      "sha": "da837ca770a93adc134f4eeb4d72c27178891695d60e753c00a359f3befdae92"
     }
   ]
 }
