@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-21T22:20:45.745Z",
+  "last_run": "2026-04-22T03:03:05.921Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -84,6 +84,10 @@
     {
       "name": "Blaster-Tron",
       "sha": "0010b6f2c3c8a154adca27073bed1c7f57516bc45c9fade321164787df1ee5b5"
+    },
+    {
+      "name": "Blastermind",
+      "sha": "49f0f0d7e87545c5e51e69fc27165318558189ebfde2149773a889824bc4d086"
     }
   ]
 }
