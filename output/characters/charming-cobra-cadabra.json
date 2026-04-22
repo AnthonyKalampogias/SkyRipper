@@ -16,11 +16,11 @@
   "description": "Charming Cobra Cadabra is a Valentine's Day counterpart of Cobra Cadabra who appears on February 2015 exclusive to Skylanders: Lost Islands.",
   "biography": "Charming Cobra Cadabra is a Valentine's Day counterpart of Cobra Cadabra who appears on February 2015 exclusive to Skylanders: Lost Islands. He bears more of a resemblance to King Cobra Cadabra due to his white color scheme and is the third Valentine's day Skylander released in the series.",
   "quote": "Charming Cobra Cadabra will cast a spell on your heart!",
-  "personality": "Charming Cobra Cadabra is a romantic and charming variant of the Magic Skylander, Cobra Cadabra. He shares many aesthetic similarities with Love Potion Pop Fizz, being a pink-themed Valentine's Day variant.",
+  "personality": "Charming Cobra Cadabra is a romantic and charming variant of Cobra Cadabra. He shares many aesthetic similarities with Love Potion Pop Fizz, both being pink-themed Magic element male Skylanders released for Valentine's Day in 2015.",
   "story": [
     {
-      "story_name": "Valentine's Debut",
-      "content": "Charming Cobra Cadabra is a Valentine's Day counterpart of Cobra Cadabra who appears on February 2015 exclusive to Skylanders: Lost Islands.",
+      "story_name": "Valentine's Day Counterpart",
+      "content": "Charming Cobra Cadabra is a Valentine's Day counterpart of Cobra Cadabra who appears on February 2015 exclusive to Skylanders: Lost Islands. He was the first Lost Islands exclusive Skylander released in 2015.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/33/Charming_Cobra_Cadabra.jpg/revision/latest?cb=20150212220920"
     }
@@ -37,10 +37,10 @@
     "Charming Cobra Cadabra bears more of a resemblance to King Cobra Cadabra due to his white color scheme.",
     "He is the first Lost Islands exclusive Skylander in 2015.",
     "He is the third Valentine's day Skylander (Behind Cupid Flameslinger and Love Potion Pop Fizz).",
-    "Charming Cobra Cadabra shares similarities with Love Potion Pop Fizz, as both are Magic element male Skylanders, are pink, and are Valentine's Day variants of 2015."
+    "Charming Cobra Cadabra shares similarities with Love Potion Pop Fizz: both of them are Magic element male Skylanders, both of them are pink, and both of them are Valentine's Day variants of 2015."
   ],
   "trailers": [],
-  "gameplay": "Charming Cobra Cadabra was released as an exclusive character for the mobile game Skylanders: Lost Islands in February 2015. He functions as a seasonal variant with a unique pink and white color scheme.",
+  "gameplay": "Charming Cobra Cadabra was released as an exclusive playable Alter Ego for the mobile game Skylanders: Lost Islands in February 2015. He functions as a seasonal variant with a unique pink and white color scheme.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Charming_Cobra_Cadabra",
   "abilities": {
     "basic": [],
@@ -53,8 +53,8 @@
     {
       "id": "charming-cobra-cadabra-lost-islands",
       "variant_name": "Charming Cobra Cadabra",
-      "edition": "Series 1",
-      "type": "Core",
+      "edition": "Alter Ego",
+      "type": "Seasonal",
       "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/3/33/Charming_Cobra_Cadabra.jpg/revision/latest?cb=20150212220920",
       "attacks": [],
