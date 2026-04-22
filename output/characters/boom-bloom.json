@@ -27,8 +27,8 @@
       "imgPath": ""
     },
     {
-      "story_name": "Other Appearances",
-      "content": "Boom Bloom’s Episode Dungeon expands on her origins. As soon as Boom Bloom was reformed into her current appearance, she became overwhelmed by her newfound sense of emotions and rampaged around Dr. Krankcase’s Abandoned Factory. Skylanders Flameslinger, Food Fight, Smolderdash and Tree Rex were assigned to investigate the disturbance and discovered Boom Bloom and other plantlike creatures wrecking the lab in their attempts to get revenge on Dr. Krankcase.",
+      "story_name": "Other appearances",
+      "content": "Boom Bloom's Episode Dungeon expands on her origins. As soon as Boom Bloom was reformed into her current appearance, she became overwhelmed by her newfound sense of emotions and rampaged around Dr. Krankcase's Abandoned Factory. Skylanders Flameslinger, Food Fight, Smolderdash and Tree Rex were assigned to investigate the disturbance and discovered Boom Bloom and other plantlike creatures wrecking the lab in their attempts to get revenge on Dr. Krankcase.",
       "hasImage": false,
       "imgPath": ""
     }
@@ -38,24 +38,24 @@
       "quote_type": "Battle Cries",
       "content": [
         "Rooting Out Evil!",
-        "Hear my voice, Portal Master, for it is the voice of someone who will make your Imaginators grow strong.",
-        "And if they want to really blossom, give your Ninjas plenty of sunlight, water, and my Secret Technique.",
-        "Dear enemies, your doom is in bloom!",
+        "Hear my voice, Portal Master, for it is the voice of someone who will make your Imaginators grow strong. - Sensei Training Bonus",
+        "And if they want to really blossom, give your Ninjas plenty of sunlight, water, and my Secret Technique. - Secret Technique Bonus",
+        "Dear enemies, your doom is in bloom! - ringing a Battle Gong",
         "Success is in full bloom!",
-        "Must be the season of the whip!",
+        "Must be the season of the whip! - before a battle.",
         "Can't we all just get along?",
         "Go green!",
         "Got it!",
-        "Nature does not hurry, yet everything is accomplished.",
-        "The land is mine to explore!",
+        "Nature does not hurry, yet everything is accomplished. - after a battle.",
+        "The land is mine to explore! - opening a gate.",
         "Nature has no barriers!",
-        "Spring-time!",
-        "I have blossomed into more awesomeness!",
+        "Spring-time! - bounce pad",
+        "I have blossomed into more awesomeness! - leveling up.",
         "Another step towards nirvana!",
-        "My stats continue to blossom and grow.",
+        "My stats continue to blossom and grow. - checking stats.",
         "It's like a beautiful garden - of numbers!",
-        "Nature calls!",
-        "Blessed be!"
+        "Nature calls! - activating Sky-chi.",
+        "Blessed be! - after Sky-chi."
       ]
     }
   ],
@@ -64,8 +64,8 @@
     "Boom Bloom is the third ninja Life Skylander, after Stealth Elf and Stink Bomb.",
     "She is also the third Life Skylander to be a mutated plant, after Tree Rex and Food Fight.",
     "Boom Bloom and Dr. Neo Cortex are the only Senseis to not have weapons of their battle class. Though she can fire the projectiles from her pigtail leaves, her primary weapon is a whip.",
-    "Boom Bloom is one of the few Skylanders to have boom in their name.",
-    "Boom Bloom is the second life Skylander whose name contains the word \"Boom\" (the first being Shroomboom).",
+    "Boom Bloom is one of the few Skylanders to have 'boom' in their name.",
+    "Boom Bloom is the second life Skylander whose name contains the word 'Boom' (the first being Shroomboom).",
     "Coincidentally, both Bloom Boom and Shroomboom were created through a villain's efforts.",
     "Despite the official renderings of her figure, Boom Bloom, unlike the other Senseis, has the Life element symbol on her base instead of the Ninja battle class symbol.",
     "On the Skylanders Website, her catchphrase was in a noticeably deeper voice.",
@@ -86,7 +86,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Imaginators_-_Boom_Bloom_Soul_Gem_Preview"
     }
   ],
-  "gameplay": "Boom Bloom utilizes her thorny whip for close-range combat and her vine entwine ability to pull enemies in for crowd control. She can also deploy spore seeds that, when hit, release damaging pollen or seeking spikes, allowing for area damage and strategic trapping of foes.",
+  "gameplay": "Boom Bloom is a Ninja Sensei who utilizes a thorny vine whip for rapid combos. Her gameplay focuses on crowd control using Vine Entwine to pull enemies together and Spore Seeds which can be strategically deployed and detonated for area damage. She can also utilize a powerful Sky-Chi attack involving a massive vine spin.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Boom_Bloom",
   "abilities": {
     "basic": [
@@ -181,7 +181,7 @@
     ],
     "wow_pows": [
       {
-        "season": 0,
+        "season": 1,
         "name": "Whipper Snapper",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Boom_Bloomskychipower.png/revision/latest?cb=20170505151303",
         "content": "The ultimate Sensei Attack! Hold Special Attack to go for a spin with a Sensei-tionally large vine. Move with Left Stick to whip your enemies into shape!",
@@ -281,7 +281,7 @@
   },
   "variants": [
     {
-      "id": "boom-bloom",
+      "id": "boom-bloom-s1",
       "variant_name": "Boom Bloom",
       "edition": "Series 1",
       "type": "Sensei",
