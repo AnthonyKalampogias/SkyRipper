@@ -4,7 +4,7 @@
   "species": "Half-Wizard Half-Jumbo Chompy",
   "gender": "Male",
   "element": "Life",
-  "role": "Doom Raider",
+  "role": "Doom Raider, Ally, Sensei",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants (Console)",
@@ -24,7 +24,7 @@
     "Chompy Mountain"
   ],
   "description": "The Chompy Mage is a former antagonist who first appeared as the boss of Wilikin Village in Skylanders: Giants. He is a wizard aligned with the Life element who has the ability to summon Chompies and transform into a giant Chompy. He formerly disliked anyone who isn't a Chompy, and always has a Chompy puppet on his left hand which he occasionally speaks for. His brother is the Sheep Mage.",
-  "biography": "Believe it or not, the Chompy Mage actually hatched from inside a Chompy Pod. At least that is how his Chompy hand puppet tells the story. Having been raised by Chompies, it is no surprise that the old magician is a little strange. He simply grew up embracing the Chompy way - believing that Skylands would be a better place if everyone was a Chompy - an illegal enchantment which he has actually tried to perform on several occasions.",
+  "biography": "Believe it or not, the Chompy Mage actually hatched from inside a Chompy Pod. At least that is how his Chompy hand puppet tells the story. Having been raised by Chompies, it is no surprise that the old magician is a little strange. He simply grew up embracing the Chompy way – believing that Skylands would be a better place if everyone was a Chompy – an illegal enchantment which he has actually tried to perform on several occasions.",
   "quote": "Chompy Power!",
   "personality": "The Chompy Mage is obsessed with Chompies, so much that he dresses like one and formerly didn't like anyone who isn't a Chompy. Aside from that, he also appeared to have little to no respect for others but his own allies, constantly annoying Flynn until he warmed up to him during the credits of Giants. However, after becoming a Doom Raider, the Chompy Mage showed great respect towards his fellow villains, not intending to turn them into Chompies, knowing that doing so would anger them greatly. He's also convinced he is a natural singer, though other characters believe otherwise. His Chompy puppet appears to be a split personality or have a mind of its own occasionally, rather childish and carefree; it is seen mocking or looking away from other people during Trap Team cutscenes while the Mage appears to be paying attention to them, replying to him, and in SuperChargers staring down into another Chompy in their vehicle before the Chompy Mage shooed it away. In Battlecast, it also frequently replies to him and talks to the opponents. After his rehabilitation in Skylanders: Imaginators, the Chompy Mage still holds on to his love for Chompies, but he now believes that they should be used for good instead of evil. Additionally, he has made amends with every faculty member and Skylander at Skylanders Academy, meaning that he has buried every hatchet with his new allies and friends despite his past evildoing, but he still has some patching up to do with the Wilikins he pestered in Giants. However, he is willing to turn his enemies into Chompies only if they deserve it.",
   "story": [
@@ -55,8 +55,8 @@
     {
       "story_name": "Skylanders: Imaginators",
       "content": "After breaking out and joining the other Doom Raiders, Chompy Mage was once again captured by the Skylanders. Eon gave him and other villains a choice - either go back to jail or become Skylander Senseis, teaching a new generation of Imaginators their formidable battle skills as well as how to stay clear of a life of crime. They accepted the deal, but first had to prove themselves by re-arranging all the books in the Academy's library, a task which took almost two years. This also gave Chompy Mage time to take up the bazooka, which he was naturally so good at that he now trains Imaginators of the Bazooker Class as a Sensei master.",
-      "hasImage": false,
-      "imgPath": "none"
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Chompy_Mage_Sensei_Promo.jpg/revision/latest?cb=20160912075356"
     }
   ],
   "quotes": [
@@ -67,7 +67,7 @@
         "'Now let's see if you can dodge some of my evil magic! Dodge, dodge, dodge...'",
         "'Oh that's it then! I am through toying with you!!!' (as the Chompy Puppet) 'Me too!'",
         "'Whuh-uh-uh-uh-uht!!!!! That's MY sneaky trick! Well let's see how you do with even MORE evil magic!' (as the Chompy Puppet) 'YEAH!'",
-        "'I think I see the problem here! I'm not in the right form to defeat you.' (as the Chompy Puppet) *'CHOMPY POWER!'*"
+        "'I think I see the problem here! I'm not in the right form to defeat you.' (as the Chompy Puppet) 'CHOMPY POWER!'"
       ]
     },
     {
@@ -94,6 +94,10 @@
         "'Chompy-ing at the bit!'",
         "'Mage out of the cage!'",
         "'Why do we come back here after every adventure? Seems kinda weird.'",
+        "'Would you like to join the Skylanders Academy, Chompy Puppet? (as the Chompy Puppet) Yes!... Except I'm a puppet.'",
+        "'I might build an Academy of my own one day! For Chompies, of course.'",
+        "'Do you think I have a shot at joining the Skaletones? I'm a singer, you know!'",
+        "'That was a chomp-whomping!'",
         "'I'm not really a numbers guy, I'm more of a Chompy guy.' - When checking stats",
         "'Well, it's not a Chompy, but still, I'm impressed. (as the Chompy Puppet) Wooord.' - Soul Gem"
       ]
@@ -116,10 +120,10 @@
       "quote_type": "Skylander: Imaginators",
       "content": [
         "'Hahahaha! Now that I'm a Sensei, there is nothing your Imaginators can't 'ac-chomp-lish'.' - Sensei Training Bonus",
+        "'And what class are we Chompy Puppet? (Chompy Puppet) Bazooker!'",
         "'Who dares enrage the mage?!' - entering a combat area",
         "'Sky-Chi? Ha! More like Chomp-Chi!' - Sky-Chi (BoingZooka!)",
-        "'I leveled up? Oh, it feels good to be a Skylander!' - when leveling up",
-        "'And what class are we Chompy Puppet? (Chompy Puppet) Bazooker!'"
+        "'I leveled up? Oh, it feels good to be a Skylander!' - when leveling up"
       ]
     }
   ],
@@ -127,12 +131,13 @@
     "He thinks he is a great singer, but he is in fact pretty bad.",
     "He loves enchiladas, like Flynn, Sharpfin, and Buzz.",
     "Flynn has offered to help him find a new job.",
-    "The Chompy Mage is the only Doom Raider who wasn't seen in the opening cutscene of Trap Team along with the other Doom Raiders.",
+    "The Chompy Mage is the only Doom Raider who wasn't seen in the opening cutscene of Trap Team along with the other Doom Raiders; this is because the Chompy Mage was imprisoned in Cloudcracker Prison sometime after the other Doom Raiders were first incarcerated.",
     "As he appears on the Dread-Yacht's dingy during the credits of Giants, it appears that he can teleport.",
-    "The Chompy Mage is very similar to his brother or cousin, the Sheep Mage. Both have left hand puppets of their respective animals and transform into large versions of them.",
-    "He is also similar to Clopin in The Hunchback of Notre Dame; both have puppets of their favorite things.",
+    "The Chompy Mage is very similar to his brother or cousin, the Sheep Mage. Both have left hand puppets of their respective animals, transform into large versions of them, and possess the ability to blow and inhale large amounts of air.",
+    "He is also similar to Clopin in The Hunchback of Notre Dame; both of them have puppets of their favorite things.",
     "His magic attack is similar to the Hydra's Life elemental powers, though lacking the bugs.",
-    "The Chompy Mage is one of the four trappable villains who vaguely references the smell of mustard when captured.",
+    "The Chompy Mage is one of the four trappable villains who, upon being captured in a trap, vaguely references the smell of mustard (the others are Blaster-Tron, Tussle Sprout and Chef Pepper Jack).",
+    "He and the Bone Chompy are the only trappable villains who first appeared in Giants.",
     "The Chompy Mage is the only Doom Raider and Sensei who first appeared in Giants.",
     "Any hat he wears is placed on his Chompy Puppet's head, instead of his own.",
     "The Chompy Mage is voiced by Alex Ness, who is the Chief of Staff at Toys for Bob. The voice was inspired by the 1980's version of Skeletor.",
@@ -325,7 +330,7 @@
             "price": 2200,
             "colors": {
               "header": "#4D5",
-              "bg_content": "#BFB"
+              "bg_content": "#BFBNavigator:"
             }
           },
           {
@@ -351,7 +356,7 @@
       "edition": "Series 1",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Chompy_Mage_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/94/Chompy_Mage_Sensei_Promo.jpg/revision/latest?cb=20160912075356",
       "attacks": [
         "Chompzooka!",
         "Talk to the Hand!",
@@ -385,7 +390,7 @@
       "edition": "Holiday",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/9/94/Chompy_Mage_Sensei_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/94/Chompy_Mage_Sensei_Promo.jpg/revision/latest?cb=20160912075356",
       "attacks": [
         "Chompzooka!",
         "Talk to the Hand!",
