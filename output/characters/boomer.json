@@ -7,7 +7,7 @@
   "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
-    "Spyre's Kingdom (Cancelled)",
+    "Spyro's Kingdom (Cancelled)",
     "Skylanders: Spyro's Adventure",
     "Skylanders: Universe",
     "Skylanders: Cloud Patrol",
@@ -40,7 +40,7 @@
       "story_name": "The Machine of Doom",
       "content": "Boomer was one of the Skylanders who was at Gill Grunt's concert on Eon's island in celebration of their latest victory over the forces of darkness. Like most of the Skylanders, Boomer didn't like Gill Grunt's singing, so the troll used dynamite sticks as earplugs to mute it out. Suddenly, Flynn's hot air balloon appeared and was flying down out of control, soaring straight towards Boomer. Unaware of the danger due to his dynamite earplugs, Boomer was saved from the crash by Spyro, although not hearing anything due to the troll still having his earplugs on. While Spyro, Eruptor, and Gill Grunt went to investigate the happenings in the Mabu Market, Boomer was ordered by Eon to stay behind and help fix Flynn's hot air balloon. He later joined the three Skylanders with Flynn on a quest to find the Chattering Key that is said to unlock a tomb that contains an ancient Arkeyan weapon that Kaos may be seeking. In the Forest of Fear, Boomer falls victim to the Fungus Rings of Despair, and the troll saw his worst fear come to life through hallucinations, being trapped in a doll's tea party (which is the greatest nightmare to any troll brought to life). He was soon freed by Spyro, and Boomer and the other Skylanders continued their way through the Forest. The Skylanders later find the Chattering Key that was being guarded by the statue of a stone wyvern and were able to collect it, thanks to a plan devised by Spyro. But the stone wyvern chased after them in hot pursuit, despite being slowed down by Boomer's dynamites and Gill Grunt's water cannon. As the Skylanders were about to leave with the key, Kaos appeared and revealed that he had captured Flynn, and was willing to exchange the Mabu for the Chattering Key. Not wanting to sacrifice Flynn for the sake of their mission, the Skylanders surrender the key to Kaos, who then used it to open a tomb that contained the Machine of Doom inside the Pyramid of Just Rewards; its pillar firing a beam of light at the advancing stone wyvern, destroying it. The evil Portal Master kept Flynn as a hostage to keep the Skylanders from following him and entered the tomb. With the help of the Chattering Key, the Skylanders entered the pyramid through the other side and reached The Machine of Doom, which Boomer really took a shine to by the amount of weaponry it has installed. Kaos soon arrived, and the Skylanders engaged the evil Portal Master's minions in combat while Boomer made his way to The Machine of Doom. Despite Spyro's warnings, the troll tried to pilot the Machine to use it against Kaos, unknowingly playing his part in the evil Portal Master' real scheme. Boomer lost control of the Machine as he tried to pilot the mech, which Kaos soon revealed that The Machine of Doom was really a trap designed by the Arkeyans to capture any who attempt to use The Machine of Doom to destroy the Core of Light. Eventually, as the Skylanders rescued Flynn and struggled to escape the pyramid with Kaos' transport portal, Boomer gained control over The Machine of Doom, stopping Kaos before he could escape. The troll then used the crumbling machine to get out of the collapsing pyramid with the Skylanders and Kaos in tow, resulting in the Machine of Doom breaking apart. Although Kaos escaped, Boomer soon celebrated with his fellow Skylanders in their victory.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/Spyro_Boomer_Trigg_Eruptor.jpg/revision/latest/scale-to-width-down/284?cb=20130304072530"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/Spyro_Boomer_Trigg_Eruptor.jpg/revision/latest?cb=20130304072530"
     },
     {
       "story_name": "Skylanders: Spyro's Adventure",
@@ -52,7 +52,7 @@
       "story_name": "Secret Agent Secrets",
       "content": "Boomer, Voodood, and Ghost Roaster were Buzz's elite team of Skylanders when they mysteriously disappeared while on a mission at Motleyville and haven't returned for months. SuperChargers, Spitfire, Stormblade and Nightfall, were assigned to find the lost Skylanders at their last known location. Upon getting ambushed by Spell Punks lead by Spellslamzer, the SuperChargers were suddenly defeated and knocked unconscious by Boomer, Voodood, and Ghost Roaster, who were now working for Spellslamzer. With the three SuperChargers imprisoned, Spellslamzer announced his plan to raid the Mabu Radiance mines of its rare and powerful minerals, controlling the crystal supply to become the supreme power in all of Skylands. As Stormblade wondered why Boomer, Ghost Roaster, and Voodood would turn their backs on Skylands and Master Eon, Ghost Roaster revealed that he and the other two Elites grew tired of being tossed aside and forgotten while the Skylanders such as the SuperChargers, SWAP Force and the Giants are more appreciated. The three Elites later caught Spitfire, Stormblade and Nightfall when they attempted to escape and Spellslamzer had the three SuperChargers strapped helplessly to the front of their own vehicles as the evil Spell Punk and his army ride out towards the Mabu mines. During their attack on the Radiance Mines, Voodood and Boomer turned against Spellslamzer, revealing that all three Elites were pretending to be evil from the start. However Ghost Roaster remained on Spellslamzer's side, holding onto the belief that he and the Elites would simply be tossed aside and forgotten even if they turn in Spellslamzer. The remaining Elites and the freed SuperChargers would then engage Spellslamzer, his minions and Ghost Roaster in battle. When it seemed that Ghost Roaster would destroy Stormblade there and then, he instead threw his explosive ball and chain at the Radiance crystals under Spellslamzer, blowing them up and knocking Spellslamzer unconscious. The Skylanders welcomed Ghost Roaster back to the side of good and the SuperChargers as full-fledged Skylanders.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/Elites_Issue_2.png/revision/latest/scale-to-width-down/280?cb=20151217081140"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/Elites_Issue_2.png/revision/latest?cb=20151217081140"
     }
   ],
   "quotes": [
@@ -319,7 +319,7 @@
       "edition": "Series 1",
       "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c4/290px-Boomer_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c4/290px-Boomer_Promo.jpg/revision/latest?cb=20170326191733",
       "attacks": [
         "Dynamite Toss",
         "Troll Smash",
@@ -350,6 +350,82 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Boomer"
+    },
+    {
+      "id": "elite_boomer",
+      "variant_name": "Elite Boomer",
+      "edition": "Eon's Elite",
+      "type": "Elite",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c4/290px-Boomer_Promo.jpg/revision/latest?cb=20170326191733",
+      "attacks": [
+        "Dynamite Toss",
+        "Troll Smash",
+        "Troll Bomb",
+        "Bomblastic",
+        "Triple Bundle Dynamite"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "230 / 460"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 / 83"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 / 48"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50 / 100"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "39 / 89"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Boomer"
+    },
+    {
+      "id": "lucky_boomer",
+      "variant_name": "Lucky Boomer",
+      "edition": "St. Patrick's Day",
+      "type": "Alter Ego",
+      "game": "Skylanders: Lost Islands",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c4/290px-Boomer_Promo.jpg/revision/latest?cb=20170326191733",
+      "attacks": [
+        "Dynamite Toss",
+        "Troll Smash",
+        "Troll Bomb",
+        "Bomblastic",
+        "Triple Bundle Dynamite"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "230 / 460"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 / 83"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 / 48"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50 / 100"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "39 / 89"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Lucky_Boomer"
     }
   ]
 }
