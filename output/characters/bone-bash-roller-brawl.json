@@ -8,17 +8,18 @@
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Unexpected Allies",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
   "cameos": [],
   "world": [
     "Skylands"
   ],
-  "description": "Bone Bash Roller Brawl is the SuperChargers counterpart of Roller Brawl in Skylanders: SuperChargers. Her signature vehicle is the Tomb Buggy. Compared to her normal counterpart, Bone Bash Roller Brawl is much more aggressive and technical in her play style.",
-  "biography": "Bone Bash Roller Brawl is the SuperChargers counterpart of Roller Brawl in Skylanders: SuperChargers. Now with SuperCharged abilities, Roller Brawl can slash and punch enemies into submission! She can also throw her Fang Blades out at enemies that will eventually return to her. When she is holding onto her Fang Blades, her attacks are slow but powerful; when she is not holding onto them, her attacks are light but quick.",
+  "description": "Bone Bash Roller Brawl is the SuperChargers counterpart of Roller Brawl in Skylanders: SuperChargers. Her signature vehicle is the Tomb Buggy. Compared to her normal counterpart, Bone Bash Roller Brawl is much more aggressive and technical in her play style. Now with SuperCharged abilities, Roller Brawl can slash and punch enemies into submission!",
+  "biography": "Compared to her normal counterpart, Bone Bash Roller Brawl is much more aggressive and technical in her play style. Now with SuperCharged abilities, Roller Brawl can slash and punch enemies into submission! She can also throw her Fang Blades out at enemies that will eventually return to her. When she is holding onto her Fang Blades, her attacks are slow but powerful; when she is not holding onto them, her attacks are light but quick. She can also skate forward a short distance and ram into her opponents, and even blow a kiss that saps health from enemies.",
   "quote": "Let's Roll!",
-  "personality": "Bone Bash Roller Brawl is much more aggressive and technical in her play style than her previous incarnation. She is described as the star of the show who can bewilder enemies with magnificent performances.",
+  "personality": "Bone Bash Roller Brawl is much more aggressive and technical in her play style than her previous incarnation. She is described as the star of the show who can bewilder enemies with magnificent performances. She is keeping the enemy on their toes with aggressive upgrades that favor mobility.",
   "story": [
     {
       "story_name": "Background",
@@ -31,33 +32,33 @@
     {
       "quote_type": "Battle Cries",
       "content": [
-        "\"Let's Roll!\"",
-        "\"Oh yeah!\"",
-        "\"Let's jam!\"",
-        "\"Time for a jam session!\"",
-        "\"In your dreams!\"",
-        "\"Head over heels!\"",
-        "\"Mwah!\" - when using Love Bites attack",
-        "\"Oh yeah!\" - when entering a vehicle",
-        "\"Time to get a move on!\" - when entering a vehicle",
-        "\"You got rolled!\" - when exiting a vehicle",
-        "\"Bone bashed!\" - when exiting a vehicle",
-        "\"Later, skater!\" - when exiting a vehicle",
-        "\"I'll take it!\" - when collecting treasure",
-        "\"Just what I needed!\" - when leveling up",
-        "\"Power burst!\" - when leveling up",
-        "\"Check me out!\" - checking stats"
+        "'Let's Roll!'",
+        "'Oh yeah!'",
+        "'Let's jam!'",
+        "'Time for a jam session!'",
+        "'In your dreams!'",
+        "'Head over heels!'",
+        "'Mwah!' - when using Love Bites attack",
+        "'Oh yeah!' - when entering a vehicle",
+        "'Time to get a move on!' - when entering a vehicle",
+        "'You got rolled!' - when exiting a vehicle",
+        "'Bone bashed!' - when exiting a vehicle",
+        "'Later, skater!' - when exiting a vehicle",
+        "'I'll take it!' - when collecting treasure",
+        "'Just what I needed!' - when leveling up",
+        "'Power burst!' - when leveling up",
+        "'Check me out!' - checking stats"
       ]
     },
     {
       "quote_type": "Quests Quotes",
       "content": [
-        "\"Yep. You kinda skated over the details the last time we talked about secret ninja commando stuff.\"",
-        "\"Hey, blocking and jamming are just as easy in my Tomb Buggy as they are on skates. No problem.\"",
-        "\"Crotchety old secret ninja commando trainer, check.\"",
-        "\"Thanks Buzz. That's how I roll.\"",
-        "\"\\\"Secret Ninja Commando Challenge\\\"?\"",
-        "\"Thank you Buzz, but I'm just keeping my head in the game.\""
+        "'Yep. You kinda skated over the details the last time we talked about secret ninja commando stuff.'",
+        "'Hey, blocking and jamming are just as easy in my Tomb Buggy as they are on skates. No problem.'",
+        "'Crotchety old secret ninja commando trainer, check.'",
+        "'Thanks Buzz. That's how I roll.'",
+        "''Secret Ninja Commando Challenge'?'",
+        "'Thank you Buzz, but I'm just keeping my head in the game.'"
       ]
     }
   ],
@@ -84,13 +85,13 @@
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Bone_Bash_Roller_Brawl's_Soul_Gem_Preview_(Let's_Roll)"
     }
   ],
-  "gameplay": "Compared to her normal counterpart, Bone Bash Roller Brawl is much more aggressive and technical in her play style. Now with SuperCharged abilities, Roller Brawl can slash and punch enemies into submission! She can also throw her Fang Blades out at enemies that will eventually return to her. When she is holding onto her Fang Blades, her attacks are slow but powerful; when she is not holding onto them, her attacks are light but quick. She can also skate forward a short distance and ram into her opponents, and even blow a kiss that saps health from enemies.",
+  "gameplay": "Compared to her normal counterpart, Bone Bash Roller Brawl is much more aggressive and technical in her play style. Now with SuperCharged abilities, Roller Brawl can slash and punch enemies into submission! She can also throw her Fang Blades out at enemies that will eventually return to her. When she is holding onto her Fang Blades, her attacks are slow but powerful; when she is not holding onto them, her attacks are light but quick. She can also skate forward a short distance and ram into her opponents, and even blow a kiss that saps health from enemies. In Skylanders: SuperChargers Racing, she is notable for being one of the better all-around drivers with great Top Speed, Handling, and Acceleration.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Bone_Bash_Roller_Brawl",
   "abilities": {
     "basic": [
       {
         "name": "Derby Duke",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Bone_Bash_Roller_Brawlprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506181513",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Bone_Bash_Roller_Brawlprimarypower.png/revision/latest?cb=20170506181513",
         "content": "Press Attack 1 to slash nearby enemies with your Fang Blades.",
         "is_primary": true,
         "is_secondary": false,
@@ -102,7 +103,7 @@
       },
       {
         "name": "Fangerang",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Bone_Bash_Roller_Brawlsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170506181518",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Bone_Bash_Roller_Brawlsecondarypower.png/revision/latest?cb=20170506181518",
         "content": "Press Attack 2 to extend your Fang Blades and throw them out at enemies. Press Attack 1 while Fang Blades are out to attack with your fists!",
         "is_primary": false,
         "is_secondary": true,
@@ -116,7 +117,7 @@
     "basic_upgrades": [
       {
         "name": "Love Bites",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a2/Bone_Bash_Roller_Brawlbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506181523",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a2/Bone_Bash_Roller_Brawlbasicupgrade1.png/revision/latest?cb=20170506181523",
         "content": "Press Attack 2 while Fangerangs are thrown to blow a fangy Vampire Kiss at enemies. Enemies hit by the kiss will be weakened and have some of their health drained.",
         "is_primary": false,
         "is_secondary": false,
@@ -128,7 +129,7 @@
       },
       {
         "name": "Skaters Gonna Skate",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Bone_Bash_Roller_Brawlbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506181531",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Bone_Bash_Roller_Brawlbasicupgrade2.png/revision/latest?cb=20170506181531",
         "content": "Press Attack 3 to skate faster and extend your Fang Blades while doing so which damages enemies that get in your way!",
         "is_primary": false,
         "is_secondary": false,
@@ -140,7 +141,7 @@
       },
       {
         "name": "Derby Damage",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Bone_Bash_Roller_Brawlbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506181544",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Bone_Bash_Roller_Brawlbasicupgrade3.png/revision/latest?cb=20170506181544",
         "content": "Derby Duke attacks now do more damage. All is fair in Derby!",
         "is_primary": false,
         "is_secondary": false,
@@ -152,7 +153,7 @@
       },
       {
         "name": "Crossover Technique",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6a/Bone_Bash_Roller_Brawlbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506181600",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6a/Bone_Bash_Roller_Brawlbasicupgrade4.png/revision/latest?cb=20170506181600",
         "content": "Fangerangs seek out other targets after the first before returning.",
         "is_primary": false,
         "is_secondary": false,
@@ -166,7 +167,7 @@
     "soulgems": [
       {
         "name": "Brawling Bout!",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Bone_Bash_Roller_Brawlsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506181608",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Bone_Bash_Roller_Brawlsoulgempower.png/revision/latest?cb=20170506181608",
         "content": "Roller Brawl's rage grows over time. When she is at maximum rage, hold Attack 2 unleash her fury on nearby enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -184,7 +185,7 @@
         "abilities": [
           {
             "name": "Jam-Time",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Bone_Bash_Roller_Brawlpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506181957",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Bone_Bash_Roller_Brawlpath1upgrade1.png/revision/latest?cb=20170506181957",
             "content": "Hold Attack 3 while skating to launch yourself like a missile damaging any enemy in the way.",
             "is_primary": false,
             "is_secondary": false,
@@ -196,7 +197,7 @@
           },
           {
             "name": "Serious Substitution",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Bone_Bash_Roller_Brawlpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506182003",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Bone_Bash_Roller_Brawlpath1upgrade2.png/revision/latest?cb=20170506182003",
             "content": "Fang Blades become more powerful and will do more damage to enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -208,7 +209,7 @@
           },
           {
             "name": "Always Wear a Helmet",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/Bone_Bash_Roller_Brawlpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506182008",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/Bone_Bash_Roller_Brawlpath1upgrade3.png/revision/latest?cb=20170506182008",
             "content": "Hold Attack 1 to do an explosive headbutt. That's using your head!",
             "is_primary": false,
             "is_secondary": false,
@@ -225,7 +226,7 @@
         "abilities": [
           {
             "name": "Eat Pavement",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Bone_Bash_Roller_Brawlpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506182016",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Bone_Bash_Roller_Brawlpath2upgrade1.png/revision/latest?cb=20170506182016",
             "content": "Hold Attack 3 to tear up the pavement and damage all enemies in front of you.",
             "is_primary": false,
             "is_secondary": false,
@@ -237,7 +238,7 @@
           },
           {
             "name": "Blocker Boutfit",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/07/Bone_Bash_Roller_Brawlpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506182027",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/07/Bone_Bash_Roller_Brawlpath2upgrade2.png/revision/latest?cb=20170506182027",
             "content": "Your Armor bulks up and reduces enemy damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -249,7 +250,7 @@
           },
           {
             "name": "Contagious Kiss",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d9/Bone_Bash_Roller_Brawlpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506182032",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d9/Bone_Bash_Roller_Brawlpath2upgrade3.png/revision/latest?cb=20170506182032",
             "content": "When Love Bites connects, it will explode in smaller Vampire Kisses that can bite, weaken and drain surrounding enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -271,6 +272,82 @@
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
       "image": "https://static.wikia.nocookie.net/skylanders/images/3/39/Bone_Bash_Roller_Brawl_Art.jpg/revision/latest?cb=20150831080428",
+      "attacks": [
+        "Derby Duke",
+        "Fangerang",
+        "Love Bites",
+        "Serious Substitution",
+        "Eat Pavement"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "220"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Bone_Bash_Roller_Brawl"
+    },
+    {
+      "id": "legendary-bone-bash-roller-brawl",
+      "variant_name": "Legendary Bone Bash Roller Brawl",
+      "edition": "Legendary",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c2/Legendary_Bone_Bash_Roller_Brawl_Art.jpg/revision/latest?cb=20151108221545",
+      "attacks": [
+        "Derby Duke",
+        "Fangerang",
+        "Love Bites",
+        "Serious Substitution",
+        "Eat Pavement"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "220"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bone_Bash_Roller_Brawl"
+    },
+    {
+      "id": "bronze-bone-bash-roller-brawl",
+      "variant_name": "Bronze Bone Bash Roller Brawl",
+      "edition": "Special",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Bronze_roller_brawl.jpg/revision/latest?cb=20160107221235",
       "attacks": [
         "Derby Duke",
         "Fangerang",
