@@ -23,7 +23,7 @@
     "Tree of Life"
   ],
   "description": "Camo is a plant/dragon hybrid core Skylander in Skylanders: Spyro's Adventure. His Series 2 counterpart is called Thorn Horn Camo.",
-  "biography": "Hatched at the roots of the Tree of Life, Camo is half-dragon, half-plant – with effervescent life energy flowing through his scaly leaves. This power allows him to cultivate fruits and vegetables at a highly-accelerated rate, which causes them to explode when they ripen. Camo’s unique gift caught the eye of Master Eon, initially because he was hungry and tried to eat a melon that exploded in his face. But upon realizing his true power, Eon convinced Camo to help the Skylanders protect their world.",
+  "biography": "Hatched at the roots of the Tree of Life, Camo is half-dragon, half-plant – with effervescent life energy flowing through his scaly leaves. This power allows him to cultivate fruits and vegetables at a highly-accelerated rate, which causes them to explode when they ripen. Camo's unique gift caught the eye of Master Eon, initially because he was hungry and tried to eat a melon that exploded in his face. But upon realizing his true power, Eon convinced Camo to help the Skylanders protect their world.",
   "quote": "Fruit Punch!",
   "personality": "Like most dragons, Camo loves a laugh. He is a real prankster, with one of his favorite tricks creating fruit and vegetables that explode in your shocked face! Despite his love of pranks, Camo is serious when it comes to protecting Skylands and its inhabitants.",
   "story": [
@@ -62,17 +62,21 @@
     "The peppers Camo that grow from his tail are among the hottest in all of Skylands. Only the Fire Skylander, Eruptor, has ever been able to eat a whole one. He appeared to have no lasting effects, but he did spend almost a week having to lie down in a darkened room afterwards, and he hasn't been able to look at spicy food since.",
     "In Giants, Camo commonly says fruit and vegetable-related puns and jokes when he talks.",
     "In Giants, Camo's melon attack grants him total invincibility while he is underground in his animation.",
-    "He, Spyro, Cynder and Whirlwind are the only four dragons originally from Spyro's Adventure to return in Swap Force.",
-    "Early Swap Force promo boxes at the time had the mistake of labeling Camo as a Series 3 character.",
+    "He, Spyro, Cynder and Whirlwind are the only four dragons originally from Spyro's Adventure to return in Swap Force. Coincidentally, all except Cynder will have their horns altered in appearance after obtaining their Wow Pow abilities.",
+    "Early Swap Force promo boxes at the time had the mistake of labeling Camo as a Series 3 character. This was most likely because Camo was the only Skylander with a Series 2 counterpart in Swap Force who was originally from Spyro's Adventure.",
+    "In Swap Force, there is a glitch that Series 2 Camo can pull off where, if on the Melon Master path, one of the attack 3 buttons is held down and the other is pressed rapidly, another ring of melons will grow on top of the first. If this glitch is done with Series 1 Camo, the melon ring will simply replenish itself indefinitely. This glitch will not work on the Wii version.",
+    "In Skylanders Giants, there is a glitch with Camo's melon attack on giant bounce pads found in the Jump For It! Heroic Challenge. Doing so will cause the melons to not shrink/despawn, as long as the attack 3 button is held.",
     "Camo's Wow Pow causes his vines to occasionally grow melons, however, this is not mentioned in the upgrade's description.",
     "Camo's voice actor, André Sogliuzzo, is also the voice of Sparx (both the original and Skylanders incarnations).",
-    "Camo's name is derived from 'camouflage'."
+    "Camo's name is derived from 'camouflage'. His name is also the name of a municipality in the province of Cuneo in the Italian region Piedmont.",
+    "He and Zap are the only two dragon Skylanders included in battle packs (Scorpion Striker and Arkeyan Crossbow). Coincidentally, both of their figures were Series 2s.",
+    "If Camo is drawn into a dialogue scene in Giants while his sun shield is active, his orbs will continue to circle him for the duration of the dialogue, only to disappear without healing him when the dialogue ends."
   ],
   "trailers": [
     {
       "name": "Skylanders Spyro's Adventure - Camo Preview Trailer (Fruit Punch)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Camo_Preview_Trailer_(Fruit_Punch)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_-_Camo_Preview_Trailer_(Fruit_Punch)"
     },
     {
       "name": "Meet the Skylanders Camo (extended)",
@@ -82,17 +86,17 @@
     {
       "name": "Skylanders Spyro's Adventure - Camo Trailer (Fruit Punch)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Camo_Trailer_(Fruit_Punch)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_-_Camo_Trailer_(Fruit_Punch)"
     },
     {
       "name": "Skylanders Giants - Camo's Soul Gem Preview (Fruit Punch)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Camo%27s_Soul_Gem_Preview_%28Fruit_Punch%29"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Camo's_Soul_Gem_Preview_(Fruit_Punch)"
     },
     {
       "name": "Skylanders Swap Force - Meet the Skylanders - Thorn Horn Camo (Fruit Punch)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Thorn_Horn_Camo_%28Fruit_Punch%29"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Thorn_Horn_Camo_(Fruit_Punch)"
     }
   ],
   "gameplay": "As a result of being half plant and half dragon, Camo can quickly grow fruits and vegetables that explode when they become ripe. His standard attacks involves firing bursts of solar energy from his mouth and conjuring vines of peppers from his tail that explode like firecrackers at enemies around them. He can also grow a ring of melons around him and send them flying and exploding at surrounding enemies. His Wow Pow lets him grow exploding pumpkins that explode into smaller pumpkins.",
@@ -295,7 +299,7 @@
       "edition": "Series 1",
       "type": "Core Skylander",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/0/05/Camo_02.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/05/Camo_02.jpg/revision/latest?cb=20121015194842",
       "attacks": [
         "Sun Burst",
         "Firecracker Vines",
@@ -333,7 +337,7 @@
       "edition": "Series 2",
       "type": "Core Skylander",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Thorn_Horn_Camo.png",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Thorn_Horn_Camo.png/revision/latest?cb=20140116015203",
       "attacks": [
         "Sun Burst",
         "Firecracker Vines",
