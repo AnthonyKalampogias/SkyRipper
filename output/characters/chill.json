@@ -13,7 +13,7 @@
     "Skylanders: Swap Force",
     "Skylanders: Trap Team",
     "Rift into Overdrive",
-    "Skylanders: SuperChargers Racing",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
@@ -69,7 +69,9 @@
     "In Giants' early development, some of Chill's upgrades/abilities were differently named and arranged.",
     "She says her call 'Narwhal!' In three different tones.",
     "Because her ears are hidden under her helmet, Chill's exact species is unknown.",
+    "It's unlikely that she is an elf, however, as the known elves with irises have dark pupils.",
     "Chill's hair is blue. This can be seen by the viewers if you look closely in the 3DS version of Skylanders: Giants and in Skylanders: Cloud Patrol.",
+    "However, on her toy version, you can see a little bit of her hair under the helmet, and it somehow appears to be blonde.",
     "In early development, Chill was called Ice Sorceress. She spoke in a high-pitched voice, and her original catchphrase was 'Let's break the ice!'.",
     "She, Doom Stone, Ignitor, Chop Chop, Flip Wreck, Wildfire, and High Volt are the only Skylanders who use shields.",
     "She speaks with a thick Russian accent.",
@@ -303,7 +305,9 @@
       "attacks": [
         "Ice Javelin",
         "Ice Wall",
-        "Glacial Bash"
+        "Glacial Bash",
+        "Cold Front",
+        "Imperial Armor"
       ],
       "stats": [
         {
@@ -335,7 +339,9 @@
       "attacks": [
         "Ice Javelin",
         "Ice Wall",
-        "Glacial Bash"
+        "Glacial Bash",
+        "Cold Front",
+        "Imperial Armor"
       ],
       "stats": [
         {
@@ -368,6 +374,8 @@
         "Ice Javelin",
         "Ice Wall",
         "Glacial Bash",
+        "Cold Front",
+        "Imperial Armor",
         "Orcastration!"
       ],
       "stats": [
