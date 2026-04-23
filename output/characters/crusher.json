@@ -24,7 +24,7 @@
     "Skylands"
   ],
   "description": "Crusher is a rock golem Earth Skylander and one of the eight Giants in Skylanders: Giants. He also has a black counterpart called Granite Crusher, whose gems are blue instead of green.",
-  "biography": "Crusher knew from the moment he put on his father's mining helmet that his true passion in life was crushing rocks. He was fascinated with rock-lore and traveled all throughout Skylands in search of rare minerals to pulverize with his powerful hand-crafted rock hammer, which is also named Crusher. But along his travels, he discovered that the evil Arkeyan King was also searching for rocks-to melt down into weapons of war. Crusher's fury built up like an avalanche. After all, crushing was his job! So he put aside his life's passion and decided to use his hammer for a greater purpose- crushing Arkeyan Robots.",
+  "biography": "Crusher knew from the moment he put on his father's mining helmet that his true passion in life was crushing rocks. He was fascinated with rock-lore and traveled all throughout Skylands in search of rare minerals to pulverize with his powerful hand-crafted rock hammer, which is also named Crusher. But along his travels, he discovered that the evil Arkeyan King was also searching for rocks to melt down into weapons of war. Crusher's fury built up like an avalanche. After all, crushing was his job! So he put aside his life's passion and decided to use his hammer for a greater purpose- crushing Arkeyan Robots.",
   "quote": "It's Crush Hour!",
   "personality": "Single-minded and completely unstoppable, Crusher crashes through any situation with the subtlety of a three-ton hammer. He's also incredibly thick-skinned - probably because his skin's made of stone.",
   "story": [
@@ -160,7 +160,7 @@
     {
       "name": "Skylanders Giants - Crusher Preview Trailer (It's Crush Hour!)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Crusher_Preview_Trailer_(It%27s_Crush_Hour!)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Crusher_Preview_Trailer_(It's_Crush_Hour!)"
     },
     {
       "name": "Meet the Skylanders Crusher",
@@ -170,7 +170,7 @@
     {
       "name": "Skylanders Giants - Crusher Soul Gem Preview (It's Crush Hour)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Crusher_Soul_Gem_Preview_(It%27s_Crush_Hour)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Crusher_Soul_Gem_Preview_(It's_Crush_Hour)"
     }
   ],
   "gameplay": "Crusher attacks with his large, menacing hammer (also named Crusher) and his secondary attack, shooting eye beams that turn enemies to stone. He can also self-destruct to scatter his rocky parts, but has the ability to reform. In Skylanders: Battlecast, he can also change his composition to endure more attacks or raise his attack. His Special Ability is Golem's Strength, increasing his power, and his signature Gear is his father's hammer, aptly titled My Father's Hammer, which corresponds to his Hammer Daddy console upgrade and doubles his damage.",
@@ -359,7 +359,7 @@
       "edition": "Series 1",
       "type": "Giant",
       "game": "Skylanders: Giants",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Crusher.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Crusher.jpg/revision/latest?cb=20120911222242",
       "attacks": [
         "Crusher's Crusher",
         "Turn to Stone",
@@ -390,6 +390,44 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Crusher"
+    },
+    {
+      "id": "granite-crusher",
+      "variant_name": "Granite Crusher",
+      "edition": "Series 1",
+      "type": "Giant",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Crusher.jpg/revision/latest?cb=20120911222242",
+      "attacks": [
+        "Crusher's Crusher",
+        "Turn to Stone",
+        "Rockslide",
+        "Ground Grinder",
+        "Cavelight Blast"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "470 (max. 940)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "20 (max. 68)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40 (max. 90)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Granite_Crusher"
     }
   ]
 }
