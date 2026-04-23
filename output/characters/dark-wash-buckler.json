@@ -18,15 +18,15 @@
     "Skylands"
   ],
   "description": "Dark Wash Buckler is the Dark counterpart of the Water SWAP Force Skylander, Wash Buckler.",
-  "biography": "While on a special mission, a team of Skylanders discovered a secret lair where Kaos was experimenting with a new discovery – Petrified Darkness – which he initially intended to use to stage a coup against Skylands. In their fight to stop Kaos, the lair exploded, releasing a cloud of pure Darkness. The Skylanders knew they couldn’t let it escape, so they absorbed this energy, transforming them into dark versions of themselves. Fortunately, Spyro learned to tame that darkness within him long ago. So with his help, these Skylanders now have also learned to control it – combining its power with their own to fight Kaos and the forces of evil.",
+  "biography": "While on a special mission, a team of Skylanders discovered a secret lair where Kaos was experimenting with a new discovery – Petrified Darkness – which he initially intended to use to stage a coup against Skylands. In their fight to stop Kaos, the lair exploded, releasing a cloud of pure Darkness. The Skylanders knew they couldn't let it escape, so they absorbed this energy, transforming them into dark versions of themselves. Fortunately, Spyro learned to tame that darkness within him long ago. So with his help, these Skylanders now have also learned to control it – combining its power with their own to fight Kaos and the forces of evil.",
   "quote": "Eight Legs and No Pegs!",
-  "personality": "",
+  "personality": "While Dark Wash Buckler was born from pure Darkness, he has learned to control the power within to fight for the forces of good alongside his fellow Skylanders.",
   "story": [
     {
       "story_name": "Biography",
-      "content": "While on a special mission, a team of Skylanders discovered a secret lair where Kaos was experimenting with a new discovery – Petrified Darkness – which he initially intended to use to stage a coup against Skylands. In their fight to stop Kaos, the lair exploded, releasing a cloud of pure Darkness. The Skylanders knew they couldn’t let it escape, so they absorbed this energy, transforming them into dark versions of themselves. Fortunately, Spyro learned to tame that darkness within him long ago. So with his help, these Skylanders now have also learned to control it – combining its power with their own to fight Kaos and the forces of evil.",
+      "content": "While on a special mission, a team of Skylanders discovered a secret lair where Kaos was experimenting with a new discovery – Petrified Darkness – which he initially intended to use to stage a coup against Skylands. In their fight to stop Kaos, the lair exploded, releasing a cloud of pure Darkness. The Skylanders knew they couldn't let it escape, so they absorbed this energy, transforming them into dark versions of themselves. Fortunately, Spyro learned to tame that darkness within him long ago. So with his help, these Skylanders now have also learned to control it – combining its power with their own to fight Kaos and the forces of evil.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Dark_Wash_Buckler_Promo.jpg/revision/latest/scale-to-width-down/267?cb=20130819004440"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Dark_Wash_Buckler_Promo.jpg/revision/latest?cb=20130819004440"
     }
   ],
   "quotes": [
@@ -38,7 +38,8 @@
     }
   ],
   "trivia": [
-    "Despite his artwork, Dark Wash Buckler in both figure and in-game forms, his skin is black instead of gray."
+    "Despite his artwork, Dark Wash Buckler in both figure and in-game forms, his skin is black instead of gray.",
+    "Dark Wash Buckler is voiced by John DiMaggio in English."
   ],
   "trailers": [
     {
@@ -54,66 +55,67 @@
       {
         "name": "Sword Slash",
         "imgPath": "",
-        "content": "",
+        "content": "A powerful melee attack using a cutlass.",
         "is_primary": true,
         "is_secondary": false,
         "price": 0,
         "colors": {
-          "header": "",
-          "bg_content": ""
+          "header": "#00BFFF",
+          "bg_content": "#48D"
         }
       },
       {
         "name": "Bladesail",
         "imgPath": "",
-        "content": "",
+        "content": "A movement-based attack utilizing the mermasquid's pirate sail.",
         "is_primary": false,
         "is_secondary": true,
         "price": 0,
         "colors": {
-          "header": "",
-          "bg_content": ""
+          "header": "#00BFFF",
+          "bg_content": "#48D"
         }
       },
       {
         "name": "Bubble Blaster",
         "imgPath": "",
-        "content": "",
+        "content": "A ranged attack that fires bubbles at enemies.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
         "colors": {
-          "header": "",
-          "bg_content": ""
+          "header": "#00BFFF",
+          "bg_content": "#48D"
         }
       },
       {
         "name": "Somersaulty",
         "imgPath": "",
-        "content": "",
+        "content": "An agile maneuver used to dodge and strike.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
         "colors": {
-          "header": "",
-          "bg_content": ""
-        }
-      },
-      {
-        "name": "Octolash",
-        "imgPath": "",
-        "content": "",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 0,
-        "colors": {
-          "header": "",
-          "bg_content": ""
+          "header": "#00BFFF",
+          "bg_content": "#48D"
         }
       }
     ],
     "basic_upgrades": [],
-    "soulgems": [],
+    "soulgems": [
+      {
+        "name": "Octolash",
+        "imgPath": "",
+        "content": "A powerful finishing move using all eight tentacles.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#48D"
+        }
+      }
+    ],
     "wow_pows": [],
     "upgrade_paths": []
   },
