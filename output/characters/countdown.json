@@ -11,7 +11,7 @@
     "Skylanders: Lost Islands",
     "Skylanders: Trap Team",
     "Stump Smash Crosses the Bone Dragon",
-    "Skylanders: SuperChargers Racing",
+    "Skylanders: SuperChargers' (Racing)",
     "Skylanders: Battlecast",
     "Skylanders: Imaginators"
   ],
@@ -70,9 +70,10 @@
         "Bombs away!",
         "Right on target!",
         "Bada-boom!",
+        "Ha! Ha!",
         "Whoo-hoo-hoo-hoooo!",
-        "Aha! Hahahaha!",
-        "Ahahahaha-haha!",
+        "Aha! Ha,ha,ha,ha!",
+        "A,ha,ha,ha,ha-ha,ha!",
         "Whoo-hoo!",
         "Yippee!",
         "Atomic!",
@@ -176,7 +177,7 @@
     "basic": [
       {
         "name": "Bomb Head",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Countdownprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170429160302",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Countdownprimarypower.png/revision/latest?cb=20170429160302",
         "content": "Press Attack 2 to shoot a Bomb Head that explodes and damages enemies in a large area.",
         "is_primary": true,
         "is_secondary": false,
@@ -188,7 +189,7 @@
       },
       {
         "name": "Rocket Blast",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/Countdownsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170429160350",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/Countdownsecondarypower.png/revision/latest?cb=20170429160350",
         "content": "Press Attack 1 to fire a rocket.",
         "is_primary": false,
         "is_secondary": true,
@@ -202,8 +203,8 @@
     "basic_upgrades": [
       {
         "name": "Controlled Burst",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/70/Countdownbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170429160425",
-        "content": "Hold Attack 1 to charge a rocket, release to shoot a large rocket that deals increased damage.",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/70/Countdownbasicupgrade1.png/revision/latest?cb=20170429160425",
+        "content": "Hold Attack 1 to charge a rocket, release to shoot a large rocket that deals increased damage",
         "is_primary": false,
         "is_secondary": false,
         "price": 500,
@@ -214,7 +215,7 @@
       },
       {
         "name": "Roaring Rockets",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Countdownbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170429160455",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Countdownbasicupgrade2.png/revision/latest?cb=20170429160455",
         "content": "Rockets do increased damage. Kaboom!",
         "is_primary": false,
         "is_secondary": false,
@@ -226,7 +227,7 @@
       },
       {
         "name": "Explosive Friendship",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Countdownbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170429160519",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Countdownbasicupgrade3.png/revision/latest?cb=20170429160519",
         "content": "Press Attack 3 to summon a bomb ally that explodes near enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -238,7 +239,7 @@
       },
       {
         "name": "Hefty Concussion",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/15/Countdownbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170429160551",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/15/Countdownbasicupgrade4.png/revision/latest?cb=20170429160551",
         "content": "Press Attack 2 to shoot a more powerful Bomb Head that does increased damage. Press Attack 1 again to detonate the Bomb Head.",
         "is_primary": false,
         "is_secondary": false,
@@ -252,7 +253,7 @@
     "soulgems": [
       {
         "name": "Self-Destruct",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ea/Countdownsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170429160704",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ea/Countdownsoulgempower.png/revision/latest?cb=20170429160704",
         "content": "Hold Attack 2 for a short amount of time to cause a massive amount of damage to every enemy nearby.",
         "is_primary": false,
         "is_secondary": false,
@@ -270,7 +271,7 @@
         "abilities": [
           {
             "name": "Boom Buddies",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Countdownpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170429160817",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Countdownpath1upgrade1.png/revision/latest?cb=20170429160817",
             "content": "Press Attack 3 to summon a bomb ally that explodes near enemies. Can now have four bomb allies at once.",
             "is_primary": false,
             "is_secondary": false,
@@ -282,7 +283,7 @@
           },
           {
             "name": "Bombing Blitzers",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Countdownpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170429160850",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Countdownpath1upgrade2.png/revision/latest?cb=20170429160850",
             "content": "Bomb allies do increased damage. Adorable and explosive!",
             "is_primary": false,
             "is_secondary": false,
@@ -294,7 +295,7 @@
           },
           {
             "name": "Lingering Sparks",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Countdownpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170429160941",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Countdownpath1upgrade3.png/revision/latest?cb=20170429160941",
             "content": "Bomb allies shoot flames from their fuses that damage nearby enemies",
             "is_primary": false,
             "is_secondary": false,
@@ -311,7 +312,7 @@
         "abilities": [
           {
             "name": "Triple Threat",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/16/Countdownpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170429161501",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/16/Countdownpath2upgrade1.png/revision/latest?cb=20170429161501",
             "content": "Hold Attack 1 to charge a rocket, release to shoot a large rocket and two smaller rockets.",
             "is_primary": false,
             "is_secondary": false,
@@ -323,7 +324,7 @@
           },
           {
             "name": "Warhead Hands",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Countdownpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170429161551",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Countdownpath2upgrade2.png/revision/latest?cb=20170429161551",
             "content": "All rocket attacks do even more damage. Danger! Explosive hugs!",
             "is_primary": false,
             "is_secondary": false,
@@ -335,7 +336,7 @@
           },
           {
             "name": "Mega Mortar",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5d/Countdownpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170429161621",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5d/Countdownpath2upgrade3.png/revision/latest?cb=20170429161621",
             "content": "Controlled Burst does increased damage in a larger area.",
             "is_primary": false,
             "is_secondary": false,
