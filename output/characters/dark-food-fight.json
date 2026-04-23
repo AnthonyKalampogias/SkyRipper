@@ -17,20 +17,20 @@
     "Skylands"
   ],
   "description": "Dark Food Fight is a dark version of Food Fight from Skylanders: Trap Team.",
-  "biography": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium – which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it – combining the dark power with their own to fight Kaos and the forces of evil.",
+  "biography": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium - which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it - combining the dark power with their own to fight Kaos and the forces of evil.",
   "quote": "Eat This!",
-  "personality": "Fortunately, they have learned to control it – combining the dark power with their own to fight Kaos and the forces of evil.",
+  "personality": "Fortunately, they have learned to control it - combining the dark power with their own to fight Kaos and the forces of evil.",
   "story": [
     {
       "story_name": "Biography",
-      "content": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium – which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it – combining the dark power with their own to fight Kaos and the forces of evil.",
+      "content": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium - which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it - combining the dark power with their own to fight Kaos and the forces of evil.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a5/Dark_FoodFight_Promo.jpg"
     }
   ],
   "quotes": [
     {
-      "quote_type": "Battle Cries",
+      "quote_type": "Official Catchphrase",
       "content": [
         "Eat This!"
       ]
@@ -44,12 +44,12 @@
     {
       "name": "Meet the Skylanders Dark Food Fight",
       "isValid": true,
-      "url": "/wiki/File:Meet_the_Skylanders_Dark_Food_Fight"
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Dark_Food_Fight"
     },
     {
       "name": "Skylanders Power Play Dark Foodfight",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Power_Play_Dark_Foodfight"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Dark_Foodfight"
     }
   ],
   "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games. Dark Food Fight uses his Tomato Launcher and Blooms of Doom to overwhelm enemies.",
