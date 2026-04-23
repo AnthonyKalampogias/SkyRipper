@@ -7,7 +7,8 @@
   "role": "Dark Edition SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes (Beta and 1.0)"
   ],
@@ -24,7 +25,7 @@
       "story_name": "Biography",
       "content": "While on a special mission, a team of Skylanders discovered a secret lair where Kaos was experimenting with a new discovery -- Petrified Darkness -- which he initially intended to use to stage a coup against Skylands. In their fight to stop Kaos, the lair exploded, releasing a cloud of pure Darkness. The Skylanders knew they couldn't let it escape, so they absorbed this energy, transforming them into dark versions of themselves. Fortunately, Spyro learned to tame that darkness within him long ago. So with his help, these Skylanders now have also learned to control it -- combining its power with their own to fight Kaos and the forces of evil.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Dark_Spitfire_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20150707195756"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Dark_Spitfire_Promo.jpg/revision/latest?cb=20150707195756"
     }
   ],
   "quotes": [
@@ -53,7 +54,7 @@
     "basic": [
       {
         "name": "Fuel Injected Claws",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5c/Dark_Spitfireheroability1.png/revision/latest/scale-to-width-down/60?cb=20220207033722",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5c/Dark_Spitfireheroability1.png/revision/latest?cb=20220207033722",
         "content": "[1 Enemy] Dashes towards an enemy and swings an uppercut to [decrease Endurance]. Mana cost: 2 Cooldown: 18 seconds",
         "is_primary": true,
         "is_secondary": false,
@@ -65,7 +66,7 @@
       },
       {
         "name": "Nitro Boost",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Dark_Spitfireheroability2.png/revision/latest/scale-to-width-down/60?cb=20220207033729",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Dark_Spitfireheroability2.png/revision/latest?cb=20220207033729",
         "content": "[All Enemies] Stirs up all enemies at high speed and casts [ATK DOWN] for 1 turn(s). Mana cost: 3 Cooldown: 14 seconds",
         "is_primary": false,
         "is_secondary": true,
@@ -79,7 +80,7 @@
     "basic_upgrades": [
       {
         "name": "Triathlete",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Dark_Spitfireheroability3.png/revision/latest/scale-to-width-down/60?cb=20220207033757",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Dark_Spitfireheroability3.png/revision/latest?cb=20220207033757",
         "content": "[SELF] If there's a team member with the [Provoke] Effect, excluding yourself, steals the beneficial effect x0 whenever you attack the enemy.",
         "is_primary": false,
         "is_secondary": false,
@@ -91,7 +92,7 @@
       },
       {
         "name": "Triathlete Boost",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Dark_Spitfireheroability4.png/revision/latest/scale-to-width-down/60?cb=20220207034824",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Dark_Spitfireheroability4.png/revision/latest?cb=20220207034824",
         "content": "[1 Enemy] Slams into an enemy at high speed. This attack ignores 30% of the target's DEF. If enemy has [DEF UP] effect, deals a bonus hit which ignores 50% of DEF. Mana cost: 5 Cooldown: 8 seconds",
         "is_primary": false,
         "is_secondary": false,
@@ -103,7 +104,7 @@
       },
       {
         "name": "Intensified Fury",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f0/Dark_Spitfireheroability5.png/revision/latest/scale-to-width-down/60?cb=20220207034842",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f0/Dark_Spitfireheroability5.png/revision/latest?cb=20220207034842",
         "content": "All allies gain [CRIT DMG UP] for 1 turn(s) if the enemy gets [knocked down]. Mana cost: 0 Cooldown: 1",
         "is_primary": false,
         "is_secondary": false,
@@ -122,7 +123,7 @@
     {
       "id": "dark-spitfire",
       "variant_name": "Dark Spitfire",
-      "edition": "Series 1",
+      "edition": "Dark Edition",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
       "image": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Dark_Spitfire_Promo.jpg/revision/latest?cb=20150707195756",
@@ -153,6 +154,26 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "30"
+        },
+        {
+          "stat_name": "Top Speed",
+          "stat_value": "10"
+        },
+        {
+          "stat_name": "Acceleration",
+          "stat_value": "20"
+        },
+        {
+          "stat_name": "Handling",
+          "stat_value": "17"
+        },
+        {
+          "stat_name": "Firepower",
+          "stat_value": "15"
+        },
+        {
+          "stat_name": "Armour",
+          "stat_value": "8"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Spitfire"
