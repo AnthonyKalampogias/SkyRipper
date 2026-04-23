@@ -19,19 +19,19 @@
   "description": "Cyclops Snail is a scrapped water Skylander that originated from the early concept of Spyro's Kingdom. He was one of the original five characters planned for Spyro's Kingdom, but kept getting redesigned too many times so he was ultimately cut and developed into his successor, Zap. During development, he also went by the names Cyclops Slime and Tarclops.",
   "biography": "A creature from the sea, Tarclops is slow on land but fierce in water. Many years ago, Tarclops was sent to the islands by his father, King Cyclops, to find a stolen relic that belongs to their underworld kingdom.",
   "quote": "Slow on land but fierce in water!",
-  "personality": "Described as a 'really fun, but totally bizarre' character. Michael Graham noted that he was 'so weird' and quirky, but through numerous redesigns (including changing colors from blue to purple and then to an oil-based creature called Tarclops), he eventually lost the qualities the designers originally liked.",
+  "personality": "Described as a 'really fun, but totally bizarre' character, Michael Graham noted that he was 'so weird' and quirky. However, through numerous redesigns—including changing colors from blue to purple and eventually becoming an oil-based creature named Tarclops—the character designer felt the original charm was lost, leading to the character's cancellation.",
   "story": [
     {
       "story_name": "Development",
       "content": "Michael Graham, producer of the Skylanders franchise, described Cyclops Snail as a 'little blue water slug that zipped around, left a little pool of sludge behind him, and he would scream and shoot electricity. He was just so weird — really fun, but totally bizarre. After some feedback, we changed him from blue to purple, but then it was 'you can’t have two purple characters, because Spyro is purple.' Then we got an early version of what Cyclops Snail's toy might look like, and we thought, 'Oh my gosh, these don’t look at all detailed, not in the way that we want them to be.’ He was revised again, made of oil and now called Tarclops, and that was the final straw. The character evolved so much, by the end, character designer I-Wei Huang at Toys For Bob felt that everything he liked about the character was gone, so we thought, let’s just scrap it — we’ve got to go in a different direction.'",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/38/Tarclops_Concept_IWeiHuang.jpg/revision/latest/scale-to-width-down/185?cb=20211007003405"
     },
     {
       "story_name": "Biography",
       "content": "A creature from the sea, Tarclops is slow on land but fierce in water. Many years ago, Tarclops was sent to the islands by his father, King Cyclops, to find a stolen relic that belongs to their underworld kingdom.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ab/SpyrosKingdom_Character_Cards.jpg/revision/latest/scale-to-width-down/185?cb=20190918200630"
     }
   ],
   "quotes": [
@@ -46,7 +46,7 @@
     "Cyclops Snail makes a cameo in Skylanders: Trap Team as the 'Gloop Hat'.",
     "Cyclops Snail resembles B.O.B. from Monsters vs. Aliens.",
     "He also resembles the Tar Monster from Scooby Doo 2: Monsters Unleashed.",
-    "Had he appeared in the final game of Spyro's Adventure, Cyclops Snail would have been the first Skylander to have only one eye."
+    "Had he appeared in the final game of Spyro's Adventure, Cyclops Snail would have been the first Skylander to have only one eye (others being Shroomboom, Eye-Brawl, Eye Small, Rocky Roll, Magna Charge, Dive-Clops, Smash Hit and Ro-Bow)."
   ],
   "trailers": [
     {
@@ -55,13 +55,13 @@
       "url": "https://youtu.be/ls5m7S3rRnk?t=2691"
     }
   ],
-  "gameplay": "Cyclops Snail was a blue water slug that zipped around, leaving a pool of sludge behind him. His primary method of attack was to scream and shoot electricity. His mechanics were later repurposed and evolved into the character Zap.",
+  "gameplay": "Cyclops Snail was a blue water slug that zipped around, leaving a pool of sludge behind him. His primary method of attack was to scream and shoot electricity. His mechanics were later repurposed and evolved into the character Zap. For a time as Tarclops, he was even considered for the starter pack of Spyro's Kingdom before being replaced by Trigger Happy.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Cyclops_Snail",
   "abilities": {
     "basic": [
       {
         "name": "Sludge Trail",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a8/Spyro%27sKingdom_CyclopsSnail_Selection.jpg/revision/latest/scale-to-width-down/268?cb=20211013035523",
         "content": "A little blue water slug that zips around, leaving a pool of sludge behind him.",
         "is_primary": true,
         "is_secondary": false,
@@ -73,7 +73,7 @@
       },
       {
         "name": "Electric Scream",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a8/Spyro%27sKingdom_CyclopsSnail_Selection.jpg/revision/latest/scale-to-width-down/268?cb=20211013035523",
         "content": "Cyclops Snail screams and shoots electricity at enemies.",
         "is_primary": false,
         "is_secondary": true,
@@ -97,6 +97,20 @@
       "type": "Core",
       "game": "Spyro's Kingdom (scrapped)",
       "image": "https://static.wikia.nocookie.net/skylanders/images/a/a8/Spyro%27sKingdom_CyclopsSnail_Selection.jpg/revision/latest?cb=20211013035523",
+      "attacks": [
+        "Sludge Trail",
+        "Electric Scream"
+      ],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Cyclops_Snail"
+    },
+    {
+      "id": "tarclops-prototype",
+      "variant_name": "Tarclops",
+      "edition": "Prototype",
+      "type": "Core",
+      "game": "Spyro's Kingdom (scrapped)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Early_Tarclops.jpg/revision/latest/scale-to-width-down/185?cb=20190730080710",
       "attacks": [
         "Sludge Trail",
         "Electric Scream"
