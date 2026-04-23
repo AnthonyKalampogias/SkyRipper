@@ -1,5 +1,5 @@
 {
-  "id": "d-j-vu",
+  "id": "deja-vu",
   "name": "Déjà Vu",
   "species": "Unknown",
   "gender": "Female",
@@ -14,7 +14,13 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": [],
+  "cameos": [
+    "Torch",
+    "Trail Blazer",
+    "Fist Bump",
+    "Fling Kong",
+    "Spyro"
+  ],
   "world": [
     "Skylands"
   ],
@@ -98,7 +104,7 @@
     "basic": [
       {
         "name": "Space-Time Shots",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/47/D%C3%A9j%C3%A0_Vuprimarypower.png/revision/latest/scale-to-width-down/148?cb=20140922043954",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/47/Déjà_Vuprimarypower.png/revision/latest/scale-to-width-down/148?cb=20140922043954",
         "content": "Shoot a magical ball of time energy that homes in on enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -110,7 +116,7 @@
       },
       {
         "name": "Past Selves",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/70/D%C3%A9j%C3%A0_Vusecondarypower.png/revision/latest/scale-to-width-down/148?cb=20140922044034",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/70/Déjà_Vusecondarypower.png/revision/latest/scale-to-width-down/148?cb=20140922044034",
         "content": "Press Button 2 to bring a version of your past self that explodes. Press Button 2 again to switch places with it.",
         "is_primary": false,
         "is_secondary": true,
@@ -124,7 +130,7 @@
     "basic_upgrades": [
       {
         "name": "Time Shift",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/D%C3%A9j%C3%A0_Vubasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20140922044051",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Déjà_Vubasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20140922044051",
         "content": "Press Button 3 to create a Time Rift, damaging all who touch it. Shoot the Time Rift to create a black hole.",
         "is_primary": false,
         "is_secondary": false,
@@ -136,7 +142,7 @@
       },
       {
         "name": "Long-Term Memory",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/71/D%C3%A9j%C3%A0_Vubasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506014301",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/71/Déjà_Vubasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506014301",
         "content": "Past Selves last longer and replay a longer history.",
         "is_primary": false,
         "is_secondary": false,
@@ -148,7 +154,7 @@
       },
       {
         "name": "Time Rifts Aplenty",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/D%C3%A9j%C3%A0_Vubasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506014306",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/Déjà_Vubasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506014306",
         "content": "Have more Time Rifts active at once. Time Rifts now attract Space-Time Shots.",
         "is_primary": false,
         "is_secondary": false,
@@ -160,7 +166,7 @@
       },
       {
         "name": "Circular Logic",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/28/D%C3%A9j%C3%A0_Vubasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506014313",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/28/Déjà_Vubasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506014313",
         "content": "Past Selves fire Time-Space Shots.",
         "is_primary": false,
         "is_secondary": false,
@@ -174,7 +180,7 @@
     "soulgems": [
       {
         "name": "Black Hole Beldom",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/D%C3%A9j%C3%A0_Vusoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506014316",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/Déjà_Vusoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506014316",
         "content": "Time Rifts now turn into massive black holes, releasing unstable time power",
         "is_primary": false,
         "is_secondary": false,
@@ -192,7 +198,7 @@
         "abilities": [
           {
             "name": "Explosion Déjà Vu",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d6/D%C3%A9j%C3%A0_Vupath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506015646",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d6/Déjà_Vupath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506015646",
             "content": "When a Past Self explodes, the explosion is repeated 2 more times.",
             "is_primary": false,
             "is_secondary": false,
@@ -204,7 +210,7 @@
           },
           {
             "name": "Time Heals All Wounds",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ac/D%C3%A9j%C3%A0_Vupath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506015651",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ac/Déjà_Vupath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506015651",
             "content": "When a Past Self takes damage, you are healed.",
             "is_primary": false,
             "is_secondary": false,
@@ -216,7 +222,7 @@
           },
           {
             "name": "Space-Time Duality",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/D%C3%A9j%C3%A0_Vupath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506015657",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/Déjà_Vupath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506015657",
             "content": "Shoot two Space-Time Shots at once.",
             "is_primary": false,
             "is_secondary": false,
@@ -233,7 +239,7 @@
         "abilities": [
           {
             "name": "Warp Field",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5d/D%C3%A9j%C3%A0_Vupath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506015703",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5d/Déjà_Vupath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506015703",
             "content": "Shoot a Past Self to create a warp field, pulling enemies towards the Past Self.",
             "is_primary": false,
             "is_secondary": false,
@@ -245,7 +251,7 @@
           },
           {
             "name": "Past Self Paralysis",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/37/D%C3%A9j%C3%A0_Vupath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506015707",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/37/Déjà_Vupath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506015707",
             "content": "Past Selves do extra damage and freeze all nearby enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -257,7 +263,7 @@
           },
           {
             "name": "Go Out With a Bang",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/47/D%C3%A9j%C3%A0_Vupath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506015712",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/47/Déjà_Vupath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506015712",
             "content": "When a Past Self explodes, or when you switch with it, it releases Space-Time Shots.",
             "is_primary": false,
             "is_secondary": false,
@@ -273,12 +279,12 @@
   },
   "variants": [
     {
-      "id": "d-j-vu",
+      "id": "deja-vu",
       "variant_name": "Déjà Vu",
       "edition": "Series 1",
       "type": "Core Slylander",
       "game": "Skylanders: Trap Team",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/4/41/D%C3%A9j%C3%A0_Vu_Promo.jpg/revision/latest?cb=20140917183946",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/41/Déjà_Vu_Promo.jpg/revision/latest?cb=20140917183946",
       "attacks": [
         "Space-Time Shots",
         "Past Selves",
