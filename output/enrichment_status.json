@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-23T15:05:56.591Z",
+  "last_run": "2026-04-23T21:02:41.661Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -268,6 +268,10 @@
     {
       "name": "Dark Turbo Charge Donkey Kong",
       "sha": "129cdc5300a7901daa76d0b5bdac852baf760ef55b5139b400e53ea9d16f540e"
+    },
+    {
+      "name": "Dark Wash Buckler",
+      "sha": "bc3ee6578055f0b0d0d76fd52ff2f4d4098781ed8579cde99b015f9bd277477b"
     }
   ]
 }
