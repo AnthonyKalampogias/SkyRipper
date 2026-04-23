@@ -23,7 +23,7 @@
   "personality": "Dark Slobber Tooth has learned to control the darkness within him, combining its power with his own to fight Kaos and the forces of evil.",
   "story": [
     {
-      "story_name": "Background",
+      "story_name": "Biography",
       "content": "While on a special mission, a team of Skylanders discovered a secret lair where Kaos was experimenting with a new discovery -- Petrified Darkness -- which he initially intended to use to stage a coup against Skylands. In their fight to stop Kaos, the lair exploded, releasing a cloud of pure Darkness. The Skylanders knew they couldn't let it escape, so they absorbed this energy, transforming them into dark versions of themselves. Fortunately, Spyro learned to tame that darkness within him long ago. So with his help, these Skylanders now have also learned to control it -- combining its power with their own to fight Kaos and the forces of evil.",
       "hasImage": false,
       "imgPath": ""
@@ -53,7 +53,7 @@
     "basic": [
       {
         "name": "Horn Swipe",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/15/Portrait_ssf_slobber_tooth_dark.png/revision/latest?cb=20160103195232",
         "content": "Dark Slobber Tooth uses his horns to swipe at enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -65,7 +65,7 @@
       },
       {
         "name": "Chomp & Chunk",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/15/Portrait_ssf_slobber_tooth_dark.png/revision/latest?cb=20160103195232",
         "content": "Dark Slobber Tooth chomps down on enemies and chunks them away.",
         "is_primary": false,
         "is_secondary": true,
@@ -121,7 +121,7 @@
   },
   "variants": [
     {
-      "id": "dark-slobber-tooth",
+      "id": "dark-slobber-tooth-s1",
       "variant_name": "Dark Slobber Tooth",
       "edition": "Dark Edition",
       "type": "Dark",
@@ -154,6 +154,22 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "35/85"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "145"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "130"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "25"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "20"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Slobber_Tooth"
