@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-23T03:11:43.250Z",
+  "last_run": "2026-04-23T09:33:07.221Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -180,6 +180,82 @@
     {
       "name": "Cobra Cadabra",
       "sha": "d5a7c5c8e3ad502067a681811d3735622561e70edd802e9c2fac31c17509747a"
+    },
+    {
+      "name": "Core Skylanders",
+      "sha": "eb8bbb8d1541732ea5fc31910679cdb00cb21a423c7c1000f8ff16e92dfe012c"
+    },
+    {
+      "name": "Countdown",
+      "sha": "d330c119e9fdc98f7a6d58985444d2523c972d485a6c0f7e015aed7a68f33f54"
+    },
+    {
+      "name": "Crash Bandicoot",
+      "sha": "bf5063af81147c9653667dc56f24adde4a7f6e77540e8f8a172ec97df1dfb154"
+    },
+    {
+      "name": "Crusher",
+      "sha": "9cef1701afc7d21e22fd5c2c35220896c4b5e0d0f47589b7a0cb70a187cc3d08"
+    },
+    {
+      "name": "Cupid Flameslinger",
+      "sha": "b13f9e4069f59a7974b13279d1320bf3df9c19ad1d6534f0659a0477fe80f3ab"
+    },
+    {
+      "name": "Cy",
+      "sha": "bb73c5896dd6a65544a9b9cb299402cfe3526a40a630d7b7cb22ba3cad1bbce9"
+    },
+    {
+      "name": "Cyclops Snail",
+      "sha": "a65ff4d6175bc66201776d6a7c7e938ba6cf3979458a6c64098f4a59b8ab81d2"
+    },
+    {
+      "name": "Cynder",
+      "sha": "ed70033d1f2c619782b694cf66b746a6d15c33955d72fc6845ce9064138d5fa8"
+    },
+    {
+      "name": "Déjà Vu",
+      "sha": "04ee02fd834e977e0a7658457b1592f8c9e1a2fcb3dbe0f91d6f60d58cecfe9d"
+    },
+    {
+      "name": "Dark Blast Zone",
+      "sha": "e626afe889dd90e14652dbe84de18581e880ed9b3f775f1f69f37e63627693bb"
+    },
+    {
+      "name": "Dark Edition Skylanders",
+      "sha": "d9933da00f717ac0d6c08550dd9609b4edaa39356f931c5746f3e0630a1a2b48"
+    },
+    {
+      "name": "Dark Food Fight",
+      "sha": "45f24dac5145397ea4fec2abed15cf9db71b9e05ccf75ce29b3f5761f57698b8"
+    },
+    {
+      "name": "Dark Golden Queen",
+      "sha": "11042da8b5d4b554b7e5f46171eabb0dfa1655be683ecf891b5ac7473f2d6210"
+    },
+    {
+      "name": "Dark Hammer Slam Bowser",
+      "sha": "a92831026b189bfab6503363c021f3027ed5302fdabd6570f03646d14571ffb3"
+    },
+    {
+      "name": "Dark King Pen",
+      "sha": "d947c6764e934f1e8e6d705fb883dc9d831b0a8fd15a87fd60982fe5cfaec195"
+    },
+    {
+      "name": "Dark Slobber Tooth",
+      "sha": "4373e0d343496a667d1ba9d944ebcdf7ed643d3c8d83421ffd41e184cf50cf5f"
+    },
+    {
+      "name": "Dark Snap Shot",
+      "sha": "8a5441660e662819ee447491427b8084f7d95bc81e43da8c987cbb7f8cf03415"
+    },
+    {
+      "name": "Dark Spitfire",
+      "sha": "c147cbb871d92ea683cfac32d3b415c3bceb68fa3510430aed366e1acc002c88"
+    },
+    {
+      "name": "Dark Spyro",
+      "sha": "7efec2279d0e54fb4954d62a694e787ad8e28df0103c75f6e70a4b8f5b9ce349"
     }
   ]
 }
