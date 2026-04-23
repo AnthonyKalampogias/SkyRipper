@@ -4,7 +4,7 @@
   "species": "Koopa",
   "gender": "Male",
   "element": "Fire",
-  "role": "SuperCharger",
+  "role": "Dark Edition SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers (Racing)",
@@ -18,7 +18,14 @@
   "biography": "Dark Hammer Slam Bowser is the Dark counterpart of Hammer Slam Bowser in Skylanders: SuperChargers. His signature vehicle is the Dark Clown Cruiser.",
   "quote": "Showtime!",
   "personality": "Not specified in the records, but Bowser maintains his powerful and commanding presence as a Koopa King.",
-  "story": [],
+  "story": [
+    {
+      "story_name": "Dark SuperCharger",
+      "content": "Dark Hammer Slam Bowser is the Dark counterpart of Hammer Slam Bowser in Skylanders: SuperChargers. As a guest character from the Mushroom Kingdom, he brings his powerful Koopa King abilities to the Skylanders universe, piloting the Dark Clown Cruiser to take down Kaos.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Dark_Bowser_Art.jpg/revision/latest?cb=20150909232559"
+    }
+  ],
   "quotes": [
     {
       "quote_type": "Character Selection",
@@ -29,7 +36,8 @@
   ],
   "trivia": [
     "Dark Hammer Slam Bowser is one of the guest characters from the Nintendo franchise.",
-    "He is the Dark counterpart of Hammer Slam Bowser."
+    "He is the Dark counterpart of Hammer Slam Bowser.",
+    "His signature vehicle is the Dark Clown Cruiser."
   ],
   "trailers": [
     {
@@ -161,6 +169,26 @@
         {
           "stat_name": "Armour",
           "stat_value": "20"
+        },
+        {
+          "stat_name": "Imaginators Health",
+          "stat_value": "300 (Lv. 20: 900)"
+        },
+        {
+          "stat_name": "Imaginators Attack",
+          "stat_value": "10 (Lv. 20: 60)"
+        },
+        {
+          "stat_name": "Imaginators Armor",
+          "stat_value": "14 (Lv. 20: 39)"
+        },
+        {
+          "stat_name": "Imaginators Speed",
+          "stat_value": "2 (Lv. 20: 32)"
+        },
+        {
+          "stat_name": "Imaginators Luck",
+          "stat_value": "6 (Lv. 20: 26)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Hammer_Slam_Bowser"
