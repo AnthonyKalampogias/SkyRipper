@@ -52,7 +52,7 @@
     "basic": [
       {
         "name": "Bomb Throw",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Dark_Blast_Zone_Promo.jpg/revision/latest?cb=20130819002755",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Portrait_ssf_blast_zone_dark.png/revision/latest?cb=20131102195034",
         "content": "Dark Blast Zone throws explosive bombs at enemies to deal high area damage.",
         "is_primary": true,
         "is_secondary": false,
@@ -64,7 +64,7 @@
       },
       {
         "name": "Rocket Dash",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Dark_Blast_Zone_Promo.jpg/revision/latest?cb=20130819002755",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Portrait_ssf_blast_zone_dark.png/revision/latest?cb=20131102195034",
         "content": "Using his rocket boots, Dark Blast Zone dashes forward, leaving a trail of fire and damaging anyone in his path.",
         "is_primary": false,
         "is_secondary": true,
@@ -78,7 +78,7 @@
     "basic_upgrades": [
       {
         "name": "Flame Breath",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Dark_Blast_Zone_Promo.jpg/revision/latest?cb=20130819002755",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Portrait_ssf_blast_zone_dark.png/revision/latest?cb=20131102195034",
         "content": "Dark Blast Zone exhales a stream of fire that deals continuous damage to enemies in front of him.",
         "is_primary": false,
         "is_secondary": false,
@@ -90,7 +90,7 @@
       },
       {
         "name": "Flaming Bombs",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Dark_Blast_Zone_Promo.jpg/revision/latest?cb=20130819002755",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Portrait_ssf_blast_zone_dark.png/revision/latest?cb=20131102195034",
         "content": "Dark Blast Zone's bombs now deal increased fire damage and have a larger explosion radius.",
         "is_primary": false,
         "is_secondary": false,
@@ -104,7 +104,7 @@
     "soulgems": [
       {
         "name": "Ready For Blast Off",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Dark_Blast_Zone_Promo.jpg/revision/latest?cb=20130819002755",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Portrait_ssf_blast_zone_dark.png/revision/latest?cb=20131102195034",
         "content": "The ultimate rocket dash that leaves a massive explosion at the start and end of the dash.",
         "is_primary": false,
         "is_secondary": false,
