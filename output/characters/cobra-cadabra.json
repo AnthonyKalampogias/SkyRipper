@@ -69,12 +69,12 @@
     "He is the second snake Skylander in the series, after Rattle Shake and before Pit Boss. He is currently the only snake Skylander who is not in the Undead element.",
     "Cobra Cadabra's name is a play on the magic word 'Abracadabra.'",
     "His eyes constantly shrink and grow, a reference to snake hypnotism.",
-    "He is one of the few playable characters to use a musical instrument as a weapon. Additionally, each of the characters' weapons come from the four main instrument groups; Cobra Cadabra's flute: Woodwinds, Wolfgang's bone harp: Strings, Fiesta's trumpet: Brass, and Donkey Kong's bongo drums: Percussion.",
+    "He is one of the few playable characters to use a musical instrument as a weapon (the others being Wolfgang, Fiesta, Pain Yatta, and Turbo Charge Donkey Kong). Additionally, each of the characters' weapons come from the four main instrument groups; Cobra Cadabra's flute: Woodwinds, Wolfgang's bone harp: Strings, Fiesta's trumpet: Brass, and Donkey Kong's bongo drums: Percussion.",
     "Oddly, Cobra Cadabra does not hiss whenever he says the letter 'S.' As of Imaginators, he is the only snake character to not do so.",
     "Not counting the variants, guests or SuperCharger versions of previous Skylanders, Cobra Cadabra has the highest amount of syllables in his name, specifically five.",
     "Cobra Cadabra is bugged in Trap Team so that, if a cinematic or dialogue scene interrupts him while playing the flute, he will remain in his flute-playing position until the attack is used again.",
     "If Cobra Cadabra is wearing a trinket which goes in his mouth, when he goes to play his flute, the trinket will temporarily disappear, only to reappear when he finishes playing.",
-    "In SuperChargers and Imaginatiors, when he plays his snake charmer's solo, his flute tune and music sounds different from how it did in Trap Team."
+    "In SuperChargers and Imaginatiors, when he plays his snake charmer's solo, his flute tune and music sounds different from how it did in Trap Team. It sounds like ordinary flute music instead of hypnotic flute music."
   ],
   "trailers": [
     {
@@ -285,26 +285,102 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "290"
+          "stat_value": "290 (max. 580)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "70"
+          "stat_value": "70 (max. 118)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "36"
+          "stat_value": "36 (max. 66)"
         },
         {
           "stat_name": "Critical Hit",
-          "stat_value": "40"
+          "stat_value": "40 (max. 90)"
         },
         {
           "stat_name": "Elemental Power",
-          "stat_value": "46"
+          "stat_value": "46 (max. 96)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Cobra_Cadabra"
+    },
+    {
+      "id": "king-cobra-cadabra",
+      "variant_name": "King Cobra Cadabra",
+      "edition": "Alt Decos",
+      "type": "Core",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Cobra_Cadabra_Promo.jpg/revision/latest?cb=20141001165633",
+      "attacks": [
+        "Magic Flute",
+        "Cobra Basket",
+        "Keep The Beat!",
+        "Reverb Riff",
+        "Basket Quintet"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (max. 580)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 (max. 118)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "36 (max. 66)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40 (max. 90)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46 (max. 96)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/King_Cobra_Cadabra"
+    },
+    {
+      "id": "charming-cobra-cadabra",
+      "variant_name": "Charming Cobra Cadabra",
+      "edition": "Lost Islands Alter Egos",
+      "type": "Core",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Cobra_Cadabra_Promo.jpg/revision/latest?cb=20141001165633",
+      "attacks": [
+        "Magic Flute",
+        "Cobra Basket",
+        "Keep The Beat!",
+        "Reverb Riff",
+        "Basket Quintet"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (max. 580)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 (max. 118)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "36 (max. 66)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40 (max. 90)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46 (max. 96)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Charming_Cobra_Cadabra"
     }
   ]
 }
