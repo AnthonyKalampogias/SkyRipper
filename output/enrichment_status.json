@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-22T21:04:59.193Z",
+  "last_run": "2026-04-23T03:11:43.250Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -168,6 +168,18 @@
     {
       "name": "Chop Chop",
       "sha": "be180007ae81fb3d2031f9fc051da7cecee61b116d907a8ed253e5e9938e631a"
+    },
+    {
+      "name": "Chopper",
+      "sha": "86d07521aaa8aaff8dec3458343786df864fd7615f15af0f94a1ae1489a1d115"
+    },
+    {
+      "name": "Chopscotch",
+      "sha": "aace342cb913aa37d4104b011fbba1b1136e28b8185a0ef5b604d0aad4f405ed"
+    },
+    {
+      "name": "Cobra Cadabra",
+      "sha": "d5a7c5c8e3ad502067a681811d3735622561e70edd802e9c2fac31c17509747a"
     }
   ]
 }
