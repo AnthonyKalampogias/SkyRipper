@@ -9,7 +9,10 @@
   "appearances": [
     "Skylanders: Imaginators"
   ],
-  "cameos": [],
+  "cameos": [
+    "Crash Bandicoot Purple: Ripto's Rampage",
+    "Spyro Orange: The Cortex Conspiracy"
+  ],
   "world": [
     "Wumpa Island"
   ],
@@ -22,7 +25,7 @@
       "story_name": "Thumpin' Wumpa Islands",
       "content": "In the Thumpin' Wumpa Islands, Crash Bandicoot was celebrating the Synchronization Celebration with Aku Aku when Dr. Neo Cortex's latest evil scheme went haywire. Meanwhile, Spyro and Mags were on their way to Wumpa Island themselves, and Dr. Neo Cortex was praising his latest invention, the Cortex Matrix Chamber. However, one of his minions, Fake Crash, allowed his curiosity get him as he hijacked the machine, sending the scientist rocketing towards the start of the main island. Though reluctant to trust Cortex, Crash, Aku Aku, Spyro, Mags, and the Skylanders team up with the villain to get rid of the Bad Vibes. At the end of the level, Crash was seen pointing his pointer fingers at Dr. Cortex (possibly his way of complimenting him), but backed away when he saw Cortex getting angry.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Skylanders_Imaginators_Crash_1.jpg/revision/latest/scale-to-width-down/185?cb=20160614034830"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Skylanders_Imaginators_Crash_1.jpg"
     }
   ],
   "quotes": [
@@ -46,10 +49,15 @@
     "Using Crash's slide attack in the air has him do a divekick, a common move in fighting games.",
     "Crash will skid for a second when he stops running and does not do any other action such as jumping or attacking.",
     "He, Cortex, Wild Storm and Ro-Bow are the only characters to also act as Adventure Pack figures.",
+    "Crash has the only known example of a scrapped Sensei Training Bonus line. The original was as follows, and played in the E3 2016 demo of Imaginators: 'Fear not, Portal Master. I, the wise Aku Aku will act as transmitter for Crash Bandicoot, and assist in making your Imaginators more powerful then ever! And if there are those who have chosen the noble path of Brawler, Crash will train them in a lost Bandicoot-granted secret technique!'",
     "Crash Bandicoot and Dr. Neo Cortex are the only guest characters whom are owned by the same company which owns the Skylanders franchise.",
     "He and Donkey Kong are currently the only guest characters in the Life element.",
-    "As of Skylanders: Imaginators, he has the lowest health out of all the Skylanders.",
-    "He is the fourth Skylander to have the ability to return to life after getting defeated, the first being Night Shift, the second being Double Dare Trigger Happy and the third being Astroblast."
+    "Aku Aku referring to Spyro as an old friend of Crash could possibly be in reference to the demos they've had to one another's game in the past, as well as cameos in the other's game, or their crossover games Crash Purple and Spyro Orange.",
+    "Unlike Hammer Slam Bowser and Turbo Charge Donkey Kong who are only exclusive to Nintendo, Crash and Dr. Neo Cortex are the first and only guest characters that can be played in any gaming consoles.",
+    "Also unlike Donkey Kong and Bowser, they keep most of their original moveset and appearance.",
+    "As of Skylanders: Imaginators, he has the lowest health out of all the Skylanders. However, because of his multiple lives, he still has more health overall than Trigger Happy and Spitfire.",
+    "He is the fourth Skylander to have the ability to return to life after getting defeated, the first being Night Shift, the second being Double Dare Trigger Happy and the third being Astroblast.",
+    "He and Cortex are the only Senseis not featured in Skylanders Creator. Despite that, their unique parts can still be unlocked through timed chests."
   ],
   "trailers": [],
   "gameplay": "Crash Bandicoot retains several of his old abilities from the Crash Bandicoot series as a Skylander. He can perform a punch combo before unleashing his classic spin attack, and even perform his classic slide attack. These can be further upgraded to extend the duration and damage of the spin attack as well as adding an upward kick to the end of the slide attack that Crash can combo out of. He is also capable of performing his classic body slam attack to stun enemies briefly and throw out explosive crates that he can then direct into enemies. A key aspect of Crash Bandicoot's gameplay is his low health and armor, which makes him one of the most frail Skylanders to date. Crash compensates for this by having the highest attack of all Sensei's, as well as the ability to regenerate with brief invincibility multiple times before needing to rest. Crash also has a chance to generate extra lives during combat when he throws out a crate. With his Soul Gem, he also has a chance throw out a special crate that releases his Fruit Bazooka, which he will then use to attack enemies from above. For his Sky-Chi, he uses his yo-yo to pull enemies towards him to attack, though he also entangles himself with it once the meter runs out.",
@@ -58,7 +66,7 @@
     "basic": [
       {
         "name": "Cyclone Spin",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Crash_Bandicootprimarypower.png/revision/latest/scale-to-width-down/148?cb=20161116132018",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Crash_Bandicootprimarypower.png/revision/latest?cb=20161116132018",
         "content": "Press Attack 1 to spin into enemies and knock them down a peg.",
         "is_primary": true,
         "is_secondary": false,
@@ -70,7 +78,7 @@
       },
       {
         "name": "Super Slide",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Crash_Bandicootsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20161116132106",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Crash_Bandicootsecondarypower.png/revision/latest?cb=20161116132106",
         "content": "Press Attack 2 to slide kick towards enemies and knock them back.",
         "is_primary": false,
         "is_secondary": true,
@@ -84,7 +92,7 @@
     "basic_upgrades": [
       {
         "name": "Crate Going and Body Slam",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Crash_Bandicootbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20161116132715",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Crash_Bandicootbasicupgrade1.png/revision/latest?cb=20161116132715",
         "content": "Press Attack 3 to toss a crate that explodes. Super slide into or spin near crates to move them around. After enough combat, the next crate is a Crash Crate that spawns an extra life upon destruction. Jump and press Attack 3 to perform a classic body slam belly flop!",
         "is_primary": false,
         "is_secondary": false,
@@ -96,7 +104,7 @@
       },
       {
         "name": "Cyclone Spin Combo",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Crash_Bandicootbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20161116132732",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Crash_Bandicootbasicupgrade2.png/revision/latest?cb=20161116132732",
         "content": "Keep pressing Attack 1 to keep the spin going. Move faster during this spin for a while.",
         "is_primary": false,
         "is_secondary": false,
@@ -108,7 +116,7 @@
       },
       {
         "name": "Five to Life",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/75/Crash_Bandicootbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20161116132744",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/75/Crash_Bandicootbasicupgrade3.png/revision/latest?cb=20161116132744",
         "content": "Crash can now revive up to four times, a total of five lives!",
         "is_primary": false,
         "is_secondary": false,
@@ -120,7 +128,7 @@
       },
       {
         "name": "Upperkick",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/05/Crash_Bandicootbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20161116132758",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/05/Crash_Bandicootbasicupgrade4.png/revision/latest?cb=20161116132758",
         "content": "Hold Attack 3 to perform an upperkick that knocks enemies upwards.",
         "is_primary": false,
         "is_secondary": false,
@@ -134,7 +142,7 @@
     "soulgems": [
       {
         "name": "Box O' Rockets",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Crash_Bandicootsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20161116132409",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Crash_Bandicootsoulgempower.png/revision/latest?cb=20161116132409",
         "content": "Every now and then, press Attack 3 to throw a Rocket Crate that spawns a rocket. When it is collected, Crash jet packs into the air. Press Attack 1 to shoot Wumpa Fruit and unleash an aerial assault.",
         "is_primary": false,
         "is_secondary": false,
@@ -149,7 +157,7 @@
       {
         "season": 6,
         "name": "Oh No Yo-Yo Fo' Show!",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d9/Crash_Bandicootskychipower.png/revision/latest/scale-to-width-down/148?cb=20161116133332",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d9/Crash_Bandicootskychipower.png/revision/latest?cb=20161116133332",
         "content": "The ultimate Sensei Attack! Hold Special Attack to perform your Sky-Chi Power! Use Left Stick to direct where the yo-yos will go!",
         "is_primary": false,
         "is_secondary": false,
@@ -166,7 +174,7 @@
         "abilities": [
           {
             "name": "Aku Aku Dash",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2b/Crash_Bandicootpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20161116133047",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2b/Crash_Bandicootpath1upgrade1.png/revision/latest?cb=20161116133047",
             "content": "Run faster after reviving while under Aku Aku's protection. Aku Aku also shields for a longer time.",
             "is_primary": false,
             "is_secondary": false,
@@ -178,7 +186,7 @@
           },
           {
             "name": "Suction Cyclone Spin",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8c/Crash_Bandicootpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20161116133100",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8c/Crash_Bandicootpath1upgrade2.png/revision/latest?cb=20161116133100",
             "content": "Keep pressing Attack 1 to keep the spin going. Enemies are suctioned in, knocked away, and hit harder when punched. Movement speed slightly decays over time.",
             "is_primary": false,
             "is_secondary": false,
@@ -190,7 +198,7 @@
           },
           {
             "name": "Go Yo-Yo Go Yo-Yo Go!",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Crash_Bandicootpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20161116133115",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Crash_Bandicootpath1upgrade3.png/revision/latest?cb=20161116133115",
             "content": "Press Attack 1 three times or more to combo the spin for more area and Attack 1 combo attacks do more damage. Spinning retains its initial speed for a longer time.",
             "is_primary": false,
             "is_secondary": false,
@@ -207,7 +215,7 @@
         "abilities": [
           {
             "name": "Four Squares",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Crash_Bandicootpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20161116133633",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Crash_Bandicootpath2upgrade1.png/revision/latest?cb=20161116133633",
             "content": "Hold Attack 3 to throw crates around in a circle. Makes spinning afterwards a crate idea!",
             "is_primary": false,
             "is_secondary": false,
@@ -219,7 +227,7 @@
           },
           {
             "name": "Blasting Impression",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Crash_Bandicootpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20161116133650",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Crash_Bandicootpath2upgrade2.png/revision/latest?cb=20161116133650",
             "content": "Jump on a crate to make a shockwave that knocks enemies down in a big area.",
             "is_primary": false,
             "is_secondary": false,
@@ -231,7 +239,7 @@
           },
           {
             "name": "Dynamight",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/42/Crash_Bandicootpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20161116133705",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/42/Crash_Bandicootpath2upgrade3.png/revision/latest?cb=20161116133705",
             "content": "Crate explosions cover a larger area and do more damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -263,23 +271,23 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "150"
+          "stat_value": "150 (Lv. 20: 450)"
         },
         {
           "stat_name": "Attack",
-          "stat_value": "10"
+          "stat_value": "10 (Lv. 20: 100)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "2"
+          "stat_value": "2 (Lv. 20: 22)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "15"
+          "stat_value": "15 (Lv. 20: 55)"
         },
         {
           "stat_name": "Luck",
-          "stat_value": "12"
+          "stat_value": "12 (Lv. 20: 37)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Crash_Bandicoot"
