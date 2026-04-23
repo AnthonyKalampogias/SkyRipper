@@ -31,8 +31,8 @@
     {
       "story_name": "History",
       "content": "Spyro had some sensational skills. Unlike the other Skylanders, he could harness the power of every element, but still preferred his original favorite - Fire. But there was a sinister side to Spyro's ability. Master Eon observed this first-hand when The Darkness attempted to corrupt the Core of Light. Spyro began to shudder and shake. His purple skin seemed to flush and flare as dark magic flowed through him like lightning. Only Master Eon's speedily cast spells saved Spyro from a foul fate. With time, and Eon's tutelage, Spyro had learned to master this dark magic know-how. And when he harnessed energy, he transformed into Dark Spyro! However, only Spyro's brave heart and careful control prevented him from being consumed by darkness.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3c/DS.jpg/revision/latest?cb=20140422065524"
     }
   ],
   "quotes": [
@@ -51,11 +51,15 @@
   ],
   "trivia": [
     "Dark Spyro's voice is described as one that isn't recognizable by those around him. 'It was deeper, with an edge they'd never heard before - like something from the depths of a nightmare.'",
-    "Dark Spyro originated from The Legend of Spyro series, as Spyro the Dragon's dark form.",
-    "Unlike his Legend of Spyro counterpart, Dark Spyro is capable of controlling his dark impulses.",
+    "Dark Spyro originated from 'The Legend of Spyro' series, as Spyro the Dragon's dark form.",
+    "His appearance resembles Dark Spyro in the Gameboy Advance version of 'The Eternal Night', with silver claws and teeth instead of red.",
+    "Unlike his 'Legend of Spyro' counterpart, Dark Spyro is capable of controlling his dark impulses.",
     "Despite having a completely different catchphrase, Dark Spyro still says normal Spyro's catchphrase in the games.",
     "Dark Spyro was the only 'Dark' variant until the Dark Skylanders made their debut. Before Swap Force, his scales were also dark purple, and were changed to black like the other variants.",
-    "Dark Spyro is the first Alter Ego to be reposed."
+    "Dark Spyro is the first Alter Ego to be reposed.",
+    "While viewing his biography in Skylanders: Swap Force, the game reveals a screenshot from an unreleased Dark Spyro trailer.",
+    "Dark Spyro manipulates the power of darkness, which turns his fire breath light purple, not unlike Malefor.",
+    "Technically, Dark Spyro is the only Skylander with a Series 1 and 3 figure but no Series 2."
   ],
   "trailers": [
     {
@@ -74,7 +78,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventures_Extraction-_Dark_Spyro"
     },
     {
-      "name": "Skylanders Spyro's Adventure - Dark Spyro Preview (Lights Out)",
+      "name": "Skylanders Spyro's Adventure - Dark Spyro Preview (Lights Out) (PlayStation 3 & Xbox 360)",
       "isValid": true,
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Dark_Spyro_Preview_(Lights_Out)"
     },
@@ -284,7 +288,7 @@
       "edition": "Series 1",
       "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/2/24/300px-Dark-Spyro_01.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/24/300px-Dark-Spyro_01.jpg/revision/latest?cb=20170326190423",
       "attacks": [
         "Dragon's Fire",
         "Charge",
@@ -320,7 +324,7 @@
       "edition": "Series 3",
       "type": "Core",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9a/S3_Dark_Spyro.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9a/S3_Dark_Spyro.jpg/revision/latest?cb=20131122011442",
       "attacks": [
         "Dragon's Fire",
         "Charge",
@@ -352,7 +356,7 @@
       "edition": "Ring of Heroes",
       "type": "Alter Ego",
       "game": "Skylanders: Ring of Heroes",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/2/24/300px-Dark-Spyro_01.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/24/300px-Dark-Spyro_01.jpg/revision/latest?cb=20170326190423",
       "attacks": [
         "Dark Fire Shot",
         "Enraged Charge",
