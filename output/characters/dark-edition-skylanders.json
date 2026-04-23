@@ -21,27 +21,27 @@
     "Skylands"
   ],
   "description": "The Dark Edition Skylanders are a group of Skylanders with the ability to transform into darker versions of themselves using the power of the Petrified Darkness within them. They commonly take on a black and silver color scheme, though they sometimes retain some of their original colors.",
-  "biography": "The Dark Edition Skylanders are a group of Skylanders with the ability to transform into darker versions of themselves using the power of the Petrified Darkness within them. They commonly take on a black and silver color scheme, though they sometimes retain some of their original colors, such as the Traptanium weapons of Wildfire and Snap Shot, or Blast Zone's flames. Spyro learned to master this dark magic through Eon's tutelage, and later other teams of Skylanders absorbed dark energy from Kaos' experiments, learning to combine the dark power with their own to fight the forces of evil.",
+  "biography": "The Dark Edition Skylanders are a group of Skylanders with the ability to transform into darker versions of themselves using the power of the Petrified Darkness within them. They commonly take on a black and silver color scheme, though they sometimes retain some of their original colors, such as the Traptanium weapons of Wildfire and Snap Shot, or Blast Zone's flames. Spyro learned to master this dark magic through Master Eon's tutelage, learning to prevent himself from being consumed by darkness. Later, other teams of Skylanders absorbed energy from Kaos' experiments with Petrified Darkness or Dark Traptanium, learning to control it and combine the dark power with their own to fight Kaos and the forces of evil.",
   "quote": "Control the darkness within.",
   "personality": "Only the Skylanders' brave heart and careful control prevent them from being consumed by darkness. They have learned to control the darkness within, combining its power with their own to fight Kaos and the forces of evil.",
   "story": [
     {
       "story_name": "Dark Spyro",
       "content": "Spyro had some sensational skills. Unlike the other Skylanders, he could harness the power of every element, but still preferred his original favorite - Fire. But there was a sinister side to Spyro's ability. Master Eon observed this first-hand when The Darkness attempted to corrupt the Core of Light. Spyro began to shudder and shake. His purple skin seemed to flush and flare as dark magic flowed through him like lightning. Only Master Eon's speedily cast spells saved Spyro from a foul fate. With time, and Eon's tutelage, Spyro had learned to master this dark magic know-how. And when he harnessed energy, he transformed into Dark Spyro! However, only Spyro's brave heart and careful control prevented him from being consumed by darkness.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Dark_Skylanders_Art.jpg"
     },
     {
       "story_name": "SWAP Force",
       "content": "While on a special mission, a team of Skylanders discovered a secret lair where Kaos was experimenting with a new discovery – Petrified Darkness – which he initially intended to use to stage a coup against Skylands. In their fight to stop Kaos, the lair exploded, releasing a cloud of pure Darkness. The Skylanders knew they couldn’t let it escape, so they absorbed this energy, transforming them into dark versions of themselves. Fortunately, Spyro learned to tame that darkness within him long ago. So with his help, these Skylanders now have also learned to control it – combining its power with their own to fight Kaos and the forces of evil.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Dark_Skylanders_Art.jpg"
     },
     {
       "story_name": "Trap Team",
       "content": "Later, from his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium – which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it – combining the dark power with their own to fight Kaos and the forces of evil.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a2/DarkEdition_Final.jpg"
     }
   ],
   "quotes": [
@@ -56,15 +56,23 @@
   ],
   "trivia": [
     "Air, Dark, Light and Tech currently have no Dark Edition Skylanders, though with the exception of Light, they each have a Dark Edition Vehicle.",
-    "In Skylanders: Ring of Heroes, Dark Spyro, Dark Spitfire and Dark King Pen have switched to the Dark element under the names of Shadow Spyro, Shadow Spitfire and Shadow King Pen.",
+    "Notably, the Dark Sea Shadow is the only Dark Edition figure to also be part of the Dark element.",
+    "In Skylanders: Ring of Heroes, Dark Spyro (who was a Magic Skylander), Dark Spitfire (who was a Fire Skylander) and Dark King Pen (who was a Water Skylander) have switched to the Dark element under the names of Shadow Spyro, Shadow Spitfire and Shadow King Pen.",
+    "Despite the SuperChargers being mentioned in the comics and implied in backstories to have been recruited between Trap Team and SuperChargers, they share their backstory with the Skylanders from Swap Force, which happened at a previous point.",
+    "The same happens with the Dark Edition Senseis, who were unavailable when Petrified Darkness was discovered. Similarly to the SuperChargers, two of them hadn't even become Skylanders yet, being Villains locked up in Cloudcracker Prison at the time.",
+    "This would later be explained in Skylanders: Ring of Heroes with said villains experimenting with Petrified Darkness out of their own volition.",
     "As of Skylanders: Imaginators, Fire and Life are tied for having the most Dark Edition figures of all elements.",
     "Skylanders: Giants is the only game with no new Dark Edition Skylanders.",
+    "Oddly, there is no Dark Edition Starter Pack for the PS3 version of Skylanders: Imaginators.",
     "Spyro and Stealth Elf are the only Skylanders who each have two Dark counterparts.",
+    "Coincidentally, they're the only Dark Skylanders whose attacks have different colored effects compared to their regular counterparts.",
+    "Both characters also originated from Skylanders: Spyro's Adventure.",
+    "Both also gained a Dark edition counterpart in Swap Force.",
     "Their color scheme is similar to the National Football League's Las Vegas Raiders.",
     "Stealth Elf, Super Shot Stealth Elf and the Golden Queen are the only female Skylanders with dark counterparts."
   ],
   "trailers": [],
-  "gameplay": "They commonly take on a black and silver color scheme, though they sometimes retain some of their original colors, such as the Traptanium weapons of Wildfire and Snap Shot, or Blast Zone's flames. Spyro and Stealth Elf are the only Dark Skylanders whose attacks have different colored effects compared to their regular counterparts.",
+  "gameplay": "The Dark Edition Skylanders transform into darker versions of themselves. They commonly take on a black and silver color scheme, though they sometimes retain some of their original colors, such as the Traptanium weapons of Wildfire and Snap Shot, or Blast Zone's flames. Spyro and Stealth Elf are the only Dark Skylanders whose attacks have different colored effects compared to their regular counterparts.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Edition_Skylanders",
   "abilities": {
     "basic": [],
@@ -75,12 +83,45 @@
   },
   "variants": [
     {
-      "id": "dark-edition-skylanders",
-      "variant_name": "Dark Edition Skylanders",
-      "edition": "Series 1",
+      "id": "dark-edition-swap-force",
+      "variant_name": "SWAP Force Dark Edition",
+      "edition": "Series 3",
       "type": "Various",
-      "game": "Various",
+      "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/43/Dark_Skylanders_Art.jpg",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Edition_Skylanders"
+    },
+    {
+      "id": "dark-edition-trap-team",
+      "variant_name": "Trap Team Dark Edition",
+      "edition": "Series 4",
+      "type": "Various",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a2/DarkEdition_Final.jpg",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Edition_Skylanders"
+    },
+    {
+      "id": "dark-edition-superchargers",
+      "variant_name": "SuperChargers Dark Edition",
+      "edition": "Series 5",
+      "type": "Various",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/69/Dark_Edition_SuperChargers.jpg",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Edition_Skylanders"
+    },
+    {
+      "id": "dark-edition-imaginators",
+      "variant_name": "Imaginators Dark Edition",
+      "edition": "Series 6",
+      "type": "Various",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/df/Dark_Edition_Senseis.png",
       "attacks": [],
       "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Edition_Skylanders"
