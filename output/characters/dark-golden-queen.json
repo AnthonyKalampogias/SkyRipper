@@ -15,9 +15,9 @@
     "The Golden Desert"
   ],
   "description": "Dark Golden Queen is the Dark counterpart of the Golden Queen in Skylanders: Imaginators. She is included in the Dark Edition of Imaginators, along with Dark King Pen and Dark Wolfgang, and a Dark Doom Raider boss in Skylanders: Ring of Heroes.",
-  "biography": "Dark Golden Queen is the Dark counterpart of the Golden Queen in Skylanders: Imaginators. She is included in the Dark Edition of Imaginators, along with Dark King Pen and Dark Wolfgang, and a Dark Doom Raider boss in Skylanders: Ring of Heroes.",
+  "biography": "Dark Golden Queen is the Dark counterpart of the Golden Queen in Skylanders: Imaginators. She is included in the Dark Edition of Imaginators, along with Dark King Pen and Dark Wolfgang. As a Dark variant, she is made of black gold, a rare substance that cannot be 24 karats as it is created through alloys or surface alterations. She also appears as a Dark Doom Raider boss in Skylanders: Ring of Heroes.",
   "quote": "All that glitters is gold!",
-  "personality": "As a Dark counterpart to the Golden Queen, she likely shares her original's authoritative and greedy personality, but is manifested through the rare medium of black gold.",
+  "personality": "As a Dark counterpart to the Golden Queen, she likely shares her original's authoritative and greedy personality, manifested through her rare black gold form.",
   "story": [
     {
       "story_name": "Origin",
@@ -42,14 +42,14 @@
     "She is the only one of the three that is not a version of Stealth Elf."
   ],
   "trailers": [],
-  "gameplay": "In Skylanders: Imaginators, Dark Golden Queen possesses the same moveset as the standard Golden Queen. While she has specific Power Stats including Strength (80), Defense (200), Agility (150), and Luck (320), it is noted that these are for completeness and not actively used in the gameplay statistics.",
+  "gameplay": "In Skylanders: Imaginators, Dark Golden Queen is an Earth element Sensei of the Sorcerer class. She possesses the same moveset as the standard Golden Queen. While she has specific Power Stats including Strength (80), Defense (200), Agility (150), and Luck (320), these are listed for completeness and are not actively used in-game.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Golden_Queen",
   "abilities": {
     "basic": [
       {
         "name": "Winged Scarabs",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Dark_Golden_Queen_Artwork.jpg/revision/latest?cb=20160914205613",
-        "content": "A primary attack where the Queen unleashes Winged Scarabs.",
+        "content": "A primary attack where the Queen unleashes Winged Scarabs to attack enemies.",
         "is_primary": true,
         "is_secondary": false,
         "price": 0,
@@ -61,7 +61,7 @@
       {
         "name": "Golden Shockwave",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Dark_Golden_Queen_Artwork.jpg/revision/latest?cb=20160914205613",
-        "content": "A secondary attack that creates a Golden Shockwave to repel enemies.",
+        "content": "A secondary attack that creates a Golden Shockwave to repel and damage enemies.",
         "is_primary": false,
         "is_secondary": true,
         "price": 0,
@@ -73,7 +73,7 @@
       {
         "name": "Royal Guard",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Dark_Golden_Queen_Artwork.jpg/revision/latest?cb=20160914205613",
-        "content": "A defensive move involving a Royal Guard.",
+        "content": "A defensive move involving summoning a Royal Guard to the Queen's aid.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
@@ -87,10 +87,10 @@
       {
         "name": "Golden Opportunity",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Dark_Golden_Queen_Artwork.jpg/revision/latest?cb=20160914205613",
-        "content": "An upgrade that provides a Golden Opportunity for increased damage or wealth.",
+        "content": "An upgrade that provides a Golden Opportunity for increased damage or collecting wealth.",
         "is_primary": false,
         "is_secondary": false,
-        "price": 0,
+        "price": 500,
         "colors": {
           "header": "#C95",
           "bg_content": "#568"
@@ -116,9 +116,9 @@
   },
   "variants": [
     {
-      "id": "dark-golden-queen",
+      "id": "dark-golden-queen-de",
       "variant_name": "Dark Golden Queen",
-      "edition": "Series 1",
+      "edition": "Dark Edition",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Dark_Golden_Queen_Artwork.jpg/revision/latest?cb=20160914205613",
