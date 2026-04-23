@@ -28,22 +28,46 @@
   "world": [
     "Skylands"
   ],
-  "description": "Cynder is a violet dragon who is one of the Undead Core Skylanders in Skylanders: Spyro's Adventure. Originally a black-hearted harbinger of despair raised by Malefor, she was freed by Spyro and now uses her dark powers to fight for good.",
+  "description": "Cynder is a violet dragon who is one of the Undead Core Skylanders in Skylanders: Spyro's Adventure. She and Jet-Vac (or Punch Pop Fizz for 3DS) are the two Skylanders that come with Tree Rex in the Starter Pack of Skylanders: Giants. Her Series 3 counterpart is called Phantom Cynder, and she has a skeletal October counterpart called Skeletal Cynder.",
   "biography": "While just an egg, Cynder was stolen by the henchmen of an evil dragon named Malefor and raised to do his bidding. For years, she spread fear throughout the land until she was defeated by Spyro the Dragon and freed from the grip of Malefor. But dark powers still flow through her, and despite her desire to make amends for her past, most Skylanders try to keep a safe distance... just in case.",
   "quote": "Volts and Lightning!",
-  "personality": "Kidnapped as an egg by the evil Malefor, Cynder was brainwashed and trained in the ways of evil and darkness. She was a sinister dragon, a harbinger of despair and misery taught to strike fear into the hearts of Malefor's subjects and spread terror far and wide. However a speck of goodness burned somewhere in her black heart, which made her internally aware of the evil she was committing. After being freed from Malefor's spell, Cynder desires to make amends by battling evildoers with her dark powers, but she still struggles with her past. As a result of being corrupted under the Undead element, Cynder retains a wicked side and can occasionally be menacing, but she is trying hard to control her dark impulses from time to time. While she is loyal to the Skylanders, she is snarky, spiky when riled, witty, fierce and can be a terrifying force for good in the battle against the Darkness.",
+  "personality": "Kidnapped as an egg by the evil Malefor, Cynder was brainwashed and trained in the ways of evil and darkness. She was a sinister dragon, a harbinger of despair and misery taught to strike fear into the hearts of Malefor's subjects and spread terror far and wide. However a speck of goodness burned somewhere in her black heart, which made her internally aware of the evil she was committing. After being freed from Malefor's spell, Cynder desires to make amends by battling evildoers with her dark powers, but she still struggles with her past. As a result of being corrupted under the Undead element, Cynder retains a wicked side and can occasionally be menacing, but she is trying hard to control her dark impulses. While she is loyal to the Skylanders, she is snarky, spiky when riled, witty, fierce and can be a terrifying force for good.",
   "story": [
     {
       "story_name": "History",
-      "content": "While still in her egg, Cynder was stolen by the henchmen of the evil Dragon King named Malefor. He brought the youngster up as a black-hearted harbinger of despair, but deep inside Malefor's monstrous apprentice shone a small speck of goodness. It was none other than Spyro who released Cynder from Malefor's grip by defeating her in battle. Once defeated, the red mist lifted and the spell of evil was broken. Cynder quickly renounced her evil ways and vowed to fight for good.",
+      "content": "While still in her egg, Cynder was stolen by the henchmen of the evil Dragon King named Malefor. He brought the youngster up as a black-hearted harbinger of despair, but deep inside Malefor's monstrous apprentice shone a small speck of goodness. It was none other than Spyro who released Cynder from Malefor's grip by defeating her in battle. Once defeated, the red mist lifted and the spell of evil was broken. Cynder quickly renounced her evil ways and vowed to fight for good. Trusting Spyro's judgement, Master Eon signed Cynder up to become one of the scariest Skylanders.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/20/Corrupted_Cynder_Spyro.png/revision/latest/scale-to-width-down/274?cb=20150422191844"
     },
     {
+      "story_name": "Spyro versus The Mega Monsters",
+      "content": "Cynder was mentioned as one of the two Skylanders (the other being Hex) who was assigned by Master Eon to investigate a mega-sized cockroach that was terrorizing Lucky Lagoon. However Kaos, who had claimed to be turning over a new leaf by battling evildoers, dealt with the problem long before the two Undead Skylanders arrived on the scene.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
       "story_name": "Cynder Confronts the Weather Wizard",
-      "content": "Cynder and Zook were relaxing in the sunrays at the Cloudless Desert, though the violet dragon felt that they were wasting time when they should looking for the next fragment to the Mask of Power. Soon, Hex arrived via portal to inform Cynder and Zook that Master Eon has requested their presence, but were forced into action when a freak rainstorm caused the sand dunes of the desert to start pulling the surrounding Mabu beachgoers underground like quicksand. After saving the inhabitants, the trio of Skylanders returned to Eon's citadel where they learned that there have been numerous unusual weather strikes in parts of Skylands.",
+      "content": "Cynder, Zook, and Hex were assigned to venture to the Isle of the Dead to investigate unusual weather strikes caused by Hurrikazam. They discovered that Hurrikazam was being forced by Kaos to drain the Undead villagers of their Undeadliness. Hex appeared to defect to Kaos but actually overloaded his machine, helping the Skylanders defeat him. Cynder was awarded the All-Coloured Rose seed, which is the Undead segment to the Mask of Power.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Cynder_Zook_Cloudless_Desert.jpg/revision/latest/scale-to-width-down/336?cb=20140613054140"
+    },
+    {
+      "story_name": "Trigger Happy Targets the Evil Kaos",
+      "content": "Cynder joined the assembly of Skylanders to stop Kaos from reforming the Mask of Power. Kaos managed to use the Mask to steal the Skylanders' powers, rendering Cynder defenseless. However, Trigger Happy tricked Kaos into using all the powers at once, causing him to lose control. The Skylanders recovered their abilities and destroyed the Mask of Power once and for all.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/90/Skylanders_Mask_of_Power.png/revision/latest/scale-to-width-down/180?cb=20150306104436"
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "Cynder encountered a fairy fan named Calliope who unknowingly stole her powers for the revived Malefor. Imprisoned by Malefor, Cynder shared her past as his minion to convince Calliope to help them. Calliope redeemed herself by assisting the Skylanders. Cynder helped Spyro smash Malefor's chestplate, restoring everyone's powers and allowing the Skylanders to banish Malefor to the abyss once more.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c6/Malefor_Skylanders9.jpg/revision/latest/scale-to-width-down/294?cb=20150526181012"
+    },
+    {
+      "story_name": "Skylanders: Imaginators",
+      "content": "Cynder appeared in the Dragon Temple as a cameo to help undo the Brain's mind control. She later served as the Storyteller in the Cursed Tiki Temple, assisting the player in restoring the stolen Skull Tiki and evacuating nearby islands.",
+      "hasImage": false,
+      "imgPath": ""
     }
   ],
   "quotes": [
@@ -81,36 +105,69 @@
         "We've been spotted!",
         "Uh uh, I don't think so!"
       ]
+    },
+    {
+      "quote_type": "Book Quotes",
+      "content": [
+        "Now to deal with Hurrikaboo-boo. I predict someone is about to be weather-beaten.",
+        "If those jaws come anywhere near me, it'll be scorched spider, sister.",
+        "Sorry to spoil your snack. Now, send those spectres right back.",
+        "Who would have thought that Kaos looked worse with hair."
+      ]
+    },
+    {
+      "quote_type": "Comic Quotes",
+      "content": [
+        "My Spectral Lightning isn't even slowing down these Rotting Robbies. But they won't take me without a fight...",
+        "Hex defeated Malefor in single combat years ago. We thought she finished him for good, but it looks like he was just licking his wounds and hatching a new plan. And thanks to Calliope here, he might actually succeed!",
+        "How can you sit there while Malefor is tearing apart the Skylander Academy? Everyone we care about is in danger!",
+        "Everyone still feared me. No one believed I could ever be anything else... Except Spyro and Master Eon.",
+        "We're all at full power. Which is a good thing... because Malefor has never been good when knowing when to quit!"
+      ]
     }
   ],
   "trivia": [
     "Like Spyro, Cynder is also a recognizable Skylander, since they both appeared in a game series outside the Skylanders franchise: the Spyro series.",
-    "Cynder's appearance is similar to her Legend of Spyro: Dawn of the Dragon counterpart.",
+    "She is one of five characters from the Spyro franchise to be featured in the Skylanders series.",
+    "Cynder's appearance is heavily based on her counterpart from Legend of Spyro: Dawn of the Dragon.",
     "In the Darklight Crypt, there are head statues that resemble Cynder at the entrance to the maze.",
     "Before her egg was taken by Malefor's minions, Cynder had a biological mother.",
     "Though Cynder is one of few who speaks English in Spyro's Adventure, she does not say her official catchphrase until Skylanders: Giants.",
     "The symbol on Cynder's forehead is the Brand of the Undead, which unleashes ghostly allies from beyond the grave.",
     "Cynder's spiked collar and bracelets are part of the Undead punk fashion.",
-    "Cynder was planned to have a Series 4 figure for Skylanders: Trap Team, featuring her wearing silver armor on her wings and back, but she was scrapped from the final toy lineup."
+    "Phantom Cynder is the second figure to have a translucent appearance after Slam Bam.",
+    "Cynder is a female dragon with no visible teeth, a trait shared with other female dragons in the series.",
+    "One of Cynder's battle cries, 'No Rest for the Wicked!', would later be used as the catchphrase for Bat Spin.",
+    "Cynder was planned to have a Series 4 figure for Skylanders: Trap Team, but it was scrapped from the final toy lineup."
   ],
   "trailers": [
     {
       "name": "Skylanders Spyro's Adventure - Cynder Trailer (Volts and Lightning)",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Spyro%27s_Adventure_-_Cynder_Trailer_(Volts_and_Lightning)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Cynder_Trailer_(Volts_and_Lightning)"
+    },
+    {
+      "name": "Skylanders Spyro's Adventure - Cynder Preview Trailer (Volts and Lightning)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Cynder_Preview_Trailer_(Volts_and_Lightning)"
     },
     {
       "name": "Meet the Skylanders Cynder (extended)",
       "isValid": true,
-      "url": "/wiki/File:Meet_the_Skylanders_Cynder_(extended)"
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Cynder_(extended)"
     },
     {
       "name": "Skylanders Giants - Meet the Skylanders - Series 2 Cynder (Volts and Lightning)",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Series_2_Cynder_%28Volts_and_Lightning%29"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Series_2_Cynder_%28Volts_and_Lightning%29"
+    },
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Phantom Cynder (Volts and Lightning)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-Meet_the_Skylanders_-_Phantom_Cynder_%28Volts_and_Lightning%29"
     }
   ],
-  "gameplay": "Due to her exposure to the darkness of Malefor's corruption, Cynder gained powers of the Undead element, such as breathing dark electricity and temporarily turning into a shadowy apparition to dash past enemies, leaving behind a trail of ghostly allies that can attack opponents. Being a dragon, Cynder has the ability to fly using her wings, increasing her movement speed and and defence while doing so. Her Series 2 Wow Pow allows her to summon a spectral thunderbolt from above, and her Series 3 Wow Pow allows her to transform into a giant exploding skull.",
+  "gameplay": "Due to her exposure to the darkness of Malefor's corruption, Cynder gained powers of the Undead element, such as breathing dark electricity and temporarily turning into a shadowy apparition to dash past enemies, leaving behind a trail of ghostly allies that can attack opponents. Being a dragon, Cynder has the ability to fly using her wings, increasing her movement speed and and defence while doing so. Her Series 2 Wow Pow allows her to summon a spectral thunderbolt from above, and her Series 3 Wow Pow allows her to transform into a giant exploding skull. Choosing the Nether Wielder path improves the power of Cynder's Spectral Lightning attack, while the Shadowdancer path improves the power of her Shadow Dash and ghost attacks.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Cynder",
   "abilities": {
     "basic": [
@@ -166,7 +223,7 @@
       },
       {
         "name": "Double Spooky!",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Cynderbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20121127074147",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Cynderbasicupgrade3.png/revision/latest?cb=20121127074147",
         "content": "Ghosts do increased damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -323,18 +380,19 @@
       "edition": "Series 1",
       "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/2/27/Cynder_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/27/Cynder_Promo.jpg/revision/latest?cb=20140620184749",
       "attacks": [
         "Spectral Lightning",
         "Shadow Dash",
         "Cynder Flight",
         "Black Lightning",
+        "Double Spooky!",
         "Shadow Reach"
       ],
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "260"
+          "stat_value": "260 (Max: 520)"
         },
         {
           "stat_name": "Speed",
@@ -351,6 +409,86 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "39"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Cynder"
+    },
+    {
+      "id": "cynder_s2",
+      "variant_name": "Cynder Series 2",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/26/Series_2_Cynder_Promo.jpg/revision/latest?cb=20121106001100",
+      "attacks": [
+        "Spectral Lightning",
+        "Shadow Dash",
+        "Cynder Flight",
+        "Black Lightning",
+        "Double Spooky!",
+        "Shadow Reach",
+        "Lightning Rain (Wow Pow)"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260 (Max: 665)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Cynder"
+    },
+    {
+      "id": "cynder_s3_phantom",
+      "variant_name": "Phantom Cynder",
+      "edition": "Series 3",
+      "type": "Core",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Series_3_Cynder_Promo.jpg/revision/latest?cb=20140204010226",
+      "attacks": [
+        "Spectral Lightning",
+        "Shadow Dash",
+        "Cynder Flight",
+        "Black Lightning",
+        "Double Spooky!",
+        "Shadow Reach",
+        "Skull-Splosion! (Wow Pow)"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260 (Max: 780)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "5"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Cynder"
