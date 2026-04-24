@@ -34,13 +34,13 @@
       "story_name": "History",
       "content": "As a young dragon, Drobot often felt like an odd one out. While his friends focused on flying, fighting and aerial frolics, Drobot spent his time studying gadgets and gizmos. One day, the inexperienced flyer was caught in a terrible tailwind and forced down to a desert island. To his surprise, he found himself surrounded by magnificent machines, amazing appliances, and clever contraptions. At once, he made the island his widget workshop. Before long he had built himself a brand spanking new robotic flying suit with sensational super powers. A vocal synthesizer gave his voice a deep sonic boom, his eyes fired laser beams and he could shoot spinning gears at lightning speeds. Nowadays, Drobot is a dragon master supreme when it comes to sparring in the skies. And, with his homeland suddenly starting to feel a bit small, Drobot flew out to seek a certain Portal Master and sign up as a Skylander.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Tht.jpg/revision/latest/scale-to-width-down/268?cb=20111229144706"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Tht.jpg/revision/latest?cb=20111229144706"
     },
     {
       "story_name": "Lightning Rod Faces the Cyclops Queen",
-      "content": "Drobot was among few of the the Skylanders who participated in attending the Annual Storm Titan Games to see Lightning Rod in action. Just as the event had begun, Lighting Rod's hammer accidentally hit Flynn's air balloon that was flying overhead, causing it to spiral out of control and sending debris everywhere. Drobot quickly dispatched to stop the balloon from crashing, succeeding in saving Flynn, Hugo, Double Trouble, and Squirmgrub. When the Air segment to the Mask of Power was said to be in the form of the last Land Whale held within Tempest Towers, Drobot went with Lightning Rod, Pop Fizz, Double Trouble, Cali, and Flynn to retrieve it before Kaos could have the chance. Thanks to Drobot's supercharged Afterburners, the Skylanders were able to whizz past Kaos through the Sea of Storms and reach their destination. In the Cyclops city, Drobot and Lightning Rod were thrown in the tank with the Land Whale to be eaten. Drobot quickly distracted the beast to save his companion, nearly getting eaten himself before being pulled from the Land Whale's jaws by Lightning Rod. They made their escape and returned to the Eternal Archive with the towers, claiming the Air segment.",
+      "content": "Drobot was among few of the the Skylanders who participated in attending the Annual Storm Titan Games to see Lightning Rod in action. Just as the event had begun, Lighting Rod's hammer accidentally hit Flynn's air balloon that was flying overhead, causing it to spiral out of control and sending debris everywhere. Drobot quickly dispatched to stop the balloon from crashing, succeeding in saving Flynn, Hugo, Double Trouble, and Squirmgrub. When the Air segment to the Mask of Power was said to be in the form of the last Land Whale held within Tempest Towers, Drobot went with Lightning Rod, Pop Fizz, Double Trouble, Cali, and Flynn to retrieve it before Kaos could have the chance. Thanks to Drobot's supercharged Afterburners, the Skylanders were able to whizz past Kaos through the Sea of Storms and reach their destination, despite Drobot's malfunctioning afterburners. As Double Trouble and Flynn kept a lookout for Kaos, Drobot came with Lightning Rod and Pop Fizz to get into the Cyclops city where the Land Whale resided in a collection of animals imprisoned by the Cyclops Queen. However the Skylanders were discovered, and the Cyclops Queen had Drobot and Lightning Rod thrown in the tank with the Land Whale to be eaten. When the Land Whale was hypnotizing Lightning Rod into going towards its open jaws to be devoured, Drobot quickly distracted the beast in an attempt to save his companion, but nearly got eaten as a result. The robotic dragon was quickly pulled from the Land Whale's slobbering jaws by the freed Lightning Rod, and they made their escape from their imprisonment with Pop Fizz. Outside the tower, the Skylanders saw Kaos and his army of Drow battling against the Cyclops Queen's forces. They eventually returned to the Eternal Archive with the tower and claim the Air segment to the Mask of Power.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Drobot_Flynn.jpg/revision/latest/scale-to-width-down/270?cb=20130915074816"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Drobot_Flynn.jpg/revision/latest?cb=20130915074816"
     },
     {
       "story_name": "Skylanders: Spyro's Adventure",
@@ -92,6 +92,7 @@
         "Drobot, ultimate robot!",
         "Hat acquired!",
         "Head apparatus processed.",
+        "Understood!",
         "New identification processed."
       ]
     },
@@ -110,40 +111,51 @@
   ],
   "trivia": [
     "Drobot relaxes by playing chess - against himself.",
-    "Since he uses a vocal synthesizer to give himself a deep booming voice, it is currently unknown what Drobot's real voice sounds like.",
-    "Drobot's name is most likely a combination of 'dragon' and 'robot'.",
+    "Since he uses a vocal synthesizer to give himself a deep booming voice, it is currently unknown what Drobot's real voice sounds like. The full extent of his modifications are also unknown, as he talks like a robot AI despite being partially organic.",
+    "Since he wears a suit that covers up most of his head, it's also unknown what his eyes and crest look like.",
+    "According to his voice actor, Alex Ness, his robotic voice was inspired by that of the G1 incarnation of the Transformer Soundwave.",
+    "Drobot's name is most likely a combination of 'dragon' and 'robot'. It is also a surname.",
     "The mysterious technology he found were Arkeyan.",
-    "As a LightCore, the battlesuit core on his back lights up, resembling the afterburners upgrade.",
-    "The strategy guide for Skylanders: Giants incorrectly states his catchphrase as 'Seek and Destroy'.",
-    "He, Trigger Happy and Spyro are the only three non-Fire Skylanders who can kill Rotting Robbies in Spyro's Adventure (Wii version).",
-    "Drobot's original color scheme was reddish brown.",
-    "His flight capabilities are harder to control but much faster to accelerate than other Skylanders."
+    "As a LightCore, the battlesuit core on his back lights up, resembling the afterburners upgrade. It also has the most dim effect and does not glow as brightly as the other Lightcores.",
+    "The strategy guide for Skylanders: Giants incorrectly states his catchphrase as 'Seek and Destroy'. His catchphrase is also similar to the Metallica song 'Seek & Destroy'.",
+    "The Uranium Bladegears on the Clockwork Dragon path share the color scheme with his suit.",
+    "He, Trigger Happy and Spyro are the only three non-Fire Skylanders who can kill Rotting Robbies in Spyro's Adventure. However, this only works on the Wii version.",
+    "Drobot's original color scheme was reddish brown to most likely match the color of his element like the other dragon Skylanders. However, this color scheme is still used in Drobot's artwork in the games and in media.",
+    "His flight capabilities are quite different to flight capabilities of other Skylanders: harder to control but much faster to accelerate; he will also automatically go forward if the button is not held down to enter hover mode, and if you hit a wall while flying, he will stop.",
+    "He and Swarm are the only two Skylanders who can damage enemies just by flying.",
+    "If the player uses his Bladegears while flying, Drobot will fly slower than normal.",
+    "In his Episode Dungeon in the old version of Skylanders: Ring of Heroes, Drobot is mistakenly referred to as a machine despite being an organic dragon wearing a robotic flying suit.",
+    "During the development of Spyro's Kingdom, Drobot was indeed entirely roboticized, and only later on gained organic parts.",
+    "Lightcore Drobot's artwork can be seen in the Season 1 intro of the Skylanders Academy television series within The Book of Skylanders.",
+    "In his official artwork and figures, Drobot's eyes are yellow. However, in Swap Force his eyes appear green, and the Swap Force HUD portrait for LightCore Drobot depicts his eyes as violet.",
+    "In the Xbox 360 version of Spyro's Adventure, when Drobot is flying with his Afterburners and is interrupted by a dialogue cutscene, the Afterburners' sounds continue and the blue glowing circles on his wings remain active until the dialogue ends.",
+    "His Series 2 variant is rare to find, unlike the other Series 2 Skylanders that debuted in Spyro's Adventure."
   ],
   "trailers": [
     {
       "name": "Meet the Skylanders Drobot (extended)",
       "isValid": true,
-      "url": "Meet the Skylanders Drobot (extended)"
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Drobot_(extended)"
     },
     {
       "name": "Skylanders Spyro's Adventure - Drobot Preview (Blink and Destroy)",
       "isValid": true,
-      "url": "Skylanders Spyro's Adventure - Drobot Preview (Blink and Destroy)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_-_Drobot_Preview_(Blink_and_Destroy)"
     },
     {
       "name": "Skylanders Spyro's Adventure - Drobot Trailer (Blink and Destroy)",
       "isValid": true,
-      "url": "Skylanders Spyro's Adventure - Drobot Trailer (Blink and Destroy)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_-_Drobot_Trailer_(Blink_and_Destroy)"
     },
     {
       "name": "Skylanders Giants - Meet the Skylanders - Series 2 Drobot (Blink and Destroy)",
       "isValid": true,
-      "url": "Skylanders Giants - Meet the Skylanders - Series 2 Drobot (Blink and Destroy)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Series_2_Drobot_(Blink_and_Destroy)"
     },
     {
       "name": "Meet the Skylanders LightCore Drobot",
       "isValid": true,
-      "url": "Meet the Skylanders LightCore Drobot"
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_LightCore_Drobot"
     }
   ],
   "gameplay": "Drobot can shoot powerful rapid fire lasers from his eyes and wings, and fire rotating gears from his wings that ricochet off of surfaces. He can also fly after being upgraded with thruster flight, and it can be further upgraded with afterburners.",
@@ -464,6 +476,26 @@
         "Quadratic Blasters"
       ],
       "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "???"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        },
         {
           "stat_name": "Strength",
           "stat_value": "65"
