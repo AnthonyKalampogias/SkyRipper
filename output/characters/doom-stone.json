@@ -26,13 +26,13 @@
       "story_name": "Creation and Education",
       "content": "Doom Stone was carved from the strongest and purest stone in Skylands, then magically brought to life by a wizard who was rather lazy and wanted someone strong to carry heavy things and perform other tasks around his castle. Doom Stone happily helped, and in his spare time learned the ancient ways of Stone Fighting should he ever need to protect the wizard, who became like a father to him.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/14/Doom_Stone_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140523034255"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/14/Doom_Stone_Promo.jpg/revision/latest?cb=20140523034255"
     },
     {
       "story_name": "Becoming a Skylander",
       "content": "Sure enough the need arose when the wizard was kidnapped by his evil twin brother in order to steal his spells for himself. Doom Stone wasted no time in using the skills he learned to save his master. Afterward, the wizard knew Doom Stone had a greater calling and introduced him to Master Eon, who made him a Skylander.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ac/Doom_Swap_08.png/revision/latest/scale-to-width-down/268?cb=20140314023407"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ac/Doom_Swap_08.png/revision/latest?cb=20140314023407"
     }
   ],
   "quotes": [
@@ -70,27 +70,35 @@
   ],
   "trivia": [
     "His name is a play on the word 'tombstone'.",
-    "The lazy wizard who brought Doom Stone to life once asked Doom Stone to clean all the windows of his home, but Doom Stone's super-strength caused all the windows to shatter to pieces.",
+    "The pun in which the word 'doom' replaces the word 'tomb' is repeated with the Doom Raiders, and the phrase 'tomb raiders'.",
+    "The lazy wizard who brought Doom Stone to life once asked Doom Stone to clean all the windows of his home, but Doom Stone's super-strength caused all the windows to shatter to pieces at the slightest touch, and the wizard has vowed since then to only use a professional window washer.",
     "He slightly resembles Doctor Doom from Marvel. Both have a grey and green color scheme and have 'Doom' for their names.",
-    "Doom Stone, Golden Queen and Crusher are the only Skylanders who can turn their enemies into statues.",
+    "Doom Stone, Golden Queen and Crusher are the only Skylanders who can turn their enemies into statues. Coincidentally, they are all non-core Skylanders of the Earth element.",
+    "On his artwork and toy figure, Doom Stone has sand swirling around the pile of circular stones he has for legs that almost completely obscures them from view. However, the sand is absent in game.",
     "He is voiced by Travis Willingham, who also voices the Undead Giant, Eye-Brawl.",
     "Doom Stone, Magna Charge, Rattle Shake and Night Shift are the only SWAP Force Skylanders without any true legs.",
     "Doom Stone and Free Ranger are the only SWAP Force Skylanders with the spin ability.",
-    "Doom Stone is the last SWAP Force member to be released.",
-    "Doom Stone's 'Column Duty' and 'More Doric Warfare' upgrades are word-plays on the game series Call of Duty and Modern Warfare.",
-    "Doom Stone is based on Greek mythology. His clothing/carving resembles that of a Greek/Roman gladiator.",
-    "If you place Doom Stone's top half onto Boom Jet's bottom half, you get Doom Jet, which shares its name with Kaos's signature vehicle."
+    "Doom Stone is the last SWAP Force member to be released. He is also the second non-core Skylander to be the last one released, while Ninjini is the first.",
+    "Doom Stone's 'Column Duty' and 'More Doric Warfare' upgrades are word-plays on the game series Call of Duty and one of the games in it, Modern Warfare (also produced by Activision).",
+    "The pupils within his eyes appear to be hollowed out.",
+    "Doom Stone is noticeably similar to Rubble Rouser: Both are Earth Skylanders, both are SWAP Force Skylanders, and both are made of stone.",
+    "When Doom Stone activates his shield, he is capable of stopping spinning enemies like Pirate Slamspins and Twistpick Cyclopses only when they hit it and become frozen.",
+    "If Doom Stone selects 'Jaded Fighter', ruby eyes will appear on the face of his shield and triangular emeralds show up around the rims.",
+    "Doom Stone is based on Greek mythology. His clothing/carving resembles that of a Greek/Roman gladiator. He can also turn enemies into jade, similar to how Medusa can turn her victims into stone.",
+    "In Skylanders: Lost Islands, Doom Stone is missing his shield.",
+    "If you place Doom Stone's top half onto Boom Jet's bottom half, you get Doom Jet, which, coincidentally, shares its name with Kaos's signature vehicle.",
+    "In the description of Doom Stone's unique Quest, 'Stop Hitting Yourself', the word 'Chompies' is not capitalized."
   ],
   "trailers": [
     {
       "name": "Skylanders Swap Force - Meet the Skylanders - Doom Stone (Another Smash Hit)",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Doom_Stone_(Another_Smash_Hit)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Doom_Stone_(Another_Smash_Hit)"
     },
     {
       "name": "Skylanders Swap Force - Doom Stone Soul Gem Preview (Another Smash Hit)",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Swap_Force_-_Doom_Stone_Soul_Gem_Preview_(Another_Smash_Hit)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Doom_Stone_Soul_Gem_Preview_(Another_Smash_Hit)"
     }
   ],
   "gameplay": "Doom Stone is an Earth Skylander from the SWAP Force. He uses a heavy column to bash enemies and can turn them into jade statues by blocking their attacks. His bottom half allows him to spin rapidly, damaging nearby enemies and charging a stone belt for increased power. Additionally, his shield can be upgraded to reflect projectiles and even release enchanted snakes to attack attackers.",
@@ -99,7 +107,7 @@
     "basic": [
       {
         "name": "Column Club",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/71/Doom_Stonetopprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170504053856",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/71/Doom_Stonetopprimarypower.png/revision/latest?cb=20170504053856",
         "content": "Press Attack 1 to swing a heavy column at nearby enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -111,7 +119,7 @@
       },
       {
         "name": "Stoney Spin",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Doom_Stonebottomprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170504054227",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Doom_Stonebottomprimarypower.png/revision/latest?cb=20170504054227",
         "content": "Press Attack 2 to rapidly attack nearby enemies and charge the stoney belt. The belt increases damages and size the more it is charged.",
         "is_primary": false,
         "is_secondary": true,
@@ -125,7 +133,7 @@
     "basic_upgrades": [
       {
         "name": "Living Statue",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Doom_Stonetopbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504053953",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Doom_Stonetopbasicupgrade1.png/revision/latest?cb=20170504053953",
         "content": "Hold Attack 3 to block close attacks. Blocking attacks will cause nearby attackers to turn jade for a short time.",
         "is_primary": false,
         "is_secondary": false,
@@ -137,7 +145,7 @@
       },
       {
         "name": "Reject and Reflect",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/13/Doom_Stonetopbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504054013",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/13/Doom_Stonetopbasicupgrade2.png/revision/latest?cb=20170504054013",
         "content": "Hold Attack 3 to block projectile attacks. Blocked projectiles are hit back at enemies, turning them into jade.",
         "is_primary": false,
         "is_secondary": false,
@@ -149,7 +157,7 @@
       },
       {
         "name": "Column Duty",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/53/Doom_Stonetopbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504054049",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/53/Doom_Stonetopbasicupgrade3.png/revision/latest?cb=20170504054049",
         "content": "Hold Attack 1 to charge the Column Club, release to cause large area of damage. Cause more damage the longer Attack 1 is held.",
         "is_primary": false,
         "is_secondary": false,
@@ -161,7 +169,7 @@
       },
       {
         "name": "Spin Right Around",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Doom_Stonebottombasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504054307",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Doom_Stonebottombasicupgrade1.png/revision/latest?cb=20170504054307",
         "content": "Hold Attack 2 to charge a spin, release to bounce between nearby enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -173,7 +181,7 @@
       },
       {
         "name": "Revolutionary Belt",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f0/Doom_Stonebottombasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504054310",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f0/Doom_Stonebottombasicupgrade2.png/revision/latest?cb=20170504054310",
         "content": "Spinning does increased damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -185,7 +193,7 @@
       },
       {
         "name": "Speedy Spinner",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Doom_Stonebottombasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504054309",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Doom_Stonebottombasicupgrade3.png/revision/latest?cb=20170504054309",
         "content": "Press Attack 2 to increase the speed that the belt is spinning. Speed is increased depending on how fast the belt is spinning.",
         "is_primary": false,
         "is_secondary": false,
@@ -199,7 +207,7 @@
     "soulgems": [
       {
         "name": "Stoney Stare",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d3/Doom_Stonetopsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170504053927",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d3/Doom_Stonetopsoulgempower.png/revision/latest?cb=20170504053927",
         "content": "Hold Attack 3 to block and cause enchanted snakes to come alive on the shield, damaging enemies while you block.",
         "is_primary": false,
         "is_secondary": false,
@@ -211,7 +219,7 @@
       },
       {
         "name": "Spin The Tables",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Doom_Stonebottomsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170504054314",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Doom_Stonebottomsoulgempower.png/revision/latest?cb=20170504054314",
         "content": "During the fourth spin, enemies in a large radius are damaged.",
         "is_primary": false,
         "is_secondary": false,
@@ -229,7 +237,7 @@
         "abilities": [
           {
             "name": "Falling to Pieces",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Doom_Stonetoppath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504055233",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Doom_Stonetoppath1upgrade1.png/revision/latest?cb=20170504055233",
             "content": "Hold Attack 1 to charge Column Duty to release to smash the column and break off smaller pieces of it that damages enemies in a larger area.",
             "is_primary": false,
             "is_secondary": false,
@@ -241,7 +249,7 @@
           },
           {
             "name": "Club Doom",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/68/Doom_Stonetoppath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504055235",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/68/Doom_Stonetoppath1upgrade2.png/revision/latest?cb=20170504055235",
             "content": "Column Duty can be charged even longer, dealing more damage in a larger area.",
             "is_primary": false,
             "is_secondary": false,
@@ -258,7 +266,7 @@
         "abilities": [
           {
             "name": "Cracking Up",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/aa/Doom_Stonetoppath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504054558",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/aa/Doom_Stonetoppath2upgrade1.png/revision/latest?cb=20170504054558",
             "content": "Enemies turned to jade will burst, causing small shards to damage other enemies near them.",
             "is_primary": false,
             "is_secondary": false,
@@ -270,7 +278,7 @@
           },
           {
             "name": "More Doric Warfare",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a9/Doom_Stonetoppath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504054618",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a9/Doom_Stonetoppath2upgrade2.png/revision/latest?cb=20170504054618",
             "content": "Hold Attack 3 to block attacks and do even more damage to blocked attackers.",
             "is_primary": false,
             "is_secondary": false,
@@ -287,7 +295,7 @@
         "abilities": [
           {
             "name": "The Harder They Fall",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Doom_Stonebottompath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504054822",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Doom_Stonebottompath1upgrade1.png/revision/latest?cb=20170504054822",
             "content": "Hold Attack 2 to charge a spin, release to bounce between enemies and knock the last enemy hit into the air which damages them when they hit the ground.",
             "is_primary": false,
             "is_secondary": false,
@@ -299,7 +307,7 @@
           },
           {
             "name": "Spinball King",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a5/Doom_Stonebottompath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504054846",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a5/Doom_Stonebottompath1upgrade2.png/revision/latest?cb=20170504054846",
             "content": "Spin Right Around does increased damage. King of the Spinball wizards!",
             "is_primary": false,
             "is_secondary": false,
@@ -316,7 +324,7 @@
         "abilities": [
           {
             "name": "Jaded Spin",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Doom_Stonebottompath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504055240",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Doom_Stonebottompath2upgrade1.png/revision/latest?cb=20170504055240",
             "content": "Now shoot jade projectiles at enemies when spinning.",
             "is_primary": false,
             "is_secondary": false,
@@ -328,7 +336,7 @@
           },
           {
             "name": "Belt Pelters",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/13/Doom_Stonebottompath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504055240",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/13/Doom_Stonebottompath2upgrade2.png/revision/latest?cb=20170504055240",
             "content": "Press Attack 2 to spin and shoot powerful jade projectiles at enemies that do increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -349,7 +357,45 @@
       "edition": "Series 1",
       "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/1/14/Doom_Stone_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140523034255",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/14/Doom_Stone_Promo.jpg/revision/latest?cb=20140523034255",
+      "attacks": [
+        "Column Club",
+        "Stoney Spin",
+        "Living Statue",
+        "Spin Right Around",
+        "Falling to Pieces"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 (max. 560)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 (max. 83)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30 (max. 60)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6 (max. 56)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Doom_Stone"
+    },
+    {
+      "id": "gold-and-bronze-doom-stone-swap-force",
+      "variant_name": "Gold and Bronze Doom Stone",
+      "edition": "Special Edition",
+      "type": "SWAP Force",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e0/GoldBronzeDoomStone.png/revision/latest?cb=20140324151700",
       "attacks": [
         "Column Club",
         "Stoney Spin",
