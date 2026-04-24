@@ -23,7 +23,7 @@
       "story_name": "Origin",
       "content": "Dark Wolfgang is the Dark counterpart of Wolfgang in Skylanders: Imaginators. He is included in the Dark Edition of Imaginators, along with Dark Golden Queen and Dark King Pen, and a Dark Doom Raider boss in Skylanders: Ring of Heroes.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Dark_Wolfgang_Artwork.jpg/revision/latest/scale-to-width-down/268?cb=20160914205555"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Dark_Wolfgang_Artwork.jpg/revision/latest?cb=20160914205555"
     }
   ],
   "quotes": [
@@ -45,7 +45,7 @@
     "basic": [
       {
         "name": "Strike a Chord",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/UndeadSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223508",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/UndeadSymbolSkylanders.png/revision/latest?cb=20160925223508",
         "content": "Attack with your guitar bow by striking musical chords.",
         "is_primary": true,
         "is_secondary": false,
@@ -57,7 +57,7 @@
       },
       {
         "name": "Knee Slide",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Bowslinger_symbol.png/revision/latest/scale-to-width-down/22?cb=20160718232138",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Bowslinger_symbol.png/revision/latest?cb=20160718232138",
         "content": "Perform a rock-and-roll knee slide to damage enemies in your path.",
         "is_primary": false,
         "is_secondary": true,
@@ -71,7 +71,7 @@
     "basic_upgrades": [
       {
         "name": "Song of the Underworld",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/UndeadSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223508",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/UndeadSymbolSkylanders.png/revision/latest?cb=20160925223508",
         "content": "Play a powerful song that channels the power of the Underworld.",
         "is_primary": false,
         "is_secondary": false,
@@ -83,7 +83,7 @@
       },
       {
         "name": "Lay Some Tracks",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/UndeadSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223508",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/UndeadSymbolSkylanders.png/revision/latest?cb=20160925223508",
         "content": "Lay tracks on the ground to control the battlefield.",
         "is_primary": false,
         "is_secondary": false,
@@ -97,7 +97,7 @@
     "soulgems": [
       {
         "name": "Surround Sound",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Dark_Wolfgang_Artwork.jpg/revision/latest/scale-to-width-down/268?cb=20160914205555",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Dark_Wolfgang_Artwork.jpg/revision/latest?cb=20160914205555",
         "content": "Release a massive Sky Chi attack that surrounds enemies with devastating sound.",
         "is_primary": false,
         "is_secondary": false,
@@ -113,9 +113,9 @@
   },
   "variants": [
     {
-      "id": "dark-wolfgang",
+      "id": "dark-wolfgang-imaginators",
       "variant_name": "Dark Wolfgang",
-      "edition": "Series 1",
+      "edition": "Dark Edition",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/0/03/Dark_Wolfgang_Artwork.jpg/revision/latest?cb=20160914205555",
