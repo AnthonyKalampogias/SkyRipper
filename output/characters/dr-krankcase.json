@@ -4,7 +4,7 @@
   "species": "Unknown/Cyborg hybrid",
   "gender": "Male",
   "element": "Tech",
-  "role": "Doom Raider",
+  "role": "Doom Raider / Ally / Sensei",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Trap Team",
@@ -52,7 +52,7 @@
       "story_name": "Skylanders: Imaginators",
       "content": "After being captured by the Trap Masters, Eon gave the villains a choice – either go back to Cloudcracker Prison or become a Skylander Sensei. Krankcase accepted this deal and had to prove himself by re-arranging all the books in the Academy's library, a task which took almost two years. Now he uses that newfound knowledge to train Imaginators on the A, B, Cs of shooting as the master of the Quickshot Class. Before these events, he was also responsible for the creation of Boom Bloom.",
       "hasImage": false,
-      "imgPath": "none,"
+      "imgPath": "none"
     },
     {
       "story_name": "Skylanders: Lost Islands",
@@ -83,6 +83,7 @@
         "Filling the vats with goo~! Filling the vats with goo~! I'm filling the vats with goo~!",
         "Hey I hate having to do this to ya. I really do. But I'm a pretty bad guy so uh... you know.",
         "Oh, that reminds me! Speaking of bad guys, check this out!",
+        "Hahahahaha! He demands, that's a good one.",
         "Well if you can't trust an Undead werewolf, who can you trust, right?"
       ]
     },
@@ -99,12 +100,28 @@
         "I'm Dr. Krankcase. Who are you?",
         "Nice to meet goo!",
         "Doctor in the house!",
+        "Wow. This situation sure escalated fast!",
         "May the goo be with you!",
         "Peek a goo!",
         "Paging Dr. Krankcase!",
         "Dr. Krankcase is on the case!",
+        "(laughs) That's rich!",
+        "Heheheh... See what I did there?",
         "Do you guys need any professors at this academy? 'Cause, I am a doctor, you know. Though I can't remember exactly what I'm a doctor of...",
-        "Did you know I and Mags went to the same inventor's school? Except I majored in evil."
+        "Did you know I and Mags went to the same inventor's school? Except I majored in evil.",
+        "You know what would look good here? A goo fountain! ...Just something to keep in mind.",
+        "Just saying that your Academy is dangerously low on goo.",
+        "My favorite band? The Skaletones! Then again, the only other option is the Gecko Chorus, right? We could probably use some more variety.",
+        "You're low on health and should bring me in! Listen to your doctor, here.",
+        "Phew! Pretty wild ride out there, huh? We should do that again sometime.",
+        "I'm just going to take a little rest here but good times pal, good times.",
+        "I'll need to recharge here, buddy.",
+        "Hit me up again on the next mission.",
+        "Bring me in! I'm supercharged!",
+        "Cranked up and ready!",
+        "That seems like a pretty good Skylander, if you want my professional opinion.",
+        "Well, it looks like duty calls Portal Master. I think you know what to do.",
+        "As you can see, I have solid credentials!"
       ]
     },
     {
@@ -113,22 +130,44 @@
         "The Doctor is in!",
         "Somebody call a doctor?",
         "Ha ha! Time for a professional opinion!",
+        "The doctor is here!",
         "I will return!",
+        "Goodbye for now!",
         "K-ranking it up!",
+        "My genius grows!",
         "Tools of the trade!",
+        "The perfect instrument!",
+        "Mixing it up!",
+        "True genius, I must say!",
         "The smell of success!",
         "A barrel of laughs! And pain!",
+        "Ooh, I wonder what's inside...?",
+        "Dance, dance!",
+        "Another blow for science!",
+        "Just what the doctor ordered!",
         "Is there a doctor in the house...?",
-        "The doctor is out...!"
+        "The doctor is out...!",
+        "Just a temporary setback, really!",
+        "Surely, you saw that coming!",
+        "Victory",
+        "Thank you and good night.",
+        "Watch the hat!",
+        "I say!",
+        "What is it now?",
+        "Can I help you?",
+        "This is no way to treat a doctor.",
+        "You should stop that now."
       ]
     },
     {
-      "quote_type": "Imaginators Quotes",
+      "quote_type": "Skylanders: Imaginators",
       "content": [
         "The Doctor is in!",
         "Somebody call a doctor? Well I've got the prescription for all your Imaginators.",
+        "And I've got a PhD in teaching Secret Techniques to the Quickshot Class.",
         "K-crankin' up the Sky-Chi!",
         "I'd say that procedure went well.",
+        "Did somebody call a doctor?",
         "As you can see, I have excellent credentials.",
         "Let's go over your test results...wait, these are my stats! Not bad!"
       ]
@@ -141,6 +180,8 @@
         "What can I say? I'm a mean, green machine!",
         "A maker of mayhem, an engineer of fear, an inventor of... uh... whatever rhymes with inventor.",
         "And what's more evil than that? Having five creepy crawly spider legs!",
+        "Not even the Trap Team can outrun these babies.",
+        "Uh-oh, a trap?! Wish I invented that! NOOOOOOO!!!!!",
         "Let me out! Doctor's orders!"
       ]
     }
@@ -157,7 +198,7 @@
     "Dr. Krankcase is susceptible to his own Smog Machine in Battlecast.",
     "Dr. Krankcase is the only character to jump from frontline to the back manually using a grappling hook.",
     "He is voiced by Quinton Flynn, known for Axel in Kingdom Hearts and Sheldon Lee in My Life as a Teenage Robot.",
-    "His Sky-Chi move 'Goo Goo G'shoot' is a reference to the Beatles' 'I Am The Walrus'.",
+    "His Sky-Chi move is a reference to Goo Goo G'joob from the Beatles' \"I Am The Walrus\".",
     "Krankcase was planned for Skylanders Academy's season two but was cut due to budget reasons.",
     "Dr. Krankcase and Dr. Neo Cortex are the only playable characters labeled as doctors.",
     "The name of one of his basic upgrades 'Splats All Folks' is a pun of the famous Looney Tunes catchphrase 'That's all Folks'.",
@@ -166,9 +207,9 @@
   ],
   "trailers": [
     {
-      "name": "Official Skylanders Trap Team- 'Meet the Villains- Dr. Krankcase' Trailer",
+      "name": "Official Skylanders Trap Team- \"Meet the Villains- Dr. Krankcase\" Trailer",
       "isValid": true,
-      "url": "/wiki/File:Official_Skylanders_Trap_Team-_%22Meet_the_Villains-_Dr._Krankcase%22_Trailer"
+      "url": "/wiki/File:Official_Skylanders_Trap_Team-_\"Meet_the_Villains-_Dr._Krankcase\"_Trailer"
     },
     {
       "name": "Official Skylanders Imaginators Meet Dr. Krankcase",
@@ -371,7 +412,7 @@
   },
   "variants": [
     {
-      "id": "dr-krankcase",
+      "id": "dr-krankcase-sensei",
       "variant_name": "Dr. Krankcase",
       "edition": "Series 1",
       "type": "Sensei",
