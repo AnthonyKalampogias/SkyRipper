@@ -4,7 +4,7 @@
   "species": "Unknown (Air Strike) and Blue Zephyr Falcon (Birdie)",
   "gender": "Male (both)",
   "element": "Air",
-  "role": "Sensei",
+  "role": "Senseis",
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators"
@@ -15,28 +15,29 @@
   ],
   "description": "Egg Bomber Air Strike is an Easter counterpart of Air Strike in Skylanders: Imaginators.",
   "biography": "Before he began training Brawlers, Air Strike trained birds – especially the rare Blue Zephyr Falcons. They were once one of Skylands’ most endangered species, but Air Strike taught them how to defend themselves from predators... and not fly into windows. Birds would come from all over Skylands to learn his proven techniques. But despite their new defensive skills, the Blue Zephyr Falcons continued to be hunted by a band of evil trolls, who liked to use their eggs in blue-bacon omelets. So it was time for Air Strike to strike back! He journeyed to the peak of the Zephyr Mountain and single handedly took down the trolls, rescuing the stolen eggs. After returning them to their mother, one of the eggs hatched, revealing a very energetic Falcon that would not leave his side. Air Strike named him 'Birdie' – and together, they now use their skills to train Skylanders, despite Master Eon's crippling fear of falcons.",
-  "quote": "'Fight and Flight!'",
+  "quote": "Fight and Flight!",
   "personality": "Air Strike is a dedicated and protective mentor who values the safety of nature and his avian students. He is brave enough to take on bands of trolls single-handedly and possesses the patience required to train even the most energetic of falcons.",
   "story": [
     {
       "story_name": "Biography",
       "content": "Before he began training Brawlers, Air Strike trained birds – especially the rare Blue Zephyr Falcons. They were once one of Skylands’ most endangered species, but Air Strike taught them how to defend themselves from predators... and not fly into windows. Birds would come from all over Skylands to learn his proven techniques. But despite their new defensive skills, the Blue Zephyr Falcons continued to be hunted by a band of evil trolls, who liked to use their eggs in blue-bacon omelets. So it was time for Air Strike to strike back! He journeyed to the peak of the Zephyr Mountain and single handedly took down the trolls, rescuing the stolen eggs. After returning them to their mother, one of the eggs hatched, revealing a very energetic Falcon that would not leave his side. Air Strike named him 'Birdie' – and together, they now use their skills to train Skylanders, despite Master Eon's crippling fear of falcons.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Egg_Bomber_Air_Strike_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161112131913"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Egg_Bomber_Air_Strike_Promo.jpg/revision/latest?cb=20161112131913"
     }
   ],
   "quotes": [
     {
       "quote_type": "Official Catchphrase",
       "content": [
-        "'Fight and Flight!'"
+        "Fight and Flight!"
       ]
     }
   ],
   "trivia": [
     "Egg Bomber Air Strike is the Easter-themed variant of Air Strike.",
     "His falcon companion is named Birdie.",
-    "He is one of the Senseis in Skylanders: Imaginators."
+    "He was first released for Skylanders: Imaginators.",
+    "Master Eon has a crippling fear of falcons, which makes training Skylanders with Birdie an interesting challenge."
   ],
   "trailers": [],
   "gameplay": "Egg Bomber Air Strike is a Brawler class Sensei who utilizes his falcon companion, Birdie, in combat. His moveset includes a variety of bird-themed physical strikes and area-of-effect storm attacks, culminating in his unique explosive egg barrage.",
@@ -118,7 +119,7 @@
       "edition": "Easter",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Egg_Bomber_Air_Strike_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20161112131913",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Egg_Bomber_Air_Strike_Promo.jpg/revision/latest?cb=20161112131913",
       "attacks": [
         "Bird Brawl",
         "Bird Dive Bomb",
