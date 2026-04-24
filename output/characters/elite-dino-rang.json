@@ -23,7 +23,7 @@
       "story_name": "Origin",
       "content": "Elite Dino-Rang is the Eon's Elite counterpart of Dino-Rang in Skylanders: SuperChargers. He represents the pinnacle of Earth Skylanders, handpicked by Master Eon.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Eon%27s_Elite_Dino-Rang.jpg/revision/latest/scale-to-width-down/268?cb=20170729040953"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Eon's_Elite_Dino-Rang.jpg/revision/latest?cb=20170729040953"
     }
   ],
   "quotes": [
@@ -45,7 +45,7 @@
     "basic": [
       {
         "name": "Stone Boomerangs",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png/revision/latest/scale-to-width-down/185?cb=20240922233235",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png",
         "content": "Dino-Rang throws powerful earthen boomerangs at his enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -57,7 +57,7 @@
       },
       {
         "name": "Boomerang Shield",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png/revision/latest/scale-to-width-down/185?cb=20240922233235",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png",
         "content": "Dino-Rang creates a protective shield of rotating boomerangs.",
         "is_primary": false,
         "is_secondary": true,
@@ -71,7 +71,7 @@
     "basic_upgrades": [
       {
         "name": "Stonefist Traps",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png/revision/latest/scale-to-width-down/185?cb=20240922233235",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png",
         "content": "Places traps on the ground that snare and damage enemies using stone fists.",
         "is_primary": false,
         "is_secondary": false,
@@ -83,7 +83,7 @@
       },
       {
         "name": "Dervish Shield",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png/revision/latest/scale-to-width-down/185?cb=20240922233235",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png",
         "content": "Enhances the boomerang shield to deal more damage and last longer.",
         "is_primary": false,
         "is_secondary": false,
@@ -97,7 +97,7 @@
     "soulgems": [
       {
         "name": "Volcanic Glass Boomerangs",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png/revision/latest/scale-to-width-down/185?cb=20240922233235",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png",
         "content": "Boomerangs are infused with volcanic glass, dealing massive fire and earth damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -115,7 +115,7 @@
         "abilities": [
           {
             "name": "Elite Stone Boomerangs",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png/revision/latest/scale-to-width-down/185?cb=20240922233235",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Elite_Dino-Rang.png",
             "content": "Further increases the damage and range of the Stone Boomerangs.",
             "is_primary": false,
             "is_secondary": false,
@@ -136,7 +136,7 @@
       "edition": "Eon's Elite",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Eon%27s_Elite_Dino-Rang.jpg/revision/latest?cb=20170729040953",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Eon's_Elite_Dino-Rang.jpg/revision/latest?cb=20170729040953",
       "attacks": [
         "Stone Boomerangs",
         "Boomerang Shield",
@@ -146,12 +146,32 @@
       ],
       "stats": [
         {
+          "stat_name": "Health",
+          "stat_value": "?? (max. Expression error: Unrecognized punctuation character \"?\")"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "?? (max. Expression error: Unrecognized punctuation character \"?\")"
+        },
+        {
           "stat_name": "Armor",
           "stat_value": "80 (max. 110)"
         },
         {
+          "stat_name": "Critical Hit",
+          "stat_value": "?? (max. Expression error: Unrecognized punctuation character \"?\")"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "?? (max. Expression error: Unrecognized punctuation character \"?\")"
+        },
+        {
           "stat_name": "Strength",
           "stat_value": "45"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "??"
         },
         {
           "stat_name": "Agility",
