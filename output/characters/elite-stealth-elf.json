@@ -24,7 +24,7 @@
       "story_name": "Biography",
       "content": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/EliteStealthElf_illustration.png/revision/latest/scale-to-width-down/268?cb=20161108182751"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/EliteStealthElf_illustration.png/revision/latest?cb=20161108182751"
     }
   ],
   "quotes": [
@@ -45,7 +45,7 @@
     "basic": [
       {
         "name": "Blade Slash",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/EliteStealthElf_illustration.png/revision/latest/scale-to-width-down/268?cb=20161108182751",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/EliteStealthElf_illustration.png/revision/latest?cb=20161108182751",
         "content": "A swift attack using daggers to slash enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -57,7 +57,7 @@
       },
       {
         "name": "Stealth",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/EliteStealthElf_illustration.png/revision/latest/scale-to-width-down/268?cb=20161108182751",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/EliteStealthElf_illustration.png/revision/latest?cb=20161108182751",
         "content": "An ability to disappear and move unseen.",
         "is_primary": false,
         "is_secondary": true,
@@ -71,7 +71,7 @@
     "basic_upgrades": [
       {
         "name": "Dragonfang Daggers",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/EliteStealthElf_illustration.png/revision/latest/scale-to-width-down/268?cb=20161108182751",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/EliteStealthElf_illustration.png/revision/latest?cb=20161108182751",
         "content": "Improved daggers for increased damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -83,7 +83,7 @@
       },
       {
         "name": "Arboreal Acrobatics",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/EliteStealthElf_illustration.png/revision/latest/scale-to-width-down/268?cb=20161108182751",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/EliteStealthElf_illustration.png/revision/latest?cb=20161108182751",
         "content": "Enhanced mobility and acrobatic maneuvers.",
         "is_primary": false,
         "is_secondary": false,
@@ -97,7 +97,7 @@
     "soulgems": [
       {
         "name": "Elf Jitsu",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/EliteStealthElf_illustration.png/revision/latest/scale-to-width-down/268?cb=20161108182751",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/EliteStealthElf_illustration.png/revision/latest?cb=20161108182751",
         "content": "A powerful advanced combat technique.",
         "is_primary": false,
         "is_secondary": false,
@@ -142,6 +142,26 @@
         {
           "stat_name": "Luck",
           "stat_value": "100"
+        },
+        {
+          "stat_name": "Top Speed",
+          "stat_value": "12"
+        },
+        {
+          "stat_name": "Acceleration",
+          "stat_value": "15"
+        },
+        {
+          "stat_name": "Handling",
+          "stat_value": "20"
+        },
+        {
+          "stat_name": "Firepower",
+          "stat_value": "14"
+        },
+        {
+          "stat_name": "Armour",
+          "stat_value": "14"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Stealth_Elf"
