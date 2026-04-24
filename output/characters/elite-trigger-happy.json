@@ -15,16 +15,16 @@
   "world": [
     "Skylands"
   ],
-  "description": "Elite Trigger Happy is the Eon's Elite counterpart of Trigger Happy in Skylanders: Trap Team. He is known for dealing the highest single-attack damage in the series.",
+  "description": "Elite Trigger Happy is the Eon's Elite counterpart of Trigger Happy in Skylanders: Trap Team. He is revered by his fellow Skylanders for his courage and unwavering commitment to defend Skylands, and is notable for holding the record for the most damage any playable character can deal in a single attack.",
   "biography": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
   "quote": "No Gold, No Glory!",
-  "personality": "Trigger Happy is chaotic, energetic, and obsessed with gold, always ready to blast away enemies with his dual coin shooters.",
+  "personality": "Trigger Happy is chaotic, energetic, and obsessed with gold, always ready to blast away enemies with his dual coin shooters and a wild laugh.",
   "story": [
     {
       "story_name": "Biography",
       "content": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Elitetriggerhappy.png/revision/latest/scale-to-width-down/268?cb=20161108182758"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Elitetriggerhappy.png/revision/latest?cb=20161108182758"
     }
   ],
   "quotes": [
@@ -41,7 +41,7 @@
     "Oddly, in Skylanders: SuperChargers, the critical hit instead causes 1050 damage."
   ],
   "trailers": [],
-  "gameplay": "Elite Trigger Happy is the Eon's Elite version of Trigger Happy. His signature move, the Golden Yamato Blast, is the most powerful attack in the later games, capable of causing 2880 damage with a critical hit, the highest of any playable character in the series.",
+  "gameplay": "Elite Trigger Happy is the Eon's Elite version of Trigger Happy. His signature move, the Golden Yamato Blast, is the most powerful attack in the later games, capable of causing 2880 damage with a critical hit, which is the highest damage output of any playable character in the series.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Trigger_Happy",
   "abilities": {
     "basic": [
@@ -127,12 +127,12 @@
   },
   "variants": [
     {
-      "id": "elite-trigger-happy",
+      "id": "elite-trigger-happy-s1",
       "variant_name": "Elite Trigger Happy",
       "edition": "Eon's Elite",
       "type": "Elite",
       "game": "Skylanders: Trap Team",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/9/93/Elitetriggerhappy.png/revision/latest?cb=20161108182758",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Eons_Elite_Trigger_Happy.png/revision/latest?cb=20141103000627",
       "attacks": [
         "Gold Coin Shooters",
         "Safe Cracker Bomb",
