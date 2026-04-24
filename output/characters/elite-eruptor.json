@@ -24,7 +24,7 @@
       "story_name": "Biography",
       "content": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon’s Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20161108182740"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest?cb=20161108182740"
     }
   ],
   "quotes": [
@@ -48,7 +48,7 @@
     "basic": [
       {
         "name": "Lava Lob",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20161108182740",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest?cb=20161108182740",
         "content": "Elite Eruptor hurls a glob of lava at his enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -60,7 +60,7 @@
       },
       {
         "name": "Eruption",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20161108182740",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest?cb=20161108182740",
         "content": "Creates a localized volcanic blast to damage nearby foes.",
         "is_primary": false,
         "is_secondary": true,
@@ -74,7 +74,7 @@
     "basic_upgrades": [
       {
         "name": "Mega Magma Balls",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20161108182740",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest?cb=20161108182740",
         "content": "Enhances magma projectiles for greater damage and area of effect.",
         "is_primary": false,
         "is_secondary": false,
@@ -86,7 +86,7 @@
       },
       {
         "name": "Heavy Duty Plasma",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20161108182740",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest?cb=20161108182740",
         "content": "Intensifies fire attacks with high-temperature plasma energy.",
         "is_primary": false,
         "is_secondary": false,
@@ -100,7 +100,7 @@
     "soulgems": [
       {
         "name": "Super Eruption",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20161108182740",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Elite_Eruptor.png/revision/latest?cb=20161108182740",
         "content": "The ultimate volcanic attack, unleashing a massive eruption that covers a wide area.",
         "is_primary": false,
         "is_secondary": false,
@@ -131,22 +131,6 @@
       ],
       "stats": [
         {
-          "stat_name": "Strength",
-          "stat_value": "500"
-        },
-        {
-          "stat_name": "Defense",
-          "stat_value": "350"
-        },
-        {
-          "stat_name": "Agility",
-          "stat_value": "100"
-        },
-        {
-          "stat_name": "Luck",
-          "stat_value": "150"
-        },
-        {
           "stat_name": "Health",
           "stat_value": "???"
         },
@@ -165,6 +149,22 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "??"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "500"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "350"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "150"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Elite_Eruptor"
