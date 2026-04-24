@@ -24,7 +24,7 @@
       "story_name": "Biography",
       "content": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
       "hasImage": false,
-      "imgPath": "EliteTerraFin_illustration.png"
+      "imgPath": ""
     }
   ],
   "quotes": [
@@ -42,7 +42,7 @@
   "trailers": [
     {
       "name": "The Beginning Trailer",
-      "isValid": true,
+      "isValid": false,
       "url": "https://www.youtube.com/watch?v=Chris_Williams_Trailer_URL_Placeholder"
     }
   ],
@@ -133,6 +133,26 @@
         "Razorfin"
       ],
       "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "???"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        },
         {
           "stat_name": "Strength",
           "stat_value": "400"
