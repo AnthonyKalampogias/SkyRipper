@@ -11,9 +11,10 @@
   ],
   "cameos": [],
   "world": [
-    "Wumpa Island"
+    "Wumpa Island",
+    "Thumpin' Wumpa Islands"
   ],
-  "description": "Neo Cortex is a a short, yellow-skinned and large-headed man with a giant 'N' symbol located on his forehead, bigger lip with a spiky goatee, bald head with hair on the sides of it and a thick black strand on top, and with large red circles under his eyes. He wears a lab coat with black arms and legs, accompanied with yellow gloves. In one hand, he holds a laser blaster.",
+  "description": "Neo Cortex is a short, yellow-skinned and large-headed man with a giant 'N' symbol located on his forehead, bigger lip with a spiky goatee, bald head with hair on the sides of it and a thick black strand on top, and with large red circles under his eyes. He wears a lab coat with black arms and legs, accompanied with yellow gloves. In one hand, he holds a laser blaster.",
   "biography": "Doctor Neo Periwinkle Cortex is a professional scientist born in Peoria, Illinois, and is the main antagonist of the Crash Bandicoot series. He is Crash Bandicoot's arch-nemesis and creator. In Skylanders: Imaginators, a wormhole has opened in Skylands and the great Aku Aku appears! He comes to announce the once-in-two-decades Synchronization Celebration -- it is the time when all the worlds align perfectly. All the inhabitants of Wumpa Island are having a huge party in the Wumpa Islands and want to invite the Skylanders. But Dr. Neo Cortex has created a sinister machine to harness this incredible energy for his own evil purposes, only to watch it go completely haywire. Now Dr. Neo Cortex must partner with Crash Bandicoot to stop the machine before Wumpa Islands are completely shaken apart!",
   "quote": "MWAHAHAHAHAHAAA!!!",
   "personality": "Dr. Neo Cortex is a professional scientist with a massive ego and a volatile temperament. As a long-time antagonist, he is defined by his deep-seated hatred for Crash Bandicoot and his relentless pursuit of world domination. Despite his brilliance, he is often frustrated by the failures of his own machines and the incompetence of his henchmen. While he is capable of working with his enemies when a greater threat arises, he remains untrustworthy and smug about his superior intellect.",
@@ -59,16 +60,19 @@
     "Cortex and Boom Bloom are the only Senseis to not have a weapon from their battle classes. While Cortex can turn his weapon into a staff, he mainly wields a gun.",
     "Cortex is the first Skylander to be human, though because of his original series' art style, he does not appear to be one.",
     "His name is a pun on neocortex, the largest part of the brain.",
-    "Just as with Crash, characters in Thumpin' Wumpa Islands will have custom dialogue if you play as Cortex.",
+    "Just as with Crash, characters in Thumpin' Wumpa Islands will have custom dialogue if you play as Cortex. In his case, they will act untrustworthy towards him (rightfully), believing he is the cause of the problem in some way.",
     "He and Crash are two of the characters to also act as Adventure Pack figures, adding Thumpin' Wumpa Islands to the game.",
     "Despite being the only Guest Star who is able to talk freely, like the other Guest Stars, he does not have a catchphrase.",
-    "Cortex is the second villain who did not appear in Trap Team to have a Skylander figurine.",
-    "He and Crash Bandicoot are the first and only guest characters that can be played on any gaming console.",
+    "Cortex is the second villain who did not appear in Trap Team to have a Skylander figurine (The first is Hammer Slam Bowser).",
+    "Unlike Hammer Slam Bowser and Turbo Charge Donkey Kong who are only playable on Nintendo consoles, he and Crash Bandicoot are the first and only guest characters that can be played on any gaming console.",
     "On his figure he has white sleeves. However, in-game he has black sleeves.",
     "The name of Cortex's first 'Gadgets Galore' ability, 'N. Tropy's Slow Mo Flow', is a reference to Dr. N. Tropy.",
     "Dr. Neo Cortex and Dr. Krankcase are the only playable characters labeled as doctors.",
+    "The promo artwork of the Skylander version of Cortex was used for the concepts of Cortex's Castle in Crash Team Racing: Nitro-Fueled.",
+    "He and Crash are the only Senseis not featured in Skylanders Creator. Despite that, their unique parts can still be unlocked through timed chests.",
     "One of Cortex's Wonderful Wizardry upgrades 'Mask in the Mirror' is perhaps a play on the Michael Jackson song Man in the Mirror.",
-    "His Soul Gem ability's name is a play on 'Wanted: Dead or Alive'."
+    "His Soul Gem ability's name is a play on 'Wanted: Dead or Alive'.",
+    "During a Grind Challenge, he slides only on his left foot."
   ],
   "trailers": [
     {
@@ -272,7 +276,7 @@
   },
   "variants": [
     {
-      "id": "dr-neo-cortex",
+      "id": "dr-neo-cortex-s1",
       "variant_name": "Dr. Neo Cortex",
       "edition": "Series 1",
       "type": "Sensei",
