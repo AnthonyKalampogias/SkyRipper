@@ -28,7 +28,7 @@
       "story_name": "History",
       "content": "Dive-Clops is the twin brother of Eye-Brawl. As a born flyer growing up, he and his brother were inseparable. But while flying solo one day, Dive-Clops strayed too close to a pirate ship and had his wings blasted off by their cannon. Without his wings, Dive-Clops dropped into the ocean like a stone. For days, he rolled along the ocean floor that he believed he would roll on forever. Until he was found by a race of underwater creatures called the Jelly Dwarves. They never saw anything like Dive-Clops before (with the feeling being mutual for Dive-Clops), so they invited him back to their coral castle where they built a dive suit for him to explore the ocean depths. His destiny changed forever when Dive-Clops decided to venture too close to the Whirlpool of Destiny, which pulled him in with its powerful current. He had no idea how long he whirled and twirled, but eventually the whirlpool spat him out. To his surprise, Dive-Clops discovered that a thousand years had passed. Lost and alone, he encountered Master Eon, who offered Dive-Clops to become a Skylander, just like his brother. Now as a SuperCharger, and with his Dive-Bomber, there is no undersea undertaking he can't handle.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2e/Dive-Clops_and_Eye-Brawl.jpg/revision/latest/scale-to-width-down/268?cb=20160205043558"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2e/Dive-Clops_and_Eye-Brawl.jpg/revision/latest?cb=20160205043558"
     },
     {
       "story_name": "Rift into Overdrive",
@@ -83,7 +83,7 @@
     "Despite being Eye Brawl's brother, who is a giant flying eyeball with no eyelids, Dive Clops appears to have expressive green eyelids when using certain attacks like the eye geyser, his eyelids are also visible in his defeat animation.",
     "He is the second Skylander to be voiced by Maurice LaMarche while Night Shift is the first.",
     "In his promotional art and figures, Dive-Clops appears to be left-handed.",
-    "Dive-Clops's original design bears a slight resemblance to Fish from the Disney movie, Chicken Little.",
+    "Dive-Clop's original design bears a slight resemblance to Fish from the Disney movie, Chicken Little.",
     "One of his upgrades, Ping, is a reference to the sound a sonar detector makes.",
     "His name is a play on 'Cyclops'.",
     "He is the only newly-introduced male SuperCharger to own a Sea Vehicle.",
@@ -98,7 +98,7 @@
     {
       "name": "Skylanders SuperChargers - Dive-Clop's Soul Gem Preview (Look Out Below)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Dive-Clop's_Soul_Gem_Preview_(Look_Out_Below)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Dive-Clop%27s_Soul_Gem_Preview_%28Look_Out_Below%29"
     }
   ],
   "gameplay": "In Skylanders: SuperChargers Racing, Dive-Clops is one of the best combat characters in the game. He boasts both excellent Firepower and maximum Armour, making him capable of both taking and dealing damage. His Top Speed is good, but his Acceleration and Handling let him down. As a SuperCharger, he has access to the vehicle mods. When paired with his Dive Bomber, his battle stats are improved tremendously. His Armour goes up immensely and his Firepower - while only receiving a modest boost - is helped by the Dive Bomber's naturally high stat. His Top Speed also receives a good boost while his Acceleration and Handling receive only minor boosts.",
@@ -107,7 +107,7 @@
     "basic": [
       {
         "name": "Waterpedo",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/Dive-Clopsprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170401162010",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/Dive-Clopsprimarypower.png/revision/latest?cb=20170401162010",
         "content": "Press Attack 1 to shoot a Waterpedo that creates a mine that damages enemies close to it and explodes when hit with Sonar.",
         "is_primary": true,
         "is_secondary": false,
@@ -119,7 +119,7 @@
       },
       {
         "name": "Sonar",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/87/Dive-Clopssecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170401162123",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/87/Dive-Clopssecondarypower.png/revision/latest?cb=20170401162123",
         "content": "Press Attack 2 to create a sonar ping that damages enemies around you and cause Waterpedo mines to explode.",
         "is_primary": false,
         "is_secondary": true,
@@ -133,7 +133,7 @@
     "basic_upgrades": [
       {
         "name": "Put the Eye in Geyser",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/71/Dive-Clopsbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170401162411",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/71/Dive-Clopsbasicupgrade1.png/revision/latest?cb=20170401162411",
         "content": "Press Attack 3 to unleash a geyser that pushes enemies back. Press Attack 3 again to end the geyser.",
         "is_primary": false,
         "is_secondary": false,
@@ -145,7 +145,7 @@
       },
       {
         "name": "Echo Enhancers",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Dive-Clopsbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170401162504",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Dive-Clopsbasicupgrade2.png/revision/latest?cb=20170401162504",
         "content": "Increases the range and damage of Sonar.",
         "is_primary": false,
         "is_secondary": false,
@@ -157,7 +157,7 @@
       },
       {
         "name": "Power of the Pupil",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/41/Dive-Clopsbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170401162531",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/41/Dive-Clopsbasicupgrade3.png/revision/latest?cb=20170401162531",
         "content": "While using your geyser, press Attack 1 or Attack 2 to perform special attacks.",
         "is_primary": false,
         "is_secondary": false,
@@ -169,7 +169,7 @@
       },
       {
         "name": "Ping",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Dive-Clopsbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170401162559",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Dive-Clopsbasicupgrade4.png/revision/latest?cb=20170401162559",
         "content": "Hold Attack 2 and release to shoot existing Waterpedos and mines upon the targeted enemy or location.",
         "is_primary": false,
         "is_secondary": false,
@@ -183,7 +183,7 @@
     "soulgems": [
       {
         "name": "Depth of Field",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Dive-Clopssoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170401162816",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Dive-Clopssoulgempower.png/revision/latest?cb=20170401162816",
         "content": "Hold Attack 1 and release to shoot a huge cluster of Waterpedo mines. If you couldn't sea mines, you will now!",
         "is_primary": false,
         "is_secondary": false,
@@ -201,7 +201,7 @@
         "abilities": [
           {
             "name": "Torpeslow",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Dive-Clopspath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170401163103",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Dive-Clopspath1upgrade1.png/revision/latest?cb=20170401163103",
             "content": "Press Attack 1 to fire Waterpedoes that create mines which slow the movement of enemies close to the mine.",
             "is_primary": false,
             "is_secondary": false,
@@ -213,7 +213,7 @@
           },
           {
             "name": "Mark II Waterpedo",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/08/Dive-Clopspath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170401163126",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/08/Dive-Clopspath1upgrade2.png/revision/latest?cb=20170401163126",
             "content": "Waterpedoes and Waterpedo mines do more damage. Mined your step!",
             "is_primary": false,
             "is_secondary": false,
@@ -225,7 +225,7 @@
           },
           {
             "name": "Neato Waterpedo",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/15/Dive-Clopspath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170401163157",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/15/Dive-Clopspath1upgrade3.png/revision/latest?cb=20170401163157",
             "content": "Every other Waterpedo is a super Waterpedo that does more damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -242,7 +242,7 @@
         "abilities": [
           {
             "name": "Sonar Smarts",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Dive-Clopspath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170401164138",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Dive-Clopspath2upgrade1.png/revision/latest?cb=20170401164138",
             "content": "Enemies hit with Sonar take more damage from Waterpedos for a short amount of time.",
             "is_primary": false,
             "is_secondary": false,
@@ -254,7 +254,7 @@
           },
           {
             "name": "Counter Measures",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/db/Dive-Clopspath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170401164215",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/db/Dive-Clopspath2upgrade2.png/revision/latest?cb=20170401164215",
             "content": "Automatically send out a small sonar pulse when hit that will damage nearby enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -266,7 +266,7 @@
           },
           {
             "name": "Hatch Off to You",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/05/Dive-Clopspath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170401164246",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/05/Dive-Clopspath2upgrade3.png/revision/latest?cb=20170401164246",
             "content": "Geyser does more damage and can be used longer. Tear it up!",
             "is_primary": false,
             "is_secondary": false,
