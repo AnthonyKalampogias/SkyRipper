@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-24T03:03:13.463Z",
+  "last_run": "2026-04-24T09:17:03.197Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -276,6 +276,38 @@
     {
       "name": "Dark Wildfire",
       "sha": "c130da3c80d89e1ba88c7d2be662fb83a8a78763bdd905521f426a44020a1ec2"
+    },
+    {
+      "name": "Dark Wolfgang",
+      "sha": "64bd06590ad808b9f956ac35f30e07d823bf1f067ff2ab4ba46a08e9aff9e235"
+    },
+    {
+      "name": "Deep Dive Gill Grunt",
+      "sha": "cb25ddc970361493cd7530312190f9f8d2eb534be41e1b5f8a3a840ab548e2e9"
+    },
+    {
+      "name": "Dino-Rang",
+      "sha": "958f6dc68274f6dc99946d0d56f62bf524cb24df7162c72576db09f0df03a211"
+    },
+    {
+      "name": "Dive-Clops",
+      "sha": "ca1c64a2a9d726ba7acfd819f8b6c7f44363a45531ee9d16c377ea5a4e705185"
+    },
+    {
+      "name": "Doom Stone",
+      "sha": "f7bb07139a7ce34ff1657d8701cfc345dc258894f0c29168e42220b757e618f1"
+    },
+    {
+      "name": "Double Dare Trigger Happy",
+      "sha": "5bdf84b1ecb9c1daf3d96acbe855de245b5122e2a14224f8b402b93e6b89b3e6"
+    },
+    {
+      "name": "Double Trouble",
+      "sha": "1a3f5b473e66cc8ce559781507e20e0ef2bc2d873f67ba2c1ad21e908a29accb"
+    },
+    {
+      "name": "Dr. Krankcase",
+      "sha": "93f529262560511b89e70552c8bf9d417eb63333085ffb08d00b917a9fa7f43f"
     }
   ]
 }
