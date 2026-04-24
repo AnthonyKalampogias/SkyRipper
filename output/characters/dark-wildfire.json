@@ -18,13 +18,13 @@
   "description": "Dark Wildfire is the dark version of Wildfire from Skylanders: Trap Team.",
   "biography": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium - which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it - combining the dark power with their own to fight Kaos and the forces of evil.",
   "quote": "Bringing The Heat!",
-  "personality": "",
+  "personality": "Having absorbed dark energy from Kaos' traps, Dark Wildfire has learned to control this new power, combining it with his own strength to fight for the forces of good.",
   "story": [
     {
       "story_name": "Biography",
       "content": "From his top secret lair, Kaos had engineered a dangerous material known as Dark Traptanium - which he intended to use to capture the Skylanders once and for all! Caught off guard, several Skylanders fell into his trap and were imprisoned within the crystal walls. But the Trap Masters arrived just in time and shattered the dark traps with their weapons made from pure Traptanium! Though they were free, they had absorbed enough of the dark energy within, transforming them into dark versions of themselves! Fortunately, they have learned to control it - combining the dark power with their own to fight Kaos and the forces of evil.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Dark_Wildfire_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140721141923"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Dark_Wildfire_Promo.jpg/revision/latest?cb=20140721141923"
     }
   ],
   "quotes": [
@@ -35,7 +35,10 @@
       ]
     }
   ],
-  "trivia": [],
+  "trivia": [
+    "Dark Wildfire is the dark version of Wildfire from Skylanders: Trap Team.",
+    "He was transformed into a dark version of himself after being trapped in Dark Traptanium created by Kaos."
+  ],
   "trailers": [
     {
       "name": "Meet the Skylanders Dark Wildfire",
@@ -43,7 +46,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Dark_Wildfire"
     }
   ],
-  "gameplay": "Dark Wildfire is the dark version of Wildfire. These are the starting and maximum Statistics for this Skylander in the Skylanders games. While his in-game console stats like Health and Speed are unknown, his Power Stats include a Strength of 150 and a Defense of 240.",
+  "gameplay": "In the Skylanders games, Dark Wildfire's starting and maximum statistics such as Health, Speed, Armor, Critical Hit, and Elemental Power are not officially documented for console play. However, his Power Stats include Strength: 150, Defense: 240, Agility: 120, and Luck: 100. These Power Stats are listed for completeness and are not used in actual gameplay.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Wildfire",
   "abilities": {
     "basic": [
