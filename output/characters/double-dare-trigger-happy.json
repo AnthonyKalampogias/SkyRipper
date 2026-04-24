@@ -80,7 +80,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_SuperChargers_Double_Dare_Trigger_Happy_and_Gold_Rusher"
     }
   ],
-  "gameplay": "In Skylanders: SuperChargers Racing, Double Dare Trigger Happy is classified as an all-rounder driver. His stats are erratic, with good Top Speed and Handling, and great Acceleration, resembling Intermediate class drivers. His Firepower is high, while his major downside is his below average Armour. As a SuperCharger, he has access to vehicle mods, receiving major stat boosts when paired with his signature vehicle, the Gold Rusher.",
+  "gameplay": "In Skylanders: SuperChargers Racing, Double Dare Trigger Happy is classified as an all-rounder driver. However, his stats are erratic and make it hard to use him effectively. His Top Speed and Handling are both pretty good, and his Acceleration is great; these stats combined resemble classic Intermediate class kart drivers. His Firepower is also high, with his major downside being his below OK Armour. As a SuperCharger, he has access to the vehicle mods. When paired with his Gold Rusher, he receives major stat boosts to his race-specific stats and only minor boosts to his battle stats.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Double_Dare_Trigger_Happy",
   "abilities": {
     "basic": [
@@ -277,7 +277,7 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "300"
+          "stat_value": "300 (Lv. 20: 900)"
         },
         {
           "stat_name": "Speed",
@@ -297,6 +297,44 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Double_Dare_Trigger_Happy"
+    },
+    {
+      "id": "power-blue-trigger-happy",
+      "variant_name": "Power Blue Trigger Happy",
+      "edition": "Special Edition",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/73/Double_Dare_Trigger_Happy_Art.jpg/revision/latest?cb=20150831080427",
+      "attacks": [
+        "Fire Cracker",
+        "Crowd-Pleaser",
+        "Breaking Cannon",
+        "Hoop N' Holler",
+        "Can On and On"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300 (Lv. 20: 900)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Power_Blue_Trigger_Happy"
     }
   ]
 }
