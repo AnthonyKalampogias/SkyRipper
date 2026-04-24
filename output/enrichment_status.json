@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-24T09:17:03.197Z",
+  "last_run": "2026-04-24T15:32:55.597Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -308,6 +308,82 @@
     {
       "name": "Dr. Krankcase",
       "sha": "93f529262560511b89e70552c8bf9d417eb63333085ffb08d00b917a9fa7f43f"
+    },
+    {
+      "name": "Dr. Neo Cortex",
+      "sha": "08b3f3fa9364261115416d3fc244596b424bf4710ca94cc951c6ff6affe133bd"
+    },
+    {
+      "name": "Drill Sergeant",
+      "sha": "f66f48390f4999a8da8c142038d8619ed258db3fbef1043df01e2f792bfc0403"
+    },
+    {
+      "name": "Drobit",
+      "sha": "983c3317cfe63c914a1273299b5942920107d6e05cc033f875847910af6e0c60"
+    },
+    {
+      "name": "Drobot",
+      "sha": "1ab312cd0992d1aecd9dda6d6767109ee973cd56504397d9b06ad74d1212c0d4"
+    },
+    {
+      "name": "Dune Bug",
+      "sha": "30c5e0955af09705579fb6c1155226fbab12b313c24e5ae2ae22e4e936b6a6b9"
+    },
+    {
+      "name": "Echo",
+      "sha": "1aa3601785f12a59f08c291b09fe61549ab783a7457cd1c9df31ca8c69d1f6b8"
+    },
+    {
+      "name": "Egg Bomber Air Strike",
+      "sha": "e02f51b675d3c03bc68b0fadd85a7dc1f5e8d94cac9ae4ae653e04eafd381c2d"
+    },
+    {
+      "name": "Eggcited Thrillipede",
+      "sha": "b890f0b42cbb54bb0c1af133c561e5114ab579e0d9a87fa93c4086e71509ae4a"
+    },
+    {
+      "name": "Eggsellent Weeruptor",
+      "sha": "306672704bceeb0199027ed3bd25460c29edebc6f077baa03c3f5200a3e3d229"
+    },
+    {
+      "name": "Elite Boomer",
+      "sha": "4212fe133988d14f7b2de8fbe1dcbc1ef6a7404faa1b2786d80c5015e0d94e30"
+    },
+    {
+      "name": "Elite Chop Chop",
+      "sha": "8ff2f2349a4edb17aa135b358ecf52467892d04817bdcfa6fa10bf75d579742c"
+    },
+    {
+      "name": "Elite Dino-Rang",
+      "sha": "88022f09a8cba52dffe973cb027a978432f91a86f656b92303b0147086ad4493"
+    },
+    {
+      "name": "Elite Eruptor",
+      "sha": "5576252da9afe2e75626d23d7aedde94df47eed32e7fc11d4903997f64db9ee0"
+    },
+    {
+      "name": "Elite Ghost Roaster",
+      "sha": "56181fad64bf5d32c40b13e306bee733f1315363fea3087a7b2c113d99a0fdf4"
+    },
+    {
+      "name": "Elite Gill Grunt",
+      "sha": "546a02ba7bb28370341c30bd5348cf6b818c83d88daad5c2b15e1062eaf379dc"
+    },
+    {
+      "name": "Elite Slam Bam",
+      "sha": "c867270f0f1f8fa094d2e36f66a536ea751d6656cbae46f9b878c3efa5378202"
+    },
+    {
+      "name": "Elite Spyro",
+      "sha": "0a936b9ee1d6510dfb2011045a5af699d4c20deae81efb7ec8842063829c080b"
+    },
+    {
+      "name": "Elite Stealth Elf",
+      "sha": "cad864711dd751cd950faaad0bad7c9037e563e6b066fa8f4af46088ab0726df"
+    },
+    {
+      "name": "Elite Terrafin",
+      "sha": "d400b3ad2e5334e93b41a1b1cf2800189df737d367399b70aab4f44ce31a6f12"
     }
   ]
 }
