@@ -37,7 +37,7 @@
       "story_name": "Spyro versus The Mega Monsters",
       "content": "Drill Sergeant was one of the Skylanders who was in a training session with Spyro, Trigger Happy, and Jet-Vac within Eon's Citadel, but the training ended with Drill Sergeant and Trigger Happy being singed by Spyro's flames. The Arkeyan bulldozer was later sent to the Giggling Forest to deal with two, mega-sized Sheep that was eating up the leaves of the trees. Before he could land a hit on the sheep, Kaos arrived after claiming he was renouncing his evil ways to battle evildoers, and used his magic staff to banish the sheep. The Arkeyan bulldozer soon went with Spyro and Jet-Vac to the Desert of Columns to save Diggs from a mega-sized, yet familiar troll, only for Kaos to save the day again. Drill Sergeant later accompanied the other Skylanders with the Warrior Librarians of the Eternal Archives to stop Kaos from reaching the archive that contains a dangerous book.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/Oops.jpg/revision/latest/scale-to-width-down/294?cb=20130216085154"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/Oops.jpg/revision/latest?cb=20130216085154"
     },
     {
       "story_name": "Skylanders: Spyro's Adventure",
@@ -72,10 +72,13 @@
     }
   ],
   "trivia": [
-    "Even though the Arkeyans were the first to discover the Tech Element, Drill Sergeant is the only Arkeyan in the series to actually be of the Tech Element.",
-    "In Spyro's Adventure and Giants, Drill Sergeant can destroy rock formations with his Drill Rocket attack. This makes him the only Skylander who can destroy rocks that isn't of the Earth element.",
+    "Even though the Arkeyans were the first to discover the Tech Element, Drill Sergeant is the only Arkeyan in the series to actually be of the Tech Element (Chop Chop and Krypt King are Undead, and most other Arkeyans do not have known Elements).",
+    "In Spyro's Adventure and Giants, Drill Sergeant can destroy rock formations with his Drill Rocket attack.",
+    "This makes him the only Skylander who can destroy rocks that isn't of the Earth element.",
+    "This ability was excluded in Imaginators. And because of that, there is a glitch. When Drill Sergeant fires the rocket at the rocks, the rocket disappears and Drill Sergeant cannot respawn another.",
     "His catchphrase is a pun on the phrase 'licensed to kill,' often utilized by policemen.",
-    "His Auto-Blaster upgrade (when not upgraded) is the least damaging move out of any character's powers, outside of Mining Picks. It is also the only non-flying upgrade that can be used simultaneously with other powers.",
+    "His Auto-Blaster upgrade (when not upgraded) is the least damaging move out of any character's powers, outside of Mining Picks.",
+    "It is also the only non-flying upgrade that can be used simultaneously with other powers.",
     "Drill Sergeant, Stump Smash, Prism Break, Eruptor and Countdown are the only five bipedal Skylanders with no hands.",
     "Series 2 Drill Sergeant has the A View To Drill upgrade, giving him spiked drills.",
     "He, Drobot, Bouncer, Drobit, Magna Charge and Ro-Bow are the only six Skylanders who have robotic voices.",
@@ -90,17 +93,17 @@
     {
       "name": "Skylanders Spyro's Adventure - Drill Sergeant Preview Trailer",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Spyro%27s_Adventure_-_Drill_Sergeant_Preview_Trailer"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Drill_Sergeant_Preview_Trailer"
     },
     {
       "name": "Skylanders Spyro's Adventure - Drill Sergeant Trailer (Licensed to Drill)",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Spyro%27s_Adventure_-_Drill_Sergeant_Trailer_(Licensed_to_Drill)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Drill_Sergeant_Trailer_(Licensed_to_Drill)"
     },
     {
-      "name": "Meet The Skylanders - Series 2 Drill Sergeant 'Licenced To Drill!' Official Trailer",
+      "name": "Meet The Skylanders - Series 2 Drill Sergeant \"Licenced To Drill!\" Official Trailer",
       "isValid": true,
-      "url": "/wiki/File:Meet_The_Skylanders_-_Series_2_Drill_Sergeant_%22Licenced_To_Drill!%22_Official_Trailer"
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_The_Skylanders_-_Series_2_Drill_Sergeant_%22Licenced_To_Drill!%22_Official_Trailer"
     }
   ],
   "gameplay": "Drill Sergeant can destroy rock formations with his drill rocket and bulldoze charge attacks. He is a Tech element Skylander who specializes in long-range Drill Rockets and a dash move. His Auto-Blaster upgrade fires at nearby enemies automatically and is unique for being usable simultaneously with other powers. In older games, he is uniquely capable of destroying rock formations despite not being an Earth element Skylander.",
@@ -303,7 +306,7 @@
       "edition": "Series 1",
       "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f9/290px-Drill-Sergeant_03.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f9/290px-Drill-Sergeant_03.jpg/revision/latest?cb=20170326183948",
       "attacks": [
         "Drill Rocket",
         "Bulldoze Charge",
@@ -341,7 +344,7 @@
       "edition": "Series 2",
       "type": "Core",
       "game": "Skylanders: Giants",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/0/09/Drill_Sergeant_Series_2.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/09/Drill_Sergeant_Series_2.jpg/revision/latest?cb=20130109022617",
       "attacks": [
         "Drill Rocket",
         "Bulldoze Charge",
