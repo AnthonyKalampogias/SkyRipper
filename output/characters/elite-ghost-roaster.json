@@ -12,7 +12,7 @@
   ],
   "cameos": [],
   "world": [],
-  "description": "Elite Ghost Roaster is the Eon's Elite counterpart of Ghost Roaster in Skylanders: SuperChargers. He features a special metallic finish on his figure and is part of a premium line of Skylanders with increased stats in-game.",
+  "description": "Elite Ghost Roaster is the Eon's Elite counterpart of Ghost Roaster in Skylanders: SuperChargers.",
   "biography": "Elite Ghost Roaster is the Eon's Elite counterpart of Ghost Roaster in Skylanders: SuperChargers. As an Eon's Elite, he has been granted significantly increased power to defend Skylands against its greatest threats.",
   "quote": "No Chain, No Gain! Ahahahahahaaa!",
   "personality": "Elite Ghost Roaster maintains a manic and energetic personality, emphasized by his signature cackling and his catchphrase 'No Chain, No Gain!'",
@@ -21,7 +21,7 @@
       "story_name": "Biography",
       "content": "Elite Ghost Roaster is the Eon's Elite counterpart of Ghost Roaster in Skylanders: SuperChargers. He was selected by Master Eon to join the ranks of the Elite, a group of heroes whose feats of bravery earned them a place in a special gallery within the Academy.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Eon%27s_Elite_Ghost_Roaster.jpg"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Eon's_Elite_Ghost_Roaster.jpg"
     }
   ],
   "quotes": [
@@ -43,7 +43,7 @@
     "basic": [
       {
         "name": "Chain Whip",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Eon%27s_Elite_Ghost_Roaster.jpg",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Eon's_Elite_Ghost_Roaster.jpg",
         "content": "A powerful whip attack using Ghost Roaster's chain to strike enemies from a distance.",
         "is_primary": true,
         "is_secondary": false,
@@ -55,7 +55,7 @@
       },
       {
         "name": "Skull Charge",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Eon%27s_Elite_Ghost_Roaster.jpg",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Eon's_Elite_Ghost_Roaster.jpg",
         "content": "A charging attack where Ghost Roaster rams into enemies with his skull head.",
         "is_primary": false,
         "is_secondary": true,
@@ -69,7 +69,7 @@
     "basic_upgrades": [
       {
         "name": "Ectoplasm Mode",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Eon%27s_Elite_Ghost_Roaster.jpg",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Eon's_Elite_Ghost_Roaster.jpg",
         "content": "Ghost Roaster enters a spectral state, allowing him to pass through enemies and hazards while dealing damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -81,7 +81,7 @@
       },
       {
         "name": "Haunt",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Eon%27s_Elite_Ghost_Roaster.jpg",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Eon's_Elite_Ghost_Roaster.jpg",
         "content": "Infect enemies with spectral energy that damages them over time.",
         "is_primary": false,
         "is_secondary": false,
@@ -95,7 +95,7 @@
     "soulgems": [
       {
         "name": "Nightmare Touch",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Eon%27s_Elite_Ghost_Roaster.jpg",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Eon's_Elite_Ghost_Roaster.jpg",
         "content": "A devastating touch attack that releases immense undead energy upon contact with enemies.",
         "is_primary": false,
         "is_secondary": false,
