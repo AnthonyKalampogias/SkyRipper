@@ -17,15 +17,15 @@
     "Skylands"
   ],
   "description": "Echo holds the ability to release powerful sound waves by screaming, and breathe explosive bubbles that pump with the musical beat. She can also create a sonic slam to knock away her enemies.",
-  "biography": "Echo lived in an undersea kingdom that was built around an enormous oyster shell, and at its center was the Pearl of Wisdom. Every day water dragons from all around the kingdom would come to ask questions of the Pearl. Because this was a sacred ritual, anyone living near the Pearl were required to speak only in whispers. This was challenging for Echo, who lived directly next to it. She had a gift - and it was loud - and often got her in trouble. One day, a gang of sea horses known as the Aqua Jocks rode into town and claimed the Pearl for themselves. They cast an unbreakable bubble around it and began dragging it away with enormous chains. The nearby water dragons, who had been quiet for so long, were unable to even call for help. Then Echo appeared - and with her loudest sonar blast, she shattered the bubble and blew the sea horses out of the kingdom! Her heroic actions caught the attention of Gill Grunt, who recruited her as a Skylander. Now Echo sounds off against evil all throughout Skylands!",
+  "biography": "Echo lived in an undersea kingdom that was built around an enormous oyster shell, and at its center was the Pearl of Wisdom. Every day water dragons from all around the kingdom would come to ask questions of the Pearl. Because this was a sacred ritual, anyone living near the Pearl were required to speak only in whispers. This was challenging for Echo, who lived directly next to it. She had a gift – and it was loud – and often got her in trouble. One day, a gang of sea horses known as the Aqua Jocks rode into town and claimed the Pearl for themselves. They cast an unbreakable bubble around it and began dragging it away with enormous chains. The nearby water dragons, who had been quiet for so long, were unable to even call for help. Then Echo appeared – and with her loudest sonar blast, she shattered the bubble and blew the sea horses out of the kingdom! Her heroic actions caught the attention of Gill Grunt, who recruited her as a Skylander. Now Echo sounds off against evil all throughout Skylands!",
   "quote": "Let's Make Some Noise!",
   "personality": "Echo may seem reserved, but she can be feisty when the time comes for battle. She can be rather noisy, not liking to do things quietly as she is a music lover.",
   "story": [
     {
       "story_name": "Background",
-      "content": "Echo lived in an undersea kingdom that was built around an enormous oyster shell, and at its center was the Pearl of Wisdom. Every day water dragons from all around the kingdom would come to ask questions of the Pearl. Because this was a sacred ritual, anyone living near the Pearl were required to speak only in whispers. This was challenging for Echo, who lived directly next to it. She had a gift - and it was loud - and often got her in trouble. One day, a gang of sea horses known as the Aqua Jocks rode into town and claimed the Pearl for themselves. They cast an unbreakable bubble around it and began dragging it away with enormous chains. The nearby water dragons, who had been quiet for so long, were unable to even call for help. Then Echo appeared - and with her loudest sonar blast, she shattered the bubble and blew the sea horses out of the kingdom! Her heroic actions caught the attention of Gill Grunt, who recruited her as a Skylander. Now Echo sounds off against evil all throughout Skylands!",
+      "content": "Echo lived in an undersea kingdom that was built around an enormous oyster shell, and at its center was the Pearl of Wisdom. Every day water dragons from all around the kingdom would come to ask questions of the Pearl. Because this was a sacred ritual, anyone living near the Pearl were required to speak only in whispers. This was challenging for Echo, who lived directly next to it. She had a gift – and it was loud – and often got her in trouble. One day, a gang of sea horses known as the Aqua Jocks rode into town and claimed the Pearl for themselves. They cast an unbreakable bubble around it and began dragging it away with enormous chains. The nearby water dragons, who had been quiet for so long, were unable to even call for help. Then Echo appeared – and with her loudest sonar blast, she shattered the bubble and blew the sea horses out of the kingdom! Her heroic actions caught the attention of Gill Grunt, who recruited her as a Skylander. Now Echo sounds off against evil all throughout Skylands!",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Echo.jpg/revision/latest/scale-to-width-down/268?cb=20221225035655"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Echo.jpg/revision/latest?cb=20221225035655"
     }
   ],
   "quotes": [
@@ -55,6 +55,7 @@
         "'Serve it up!'",
         "'Oooh, gifts of the sea!' - when opening a treasure chest",
         "'An overflow of riches!'",
+        "'Coming through loud and clear!'",
         "'Reaching a high watermark!' - when viewing stats",
         "'Some noteworthy numbers!'",
         "'Looking in tune with the times!' - when selecting a hat",
@@ -75,8 +76,8 @@
     "Her mouth is tiny, and she doesn't have any teeth. Much like all the other known female dragons, such as Cynder, Flashwing, Spotlight and Whirlwind.",
     "In her Sing along path in Trap Team, the Ultrasound upgrade when fully charged is one of the strongest attacks that a Skylander could do.",
     "While charging up the Ultrasound attack, it disrupts the theme music of any level or villain battles momentarily replacing it with dance music as Echo dances.",
-    "Echo has a great resemblance to the Dazzlings such as Sonata Dusk from the animated superhero/musical film, My Little Pony Equestria Girls 2: Rainbow Rocks, namely the fact Sonata Dusk and Echo share the same color scheme of light/dark blue and are mainly underwater adapted quadrupeds with powerful song abilities.",
-    "Her siren scream ability is similar to 'Echo Echo' from Ben 10 : Alien Force / Ben 10 : Ultimate Alien.",
+    "Echo has a great resemblance to the Dazzlings such as Sonata Dusk from the animated superhero/musical film, My Little Pony: Equestria Girls 2: Rainbow Rocks, namely the fact Sonata Dusk and Echo share the same color scheme of light/dark blue and are mainly underwater adapted quadrupeds with powerful song abilities.",
+    "Her siren scream ability is similar to 'Echo Echo' from Ben 10 : Alien Force/Ben 10 : Ultimate Alien.",
     "Coincidentally, her voice actor Kimberly Brooks would later voice a character also named Echo from a completely different series, Oddballs.",
     "Both Echo and Cynder wear punk-styled jewelry on their neck and front legs."
   ],
@@ -222,7 +223,7 @@
           {
             "name": "Burst My Bubble",
             "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Echopath1upgrade3.png/revision/latest?cb=20150315072929",
-            "content": "While in a Bubble Shield, press Attack 3 to make it explode and damage nearby enemies.",
+            "content": "While in a Bubble Shield, press Attack 3 to make it explode and damage nearby enemies..",
             "is_primary": false,
             "is_secondary": false,
             "price": 3000,
