@@ -28,6 +28,12 @@
       "content": "Drobit is the Mini counterpart of the Tech Skylander, Drobot in Skylanders: Trap Team.",
       "hasImage": false,
       "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "The Skylander Minis started off as regular 'Sidekicks,' assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e3/Drobit_Promo.jpg"
     }
   ],
   "quotes": [
@@ -51,7 +57,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_DroBit"
     }
   ],
-  "gameplay": "Drobit's attacks include Mega Blasters, Tactical Bladegears, Thruster Flight, Hover Mode, and Quadratic Blasters. His starting statistics in the console version are 280 Health, 60 Speed, and 24 Armor.",
+  "gameplay": "Drobit's attacks include Mega Blasters, Tactical Bladegears, Thruster Flight, Hover Mode, and Quadratic Blasters. These are the starting and maximum Statistics for this Skylander in the Skylanders games: Health: 280 (max. 560), Speed: 60 (max. 108), Armor: 24 (max. 54), Critical Hit: 20 (max. 70), and Elemental Power: 25 (max. 75).",
   "wiki_url": "https://skylanders.fandom.com/wiki/Drobit",
   "abilities": {
     "basic": [
@@ -113,7 +119,7 @@
         "content": "An advanced upgrade for Drobit's blasters.",
         "is_primary": false,
         "is_secondary": false,
-        "price": 0,
+        "price": 4000,
         "colors": {
           "header": "#FB5",
           "bg_content": "#FEB"
