@@ -21,7 +21,7 @@
   "story": [
     {
       "story_name": "Biography",
-      "content": "Elite Boomer is the Eon's Elite counterpart of Boomer in Skylanders: SuperChargers. As a member of Eon's Elite, he has been granted power beyond his normal capabilities to help defend Skylands and has access to incredible race stats when used with Skylanders: SuperChargers Racing.",
+      "content": "Elite Boomer is the Eon's Elite counterpart of Boomer in Skylanders: SuperChargers. As a member of Eon's Elite, Elite Boomer has access to incredible race stats when used with Skylanders: SuperChargers Racing.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a9/Eon%27s_Elite_Boomer.jpg/revision/latest?cb=20170729040953"
     }
@@ -94,10 +94,8 @@
         }
       }
     ],
-    "soulgems": [],
-    "wow_pows": [
+    "soulgems": [
       {
-        "season": 1,
         "name": "Triple Bundle Dynamite",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d7/TechSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223504",
         "content": "Throws a massive bundle of dynamite for maximum damage.",
@@ -110,6 +108,7 @@
         }
       }
     ],
+    "wow_pows": [],
     "upgrade_paths": []
   },
   "variants": [
