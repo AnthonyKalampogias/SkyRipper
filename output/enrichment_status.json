@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-25T03:07:39.529Z",
+  "last_run": "2026-04-25T09:35:27.312Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -404,6 +404,82 @@
     {
       "name": "Ember",
       "sha": "ca18e045e8d32f9e466053823a41685412138bb078ddce7c126673d7219caec5"
+    },
+    {
+      "name": "Enchanted Hoot Loop",
+      "sha": "93fac37e1e0e3b904a4d207b3fe25c5c61832fb1a31b129ae1e4e7dca78081a3"
+    },
+    {
+      "name": "Enchanted Star Strike",
+      "sha": "031601e95946bf0ad1a5e61a08a90ca55adde01247e2c4adc9d2a8de41420573"
+    },
+    {
+      "name": "Enigma",
+      "sha": "f367c1b8d618077f43c47f4144d8cc8ffe4652c323e50657f8c4bb9c467d43c6"
+    },
+    {
+      "name": "Eon's Elite",
+      "sha": "b83b5e9b6718568515c3f88e0ca580e74ad4b4de3a6ae78651c227ff3c8b28a7"
+    },
+    {
+      "name": "Eruptor",
+      "sha": "59cf19e11bd028802180d596580ff1a0efbdb9d4b57d2d2479ff82c0caaf9e99"
+    },
+    {
+      "name": "Eye-Brawl",
+      "sha": "03818126daa2e55fb533d0e58c3e1fb55df8ade07a5ff05bc433bc8d40f82b6c"
+    },
+    {
+      "name": "Eye-Small",
+      "sha": "21ce089751bac968fa5cfa3d294f5c0df4d5239b8e4cd4f36fa4277cc86fd2a1"
+    },
+    {
+      "name": "Festive Edition Skylanders",
+      "sha": "f1ec9300242b01e0ea73c67a82461e82a4c2734a140a0bcd34eec516691aaa09"
+    },
+    {
+      "name": "Fiesta",
+      "sha": "12b9f54e70502974583eb0c692b90a7b8f8b640abccadb96eb103fe71c02e3a5"
+    },
+    {
+      "name": "Figures",
+      "sha": "3ccf328eb3dba6efdc81eddcc299542e4c92724247b37ca28910ad24cbf0b308"
+    },
+    {
+      "name": "Fire Dragon",
+      "sha": "bdc18085b5a743ab0fd67f85361f1e1dd84bf0f186c00e91072b05ade718b27f"
+    },
+    {
+      "name": "Fire Kraken",
+      "sha": "b874abc7334b0a1b9464ffa373df4c7272543b2f56f780ac12215b92d5f5b310"
+    },
+    {
+      "name": "Fireworks Zook",
+      "sha": "1eae01dd55e89bb271e5fe695a4cb1c658ab5ebecce9d6933e18080fd832db87"
+    },
+    {
+      "name": "Fist Bump",
+      "sha": "ce823801da5821324769842b2dbfa88099da497ef9b184888bb8b611224d9ed5"
+    },
+    {
+      "name": "Flameslinger",
+      "sha": "ea1082d6cd37c4cab50031961a1182fb2a5be16d790b8f4d808599258f2425c0"
+    },
+    {
+      "name": "Flare Wolf",
+      "sha": "2caa70675b425525192d1ab564960ab35a9ad48e06df8859412fb97d2bcfbfc0"
+    },
+    {
+      "name": "Flashwing",
+      "sha": "9ae03639b84606bb12b91c25cc1164bead925f07dfec673e7176b71021cdebaa"
+    },
+    {
+      "name": "Fling Kong",
+      "sha": "f46ebfb3c4b1e4ceaada36d8d12b6a6cbe41bbef08baa9db2423ddc769c8b8b3"
+    },
+    {
+      "name": "Flip Flop Fryno",
+      "sha": "229493dc24c914ae40ba674c783babb819296b3fb38a1f3d6e1920252cb47f71"
     }
   ]
 }
