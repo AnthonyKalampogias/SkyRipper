@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-24T21:03:00.938Z",
+  "last_run": "2026-04-25T03:07:39.529Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -388,6 +388,22 @@
     {
       "name": "Elite Trigger Happy",
       "sha": "3d1ec2d32f64d3589bb9323a4ef487d0dba5ab52aed6d98792a545928bb2df5d"
+    },
+    {
+      "name": "Elite Voodood",
+      "sha": "250e9937be829111d1ad382a2800e680ce80d639ed778ff0fca5db51a8f78e37"
+    },
+    {
+      "name": "Elite Whirlwind",
+      "sha": "4d44901b4c654bb7c0cbab627afaad87d549ca3527e7a4c677b787600c6b3310"
+    },
+    {
+      "name": "Elite Zook",
+      "sha": "18b3896dc903bac0d0cc06950386ef2e0c710505017d98a531053b53b418c70c"
+    },
+    {
+      "name": "Ember",
+      "sha": "ca18e045e8d32f9e466053823a41685412138bb078ddce7c126673d7219caec5"
     }
   ]
 }
