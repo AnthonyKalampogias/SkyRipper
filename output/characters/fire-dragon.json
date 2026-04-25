@@ -14,16 +14,16 @@
   "world": [
     "Skylands"
   ],
-  "description": "Fire Dragon was a prototype character created for the unreleased project Spyro's Kingdom.",
-  "biography": "Fire Dragon was one of the early prototype characters planned for the game that eventually became Skylanders: Spyro's Adventure. During the development of Spyro's Kingdom, his role as a playable character was superseded by Spyro himself, as the developers felt the game required the iconic purple dragon to be playable. A fully textured model of Fire Dragon, internally named 'Red Spyro', remains in the game files of Skylanders: Giants.",
+  "description": "Fire Dragon was a character for the unreleased Spyro's Kingdom.",
+  "biography": "Fire Dragon was one of the prototype characters planned for Spyro's Kingdom. During development, his spot as playable character was given to Spyro due to the decision that it wouldn't be Spyro's Kingdom 'without Spyro as a playable character.' Fire Dragon's model can still be found in the game files of Skylanders: Giants under the name 'Red Spyro'.",
   "quote": "Unknown",
   "personality": "As a scrapped prototype character, Fire Dragon does not have a defined personality in the Skylanders lore.",
   "story": [
     {
       "story_name": "Character Development",
       "content": "Fire Dragon was one of the prototype characters planned for Spyro's Kingdom. During development, his spot as a playable character was given to Spyro due to the decision that it wouldn't be Spyro's Kingdom 'without Spyro as a playable character.' Fire Dragon's model can still be found in the game files of Skylanders: Giants under the name 'Red Spyro'.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a8/Spyro%27sKingdom_FireDragon_Selection.jpg/revision/latest/scale-to-width-down/185?cb=20211013035523"
     }
   ],
   "quotes": [],
@@ -33,7 +33,13 @@
     "In Spyro's Kingdom, his artwork is the same as Spyro's, just differently colored.",
     "While loading in the other scrapped Skylander, Sniper, Fire Dragon shows up as the troll's Magic Moment placeholder character."
   ],
-  "trailers": [],
+  "trailers": [
+    {
+      "name": "Skylanders 10th Anniversary Livestream",
+      "isValid": true,
+      "url": "https://youtu.be/ls5m7S3rRnk?t=2617"
+    }
+  ],
   "gameplay": "Fire Dragon was intended to be a playable character in the prototype stage of Skylanders. No official move set was finalized, but he likely would have utilized fire-based attacks similar to other Fire element dragons.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Fire_Dragon",
   "abilities": {
@@ -50,7 +56,7 @@
       "edition": "Prototype",
       "type": "Scrapped",
       "game": "Spyro's Kingdom (scrapped)",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/9/94/Red_Spyro.png",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/94/Red_Spyro.png/revision/latest?cb=20200805210818",
       "attacks": [],
       "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Fire_Dragon"
