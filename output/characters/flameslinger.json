@@ -122,7 +122,7 @@
     {
       "name": "Skylanders Spyro's Adventure - Flameslinger Trailer (Let the Flames Begin)",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Spyro%27s_Adventure_-_Flameslinger_Trailer_(Let_the_Flames_Begin)"
+      "url": "/wiki/File:Skylanders_Spyro's_Adventure_-_Flameslinger_Trailer_(Let_the_Flames_Begin)"
     },
     {
       "name": "Meet the Skylanders Series 2 Flameslinger",
@@ -341,23 +341,23 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "250/500"
+          "stat_value": "250 (max. 500)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "50/98"
+          "stat_value": "50 (max. 98)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "24/54"
+          "stat_value": "24 (max. 54)"
         },
         {
           "stat_name": "Critical Hit",
-          "stat_value": "40/90"
+          "stat_value": "40 (max. 90)"
         },
         {
           "stat_name": "Elemental Power",
-          "stat_value": "39/89"
+          "stat_value": "39 (max. 89)"
         },
         {
           "stat_name": "Strength",
@@ -395,23 +395,23 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "00/0"
+          "stat_value": "00 (max. 0)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "00/48"
+          "stat_value": "00 (max. 48)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "00/30"
+          "stat_value": "00 (max. 30)"
         },
         {
           "stat_name": "Critical Hit",
-          "stat_value": "00/50"
+          "stat_value": "00 (max. 50)"
         },
         {
           "stat_name": "Elemental Power",
-          "stat_value": "00/50"
+          "stat_value": "00 (max. 50)"
         },
         {
           "stat_name": "Strength",
