@@ -20,7 +20,7 @@
   "description": "Enchanted Star Strike is the alter ego of LightCore Star Strike in Skylanders: Swap Force.",
   "biography": "Enchanted Star Strike is the alter ego of LightCore Star Strike in Skylanders: Swap Force.",
   "quote": "Shoot For the Stars!",
-  "personality": "Mysterious and cosmic, she shares the traits of her original form, Star Strike, while appearing in her specialized Enchanted state.",
+  "personality": "Mysterious and cosmic, Enchanted Star Strike shares the enigmatic traits of her original form, Star Strike, enhanced by her specialized Enchanted state.",
   "story": [
     {
       "story_name": "In-Game Appearance",
@@ -39,6 +39,18 @@
       "content": "Enchanted Star Strike has a unique toy form as part of the Swap Force LightCore collection.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/70/EnchantedStarStrike1.png/revision/latest/scale-to-width-down/185?cb=20140521163546"
+    },
+    {
+      "story_name": "Enchanted Star Strike in her box",
+      "content": "Enchanted Star Strike in her box.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/65/Enchantedstarbox.jpg/revision/latest/scale-to-width-down/85?cb=20131019011709"
+    },
+    {
+      "story_name": "Enchanted Star Strike's magical moment",
+      "content": "Enchanted Star Strike's magical moment.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3f/EchantedStarStrike-1024x576.jpg/revision/latest/scale-to-width-down/185?cb=20230605024545"
     }
   ],
   "quotes": [
@@ -62,7 +74,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_LightCore_Enchanted_Star_Strike"
     }
   ],
-  "gameplay": "In the game, her hooded cape changes from white to turquoise. If her Soul Gem ability, 'Shooting Stars,' is purchased, the rest of her outfit also changes colors. The pose in her official artwork is similar to Star Strike's non-LightCore art, except with glowing eyes.",
+  "gameplay": "In Skylanders: Swap Force, Enchanted Star Strike features a hooded cape that changes from white to turquoise. If her Soul Gem ability, 'Shooting Stars,' is purchased, the rest of her outfit also changes colors. In Skylanders: Imaginators, she has a Health stat of 260 (scaling to 780), Attack of 9 (59), and Armor of 4 (29).",
   "wiki_url": "https://skylanders.fandom.com/wiki/Enchanted_Star_Strike",
   "abilities": {
     "basic": [
@@ -163,6 +175,26 @@
       ],
       "stats": [
         {
+          "stat_name": "Health",
+          "stat_value": "260 (780)"
+        },
+        {
+          "stat_name": "Attack",
+          "stat_value": "9 (59)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "4 (29)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "8 (38)"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "8 (28)"
+        },
+        {
           "stat_name": "Strength",
           "stat_value": "90"
         },
@@ -172,10 +204,6 @@
         },
         {
           "stat_name": "Agility",
-          "stat_value": "80"
-        },
-        {
-          "stat_name": "Luck",
           "stat_value": "80"
         }
       ],
