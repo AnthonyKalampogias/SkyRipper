@@ -312,6 +312,45 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Flare_Wolf"
+    },
+    {
+      "id": "hard-boiled-flare-wolf",
+      "variant_name": "Hard-Boiled Flare Wolf",
+      "edition": "Special Edition",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Flare_Wolf_Promo.jpg/revision/latest?cb=20161112054950",
+      "attacks": [
+        "Rockets Away",
+        "Ride the Rocket",
+        "Loop De Loop",
+        "Roman Candle",
+        "Pyrotechnist",
+        "Secret Weapon"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "180"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "140"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "350"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "230"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Hard-Boiled_Flare_Wolf"
     }
   ]
 }
