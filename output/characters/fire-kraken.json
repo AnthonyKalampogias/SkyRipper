@@ -22,8 +22,15 @@
   "description": "Fire Kraken is a Chinese Fire dragon warrior who is one of the SWAP Force Skylanders in Skylanders: Swap Force. His SWAP Force Ability is Bounce.",
   "biography": "Raised on a small island surrounded by a vast ocean of fire, Fire Kraken was the swiftest, most agile warrior his tribe had ever seen. And when a fleet of Fire Troll ships arrived to steal the legendary Burning Heart, a huge elemental crystal that fueled the fiery seas, Fire Kraken leapt into action. Using a magical staff to control his natural ability to wield fire, he set the mighty ships ablaze, forcing the trolls into a hasty retreat. Having saved the Burning Heart as well as his homeland, Fire Kraken soon joined the Skylanders, where he knew his skills would help those in need.",
   "quote": "Burn to be Wild!",
-  "personality": "A desire to help others burns in the heart of this young, hot-footed warrior. He likes playing with fire, and is less likely to burn out. [1]",
-  "story": [],
+  "personality": "A desire to help others burns in the heart of this young, hot-footed warrior. He likes playing with fire, and is less likely to burn out.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Raised on a small island surrounded by a vast ocean of fire, Fire Kraken was the swiftest, most agile warrior his tribe had ever seen. And when a fleet of Fire Troll ships arrived to steal the legendary Burning Heart, a huge elemental crystal that fueled the fiery seas, Fire Kraken leapt into action. Using a magical staff to control his natural ability to wield fire, he set the mighty ships ablaze, forcing the trolls into a hasty retreat. Having saved the Burning Heart as well as his homeland, Fire Kraken soon joined the Skylanders, where he knew his skills would help those in need.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Firekrakenartwork.jpg"
+    }
+  ],
   "quotes": [
     {
       "quote_type": "Battle Cries",
@@ -65,7 +72,7 @@
     "His name has also included the name of his element.",
     "He is the first Skylander to have the name of his element in his name (the second is Wildfire and the third is Spitfire).",
     "His name is also a reference to the Kraken, a legendary sea monster.",
-    "In concept art, Fire Kraken had a pair of long dark whiskers. [2]",
+    "In concept art, Fire Kraken had a pair of long dark whiskers.",
     "Despite showing his tail coiled up as seen in his artwork, he doesn't bounce with his tail like Rattle Shake could. Instead, he bounces with his feet and legs.",
     "Fire Kraken's tuft of hair at the end of his tail is yellow in toy form, but in-game it is blue like the hair on his head. In his official cover art, his tail tuft is red.",
     "Fire Kraken's nose used to be red in early screenshots. Although it was changed to yellow in the final game and in his toy form, it still appears red in his preview video.",
@@ -344,12 +351,88 @@
   },
   "variants": [
     {
-      "id": "fire-kraken",
+      "id": "fire-kraken-s1",
       "variant_name": "Fire Kraken",
       "edition": "Series 1",
       "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/17/Firekrakenartwork.jpg",
+      "attacks": [
+        "Sparkling Strikes",
+        "Dragon Parade",
+        "Glow Stick",
+        "Rising Charge",
+        "Year of the Dragon"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260 (max. 520)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Fire_Kraken"
+    },
+    {
+      "id": "jade-fire-kraken",
+      "variant_name": "Jade Fire Kraken",
+      "edition": "Special Edition",
+      "type": "SWAP Force",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/17/Firekrakenartwork.jpg",
+      "attacks": [
+        "Sparkling Strikes",
+        "Dragon Parade",
+        "Glow Stick",
+        "Rising Charge",
+        "Year of the Dragon"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260 (max. 520)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Jade_Fire_Kraken"
+    },
+    {
+      "id": "chrome-gold-fire-kraken",
+      "variant_name": "Chrome Gold Fire Kraken",
+      "edition": "Special Edition",
+      "type": "SWAP Force",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/29/Gold_fire_kraken.png",
       "attacks": [
         "Sparkling Strikes",
         "Dragon Parade",
