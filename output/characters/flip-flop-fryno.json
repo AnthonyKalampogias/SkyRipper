@@ -5,7 +5,7 @@
   "gender": "Male",
   "element": "Fire",
   "role": "Skylander",
-  "primary_game": "Skylanders: Lost Islands (August 2014)",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
@@ -13,23 +13,23 @@
   "world": [
     "Skylands"
   ],
-  "description": "'Get your sunblock out because Flip Flop Fryno is ready for the summer sun in Skylands!!'",
+  "description": "Get your sunblock out because Flip Flop Fryno is ready for the summer sun in Skylands!!",
   "biography": "Flip Flop Fryno is a summer variant of Fryno who appeared in Skylanders: Lost Islands in August 2014.",
-  "quote": "'Get your sunblock out because Flip Flop Fryno is ready for the summer sun in Skylands!!'",
+  "quote": "Get your sunblock out because Flip Flop Fryno is ready for the summer sun in Skylands!!",
   "personality": "Flip Flop Fryno is ready for the summer sun in Skylands!!",
   "story": [
     {
       "story_name": "Biography",
       "content": "Flip Flop Fryno is a summer variant of Fryno who appeared in Skylanders: Lost Islands in August 2014.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Flip_Flop_Fryno.jpg/revision/latest?cb=20140813024151"
     }
   ],
   "quotes": [
     {
       "quote_type": "Description",
       "content": [
-        "'Get your sunblock out because Flip Flop Fryno is ready for the summer sun in Skylands!!'"
+        "Get your sunblock out because Flip Flop Fryno is ready for the summer sun in Skylands!!"
       ]
     }
   ],
@@ -50,7 +50,7 @@
       "variant_name": "Flip Flop Fryno",
       "edition": "Alter Ego",
       "type": "Core",
-      "game": "Skylanders: Lost Islands (August 2014)",
+      "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Flip_Flop_Fryno.jpg/revision/latest?cb=20140813024151",
       "attacks": [],
       "stats": [],
