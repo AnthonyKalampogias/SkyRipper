@@ -33,7 +33,7 @@
       "imgPath": ""
     },
     {
-      "story_name": "Ring of Heroes",
+      "story_name": "Skylanders: Ring of Heroes",
       "content": "After the Earth Portal Master, Cali, Flynn, Hugo and the Skylanders reached the end of Rainbow Valley, Enigma approached the Portal Master, with intent to test their worth. For most of the Part 2 Quests, Enigma gives out advice and directions for them to take, interested in villain movements around the islands.",
       "hasImage": false,
       "imgPath": ""
@@ -96,12 +96,12 @@
     {
       "name": "Meet the Skylanders Enigma",
       "isValid": true,
-      "url": "/wiki/File:Meet_the_Skylanders_Enigma"
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Enigma"
     },
     {
-      "name": "Skylanders Trap Team - Enigma's Soul Gem Preview (Out of Sight)",
+      "name": "Skylanders Trap Team - Enigma's Soul_Gem_Preview_(Out_of_Sight)",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Trap_Team_-_Enigma%27s_Soul_Gem_Preview_(Out_of_Sight)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Enigma's_Soul_Gem_Preview_(Out_of_Sight)"
     }
   ],
   "gameplay": "Enigma is a Magic Trap Master who uses his Traptanium Sigil, a large U-shaped staff with a large eyeball. He excels in stealth, turning invisible to evade enemies and leave damaging magic mist behind. His staff attacks can be chained into powerful combos, and he can slam his staff for area damage or charge it to rain down magic eyeballs.",
@@ -110,7 +110,7 @@
     "basic": [
       {
         "name": "Mystic Staff",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Enigmaprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506020112",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Enigmaprimarypower.png/revision/latest?cb=20170506020112",
         "content": "Press Attack 1 to swing the Mystic Staff. Attack 1, Attack 1, HOLD Attack 1 for a combo.",
         "is_primary": true,
         "is_secondary": false,
@@ -122,7 +122,7 @@
       },
       {
         "name": "Invisibility Mode",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/df/Enigmasecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170506020117",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/df/Enigmasecondarypower.png/revision/latest?cb=20170506020117",
         "content": "Press Attack 2 to turn invisible and move around in total stealth",
         "is_primary": false,
         "is_secondary": true,
@@ -136,7 +136,7 @@
     "basic_upgrades": [
       {
         "name": "Paradox Pound",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Enigmabasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506020122",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Enigmabasicupgrade1.png/revision/latest?cb=20170506020122",
         "content": "Press Attack 3 to slam the staff into the ground and damage all nearby enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -148,7 +148,7 @@
       },
       {
         "name": "Magic Mist",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4c/Enigmabasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506020128",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4c/Enigmabasicupgrade2.png/revision/latest?cb=20170506020128",
         "content": "Magic Mist released in invisiblity Mode damages enemies over time.",
         "is_primary": false,
         "is_secondary": false,
@@ -160,7 +160,7 @@
       },
       {
         "name": "Cloak and Dagger",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Enigmabasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506020136",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Enigmabasicupgrade3.png/revision/latest?cb=20170506020136",
         "content": "Invisibility Mode lasts longer and freezes enemies; cloak can do damage well.",
         "is_primary": false,
         "is_secondary": false,
@@ -172,7 +172,7 @@
       },
       {
         "name": "Paradox Power",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Enigmabasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506020142",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Enigmabasicupgrade4.png/revision/latest?cb=20170506020142",
         "content": "Paradox Pound does more damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -186,7 +186,7 @@
     "soulgems": [
       {
         "name": "An Eye For Several Eyes",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Enigmasoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506020147",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Enigmasoulgempower.png/revision/latest?cb=20170506020147",
         "content": "Hold Attack 3 and press Attack 1 to fire eye beam. Requires Soul Gem from: Operation: Troll Rocket Steal",
         "is_primary": false,
         "is_secondary": false,
@@ -204,7 +204,7 @@
         "abilities": [
           {
             "name": "Eye Slam Combo",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Enigmapath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506020910",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Enigmapath1upgrade1.png/revision/latest?cb=20170506020910",
             "content": "Press Attack 1, Attack 1, Attack 2 for a Eye Slam combo.",
             "is_primary": false,
             "is_secondary": false,
@@ -216,7 +216,7 @@
           },
           {
             "name": "Cloak Dash Combo",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Enigmapath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506020914",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Enigmapath1upgrade2.png/revision/latest?cb=20170506020914",
             "content": "Press Attack 1, Attack 1, Attack 3 for an Cloak Dash combo.",
             "is_primary": false,
             "is_secondary": false,
@@ -228,7 +228,7 @@
           },
           {
             "name": "It's Raining Eyes?",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Enigmapath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506020916",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Enigmapath1upgrade3.png/revision/latest?cb=20170506020916",
             "content": "Hold Attack 3 to charge up the Paradox Pound attack and rain down magic eyeballs.",
             "is_primary": false,
             "is_secondary": false,
@@ -245,7 +245,7 @@
         "abilities": [
           {
             "name": "Ninja Style",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Enigmapath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506020922",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Enigmapath2upgrade1.png/revision/latest?cb=20170506020922",
             "content": "Attacks coming out of Invisibility Mode do extra damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -257,7 +257,7 @@
           },
           {
             "name": "Mindboggling",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Enigmapath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506020926",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Enigmapath2upgrade2.png/revision/latest?cb=20170506020926",
             "content": "Paradox Pound does even MORE damage and blasts enemies back.",
             "is_primary": false,
             "is_secondary": false,
@@ -269,7 +269,7 @@
           },
           {
             "name": "Give Up The Ghost",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Enigmapath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506020937",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Enigmapath2upgrade3.png/revision/latest?cb=20170506020937",
             "content": "Ghost versions of yourself appear while in Invisibility Mode.",
             "is_primary": false,
             "is_secondary": false,
