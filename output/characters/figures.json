@@ -22,10 +22,7 @@
     "Skylanders: Battlecast",
     "Skylanders: Ring of Heroes"
   ],
-  "world": [
-    "Skylands",
-    "Earth"
-  ],
+  "world": [],
   "description": "Figures are the physical medium used to interact with the Skylanders games. From Spyro's Adventure to Trap Team, all Skylanders of a particular Element share bases with near-identical designs. Starting with SuperChargers, certain figure types have special bases that remain elementally themed but are vastly different from the original designs.",
   "biography": "The Skylanders Figures are the key focal point in the Skylanders franchise, as they not only allow access to the Skylanders but also are the means to carry that data around and be shared with others. They are what truly bridges the gap between the home consoles, handheld devices, and even PCs. As the series progressed, new kinds of figures were released with new abilities.",
   "quote": "They are what truly bridges the gap between the home consoles, handheld devices, and even PCs.",
@@ -33,21 +30,33 @@
   "story": [
     {
       "story_name": "The Core Evolution",
-      "content": "Core Skylanders are the original type of Skylander, released with every game up until Skylanders: SuperChargers. Series 1 figures are the original releases, while Series 2-4 depict the original Skylanders in different poses and accessories, allowing them to alter upgrade paths without resetting.",
+      "content": "Core Skylanders are the original type of Skylander, which were released with every game up until Skylanders: SuperChargers. Series 1 figures are the original releases, including Alt Decos. Series 2-4 figures depict the original Skylanders in different poses, often sporting new accessories. These figures have the ability to alter their upgrade path without having to reset and are given a special upgrade called 'Wow Pow'.",
       "hasImage": true,
       "imgPath": "/wiki/File:Cores_Group.png"
     },
     {
-      "story_name": "Gimmick Skylanders",
-      "content": "Giants were released for Skylanders: Giants, featuring much larger forms and unique abilities like lifting boulders. SWAP Force introduced detachable upper parts to allow mixing and matching powers. Trap Masters represent Traptanium, using crystalline weapons to defeat Villains and open Elemental gates.",
+      "story_name": "Giants and SWAP Force",
+      "content": "Giant figures were released for Skylanders: Giants. They are much larger than Core Skylanders and have unique abilities like Feats of Strength, breaking objects, and lifting boulders. SWAP Force figures have detachable upper parts to allow mixing and matching powers. Each half has its own upgrades and is reset separately, with the bottom half tied to a movement type for SWAP Force Zones.",
       "hasImage": true,
       "imgPath": "/wiki/File:Gimmick_Skylanders.png"
     },
     {
-      "story_name": "Special Items and Crystals",
-      "content": "Special non-Skylander figures include Traps for capturing Villains, Vehicles for Land, Sea, and Sky racing, and Creation Crystals for creating custom Imaginators tied to a Battle Class.",
+      "story_name": "Trap Team and Minis",
+      "content": "Trap Master figures feature crystalline Traptanium weapons and are much stronger against trappable Villains. They are required to open Elemental gates in the console version. Minis are miniature versions of existing Skylanders, originating from the Miniverse. Now fully playable characters, they are functionally identical to their larger counterparts, only smaller.",
       "hasImage": true,
       "imgPath": "/wiki/File:Special_Items.png"
+    },
+    {
+      "story_name": "SuperChargers and Senseis",
+      "content": "SuperCharger figures stand atop Rift Engines on redesigned elemental bases. Each SuperCharger is associated with a Vehicle, providing a health boost if paired. Sensei figures provide a training bonus to all Imaginators and unlock Secret Techniques to Imaginators of the same Battle Class. Eon's Elite figures are extremely powerful counterparts of Series 1 Core Skylanders, recognizable by their gold-colored bases.",
+      "hasImage": true,
+      "imgPath": "/wiki/File:Minis_Elites.png"
+    },
+    {
+      "story_name": "Alt Decos and Variants",
+      "content": "Alt Deco figures are alternate counterparts with different color schemes and altered stats. Recurring Alt Decos include Dark Edition (mostly black and silver), Legendary (gold and navy blue), and Nitro (yellow-and-white checker). Chase Variants are figures that are different in toy form only, often composed of unique colors or materials, and are rare to find.",
+      "hasImage": true,
+      "imgPath": "/wiki/File:Alt_Decos.png"
     }
   ],
   "quotes": [
@@ -63,10 +72,11 @@
     "Sidekicks are the precursors to Minis, originally released as cosmetic Magic Items.",
     "Legendary Skylanders are gold and navy blue versions of normal Skylanders, exclusive to Toys'R'Us in most countries.",
     "Nitro figures feature a yellow-and-white checker color scheme and are exclusive to Target in North America.",
-    "Dark Edition figures mostly feature black and silver color schemes and were exclusive to Dark Edition Starter Packs."
+    "Dark Edition figures mostly feature black and silver color schemes and were exclusive to Dark Edition Starter Packs.",
+    "LightCore figures create a massive blast when summoned, knocking away or damaging nearby enemies."
   ],
   "trailers": [],
-  "gameplay": "Core Skylanders are the original type, released up until SuperChargers. Giants are much larger in game form and possess unique strengths like lifting boulders. SWAP Force figures have detachable parts to mix and match powers. Trap Master figures feature crystalline Traptanium weapons and are stronger against Villains. Minis are small, fully playable characters functionally identical to their larger counterparts. Senseis unlock Secret Techniques for Imaginators.",
+  "gameplay": "Core Skylanders are the original type, with Series 2-4 allowing for re-posability and 'Wow Pows'. Giants are massive in game and physical form, capable of Feats of Strength. SWAP Force characters can mix and match their top and bottom halves for unique power combinations. Trap Masters use Traptanium weapons to defeat Villains and unlock Elemental gates. Minis are small but fully functional versions of Cores. Eon's Elites are significantly more powerful versions of original characters. SuperChargers pair with Vehicles for power boosts, and Senseis train Imaginators while unlocking Secret Techniques.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Figures",
   "abilities": {
     "basic": [
@@ -142,7 +152,7 @@
   },
   "variants": [
     {
-      "id": "figures_series1",
+      "id": "figures_series_1",
       "variant_name": "Series 1 Core",
       "edition": "Series 1",
       "type": "Core",
@@ -208,6 +218,28 @@
       "wiki_url": "https://skylanders.fandom.com/wiki/Figures"
     },
     {
+      "id": "figures_mini",
+      "variant_name": "Mini Figure",
+      "edition": "Trap Team",
+      "type": "Mini",
+      "game": "Skylanders: Trap Team",
+      "image": "/wiki/File:Mini_Base.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Figures"
+    },
+    {
+      "id": "figures_eons_elite",
+      "variant_name": "Eon's Elite",
+      "edition": "Trap Team / SuperChargers",
+      "type": "Elite",
+      "game": "Skylanders: Trap Team / SuperChargers",
+      "image": "/wiki/File:EonsElite_Base.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Figures"
+    },
+    {
       "id": "figures_supercharger",
       "variant_name": "SuperCharger Figure",
       "edition": "SuperChargers",
@@ -225,6 +257,39 @@
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
       "image": "/wiki/File:Sensei_Base.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Figures"
+    },
+    {
+      "id": "figures_dark_edition",
+      "variant_name": "Dark Edition",
+      "edition": "Dark",
+      "type": "Alt Deco",
+      "game": "Various",
+      "image": "/wiki/File:Dark_Base.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Figures"
+    },
+    {
+      "id": "figures_legendary",
+      "variant_name": "Legendary Figure",
+      "edition": "Legendary",
+      "type": "Alt Deco",
+      "game": "Various",
+      "image": "/wiki/File:Legendary_Base.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Figures"
+    },
+    {
+      "id": "figures_nitro",
+      "variant_name": "Nitro Figure",
+      "edition": "Nitro",
+      "type": "Alt Deco",
+      "game": "Various",
+      "image": "/wiki/File:Nitro_Base.png",
       "attacks": [],
       "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Figures"
