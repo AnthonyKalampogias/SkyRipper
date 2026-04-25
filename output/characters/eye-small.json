@@ -63,9 +63,9 @@
     "basic": [
       {
         "name": "Haymaker",
-        "imgPath": "",
-        "content": "",
-        "is_primary": false,
+        "imgPath": "Haymaker.png",
+        "content": "Punch enemies with your giant fist.",
+        "is_primary": true,
         "is_secondary": false,
         "price": 0,
         "colors": {
@@ -75,20 +75,22 @@
       },
       {
         "name": "Eye Fly",
-        "imgPath": "",
-        "content": "",
+        "imgPath": "Eye_Fly.png",
+        "content": "The eyeball head flies around and shoots eye beams.",
         "is_primary": false,
-        "is_secondary": false,
+        "is_secondary": true,
         "price": 0,
         "colors": {
           "header": "#99A",
           "bg_content": "#899"
         }
-      },
+      }
+    ],
+    "basic_upgrades": [
       {
         "name": "An Eye In Team",
-        "imgPath": "",
-        "content": "",
+        "imgPath": "An_Eye_In_Team.png",
+        "content": "A second smaller eyeball follows the Eye Fly around and shoots eye beams.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
@@ -99,20 +101,8 @@
       },
       {
         "name": "The Pummeler",
-        "imgPath": "",
-        "content": "",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 0,
-        "colors": {
-          "header": "#99A",
-          "bg_content": "#899"
-        }
-      },
-      {
-        "name": "Awesome Occu-Blast",
-        "imgPath": "",
-        "content": "",
+        "imgPath": "The_Pummeler.png",
+        "content": "Upgrades the Haymaker attack to do more damage.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
@@ -122,8 +112,20 @@
         }
       }
     ],
-    "basic_upgrades": [],
-    "soulgems": [],
+    "soulgems": [
+      {
+        "name": "Awesome Occu-Blast",
+        "imgPath": "Awesome_Occu-Blast.png",
+        "content": "Charge up to release a massive blast from the eyeball.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#899"
+        }
+      }
+    ],
     "wow_pows": [],
     "upgrade_paths": []
   },
