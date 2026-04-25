@@ -25,7 +25,7 @@
       "story_name": "Physical Appearance",
       "content": "Flip Wreck is a small blue dolphin-like creature, with a small blowhole on his forehead, yellow eyes, a small dorsal fin on his back, a short rounded beak and small pointed triangular teeth in his mouth. He wears a blue belt, with a small silver seashell as the buckle, blue shoulder pads, blue boots on his feet, and silver armour, containing the water logo, on his forehead. He also carries two weapons, a large navigator wheel from a boat, and a wooden sword with shark's teeth tied around the edges.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2a/Flip_Wreck.jpg/revision/latest/scale-to-width-down/268?cb=20161214171853"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2a/Flip_Wreck.jpg/revision/latest?cb=20161214171853"
     },
     {
       "story_name": "Personality",
@@ -83,12 +83,12 @@
     {
       "name": "Meet the Skylanders Flip Wreck",
       "isValid": true,
-      "url": "/wiki/File:Meet_the_Skylanders_Flip_Wreck"
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Flip_Wreck"
     },
     {
       "name": "Skylanders Trap Team - Flip Wreck's Soul Gem Preview (Making Waves)",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Trap_Team_-_Flip_Wreck%27s_Soul_Gem_Preview_(Making_Waves)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Flip_Wreck%27s_Soul_Gem_Preview_(Making_Waves)"
     }
   ],
   "gameplay": "Flip Wreck utilizes a combination of sword techniques and defensive shield maneuvers. He can ride his wheel shield to damage enemies in his path, bash them directly, or enter a defensive Shield Mode. His blowhole allows for water-based splash damage, and he can be upgraded to release homing fish projectiles and execute powerful sword combos like the Whirlpool and Undersea Ambush.",
@@ -97,7 +97,7 @@
     "basic": [
       {
         "name": "Sea Saw",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Flip_Wreckprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506203625",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Flip_Wreckprimarypower.png/revision/latest?cb=20170506203625",
         "content": "Press Attack 1 to swing the saw sword.",
         "is_primary": true,
         "is_secondary": false,
@@ -109,7 +109,7 @@
       },
       {
         "name": "Wheeling and Dealing",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Flip_Wrecksecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170506203632",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Flip_Wrecksecondarypower.png/revision/latest?cb=20170506203632",
         "content": "Press Attack 2 to hop on the wheel shield, damaging anything in your path.",
         "is_primary": false,
         "is_secondary": true,
@@ -123,7 +123,7 @@
     "basic_upgrades": [
       {
         "name": "Wheel Shield Bash",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Flip_Wreckbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506203637",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Flip_Wreckbasicupgrade1.png/revision/latest?cb=20170506203637",
         "content": "Press Attack 3 to bash enemies with the wheel shield.",
         "is_primary": false,
         "is_secondary": false,
@@ -135,7 +135,7 @@
       },
       {
         "name": "Splash Damage",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/11/Flip_Wreckbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506203643",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/11/Flip_Wreckbasicupgrade2.png/revision/latest?cb=20170506203643",
         "content": "Hold Attack 1 to blast enemies with your blowhole.",
         "is_primary": false,
         "is_secondary": false,
@@ -147,7 +147,7 @@
       },
       {
         "name": "Super Sea Saw",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Flip_Wreckbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506203648",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Flip_Wreckbasicupgrade3.png/revision/latest?cb=20170506203648",
         "content": "Sea Saw does increased damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -159,7 +159,7 @@
       },
       {
         "name": "Shield Mode",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Flip_Wreckbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506203653",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Flip_Wreckbasicupgrade4.png/revision/latest?cb=20170506203653",
         "content": "Hold Attack 3 to enter Shield Mode, invulnerable to enemy attacks.",
         "is_primary": false,
         "is_secondary": false,
@@ -173,7 +173,7 @@
     "soulgems": [
       {
         "name": "Sea Slammer",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Flip_Wrecksoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506203658",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Flip_Wrecksoulgempower.png/revision/latest?cb=20170506203658",
         "content": "While riding the wheel shield, press Attack 1, Attack 1, Attack 1 to slam down on the ground.",
         "is_primary": false,
         "is_secondary": false,
@@ -191,7 +191,7 @@
         "abilities": [
           {
             "name": "Fish?!?",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/85/Flip_Wreckpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506204148",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/85/Flip_Wreckpath1upgrade1.png/revision/latest?cb=20170506204148",
             "content": "Press Attack 3 to release fish projectiles while riding the Wheel Shield.",
             "is_primary": false,
             "is_secondary": false,
@@ -203,7 +203,7 @@
           },
           {
             "name": "Homing Fish",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Flip_Wreckpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506204153",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Flip_Wreckpath1upgrade2.png/revision/latest?cb=20170506204153",
             "content": "Press Attack 3 to release a fish projectile that hops towards enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -215,7 +215,7 @@
           },
           {
             "name": "Endless Fish",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Flip_Wreckpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506204157",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Flip_Wreckpath1upgrade3.png/revision/latest?cb=20170506204157",
             "content": "While riding the wheel shield, hold Attack 3 to shoot unlimited fish projectiles.",
             "is_primary": false,
             "is_secondary": false,
@@ -232,7 +232,7 @@
         "abilities": [
           {
             "name": "Sword Swells",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fc/Flip_Wreckpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506204206",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fc/Flip_Wreckpath2upgrade1.png/revision/latest?cb=20170506204206",
             "content": "Press Attack 1, Attack 1, Attack 1 to gush forward a damaging water swell.",
             "is_primary": false,
             "is_secondary": false,
@@ -244,7 +244,7 @@
           },
           {
             "name": "Sea Saw Combos",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Flip_Wreckpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506204214",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Flip_Wreckpath2upgrade2.png/revision/latest?cb=20170506204214",
             "content": "Press Attack 1, Attack 1, Hold Attack 2 for Whirlpool combo. Press Attack 1, Attack 1, HOLD attack 3 for Undersea Ambush combo.",
             "is_primary": false,
             "is_secondary": false,
@@ -256,7 +256,7 @@
           },
           {
             "name": "Blowhole Blaster",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Flip_Wreckpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506204221",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Flip_Wreckpath2upgrade3.png/revision/latest?cb=20170506204221",
             "content": "Splash Damage attack has more range and does increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -272,7 +272,7 @@
   },
   "variants": [
     {
-      "id": "flip-wreck",
+      "id": "flip-wreck-s1",
       "variant_name": "Flip Wreck",
       "edition": "Series 1",
       "type": "Core",
