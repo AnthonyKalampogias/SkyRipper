@@ -31,11 +31,17 @@
       "content": [
         "Locked and Loaded!"
       ]
+    },
+    {
+      "quote_type": "Description",
+      "content": [
+        "Fireworks Zook has come to the Skylands in a blaze of glory!"
+      ]
     }
   ],
   "trivia": [
-    "Fireworks Zook is the first fireworks themed Skylander, followed by Fire Kraken and Flare Wolf.",
-    "He is the only fireworks themed Skylander exclusive to Skylanders: Lost Islands.",
+    "Fireworks Zook is the first fireworks themed Skylander, while Fire Kraken is the second and Flare Wolf is the third (not counting Sun Dragon).",
+    "He is also the only fireworks themed Skylander exclusive to Lost Islands.",
     "He was released as a promotional variant for the 4th of July."
   ],
   "trailers": [],
@@ -52,7 +58,7 @@
     {
       "id": "fireworks-zook-variant",
       "variant_name": "Fireworks Zook",
-      "edition": "Special Edition",
+      "edition": "Alter Ego",
       "type": "Core",
       "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Fireworks_Zook.jpg",
