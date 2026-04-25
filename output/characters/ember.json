@@ -79,13 +79,13 @@
       "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Imaginators_Meet_Master_Ember"
     }
   ],
-  "gameplay": "Ember can use her Dual-Blade red-hot katanas to attack at mid-range with quick slices and spinning motions. She can summon meteor strikes and streams of magma from afar, and slam into the ground with her fiery tail to set it on fire. She can also attach explosive rocks to her enemies that explode after a short period of time. With her Sky-Chi, she can spin in such great speeds that her tail forms a fiery tornado, shooting her belt's shurikens and meteor strikes across the battlefield. Her Soul Gem allows her to create fiery shield that blocks all damage for a short time when at low health, this can only be used once per level.",
+  "gameplay": "Ember can use her Dual-Blade red-hot katanas to attack at mid-range with quick slices and spinning motions. She can summon meteor strikes and streams of magma from afar, and slam into the ground with her fiery tail to set it on fire. She can also attach explosive rocks to her enemies that explode after a short period of time. With her Sky-Chi, she can spin in such great speeds that her tail forms a fiery tornado, shooting her belt's shurikens and meteor strikes across the battlefield. Her Soul Gem allows her to create fiery shield that blocks all damage for a short time when at low health, this can be used once per level.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Ember",
   "abilities": {
     "basic": [
       {
         "name": "Samurai Combo",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/04/Emberprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505131810",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/04/Emberprimarypower.png/revision/latest?cb=20170505131810",
         "content": "Press Attack 1 to slash. Press it four times for a Samurai Combo.",
         "is_primary": true,
         "is_secondary": false,
@@ -97,7 +97,7 @@
       },
       {
         "name": "Flame Geyser",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c2/Embersecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170505131815",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c2/Embersecondarypower.png/revision/latest?cb=20170505131815",
         "content": "Press Attack 2 to summon a Flame Geyser. Enemies struck by this attack have a living bomb placed on them. The bombs' strength increases whenever those enemies are hit.",
         "is_primary": false,
         "is_secondary": true,
@@ -111,7 +111,7 @@
     "basic_upgrades": [
       {
         "name": "Immolation",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Emberbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505131819",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Emberbasicupgrade1.png/revision/latest?cb=20170505131819",
         "content": "Taking damage deals damage to nearby enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -123,7 +123,7 @@
       },
       {
         "name": "Lava Impact",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Emberbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505131824",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Emberbasicupgrade2.png/revision/latest?cb=20170505131824",
         "content": "All attacks leave a pool of fire that slows down enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -135,7 +135,7 @@
       },
       {
         "name": "Supernova",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/Emberbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505131830",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/Emberbasicupgrade3.png/revision/latest?cb=20170505131830",
         "content": "Press Attack 3 to spawn a Supernova.",
         "is_primary": false,
         "is_secondary": false,
@@ -147,7 +147,7 @@
       },
       {
         "name": "Ultra Supernova",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/38/Emberbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170505131833",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/38/Emberbasicupgrade4.png/revision/latest?cb=20170505131833",
         "content": "Hold Attack 3 to charge up the Supernova.",
         "is_primary": false,
         "is_secondary": false,
@@ -161,7 +161,7 @@
     "soulgems": [
       {
         "name": "Undying Rage",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Embersoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505131839",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Embersoulgempower.png/revision/latest?cb=20170505131839",
         "content": "If Ember is about to be defeated, she instead gains a shield that blocks all damage for 10 seconds. This can be activated once per level.",
         "is_primary": false,
         "is_secondary": false,
@@ -176,7 +176,7 @@
       {
         "season": 1,
         "name": "Supernova Storm",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Emberskychipower.png/revision/latest/scale-to-width-down/148?cb=20170505131844",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Emberskychipower.png/revision/latest?cb=20170505131844",
         "content": "Hold Special Attack to perform your Sky-Chi Power! Shoot shurikens and supernovae at everyone! Use Left Stick to move around!",
         "is_primary": false,
         "is_secondary": false,
@@ -193,7 +193,7 @@
         "abilities": [
           {
             "name": "Inner Fire",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Emberpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505132134",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Emberpath1upgrade1.png/revision/latest?cb=20170505132134",
             "content": "Gain damage bonus based on health missing.",
             "is_primary": false,
             "is_secondary": false,
@@ -205,7 +205,7 @@
           },
           {
             "name": "Fire Dash",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Emberpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505132140",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Emberpath1upgrade2.png/revision/latest?cb=20170505132140",
             "content": "Hold Attack 1 to dash through enemies, striking them multiple times.",
             "is_primary": false,
             "is_secondary": false,
@@ -217,7 +217,7 @@
           },
           {
             "name": "Samurai Combo Finisher",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/51/Emberpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505132145",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/51/Emberpath1upgrade3.png/revision/latest?cb=20170505132145",
             "content": "Attack 1 twice, Attack 2 for Buddha Palm. Attack 1 twice, Attack 3 for Fire Tornado.",
             "is_primary": false,
             "is_secondary": false,
@@ -234,7 +234,7 @@
         "abilities": [
           {
             "name": "greater Living Bomb",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Emberpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505132150",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Emberpath2upgrade1.png/revision/latest?cb=20170505132150",
             "content": "Bombs deal area damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -246,7 +246,7 @@
           },
           {
             "name": "Purifying Flame",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Emberpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505132155",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Emberpath2upgrade2.png/revision/latest?cb=20170505132155",
             "content": "Bombs heal Ember if she is nearby during the explosion.",
             "is_primary": false,
             "is_secondary": false,
@@ -258,7 +258,7 @@
           },
           {
             "name": "Meteor Shower",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2f/Emberpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505132200",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2f/Emberpath2upgrade3.png/revision/latest?cb=20170505132200",
             "content": "Hold Attack 3 to spawn a ton of Supernova.",
             "is_primary": false,
             "is_secondary": false,
@@ -306,6 +306,40 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Ember"
+    },
+    {
+      "id": "dec-ember",
+      "variant_name": "Dec-Ember",
+      "edition": "Chase Variant",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/87/Emberpromo.jpg/revision/latest?cb=20160615082817",
+      "attacks": [
+        "Samurai Combo",
+        "Flame Geyser",
+        "Immolation",
+        "Inner Fire",
+        "Living Bomb Path"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "350"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "200"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dec-Ember"
     }
   ]
 }
