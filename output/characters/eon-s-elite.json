@@ -9,9 +9,11 @@
   "appearances": [
     "Skylanders: Spyro's Adventure",
     "Skylanders: Giants",
+    "Skylanders: Trap Team (3DS)",
     "Skylanders: Trap Team",
-    "Skylanders: SuperChargers",
-    "Skylanders: SuperChargers Racing"
+    "Skylanders: SuperChargers Racing (3DS)",
+    "Skylanders: SuperChargers Racing",
+    "Skylanders: SuperChargers"
   ],
   "cameos": [],
   "world": [
@@ -19,7 +21,7 @@
   ],
   "description": "Eon's Elite are a group of Skylanders originated from Skylanders: Spyro's Adventure that stand atop golden bases with a transparent bottom, who are three times stronger than their normal forms. They were offered in premium foil packaging, featuring a display case with a 3D lenticular background.",
   "biography": "Of all the heroic Skylanders, there are several that Master Eon depends on to lead others into battle against the forces of evil. Eon's Elite are the selected few that have displayed courage and bravery against all odds – and are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands!",
-  "quote": "Three times as powerful as other characters.",
+  "quote": "Three times the power!",
   "personality": "Courageous and brave leaders who have displayed bravery against all odds. They are revered by their fellow Skylanders for their inspiration and unwavering commitment to defend Skylands.",
   "story": [
     {
@@ -40,11 +42,14 @@
   ],
   "trivia": [
     "Every Skylander in the first set of Eon's Elite have had Series 3 counterparts.",
-    "Eon's Elite Skylanders are labeled as Series 2 Specials in Skylanders: Giants.",
+    "Eon's Elite Skylanders are labeled as Series 2 Specials in Skylanders: Giants, except for Dino-Rang, Ghost Roaster, Boomer and Voodood, who are labeled as Series 1 Special.",
     "All members of Eon's Elite start off at Level 20 in SuperChargers.",
-    "Stealth Elf and Whirlwind are the only female members of Eon's Elite.",
+    "In SuperChargers Racing, they are the only Skylanders other than SuperChargers who provide stat boosts to Vehicles.",
+    "Elite Stealth Elf and Elite Whirlwind are the only female members of Eon's Elite.",
+    "Elite Gill Grunt and Elite Eruptor use their Series 2 artwork instead of their Series 1 artwork, edited to remove any upgrades.",
     "With the release of the Eon's Elite figures in Skylanders: Superchargers, Sunburn was left as the only Skylander from Skylanders: Spyro's Adventure without a reposed figure.",
-    "Elite Stealth Elf's daggers and Elite Gill Grunt's harpoon ammo are gold in figure form, but normal colors in-game."
+    "Elite Terrafin and Elite Slam Bam equally have the most health, while Elite Boomer has the least health.",
+    "Elite Stealth Elf's daggers and Elite Gill Grunt's harpoon ammo are gold on the physical toys, but normal colored in-game."
   ],
   "trailers": [],
   "gameplay": "When played in-game, Eon's Elite will be up to three times as powerful as other characters. All members of Eon's Elite start off at Level 20 in SuperChargers, and in SuperChargers Racing, they are the only Skylanders other than SuperChargers who provide stat boosts to Vehicles. They are labeled as Series 2 Specials in Skylanders: Giants, allowing them to activate Wow-Pows and change paths.",
@@ -54,7 +59,7 @@
       {
         "name": "Elite Power Boost",
         "imgPath": "Eons-elite-logo.jpg",
-        "content": "When played in-game, Eon's Elite will be up to three times as powerful as other characters, representing the biggest in-game boosts ever incorporated into a Skylanders toy.",
+        "content": "When played in-game, Eon's Elite will be up to three times as powerful as other characters, which represents the biggest in-game boosts ever incorporated into a Skylanders toy to date.",
         "is_primary": true,
         "is_secondary": false,
         "price": 0,
@@ -68,10 +73,10 @@
     "soulgems": [],
     "wow_pows": [
       {
-        "season": 1,
+        "season": 2,
         "name": "Elite Wow-Pow",
         "imgPath": "Eons-elite-logo.jpg",
-        "content": "In Skylanders: Giants, Eon's Elite can activate Wow-Pows and change paths, though their Wow-Pow cannot be carried over into later games.",
+        "content": "Eon's Elite Skylanders are labeled as Series 2 Specials in Skylanders: Giants. Because of this, they can activate Wow-Pows and change paths, though their Wow-Pow cannot be carried over into later games.",
         "is_primary": false,
         "is_secondary": true,
         "price": 0,
@@ -85,12 +90,12 @@
   },
   "variants": [
     {
-      "id": "eon-s-elite-trap-team",
+      "id": "eon-s-elite-trap-team-s1",
       "variant_name": "Eon's Elite (Trap Team)",
-      "edition": "Series 1",
+      "edition": "Series 1 (Trap Team)",
       "type": "Special",
       "game": "Skylanders: Trap Team",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Eons-elite-logo.jpg",
+      "image": "Spyro_Elite.jpg",
       "attacks": [
         "Elite Power Boost"
       ],
@@ -107,12 +112,12 @@
       "wiki_url": "https://skylanders.fandom.com/wiki/Eon's_Elite"
     },
     {
-      "id": "eon-s-elite-superchargers",
+      "id": "eon-s-elite-superchargers-s2",
       "variant_name": "Eon's Elite (SuperChargers)",
-      "edition": "Series 2",
+      "edition": "Series 2 (SuperChargers)",
       "type": "Special",
       "game": "Skylanders: SuperChargers",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a2/Eon%27s_Elite_SuperChargers.jpg",
+      "image": "Eon's_Elite_SuperChargers.jpg",
       "attacks": [
         "Elite Power Boost"
       ],
@@ -122,7 +127,7 @@
           "stat_value": "20"
         },
         {
-          "stat_name": "Vehicle Boost",
+          "stat_name": "Vehicle Stat Boost",
           "stat_value": "Yes"
         }
       ],
