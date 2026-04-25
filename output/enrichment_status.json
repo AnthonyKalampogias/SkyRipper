@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-25T09:35:27.312Z",
+  "last_run": "2026-04-25T15:04:18.497Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -480,6 +480,14 @@
     {
       "name": "Flip Flop Fryno",
       "sha": "229493dc24c914ae40ba674c783babb819296b3fb38a1f3d6e1920252cb47f71"
+    },
+    {
+      "name": "Flip Wreck",
+      "sha": "9e30be3f420c14051003e57e17f68c208e97401f8b6b139545c42bc484d0f13f"
+    },
+    {
+      "name": "Frosted Food Fight",
+      "sha": "712a18317f45eb53d4142cdaaa4588f3fe5c47e87ca1397090b0a3129999a534"
     }
   ]
 }
