@@ -34,7 +34,7 @@
       "story_name": "Biography",
       "content": "Head Rush was raised in a small village that had fallen under the spell of a powerful Harvest Sphinx, who forced the frightened villagers to plow the vast fields of golden grass for his own benefit. Although there were many villagers, no individual was brave enough to confront the Sphinx and put an end to its rule. But Head Rush believed there was a chance to fight back if she could somehow inspire her people to stand together. Charging through her village, Head Rush shouted a mighty yodel that woke the villagers from their spell! With the village behind her, she then led the charge to drive the Sphinx from the island for good. For her leadership and bravery, she was made part of the Trap Team, where she uses her giant Traptanium Horns to take charge of evil!",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Head_Rush_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140813084343"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Head_Rush_Promo.jpg/revision/latest?cb=20140813084343"
     }
   ],
   "quotes": [
@@ -111,7 +111,7 @@
     {
       "name": "Skylanders Trap Team - Head Rush's Soul Gem Preview (Taking Charge)",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Trap_Team_-_Head_Rush%27s_Soul_Gem_Preview_(Taking_Charge)"
+      "url": "/wiki/File:Skylanders_Trap_Team_-_Head_Rush's_Soul_Gem_Preview_(Taking_Charge)"
     },
     {
       "name": "Skylanders Power Play Head Rush",
@@ -119,13 +119,13 @@
       "url": "/wiki/File:Skylanders_Power_Play_Head_Rush"
     }
   ],
-  "gameplay": "Head Rush is a powerful Earth Trap Master who utilizes her Traptanium horns for head-bashing and charging attacks. She can perform powerful ground stomps and yodeling vocal attacks that damage all nearby enemies. Her playstyle focuses on crowd control through AOE stomps and direct physical charging. As a Trap Master, she can also access areas locked behind Traptanium and deals extra damage to Trappable Villains.",
+  "gameplay": "Head Rush is a powerful Earth Trap Master who utilizes her Traptanium horns for head-bashing and charging attacks, along with powerful ground stomps and vocal yodels to damage nearby enemies. Her playstyle focuses on crowd control through AOE stomps and direct physical charging. As a Trap Master, she can also access areas locked behind Traptanium and deals extra damage to Trappable Villains. In console games, her basic attacks are 'Traptanium Horns' for head bashes and charges, and 'Stomp' for area damage. In 'Ring of Heroes', she features active abilities like 'Unstoppable Charge' (provoke, damage, self-strength buff), 'Stomp' (AoE damage, ATK/DEF debuffs), and 'Super Lungs' (AoE damage, self-DEF buff), alongside passive buffs 'Leave It To Me!' and 'Firm Bond'. For 3DS gameplay, her 'Starting Powers' include 'Head Banging' and 'Stomp', with upgrades like 'Lungs of Steel' for a singing attack and 'Big Bang Stomp' for a powerful stomp combo.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Head_Rush",
   "abilities": {
     "basic": [
       {
         "name": "Traptanium Horns",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6d/Head_Rushprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170504155343",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6d/Head_Rushprimarypower.png/revision/latest?cb=20170504155343",
         "content": "Press Attack 1 to head bash enemies, hold Attack 1 to charge ahead.",
         "is_primary": true,
         "is_secondary": false,
@@ -137,7 +137,7 @@
       },
       {
         "name": "Stomp",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Head_Rushsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170504155345",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Head_Rushsecondarypower.png/revision/latest?cb=20170504155345",
         "content": "Stomp the ground so hard, anything nearby takes damage.",
         "is_primary": false,
         "is_secondary": true,
@@ -151,7 +151,7 @@
     "basic_upgrades": [
       {
         "name": "Mega Stomp",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/Head_Rushbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504155348",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/Head_Rushbasicupgrade1.png/revision/latest?cb=20170504155348",
         "content": "Press Attack 2, 2 and 2 for a Mega Stomp Combo.",
         "is_primary": false,
         "is_secondary": false,
@@ -163,7 +163,7 @@
       },
       {
         "name": "Yodel",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d6/Head_Rushbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504155353",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d6/Head_Rushbasicupgrade2.png/revision/latest?cb=20170504155353",
         "content": "Perform a powerful yodeling attack, damaging all enemies within earshot.",
         "is_primary": false,
         "is_secondary": false,
@@ -175,7 +175,7 @@
       },
       {
         "name": "Stomping On Air",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Head_Rushbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504155355",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/83/Head_Rushbasicupgrade3.png/revision/latest?cb=20170504155355",
         "content": "While in the air, press Attack 2 to stomp down with more power.",
         "is_primary": false,
         "is_secondary": false,
@@ -187,7 +187,7 @@
       },
       {
         "name": "Charge Control",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Head_Rushbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170504155358",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Head_Rushbasicupgrade4.png/revision/latest?cb=20170504155358",
         "content": "Can turn while performing a charge attack, which also does extra damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -201,7 +201,7 @@
     "soulgems": [
       {
         "name": "Horns Aplenty",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Head_Rushsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170504155408",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Head_Rushsoulgempower.png/revision/latest?cb=20170504155408",
         "content": "New Traptanium Horns do ultimate damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -219,7 +219,7 @@
         "abilities": [
           {
             "name": "High Note",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Head_Rushpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504160021",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Head_Rushpath1upgrade1.png/revision/latest?cb=20170504160021",
             "content": "Yodel attack does extra damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -231,7 +231,7 @@
           },
           {
             "name": "Modulate Yodel",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Head_Rushpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504160026",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Head_Rushpath1upgrade2.png/revision/latest?cb=20170504160026",
             "content": "Yodel attack does even MORE damage, and you can control the pitch with the left control stick.",
             "is_primary": false,
             "is_secondary": false,
@@ -243,7 +243,7 @@
           },
           {
             "name": "Forget Breaking Glass",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Head_Rushpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504160031",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Head_Rushpath1upgrade3.png/revision/latest?cb=20170504160031",
             "content": "Yodel attack is so loud, it destroys the ground beneath you.",
             "is_primary": false,
             "is_secondary": false,
@@ -260,7 +260,7 @@
         "abilities": [
           {
             "name": "A Stomp To Remember",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Head_Rushpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504160257",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Head_Rushpath2upgrade1.png/revision/latest?cb=20170504160257",
             "content": "Stomp attack does extra damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -272,7 +272,7 @@
           },
           {
             "name": "Power Steering",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Head_Rushpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504160259",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Head_Rushpath2upgrade2.png/revision/latest?cb=20170504160259",
             "content": "Turning during a charge attack makes it do additional damage with each turn.",
             "is_primary": false,
             "is_secondary": false,
@@ -284,7 +284,7 @@
           },
           {
             "name": "Omega Stomp",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/20/Head_Rushpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504160258",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/20/Head_Rushpath2upgrade3.png/revision/latest?cb=20170504160258",
             "content": "Stomp attack does extra damage and destroys the ground beneath you.",
             "is_primary": false,
             "is_secondary": false,
