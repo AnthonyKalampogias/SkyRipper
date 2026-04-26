@@ -19,39 +19,62 @@
     "Skylands"
   ],
   "description": "The Giants, also known as the Elder Elementals, are large beings who are the original Skylanders as well as one of the key playable characters in Skylanders: Giants. There are a total of eight Giants, one of each original Element.",
-  "biography": "Ten thousand years ago, the Giants banded together and fought for the freedom of Skylands against the Arkeyans, who ruled over Skylands with an iron fist. In a final battle against their adversary, the Giants were banished to Earth by the Iron Fist of Arkus, where they've been buried underground until recent days.",
+  "biography": "The original Skylanders were the Giants, who united their powers to defeat the Arkeyan King. Ten thousand years ago, they banded together and fought for the freedom of Skylands against the Arkeyans, who ruled over Skylands with an iron fist. In a final battle against their adversary, the Giants were banished to Earth by the Iron Fist of Arkus, where they've been buried underground until recent days. As the years passed, the Giants became a myth.",
   "quote": "Bigger is Better!",
   "personality": "The Giants are legendary heroes known for their immense strength and bravery. They are ancient protectors of Skylands who once stood against the tyranny of the Arkeyan Empire to ensure the freedom of all.",
   "story": [
     {
-      "story_name": "The Legend of the Giants",
-      "content": "The original Skylanders were the Giants, who united their powers to defeat the Arkeyan King. Ten thousand years ago, they banded together and fought for the freedom of Skylands against the Arkeyans, who ruled over Skylands with an iron fist. In a final battle against their adversary, the Giants were banished to Earth by the Iron Fist of Arkus, where they’ve been buried underground until recent days. As the years passed, the Giants became a myth. In Skylanders: Giants, the Portal Masters discovered and summoned the Giants back to Skylands to help the Skylanders fight Kaos before he could reawaken the Arkeyan army with the help of the Conquertron. In a race to reach the Lost City of Arkus, the Skylanders and their allies fought to keep Kaos from using the Iron Fist's powers, and the Giants remained in the team to help them in subsequent adventures.",
-      "hasImage": false,
-      "imgPath": ""
+      "story_name": "Story of the Giants",
+      "content": "The original Skylanders were the Giants, who united their powers to defeat the Arkeyan King. Ten thousand years ago, they banded together and fought for the freedom of Skylands against the Arkeyans, who ruled over Skylands with an iron fist. In a final battle against their adversary, the Giants were banished to Earth by the Iron Fist of Arkus, where they've been buried underground until recent days. As the years passed, the Giants became a myth. In Skylanders: Giants, the Portal Masters discovered and summoned the Giants back to Skylands to help the Skylanders fight Kaos before he could reawaken the Arkeyan army with the help of the Conquertron. In a race to reach the Lost City of Arkus, the Skylanders and their allies fought to keep Kaos from using the Iron Fist's powers, and the Giants remained in the team to help them in subsequent adventures.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/76/Giants.jpg/revision/latest?cb=20230202022624"
     }
   ],
-  "quotes": [],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Bigger is Better!"
+      ]
+    }
+  ],
   "trivia": [
-    "The Giants were referred to as the Elder Elementals, the most powerful of all of the Skylanders.",
+    "The Giants were referred to as the Elder Elementals, the most powerful of all of the Skylanders (first mentioned in a Story Scroll in Skylanders: Spyro's Adventure). The Scroll also said that they possessed powers of light and darkness within their flesh, which might refer to their light-up feature.",
     "Each of the Giants have the symbol of their Element somewhere on them. For example, Tree Rex has the Life Element symbol on his forehead.",
     "Thumpback, Swarm, Eye-Brawl, and Hot Head are the only Giants without any in game variants other than Minis.",
-    "During the production of Skylanders: Giants, there was once a Giant Arkeyan Robot resembling Chop Chop made for the game but was scrapped, nicknamed Chop Chop Daddy. His design was later used for Krypt King.",
-    "When summoned, Giants originally jumped down from the sky and damaged nearby enemies instead of appearing in their magic moment first.",
+    "During the production of Skylanders: Giants, there was once a Giant Arkeyan Robot resembling Chop Chop made for the game but was scrapped, nicknamed Chop Chop Daddy. His design was later used for Krypt King in Skylanders: Trap Team.",
+    "When summoned, Giants originally jumped down from the sky and damaged nearby enemies instead of appearing in their magic moment first. This most likely was done for show purposes only and to show the sheer strength of the Giants, as it would likely cause a lot of clipping and camera issues in the final game, especially in narrow areas or indoors.",
     "In Skylanders: Giants, the Giants are unable to flinch even after enemies attack them. However in Skylanders: Swap Force, they flinch and can be knocked away by stronger enemies and bosses.",
     "Giants can open treasure chests faster than other Skylanders. There are also specific golden chests that only Giants can open.",
     "They are the only team of non-Core Skylanders without Dark counterparts.",
     "The Giants are the only special team of Skylanders where all members are present in their introductory cutscene.",
-    "In Skylanders: Giants, medium-sized enemies such as Drow Lance Masters will often take a few steps back before confronting Giant Skylanders, as if intimidated."
+    "In Skylanders: Giants, medium-sized enemies such as Drow Lance Masters will often take a few steps back before confronting Giant Skylanders, as if intimidated. The alpha version of Skylanders: Giants takes this idea even further, adding startled sound effects and freezing the enemies in place while a Giant is facing them, for an almost comedic effect."
   ],
-  "trailers": [],
+  "trailers": [
+    {
+      "name": "Series 3 Sprocket, Ninjini + 1st Giant Prototype (Skylanders Swap Force & Giants)",
+      "isValid": true,
+      "url": "http://www.youtube.com/watch?v=RarlzxPJWdk"
+    },
+    {
+      "name": "Toy Fair 2012 - Skylanders Giants Demo",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=tS7Y9NyewmA"
+    },
+    {
+      "name": "Skylanders Giants Alpha Build 1: Full Playthrough",
+      "isValid": true,
+      "url": "https://youtu.be/o1MUIUg5Tvo?si=83W8NsOCO8Jx4gRg&t=1506"
+    }
+  ],
   "gameplay": "Giants wield great strength, giving them the ability to lift, throw, and destroy trees, towers, rocks, and other things that normal Skylanders can't destroy. While normal Skylanders can only destroy rocks with the help of bombs or cannons, Giants can do so with their bare hands without the use of powerups. They can also destroy crates, Chompies, and other objects that may contain coins just by walking on them. An important ability only used by the Giants is the Feats of Strength. Giants are required at certain moments to complete feats of strength that provide access to the next level in the game world.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Giants",
   "abilities": {
     "basic": [
       {
-        "name": "Feats of Strength",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/76/Giants.jpg/revision/latest/scale-to-width-down/268?cb=20230202022624",
-        "content": "Giants are required at certain moments to complete feats of strength that provide access to the next level in the game world. This may involve pulling two floating islands together, or lifting walls of logs.",
+        "name": "Great Strength",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/76/Giants.jpg/revision/latest?cb=20230202022624",
+        "content": "Giants wield great strength, giving them the ability to lift, throw, and destroy trees, towers, rocks, and other things that normal Skylanders can't destroy. While normal Skylanders can only destroy rocks with the help of bombs or cannons, Giants can do so with their bare hands without the use of powerups. They can also destroy crates, Chompies, and other objects that may contain coins just by walking on them.",
         "is_primary": true,
         "is_secondary": false,
         "price": 0,
@@ -61,9 +84,9 @@
         }
       },
       {
-        "name": "Great Strength",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/76/Giants.jpg/revision/latest/scale-to-width-down/268?cb=20230202022624",
-        "content": "Giants wield great strength, giving them the ability to lift, throw, and destroy trees, towers, rocks, and other things that normal Skylanders can't destroy.",
+        "name": "Feats of Strength",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/76/Giants.jpg/revision/latest?cb=20230202022624",
+        "content": "Giants are required at certain moments to complete feats of strength that provide access to the next level in the game world. For instance this may involve pulling two floating islands together, or lifting walls of logs.",
         "is_primary": false,
         "is_secondary": true,
         "price": 0,
