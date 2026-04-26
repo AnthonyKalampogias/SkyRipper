@@ -1,10 +1,10 @@
 {
   "id": "fright-rider",
   "name": "Fright Rider",
-  "species": "Undead Elf (Fright Rider), Skeletal Ostrich (Ozzy)",
+  "species": "Fright Rider: Undead Elf, Ozzy: Skeletal Ostrich",
   "gender": "Male (both)",
   "element": "Undead",
-  "role": "Core Skylander",
+  "role": "Core Skylanders",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -28,7 +28,7 @@
   "story": [
     {
       "story_name": "History",
-      "content": "Back before he was a skeletal Undead ostrich, Fright (Ozzy) was just a plain old ostrich. With Rider (Fright Rider) on his back, they formed the most successful, and weirdest, jousting team in all of Skylands, winning the championships three years in a row. Sick of coming second, a jealous competitor put a curse on Rider (Fright Rider), banishing him to the Undead realm. Despite being terrified of pretty much everything, Fright (Ozzy) was determined to not abandon his friend. Scoffing a bag of skele-oats, he was transformed into a living skeleton, which allowed him to journey to the land of the Undead on a rescue mission. Once free, the pair decided to use their combined skills to protect others, and Master Eon was quick to sign them up as Skylanders.",
+      "content": "Back before he was a skeletal Undead ostrich, Fright (Ozzy) was just a plain old ostrich. With Rider (Fright Rider) on his back, they formed the most successful, and weirdest, jousting team in all of Skylands, winning the championships three years in a row. Sick of coming second, a jealous competitor put a curse on Rider ( Fright Rider), banishing him to the Undead realm. Despite being terrified of pretty much everything, Fright (Ozzy) was determined to not abandon his friend. Scoffing a bag of skele-oats, he was transformed into a living skeleton, which allowed him to journey to the land of the Undead on a rescue mission. Once free, the pair decided to use their combined skills to protect others, and Master Eon was quick to sign them up as Skylanders.",
       "hasImage": false,
       "imgPath": "none"
     },
@@ -70,14 +70,15 @@
   "trivia": [
     "Fright Rider's catchphrase is similar to Hex's, whose catchphrase is 'Fear the Dark!', and Gill Grunt's catchphrase 'Fear the Fish!'",
     "Fright Rider shares the same skin color with Hex since both of them are Undead Elf Skylanders.",
-    "Sprocket's original catchphrase 'Fear the Gear' is very similar to Fright Rider's (as gear and spear both rhyme).",
+    "Sprocket's original catchphrase ''Fear the Gear'' is very similar to Fright Rider's (as gear and spear both rhyme)",
     "Fright Rider, along with Eye-Brawl, Rocky Roll, Bad Juju, and Air Strike are the only five Skylanders who are either composed of two different characters in a symbiotic relationship, or fight alongside another creature.",
     "During Giants's early development, Fright Rider's abilities and upgrades went by different names: 'Melee Attacks' was called 'Ostrich Fighter', 'Jousting Charge' was called 'Jousting Lance', 'Halberd of Horror' was misspelled as 'Halbred of Horror', 'Fright Rider Combos' was called 'Dark Champion', 'Flock of Fury' was called 'Flock of Ostrich Fury', 'Supreme Spear' was called 'Coresque of Styx', '360 Degrees of Spear' was called 'Soul Cyclone', and 'A Real Drag' was called 'The Crypt Catcher'.",
     "In the primary combo, burrow move, and Flock of Fury attack, Ozzy sticks his head in the ground. This is a reference to the misconception of real ostriches poking their heads in the ground.",
     "While officially stated as being an ostrich, Ozzy closely resembles a Gastornis, an extinct species of giant predatory birds (somewhat more commonly known as a terror bird).",
-    "Fright Rider is voiced by Yuri Lowenthal, who is best known for voicing teenage Ben Tennyson from the later Ben 10 series, Young Superman from 'Legion of Super Heroes' and Sasuke Uchida from Naruto.",
+    "Fright Rider is voiced by Yuri Lowenthal, who is best known for voicing teenage Ben Tennyson from the later Ben 10 series, Young Superman from ‘’Legion of Super Heroes ‘’ and Sasuke Uchida from Naruto.",
     "The name is a pun on the iconic TV series Knight Rider, starring David Hasselhoff.",
-    "Fright Rider appears to be left-handed because he is holding a spear in his left hand while holding Ozzy's harness with his right hand."
+    "Fright Rider also refers to his ostrich as Ozzy in Skylanders Giants. Also, when given a nickname, one of his particular lines is 'Like the new name. Not sure about Ozzy though'.",
+    "While most Weapon Skylanders hold their weaponry in their right hands, Fright Rider appears to be left-handed because he is holding a spear in his left hand while holding Ozzy's harness with his right hand."
   ],
   "trailers": [
     {
@@ -93,10 +94,10 @@
     {
       "name": "Skylanders Giants - Fright Rider's Soul Gem Preview (Fear the Spear)",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Giants_-_Fright_Rider%27s_Soul_Gem_Preview_(Fear_the_Spear)"
+      "url": "/wiki/File:Skylanders_Giants_-_Fright_Rider's_Soul_Gem_Preview_(Fear_the_Spear)"
     }
   ],
-  "gameplay": "Fright Rider is an Undead core Skylander. These are the starting and maximum Statistics for this Skylander in the Skylanders games. Health: 270 (max. 540), Speed: 43 (max. 91), Armor: 12 (max. 42), Critical Hit: 30 (max. 80), Elemental Power: 25 (max. 75). His abilities include melee spear attacks and jousting charges. He can also burrow underground to teleport or drag enemies down.",
+  "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games. Health: 270 (max. 540), Speed: 43 (max. 91), Armor: 12 (max. 42), Critical Hit: 30 (max. 80), Elemental Power: 25 (max. 75). His abilities include melee attacks with his spear and charging headlong into enemies with Ozzy. He can also burrow underground to teleport or drag enemies down with his spear.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Fright_Rider",
   "abilities": {
     "basic": [
@@ -288,7 +289,7 @@
         "Jousting Charge",
         "Burrow Bomber",
         "Ghoul Glaive",
-        "Halberd Horror"
+        "Halberd of Horror"
       ],
       "stats": [
         {
