@@ -128,9 +128,33 @@
         "This is all just... Gravvy.",
         "Show me the mummy!",
         "I call upon the spirits of the Undead to show you my abilities... oh. Wait. They just popped up right here! How convenient.",
-        "I see my skills have been duly enshrined..",
+        "I see my skills have been duly enshrined..*",
         "Doom to the tomb!",
         "I came, I saw, I clobbered!"
+      ]
+    },
+    {
+      "quote_type": "Unused Quotes",
+      "content": [
+        "Victory!",
+        "Excellent.",
+        "Fear the fists!",
+        "This meandering is boring me to death.",
+        "Not good!",
+        "Bummer.",
+        "This outcome is unsettling!",
+        "Awaken and attack!",
+        "Success!",
+        "Magnificent!",
+        "Ties are for mortals.",
+        "Rrright on.",
+        "Perfect!",
+        "We have unfinished business!",
+        "This is taking an eternity.",
+        "Sweet!",
+        "Awesome!",
+        "I will deliver your doom!",
+        "Here we go!"
       ]
     }
   ],
@@ -142,12 +166,16 @@
     "His turning good quote is a pun off of the famous line in the movie Jerry Maguire.",
     "His capture quote is based off the phrase 'I want my mommy!'",
     "His head resembles that of the the Spirit of Delphi from Percy Jackson: Sea of Monsters.",
+    "His name is a play on the term 'grave robber'.",
     "His post-Sky-Chi quote is based off the famous phrase of Julius Caesar, 'I came, I saw, I conquered.'",
     "Despite being a humanoid made of living stone, his imprisonment has turned him into an Undead mummy. Because of this, he makes several references to the Undead element, despite not being elementally aligned with it in any of his appearances.",
-    "He is voiced by Kevin Michael Richardson, who also voiced Stump Smash, Tree Rex/Barkley, and Eye Five.",
+    "He is voiced by Kevin Michael Richardson, who also voiced Stump Smash, Tree Rex/Barkley, and Eye Five. Richardson was uncredited for his performance in Imaginators as a result of the SAG-AFTRA voice actor strike.",
     "As a Sensei, water constantly drips from Grave Clobber's body to indicate the change in his element.",
     "He and King Pen are both Brawler Senseis of the Water element.",
-    "One of his idle animations in Imaginators has him attempt to adjust his shendyt, while another has him striking the pose of a traditional Ancient Egyptian mummy."
+    "One of his idle animations in Imaginators has him attempt to adjust his shendyt, while another has him striking the pose of a traditional Ancient Egyptian mummy.",
+    "His origin story from Imaginators is a reference to the Bible story of Joseph.",
+    "Players can change direction of the Luchador Lariat during the wind up animation to place three Gator Geysers in a row.",
+    "Originally, Grave Clobber's Gator Geysers attack was named 'Sar-croc-phagus', but it was way too hard to say."
   ],
   "trailers": [
     {
@@ -161,13 +189,13 @@
       "url": "https://static.wikia.nocookie.net/skylanders/images/6/60/Skylanders_Imaginators_-_Grave_Clobber_Soul_Gem_Preview.png"
     }
   ],
-  "gameplay": "Grave Clobber can use his large fists for strong punches and cause shockwaves on the ground, and summon spiky bones that can be punched to throw bone shards into enemies. In Skylanders: Imaginators, his rocky insides are now full of water and fire off streams when he does a variety of wrestling moves, from punches, to lariats, to belly flops and aerial kicks. Grave Clobber can also summon alligator totems that sprinkle water to reach enemies from afar or to do a powerful vertical suplex. Despite his slow walking speed however, his Sky-Chi shows that his speed lies on his fists, as he throws punches so fast that he absorbs water in waves around him to pull enemies forward.",
+  "gameplay": "Grave Clobber can use his large fists for strong punches and cause shockwaves on the ground, and summon spiky bones that can be punched to throw bone shards into enemies. In Skylanders: Battlecast, he can imbue his fists with mud for a round of Fighting Dirty, and gain power from defeated teammates, even ones he sacrifices himself. In Imaginators, his rocky insides are now full of water and fire off streams when he does a variety of wrestling moves, from punches, to lariats, to belly flops and aerial kicks. Grave Clobber can also summon alligator totems that sprinkle water to reach enemies from afar or to do a powerful vertical suplex. Despite his slow walking speed however, his Sky-Chi shows that his speed lies on his fists, as he throws punches so fast that he absorbs water in waves around him to pull enemies forward.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Grave_Clobber_(character)",
   "abilities": {
     "basic": [
       {
         "name": "Clobber Punch",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9f/Grave_Clobberprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506212352",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9f/Grave_Clobberprimarypower.png/revision/latest?cb=20170506212352",
         "content": "Press Attack 1 to clobber your enemies. Jump and press Attack 1 to drop kick.",
         "is_primary": true,
         "is_secondary": false,
@@ -179,7 +207,7 @@
       },
       {
         "name": "Gator Geyser",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Grave_Clobbersecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170506212357",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Grave_Clobbersecondarypower.png/revision/latest?cb=20170506212357",
         "content": "Press Attack 2 to summon a Gator Geyser Fountain that you can punch.",
         "is_primary": false,
         "is_secondary": true,
@@ -193,7 +221,7 @@
     "basic_upgrades": [
       {
         "name": "Big Splash",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/38/Grave_Clobberbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506212405",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/38/Grave_Clobberbasicupgrade1.png/revision/latest?cb=20170506212405",
         "content": "Press Attack 3 to flop on top of your enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -205,7 +233,7 @@
       },
       {
         "name": "Luchador Lariat",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/48/Grave_Clobberbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506212412",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/48/Grave_Clobberbasicupgrade2.png/revision/latest?cb=20170506212412",
         "content": "After any Clobbber Punch, hold Attack 1 to launch your Lariat.",
         "is_primary": false,
         "is_secondary": false,
@@ -217,7 +245,7 @@
       },
       {
         "name": "Precision Slamming",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bf/Grave_Clobberbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506212421",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bf/Grave_Clobberbasicupgrade3.png/revision/latest?cb=20170506212421",
         "content": "Hold Attack 2 to control where your Gator Geyser appears.",
         "is_primary": false,
         "is_secondary": false,
@@ -229,7 +257,7 @@
       },
       {
         "name": "Waves in the Pool",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Grave_Clobberbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506212426",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Grave_Clobberbasicupgrade4.png/revision/latest?cb=20170506212426",
         "content": "Send a wave out with each Big Splash.",
         "is_primary": false,
         "is_secondary": false,
@@ -243,7 +271,7 @@
     "soulgems": [
       {
         "name": "Poseidon Lariat",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/90/Grave_Clobbersoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506212432",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/90/Grave_Clobbersoulgempower.png/revision/latest?cb=20170506212432",
         "content": "After any Clobber Punch, hold Attack 1 to launch an upgraded Lariat.",
         "is_primary": false,
         "is_secondary": false,
@@ -258,7 +286,7 @@
       {
         "season": 1,
         "name": "Wave Clobber",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Grave_Clobberskychipower.png/revision/latest/scale-to-width-down/148?cb=20170506212439",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Grave_Clobberskychipower.png/revision/latest?cb=20170506212439",
         "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power! Use Left Stick to direct your fists of fury as waves pull enemies towards you.",
         "is_primary": false,
         "is_secondary": false,
@@ -275,7 +303,7 @@
         "abilities": [
           {
             "name": "Tsunami Punch",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Grave_Clobberpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506212707",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Grave_Clobberpath1upgrade1.png/revision/latest?cb=20170506212707",
             "content": "Clobber Punches do more damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -287,7 +315,7 @@
           },
           {
             "name": "Monsoon Boom",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2a/Grave_Clobberpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506212712",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2a/Grave_Clobberpath1upgrade2.png/revision/latest?cb=20170506212712",
             "content": "When you punch a Gator Geyser, it produces a watery explosion.",
             "is_primary": false,
             "is_secondary": false,
@@ -299,7 +327,7 @@
           },
           {
             "name": "Lucha Libre",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Grave_Clobberpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506212718",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Grave_Clobberpath1upgrade3.png/revision/latest?cb=20170506212718",
             "content": "After any Clobber Punch, hold Attack 2 to perform the Gatos Geyser Suplex or hold Attack 3 to perform the Top Rope Super Splash.",
             "is_primary": false,
             "is_secondary": false,
@@ -316,7 +344,7 @@
         "abilities": [
           {
             "name": "Geyser Undertow",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/39/Grave_Clobberpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506212724",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/39/Grave_Clobberpath2upgrade1.png/revision/latest?cb=20170506212724",
             "content": "While holding Attack 2 a whirlpool appears to pull enemies where your Gator Geyser will appear.",
             "is_primary": false,
             "is_secondary": false,
@@ -328,7 +356,7 @@
           },
           {
             "name": "The Greater Gator",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f0/Grave_Clobberpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506212731",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f0/Grave_Clobberpath2upgrade2.png/revision/latest?cb=20170506212731",
             "content": "Gator Geysers do more damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -340,7 +368,7 @@
           },
           {
             "name": "Wave Goodbye",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/79/Grave_Clobberpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506212736",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/79/Grave_Clobberpath2upgrade3.png/revision/latest?cb=20170506212736",
             "content": "Perform 3 quick Big Splashes to pull off the Ultimate Big Splash.",
             "is_primary": false,
             "is_secondary": false,
