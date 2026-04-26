@@ -10,7 +10,7 @@
     "Skylanders: Swap Force",
     "Skylanders: Lost Islands",
     "Skylanders: Trap Team",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
@@ -97,12 +97,12 @@
     {
       "name": "Skylanders Swap Force - Grilla Drilla Gameplay Vignette (If There's a Drill, There's a Way)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Grilla_Drilla_Gameplay_Vignette_(If_There%27s_a_Drill,_There%27s_a_Way)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Grilla_Drilla_Gameplay_Vignette_(If_There's_a_Drill,_There's_a_Way)"
     },
     {
       "name": "Skylanders Swap Force - Grilla Drilla Soul Gem Preview (If There's a Drill, There's a Way)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Grilla_Drilla_Soul_Gem_Preview_(If_There%27s_a_Drill,_There%27s_a_Way)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Grilla_Drilla_Soul_Gem_Preview_(If_There's_a_Drill,_There's_a_Way)"
     }
   ],
   "gameplay": "Grilla Drilla's primary combat style involves heavy punching and drill-based attacks, supported by the ability to summon monkey allies and plant coconut or banana turrets. In the 3DS version of Swap Force, his secondary attack is to throw barrels similar to Donkey Kong. His stats are focused on balanced power and health, with starting Health at 290 and Speed at 43.",
@@ -392,6 +392,44 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Grilla_Drilla"
+    },
+    {
+      "id": "builda-grilla-drilla",
+      "variant_name": "Builda Grilla Drilla",
+      "edition": "Alter Ego",
+      "type": "SWAP Force",
+      "game": "Skylanders: Lost Islands",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Grilla_Drilla_Promo_Art.jpg",
+      "attacks": [
+        "Punchy Monkey",
+        "Planted Turret",
+        "Monkey Call",
+        "Explosive Growth",
+        "Silverback"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (max. 580)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "4 (max. 54)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Builda_Grilla_Drilla"
     }
   ]
 }
