@@ -19,7 +19,7 @@
   "personality": "Grill Master Chop Chop is ready to get cooking in the Skylands!",
   "story": [
     {
-      "story_name": "Ingame Description",
+      "story_name": "Grill Master Chop Chop",
       "content": "Grill Master Chop Chop is the chef version of Chop Chop in Skylanders: Lost Islands. He was available only in the month of August 2013.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Grill_Master_Chop_Chop_Promo.jpg/revision/latest?cb=20130803002205"
@@ -27,7 +27,7 @@
   ],
   "quotes": [
     {
-      "quote_type": "Ingame description",
+      "quote_type": "Grill Master Chop Chop's ingame description",
       "content": [
         "Grill Master Chop Chop is ready to get cooking in the Skylands!"
       ]
@@ -38,7 +38,7 @@
     "Coincidentally, the first Legendary variant of the Undead element was also a version of Chop Chop."
   ],
   "trailers": [],
-  "gameplay": "Grill Master Chop Chop does not have a unique move set listed, as he is an Alter Ego variant specifically for the mobile game Skylanders: Lost Islands.",
+  "gameplay": "Grill Master Chop Chop is an Alter Ego variant for Skylanders: Lost Islands and does not have any unique attacks or move sets.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Grill_Master_Chop_Chop",
   "abilities": {
     "basic": [],
