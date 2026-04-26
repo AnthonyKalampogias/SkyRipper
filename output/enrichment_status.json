@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-25T21:06:28.437Z",
+  "last_run": "2026-04-26T03:06:06.256Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -496,6 +496,10 @@
     {
       "name": "Free Ranger",
       "sha": "1ade42693e35f2288d302773a3b0e89ba7a74b9c1e910e1d41ac122ecb22f692"
+    },
+    {
+      "name": "Freeze Blade",
+      "sha": "3a3a276f475ca19c7343c062e21d9c7bcdca3e61c9099450f5ece1f0d045fc3c"
     }
   ]
 }
