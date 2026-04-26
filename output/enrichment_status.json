@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-26T09:35:04.910Z",
+  "last_run": "2026-04-26T15:14:24.029Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -572,6 +572,30 @@
     {
       "name": "Grim Creeper",
       "sha": "268f67d8195b8bdfea1d8e2f889f58350f502697aa49987a88d5c71140839bfc"
+    },
+    {
+      "name": "Gusto",
+      "sha": "04c759680ff6c1810142eed3c8548a4153955586b2052d514d6b05fa55c26ddc"
+    },
+    {
+      "name": "Hallows' Eve Hex",
+      "sha": "a4da5e76c20e4367205ded88320836097beff605246b5152d0b65ce3caa181e2"
+    },
+    {
+      "name": "Hammer Slam Bowser",
+      "sha": "15bbf9d97855b06ddad86edb6de485f1f177cf1ab035f28d7621dfc434e0735d"
+    },
+    {
+      "name": "Hard-Boiled Flare Wolf",
+      "sha": "0c02cfefb3cfb60dd3510cc286b39b30f74ddac1d94bd3fe188c617b68f6d040"
+    },
+    {
+      "name": "Head Rush",
+      "sha": "a93b91d5ceacaa59bef71ddf2a1a2ed92f4a7de8cf69df8cca66534c96c16db1"
+    },
+    {
+      "name": "Heartbreaker Buckshot",
+      "sha": "a05e1e6cbe1c0777922bc73cc2bf91870e74c9de2c2c9272955de97d0535ab2a"
     }
   ]
 }
