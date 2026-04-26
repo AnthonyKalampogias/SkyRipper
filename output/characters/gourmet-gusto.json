@@ -1,7 +1,7 @@
 {
   "id": "gourmet-gusto",
   "name": "Gourmet Gusto",
-  "species": "Cloud Creature",
+  "species": "Unknown",
   "gender": "Male",
   "element": "Air",
   "role": "Trap Master",
@@ -13,24 +13,31 @@
   "world": [
     "Thunderclap Kingdom"
   ],
-  "description": "Gourmet Gusto is a chef-themed variant of the Air Trap Master Gusto, created exclusively for the mobile game Skylanders: Lost Islands.",
-  "biography": "Gourmet Gusto appeared in May 2015 as a special addition to the Lost Islands. Trading his usual hunting gear for a chef's hat and apron, he brings a culinary flair to the Skylands, proving that even a Trap Master can appreciate the finer points of gourmet cooking.",
+  "description": "Gourmet Gusto is the chef counterpart of Gusto in Skylanders: Lost Islands.",
+  "biography": "Gourmet Gusto is the chef counterpart of Gusto in Skylanders: Lost Islands. He was first released in May 2015 and is recognized as the last Skylander exclusive to the mobile game.",
   "quote": "Gourmet Gusto is bringing some flavor to the Lost Islands!",
-  "personality": "Gourmet Gusto is a jovial and enthusiastic chef. He shares the boisterous and friendly nature of the original Gusto, but redirected toward his passion for food and culinary arts.",
-  "story": [],
+  "personality": "While not explicitly detailed in lore, his role as a 'Gourmet' chef counterpart to Gusto suggests a passion for culinary arts and bringing 'flavor' to the Skylands.",
+  "story": [
+    {
+      "story_name": "Gourmet Gusto",
+      "content": "Gourmet Gusto is the chef counterpart of Gusto in Skylanders: Lost Islands. He was first released in May 2015 and is the final Skylander to be exclusive to the Lost Islands title.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/db/Gourmet_Gusto.PNG/revision/latest?cb=20150501124811"
+    }
+  ],
   "quotes": [
     {
-      "quote_type": "Game Description",
+      "quote_type": "Game description",
       "content": [
         "Gourmet Gusto is bringing some flavor to the Lost Islands!"
       ]
     }
   ],
   "trivia": [
-    "Gourmet Gusto is the last Skylander exclusive to the mobile game Skylanders: Lost Islands."
+    "Gourmet Gusto is the last Skylander exclusive to Lost Islands."
   ],
   "trailers": [],
-  "gameplay": "In Skylanders: Lost Islands, Gourmet Gusto functions as a playable hero who can be assigned to various tasks on the player's islands to earn gold and experience. Like other Trap Masters in the game, he provides specific elemental bonuses.",
+  "gameplay": "In Skylanders: Lost Islands, Gourmet Gusto acts as a playable hero. Like other Alter Egos, he can be used to perform tasks and provide elemental bonuses within the game.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Gourmet_Gusto",
   "abilities": {
     "basic": [],
@@ -41,12 +48,12 @@
   },
   "variants": [
     {
-      "id": "gourmet-gusto-variant",
+      "id": "gourmet-gusto-s1",
       "variant_name": "Gourmet Gusto",
       "edition": "Special",
       "type": "Trap Master",
       "game": "Skylanders: Lost Islands",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/d/db/Gourmet_Gusto.PNG",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/db/Gourmet_Gusto.PNG/revision/latest?cb=20150501124811",
       "attacks": [],
       "stats": [
         {
