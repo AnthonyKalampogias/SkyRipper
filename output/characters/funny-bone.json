@@ -16,7 +16,7 @@
   "world": [
     "Punch Line Island"
   ],
-  "description": "Funny Bone is a Skeleton dog who is one of the Undead core Skylanders in Skylanders: Trap Team.",
+  "description": "Funny Bone is a Skeleton dog who is one of the Undead core Skylanders in Skylanders: Trap Team. He has a St. Patrick's Day themed variant called Fortune Funny Bone.",
   "biography": "Funny Bone once lived on Punch Line Island – the funniest place in the Land of the Undead and home of the Eternal Chuckling Trees that magically make everyone laugh when the breeze tickles them. But after hearing stories of this, the evil Count Moneybone sent his minions to investigate if this magic could be used to make a 'Funny Bomb' that would render Skylands helpless with laughter. Funny Bone was in the middle of burying his neighbors' birthday cake on a breezeless day when the invaders arrived. Seeing their large axes, Funny Bone instantly knew that the Chuckling Trees were in danger. Without hesitation, he sprang into action, fighting off the minions and driving them from his humorous home. Now as a Skylander, Funny Bone delivers his own punch line to evil!",
   "quote": "I Have a Bone to Pick!",
   "personality": "Funny Bone is very protective. He always knows when danger's afoot. How does he know? Well, let's just say he gets a funny feeling about it.",
@@ -51,7 +51,11 @@
         "Spin spot!",
         "Beware of dog!",
         "Walking the dog!",
-        "All bark and all bite!"
+        "All bark and all bite!",
+        "Back in action!",
+        "Yes!",
+        "No brakes!",
+        "Top dog!"
       ]
     },
     {
@@ -108,7 +112,7 @@
     {
       "name": "Skylanders Trap Team - Funny Bone's Soul Gem Preview (I Have A Bone To Pick)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Funny_Bone%27s_Soul_Gem_Preview_(I_Have_A_Bone_To_Pick)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Funny_Bone's_Soul_Gem_Preview_(I_Have_A_Bone_To_Pick)"
     },
     {
       "name": "Skylanders Power Play- Funny Bone",
@@ -122,7 +126,7 @@
     "basic": [
       {
         "name": "Flying Bone Disc",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Funny_Boneprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506170933",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Funny_Boneprimarypower.png/revision/latest?cb=20170506170933",
         "content": "Press Attack 1 to shoot a Flying Bone Disc.",
         "is_primary": true,
         "is_secondary": false,
@@ -134,7 +138,7 @@
       },
       {
         "name": "Bone Saw",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/Funny_Bonesecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170506170938",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/Funny_Bonesecondarypower.png/revision/latest?cb=20170506170938",
         "content": "Press Attack 2 to dash forward and slice enemies.",
         "is_primary": false,
         "is_secondary": true,
@@ -148,7 +152,7 @@
     "basic_upgrades": [
       {
         "name": "Bone Paws",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Funny_Bonebasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506170947",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Funny_Bonebasicupgrade1.png/revision/latest?cb=20170506170947",
         "content": "Press Attack 3 to raise Bone Paws from the ground which attack enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -160,7 +164,7 @@
       },
       {
         "name": "Disc Demon",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/23/Funny_Bonebasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506170954",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/23/Funny_Bonebasicupgrade2.png/revision/latest?cb=20170506170954",
         "content": "Flying Bone Disc does extra damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -172,7 +176,7 @@
       },
       {
         "name": "Ferocious Fetch",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Funny_Bonebasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506171001",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Funny_Bonebasicupgrade3.png/revision/latest?cb=20170506171001",
         "content": "Press and hold Attack 1 to chase after the Flying Bone Disc and release to fetch it.",
         "is_primary": false,
         "is_secondary": false,
@@ -184,7 +188,7 @@
       },
       {
         "name": "Bump Up the Blades",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2e/Funny_Bonebasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506171010",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2e/Funny_Bonebasicupgrade4.png/revision/latest?cb=20170506171010",
         "content": "Press and hold Attack 2 to charge a Bone Saw.",
         "is_primary": false,
         "is_secondary": false,
@@ -198,7 +202,7 @@
     "soulgems": [
       {
         "name": "Healing Paws",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Funny_Bonesoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506171018",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Funny_Bonesoulgempower.png/revision/latest?cb=20170506171018",
         "content": "Bone Paws pet Funny Bone to heal him.",
         "is_primary": false,
         "is_secondary": false,
@@ -216,7 +220,7 @@
         "abilities": [
           {
             "name": "Supercharged Saw",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Funny_Bonepath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506171615",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Funny_Bonepath1upgrade1.png/revision/latest?cb=20170506171615",
             "content": "Press and hold Attack 2 to supercharge the Bone Saw.",
             "is_primary": false,
             "is_secondary": false,
@@ -228,7 +232,7 @@
           },
           {
             "name": "Bone Paw Power",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Funny_Bonepath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506171620",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Funny_Bonepath1upgrade2.png/revision/latest?cb=20170506171620",
             "content": "Dash towards a Bone Paw to supercharge the Bone Saw.",
             "is_primary": false,
             "is_secondary": false,
@@ -240,7 +244,7 @@
           },
           {
             "name": "Head Case",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Funny_Bonepath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506171625",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Funny_Bonepath1upgrade3.png/revision/latest?cb=20170506171625",
             "content": "Press and hold Attack 3 to summon a ghostly skull to devour enemies during the Bone Saw attack.",
             "is_primary": false,
             "is_secondary": false,
@@ -257,7 +261,7 @@
         "abilities": [
           {
             "name": "Flying Bone Doom",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Funny_Bonepath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506171630",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Funny_Bonepath2upgrade1.png/revision/latest?cb=20170506171630",
             "content": "Flying Bone Discs now explode and do additional damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -269,7 +273,7 @@
           },
           {
             "name": "Ultimate FBD",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Funny_Bonepath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506171635",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Funny_Bonepath2upgrade2.png/revision/latest?cb=20170506171635",
             "content": "Flying Bone Disc Slam affects a larger area.",
             "is_primary": false,
             "is_secondary": false,
@@ -281,7 +285,7 @@
           },
           {
             "name": "Play Catch",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Funny_Bonepath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506171640",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Funny_Bonepath2upgrade3.png/revision/latest?cb=20170506171640",
             "content": "Hit a Bone Paw with a Flying Bone Disc to play catch with other paws.",
             "is_primary": false,
             "is_secondary": false,
@@ -297,7 +301,7 @@
   },
   "variants": [
     {
-      "id": "funny-bone",
+      "id": "funny-bone-s1",
       "variant_name": "Funny Bone",
       "edition": "Series 1",
       "type": "Core",
@@ -330,9 +334,63 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "46 (max. 96)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "160"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "30"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Funny_Bone"
+    },
+    {
+      "id": "fortune-funny-bone",
+      "variant_name": "Fortune Funny Bone",
+      "edition": "St. Patrick's Day",
+      "type": "Alter Ego",
+      "game": "Skylanders: Lost Islands",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/24/Funny_Bone.png/revision/latest?cb=20171116075227",
+      "attacks": [
+        "Bone Saw",
+        "Flying Bone Disc",
+        "Bone Paws",
+        "Supercharged Saw",
+        "Flying Bone Doom"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 (max. 118)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "20 (max. 70)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46 (max. 96)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Fortune_Funny_Bone"
     }
   ]
 }
