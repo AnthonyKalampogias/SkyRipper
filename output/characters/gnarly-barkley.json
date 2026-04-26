@@ -4,7 +4,7 @@
   "species": "Ent",
   "gender": "Male",
   "element": "Life",
-  "role": "Mini",
+  "role": "Sidekick / Mini",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team",
@@ -16,14 +16,14 @@
   "world": [
     "Skylands Miniverse"
   ],
-  "description": "Gnarly Barkley is a blue-tinted variant of the Life Mini, Barkley. He made his debut in Skylanders: Trap Team and shares the move set of his larger counterpart, Tree Rex.",
-  "biography": "Gnarly Barkley is the blue counterpart of the Life Mini, Barkley, in Skylanders: Trap Team. He is the only Mini variant to be based of a variant for his regular sized counterpart, Gnarly Tree Rex.",
+  "description": "Gnarly Barkley is the blue counterpart of the Life Mini, Barkley, in Skylanders: Trap Team.",
+  "biography": "Gnarly Barkley is the blue counterpart of the Life Mini, Barkley, in Skylanders: Trap Team.",
   "quote": "Be Afraid Of The Bark!",
   "personality": "Gnarly Barkley is feisty and determined, embodying the strength of the forest in a miniature but powerful form.",
   "story": [
     {
       "story_name": "Background",
-      "content": "Gnarly Barkley is the blue counterpart of the Life Mini, Barkley, in Skylanders: Trap Team. He represents a unique variant in the Miniverse, appearing with a distinct blue bark color scheme similar to the Giant, Gnarly Tree Rex.",
+      "content": "Gnarly Barkley is the blue counterpart of the Life Mini, Barkley, in Skylanders: Trap Team.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/90/GnarlyBarkleyArtwork.png"
     }
