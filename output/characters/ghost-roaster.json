@@ -19,7 +19,17 @@
     "Secret Agent Secrets",
     "Skylanders: Imaginators"
   ],
-  "cameos": [],
+  "cameos": [
+    "Hex",
+    "Sonic Boom",
+    "Voodood",
+    "Boomer",
+    "Spitfire",
+    "Stormblade",
+    "Nightfall",
+    "Buzz",
+    "Spellslamzer"
+  ],
   "world": [
     "Skylands"
   ],
@@ -67,13 +77,13 @@
     }
   ],
   "trivia": [
-    "He is one of the very few Skylanders who had a Proper Name before becoming a Skylander.",
+    "He is one of the very few Skylanders who had a Proper Name before becoming a Skylander (Olav).",
     "Ghost Roaster's catchphrase 'No Chain, No Gain' is a joke on the saying 'No Pain, No Gain'.",
     "He is the first Skylander that has an upgrade that decreases his health slightly.",
-    "Therefore, he is also the first who can get knocked out in the hub worlds of the Skylanders series.",
+    "Therefore, he is also the first who can get knocked out in the hub worlds of the Skylanders series. Since Imaginators, he, High Five and Knight Imaginators can drain their own health, but Ghost Roaster is the only one who can be defeated doing so.",
     "Like Pac Man, Ghost Roaster eats ghosts. His Skull Charge is a very obvious reference to Pac Man.",
-    "Ghost Roaster is voiced by John Kassir, best known as the voice of the Cryptkeeper in Tales from the Crypt. Both characters also have Undead traits.",
-    "His name may have been a reference to Marvel's Ghost Rider.",
+    "Ghost Roaster is voiced by John Kassir, best known as the voice of the Cryptkeeper in Tales from the Crypt. He also provides the vocal effects for Elliott in the 2016 adaptation of Pete's Dragon and voices Rizzo, Short Cut, and Spellslamzer.",
+    "His name may have been a reference to Marvel's Ghost Rider or the Ghostbusters franchise.",
     "Ghost Roaster was originally called Ghost Eater.",
     "There is a glitch in Swap Force where if you jump while in Ectoplasm Mode, Ghost Roaster's chain becomes transparent until he enters Ectoplasm Mode again.",
     "He, Bash, and Bop both have spikeballs attached to them.",
@@ -82,6 +92,7 @@
     "He and Smash Hit have spiked balls at the end of their chains.",
     "A skin texture map of Ghost Roaster was leaked in the 1.0 version of Skylanders: Ring of Heroes, but he never appeared in the final game.",
     "If Ghost Roaster is interrupted by a dialogue scene or cinematic while using Skull Charge in the Xbox 360 version of Spyro's Adventure, he will revert to his normal form but float gradually forward in the direction that he's facing.",
+    "In Trap Team he is the only character who doesn't laugh after the player puts a trinket on him.",
     "The collectable skulls that appear in the Tech Gate maze of Cadaverous Crypt and the Undead Gate of Empire of Ice are modeled off Ghost Roaster's skull, with rubies for eyes."
   ],
   "trailers": [
@@ -93,17 +104,17 @@
     {
       "name": "Skylanders Spyro's Adventure - Ghost Roaster Trailer (No Chain, No Gain)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Ghost_Roaster_Trailer_(No_Chain,_No_Gain)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_-_Ghost_Roaster_Trailer_(No_Chain,_No_Gain)"
     },
     {
       "name": "Skylanders Spyro's Adventure - Ghost Roaster Preview Trailer (No Chain, No Gain)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Ghost_Roaster_Preview_Trailer_(No_Chain,_No_Gain)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_-_Ghost_Roaster_Preview_Trailer_(No_Chain,_No_Gain)"
     },
     {
       "name": "Skylanders Giants - Ghost Roaster's Soul Gem Preview (No Chain, No Gain)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Ghost_Roaster%27s_Soul_Gem_Preview_(No_Chain,_No_Gain)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Ghost_Roaster's_Soul_Gem_Preview_(No_Chain,_No_Gain)"
     }
   ],
   "gameplay": "Being a ghoul, Ghost Roaster can turn intangible to avoid enemy attacks, at the cost of his health, before returning to physical form to attack his opponents. He can also turn into a large flaming and speeding skull, and strikes his enemies using his spiked ball tail.",
@@ -292,7 +303,7 @@
       "edition": "Series 1",
       "type": "Core Skylander",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Ghost_Roaster.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Ghost_Roaster.jpg/revision/latest?cb=20120921212240",
       "attacks": [
         "Chain Whip",
         "Skull Charge",
