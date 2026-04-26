@@ -4,21 +4,22 @@
   "species": "Ent",
   "gender": "Male",
   "element": "Life",
-  "role": "Skylander Giant",
+  "role": "Skylander",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
     "Skylanders: Swap Force",
     "Skylanders: Trap Team",
-    "Skylanders: SuperChargers",
+    "Skylanders: Lost Islands",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
   "cameos": [],
   "world": [
     "Skylands"
   ],
-  "description": "Gnarly Tree Rex is a blue variant of the Life Giant, Tree Rex. He was originally released as part of special console bundles for the PlayStation 3 and Nintendo Wii before receiving a standalone release.",
-  "biography": "Long before the Giants protected Skylands, Tree Rex was a majestic tree living in the ancient woods. But when the Arkeyans built a factory nearby to forge their mechanical war machines, the pollution from the factory began to seep into the soil and transform Tree Rex into something else. He grew into a massive, walking engine of destruction with the strength of a forest. While some were afraid of him, Tree Rex used his great power to fight against the Arkeyans and protect Skylands.",
+  "description": "Gnarly Tree Rex is a blue counterpart of the giant, Tree Rex. He was only available in the Starter and Portal Owners pack for the Super Slim PlayStation 3 and in a special Blue Wii bundle in America. He was later available in a single pack starting August of 2013.",
+  "biography": "Gnarly Tree Rex is a blue counterpart of the giant, Tree Rex. Long before the Giants protected Skylands, Tree Rex was a majestic tree living in the ancient woods. But when the Arkeyans built a factory nearby to forge their mechanical war machines, the pollution from the factory began to seep into the soil and transform Tree Rex into something else. He grew into a massive, walking engine of destruction with the strength of a forest. While some were afraid of him, Tree Rex used his great power to fight against the Arkeyans and protect Skylands.",
   "quote": "Be Afraid of the Bark!",
   "personality": "Tree Rex is a noble and powerful giant who takes his role as a protector of Skylands very seriously. Despite his intimidating size and bark-like exterior, he is a dedicated defender of nature and a steadfast ally to the Skylanders.",
   "story": [
@@ -31,26 +32,18 @@
   ],
   "quotes": [
     {
-      "quote_type": "Catchphrase",
+      "quote_type": "Official Catchphrase",
       "content": [
         "Be Afraid of the Bark!"
-      ]
-    },
-    {
-      "quote_type": "Level Up",
-      "content": [
-        "Growing stronger!",
-        "I am branching out!"
       ]
     }
   ],
   "trivia": [
     "Gnarly Tree Rex has the same colors as legendary Skylanders, albeit with a more vibrant shade of blue.",
-    "In Giants, his eyes glow green much like his figure form. However, in Swap Force and Trap Team, his eyes glow blue like his original counterpart.",
-    "He was originally exclusive to the Blue Wii bundle and the PlayStation 3 Super Slim bundle."
+    "In Giants, his eyes glow green much like his figure form. However, in Swap Force and Trap Team, his eyes glow blue like his original counterpart."
   ],
   "trailers": [],
-  "gameplay": "As a Giant, Tree Rex is slow but possesses immense strength. He uses powerful punches and light-based projectiles to defeat enemies. He can also perform 'Feats of Strength' to interact with the environment, such as lifting boulders or pulling islands together.",
+  "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games: Health: 430 (max. 860), Speed: 20 (max. 68), Armor: 24 (max. 54), Critical Hit: 40 (max. 90), Elemental Power: 25 (max. 75). As a Giant, Tree Rex is slow but possesses immense strength. He uses powerful punches and light-based projectiles to defeat enemies. He can also perform 'Feats of Strength' to interact with the environment, such as lifting boulders or pulling islands together.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Gnarly_Tree_Rex",
   "abilities": {
     "basic": [
@@ -93,7 +86,7 @@
         }
       },
       {
-        "name": "Shockwave Slam",
+        "name": "Big Thorn Shockwave Slam",
         "imgPath": "shockwave_slam.png",
         "content": "Arbor Smash now creates a shockwave that deals extra damage.",
         "is_primary": true,
@@ -161,28 +154,34 @@
       "edition": "Special Edition",
       "type": "Giant",
       "game": "Skylanders: Giants",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/GnarlyTreeRexPromo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c7/GnarlyTreeRexPromo.jpg/revision/latest?cb=20121101161125",
       "attacks": [
         "Arbor Smash",
         "Sequoia Charge",
-        "Photosynthesis Cannon"
+        "Big Thorn Shockwave Slam",
+        "Photosynthesis Cannon",
+        "Super Stampede"
       ],
       "stats": [
         {
-          "stat_name": "Strength",
-          "stat_value": "140"
+          "stat_name": "Health",
+          "stat_value": "430 (max. 860)"
         },
         {
-          "stat_name": "Defense",
-          "stat_value": "130"
+          "stat_name": "Speed",
+          "stat_value": "20 (max. 68)"
         },
         {
-          "stat_name": "Agility",
-          "stat_value": "55"
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
         },
         {
-          "stat_name": "Luck",
-          "stat_value": "55"
+          "stat_name": "Critical Hit",
+          "stat_value": "40 (max. 90)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Gnarly_Tree_Rex"
