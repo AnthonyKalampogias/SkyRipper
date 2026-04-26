@@ -20,7 +20,7 @@
   "world": [
     "Skylands"
   ],
-  "description": "Fryno is an orange Firey Biker Rhinoceros in Skylanders: Swap Force. His Series 2 counterpart from Trap Team is named Hog Wild Fryno. He also has a summer counterpart called Flip-Flop Fryno who was available in Skylanders : Lost Islands in August 2014. Fryno is a small rhino, with orange skin, no snout, brown (or red, when heated) eyes and a wide square mouth with two pointed teeth sticking up from his lower lip, and flatter teeth inside.",
+  "description": "Fryno is an orange Firey Biker Rhinoceros in Skylanders: Swap Force. His Series 2 counterpart from Trap Team is named Hog Wild Fryno. He also has a summer counterpart called Flip-Flop Fryno who was available in Skylanders : Lost Islands in August 2014. Fryno is a small rhino, with orange skin, no snout, brown (or red, when heated) eyes and a wide square mouth with two pointed teeth sticking up from his lower lip, and flatter teeth inside. He also has short stumpy legs and feet, with two big toes, each protected by hard white hooves. On his head, he wears a black and gold helmet, with his ears and one long horn sticking out from the top. He also wears a grey/black bikesuit containing a biker coat, with a black shirt underneath, and grey/black pants with a gold belt buckle. He even wears metal heat-resistant gloves on his hands that turn red hot when heated. When he's upgraded, his coat contains the fire element logo on the back.",
   "biography": "Fryno was once a member of the notorious Blazing Biker Brigade and spent most of his youth riding around Skylands with the rest of his crew. But what Fryno did not realize was that, while he enjoyed a life of freedom and adventure, his crew was responsible for acts of burglary throughout Skylands. When Fryno discovered that he had been riding around with a bunch of villains, he burned with rage and demanded that they make amends for the wrong they had done. This resulted in an epic fight, which Fryno won, and the disbanding of the Blazing Biker Brigade. Fryno was in the midst of returning the valuables his crew had stolen when he met Master Eon, who was impressed with his good character and fighting abilities, and offered him a membership to a new crew -- the Skylanders.",
   "quote": "Crash and Burn!",
   "personality": "Fryno is hot on honesty. In fact, liars and cheats make him flaming mad! Being a firey rhino, he possesses a short temper, but is trying to keep his anger in check.",
@@ -44,30 +44,30 @@
         "\"Red hot!\"",
         "\"Burn to be wild!\"",
         "\"Oh Yeah!\"",
-        "\"Fry it up!\"",
-        "\"Here I go!\"",
+        "\"Fry it up!\" - bounce pad",
+        "\"Here I go!\" - bounce pad",
         "\"The horn with scorn!\"",
         "\"Heh, heh, heh!\"",
         "\"Ho, ho, ha, ha, ha!\"",
-        "\"All mine!\"",
-        "\"Yeah! Just for me!\"",
-        "\"Makin' tracks!\"",
-        "\"Looks like a real hotspot!\"",
-        "\"Charging through!\"",
-        "\"Full tank!\"",
-        "\"Fired up!\"",
-        "\"I even impress myself!\"",
-        "\"I'm no small fry!\"",
-        "\"Not really a hat guy, but I'll take it!\"",
+        "\"All mine!\" - treasure",
+        "\"Yeah! Just for me!\" - treasure",
+        "\"Makin' tracks!\" - gate",
+        "\"Looks like a real hotspot!\" - gate",
+        "\"Charging through!\" - gate",
+        "\"Full tank!\" - level up",
+        "\"Fired up!\" - level up",
+        "\"I even impress myself!\" - stats",
+        "\"I'm no small fry!\" - stats",
+        "\"Not really a hat guy, but I'll take it!\" - hat",
         "\"Just don't mess up my horn!\"",
-        "\"Call me whatcha want, I got thick skin!\"",
+        "\"Call me whatcha want, I got thick skin!\" - nickname",
         "\"Yeah, ooookay, sure!\""
       ]
     },
     {
       "quote_type": "Media Quotes",
       "content": [
-        "\"You know, I've been doing the techniques like you said.\"",
+        "\"You know, I've been doing the techniques like you said.\" Skylanders Shortcut - Fryno",
         "\"I even got into some recreation time with friends.\"",
         "\"If I had to pick a number, I'd say a strong... seven?\""
       ]
@@ -75,32 +75,24 @@
   ],
   "trivia": [
     "Fryno was considered for the SuperChargers character lineup at some point in development of Skylanders: SuperChargers.",
-    "Fryno's name is a combination of \"fry\" and \"rhino.\"",
-    "Fryno bears a resemblance to Rhino from Marvel.",
-    "Fryno, along with Gorm and Tuk are three of the few characters in Skylanders who are pachyderms.",
-    "Fryno is the only pachyderm to be a Skylander.",
-    "One of the names of Fryno's upgrade paths is called Brawler, which is also the name of one of Terrafin's upgrade paths. This would later become the name of a Sensei Battle Class in Skylanders: Imaginators.",
-    "According to his Short Cut, due to his short temper, Fryno goes to anger management lessons.",
-    "Fryno is one of the few Skylanders who uses a vehicle for an attack (others who do this include Sprocket and Hot Head). Both he and Hot Head are of the Fire element.",
-    "His Soul Gem power, \"Madness Maxed\", is a reference to the film series Mad Max.",
-    "His eyes are actually \"brown\" when he is calm or cool. But they will turn a \"firey red\" whenever he is mad or heated. His hands and horn will also turn a firey red colour when he's heated too.",
-    "Despite him smiling on his artworks and having a jolly chuckle or laugh, he's rarely ever seen smiling in gameplay.",
-    "He is one of the Skylanders who have Mini versions new to Trap Team. He is the first and only Skylander who first appeared in Swap Force to ever have a mini counterpart.",
-    "He, Eruptor and Fire Kraken share the same quote, that being \"Too hot to handle!\"",
-    "His tagline, \"Burn to be wild!\" is another Skylander's Catchphrase.",
-    "Fryno is voiced by Robert Cait.",
-    "His personality is very similar to Flame Princess from Adventure Time.",
-    "Fryno has some similarities to Yang Xiao-Long from RWBY. Both associated with fire, use punching combat, and are bikers.",
-    "If the player chooses the \"brawler\" path, simple upgrades will give him a \"firey aura\" around his body when he's heated.",
-    "If the player chooses the path, \"Fryno's Hot Shop\" he will ride a motorcycle forever when doing a charge attack.",
-    "Unlike a real rhino, Fryno only has 2 toes on each foot. He is also only 4 ft 7 inches tall.",
+    "Fryno's name is a combination of 'fry' and 'rhino.'",
+    "Fryno bears a resemblance to Rhino from Marvel. In the 'Ultimate Spider-Man' episode 'Return of the Sinister 6', Rhino had armor with a track allowing an attack similar to Fryno's 'The Horn and The Hog'.",
+    "Fryno, along with Gorm and Tuk are three of the few characters in Skylanders who are pachyderms. Fryno is the only pachyderm to be a Skylander.",
+    "One of the names of Fryno's upgrade paths is called Brawler, which is also the name of one of Terrafin's upgrade paths and later a Sensei Battle Class.",
+    "According to his Short Cut, Fryno goes to anger management lessons. In the commercial, there is an error where his left foot clips through the couch.",
+    "Fryno is one of the few Skylanders who uses a vehicle for an attack (others include Sprocket and Hot Head). Both he and Hot Head are Fire element.",
+    "His Soul Gem power, 'Madness Maxed', is a reference to the film series Mad Max.",
+    "His eyes are brown when calm but turn fiery red when mad or heated. His hands and horn also turn fiery red when heated.",
+    "Despite smiling in artwork, he's rarely seen smiling in gameplay.",
+    "He is the first and only Skylander first appearing in Swap Force to have a Mini version (Small Fry).",
+    "He, Eruptor and Fire Kraken share the quote 'Too hot to handle!'",
+    "His tagline 'Burn to be wild!' is another Skylander's Catchphrase (Fire Kraken).",
+    "Fryno is voiced by Robert Cait, who also voiced Colossus in X-Men and Norm the Genie in The Fairly Odd Parents.",
+    "His personality is similar to Flame Princess from Adventure Time and Yang Xiao-Long from RWBY.",
     "He is the only core Skylander from Swap Force to get a Series 2 in Trap Team.",
-    "Strangely, his Series 2 toy and artwork shows him with a new black biker outfit with spikes, but this doesn't occur in gameplay.",
-    "His Catchphrase (Crash And Burn) was actually a line in the lyrics of a song, (Sound Of Letting Go) by David Guetta.",
-    "Fryno's The Horn and The Hog attack makes him one of the fastest Skylanders in the series.",
-    "A skin texture map of Fryno was leaked in the 1.0 version of Skylanders: Ring of Heroes, but he never appeared in the final game.",
-    "In Skylanders: Swap Force, Fryno's blazing bike can launch him straight over gaps that would otherwise have to be jumped.",
-    "The classic 1993 dance hit, \"Maximum Overdrive\" from \"2 Unlimited\" seems to match Fryno's abilities perfectly."
+    "His Series 2 toy shows a new black biker outfit with spikes, but this change does not appear in gameplay.",
+    "His Catchphrase (Crash And Burn) is a lyric in the David Guetta song 'Sound Of Letting Go'.",
+    "A skin texture map of Fryno was leaked in the 1.0 version of Skylanders: Ring of Heroes, but he never appeared in the final game."
   ],
   "trailers": [
     {
@@ -134,13 +126,13 @@
       "url": "/wiki/File:Skylanders_Power_Play-_Hog_Wild_Fryno"
     }
   ],
-  "gameplay": "Speed and damage of punches is increased depending on heat. Fryno can smash the ground to increase his heat level. When heated, his speed and damage are increased, and he can summon a molten motorcycle to deal damage to nearby enemies. Using his soul gem ability, Madness Maxed, he can become even more heated.",
+  "gameplay": "Fryno utilizes a melee-focused combat style that revolves around punches and heat management. His Primary Ability, Brawl, allows him to punch enemies with increasing speed and damage as his heat level rises. His Secondary Ability, Heated, lets him smash the ground to manually increase his heat. Upgrades introduce a Molten Motorcycle for dashes and explosions. His soul gem, Madness Maxed, increases his maximum heat potential for even greater fury.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Fryno",
   "abilities": {
     "basic": [
       {
         "name": "Brawl",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/95/Frynoprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505003951",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/95/Frynoprimarypower.png/revision/latest?cb=20170505003951",
         "content": "Press Attack 1 to punch nearby enemies. Speed and damage of punches is increased depending on heat.",
         "is_primary": true,
         "is_secondary": false,
@@ -152,7 +144,7 @@
       },
       {
         "name": "Heated",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Frynosecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170505003956",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Frynosecondarypower.png/revision/latest?cb=20170505003956",
         "content": "Press Attack 2 repeatedly to smash the ground and increase heat level.",
         "is_primary": false,
         "is_secondary": true,
@@ -166,7 +158,7 @@
     "basic_upgrades": [
       {
         "name": "The Horn And The Hog",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/Frynobasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505004005",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/18/Frynobasicupgrade1.png/revision/latest?cb=20170505004005",
         "content": "Press Attack 3 to dash forward dashing damage to enemies in the way. When heated, Fryno jumps on a motorcycle to deal damage to nearby enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -178,7 +170,7 @@
       },
       {
         "name": "Built Tough",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Frynobasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505004010",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Frynobasicupgrade2.png/revision/latest?cb=20170505004010",
         "content": "Health is increased. Probably from punching the ground so much.",
         "is_primary": false,
         "is_secondary": false,
@@ -190,7 +182,7 @@
       },
       {
         "name": "Fired Up!",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Frynobasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505004015",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Frynobasicupgrade3.png/revision/latest?cb=20170505004015",
         "content": "Press Attack 2 repeatedly to throw a tantrum and become heated. Tantrums now have increased range and damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -202,7 +194,7 @@
       },
       {
         "name": "Molten Fury",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Frynobasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170505004020",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Frynobasicupgrade4.png/revision/latest?cb=20170505004020",
         "content": "All attacks do increased damage when heated.",
         "is_primary": false,
         "is_secondary": false,
@@ -216,7 +208,7 @@
     "soulgems": [
       {
         "name": "Madness Maxed",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Frynosoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170505004026",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Frynosoulgempower.png/revision/latest?cb=20170505004026",
         "content": "Press Attack 2 rapidly to make Fryno even more heated. So angry!",
         "is_primary": false,
         "is_secondary": false,
@@ -231,7 +223,7 @@
       {
         "season": 2,
         "name": "Burning Rubber",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Frynowowpowpower.png/revision/latest/scale-to-width-down/148?cb=20170505004653",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Frynowowpowpower.png/revision/latest?cb=20170505004653",
         "content": "While riding the motorcycle, hold Attack 2 to go into a power drift, blasting enemies with molten rocks.",
         "is_primary": false,
         "is_secondary": false,
@@ -248,7 +240,7 @@
         "abilities": [
           {
             "name": "Hot Hands",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Frynopath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505004358",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Frynopath1upgrade1.png/revision/latest?cb=20170505004358",
             "content": "Hold Attack 1 to rapidly punch nearby enemies and release heat.",
             "is_primary": false,
             "is_secondary": false,
@@ -260,7 +252,7 @@
           },
           {
             "name": "Spiked Up",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/13/Frynopath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505004403",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/13/Frynopath1upgrade2.png/revision/latest?cb=20170505004403",
             "content": "New metal gloves causes Hot Hands to do increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -272,7 +264,7 @@
           },
           {
             "name": "Temperature Tantrum",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Frynopath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505004409",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/Frynopath1upgrade3.png/revision/latest?cb=20170505004409",
             "content": "Nearby enemies take damage while Fryno is heated.",
             "is_primary": false,
             "is_secondary": false,
@@ -289,7 +281,7 @@
         "abilities": [
           {
             "name": "Born To Ride",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/67/Frynopath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505004415",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/67/Frynopath2upgrade1.png/revision/latest?cb=20170505004415",
             "content": "The Horn and The Hog will always summon a molten motorcycle.",
             "is_primary": false,
             "is_secondary": false,
@@ -301,7 +293,7 @@
           },
           {
             "name": "Hot Rod",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Frynopath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505004420",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Frynopath2upgrade2.png/revision/latest?cb=20170505004420",
             "content": "All attacks with the motorcycle do increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -313,7 +305,7 @@
           },
           {
             "name": "Crash And Burn",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Frynopath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505004427",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Frynopath2upgrade3.png/revision/latest?cb=20170505004427",
             "content": "Fryno throws the motorcycle at the end of a dash, causing a massive explosion that damages nearby enemies. Who's paying for that...?",
             "is_primary": false,
             "is_secondary": false,
