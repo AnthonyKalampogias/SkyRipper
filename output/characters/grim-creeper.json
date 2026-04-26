@@ -27,7 +27,7 @@
       "story_name": "Eruptor Meets the Nightmare King",
       "content": "For his first mission, Grim Creeper was assigned to help Eruptor and Slam Bam at The Frost Seas. After saving an exedition camp from a group of Cyclopses lead by Bloodshot, he and the two other Skylanders came upon a tunnel that lead to what remained of a frozen kingdom. Master Eon soon appeared and explained that the kingdom belonged to King Nefarion, a wicked being who terrorized Skylands with the Mask of Power. Suddenly, strange changes began to occur, as Kaos had made his way to the past and began changing history. Before their eyes, Professor Splinters morphed into a servant of Kaos, affected by the time change, and Master Eon quickly sent Grim Creeper, Eruptor and Slam Bam to the past to stop Kaos.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Grim_Creeper_Slam_Bam.jpg"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Grim_Creeper_Slam_Bam.jpg/revision/latest?cb=20150111095453"
     }
   ],
   "quotes": [
@@ -35,7 +35,7 @@
       "quote_type": "Battle Cries",
       "content": [
         "Your Time Is Up!",
-        "Time To cut and run!",
+        "Time To cut and run! - when transforming",
         "It's fright time!",
         "Taking off!",
         "The bell tolls for you!",
@@ -48,23 +48,23 @@
         "That's the spirit!",
         "Fear the creeper!",
         "Your fate has been sealed!",
-        "Ooo, A nice harvest!",
-        "I'll take it!",
-        "My spirit is lifted!",
-        "More power!",
-        "Read em and creep!",
-        "My stats are creeping up!",
-        "This hat can ruin my image.",
-        "Now that's a skull cap!",
-        "A frightfully good name!",
-        "I go by many names!"
+        "Ooo, A nice harvest! - treasure",
+        "I'll take it! - treasure",
+        "My spirit is lifted! - level up",
+        "More power! - level up",
+        "Read em and creep! - stats",
+        "My stats are creeping up! - stats",
+        "This hat can ruin my image. - given a hat",
+        "Now that's a skull cap! - given a hat",
+        "A frightfully good name! - nickname",
+        "I go by many names! - nickname"
       ]
     }
   ],
   "trivia": [
     "His name is a play on the name of the undead entity, 'Grim Reaper'.",
     "Both Grim Creeper and Hood Sickle are both based on the Grim Reaper.",
-    "He is the second Undead Skylander to have a ghostly ally while Cynder is the first.",
+    "He is the second Undead Skylander to have a ghostly ally while Cynder is the first. However, he must defeat an enemy in order to summon it. Also, killing a Chompy or a Chompy Pod won't summon ghostly allies.",
     "His abilities are similar to Ignitor as they can leave their suits.",
     "Grim Creeper is voiced by Lex Lang, best known as the current voice of Dr. Neo Cortex from Crash Bandicoot.",
     "When wearing a hat, and performing Ghost Form, the hat stays with his Ghost Form and not his Living Armor.",
@@ -72,7 +72,11 @@
     "If Grim Creeper chooses the Spooky Specter path, he is one of the Undead Skylanders with the ability to heal himself after attacking his enemies.",
     "Grim Creeper was orignally called 'Grimm Streaker'.",
     "His Ghost Form slightly resembles the ghosts from the Darklight Crypt level of the first game, including Machine Ghost from Skylanders: Giants.",
+    "Due to having a sky blue color, Grim Creeper's ghost form also resembles that of Malladus from Legend of Zelda: Spirit Tracks.",
     "His Soul Gem, Help From Beyond, adds a mist that follows him.",
+    "His regular figure form lacks black pupils within his blue eyes.",
+    "If you look really closely inside Grim Creeper's hood-like helmet, you'll notice a skull after he goes into Ghost Form. However, that only happens after all of his basic upgrades have been purchased.",
+    "He somewhat resembles the Nethers from Ratchet & Clank: Into the Nexus as he is a ghost that wears a dark suit of protective armor. Unlike the Nethers, he can survive without his armor.",
     "He is one of the few Undead Skylanders to have armor (others being Chop Chop, Eye-Brawl, and Krypt King)."
   ],
   "trailers": [
@@ -278,7 +282,7 @@
       "edition": "Series 1",
       "type": "Core",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Grim_Creeper_Promo_Art.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Grim_Creeper_Promo_Art.jpg/revision/latest?cb=20131019000545",
       "attacks": [
         "Scythe Swing",
         "Ghost Form",
@@ -312,7 +316,7 @@
       "edition": "LightCore",
       "type": "LightCore",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/2/21/Lightcore_Grim_Creeper.png",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/21/Lightcore_Grim_Creeper.png/revision/latest?cb=20190915164320",
       "attacks": [
         "Scythe Swing",
         "Ghost Form",
