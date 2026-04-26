@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-26T03:06:06.256Z",
+  "last_run": "2026-04-26T09:35:04.910Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -500,6 +500,78 @@
     {
       "name": "Freeze Blade",
       "sha": "3a3a276f475ca19c7343c062e21d9c7bcdca3e61c9099450f5ece1f0d045fc3c"
+    },
+    {
+      "name": "Fright Rider",
+      "sha": "c3db9067e8f1375b2019b557e23cabe56cb5e5b223b7e2cc9a2fa7b0ce33fd7a"
+    },
+    {
+      "name": "Frightful Fiesta",
+      "sha": "009bf33b6f21489fe2e0cd416ce28f7a353ca6a680796882a36a3c335b36acc0"
+    },
+    {
+      "name": "Frito-Lay Skylanders",
+      "sha": "44a8b0ba6035300c6245d47de6ae144c974031c42ccb2f51355150d859f6d91e"
+    },
+    {
+      "name": "Fryno",
+      "sha": "8c1020e548e683f060ffd88db288603a2be1003433cf14ca4aff65955210fa28"
+    },
+    {
+      "name": "Funny Bone",
+      "sha": "997de61b885cbe6876783e1298fe9da367b64529fd2a84922f9e0752afe7cec7"
+    },
+    {
+      "name": "Gearshift",
+      "sha": "61bdabf3bb812c13377708f33d4d008f312d6260133298c73a8eb43d01eed335"
+    },
+    {
+      "name": "Ghost Roaster",
+      "sha": "72b217397fd7550c5fc7d0ad011585ebcb701014785392fa2bfaf70a5a9efc47"
+    },
+    {
+      "name": "Giants",
+      "sha": "181a4a7b735dd9fb1428593fc7ce239fa6bcdac71d69d3531981ec509f9df8cc"
+    },
+    {
+      "name": "Gill Runt",
+      "sha": "a2c4ea6551f42dd2a6bf8a9e1778ccd63562d1b93c274d81c652299473c86946"
+    },
+    {
+      "name": "Gnarly Barkley",
+      "sha": "d5925acf6b1f867ec3635e33da309563cb7800033c762ca4188c07f03ba43248"
+    },
+    {
+      "name": "Gnarly Tree Rex",
+      "sha": "b76c05e92e1f93298548359fd812819118e58515b1acd0027adf7fad4b8d8952"
+    },
+    {
+      "name": "Golden Queen",
+      "sha": "5e453fd45fb80c10482dc4b33fb379ff1e13900f32abc805b8d39f4e816d29d5"
+    },
+    {
+      "name": "Gourmet Gusto",
+      "sha": "11f1109db2b04c84f7c0a664fc01e5a736436c0c4f448f54763996e7c7f7a736"
+    },
+    {
+      "name": "Granite Crusher",
+      "sha": "98a4e767d82bfcf1efc5125d6d4e8443c74dbdfb426a62a70d92d93f662888ef"
+    },
+    {
+      "name": "Grave Clobber",
+      "sha": "e9b1e8981884c6c0227a6018fb114d94b41762034d95222a5c7a0ee8f37bf478"
+    },
+    {
+      "name": "Grill Master Chop Chop",
+      "sha": "d48065e4dc76e9019beb89e2efcae0308474e04e4a93eb16a8c2cc79c76453a8"
+    },
+    {
+      "name": "Grilla Drilla",
+      "sha": "43128e1fa77b6f92fe2b8cd6f3591d0631694b56fa64fd52ed23aa6c4a28f775"
+    },
+    {
+      "name": "Grim Creeper",
+      "sha": "268f67d8195b8bdfea1d8e2f889f58350f502697aa49987a88d5c71140839bfc"
     }
   ]
 }
