@@ -13,21 +13,21 @@
   "world": [
     "Skylands"
   ],
-  "description": "Holiday Wash Buckler is a Christmas-themed variant of Wash Buckler appearing in Skylanders: Lost Islands.",
-  "biography": "Holiday Wash Buckler is a Christmas counterpart of Wash Buckler in Skylanders: Lost Islands. In December 2013, players could obtain him by playing Skylanders: Battlegrounds.",
+  "description": "Holiday Wash Buckler is a Christmas counterpart of Wash Buckler in Skylanders: Lost Islands.",
+  "biography": "Holiday Wash Buckler is a Christmas counterpart of Wash Buckler in Skylanders: Lost Islands. On December 2013 you would need to play Skylanders: Battlegrounds in order to get him.",
   "quote": "Here to spread the cheer is Holiday Wash Buckler!",
   "personality": "Not mentioned",
   "story": [
     {
       "story_name": "Biography",
-      "content": "Holiday Wash Buckler is a Christmas counterpart of Wash Buckler in Skylanders: Lost Islands. In December 2013, you would need to play Skylanders: Battlegrounds in order to get him.",
+      "content": "Holiday Wash Buckler is a Christmas counterpart of Wash Buckler in Skylanders: Lost Islands. On December 2013 you would need to play Skylanders: Battlegrounds in order to get him.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/HolidayWashBuckler.jpg/revision/latest?cb=20140704041631"
     }
   ],
   "quotes": [
     {
-      "quote_type": "Announcement",
+      "quote_type": "Holiday Wash Buckler's description",
       "content": [
         "Here to spread the cheer is Holiday Wash Buckler!"
       ]
@@ -39,7 +39,7 @@
     "Holiday Wash Buckler, Lucky Boomer, Hoppity Pop Fizz and Admiral Thumpback are the only Lost Islands exclusive Skylanders of 2013 without a specific house of their own."
   ],
   "trailers": [],
-  "gameplay": "As an Alter Ego in Skylanders: Lost Islands, Holiday Wash Buckler functions as a special collectible character that provides unique resource bonuses and can be sent on missions within the game.",
+  "gameplay": "Holiday Wash Buckler is an Alter Ego who appears in Skylanders: Lost Islands. To obtain him in December 2013, players were required to play Skylanders: Battlegrounds. As an Alter Ego, he features a unique holiday-themed appearance and specialized animations, such as his idle and poke animation.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Holiday_Wash_Buckler",
   "abilities": {
     "basic": [],
