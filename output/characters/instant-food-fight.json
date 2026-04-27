@@ -17,7 +17,7 @@
     "Skylands"
   ],
   "description": "Instant Food Fight was a digital version of Food Fight who was exclusive to the Tablet Starter Pack of Skylanders: Trap Team.",
-  "biography": "Instant Food Fight is a digital Life element Skylander who debuted in the Tablet version of Skylanders: Trap Team. He was provided as a digital-only character to allow players immediate access to gameplay without needing to place a physical figure on a portal, which was ideal for the mobile nature of tablet gaming.",
+  "biography": "Instant Food Fight was a digital version of Food Fight who was exclusive to the Tablet Starter Pack of Skylanders: Trap Team. Voiced by Billy West, he was provided as a digital-only character to allow players immediate access to gameplay without needing to place a physical figure on a portal, which was ideal for the mobile nature of tablet gaming.",
   "quote": "Eat This!",
   "personality": "Determined and pugnacious, Instant Food Fight shares the personality of the original Food Fight, using his produce-based weaponry with zeal and energy.",
   "story": [
@@ -30,18 +30,15 @@
   ],
   "quotes": [
     {
-      "quote_type": "Battle Cries",
+      "quote_type": "Official catchphrase",
       "content": [
-        "Eat This!",
-        "Tomato-ed!",
-        "Veggie Power!"
+        "Eat This!"
       ]
     }
   ],
   "trivia": [
-    "Loading Instant Food Fight on the console versions of Skylanders: Trap Team will hang on the element indefinitely.",
-    "In both Skylanders: SuperChargers and Skylanders: Imaginators he scans in as 'Food Fight Special' and can be added to the collection as a separate Skylander.",
-    "His internal name used in game files is 'Virtual Food Fight'."
+    "Loading Instant Food Fight on the console versions of Skylanders: Trap Team will hang on the element indefinitely. If he was to load, he would be named 'Virtual Food Fight' instead, the internal name for instant variants.",
+    "In both Skylanders: SuperChargers and Skylanders: Imaginators he scans in as 'Food Fight Special' and can be added to the collection as a separate Skylander."
   ],
   "trailers": [],
   "gameplay": "Instant Food Fight plays identically to the standard Food Fight, utilizing a tomato launcher and artichoke-based traps to control the battlefield.",
@@ -129,11 +126,13 @@
       "edition": "Digital",
       "type": "Instant",
       "game": "Skylanders: Trap Team",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Instant_Food_Fight_Artwork.png",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Instant_Food_Fight_Artwork.png/revision/latest?cb=20170303181311",
       "attacks": [
         "Tomato Launcher",
         "Blooms of Doom",
-        "Extra-Ripe Tomatoes"
+        "Extra-Ripe Tomatoes",
+        "Heavy Harvest",
+        "Special Squash"
       ],
       "stats": [
         {
