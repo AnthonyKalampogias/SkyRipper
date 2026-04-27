@@ -22,7 +22,7 @@
       "story_name": "Hoppity Pop Fizz",
       "content": "Hoppity Pop Fizz is the Easter counterpart of Pop Fizz who was available only in the months of April 2013 and 2014 on Skylanders: Lost Islands.",
       "hasImage": true,
-      "imgPath": "Hoppity_Pop_Fizz_artwork.png"
+      "imgPath": "Hoppity Pop Fizz artwork.png"
     }
   ],
   "quotes": [
@@ -52,7 +52,7 @@
       "id": "hoppity-pop-fizz",
       "variant_name": "Hoppity Pop Fizz",
       "edition": "Series 1",
-      "type": "Core",
+      "type": "Alter Ego",
       "game": "Skylanders: Lost Islands (April 2013)",
       "image": "https://static.wikia.nocookie.net/skylanders/images/7/79/Hoppity_Pop_Fizz_artwork.png/revision/latest?cb=20130430165105",
       "attacks": [
