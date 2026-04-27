@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-27T15:04:39.732Z",
+  "last_run": "2026-04-27T21:03:55.570Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -672,6 +672,10 @@
     {
       "name": "Instant Spitfire",
       "sha": "2cc777c233b12cd3521a9ec08bf91d2751c12c336ec59251cb1b41a25729b054"
+    },
+    {
+      "name": "Instant Super Shot Stealth Elf",
+      "sha": "e0e0fc75cc587704875189ca7f08c54f8040600fb055288258c18c27763317e3"
     }
   ]
 }
