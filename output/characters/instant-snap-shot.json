@@ -17,10 +17,23 @@
   "biography": "Instant Snap Shot is the grey, digital version of Snap Shot who was exclusive to the Tablet Starter Pack of Skylanders: Trap Team. He was designed to allow players to play the game on tablets without needing to have the physical figure immediately present.",
   "quote": "Croc and Roll!",
   "personality": "As the leader of the Trap Masters, he is a stoic and focused hunter. Like the original Snap Shot, he is dedicated to protecting Skylands and capturing the escaped villains of Cloudcracker Prison.",
-  "story": [],
+  "story": [
+    {
+      "story_name": "Digital Double",
+      "content": "Instant Snap Shot is the grey, digital version of Snap Shot who was exclusive to the Tablet Starter Pack of Skylanders: Trap Team. He was designed to allow players to play the game on tablets without needing to have the physical figure immediately present.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Instant_Snap_Shot_Artwork.png/revision/latest?cb=20170303181309"
+    }
+  ],
   "quotes": [
     {
-      "quote_type": "Battle Cry",
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Croc and Roll!"
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
       "content": [
         "Croc and Roll!",
         "Bullseye!"
@@ -35,9 +48,72 @@
   "gameplay": "Instant Snap Shot plays identically to the standard Snap Shot, utilizing his Traptanium bow for ranged attacks and a sword for melee strikes. As a Trap Master, he can shatter Traptanium crystals and deals extra damage to trappable villains.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Snap_Shot",
   "abilities": {
-    "basic": [],
-    "basic_upgrades": [],
-    "soulgems": [],
+    "basic": [
+      {
+        "name": "Traptanium Arrows",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Instant_Snap_Shot_Artwork.png/revision/latest?cb=20170303181309",
+        "content": "Fire arrows made of Traptanium from a great distance at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Crystal Slam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Instant_Snap_Shot_Artwork.png/revision/latest?cb=20170303181309",
+        "content": "A powerful melee strike using a Traptanium sword to crush nearby foes.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Sure Shot Croc",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Instant_Snap_Shot_Artwork.png/revision/latest?cb=20170303181309",
+        "content": "Enhanced precision for the Traptanium bow, ensuring every shot counts.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Arrowsplosion",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Instant_Snap_Shot_Artwork.png/revision/latest?cb=20170303181309",
+        "content": "Arrows explode upon impact, dealing damage to groups of enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Big Wave Torrent",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Instant_Snap_Shot_Artwork.png/revision/latest?cb=20170303181309",
+        "content": "Summon a massive torrent of water to wash away all enemies in the area.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#BDF"
+        }
+      }
+    ],
     "wow_pows": [],
     "upgrade_paths": []
   },
