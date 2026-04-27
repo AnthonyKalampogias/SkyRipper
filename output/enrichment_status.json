@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-27T03:05:49.876Z",
+  "last_run": "2026-04-27T09:36:28.568Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -600,6 +600,78 @@
     {
       "name": "Hex",
       "sha": "7d51aaeced8de9053b0def09f46337a29dd80656d65da7b9eaf51466983fe400"
+    },
+    {
+      "name": "High Five",
+      "sha": "ec827883ca1f608f24188364b84d1a5c58f0b3209414690bc28006336c1588b5"
+    },
+    {
+      "name": "High Noon Trigger Happy",
+      "sha": "325ba4f4a7c57b4dc4940ff0b3a7c5a6aa5a8f5699741aadd62136f216ce08d0"
+    },
+    {
+      "name": "High Volt",
+      "sha": "5d5370d32da41161988ddc7f121761e5faa6ebe5360d51be8edd1a875db4bfb5"
+    },
+    {
+      "name": "Hijinx",
+      "sha": "37e444398347b0a66c80c37dab5ddd416a3c7c3298aef481624fe9ea28ab9ece"
+    },
+    {
+      "name": "Holiday Wash Buckler",
+      "sha": "8da9cda7f710c6510a389f022d770164da7b99ea179e1b770e9c8cc7652fc082"
+    },
+    {
+      "name": "Hood Sickle",
+      "sha": "f3b653aa9a7f230a48065535c83d2b31b2062318b6ddad1f885d2a39ec57902e"
+    },
+    {
+      "name": "Hoot Loop",
+      "sha": "5bd5a3e70d2ef2378ae1d9ba085e4eb9809f5fd5ce0037ba5eb584cfd3d67706"
+    },
+    {
+      "name": "Hoppity Pop Fizz",
+      "sha": "a751d3dfa380dcea651f9da9ab742c3add356ebc0917d3fb81cc8b3580a06e59"
+    },
+    {
+      "name": "Hot Dog",
+      "sha": "8a069c31644d13f7286dca83346bfed38b767e821edbb784bda16f297022358b"
+    },
+    {
+      "name": "Hot Head",
+      "sha": "329a9882e64750cdb09f61237e978eb37e67a571884054c8ed9635099f1ee217"
+    },
+    {
+      "name": "Hurricane Jet-Vac",
+      "sha": "2e253e7cb3d2f6842963a3399b8ed07590333871c4714a34471d11cd8b2b9a5e"
+    },
+    {
+      "name": "Ignitor",
+      "sha": "14f395eff2429875f63111659281bcc2cb971e905a0241134dae4a00fcc1c211"
+    },
+    {
+      "name": "Imaginators",
+      "sha": "6109bb2b15a757c7e8d11cc8f8c89d0717b94374ca573ebce52b639bcc1f7c58"
+    },
+    {
+      "name": "Instant Dive-Clops",
+      "sha": "05f8cbaa684432257a0163eb177cac32c6a81d9d86a6373af3b771dadff3a207"
+    },
+    {
+      "name": "Instant Food Fight",
+      "sha": "94a537fc2f3968caffd3c378b01a3b40832c4e87ed16977f746c7ccf1ee9f526"
+    },
+    {
+      "name": "Instant Skylanders",
+      "sha": "3551c00c6944167cc5ab557b491abdf43a9921ba0e892ae6ec4798bc673d9a18"
+    },
+    {
+      "name": "Instant Snap Shot",
+      "sha": "acfc0d79ae7a019233af0f30e8796479d91e8ca24467798a07f394c98340f59e"
+    },
+    {
+      "name": "Instant Spitfire",
+      "sha": "2cc777c233b12cd3521a9ec08bf91d2751c12c336ec59251cb1b41a25729b054"
     }
   ]
 }
