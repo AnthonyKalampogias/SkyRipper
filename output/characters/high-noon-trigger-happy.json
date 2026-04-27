@@ -15,27 +15,34 @@
   "world": [
     "Skylands"
   ],
-  "description": "High Noon Trigger Happy is a Tech element gremlin and a card counterpart of the well-known Skylander, Trigger Happy, specifically appearing in Skylanders: Battlecast.",
-  "biography": "High Noon Trigger Happy is a card counterpart of Trigger Happy in Skylanders: Battlecast. His name refers to a cliche in western stories where gun duels were fought around midday, when the sun was at its highest. His outfit is based on the one seen in the Micro Comic, Goldslinger.",
+  "description": "High Noon Trigger Happy is a Tech element gremlin and a card counterpart of the well-known Skylander, Trigger Happy, specifically appearing in Skylanders: Battlecast. He is styled as a western gunslinger, complete with a large cowboy hat and his signature gold-flinging antics.",
+  "biography": "High Noon Trigger Happy is a card counterpart of Trigger Happy in Skylanders: Battlecast. His name refers to a cliche in western stories where gun duels were fought around midday, when the sun was at its highest. His outfit is based on the one seen in the Micro Comic, Goldslinger. He is notably the only cereal exclusive Skylander whose evilized counterpart has a unique purple hue.",
   "quote": "No Gold, No Glory!",
-  "personality": "High Noon Trigger Happy retains the manic, gold-obsessed personality of his standard counterpart, with a theme centered around a western gunslinger.",
+  "personality": "High Noon Trigger Happy retains the manic, gold-obsessed personality of his standard counterpart, but with a theme centered around a western gunslinger. He is energetic and focused on his quick-draw gunplay.",
   "story": [
     {
       "story_name": "The High Noon Counterpart",
       "content": "High Noon Trigger Happy is a card counterpart of Trigger Happy in Skylanders: Battlecast. He is a gremlin gunslinger whose outfit is inspired by the Micro Comic Goldslinger, featuring a larger hat and no shoes. He is unique for being a cereal-exclusive Skylander whose evilized counterpart possesses a distinct purple hue.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/57/Quick_Draw_-_Special_Abilitycard.png/revision/latest?cb=20160801170117"
+    },
+    {
+      "story_name": "Western Design Details",
+      "content": "His outfit is the same one as the seen in Goldslinger, the second Micro Comic released for Skylanders: SuperChargers, though with a bigger hat and no shoes. On the card, High Noon Trigger Happy has gloves and four fingers. Ingame, he has no gloves and only three fingers.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b3/High_Noon_Trigger_Happy_Scanned.png/revision/latest?cb=20160811190455"
     }
   ],
   "quotes": [],
   "trivia": [
     "High Noon Trigger Happy's name refers to a cliche in western stories where gun duels were fought around midday, when the sun was at its highest.",
+    "Its timing and the fact Battlecast has developers related to another Blizzard title, Hearthstone: Heroes of Warcraft, might also be a reference to the Overwatch character McCree, whose ultimate attack is preceeded by the catchphrase 'it's high noon'.",
     "His outfit is the same one as the seen in Goldslinger, the second Micro Comic released for Skylanders: SuperChargers, though with a bigger hat and no shoes.",
     "On the card, High Noon Trigger Happy has gloves and four fingers. Ingame, he has no gloves and only three fingers.",
     "He's the only cereal exclusive Skylander whose evilized counterpart has a purple hue. The rest of the evilized cereal Skylanders (Sonic Boom, Prism Break and Obsidian Hot Head) are exactly the same as their regular counterparts."
   ],
   "trailers": [],
-  "gameplay": "In Skylanders: Battlecast, High Noon Trigger Happy functions as a playable character card. He utilizes his 'Quick Draw' special ability to engage enemies in card-based combat.",
+  "gameplay": "In Skylanders: Battlecast, High Noon Trigger Happy functions as a playable character card. He utilizes his 'Quick Draw' special ability to engage enemies in card-based combat. Unlike his standard appearance, this version focuses on his western-themed persona, emphasizing speed and his 'Quick Draw' attack.",
   "wiki_url": "https://skylanders.fandom.com/wiki/High_Noon_Trigger_Happy",
   "abilities": {
     "basic": [
@@ -62,9 +69,22 @@
       "id": "high-noon-trigger-happy",
       "variant_name": "High Noon Trigger Happy",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Cereal Exclusive",
       "game": "Skylanders: Battlecast",
       "image": "https://static.wikia.nocookie.net/skylanders/images/5/57/Quick_Draw_-_Special_Abilitycard.png/revision/latest?cb=20160801170117",
+      "attacks": [
+        "Quick Draw"
+      ],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/High_Noon_Trigger_Happy"
+    },
+    {
+      "id": "evilized-high-noon-trigger-happy",
+      "variant_name": "Evilized High Noon Trigger Happy",
+      "edition": "Series 1",
+      "type": "In-game Boss",
+      "game": "Skylanders: Battlecast",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/6f/Evilized_HN_Trigg.png/revision/latest?cb=20160811190600",
       "attacks": [
         "Quick Draw"
       ],
