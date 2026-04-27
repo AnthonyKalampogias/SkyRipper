@@ -27,7 +27,7 @@
   ],
   "quotes": [
     {
-      "quote_type": "Catchphrase",
+      "quote_type": "Official Catchphrase",
       "content": [
         "Look Out Below!"
       ]
@@ -72,7 +72,7 @@
       {
         "name": "Put the Eye in Geyser",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Instant_Dive_Clops.jpg/revision/latest?cb=20151109183637",
-        "content": "Enhanced geyser-based attack for more battlefield control.",
+        "content": "Enhanced geyser-based attack for more battlefield control by putting the eye in geyser.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
@@ -84,7 +84,7 @@
       {
         "name": "Torpeslow",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Instant_Dive_Clops.jpg/revision/latest?cb=20151109183637",
-        "content": "Slows down enemies hit by torpedoes.",
+        "content": "Slows down enemies hit by specialized torpedoes.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
@@ -113,7 +113,7 @@
   },
   "variants": [
     {
-      "id": "instant-dive-clops",
+      "id": "instant-dive-clops-s1",
       "variant_name": "Instant Dive-Clops",
       "edition": "Series 1",
       "type": "SuperCharger",
