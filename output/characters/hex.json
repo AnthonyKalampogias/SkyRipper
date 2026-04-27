@@ -12,19 +12,18 @@
     "Skylanders: Cloud Patrol",
     "Skylanders: Giants",
     "Skylanders: Swap Force",
+    "Cynder Confronts the Weather Wizard",
     "Skylanders: Trap Team",
-    "Skylanders: SuperChargers",
+    "Return of the Dragon King",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Battlecast",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": [
-    "Spyro versus The Mega Monsters",
-    "Cynder Confronts the Weather Wizard",
-    "Return of the Dragon King"
-  ],
+  "cameos": [],
   "world": [
-    "Skylands"
+    "Skylands",
+    "The Underworld"
   ],
   "description": "Hex is an undead elven sorceress who is one of the Core Skylanders in Skylanders: Spyro's Adventure.",
   "biography": "Long ago, Hex was a gifted and powerful sorceress who traveled deep into the underworld to confront the Undead Dragon King named Malefor, who made several attempts to capture her to learn her secrets. Though she successfully battled the dragon, Hex returned from the underworld changed – having unwillingly joined the ranks of the Undead. Many are wary of her since her transformation, suspecting she has used her powerful magic for evil purposes. But Master Eon trusts her, and views her as a valuable Skylander ally.",
@@ -84,6 +83,87 @@
       ]
     },
     {
+      "quote_type": "Misc Quotes",
+      "content": [
+        "Enchanting, aren't they?",
+        "I hope this doesn't clash with my outfit...",
+        "I sense great power in this hat!",
+        "This name will serve me well!",
+        "A name fit for a queen!"
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Fear my dark embrace!",
+        "The dark hour beings!",
+        "Darkness calls!",
+        "Fear Hex!",
+        "I am why you fear the dark!",
+        "Be afraid of the dark!",
+        "Getting stronger!",
+        "I ascend!",
+        "Darkness unleashed!",
+        "Time for battle!",
+        "I shall return...",
+        "I'll be watching!",
+        "A lovely omen!",
+        "Good fortune!",
+        "This forbodes well!",
+        "Oooh, chilling!",
+        "Such power!",
+        "Enchanting!",
+        "I foresee your demise, seriously!",
+        "My power knows no 'equal'.",
+        "Boil, boil, toil and trouble!",
+        "A most wonderful concoction.",
+        "Utterly breathtaking.",
+        "Beautiful. Did I mention it's cursed?",
+        "Come forth, my pawn...",
+        "Follow my lead.",
+        "Sanguino afficio!",
+        "Vitalitas depletus!",
+        "An untimely end!",
+        "I will mourn you! ...Not really.",
+        "I rest in peace...",
+        "Ah... Sweet oblivion.",
+        "My dark side just got darker...",
+        "Undead doesn't mean undone!",
+        "I reign supreme!",
+        "Just as I foretold!",
+        "Behave yourself.",
+        "You are really tempting fate!",
+        "Yes?",
+        "Don't press your luck!",
+        "Present.",
+        "Still here?",
+        "Hex has risen!",
+        "Fulfilling my prophecy."
+      ]
+    },
+    {
+      "quote_type": "Unused Quotes",
+      "content": [
+        "Until we meet again...",
+        "Perfect!",
+        "Right on!",
+        "Nice!",
+        "Okay...!",
+        "Success!",
+        "Such power...!",
+        "Excellent!",
+        "I grow weary of waiting.",
+        "Cool!",
+        "Victory!",
+        "This feels like an eternity.",
+        "Not good...!",
+        "Sweet!",
+        "Fear me!",
+        "Awesome!",
+        "Fortune has spared you."
+      ]
+    },
+    {
       "quote_type": "Book Quotes",
       "content": [
         "You are not my friends. I haven't had friends since the day I became a member of the Undead. You saw those people on the beach. When I saved them, they still feared me. Everyone fears me. I see the way you look at me when I use my powers. You don't trust me. None of you do. Not even Eon.",
@@ -91,19 +171,31 @@
         "Prepare to rest in peace, foul follower of Darkness.",
         "This is who I am and this is the way I want to be. I embrace my dark side. I always have."
       ]
+    },
+    {
+      "quote_type": "Comic Quotes",
+      "content": [
+        "There's just something about this, the two of us being targeted, that brings up old feelings. Feelings I thought I was over.",
+        "Malefor's ways are so sinister and manipulative... Even the best of intentions get ruined."
+      ]
     }
   ],
   "trivia": [
     "Hex is a word meaning the practice of witchcraft, usually as a curse.",
     "Hex is also a Dutch word meaning 'witch,' but in Dutch it's spelled as 'heks'.",
+    "Her working name during development was Shadow Maid.",
     "Her Skull Buddy resembles the Skull Mask in Crawling Catacombs, with red eyes instead of blue.",
-    "Her Series 2 figure is based on her Rain of Skulls.",
-    "LightCore Hex is based on Hex's prototype figure, where she had red highlights on her details.",
-    "The dress Hex wore when she was alive resembles the one worn by Mags.",
+    "Her Series 2 figure is based on her Rain of Skulls attack.",
+    "She holds skulls on all of her toy figures.",
+    "Her LightCore figure's dress lights up red, based on an early hand-painted prototype.",
     "Hex is one of the few Undead Skylanders to have no skeletal features.",
     "She bears a resemblance to Maleficent from Disney's Sleeping Beauty.",
     "Hex, Zap and Bop have the shortest names out of every Skylander.",
-    "Prior to the Rain of Trolls upgrade, Hex's Skull Rain attack summons dragon skulls that resemble Cynder's."
+    "All of her 3DS moves are two words that start with 'S.'",
+    "Hex is one of the first three elven Skylanders, alongside Stealth Elf and Flameslinger.",
+    "Prior to the Rain of Trolls upgrade, Hex's Skull Rain attack summons dragon skulls that resemble Cynder's.",
+    "'Boil, boil, toil and trouble' is quoted from the play Macbeth.",
+    "Hex is voiced by Courtenay Taylor in English and Daniela Fava in Italian."
   ],
   "trailers": [
     {
@@ -132,7 +224,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_LightCore_Hex"
     }
   ],
-  "gameplay": "Awakening powers from unknown depths from fighting Malefor in the Underworld, Hex had her magic changed to strange spells, such as levitation, burning phantom orbs, the ability to make skulls rain from the sky, and to summon and banish bones in wall formations. Her Wow Pow allows her to create a skull monster that spits smaller skulls at enemies. In Skylanders: Battlecast, Hex has the ability to curse and weaken enemies with charms, spells or skulls summoned from a cauldron; much of her gameplay is tied around attacks that strike long after they have been cast.",
+  "gameplay": "Awakening powers from unknown depths from fighting Malefor in the Underworld, Hex had her magic changed to strange spells, such as levitation, burning phantom orbs, the ability to make skulls rain from the sky, and to summon and banish bones in wall formations. Her Wow Pow allows her to create a skull monster that spits smaller skulls at enemies. In Skylanders: Battlecast, Hex has the ability to curse and weaken enemies with charms, spells or skulls summoned from a cauldron; much of her gameplay is tied around attacks that strike long after they have been cast. In Skylanders: Ring of Heroes, she is a support character specializing in debuffs and accuracy reduction.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Hex",
   "abilities": {
     "basic": [
@@ -344,7 +436,7 @@
       "edition": "Series 1",
       "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/4/48/290px-Hex.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/48/290px-Hex.jpg/revision/latest?cb=20170326190536",
       "attacks": [
         "Conjure Phantom Orb",
         "Rain of Skulls",
@@ -372,6 +464,22 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "32 (max. 82)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "50"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Hex"
@@ -382,7 +490,7 @@
       "edition": "Series 2",
       "type": "Core",
       "game": "Skylanders: Giants",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Hex_Series_2.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Hex_Series_2.jpg/revision/latest?cb=20130111063108",
       "attacks": [
         "Conjure Phantom Orb",
         "Rain of Skulls",
@@ -415,11 +523,12 @@
       "edition": "LightCore",
       "type": "Core",
       "game": "Skylanders: Giants",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/b/be/LightCore_Hex_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/be/LightCore_Hex_Promo.jpg/revision/latest?cb=20130324032036",
       "attacks": [
         "Conjure Phantom Orb",
         "Rain of Skulls",
-        "Wall of Bones"
+        "Wall of Bones",
+        "Skull Shield"
       ],
       "stats": [
         {
