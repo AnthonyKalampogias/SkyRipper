@@ -31,14 +31,14 @@
       "imgPath": ""
     },
     {
-      "story_name": "Biography",
-      "content": "Hoot Loop was raised by a guild of magicians in Skylands' most famous traveling circus. At a young age, he perfected illusions and spells that only the very best of their guild could perform, and even mastered the art of teleportation! Soon enough, he became the star of the show, known far and wide as the Amazing Hoot Loop. However, one day an army of Greebles disguised as clowns invaded, determined to destroy the popular circus. It was then that Hoot Loop gave a performance that few would ever forget. Using his incredible powers, he fought off the invaders and saved the circus - to the raucous applause of the many spectators – including Master Eon, who presented Hoot Loop with an opportunity to learn some real magic as a member of the Skylanders.",
+      "story_name": "Personality",
+      "content": "Hoot Loop is a natural showman, and is less likely to be modest. He is the first to boast about his extraordinary abilities. He can also be mischievous, as demonstrated in the animated Card Game Short Cut.",
       "hasImage": false,
       "imgPath": ""
     },
     {
-      "story_name": "Personality",
-      "content": "Hoot Loop is a natural showman, and is less likely to be modest. He is the first to boast about his extraordinary abilities. He can also be mischievous, as demonstrated in the animated Card Game Short Cut.",
+      "story_name": "Biography",
+      "content": "Hoot Loop was raised by a guild of magicians in Skylands' most famous traveling circus. At a young age, he perfected illusions and spells that only the very best of their guild could perform, and even mastered the art of teleportation! Soon enough, he became the star of the show, known far and wide as the Amazing Hoot Loop. However, one day an army of Greebles disguised as clowns invaded, determined to destroy the popular circus. It was then that Hoot Loop gave a performance that few would ever forget. Using his incredible powers, he fought off the invaders and saved the circus - to the raucous applause of the many spectators – including Master Eon, who presented Hoot Loop with an opportunity to learn some real magic as a member of the Skylanders.",
       "hasImage": false,
       "imgPath": ""
     }
@@ -118,7 +118,7 @@
     "basic": [
       {
         "name": "DéjàBOOM!",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Hoot_Looptopprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505193611",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Hoot_Looptopprimarypower.png/revision/latest?cb=20170505193611",
         "content": "Press Attack 1 to shoot a magic projectile that hits enemies three times before it disappears.",
         "is_primary": true,
         "is_secondary": false,
@@ -130,7 +130,7 @@
       },
       {
         "name": "Hypnotism",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Hoot_Looptopbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505193628",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/54/Hoot_Looptopbasicupgrade1.png/revision/latest?cb=20170505193628",
         "content": "Hold Attack 3 to hypnotize enemies, slowing their movement and attacks.",
         "is_primary": false,
         "is_secondary": true,
@@ -142,7 +142,7 @@
       },
       {
         "name": "Tricked Ya!",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b0/Hoot_Looptopbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505193635",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b0/Hoot_Looptopbasicupgrade2.png/revision/latest?cb=20170505193635",
         "content": "Armor increased. Shiny new armor reduces damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -154,7 +154,7 @@
       },
       {
         "name": "Flashback",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/87/Hoot_Looptopbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505193637",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/87/Hoot_Looptopbasicupgrade3.png/revision/latest?cb=20170505193637",
         "content": "Press Attack 1 to shoot a DéjàBOOM! projectile. DéjàBOOM! bounces three times and on a third bounce it explodes.",
         "is_primary": false,
         "is_secondary": false,
@@ -168,7 +168,7 @@
     "basic_upgrades": [
       {
         "name": "Loop the Loop",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Hoot_Loopbottomprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170505193645",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Hoot_Loopbottomprimarypower.png/revision/latest?cb=20170505193645",
         "content": "Press Attack 2 to teleport forward a short distance and damage nearby enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -180,7 +180,7 @@
       },
       {
         "name": "Portable Hole",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Hoot_Loopbottombasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505193651",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Hoot_Loopbottombasicupgrade1.png/revision/latest?cb=20170505193651",
         "content": "Hold Attack 2 to aim the portal loop, release to teleport to that area and damage all nearby enemies.",
         "is_primary": false,
         "is_secondary": true,
@@ -192,7 +192,7 @@
       },
       {
         "name": "Temporal Whack",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Hoot_Loopbottombasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505193656",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/21/Hoot_Loopbottombasicupgrade2.png/revision/latest?cb=20170505193656",
         "content": "Teleport does increased damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -204,7 +204,7 @@
       },
       {
         "name": "Time Sink",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7e/Hoot_Loopbottombasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170505193702",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7e/Hoot_Loopbottombasicupgrade3.png/revision/latest?cb=20170505193702",
         "content": "Enemies and objects are pulled towards the area where Portable Hole is aimed.",
         "is_primary": false,
         "is_secondary": false,
@@ -248,7 +248,7 @@
         "abilities": [
           {
             "name": "Dream Beam",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Hoot_Looptoppath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505194043",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Hoot_Looptoppath1upgrade1.png/revision/latest?cb=20170505194043",
             "content": "Hold Attack 1 to channel a magical beam of dreams that damages enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -260,7 +260,7 @@
           },
           {
             "name": "Bad Dreams Beam",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Hoot_Looptoppath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505194048",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Hoot_Looptoppath1upgrade2.png/revision/latest?cb=20170505194048",
             "content": "Dream Beam does increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -277,7 +277,7 @@
         "abilities": [
           {
             "name": "Mass Hypnosis",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Hoot_Looptoppath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505194447",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Hoot_Looptoppath2upgrade1.png/revision/latest?cb=20170505194447",
             "content": "Hypnotism becomes more effective, slowing enemies in a larger area.",
             "is_primary": false,
             "is_secondary": false,
@@ -289,7 +289,7 @@
           },
           {
             "name": "Deep Asleep",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Hoot_Looptoppath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505194453",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Hoot_Looptoppath2upgrade2.png/revision/latest?cb=20170505194453",
             "content": "Hold Attack 3 to use a more powerful Mass Hypnosis dealing increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -306,7 +306,7 @@
         "abilities": [
           {
             "name": "Now You See Me",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Hoot_Loopbottompath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505194055",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ae/Hoot_Loopbottompath1upgrade1.png/revision/latest?cb=20170505194055",
             "content": "Hold Attack 2 to charge a Portable Hole, release to do increased damage. Damage is increased the longer it is charged.",
             "is_primary": false,
             "is_secondary": false,
@@ -318,7 +318,7 @@
           },
           {
             "name": "Now You Don't",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Hoot_Loopbottompath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505194100",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Hoot_Loopbottompath1upgrade2.png/revision/latest?cb=20170505194100",
             "content": "Now You See Me does increased damage. A very impressive entrance!",
             "is_primary": false,
             "is_secondary": false,
@@ -335,7 +335,7 @@
         "abilities": [
           {
             "name": "Complete Concentration",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/Hoot_Loopbottompath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505194454",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/Hoot_Loopbottompath2upgrade1.png/revision/latest?cb=20170505194454",
             "content": "Press Jump after teleporting to appear back at the previous position.",
             "is_primary": false,
             "is_secondary": false,
@@ -347,7 +347,7 @@
           },
           {
             "name": "Teleport Turbulence",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Hoot_Loopbottompath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505194500",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Hoot_Loopbottompath2upgrade2.png/revision/latest?cb=20170505194500",
             "content": "All teleport attacks do increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -368,7 +368,7 @@
       "edition": "Series 1",
       "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/7/77/HootLoop2.jpg/revision/latest/scale-to-width-down/268?cb=20130819002110",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/77/HootLoop2.jpg/revision/latest?cb=20130819002110",
       "attacks": [
         "Dejaboom!",
         "Hypnotism",
@@ -399,6 +399,44 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Hoot_Loop"
+    },
+    {
+      "id": "enchanted-hoot-loop",
+      "variant_name": "Enchanted Hoot Loop",
+      "edition": "Special",
+      "type": "SWAP Force",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/77/HootLoop2.jpg/revision/latest?cb=20130819002110",
+      "attacks": [
+        "Dejaboom!",
+        "Hypnotism",
+        "Loop the Loop",
+        "Portable Hole",
+        "Tricked Ya!"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "250 (Lv. 20: 750)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "43"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Enchanted_Hoot_Loop"
     }
   ]
 }
