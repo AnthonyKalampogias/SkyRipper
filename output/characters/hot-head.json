@@ -22,7 +22,7 @@
   ],
   "description": "Hot Head is a Large Fire Golem who is one of the eight Giants in Skylanders: Giants.",
   "biography": "Hot Head had always been a short tempered fire giant. But it was when magical oil was discovered in Skylands that fuel was really added to the fire. As exciting as the discovery was, the celebration lasted only 5 minutes - coming to an abrupt halt when Hot Head needed to cool off and plunged into the thick black pool, causing the entire island to explode! Though it would be another 2,000 years before magical oil was discovered again, the impact that it had on Hot Head was immediate. He was instantly infused with magical oil, giving him the ability to generate an infinite supply of fuel - making him incredibly volatile, highly combustible, and ready to torch anything that got in his way.",
-  "quote": "“Hey! I'm On Fire!”",
+  "quote": "Hey! I'm On Fire!",
   "personality": "Impetuous is a good word to describe Hot Head. He just can't help himself. This giant Fire Golem is always burning with enthusiasm. He smothers his enemies in blazing blobs of burning oil first, and asks questions second.",
   "story": [
     {
@@ -132,23 +132,26 @@
     "Some of Hot Head's prototype names include Fire Giant, Fire Golem and Oil Blazer.",
     "In early development, Hot Head's shoulders were red and his claws were yellow. He also had grey screws in the sides of his head, reminiscent of Frankenstein's monster.",
     "He is the only playable Golem who is not of the Earth element.",
-    "One of his upgrades, 'Hot with a Chance of Meteors,' is a reference to the 2009 animated film 'Cloudy with a Chance of Meatballs.'",
-    "During Giants's early development, some of Hot Head's abilities/upgrades were differently named. 'Flamefire Burst' was called 'Flameball Burst', 'Oil Blobs' was called 'Oil Drum', and 'Sizzle Shower' was called 'Fire Rain'.",
+    "One of his upgrades, 'Hot with a Chance of Meteors', is a reference to the 2009 animated film 'Cloudy with a Chance of Meatballs'.",
+    "During Giants' early development, some of Hot Head's abilities/upgrades were differently named. 'Flamefire Burst' was called 'Flameball Burst', 'Oil Blobs' was called 'Oil Drum', and 'Sizzle Shower' was called 'Fire Rain'.",
     "Hot Head has the Fire Symbol on his back.",
     "He and Hot Dog are the only Fire Skylanders (at the same time) with the word Hot in their names.",
     "In the Time Twisters Story Activity Book, Hot Head revealed he is almost 200,000 years old and three quarters. However, he does not believe he looks a day over 150,000.",
-    "Hot Head has an Easter Egg where if you hold his 'Eternal Flame' attack long enough in Skylanders: Trap Team, he'll start monologuing.",
+    "Hot Head has an Easter Egg where if you hold his 'Eternal Flame' attack long enough in Skylanders: Trap Team, he'll start monologuing. This monologue originally referenced a very obscure part of Ninja Turtle history.",
     "It is rumored that his original catchphrase was, 'Aaaargh, help! Someone find a hose, quick!'",
-    "He slightly resembles Fire Man from the first game in the Mega Man video game series and Oil Man from the PSP game Mega Man Powered Up.",
-    "There is a glitch where when in hot rod form, when attacked, Hot Head will revert to his natural state whilst still acting as if in hot rod form.",
+    "He slightly resembles Fire Man from the first game in the Mega Man video game series and Oil Man from Mega Man Powered Up.",
+    "There is a glitch where when in hot rod form, when attacked, Hot Head will revert to his natural state while still moving around at a greater speed.",
     "Hot Head is often mentioned as a cook.",
     "Hot Head is the only character who changes pitches in his voice from time to time on the portal.",
     "On his figure, his facial expression is similar to the facial expression on Series 2 Eruptor's figure.",
     "He and Fryno are the only two fire characters who have motorbike based upgrades.",
-    "In the game, Hot Head is voiced by Patrick Seitz, who also voices Rip Tide, Chomp Chest, and Thrillipede.",
+    "In the game, Hot Head is voiced by Patrick Seitz, who also voices Rip Tide, Chomp Chest, and Thrillipede, as well as Scorpion in Mortal Kombat, Zomom in Sonic Lost World, Ragna the Bloodedge in BlazBlue, and Endeavor in My Hero Academia.",
     "His Sizzle Shower may be based on Adele's song, 'Set Fire to the Rain'.",
     "One of Hot Head's upgrade paths is called 'The Burninator', referencing the fictional dragon Trogdor from the Homestar Runner webseries.",
-    "As seen in the Face Your Fears card in Battlecast, Hot Head is afraid of freezing over."
+    "As seen in the Face Your Fears card in Battlecast, Hot Head is afraid of freezing over.",
+    "Hot Head's Sizzle Shower ability was visually inspired by Jiraiya's Fire Rasengan ultimate jutsu as seen in Naruto Ultimate Ninja Storm.",
+    "The Eternal Flame upgrade puts a dragon on Hot Head's fire hand while the Hot Oil Treatment upgrade puts a squid on his oil hand.",
+    "'Hot with a Chance of Meteors' is a callout to Dragon Ball's Spirit Bomb and his Hot Rod soul gem transformation is a shout out to Robotech's Cyclone motorcycle."
   ],
   "trailers": [
     {
@@ -343,7 +346,7 @@
   },
   "variants": [
     {
-      "id": "hot-head",
+      "id": "hot-head-s1",
       "variant_name": "Hot Head",
       "edition": "Series 1",
       "type": "Giant",
