@@ -8,8 +8,7 @@
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Rift into Overdrive",
-    "Skylanders: SuperChargers",
-    "Skylanders: SuperChargers Racing",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
   "cameos": [
@@ -21,13 +20,13 @@
     "Windham"
   ],
   "description": "Hurricane Jet-Vac is the SuperCharger counterpart of Jet-Vac in Skylanders: SuperChargers. His signature vehicle is the Jet Stream.",
-  "biography": "Hurricane Jet-Vac is the SuperCharger counterpart of Jet-Vac in Skylanders: SuperChargers. His signature vehicle is the Jet Stream.",
+  "biography": "Hurricane Jet-Vac is the SuperCharger counterpart of Jet-Vac in Skylanders: SuperChargers. A noble Sky Baron from Windham, he serves as a dedicated hero who uses his high-tech vacuum gun and fan blades to protect Skylands. His signature vehicle is the Jet Stream, and he remains a firm believer that a true hero flies with his heart, not his wings.",
   "quote": "Hawk and Awe!",
-  "personality": "Jet-Vac is a dedicated hero who believes in training and the defense of the defenseless, always ready for a mission and taking great pride in his duties. He is polite, often addressing others as 'old chap' or 'old chum'.",
+  "personality": "Jet-Vac is a disciplined and dedicated hero with a formal, military-like demeanor, often using phrases like 'old chum' and 'old chap'. He values training and believes that true heroism comes from the heart rather than physical abilities. He remains humble about his skills and is always eager to defend the defenseless.",
   "story": [
     {
       "story_name": "Hurricane Jet-Vac",
-      "content": "Hurricane Jet-Vac is the SuperCharger counterpart of Jet-Vac in Skylanders: SuperChargers. His signature vehicle is the Jet Stream.",
+      "content": "Hurricane Jet-Vac is the SuperCharger counterpart of Jet-Vac in Skylanders: SuperChargers. His signature vehicle is the Jet Stream. He hails from Windham and represents the Air element as a member of the SuperChargers.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Hurricane_Jet-Vac_Art.jpg/revision/latest/scale-to-width-down/268?cb=20150831080907"
     }
@@ -78,7 +77,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Hurricane_Jet-Vac's_Soul_Gem_Preview_(Hawk_and_Awe)"
     }
   ],
-  "gameplay": "Hurricane Jet-Vac uses fan blades and a vacuum to control the battlefield. He can shoot bouncing blades, suck in enemies, and dash forward with kicks. His upgrades allow him to create hurricanes and perform multi-flip aerial assaults.",
+  "gameplay": "Hurricane Jet-Vac uses fan blades and a vacuum to control the battlefield. He can shoot bouncing blades, suck in enemies to use as projectiles, and dash forward with powerful kicks. His upgrades allow him to create explosive hurricanes and perform advanced aerial maneuvers like the Double Flip.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Hurricane_Jet-Vac",
   "abilities": {
     "basic": [
@@ -264,7 +263,7 @@
       "edition": "Series 1",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Hurricane_Jet-Vac_Art.jpg/revision/latest?cb=20150831080907",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Hurricane_Jet-Vac_Art.jpg/revision/latest/scale-to-width-down/268?cb=20150831080907",
       "attacks": [
         "Shooting the Breeze",
         "Jet Turbine Vacuum",
