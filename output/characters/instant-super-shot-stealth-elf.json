@@ -17,7 +17,14 @@
   "biography": "Instant Super Shot Stealth Elf is a digital counterpart of Super Shot Stealth Elf in Skylanders: SuperChargers. She is only playable in the iOS version of the game.",
   "quote": "Silent But Deadly!",
   "personality": "",
-  "story": [],
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Instant Super Shot Stealth Elf is a digital counterpart of Super Shot Stealth Elf in Skylanders: SuperChargers. She is only playable in the iOS version of the game.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
   "quotes": [
     {
       "quote_type": "Official Catchphrase",
