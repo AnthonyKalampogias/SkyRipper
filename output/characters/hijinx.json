@@ -11,7 +11,7 @@
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
     "Skylanders Issue 12",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
   "cameos": [],
@@ -25,14 +25,14 @@
   "story": [
     {
       "story_name": "Biography",
-      "content": "The Skylander Minis started off as regular 'Sidekicks,' assisting the Skylanders on many exciting adventures. And what they lacked in size they more than more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+      "content": "The Skylander Minis started off as regular 'Sidekicks,' assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Hijinx_Promo.jpg/revision/latest?cb=20140813084342"
     }
   ],
   "quotes": [
     {
-      "quote_type": "Battle Cries",
+      "quote_type": "Official Catchphrase",
       "content": [
         "Fear the Dark!"
       ]
@@ -41,7 +41,9 @@
   "trivia": [
     "Hijinx is the mini counterpart of Hex.",
     "She was first released in Skylanders: Trap Team.",
-    "Her English voice actress is Courtenay Taylor."
+    "Her English voice actress is Courtenay Taylor.",
+    "Hijinx has a reputation for being too serious and maybe a little creepy.",
+    "The Skylander Minis were originally regular 'Sidekicks' before training at the Skylands Academy."
   ],
   "trailers": [
     {
@@ -56,7 +58,7 @@
     "basic": [
       {
         "name": "Conjure Phantom Orb",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Hijinx_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140813084342",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Hijinx_Promo.jpg/revision/latest?cb=20140813084342",
         "content": "Conjure a Phantom Orb to attack enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -68,7 +70,7 @@
       },
       {
         "name": "Rain of Skulls",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Hijinx_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140813084342",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Hijinx_Promo.jpg/revision/latest?cb=20140813084342",
         "content": "Rain skulls down upon enemies.",
         "is_primary": false,
         "is_secondary": true,
@@ -82,7 +84,7 @@
     "basic_upgrades": [
       {
         "name": "Wall of Bones",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Hijinx_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140813084342",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Hijinx_Promo.jpg/revision/latest?cb=20140813084342",
         "content": "Create a wall of bones for defense.",
         "is_primary": false,
         "is_secondary": false,
@@ -94,7 +96,7 @@
       },
       {
         "name": "Long Distance Orbs",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Hijinx_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140813084342",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Hijinx_Promo.jpg/revision/latest?cb=20140813084342",
         "content": "Attack from further away with phantom orbs.",
         "is_primary": false,
         "is_secondary": false,
@@ -108,7 +110,7 @@
     "soulgems": [
       {
         "name": "Compound Fracture",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Hijinx_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20140813084342",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Hijinx_Promo.jpg/revision/latest?cb=20140813084342",
         "content": "A powerful upgrade for Hijinx's spectral abilities.",
         "is_primary": false,
         "is_secondary": false,
