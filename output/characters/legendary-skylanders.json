@@ -12,7 +12,16 @@
     "Skylanders: SWAP Force",
     "Skylanders: Trap Team",
     "Skylanders: SuperChargers",
-    "Skylanders: Imaginators"
+    "Skylanders: SuperChargers Racing",
+    "Skylanders: Imaginators",
+    "Skylanders: Universe",
+    "Skylanders: Cloud Patrol",
+    "Skylanders: Lost Islands",
+    "Skylanders: Battlegrounds",
+    "Skylanders: Battlecast",
+    "Skylanders: Ring of Heroes",
+    "Skylanders Collection Vault",
+    "Skylanders Creator"
   ],
   "cameos": [],
   "world": [
@@ -20,7 +29,7 @@
   ],
   "description": "Legendary Skylanders are stronger versions of regular Skylanders in the Skylanders franchise, though they have exactly the same upgrades and Heroic Challenges. They all commonly take on the color schemes of navy blue and gold, although the Legendary Senseis instead wear prestigious Legendary red and gold armor.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand and watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "quote": "These are the Legendary Skylanders.",
+  "quote": "",
   "personality": "Immortalized for their greatness in gladiatorial arenas, these Skylanders serve as magical guardians who stand ready to be brought to life by Portal Masters when the world is in peril.",
   "story": [
     {
@@ -42,6 +51,9 @@
     "Legendary Skylanders are commonly exclusive to Toys R' Us.",
     "In games beyond Skylanders: Giants, the older Legendary Skylanders take on a deep navy blue color.",
     "In Spyro's Adventure, the Legendary Series 2 Skylanders from Giants (Slam Bam, Ignitor and Stealth Elf) are displayed as their original counterparts.",
+    "In Spyro's Adventure and Giants, the number of Legendary Skylanders is similar to the number of Skylanders in each element. In Spyro's Adventure, there are four Legendary Skylanders which is the same number for each element. In Giants, there is one Legendary Giant, one Legendary LightCore Skylander, three Legendary Series 2 Skylanders and one Legendary new core Skylander, relating to what each element contains.",
+    "Giants and SuperChargers are the only games to add Legendary versions of reposed Skylanders. Unlike the Series 2 Legendaries, the Legendary SuperCharger reposes are not backwards-compatible.",
+    "The Legendary Skylanders from Spyro's Adventure did not get a release in Japan.",
     "Jet-Vac is currently the only Skylander with two Legendary counterparts.",
     "Dark is currently the only element without any Legendary counterparts.",
     "Undead currently has the highest amount of Legendary Skylanders.",
@@ -62,42 +74,255 @@
     {
       "id": "legendary-bash",
       "variant_name": "Legendary Bash",
-      "edition": "Legendary Series 1",
+      "edition": "Skylanders",
       "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/7/70/Legendary_Bash_Icon.png",
       "attacks": [],
-      "stats": [
-        {
-          "stat_name": "Strength",
-          "stat_value": "Increased"
-        },
-        {
-          "stat_name": "Defense",
-          "stat_value": "Increased"
-        }
-      ],
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bash"
+    },
+    {
+      "id": "legendary-blades",
+      "variant_name": "Legendary Blades",
+      "edition": "Skylanders",
+      "type": "Core",
+      "game": "Skylanders: Trap Team",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Blades_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Blades"
+    },
+    {
+      "id": "legendary-chill",
+      "variant_name": "Legendary Chill",
+      "edition": "Skylanders",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Chill_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Chill"
+    },
+    {
+      "id": "legendary-chop-chop",
+      "variant_name": "Legendary Chop Chop",
+      "edition": "Skylanders",
+      "type": "Core",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Chop_Chop_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Chop_Chop"
+    },
+    {
+      "id": "legendary-deja-vu",
+      "variant_name": "Legendary Déjà Vu",
+      "edition": "Skylanders",
+      "type": "Core",
+      "game": "Skylanders: Trap Team",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_D%C3%A9j%C3%A0_Vu_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_D%C3%A9j%C3%A0_Vu"
+    },
+    {
+      "id": "legendary-grim-creeper",
+      "variant_name": "Legendary Grim Creeper",
+      "edition": "Skylanders",
+      "type": "LightCore",
+      "game": "Skylanders: Swap Force",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Grim_Creeper_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Grim_Creeper"
+    },
+    {
+      "id": "legendary-ignitor",
+      "variant_name": "Legendary Ignitor",
+      "edition": "Skylanders",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Ignitor_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Ignitor"
+    },
+    {
+      "id": "legendary-jet-vac",
+      "variant_name": "Legendary Jet-Vac",
+      "edition": "Skylanders",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Jet-Vac_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Jet-Vac"
+    },
+    {
+      "id": "legendary-slam-bam",
+      "variant_name": "Legendary Slam Bam",
+      "edition": "Skylanders",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Slam_Bam_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Slam_Bam"
+    },
+    {
+      "id": "legendary-spyro",
+      "variant_name": "Legendary Spyro",
+      "edition": "Skylanders",
+      "type": "Core",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Spyro_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Spyro"
+    },
+    {
+      "id": "legendary-stealth-elf",
+      "variant_name": "Legendary Stealth Elf",
+      "edition": "Skylanders",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Stealth_Elf_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Stealth_Elf"
+    },
+    {
+      "id": "legendary-trigger-happy",
+      "variant_name": "Legendary Trigger Happy",
+      "edition": "Skylanders",
+      "type": "Core",
+      "game": "Skylanders: Spyro's Adventure",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Trigger_Happy_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Trigger_Happy"
+    },
+    {
+      "id": "legendary-zoo-lou",
+      "variant_name": "Legendary Zoo Lou",
+      "edition": "Skylanders",
+      "type": "Core",
+      "game": "Skylanders: Swap Force",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Zoo_Lou_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Zoo_Lou"
+    },
+    {
+      "id": "legendary-bouncer",
+      "variant_name": "Legendary Bouncer",
+      "edition": "Giant",
+      "type": "Giant",
+      "game": "Skylanders: Giants",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Bouncer_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bouncer"
+    },
+    {
+      "id": "legendary-free-ranger",
+      "variant_name": "Legendary Free Ranger",
+      "edition": "SWAP Force",
+      "type": "SWAP Force",
+      "game": "Skylanders: SWAP Force",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Free_Ranger_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Free_Ranger"
+    },
+    {
+      "id": "legendary-night-shift",
+      "variant_name": "Legendary Night Shift",
+      "edition": "SWAP Force",
+      "type": "SWAP Force",
+      "game": "Skylanders: SWAP Force",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Night_Shift_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Night_Shift"
+    },
+    {
+      "id": "legendary-bushwhack",
+      "variant_name": "Legendary Bushwhack",
+      "edition": "Trap Masters",
+      "type": "Trap Master",
+      "game": "Skylanders: Trap Team",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Bushwhack_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bushwhack"
+    },
+    {
+      "id": "legendary-jawbreaker",
+      "variant_name": "Legendary Jawbreaker",
+      "edition": "Trap Masters",
+      "type": "Trap Master",
+      "game": "Skylanders: Trap Team",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Jawbreaker_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Jawbreaker"
+    },
+    {
+      "id": "legendary-astroblast",
+      "variant_name": "Legendary Astroblast",
+      "edition": "SuperChargers",
+      "type": "SuperChargers",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Astroblast_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Astroblast"
+    },
+    {
+      "id": "legendary-bone-bash-roller-brawl",
+      "variant_name": "Legendary Bone Bash Roller Brawl",
+      "edition": "SuperChargers",
+      "type": "SuperChargers",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Bone_Bash_Roller_Brawl_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bone_Bash_Roller_Brawl"
+    },
+    {
+      "id": "legendary-hurricane-jet-vac",
+      "variant_name": "Legendary Hurricane Jet-Vac",
+      "edition": "SuperChargers",
+      "type": "SuperChargers",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Hurricane_Jet-Vac_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Hurricane_Jet-Vac"
     },
     {
       "id": "legendary-pit-boss",
       "variant_name": "Legendary Pit Boss",
-      "edition": "Legendary Sensei",
+      "edition": "Senseis",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Legendary_Pit_Boss_Icon.png",
       "attacks": [],
-      "stats": [
-        {
-          "stat_name": "Strength",
-          "stat_value": "Increased"
-        },
-        {
-          "stat_name": "Armor",
-          "stat_value": "Increased"
-        }
-      ],
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Pit_Boss"
+    },
+    {
+      "id": "legendary-tri-tip",
+      "variant_name": "Legendary Tri-Tip",
+      "edition": "Senseis",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Tri-Tip_Icon.png",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Tri-Tip"
     }
   ]
 }
