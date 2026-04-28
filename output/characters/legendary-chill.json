@@ -1,7 +1,7 @@
 {
   "id": "legendary-chill",
   "name": "Legendary Chill",
-  "species": "Humanoid",
+  "species": "Unknown",
   "gender": "Female",
   "element": "Water",
   "role": "Legendary Skylander",
@@ -24,15 +24,15 @@
   "personality": "Chill is a noble, stoic, and highly disciplined warrior. Having served as the personal guardian to the Snow Queen, she maintains a serious demeanor and a strong sense of duty, rarely letting her guard down even in the heat of battle.",
   "story": [
     {
-      "story_name": "Legendary Chill's Story",
+      "story_name": "Biography",
       "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/16/Legendary_Chill_Promo.jpg/revision/latest?cb=20130325172626"
     }
   ],
   "quotes": [
     {
-      "quote_type": "Catchphrase",
+      "quote_type": "Official Catchphrase",
       "content": [
         "Stay Cool!"
       ]
@@ -40,7 +40,8 @@
   ],
   "trivia": [
     "Legendary Chill is the first LightCore Skylander to be a Legendary Skylander, the second being Legendary Grim Creeper.",
-    "Her Narwhal companion is gold instead of the original color. In Skylanders: Swap Force, her Narwhal is the original color instead of gold."
+    "Her Narwhal companion is gold instead of the original color.",
+    "In Skylanders: Swap Force, her Narwhal is the original color instead of gold."
   ],
   "trailers": [],
   "gameplay": "Legendary Chill excels at medium-range combat and area denial. She throws ice javelins that can pierce through enemies and uses her shield to block incoming projectiles or bash foes. She can also summon ice walls to obstruct enemies and call upon a narwhal to charge through lines of opponents.",
@@ -84,6 +85,30 @@
           "header": "#2b5691",
           "bg_content": "#a2c4e0"
         }
+      },
+      {
+        "name": "Cold Front",
+        "imgPath": "cold_front_icon.png",
+        "content": "Upgrades the Ice Wall to deal damage to enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#2b5691",
+          "bg_content": "#a2c4e0"
+        }
+      },
+      {
+        "name": "Imperial Armor",
+        "imgPath": "imperial_armor_icon.png",
+        "content": "Increases armor and defensive capabilities.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#2b5691",
+          "bg_content": "#a2c4e0"
+        }
       }
     ],
     "soulgems": [
@@ -123,12 +148,12 @@
   },
   "variants": [
     {
-      "id": "legendary-chill",
+      "id": "legendary-chill-s1",
       "variant_name": "Legendary Chill",
       "edition": "Series 1",
       "type": "Legendary",
       "game": "Skylanders: Giants",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/1/16/Legendary_Chill_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/16/Legendary_Chill_Promo.jpg/revision/latest?cb=20130325172626",
       "attacks": [
         "Ice Javelin",
         "Ice Wall",
