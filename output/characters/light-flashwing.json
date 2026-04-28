@@ -22,7 +22,7 @@
       "story_name": "Background",
       "content": "Light Flashwing is a Light elemental alter ego of the jewel dragon Flashwing. While Flashwing is normally an Earth Skylander, this version embraces the brilliance of Light, using her crystals to aid allies and defeat enemies with radiant energy. Her performance in Skylands is considered legendary, possessing a power that is far more than just imagination.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Light_Flashwing.jpg/revision/latest/scale-to-width-down/268?cb=20181213185642"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c5/Light_Flashwing.jpg/revision/latest?cb=20181213185642"
     }
   ],
   "quotes": [
@@ -45,7 +45,7 @@
     "basic": [
       {
         "name": "Light Ray",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7a/Light_Flashwingheroability1.png/revision/latest/scale-to-width-down/60?cb=20210816215057",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7a/Light_Flashwingheroability1.png/revision/latest?cb=20210816215057",
         "content": "[1 enemy] Inflicts 23% of ATK as damage to 1 enemy 3 time(s), and recovers the HP of the ally with the lowest HP ratio by 15% of your MAX HP.",
         "is_primary": true,
         "is_secondary": false,
@@ -57,7 +57,7 @@
       },
       {
         "name": "Spinning Crystal",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Light_Flashwingheroability2.png/revision/latest/scale-to-width-down/60?cb=20210816215112",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Light_Flashwingheroability2.png/revision/latest?cb=20210816215112",
         "content": "[All Allies] Grants a [Shield] Effect that's proportionate to 10% of the ally's MAX HP on the ally for 1 turn(s).",
         "is_primary": false,
         "is_secondary": true,
@@ -77,7 +77,7 @@
         "abilities": [
           {
             "name": "Light Crystal Lighthouse (Passive)",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Light_Flashwingheroability3.png/revision/latest/scale-to-width-down/60?cb=20210816215137",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Light_Flashwingheroability3.png/revision/latest?cb=20210816215137",
             "content": "Grants the [Debuff Effect Immunity] Effect on yourself for 1 turn(s) if your Endurance is below 1 when the turn begins.",
             "is_primary": false,
             "is_secondary": false,
@@ -89,7 +89,7 @@
           },
           {
             "name": "Crystal Dust (Leader)",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Light_Flashwingheroability4.png/revision/latest/scale-to-width-down/60?cb=20210816215146",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Light_Flashwingheroability4.png/revision/latest?cb=20210816215146",
             "content": "[All Allies] Increases your MAX HP by 10% in battle. Increases the MAX HP of team members by 10% in battle.",
             "is_primary": false,
             "is_secondary": false,
