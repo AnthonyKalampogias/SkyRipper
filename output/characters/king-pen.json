@@ -25,7 +25,7 @@
       "story_name": "Character Development",
       "content": "King Pen, being the leader of the Senseis and a Starter Pack character, was the most difficult to design. The first concepts for King Pen, with the idea of a penguin warrior, didn't seem to be fighting-capable. So I-Wei Huang experimented with the idea of more focus on the character's upper body muscles. Weapons were also experimented along with wing blade armor, however, as they disrupted his shape, they made the blades his main weapons instead.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/42/King_Pen_Production_JeffMurchie.jpg/revision/latest/scale-to-width-down/185?cb=20170915221551"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/King_Pen_Production_JeffMurchie.jpg/revision/latest?cb=20170915221551"
     },
     {
       "story_name": "Physical Traits",
@@ -37,7 +37,7 @@
       "story_name": "Biography",
       "content": "King Pen hails from a militaristic unit of penguins who protect the Cloudmelt Glaciers. During an epic battle, King Pen was trapped in an avalanche and had to take refuge in a nearby cave for the remainder of the winter season. During his solitude, he was visited by a mysterious Yeti Master, named Snow Wah, who began teaching him an ancient combat style known as 'Flipper-Fu'. King Pen was already a skilled fighter, but the wise teacher helped him to understand the spiritual and philosophical nature of warfare, turning the penguin into an unstoppable force. When he finally emerged from the cave, tales of his newfound abilities spread far and wide. When Master Eon caught wind, he recruited King Pen into his top secret training program, where he quickly rose up the ranks to become the leader of the Skylander Senseis.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cf/King_Pen_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20160601124404"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cf/King_Pen_Promo.jpg/revision/latest?cb=20160601124404"
     }
   ],
   "quotes": [
@@ -80,7 +80,7 @@
     "His catchphrase was originally planned to be 'Cold Cuts'.",
     "His new catchphrase, 'Stay Frosty' may be a reference to Minecraft Youtuber Jackfrostminer's motto of the same name.",
     "His quote, 'Enter the Penguin', is a reference to the Bruce Lee movie Enter the Dragon.",
-    "King Pen is the only new Sensei to appear in the starter pack."
+    "King Pen is the only new Sensei to appear in the starter pack. The other Starter Pack Senseis appeared in previous games (Golden Queen and Wolfgang from Skylanders: Trap Team and Crash Bandicoot and Dr. Neo Cortex from the original Crash Bandicoot franchise)."
   ],
   "trailers": [
     {
@@ -100,7 +100,7 @@
     "basic": [
       {
         "name": "Penguin Combo",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/King_Penprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506213505",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/King_Penprimarypower.png/revision/latest?cb=20170506213505",
         "content": "Press Attack 1 to slash. Press it four times for a Slash Combo.",
         "is_primary": true,
         "is_secondary": false,
@@ -112,7 +112,7 @@
       },
       {
         "name": "Frost Breath",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a7/King_Pensecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170506213510",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a7/King_Pensecondarypower.png/revision/latest?cb=20170506213510",
         "content": "Press Attack 2 to create an Ice Path in front of King Pen. Enemies that walk over the Ice Path are damaged and frozen.",
         "is_primary": false,
         "is_secondary": true,
@@ -126,7 +126,7 @@
     "basic_upgrades": [
       {
         "name": "Penguin Drill",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5f/King_Penbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506213515",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5f/King_Penbasicupgrade1.png/revision/latest?cb=20170506213515",
         "content": "Press Attack 3 to dash towards enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -138,7 +138,7 @@
       },
       {
         "name": "Giga Drill",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/King_Penbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506213520",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/King_Penbasicupgrade2.png/revision/latest?cb=20170506213520",
         "content": "Increases the damage of Penguin Drill.",
         "is_primary": false,
         "is_secondary": false,
@@ -150,7 +150,7 @@
       },
       {
         "name": "Ice Charge Lvl 1: Ice Arena",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/aa/King_Penbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506213525",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/aa/King_Penbasicupgrade3.png/revision/latest?cb=20170506213525",
         "content": "Hold Attack 2 to expend an Ice Charge and summon a ring of ice. King Pen has increased armor and damage while inside the Ice Arena. Ice Charges are gained by destroying Ice Paths.",
         "is_primary": false,
         "is_secondary": false,
@@ -162,7 +162,7 @@
       },
       {
         "name": "Frostier Breath",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/King_Penbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170506213530",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/King_Penbasicupgrade4.png/revision/latest?cb=20170506213530",
         "content": "Frost Breath range increased.",
         "is_primary": false,
         "is_secondary": false,
@@ -176,7 +176,7 @@
     "soulgems": [
       {
         "name": "Snowball",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/King_Pensoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506213536",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/King_Pensoulgempower.png/revision/latest?cb=20170506213536",
         "content": "Hold Attack 3 to spawn a Snowball.",
         "is_primary": false,
         "is_secondary": false,
@@ -191,7 +191,7 @@
       {
         "season": 1,
         "name": "Ice to Meet You and You",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/King_Penskychipower.png/revision/latest/scale-to-width-down/148?cb=20170506213543",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fe/King_Penskychipower.png/revision/latest?cb=20170506213543",
         "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power! Use Left Stick to steer into enemies!",
         "is_primary": false,
         "is_secondary": false,
@@ -208,7 +208,7 @@
         "abilities": [
           {
             "name": "Penguin Combos",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/King_Penpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506213740",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/King_Penpath1upgrade1.png/revision/latest?cb=20170506213740",
             "content": "Press Attack 1 twice and Attack 2 for a Frozen combo or press Attack 1 twice and Attack 3 for a Spin combo.",
             "is_primary": false,
             "is_secondary": false,
@@ -220,7 +220,7 @@
           },
           {
             "name": "Ice Blade",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/34/King_Penpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506213745",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/34/King_Penpath1upgrade2.png/revision/latest?cb=20170506213745",
             "content": "Equip Ice Blades and increase King Pen's damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -232,7 +232,7 @@
           },
           {
             "name": "Emperor Penguin",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3e/King_Penpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506213750",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3e/King_Penpath1upgrade3.png/revision/latest?cb=20170506213750",
             "content": "Hold Attack 1 to enter Emperor Penguin mode to gain a damage bonus.",
             "is_primary": false,
             "is_secondary": false,
@@ -249,7 +249,7 @@
         "abilities": [
           {
             "name": "Ice Trail",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/King_Penpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506213755",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/King_Penpath2upgrade1.png/revision/latest?cb=20170506213755",
             "content": "Penguin Drill creates an Ice Path",
             "is_primary": false,
             "is_secondary": false,
@@ -261,7 +261,7 @@
           },
           {
             "name": "Ice Charge Lvl 2: Blizzard",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/King_Penpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506213800",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/King_Penpath2upgrade2.png/revision/latest?cb=20170506213800",
             "content": "Hold Attack 3 to consume 3 Ice Charges to create a Blizzard that slows and damages nearby enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -273,7 +273,7 @@
           },
           {
             "name": "Ice Charge Lvl 3: Iceberg",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/King_Penpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506213806",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/King_Penpath2upgrade3.png/revision/latest?cb=20170506213806",
             "content": "Hold Attack 3 to consume 3 Ice Charges to spawn an Iceberg that deals heavy burst damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -294,7 +294,7 @@
       "edition": "Series 1",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/c/cf/King_Pen_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/cf/King_Pen_Promo.jpg/revision/latest?cb=20160601124404",
       "attacks": [
         "Penguin Combo",
         "Frost Breath",
@@ -321,6 +321,40 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/King_Pen"
+    },
+    {
+      "id": "dark-king-pen",
+      "variant_name": "Dark King Pen",
+      "edition": "Dark Edition",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/0a/Dark_King_Pen_Promo.jpg/revision/latest?cb=20161016141324",
+      "attacks": [
+        "Penguin Combo",
+        "Frost Breath",
+        "Penguin Drill",
+        "Ice Arena",
+        "Penguin Combos"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "290"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "210"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "100"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_King_Pen"
     }
   ]
 }
