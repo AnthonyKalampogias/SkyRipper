@@ -13,16 +13,16 @@
   "world": [
     "Skylands"
   ],
-  "description": "This version of Kaos is a clone created by the Dark Portal Master himself using Mind Magic, but he defected to the side of the Skylanders to prove he is the superior version. He is a Sensei who has mastered all the Battle Classes.",
-  "biography": "With Kaos having discovered the power of Mind Magic to create Doomlanders, one of his first creations was none other than a clone of himself! Figuring that no one in the universe, including the Skylanders, could ever stand up to more than one Kaos, he unleashed his clone in his quest to take over Skylands. But to Kaos’ surprise, the clone –also being Kaos– wanted victory for himself! As a result, he decided to fight against his creator, in turn helping the Skylanders in their endeavor to defeat the real Kaos!",
-  "quote": "Behold, My Catchphrase of DOOM!",
+  "description": "This version of Kaos is a clone created by the Dark Portal Master himself, but defected to the side of the Skylanders. He is a Sensei who is a master of all the Battle Classes.",
+  "biography": "With Kaos having discovered the power of Mind Magic to create Doomlanders, one of his first creations was none other than a clone of himself! Figuring that no one in the universe, including the Skylanders, could ever stand up to more than one Kaos, he unleashed his clone in his quest to take over Skylands. But to Kaos' surprise, the clone –also being Kaos– wanted victory for himself! As a result, he decided to fight against his creator, in turn helping the Skylanders in their endeavor to defeat the real Kaos!",
+  "quote": "Behold, My Catchphrase of Doom!",
   "personality": "Retaining the original Kaos's massive ego, arrogance, and penchant for dramatic monologues, this clone is uniquely driven by a spiteful desire to upstage his creator. While he remains rude to the Skylanders, often calling them 'fools' or 'stupid,' his competitive nature makes him a powerful ally against the real Kaos.",
   "story": [
     {
       "story_name": "Biography",
-      "content": "With Kaos having discovered the power of Mind Magic to create Doomlanders, one of his first creations was none other than a clone of himself! Figuring that no one in the universe, including the Skylanders, could ever stand up to more than one Kaos, he unleashed his clone in his quest to take over Skylands. But to Kaos’ surprise, the clone –also being Kaos– wanted victory for himself! As a result, he decided to fight against his creator, in turn helping the Skylanders in their endeavor to defeat the real Kaos!",
-      "hasImage": false,
-      "imgPath": ""
+      "content": "With Kaos having discovered the power of Mind Magic to create Doomlanders, one of his first creations was none other than a clone of himself! Figuring that no one in the universe, including the Skylanders, could ever stand up to more than one Kaos, he unleashed his clone in his quest to take over Skylands. But to Kaos' surprise, the clone –also being Kaos– wanted victory for himself! As a result, he decided to fight against his creator, in turn helping the Skylanders in their endeavor to defeat the real Kaos!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Kaos_Sensei_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20160817084040"
     }
   ],
   "quotes": [
@@ -38,19 +38,22 @@
         "HAHAHAHAHAHA! Impressive, I know.",
         "I win, fools!",
         "Impressive, isn't it?",
-        "What the…?! That’s not my name!"
+        "What the...?! That's not my name!"
       ]
     }
   ],
   "trivia": [
     "The Doomlanders summoned by Sensei Kaos look like small, blue copies of the Knight Doomlander.",
-    "Though being on the side of the Skylanders, he stills refers to them as \"stupid\" in his Sensei Training Bonus.",
+    "Though being on the side of the Skylanders, he stills refers to them as 'stupid' in his Sensei Training Bonus, just like the original Kaos.",
     "Kaos is the only Sensei who doesn't provide any Secret Techniques or exclusive weapons for the Imaginators.",
-    "However, he does provide a backpack attachment as well as raise the level cap for the Imaginators.",
-    "There are Kaos-themed weapons of each Battle Class that can be earned in-game without the need of the figure.",
+    "He provides a backpack attachment as well as raises the level cap for the Imaginators, like every other Sensei.",
     "Kaos is the only Sensei with a Sky-Chi that is already unlocked.",
-    "He is the only Sensei without any Sensei Shrine interaction.",
-    "When placing Kaos on the Portal, instead of showing the emblem of the Kaos element, it shows the emblem of Villains.",
+    "He is the only Sensei without any Sensei Shrine interaction, despite being a master of all Battle Classes.",
+    "Pressing the Primary Attack button while Kaos is in the air will cause him to transform into his giant head and slam into the ground.",
+    "He, Pop Fizz, and Grilla Drilla have the most syllables for their catchphrases, counting seven.",
+    "Kaos shares the same elemental booming effects with the Skylanders of the Dark element.",
+    "When placing Kaos on the Portal, it shows the emblem of Villains instead of the Kaos element.",
+    "Due to being a master of all Battle Classes, the Kaos element is shown on the bottom of his base instead of a Battle Class emblem.",
     "The pose used for the Kaos figure dates back to at least the Giants era."
   ],
   "trailers": [],
@@ -66,7 +69,7 @@
         "is_secondary": false,
         "price": 0,
         "colors": {
-          "header": "black",
+          "header": "#76A",
           "bg_content": "#CCF"
         }
       },
@@ -78,7 +81,7 @@
         "is_secondary": true,
         "price": 0,
         "colors": {
-          "header": "black",
+          "header": "#76A",
           "bg_content": "#CCF"
         }
       }
@@ -92,7 +95,7 @@
         "is_secondary": false,
         "price": 500,
         "colors": {
-          "header": "black",
+          "header": "#76A",
           "bg_content": "#CCF"
         }
       },
@@ -104,7 +107,7 @@
         "is_secondary": false,
         "price": 700,
         "colors": {
-          "header": "black",
+          "header": "#76A",
           "bg_content": "#CCF"
         }
       },
@@ -116,7 +119,7 @@
         "is_secondary": false,
         "price": 900,
         "colors": {
-          "header": "black",
+          "header": "#76A",
           "bg_content": "#CCF"
         }
       },
@@ -128,7 +131,7 @@
         "is_secondary": false,
         "price": 1200,
         "colors": {
-          "header": "black",
+          "header": "#76A",
           "bg_content": "#CCF"
         }
       }
@@ -142,7 +145,7 @@
         "is_secondary": false,
         "price": 4000,
         "colors": {
-          "header": "black",
+          "header": "#d04c8e",
           "bg_content": "#CCF"
         }
       }
@@ -157,7 +160,7 @@
         "is_secondary": false,
         "price": 0,
         "colors": {
-          "header": "black",
+          "header": "#d04c8e",
           "bg_content": "#CCF"
         }
       }
@@ -167,14 +170,14 @@
         "path_name": "Spell Slinger",
         "abilities": [
           {
-            "name": "Doom Hands Upgrade",
+            "name": "Doom Hands",
             "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Kaospath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506223642",
             "content": "Your Doom Hands stun enemies and deal more damage.",
             "is_primary": false,
             "is_secondary": false,
             "price": 1700,
             "colors": {
-              "header": "black",
+              "header": "#76A",
               "bg_content": "#CCF"
             }
           },
@@ -186,7 +189,7 @@
             "is_secondary": false,
             "price": 2200,
             "colors": {
-              "header": "black",
+              "header": "#76A",
               "bg_content": "#CCF"
             }
           },
@@ -198,7 +201,7 @@
             "is_secondary": false,
             "price": 3000,
             "colors": {
-              "header": "black",
+              "header": "#76A",
               "bg_content": "#CCF"
             }
           }
@@ -208,14 +211,14 @@
         "path_name": "Up Close and Personal",
         "abilities": [
           {
-            "name": "Explosive Doomlanders",
+            "name": "I Think Therefore You Are",
             "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c6/Kaospath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506223720",
             "content": "Your Doomlanders disappear with an explosion.",
             "is_primary": false,
             "is_secondary": false,
             "price": 1700,
             "colors": {
-              "header": "black",
+              "header": "#76A",
               "bg_content": "#CCF"
             }
           },
@@ -227,7 +230,7 @@
             "is_secondary": false,
             "price": 2200,
             "colors": {
-              "header": "black",
+              "header": "#76A",
               "bg_content": "#CCF"
             }
           },
@@ -239,7 +242,7 @@
             "is_secondary": false,
             "price": 3000,
             "colors": {
-              "header": "black",
+              "header": "#76A",
               "bg_content": "#CCF"
             }
           }
@@ -254,11 +257,13 @@
       "edition": "Standard",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/3/30/Kaos_Sensei_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/30/Kaos_Sensei_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20160817084040",
       "attacks": [
         "Brain Bash",
         "Psychic Shot",
+        "Portal Practitioner",
         "Doom Sharks",
+        "Portal Party",
         "Doom Hands"
       ],
       "stats": [
@@ -267,16 +272,16 @@
           "stat_value": "280"
         },
         {
-          "stat_name": "Speed",
-          "stat_value": "8"
+          "stat_name": "Attack",
+          "stat_value": "12"
         },
         {
           "stat_name": "Armor",
           "stat_value": "8"
         },
         {
-          "stat_name": "Attack",
-          "stat_value": "12"
+          "stat_name": "Speed",
+          "stat_value": "8"
         },
         {
           "stat_name": "Luck",
