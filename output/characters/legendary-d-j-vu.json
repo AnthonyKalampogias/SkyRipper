@@ -1,7 +1,7 @@
 {
   "id": "legendary-deja-vu",
   "name": "Legendary Déjà Vu",
-  "species": "Humanoid",
+  "species": "Unknown",
   "gender": "Female",
   "element": "Magic",
   "role": "Legendary Skylander",
@@ -9,6 +9,7 @@
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
+    "Champions",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
@@ -23,14 +24,14 @@
   "story": [
     {
       "story_name": "Biography",
-      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders.",
+      "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
       "hasImage": false,
       "imgPath": ""
     }
   ],
   "quotes": [
     {
-      "quote_type": "Catchphrase",
+      "quote_type": "Official Catchphrase",
       "content": [
         "Did That Just Happen?"
       ]
@@ -41,15 +42,40 @@
   ],
   "trailers": [
     {
-      "name": "Legendary Déjà Vu Character Trailer",
-      "isValid": false,
-      "url": ""
+      "name": "Meet the Skylanders Legendary Déjà Vu",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Legendary_Déjà_Vu"
     }
   ],
   "gameplay": "Legendary Déjà Vu uses her time-based powers to create clones of herself from the past to assist in combat. She can also set a time marker to teleport back to a previous position and health state, allowing for high survivability and tactical movement.",
-  "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_D%C3%A9j%C3%A0_Vu",
+  "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Déjà_Vu",
   "abilities": {
-    "basic": [],
+    "basic": [
+      {
+        "name": "Space-Time Shots",
+        "imgPath": "",
+        "content": "",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#000000",
+          "bg_content": "#A7B"
+        }
+      },
+      {
+        "name": "Past Selves",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#000000",
+          "bg_content": "#A7B"
+        }
+      }
+    ],
     "basic_upgrades": [],
     "soulgems": [],
     "wow_pows": [],
@@ -88,7 +114,7 @@
           "stat_value": "200"
         }
       ],
-      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_D%C3%A9j%C3%A0_Vu"
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Déjà_Vu"
     }
   ]
 }
