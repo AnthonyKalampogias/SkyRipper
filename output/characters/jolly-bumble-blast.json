@@ -10,7 +10,7 @@
     "Skylanders: Swap Force",
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
-    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
   "cameos": [],
@@ -49,9 +49,10 @@
     "Jolly Bumble Blast comes with a unique hat for Swap Force, the Jolly Hat.",
     "When upgrading, Stirred up a Nest on the Bee Keeper path changes his Beezooka to its default colors.",
     "This might be because of the developers forgetting to implement the correct color for the upgrade.",
-    "Despite his Beezooka showing a white and red colored bee inside the barrel, they come out in normal colors when shot.",
-    "Jolly Bumble Blast is the first Christmas themed variant who is not a Water element Skylander.",
-    "He is one of three holiday based alter-ego Skylanders to come with an exclusive hat, the other two being Springtime Trigger Happy and Kickoff Countdown.",
+    "Despite his Beezooka shows a white and red colored bee inside the barrel, they come out in normal colors when shot.",
+    "Jolly Bumble Blast is the first Christmas themed variant who is not a Water element Skylander (the second being Jingle Bell Chompy Mage).",
+    "Coincidentally, both are Life Skylanders.",
+    "Jolly Bumble Blast is one of three holiday based alter-ego Skylanders to come with an exclusive hat, the other two being Springtime Trigger Happy and Kickoff Countdown.",
     "He is the only one of the three who isn't of the Tech Element."
   ],
   "trailers": [],
@@ -169,12 +170,13 @@
       "edition": "Special Edition",
       "type": "Holiday Variant",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Jolly_Bumble_Blast_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Jolly_Bumble_Blast_Promo.jpg/revision/latest?cb=20131213214001",
       "attacks": [
         "Beezooka",
         "Honey Glob",
         "Honey Beecon",
-        "Bee Armada"
+        "Bee Armada",
+        "Honey Buzz Blast"
       ],
       "stats": [
         {
