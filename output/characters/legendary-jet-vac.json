@@ -55,7 +55,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_Jet-Vac_LEGENDARY_Pre_Trailer_preview"
     }
   ],
-  "gameplay": "In Skylanders: Giants, Legendary Jet-Vac features a starting Health of 240, Speed of 50, Armor of 18, and a Critical Hit rate of 20. These can reach a maximum of 480 Health, 98 Speed, 48 Armor, and 70 Critical Hit. Additionally, his power stats—though not utilized in gameplay—are listed as Strength 60, Defense 50, Agility 80, and Luck 85.",
+  "gameplay": "In Skylanders: Giants, Legendary Jet-Vac features a starting Health of 240, Speed of 50, Armor of 18, and a Critical Hit rate of 20. These can reach a maximum of 480 Health, 98 Speed, 48 Armor, and 70 Critical Hit. Additionally, his power stats—though not utilized in gameplay—are listed as Strength 60, Defense 50, Agility 80, and Luck 85. Elemental Power is listed as ??.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Jet-Vac",
   "abilities": {
     "basic": [
@@ -158,6 +158,10 @@
         {
           "stat_name": "Critical Hit",
           "stat_value": "20 (max. 70)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
         },
         {
           "stat_name": "Strength",
