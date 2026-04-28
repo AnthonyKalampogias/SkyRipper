@@ -426,12 +426,12 @@
   },
   "variants": [
     {
-      "id": "jet-vac",
+      "id": "jet-vac-s1",
       "variant_name": "Jet-Vac",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Giants",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Jet_Vac_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Jet_Vac_Promo.jpg/revision/latest?cb=20120605011208",
       "attacks": [
         "Vac Blaster",
         "Suction Gun",
@@ -461,6 +461,131 @@
           "stat_value": "25 (max. 75)"
         }
       ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Jet-Vac"
+    },
+    {
+      "id": "jet-vac-lc",
+      "variant_name": "LightCore Jet-Vac",
+      "edition": "LightCore",
+      "type": "LightCore",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/82/LightCore_Jet-Vac_Promo.jpg/revision/latest?cb=20121218183537",
+      "attacks": [
+        "Vac Blaster",
+        "Suction Gun",
+        "Jet Vac Jet Pack",
+        "Vac Blaster 9000",
+        "Fiester Fan"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "???"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Jet-Vac"
+    },
+    {
+      "id": "jet-vac-s2",
+      "variant_name": "Turbo Jet-Vac",
+      "edition": "Series 2",
+      "type": "Series 2",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/fd/S2_Jet-Vac_Promo.jpg/revision/latest?cb=20140323221527",
+      "attacks": [
+        "Vac Blaster",
+        "Suction Gun",
+        "Jet Vac Jet Pack",
+        "Vac Blaster 9000",
+        "Fiester Fan"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "???"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Jet-Vac"
+    },
+    {
+      "id": "jet-vac-s3",
+      "variant_name": "Full Blast Jet-Vac",
+      "edition": "Series 3",
+      "type": "Series 3",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/78/S3_JetVac_Promo.jpg/revision/latest?cb=20141103095002",
+      "attacks": [
+        "Vac Blaster",
+        "Suction Gun",
+        "Jet Vac Jet Pack",
+        "Vac Blaster 9000",
+        "Fiester Fan"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "???"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Jet-Vac"
+    },
+    {
+      "id": "hurricane-jet-vac",
+      "variant_name": "Hurricane Jet-Vac",
+      "edition": "SuperCharger",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "",
+      "attacks": [],
+      "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Jet-Vac"
     }
   ]
