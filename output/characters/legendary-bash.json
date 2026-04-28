@@ -29,13 +29,13 @@
     {
       "story_name": "Biography",
       "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "L-Bash.jpg"
     }
   ],
   "quotes": [
     {
-      "quote_type": "Official catchphrase",
+      "quote_type": "official catchphrase",
       "content": [
         "Rock and Roll!"
       ]
@@ -45,7 +45,7 @@
     "Legendary Bash is the Legendary counterpart of Bash, exclusive to the original Toys'R'Us Legendary Pack.",
     "He has slightly higher Console Stats than the standard Bash, though it has little effect on gameplay.",
     "Finding Bash's Soul Gem will also unlock the new ability for Legendary Bash.",
-    "He is voiced by Keith Silverstein."
+    "Legendary Bash is voiced by Keith Silverstein."
   ],
   "trailers": [
     {
