@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-27T21:03:55.570Z",
+  "last_run": "2026-04-28T03:22:17.737Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -676,6 +676,34 @@
     {
       "name": "Instant Super Shot Stealth Elf",
       "sha": "e0e0fc75cc587704875189ca7f08c54f8040600fb055288258c18c27763317e3"
+    },
+    {
+      "name": "Jade Fire Kraken",
+      "sha": "93f4c0dd9dc37b4c351c48fa9e2b006fe022dc1e0114a2c75df7ef9824af2a40"
+    },
+    {
+      "name": "Jade Flashwing",
+      "sha": "4d028453e4c8ebab5667da8836c68d3f5cc01a84c581613bdb2f52a99e903be8"
+    },
+    {
+      "name": "Jawbreaker",
+      "sha": "12aa8ec180618ac1d4b6d195e76462223de32681a45cea1f8ef73fe05edf08d3"
+    },
+    {
+      "name": "Jet-Vac",
+      "sha": "e714badae42003e0101588c3baf5bbea397a62d8d64b88b881013d40771592d8"
+    },
+    {
+      "name": "Jingle Bell Chompy Mage",
+      "sha": "f7adb2116140db666d7a5c432773cd36e6a5790fbb6eadb79e3478af78660fda"
+    },
+    {
+      "name": "Jolly Bumble Blast",
+      "sha": "fd48f04344935d2cdb3f7672cd83f3b716ff1f5cd65654a274ccd51f86626ff0"
+    },
+    {
+      "name": "Ka-Boom",
+      "sha": "314e5303bd4739c9e1f46d8467cb5cd1ff6bebbab6c8e654c54bfcd082ab233f"
     }
   ]
 }
