@@ -17,7 +17,7 @@
   "world": [
     "Skylands"
   ],
-  "description": "Legendary Ignitor is a playable Legendary version of Ignitor in Skylanders: Giants. He is a noble knight who was tricked by a witch into wearing a cursed suit of armor.",
+  "description": "Legendary Ignitor is a playable Legendary version of Ignitor in Skylanders: Giants.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
   "quote": "Slash and Burn!",
   "personality": "Legendary Ignitor is a brave and valiant warrior who upholds the principles of chivalry. Despite being a spirit of fire trapped in a suit of armor, he remains steadfast, heroic, and always ready to dive headfirst into battle to defend the innocent.",
@@ -39,7 +39,68 @@
   "gameplay": "Legendary Ignitor is a melee-focused character who uses his massive Flaming Sword to deliver devastating strikes. His primary gameplay mechanic involves switching between his armored form for defense and his Flame Form for speed and area-of-effect damage. He excels at close-quarters combat and can unleash fire-based projectiles by swinging his sword.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Ignitor",
   "abilities": {
-    "basic": [],
+    "basic": [
+      {
+        "name": "Flaming Sword",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      },
+      {
+        "name": "Flame Form Mortar",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      },
+      {
+        "name": "Scorching Blade",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      },
+      {
+        "name": "Fire Forged Armor",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      },
+      {
+        "name": "Flame Form",
+        "imgPath": "",
+        "content": "",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "",
+          "bg_content": ""
+        }
+      }
+    ],
     "basic_upgrades": [],
     "soulgems": [],
     "wow_pows": [],
@@ -61,6 +122,26 @@
         "Flame Form"
       ],
       "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "???"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "??"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "??"
+        },
         {
           "stat_name": "Strength",
           "stat_value": "110"
