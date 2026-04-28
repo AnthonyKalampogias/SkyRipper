@@ -8,7 +8,7 @@
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: Lost Islands",
-    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
   "cameos": [],
@@ -23,13 +23,13 @@
     {
       "story_name": "Biography",
       "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/L-Astroblast_Promo.jpg"
     }
   ],
   "quotes": [
     {
-      "quote_type": "Catchphrase",
+      "quote_type": "Official Catchphrase",
       "content": [
         "Ready, Set, Glow!"
       ]
@@ -37,29 +37,92 @@
   ],
   "trivia": [
     "He is the first Alt Deco Light Skylander.",
-    "He is the only Legendary version of a new Skylander in SuperChargers; other Legendary SuperChargers are reposed characters.",
-    "His vehicle counterpart is the Legendary Sun Runner."
+    "He is the only Legendary version of a new Skylander in SuperChargers. The other Legendary SuperChargers (Hurricane Jet Vac and Bone Bash Roller Brawl) are from reposed Skylanders.",
+    "Additionally, he is the only Legendary SuperCharger to have a Legendary counterpart of his vehicle."
   ],
   "trailers": [],
-  "gameplay": "Legendary Astroblast utilizes light-based attacks, including his Solar Laser for long-distance precision and an Asteroid Belt for close-quarters defense. In-game, he features slightly higher stats than his standard counterpart and a unique aesthetic.",
+  "gameplay": "Legendary Astroblast utilizes light-based attacks, including his Solar Flair for long-distance precision and an Asteroid Belt for close-quarters defense. In-game, he features slightly higher stats than his standard counterpart and a unique aesthetic.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Astroblast",
   "abilities": {
-    "basic": [],
-    "basic_upgrades": [],
-    "soulgems": [],
+    "basic": [
+      {
+        "name": "Solar Flair",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/L-Astroblast_Promo.jpg",
+        "content": "Legendary Astroblast fires a beam of concentrated solar energy at his enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFF"
+        }
+      },
+      {
+        "name": "Asteroid Belt",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/L-Astroblast_Promo.jpg",
+        "content": "Summon a ring of asteroids to orbit and protect Legendary Astroblast from nearby threats.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Starsault",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/L-Astroblast_Promo.jpg",
+        "content": "Perform a powerful aerial maneuver that releases bursts of light energy.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFF"
+        }
+      },
+      {
+        "name": "Surface of the Sun",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/L-Astroblast_Promo.jpg",
+        "content": "Legendary Astroblast radiates intense heat and light, damaging all surrounding enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Meteor Shower",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/L-Astroblast_Promo.jpg",
+        "content": "Call down a devastating rain of meteors from the heavens to crush enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FE7",
+          "bg_content": "#FFF"
+        }
+      }
+    ],
     "wow_pows": [],
     "upgrade_paths": []
   },
   "variants": [
     {
-      "id": "legendary-astroblast",
+      "id": "legendary-astroblast-s1",
       "variant_name": "Legendary Astroblast",
       "edition": "Legendary",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
       "image": "https://static.wikia.nocookie.net/skylanders/images/8/84/L-Astroblast_Promo.jpg",
       "attacks": [
-        "Solar Laser",
+        "Solar Flair",
         "Asteroid Belt",
         "Starsault",
         "Surface of the Sun",
@@ -68,23 +131,23 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "230"
+          "stat_value": "230 (460)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "35"
+          "stat_value": "35 (83)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "18"
+          "stat_value": "18 (48)"
         },
         {
           "stat_name": "Critical Hit",
-          "stat_value": "16"
+          "stat_value": "16 (66)"
         },
         {
           "stat_name": "Elemental Power",
-          "stat_value": "25"
+          "stat_value": "25 (75)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Astroblast"
