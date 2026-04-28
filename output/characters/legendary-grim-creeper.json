@@ -20,7 +20,7 @@
   "description": "Legendary Grim Creeper is the Legendary counterpart of LightCore Grim Creeper in Skylanders: Swap Force.",
   "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
   "quote": "Your Time Is Up!",
-  "personality": "Legendary Grim Creeper is a stoic and disciplined warrior, embodying the spirit of a champion from the ancient gladiator arenas. He is dedicated to his role as a guardian of Skylands.",
+  "personality": "",
   "story": [],
   "quotes": [
     {
@@ -40,7 +40,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Legendary_Grim_Creeper_LightCore"
     }
   ],
-  "gameplay": "Legendary Grim Creeper utilizes high-speed melee scythe attacks and a unique ghost form transformation. This allows players to switch between armor-based offense and ethereal mobility to haunt their enemies.",
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Grim_Creeper",
   "abilities": {
     "basic": [
@@ -137,10 +137,11 @@
       "edition": "Legendary",
       "type": "LightCore",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/a/ae/L-Grim_Creeper_Promo_Art.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/ae/L-Grim_Creeper_Promo_Art.jpg/revision/latest?cb=20131010161158",
       "attacks": [
         "Scythe Swing",
         "Ghost Form",
+        "Polterguest Scythe",
         "Sphere of Fear",
         "It's Alive!"
       ],
