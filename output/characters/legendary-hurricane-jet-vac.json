@@ -36,12 +36,11 @@
     }
   ],
   "trivia": [
-    "He is the second Legendary counterpart of Jet-Vac, making Jet-Vac the first Skylander to have two Legendary counterparts.",
-    "His design features a blue and gold color scheme typical of Legendary Skylanders."
+    "He is the second Legendary counterpart of Jet-Vac, making him the first Skylander to have two Legendary counterparts."
   ],
   "trailers": [
     {
-      "name": "Skylanders SuperChargers: Legendary Hurricane Jet-Vac Trailer",
+      "name": "Legendary Hurricane Jet Vac",
       "isValid": true,
       "url": "https://www.youtube.com/watch?v=example"
     }
@@ -83,6 +82,18 @@
         "is_primary": false,
         "is_secondary": false,
         "price": 500,
+        "colors": {
+          "header": "#00CCFF",
+          "bg_content": "#FFFFFF"
+        }
+      },
+      {
+        "name": "Turbulent Turbine",
+        "imgPath": "turbulent_turbine.png",
+        "content": "Enhance the Jet Turbine Vacuum to deal continuous damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
         "colors": {
           "header": "#00CCFF",
           "bg_content": "#FFFFFF"
@@ -131,11 +142,13 @@
       "edition": "Legendary",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c0/Legendary_Hurricane_Jet-Vac_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c0/Legendary_Hurricane_Jet-Vac_Promo.jpg/revision/latest?cb=20150915000123",
       "attacks": [
         "Shooting the Breeze",
         "Jet Turbine Vacuum",
-        "Somer-Assault"
+        "Somer-Assault",
+        "Category Pain",
+        "Turbulent Turbine"
       ],
       "stats": [
         {
