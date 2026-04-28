@@ -9,7 +9,9 @@
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
-    "Skylanders: SuperChargers",
+    "Champions",
+    "Return of the Dragon King",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
   "cameos": [],
@@ -44,7 +46,7 @@
   ],
   "trailers": [
     {
-      "name": "Legendary Blades Reveal",
+      "name": "Meet the Skylanders Legendary Blades",
       "isValid": true,
       "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Legendary_Blades"
     }
@@ -141,7 +143,7 @@
         "path_name": "Razor Sharper",
         "abilities": [
           {
-            "name": "Shard Storm",
+            "name": "Razor Sharper",
             "imgPath": "shard_storm.png",
             "content": "Fires more shards at a faster rate.",
             "is_primary": false,
