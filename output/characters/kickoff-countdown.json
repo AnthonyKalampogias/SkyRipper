@@ -9,21 +9,34 @@
   "appearances": [
     "Skylanders: Swap Force",
     "Skylanders: Trap Team",
-    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
   "cameos": [],
   "world": [
     "Skylands"
   ],
-  "description": "Kickoff Countdown is a special Tech element variant of Countdown released to commemorate the 2014 FIFA World Cup.",
-  "biography": "Countdown was discovered by a group of Yetis who were snowboarding one particularly chilly morning when they came across a big bomb encased in ice. After bringing it back to their cabin, they were shocked when it actually came to life. No one, not even Countdown himself, has any memory of where he came from or how he ended up frozen in the mountains. Since becoming a Skylander, Master Eon has been graciously trying to help piece together fragments of his past. But this has proven difficult, as Countdown loses some of his memory every time he explodes - which happens a lot.",
+  "description": "Kickoff Countdown is a soccer ball themed variant of Countdown in Skylanders: Swap Force.",
+  "biography": "Countdown was discovered by a group of Yetis who were snowboarding one particularly chilly morning when they came across a big bomb encased in ice. After bringing it back to their cabin, they were shocked when it actually came to life. No one, not even Countdown himself, has any memory of where he came from or how he ended up frozen in the mountains. Since becoming a Skylander, Master Eon has been graciously trying to help piece together fragments of his past. But this has proven difficult, as Countdown loses some of his memory every time he explodes - which happens a lot. In the meantime, Countdown has enjoyed working with Eon and fighting alongside the Skylanders to defend their world against evil - even though he occasionally forgets what he is doing.",
   "quote": "I'm the Bomb!",
   "personality": "Countdown is brave and dedicated to protecting Skylands, though his most defining trait is his extreme forgetfulness caused by the frequent detonation of his own head. He often forgets what he is doing mid-task, yet he remains an enthusiastic member of the Skylanders.",
-  "story": [],
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "Countdown was discovered by a group of Yetis who were snowboarding one particularly chilly morning when they came across a big bomb encased in ice. After bringing it back to their cabin, they were shocked when it actually came to life. No one, not even Countdown himself, has any memory of where he came from or how he ended up frozen in the mountains. Since becoming a Skylander, Master Eon has been graciously trying to help piece together fragments of his past. But this has proven difficult, as Countdown loses some of his memory every time he explodes - which happens a lot. In the meantime, Countdown has enjoyed working with Eon and fighting alongside the Skylanders to defend their world against evil - even though he occasionally forgets what he is doing.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Kickoff_Countdown_Promo.jpg/revision/latest?cb=20140530202351"
+    }
+  ],
   "quotes": [
     {
-      "quote_type": "Battle Cry",
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "I'm the Bomb!"
+      ]
+    },
+    {
+      "quote_type": "Battle Cries",
       "content": [
         "I'm the Bomb!",
         "Tick, tick, boom!",
@@ -32,10 +45,10 @@
     }
   ],
   "trivia": [
-    "Although his clock is silver in his promotional art and figure, in the game it is still golden.",
+    "Although his clock is silver in his promotional art and figure, in the game is still golden.",
     "Despite him smiling on most artworks, he's rarely ever seen smiling in gameplay.",
-    "He unlocks an exclusive hat called the 'Kickoff Hat'.",
-    "He was released as a special edition for the 2014 World Cup."
+    "He unlocks an exclusive hat called the 'Kickoff Hat'",
+    "He, Springtime Trigger Happy, and Jolly Bumble Blast are the only Skylanders to unlock exclusive hats."
   ],
   "trailers": [
     {
@@ -141,25 +154,34 @@
       "edition": "Special Edition",
       "type": "Core",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Kickoff_Countdown_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Kickoff_Countdown_Promo.jpg/revision/latest?cb=20140530202351",
       "attacks": [
         "Bomb Head",
         "Rocket Blast",
         "Controlled Burst",
-        "Boom Buddies"
+        "Boom Buddies",
+        "Triple Threat"
       ],
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "290"
+          "stat_value": "290 (max. 580)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "43"
+          "stat_value": "43 (max. 91)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "12"
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Kickoff_Countdown"
