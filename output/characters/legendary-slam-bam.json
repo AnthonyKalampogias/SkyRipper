@@ -18,10 +18,10 @@
   "world": [
     "Skylands"
   ],
-  "description": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-  "biography": "Legendary Slam Bam is the playable Legendary counterpart of Slam Bam in Skylanders: Giants. For centuries, Legendary Skylanders have competed in gladiator-style events inside epic arenas of sport, immortalized as golden statues.",
+  "description": "Legendary Slam Bam is the playable Legendary counterpart of Slam Bam in Skylanders: Giants.",
+  "biography": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
   "quote": "Armed and Dangerous!",
-  "personality": "As a Legendary Skylander, Slam Bam is recognized as one of the greatest combatants in history. He is a stalwart guardian of Skylands, brought to life from his golden statue form only when the world is in dire peril.",
+  "personality": "",
   "story": [
     {
       "story_name": "Background",
@@ -32,7 +32,7 @@
   ],
   "quotes": [
     {
-      "quote_type": "Battle Cries",
+      "quote_type": "Official Catchphrase",
       "content": [
         "Armed and Dangerous!"
       ]
@@ -41,10 +41,10 @@
   "trivia": [
     "Before upgrading Legendary Slam Bam, the only thing golden is his nails.",
     "If you choose the Glacier Hit path and fully upgrade Legendary Slam Bam, the only thing golden will be his nails and eyewear.",
-    "Legendary Slam Bam and Starcast are similar in that both have four arms, a gold and dark blue color scheme, and are hunched with hair on the back of their heads."
+    "Legendary Slam Bam and Starcast are similar in the following ways: Both have four arms. Both have a gold and dark blue color scheme. Both are hunched and have hair on the back of their heads. However, it's unclear if Starcast's 'hair' is actually some sort of fur or is another material."
   ],
   "trailers": [],
-  "gameplay": "Legendary Slam Bam features enhanced starting statistics compared to his standard counterpart. He focuses on powerful melee combat with his four arms and utility through ice-based trapping abilities.",
+  "gameplay": "",
   "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Slam_Bam",
   "abilities": {
     "basic": [
@@ -133,23 +133,23 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "310"
+          "stat_value": "310 (max. 620)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "35"
+          "stat_value": "35 (max. 83)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "36"
+          "stat_value": "36 (max. 66)"
         },
         {
           "stat_name": "Critical Hit",
-          "stat_value": "30"
+          "stat_value": "30 (max. 80)"
         },
         {
           "stat_name": "Elemental Power",
-          "stat_value": "25"
+          "stat_value": "25 (max. 75)"
         },
         {
           "stat_name": "Strength",
