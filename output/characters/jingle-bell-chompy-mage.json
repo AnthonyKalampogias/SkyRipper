@@ -14,13 +14,13 @@
     "Chompy Mountain"
   ],
   "description": "Jingle Bell Chompy Mage is the Christmas counterpart of Chompy Mage, with an outfit resembling Santa Claus, in Skylanders: Imaginators.",
-  "biography": "Jingle Bell Chompy Mage is a specially designed toy that appears in the game outfitted in a holiday-inspired wardrobe. He joins the lineup of Sensei Skylanders new to Skylanders Imaginators and is ready to teach the Skylanders some new fighting techniques and a classic Chompy holiday tradition — the White Chompy gift exchange! After all, 'tis the season to be Chompy!",
-  "quote": "Chompy Power!",
+  "biography": "Jingle Bell Chompy Mage is a specially designed toy that appears in the game outfitted in a holiday-inspired wardrobe. He joins the lineup of Sensei Skylanders new to Skylanders Imaginators and is ready to teach the Skylanders some new fighting techniques and a classic Chompy holiday tradition — the White Chompy gift exchange! After all, 'tis the season to be Chompy![1]",
+  "quote": "Chompy Power",
   "personality": "",
   "story": [
     {
       "story_name": "Overall Story",
-      "content": "Jingle Bell Chompy Mage is the Christmas counterpart of Chompy Mage, with an outfit resembling Santa Claus, in Skylanders: Imaginators. Jingle Bell Chompy Mage is a specially designed toy that appears in the game outfitted in a holiday-inspired wardrobe. He joins the lineup of Sensei Skylanders new to Skylanders Imaginators and is ready to teach the Skylanders some new fighting techniques and a classic Chompy holiday tradition — the White Chompy gift exchange! After all, 'tis the season to be Chompy!",
+      "content": "Jingle Bell Chompy Mage is the Christmas counterpart of Chompy Mage, with an outfit resembling Santa Claus, in Skylanders: Imaginators. Jingle Bell Chompy Mage is a specially designed toy that appears in the game outfitted in a holiday-inspired wardrobe. He joins the lineup of Sensei Skylanders new to Skylanders Imaginators and is ready to teach the Skylanders some new fighting techniques and a classic Chompy holiday tradition — the White Chompy gift exchange! After all, 'tis the season to be Chompy![1]",
       "hasImage": false,
       "imgPath": ""
     }
@@ -29,7 +29,7 @@
     {
       "quote_type": "Catchphrase",
       "content": [
-        "Chompy Power!"
+        "Chompy Power"
       ]
     }
   ],
@@ -40,7 +40,7 @@
   "trailers": [
     {
       "name": "Meet Chompy Mage l Skylanders Imaginators l Skylanders",
-      "isValid": true,
+      "isValid": false,
       "url": "https://skylanders.fandom.com/wiki/File:Meet_Chompy_Mage_l_Skylanders_Imaginators_l_Skylanders"
     }
   ],
