@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-28T03:22:17.737Z",
+  "last_run": "2026-04-28T09:31:17.502Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -179,7 +179,7 @@
     },
     {
       "name": "Cobra Cadabra",
-      "sha": "d5a7c5c8e3ad502067a681811d3735622561e70edd802e9c2fac31c17509747a"
+      "sha": "165bbb8deefc2da03a891423b1437ea9d4e410b8318e6e24f82ebb7b1e65fa84"
     },
     {
       "name": "Core Skylanders",
@@ -704,6 +704,74 @@
     {
       "name": "Ka-Boom",
       "sha": "314e5303bd4739c9e1f46d8467cb5cd1ff6bebbab6c8e654c54bfcd082ab233f"
+    },
+    {
+      "name": "Kaos",
+      "sha": "26751eceb2da892aa44dd7280216eb1f679e997a92bcc5da41e1b4a3558047ff"
+    },
+    {
+      "name": "Kickoff Countdown",
+      "sha": "757ebe65dfe5edc75ad97c81458cdd77b943fde8b8064c72b9b00c9ccaafa6e1"
+    },
+    {
+      "name": "King Pen",
+      "sha": "88e592d6cb6a7f9ec35b128c4cc5a41906864324653b7ce21cffcc2435a7ac6d"
+    },
+    {
+      "name": "Knight Light",
+      "sha": "fbb1fa19e73a04694d78ec47042481826979a5c6a45ea6ff996891e4e6ef41ad"
+    },
+    {
+      "name": "Knight Mare",
+      "sha": "147182df116f43b33c71f9e9bc27c248b5340a0d6918e1d5bce71ae8d0be84ed"
+    },
+    {
+      "name": "Knockout Jawbreaker",
+      "sha": "0d4e0b14f4fc1618e27e53a489fc9ed48ca82c8512daae9fc93aded44ad34bba"
+    },
+    {
+      "name": "Krypt King",
+      "sha": "b59438678814087f46c28a74713182b12ea103efdd7f69922e6b043b7a074ec0"
+    },
+    {
+      "name": "Lava Lance Eruptor",
+      "sha": "3cb508a709c6774ae21b744a3afd31dbb3a6b8e949d732938a8d3dd0a9afe38b"
+    },
+    {
+      "name": "Legendary Astroblast",
+      "sha": "6edaa43a841e521901253e3680ebb3fd9ff74dd20b5f2a8de4b5d679a03ff6de"
+    },
+    {
+      "name": "Legendary Bash",
+      "sha": "c0ba9df87756976358d6de0214a5bbaa227035e54fb4f959c306e9a9b5927802"
+    },
+    {
+      "name": "Legendary Blades",
+      "sha": "7735b0afd08cbedaca9a567017ef4ffa5433a950d7c5ed3c842fbda6cbe07c84"
+    },
+    {
+      "name": "Legendary Bone Bash Roller Brawl",
+      "sha": "f7cbb116639ad15f6e058580e45fb503fc6a6c556efebaa704905d49c468844e"
+    },
+    {
+      "name": "Legendary Bouncer",
+      "sha": "c32dce065844bfacfea6f8bdf293fe6d0c77a6c97f464e48b31be0ff5f106069"
+    },
+    {
+      "name": "Legendary Bushwhack",
+      "sha": "41488020f030712e50332de607d09f66bd893bb150db2fb5b777ceb9143f44a2"
+    },
+    {
+      "name": "Legendary Chill",
+      "sha": "dde0ce00be0d6e57b7a36ea7f49a494760b8b75090045091e5cb0c95787e118c"
+    },
+    {
+      "name": "Legendary Chop Chop",
+      "sha": "ab77b76bc5c5a16f99d510e6ce6dc3cb9c715fe1b7465c7322080a36906426d7"
+    },
+    {
+      "name": "Legendary Déjà Vu",
+      "sha": "e514c9fbc2bf7f5df6383813ed7c0e6e8b66ffc4ea524fad495ccad65e169b54"
     }
   ]
 }
