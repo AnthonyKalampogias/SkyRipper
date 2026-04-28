@@ -140,6 +140,7 @@
   ],
   "trivia": [
     "Her name is a play on the word 'nightmare', a bad dream, and her knight-like armor and sword.",
+    "Her name may also be a reference to her horse qualities.",
     "Both Knight Mare and Knight Light have the word 'knight' in their names.",
     "They are also the only Trap Masters to be included in Expansion Packs.",
     "They are also the only Trap Masters of their respective elements.",
@@ -147,11 +148,12 @@
     "However, she fights like a bipedal Skylander since she has arms while having four legs.",
     "She and Trail Blazer are the only Skylanders with horse-related features.",
     "Knight Mare has a doubled voice effect, by having the second one slightly delayed.",
-    "For unknown reasons, Knight Mare has two lines exactly the same as Hex's ('Fear the darkness!' and 'My power knows no equal!'), with whom she shares her voice actress, Courtenay Taylor.",
+    "For unknown reasons, Knight Mare has two lines exactly the same as Hex's ('Fear the darkness!' and 'My power knows no equal!'), with whom she shares her voice actress, Courtenay Taylor. However, they're pronounced slightly differently.",
     "Despite having protected the Oracle of Stones for years, Knight Mare had yet to play Skystones herself until she decided to try it out in Lost Islands.",
     "In at least the Wii version of Trap Team, Knight Mare can perform the Light and Dark Gate Glitch using her secondary attack on a few of the glitched gates.",
     "In the 3DS version of Trap Team, Knight Mare summoned small Shadow clones of herself instead of the enemies. In Skylanders: SuperChargers, both are replaced with shadow clones of Greebles no matter the enemy.",
     "Her Traptanium Flamberge makes a cameo appearance in the Skylanders: Battlecast card Tree Wrecked, being shattered by vines summoned by Tree Rex for reasons unknown.",
+    "This is its only reference to the Light and Dark characters and elements.",
     "She and Mysticat both have centaur-like builds, as she is literally a centaur.",
     "She was originally named 'Shadow Runner' during development.",
     "In the animated introduction of her Soul Gem preview, Knight Mare appears with red hair. This may be a leftover from earlier development.",
@@ -279,7 +281,7 @@
         "abilities": [
           {
             "name": "More Clones",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Knight_Marepath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20151002061644",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Knight_Marepath1upgrade1.png/revision/latest?cb=20151002061644",
             "content": "Increase the amount of Shadowy Clones you can have at once.",
             "is_primary": false,
             "is_secondary": false,
@@ -291,7 +293,7 @@
           },
           {
             "name": "It's Win-Win",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Knight_Marepath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20151002061838",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Knight_Marepath1upgrade2.png/revision/latest?cb=20151002061838",
             "content": "Shadowy Clones now explode, hurting enemies and healing you.",
             "is_primary": false,
             "is_secondary": false,
@@ -303,7 +305,7 @@
           },
           {
             "name": "Shadowy Sacrifice",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/25/Knight_Marepath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20151002062004",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/25/Knight_Marepath1upgrade3.png/revision/latest?cb=20151002062004",
             "content": "Battle Horn destroys existing Shadowy Clones to power up other attacks.",
             "is_primary": false,
             "is_secondary": false,
@@ -320,7 +322,7 @@
         "abilities": [
           {
             "name": "Shadow Stab",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Knight_Marepath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20151002060831",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Knight_Marepath2upgrade1.png/revision/latest?cb=20151002060831",
             "content": "Press Attack 1, Attack 1 Hold Attack 2 for a Shadow Stab combo.",
             "is_primary": false,
             "is_secondary": false,
@@ -332,7 +334,7 @@
           },
           {
             "name": "Flamberge Fragment",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Knight_Marepath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20151002061003",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Knight_Marepath2upgrade2.png/revision/latest?cb=20151002061003",
             "content": "Press Attack 1, Attack 1, Hold Attack 3 for a Flamberge Fragment combo.",
             "is_primary": false,
             "is_secondary": false,
@@ -344,7 +346,7 @@
           },
           {
             "name": "Sword of Darkness",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Knight_Marepath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20151002061055",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Knight_Marepath2upgrade3.png/revision/latest?cb=20151002061055",
             "content": "Traptanium Flamberge attacks do more damage.",
             "is_primary": false,
             "is_secondary": false,
