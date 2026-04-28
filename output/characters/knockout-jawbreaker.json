@@ -5,7 +5,7 @@
   "gender": "Male",
   "element": "Tech",
   "role": "Trap Master",
-  "primary_game": "Skylanders: Lost Islands (November 2014)",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
@@ -51,9 +51,9 @@
     {
       "id": "knockout-jawbreaker",
       "variant_name": "Knockout Jawbreaker",
-      "edition": "Series 1",
+      "edition": "Alter Ego",
       "type": "Trap Master",
-      "game": "Skylanders: Lost Islands (November 2014)",
+      "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/c3/KO_Jawbreaker.jpg/revision/latest?cb=20141101091900",
       "attacks": [],
       "stats": [],
