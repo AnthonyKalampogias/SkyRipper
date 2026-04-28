@@ -11,18 +11,25 @@
     "Skylanders: Lost Islands",
     "Skylanders: Swap Force",
     "Skylanders: Trap Team",
-    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
   "cameos": [],
   "world": [
     "Skylands"
   ],
-  "description": "Jade Flashwing is a green and gold variant of Flashwing, an Earth element Skylander originally appearing in Skylanders: Giants.",
+  "description": "Jade Flashwing is a green and gold version of the Earth Skylander, Flashwing.",
   "biography": "Flashwing's origins are a mystery, though her first appearance was quite spectacular. When Bash made a wish on a falling star that he could fly, he watched as a glowing geode fell from the sky and landed in the heart of a valley. Inside that geode was the beautiful but lethal Flashwing. Bash may not have gotten his wings that day, but Flashwing certainly made an impact.",
   "quote": "Blinded by the Light!",
   "personality": "Graceful and elegant, Jade Flashwing possesses a fierce spirit and a sharp wit. While she can be somewhat vain about her beautiful crystalline appearance, she is a formidable warrior who doesn't hesitate to jump into the fray to protect her fellow Skylanders.",
-  "story": [],
+  "story": [
+    {
+      "story_name": "The Jade Dragon",
+      "content": "Jade Flashwing is a green and gold version of the Earth Skylander, Flashwing. She and Jade Fire Kraken are currently the only Jade Skylanders, likely a reference to real world Jade Dragons, carved statues made from mineral from China. This is particularly fitting for Flashwing, as jade is a real world gem, and Flashwing herself is based on gems and precious minerals, growing them from her body.",
+      "hasImage": true,
+      "imgPath": "Jade_Flashwing_Promo.jpg"
+    }
+  ],
   "quotes": [
     {
       "quote_type": "Catchphrase",
@@ -32,12 +39,14 @@
     }
   ],
   "trivia": [
-    "Jade Flashwing is a rare variant representing the gemstone jade.",
-    "She shares the same stats and abilities as the standard Flashwing, but features a unique green and gold color scheme.",
-    "She was initially released as a store exclusive in certain regions during the Skylanders: Giants era."
+    "Jade Flashwing, Prism Break and Crusher have green crystals around their bodies.",
+    "She and Jade Fire Kraken are currently the only Jade Skylanders.",
+    "They are also both counterparts of dragons who didn't appear in Spyro's Adventure.",
+    "The fact that only dragon Skylanders have Jade counterparts may be a reference to real world Jade Dragons, carved statues made from the mineral from certain places in China.",
+    "This is particularly fitting for Flashwing, as jade is a real world gem, and Flashwing herself is based on gems and precious minerals, growing them from her body."
   ],
   "trailers": [],
-  "gameplay": "In combat, Jade Flashwing utilizes her crystal wings and tail to fire sharp shards at enemies from a distance. She can also perform a Shimmering Spin to deflect attacks and strike nearby foes with her wings. Her gameplay focuses on high-speed projectile attacks and area control through her crystal summons.",
+  "gameplay": "Jade Flashwing can launch crystal shards from her tail spike at enemies, like a scorpion shooting poison spikes. She can also twirl around, hitting enemies with her crystalline wings, and summon a large crystal from the ground to allow light to beam through it and strike enemies surrounding it.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Jade_Flashwing",
   "abilities": {
     "basic": [
@@ -101,11 +110,23 @@
         "abilities": [
           {
             "name": "Luminous Lasers",
-            "imgPath": "luminous_lasers.png",
+            "imgPath": "luminous_lasers_icon.png",
             "content": "Crystal Shards now fire lasers.",
             "is_primary": true,
             "is_secondary": false,
             "price": 1000,
+            "colors": {
+              "header": "#2E8B57",
+              "bg_content": "#F0FFF0"
+            }
+          },
+          {
+            "name": "Light Speed Lasers",
+            "imgPath": "light_speed_lasers_icon.png",
+            "content": "Upgraded lasers move at even higher speeds.",
+            "is_primary": true,
+            "is_secondary": false,
+            "price": 1200,
             "colors": {
               "header": "#2E8B57",
               "bg_content": "#F0FFF0"
@@ -117,28 +138,31 @@
   },
   "variants": [
     {
-      "id": "jade-flashwing-standard",
+      "id": "jade-flashwing-special",
       "variant_name": "Jade Flashwing",
       "edition": "Special Edition",
       "type": "In-game Variant",
       "game": "Skylanders: Giants",
-      "image": "jade_flashwing_figure.png",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/36/Jade_Flashwing_Promo.jpg/revision/latest?cb=20130323035453",
       "attacks": [
         "Crystal Shards",
-        "Shimmering Spin"
+        "Shimmering Spin",
+        "Surrounded by Shards",
+        "Luminous Lasers",
+        "Light Speed Lasers"
       ],
       "stats": [
         {
           "stat_name": "Strength",
-          "stat_value": "70"
+          "stat_value": "40"
         },
         {
           "stat_name": "Defense",
-          "stat_value": "90"
+          "stat_value": "80"
         },
         {
           "stat_name": "Agility",
-          "stat_value": "60"
+          "stat_value": "80"
         },
         {
           "stat_name": "Luck",
