@@ -9,7 +9,7 @@
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylander: SuperChargers (Racing)",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
@@ -24,7 +24,7 @@
   "story": [
     {
       "story_name": "Character Development",
-      "content": "Gameplay designer Nat Loh came up with Cobra Cadabra's name, having designed the Skylander to be deeply rooted in music. Cobra Cadabra has some of the most complex mechanics of any Skylander made but Nat made them optional so that players could opt into the added challenge for added damage. Simply put, if the player pressed the attack button to the beat of the music, they would get a different colored double damage projectile. Nat would also have Cobra's animations bounce to the beat of the music as well as these snake baskets that he is able to summon pulse damage with the beat of the music. This was done by accessing the BPM of each level's music.",
+      "content": "Gameplay designer Nat Loh came up with Cobra Cadabra's name, having designed the Skylander to be deeply rooted in music. Cobra Cadabra has some of the most complex mechanics of any Skylander made but Nat made them optional so that players could opt into the added challenge for added damage. Simply put, if the player pressed the attack button to the beat of the music, they would get a different colored double damage projectile. Nat would also have Cobra's animations bounce to the beat of the music as well as these snake baskets that he is able to summon pulse damage with the beat of the music. This was done by accessing the BPM of each level's music. Cobra Cadabra's tertiary attack definitely has some Donkey Kong Country vibes (which would come to full realization with Donkey Kong's appearance in Skylanders: SuperChargers) as he flies from basket to basket. A developer anecdote, Cobra Cadabra's Master of Baskets path was originally meant to have 15 baskets at once but after much number crunching, it was deemed unsuitable for the GPU to allow 2 players to have 30 baskets at once.",
       "hasImage": false,
       "imgPath": ""
     }
@@ -51,35 +51,61 @@
         "A champion by any stretch!",
         "A snake in the grassss!",
         "Sssso far, sssso good!",
-        "Charmed...and dangerous!",
+        "Charmed...and dangerous!"
+      ]
+    },
+    {
+      "quote_type": "When opening a treasure chest",
+      "content": [
         "A basketful of treasure!",
-        "Treasure on a grand scale!",
+        "Treasure on a grand scale!"
+      ]
+    },
+    {
+      "quote_type": "After levelling up",
+      "content": [
         "Scaling up!",
-        "Tune up!",
+        "Tune up!"
+      ]
+    },
+    {
+      "quote_type": "When viewing stats",
+      "content": [
         "My stats are creeping up.",
-        "On a scale of one to ten, I'm an eleven!",
+        "On a scale of one to ten, I'm an eleven!"
+      ]
+    },
+    {
+      "quote_type": "When wearing a hat",
+      "content": [
         "A sleek new look for me!",
-        "Urgh, I look like a...basket case!",
+        "Urgh, I look like a...basket case!"
+      ]
+    },
+    {
+      "quote_type": "When given a nickname",
+      "content": [
         "An enchanting new name!",
         "This name sounds a bit out of tune..."
       ]
     }
   ],
   "trivia": [
-    "He is the second snake Skylander in the series, after Rattle Shake and before Pit Boss.",
-    "He is currently the only snake Skylander who is not in the Undead element.",
+    "He is the second snake Skylander in the series, after Rattle Shake and before Pit Boss. He is currently the only snake Skylander who is not in the Undead element.",
     "Cobra Cadabra's name is a play on the magic word 'Abracadabra.'",
     "His eyes constantly shrink and grow, a reference to snake hypnotism.",
-    "He is one of the few playable characters to use a musical instrument as a weapon.",
-    "Oddly, Cobra Cadabra does not hiss whenever he says the letter 'S.'",
+    "He is one of the few playable characters to use a musical instrument as a weapon (the others being Wolfgang, Fiesta, Pain-Yatta, and Turbo Charge Donkey Kong). Additionally, each of the characters' weapons come from the four main instrument groups; Cobra Cadabra's flute: Woodwinds, Wolfgang's bone harp: Strings, Fiesta's trumpet: Brass, and Donkey Kong's bongo drums: Percussion.",
+    "Oddly, Cobra Cadabra does not hiss whenever he says the letter 'S.' As of Imaginators, he is the only snake character to not do so.",
     "Not counting the variants, guests or SuperCharger versions of previous Skylanders, Cobra Cadabra has the highest amount of syllables in his name, specifically five.",
-    "Cobra Cadabra is bugged in Trap Team so that, if a cinematic or dialogue scene interrupts him while playing the flute, he will remain in his flute-playing position until the attack is used again."
+    "Cobra Cadabra is bugged in Trap Team so that, if a cinematic or dialogue scene interrupts him while playing the flute, he will remain in his flute-playing position until the attack is used again.",
+    "If Cobra Cadabra is wearing a trinket which goes in his mouth, when he goes to play his flute, the trinket will temporarily disappear, only to reappear when he finishes playing.",
+    "In SuperChargers and Imaginators, when he plays his snake charmer's solo, his flute tune and music sounds different from how it did in Trap Team. It sounds like ordinary flute music instead of hypnotic flute music."
   ],
   "trailers": [
     {
       "name": "Meet the Skylanders Cobra Cadabra",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Cobra_Cadabra"
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylands_Cobra_Cadabra"
     },
     {
       "name": "Skylanders Trap Team - Cobra Cadabra's Soul Gem Preview (Charmed and Ready)",
