@@ -27,11 +27,18 @@
     {
       "story_name": "Biography",
       "content": "For centuries, Skylanders have competed in gladiator-style events inside epic arenas of sport, where only the greatest of combatants become immortalized as magical, golden statues that stand watch as guardians. These are the Legendary Skylanders. Whenever the world is in peril, special Portal Masters can bring these statues to life and summon the Legendary Skylanders to defend Skylands against any evil that threatens it.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d7/L-Bouncer.jpg/revision/latest?cb=20170212044708"
     }
   ],
-  "quotes": [],
+  "quotes": [
+    {
+      "quote_type": "Catchphrases",
+      "content": [
+        "Deal with the Wheel!"
+      ]
+    }
+  ],
   "trivia": [
     "If Bouncer is placed on the portal, his eyes glow white and the rim near his waist glows orange, however, Legendary Bouncer's waist and eyes glow white instead.",
     "Legendary Bouncer's wheel is gold on his toy, however, in-game, it is oddly black."
@@ -40,7 +47,7 @@
     {
       "name": "ToysRUS présente Skylanders Giants - Bouncer Legendaire en exclusivité chez ToysRUs !",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:ToysRUS_pr%C3%A9sente_Skylanders_Giants_-_Bouncer_Legendaire_en_exclusivit%C3%A9_chez_ToysRUs_!"
+      "url": "https://skylanders.fandom.com/wiki/File:ToysRUS_présente_Skylanders_Giants_-_Bouncer_Legendaire_en_exclusivité_chez_ToysRUs_!"
     }
   ],
   "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games.",
@@ -51,12 +58,12 @@
         "name": "Fingerguns",
         "imgPath": "",
         "content": "",
-        "is_primary": false,
+        "is_primary": true,
         "is_secondary": false,
         "price": 0,
         "colors": {
-          "header": "",
-          "bg_content": ""
+          "header": "#FB5",
+          "bg_content": "#000000"
         }
       },
       {
@@ -64,11 +71,11 @@
         "imgPath": "",
         "content": "",
         "is_primary": false,
-        "is_secondary": false,
+        "is_secondary": true,
         "price": 0,
         "colors": {
-          "header": "",
-          "bg_content": ""
+          "header": "#FB5",
+          "bg_content": "#000000"
         }
       },
       {
@@ -76,11 +83,11 @@
         "imgPath": "",
         "content": "",
         "is_primary": false,
-        "is_secondary": false,
+        "is_secondary": true,
         "price": 0,
         "colors": {
-          "header": "",
-          "bg_content": ""
+          "header": "#FB5",
+          "bg_content": "#000000"
         }
       },
       {
@@ -91,8 +98,8 @@
         "is_secondary": false,
         "price": 0,
         "colors": {
-          "header": "",
-          "bg_content": ""
+          "header": "#FB5",
+          "bg_content": "#000000"
         }
       },
       {
@@ -103,8 +110,8 @@
         "is_secondary": false,
         "price": 0,
         "colors": {
-          "header": "",
-          "bg_content": ""
+          "header": "#FB5",
+          "bg_content": "#000000"
         }
       }
     ],
@@ -115,7 +122,7 @@
   },
   "variants": [
     {
-      "id": "legendary-bouncer",
+      "id": "legendary-bouncer-s1",
       "variant_name": "Legendary Bouncer",
       "edition": "Series 1",
       "type": "Giant",
@@ -146,8 +153,20 @@
           "stat_value": "60 (max. 110)"
         },
         {
-          "stat_name": "Elemental Power",
-          "stat_value": "??"
+          "stat_name": "Strength",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "90"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Bouncer"
