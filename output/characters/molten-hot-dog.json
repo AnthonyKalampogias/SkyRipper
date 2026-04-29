@@ -18,31 +18,107 @@
     "Skylands"
   ],
   "description": "Molten Hot Dog is a yellow flaming version of the Fire Skylander, Hot Dog.",
-  "biography": "",
+  "biography": "Molten Hot Dog is a yellow flaming version of the Fire Skylander, Hot Dog. He has the same ability as his normal counterpart, lobbing fireballs and turning himself into a comet to hurl himself at enemies. He can also summon a wall of fire.",
   "quote": "See Spot Burn!",
-  "personality": "",
-  "story": [],
-  "quotes": [],
+  "personality": "Molten Hot Dog behaves similarly to a playful but fierce fire dog, using his flame-based powers to protect Skylands.",
+  "story": [
+    {
+      "story_name": "Origin",
+      "content": "Molten Hot Dog is a yellow flaming version of the Fire Skylander, Hot Dog. He was released as a Wal-Mart exclusive variant during Skylanders: Giants.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Molten_Hot_Dog_Promo.jpg"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "See Spot Burn!"
+      ]
+    }
+  ],
   "trivia": [
     "Molten Hot Dog is set to be featured in his own Skylanders Activity Book: Molten Hot Dog's Quiz Quest.",
-    "He is the third Wal-Mart exclusive, and the first to appear different in-game (the first was a Red Drill Sergeant, the second was a Glow-In-The-Dark Series 2 Sonic Boom and the fourth was Enchanted Hoot Loop )."
+    "He is the third Wal-Mart exclusive, and the first to appear different in-game (the first was a Red Drill Sergeant, the second was a Glow-In-The-Dark Series 2 Sonic Boom and the fourth was Enchanted Hoot Loop)."
   ],
   "trailers": [],
   "gameplay": "Molten Hot Dog has the same ability as his normal counterpart, lobbing fireballs and turning himself into a comet to hurl himself at enemies. He can also summon a wall of fire.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Molten_Hot_Dog",
   "abilities": {
-    "basic": [],
-    "basic_upgrades": [],
+    "basic": [
+      {
+        "name": "Firebark",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Molten_Hot_Dog_Promo.jpg",
+        "content": "Lob fireballs at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Wall of Fire",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Molten_Hot_Dog_Promo.jpg",
+        "content": "Summon a wall of fire to damage enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Comet Slam",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Molten_Hot_Dog_Promo.jpg",
+        "content": "Turn into a comet and hurl yourself at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Wall of More Fire",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Molten_Hot_Dog_Promo.jpg",
+        "content": "Create a more powerful and larger wall of fire.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 700,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      },
+      {
+        "name": "Super Comet",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Molten_Hot_Dog_Promo.jpg",
+        "content": "An advanced version of the comet attack for maximum damage.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#F44",
+          "bg_content": "#FBB"
+        }
+      }
+    ],
     "soulgems": [],
     "wow_pows": [],
     "upgrade_paths": []
   },
   "variants": [
     {
-      "id": "molten-hot-dog",
+      "id": "molten-hot-dog-s1",
       "variant_name": "Molten Hot Dog",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core Skylander",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/9/99/Molten_Hot_Dog_Promo.jpg/revision/latest?cb=20130306023415",
       "attacks": [
@@ -72,6 +148,22 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "80"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Molten_Hot_Dog"
