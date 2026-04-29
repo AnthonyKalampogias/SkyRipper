@@ -18,7 +18,7 @@
   "world": [
     "Star City"
   ],
-  "description": "Lob-Star is a blue lobster who is one of the Water Trap Masters in Skylanders: Trap Team. Lob-Star can throw his Traptanium Ninja Stars which burst when it hits an enemy. His Secondary attack allows him to create steam blasts from his body, when charged it allows him to enter an steamed state, where his attack power and speed is increased. His third attack allows him to dash, which increases his speed, and damages enemies in his path.",
+  "description": "Lob-Star is a blue lobster who is one of the Water Trap Masters in Skylanders: Trap Team. He was once the head chef of a five-star restaurant in Star City before revealing his secret combat training to defend his home from a giant Leviathan. Now a member of the Trap Team, he uses Traptanium Ninja Stars and steam-based powers to fight for Skylands.",
   "biography": "Hailing from the depths of the undersea kingdom of Star City, Lob-Star was the head chef of his own five-star restaurant, often cooking for the King Fish himself. However, few knew that Lob-Star had secretly been training in a mysterious art of fighting known only to a few crustaceans. For a while, Lob-Star was able to keep the peace while still keeping his hidden identity. But when a giant Leviathan threatened to swallow up Lob-Star's guests and capture the King Fish himself, he had no choice but to swim into action. Calling on every trick his mysterious training had taught him, Lob-Star defeated the Leviathan and drove it out of Star City. For risking everything, Lob-Star was recruited by Master Eon to join the Skylanders. Now, as part of the Trap Team, he uses his powerful Traptanium Throwing Stars to serve up defeat to anyone who threatens Skylands!",
   "quote": "Star Bright, Star Fight!",
   "personality": "Lob-Star is a disciplined crustacean and a hard worker. He has been able to accomplish great things by being patient and understanding in his studies.",
@@ -90,10 +90,10 @@
     {
       "name": "Skylanders Trap Team - Lob-Star's Soul Gem Preview (Star Bright, Star Fight)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Lob-Star%27s_Soul_Gem_Preview_(Star_Bright,_Star_Fight)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Lob-Star's_Soul_Gem_Preview_(Star_Bright,_Star_Fight)"
     }
   ],
-  "gameplay": "Lob-Star can throw his Traptanium Ninja Stars which burst when it hits an enemy. His Secondary attack allows him to create steam blasts from his body, when charged it allows him to enter an steamed state, where his attack power and speed is increased . His third attack allows him to dash, which increases his speed, and damages enemies in his path.",
+  "gameplay": "Lob-Star can throw his Traptanium Ninja Stars which burst when it hits an enemy. His Secondary attack allows him to create steam blasts from his body; when charged, it allows him to enter a steamed state where his attack power and speed are increased. His third attack allows him to dash, which increases his speed and damages enemies in his path. He can also fill up a Trap Attack gauge by defeating enemies to unleash a unique, devastating attack.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Lob-Star",
   "abilities": {
     "basic": [
@@ -310,6 +310,44 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Lob-Star"
+    },
+    {
+      "id": "winterfest-lob-star",
+      "variant_name": "Winterfest Lob-Star",
+      "edition": "Winterfest",
+      "type": "Trap Master",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b5/Lob-Star.png/revision/latest?cb=20141013023227",
+      "attacks": [
+        "Starshooter",
+        "Boiling Temper",
+        "Lob-Star Roll",
+        "Super Stars",
+        "Boiling Temper"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "240"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Winterfest_Lob-Star"
     }
   ]
 }
