@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-29T03:05:06.658Z",
+  "last_run": "2026-04-29T09:22:55.172Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -179,7 +179,7 @@
     },
     {
       "name": "Cobra Cadabra",
-      "sha": "33287c0ec719272c16163fc64333e360ddf119294541351475bb14219f5ca1cb"
+      "sha": "248608fe1205a864e94af046a4ff5379686c9428fe9211b05f684c7b42c38e8b"
     },
     {
       "name": "Core Skylanders",
@@ -719,7 +719,7 @@
     },
     {
       "name": "Knight Light",
-      "sha": "aee9427567b0048c322c0e9c0c6293b4c4543da8300058ff175394aecd7ffae7"
+      "sha": "cdc8ee2ccfc542948c8c5b4a09e42237075b1fa8582e5f991cff30195238fcca"
     },
     {
       "name": "Knight Mare",
@@ -836,6 +836,42 @@
     {
       "name": "Light Flashwing",
       "sha": "da87846c75b59c57f2e308a8a47f627ad69cd6a3382eecf2a04a0129c86256e1"
+    },
+    {
+      "name": "Light Hex",
+      "sha": "8240a0bc7ced8af100240083746674a1cfcee8c01ba57571b867b886639061fc"
+    },
+    {
+      "name": "Light Jet-Vac",
+      "sha": "03f72e8adbd3a843e2c5ff34f4e8c8c5201fb35aa5f9ba57df8c7f245a2962fc"
+    },
+    {
+      "name": "LightCore Skylanders",
+      "sha": "45f836573d7a6b16ccd0fb5da9815b47a24718419d7f5b3de9409eb937b7bc1a"
+    },
+    {
+      "name": "Lightning Rod",
+      "sha": "f57c18d8c34e0e761be9f30a43587578372b93f1a4ffcc289b9f1d495653f39f"
+    },
+    {
+      "name": "Lob-Star",
+      "sha": "d25a9905827e9c65855f99df7a42ec8fa0552b198d17feb004f2d75716ed1637"
+    },
+    {
+      "name": "Love Potion Pop Fizz",
+      "sha": "0e805b5b27afb8cfd918a9bcbd548489b53b5de33979119b43014f31e992f718"
+    },
+    {
+      "name": "Lucky Boomer",
+      "sha": "20ede9ff0f6fa7e40434e4822944c1725e681bd7fe6ef63363e50fb49e53ff78"
+    },
+    {
+      "name": "Magna Charge",
+      "sha": "493c7329a15b9356b282c241c9ec62312856c0597805bcc14c56c758cde5424e"
+    },
+    {
+      "name": "Merry Snap Shot",
+      "sha": "900cd5f18fd8f5a9b10b25041d702833444a6d8115121080822c7dee93f652f4"
     }
   ]
 }
