@@ -40,22 +40,24 @@
   ],
   "quotes": [
     {
-      "quote_type": "Official Catchphrase",
+      "quote_type": "Official catchphrase",
       "content": [
         "Any Last Wishes?"
       ]
     },
     {
-      "quote_type": "English Voice Actor",
+      "quote_type": "English",
       "content": [
         "Laura Bailey"
       ]
     }
   ],
   "trivia": [
-    "Mini-Jini is the miniature version of the Magic Giant, Ninjini.",
-    "She is voiced by Laura Bailey in English.",
-    "She originally debuted as a Sidekick in Skylanders: Giants before being released as a playable Mini Skylander in Trap Team."
+    "Mini-Jini always looks on the bright side of life.",
+    "She is the miniature version of the giant Ninjini.",
+    "She originally debuted as a Sidekick in Skylanders: Giants.",
+    "She became a full-fledged Mini Skylander starting in Skylanders: Trap Team.",
+    "Mini-Jini hails from the Skylands Miniverse, where everything is smaller."
   ],
   "trailers": [
     {
@@ -69,14 +71,14 @@
       "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Mini-Jini"
     }
   ],
-  "gameplay": "Mini-Jini uses a variety of magical attacks including Wishblades and Bottle Blast. In games, she has a starting health of 410 and a speed of 85. Her power stats reflect high Agility and Luck, both at 130.",
+  "gameplay": "In games, Mini-Jini has a starting health of 410 (max 820) and a speed of 85 (max 133). Her console stats include Armor at 48, Critical Hit at 80, and Elemental Power at 60. Though not used in gameplay, her power stats list her Agility and Luck at 130. She uses a variety of magical attacks including Wishblades and Bottle Blast.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Mini-Jini",
   "abilities": {
     "basic": [
       {
         "name": "Wishblades",
-        "imgPath": "",
-        "content": "A primary melee attack.",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Mini_jini.jpg/revision/latest?cb=20140813160310",
+        "content": "A primary melee attack using twin magical blades.",
         "is_primary": true,
         "is_secondary": false,
         "price": 0,
@@ -87,8 +89,8 @@
       },
       {
         "name": "Bottle Blast",
-        "imgPath": "",
-        "content": "A secondary magical projectile attack.",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Mini_jini.jpg/revision/latest?cb=20140813160310",
+        "content": "A secondary magical projectile attack where Mini-Jini fires energy from her bottle.",
         "is_primary": false,
         "is_secondary": true,
         "price": 0,
@@ -101,7 +103,7 @@
     "basic_upgrades": [
       {
         "name": "Surrealistic Spheres",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Mini_jini.jpg/revision/latest?cb=20140813160310",
         "content": "Upgraded magical spheres for increased range and damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -113,7 +115,7 @@
       },
       {
         "name": "Abra-Ca-Stab-Bra",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Mini_jini.jpg/revision/latest?cb=20140813160310",
         "content": "A swift stabbing maneuver with magical blades.",
         "is_primary": false,
         "is_secondary": false,
@@ -127,7 +129,7 @@
     "soulgems": [
       {
         "name": "Juggling Act",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Mini_jini.jpg/revision/latest?cb=20140813160310",
         "content": "A powerful juggling maneuver that acts as Mini-Jini's ultimate attack.",
         "is_primary": false,
         "is_secondary": false,
@@ -143,11 +145,11 @@
   },
   "variants": [
     {
-      "id": "mini-jini-mini",
+      "id": "mini-jini-mini-s1",
       "variant_name": "Mini-Jini",
       "edition": "Series 1",
       "type": "Mini",
-      "game": "Skylanders: Giants",
+      "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Mini_jini.jpg/revision/latest?cb=20140813160310",
       "attacks": [
         "Wishblades",
