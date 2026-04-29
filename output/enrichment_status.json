@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-29T09:22:55.172Z",
+  "last_run": "2026-04-29T15:16:50.618Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -179,7 +179,7 @@
     },
     {
       "name": "Cobra Cadabra",
-      "sha": "248608fe1205a864e94af046a4ff5379686c9428fe9211b05f684c7b42c38e8b"
+      "sha": "1ccfc52eea0bb0a2f0d7dc38fab9d606884d37f4d04e70e78258925a4699e6ee"
     },
     {
       "name": "Core Skylanders",
@@ -719,7 +719,7 @@
     },
     {
       "name": "Knight Light",
-      "sha": "cdc8ee2ccfc542948c8c5b4a09e42237075b1fa8582e5f991cff30195238fcca"
+      "sha": "9a287e38120e5785c58489655a2b0a4d02868986659bd955e945014708c1d141"
     },
     {
       "name": "Knight Mare",
@@ -872,6 +872,26 @@
     {
       "name": "Merry Snap Shot",
       "sha": "900cd5f18fd8f5a9b10b25041d702833444a6d8115121080822c7dee93f652f4"
+    },
+    {
+      "name": "Metal Mage",
+      "sha": "3ed388b090e746055811105366c571f2ce660e33e9529ed981d513b5e4e2c9fd"
+    },
+    {
+      "name": "Mini-Jini",
+      "sha": "6d36a714a23fa1c2b41508a6267f40907836b4cc6fa7fcdde479e6311d220ded"
+    },
+    {
+      "name": "Minis",
+      "sha": "daae96f4ee775ad7f51894f135f15c70b982719f29334fc588c6c93ec0335add"
+    },
+    {
+      "name": "Missile-Tow Dive-Clops",
+      "sha": "32dcce30273763b2496cfbe54e83bec4910adb0ee1f98d357713c7d4898c04ef"
+    },
+    {
+      "name": "Molten Hot Dog",
+      "sha": "c34e3a4bddfd1fa19e46dbb6e5d65143ee463a53910bc306b9a57ca60f2337fe"
     }
   ]
 }
