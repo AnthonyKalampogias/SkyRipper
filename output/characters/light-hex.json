@@ -15,23 +15,49 @@
   ],
   "description": "Light Hex is a Light element alter ego of the Undead Skylander Hex, in Skylanders: Ring of Heroes. Though she is also a support character like her original counterpart, she works with buffs instead of debuffs, becoming more powerful and even taking them from her opponents.",
   "biography": "Light Hex is the alter ego of the undead elf wizard Hex. This ego refuses to go back to being a talented wizard before becoming an undead. She used to control powerful magic in the past, but she was also clearly conceited - she turned into an undead because of her recklessness. Therefore, Light Hex accepts the power of the Light Element to embrace her allies, instead of the power that was strong yet cold-hearted. Of course, when it comes to dealing with evil forces, she will burn her enemies with the magic of light!",
-  "quote": "When it comes to dealing with evil forces, she will burn her enemies with the magic of light!",
-  "personality": "Light Hex accepts the power of the Light Element to embrace her allies, instead of the power that was strong yet cold-hearted. She is determined to use her light magic to burn evil forces, showing a shift from her previously conceited and reckless nature.",
-  "story": [],
-  "quotes": [],
+  "quote": "Of course, when it comes to dealing with evil forces, she will burn her enemies with the magic of light!",
+  "personality": "Light Hex is a more compassionate version of Hex, choosing to embrace her allies with the power of light rather than using cold-hearted magic. While she was once conceited and reckless, leading to her undead state, she now accepts her role as a support Skylander, though she remains fierce against evil forces and is willing to burn them with light magic.",
+  "story": [
+    {
+      "story_name": "The Alter Ego",
+      "content": "Light Hex is the alter ego of the undead elf wizard Hex. This ego refuses to go back to being a talented wizard before becoming an undead.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/34/Light_Hex_Model.png/revision/latest?cb=20180802221946"
+    },
+    {
+      "story_name": "A Conceited Past",
+      "content": "She used to control powerful magic in the past, but she was also clearly conceited - she turned into an undead because of her recklessness.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Power of Light",
+      "content": "Light Hex accepts the power of the Light Element to embrace her allies, instead of the power that was strong yet cold-hearted. When dealing with evil forces, she burns her enemies with the magic of light!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4c/RoH_Awakened_Light_Hex.png/revision/latest?cb=20190309140411"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "Of course, when it comes to dealing with evil forces, she will burn her enemies with the magic of light!"
+      ]
+    }
+  ],
   "trivia": [
     "Though Light Hex's first ability is called Lightcore Orbs, only her regular counterpart in the game has the LightCore appearance. In the Reboot Update, the ability name was adjusted.",
     "She was temporarily absent in the revamped version of Ring of Heroes, up until the Guardian Subjugation update on March 2021.",
     "As of Ring of Heroes, Light Hex is the only Light-aligned undead creature."
   ],
   "trailers": [],
-  "gameplay": "In Skylanders: Ring of Heroes, Light Hex is a support character that works with buffs instead of debuffs, becoming more powerful and even taking them from her opponents. She focuses on copying enemy beneficial effects and providing recovery and skill cooldown reduction for her allies.",
+  "gameplay": "In Skylanders: Ring of Heroes, Light Hex is a support character that works with buffs instead of debuffs, becoming more powerful and even taking them from her opponents. She focuses on copying enemy beneficial effects and providing recovery and skill cooldown reduction for her allies. By accepting the power of the Light Element, she embraces her allies instead of relying on the cold-hearted powers of her past.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Light_Hex",
   "abilities": {
     "basic": [
       {
         "name": "Light Marble",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Light_Hexheroability1.png/revision/latest/scale-to-width-down/60?cb=20210313001648",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Light_Hexheroability1.png/revision/latest?cb=20210313001648",
         "content": "[1 enemy] Inflicts 40% of ATK as damage 2 time(s) to 1 enemy, and inflicts 20% of ATK as damage to 1 random enemy 2 more times if you possess 3+ buff effects.",
         "is_primary": true,
         "is_secondary": false,
@@ -43,7 +69,7 @@
       },
       {
         "name": "Vanish into Thin Air",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Light_Hexheroability2.png/revision/latest/scale-to-width-down/60?cb=20210313001712",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Light_Hexheroability2.png/revision/latest?cb=20210313001712",
         "content": "[1 Enemy] Inflicts 60% of ATK as damage to 1 enemy. Additionally, copies 1 random beneficial effect of the target to all enemies with a 70% chance if the target possesses beneficial effects.",
         "is_primary": false,
         "is_secondary": true,
@@ -55,7 +81,7 @@
       },
       {
         "name": "Light Rain",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Light_Hexheroability3.png/revision/latest/scale-to-width-down/60?cb=20210313001730",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c8/Light_Hexheroability3.png/revision/latest?cb=20210313001730",
         "content": "[All Allies] After charging for 3 turns, decreases the cooldown time of all skills of all allies by 1 turn.",
         "is_primary": false,
         "is_secondary": false,
@@ -70,7 +96,7 @@
     "soulgems": [
       {
         "name": "Recovery Light",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/14/Light_Hexheroability4.png/revision/latest/scale-to-width-down/60?cb=20210313001858",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/14/Light_Hexheroability4.png/revision/latest?cb=20210313001858",
         "content": "[All Allies] Recovers all allies by 10% of each target's MAX HP whenever you're designated as the attack target for the 6th time. (Not counted when the attack is evaded.)",
         "is_primary": false,
         "is_secondary": false,
@@ -85,7 +111,7 @@
       {
         "season": 1,
         "name": "Light Acceleration",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Light_Hexheroability5.png/revision/latest/scale-to-width-down/60?cb=20210313001934",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Light_Hexheroability5.png/revision/latest?cb=20210313001934",
         "content": "[All Allies] Light Hex's charging skills will be changed temporarily to be [instantly activated] if you have 4+ buff effects when the turn begins. (Not applied if charging is already in progress.) Additionally, increases your Effect Resistance Rate by 15% in battle. Leader Effect: Increases the Effect Resistance Rate of allies by 15% in battle.",
         "is_primary": false,
         "is_secondary": false,
@@ -100,12 +126,29 @@
   },
   "variants": [
     {
-      "id": "light-hex",
+      "id": "light-hex-s1",
       "variant_name": "Light Hex",
       "edition": "Series 1",
       "type": "Core",
       "game": "Skylanders: Ring of Heroes",
       "image": "https://static.wikia.nocookie.net/skylanders/images/3/34/Light_Hex_Model.png/revision/latest?cb=20180802221946",
+      "attacks": [
+        "Light Marble",
+        "Vanish into Thin Air",
+        "Light Rain",
+        "Recovery Light",
+        "Light Acceleration"
+      ],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Light_Hex"
+    },
+    {
+      "id": "awakened-light-hex",
+      "variant_name": "Awakened Light Hex",
+      "edition": "Awakened",
+      "type": "Core",
+      "game": "Skylanders: Ring of Heroes",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/4c/RoH_Awakened_Light_Hex.png/revision/latest?cb=20190309140411",
       "attacks": [
         "Light Marble",
         "Vanish into Thin Air",
