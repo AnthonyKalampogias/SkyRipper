@@ -15,23 +15,43 @@
     "Skylands"
   ],
   "description": "Missile-Tow Dive-Clops is the Christmas counterpart of Dive-Clops in Skylanders: SuperChargers.",
-  "biography": "Every Skylander celebrates the holiday season in their own special way. For some, it means giving and receiving presents. For others, it means stuffing their face with festive food. For Dive-Clops it means hiding beneath the Academy archways to shoot candy-coated missiles at fellow Skylanders that pass by. To be fair, he does hang a sign that reads: \"Ho-Ho-Ho...Look Out Below!\"",
+  "biography": "Every Skylander celebrates the holiday season in their own special way. For some, it means giving and receiving presents. For others, it means stuffing their face with festive food. For Dive-Clops it means hiding beneath the Academy archways to shoot candy-coated missiles at fellow Skylanders that pass by. To be fair, he does hang a sign that reads: 'Ho-Ho-Ho...Look Out Below!'",
   "quote": "Look Out Below!",
-  "personality": "",
-  "story": [],
-  "quotes": [],
+  "personality": "Missile-Tow Dive-Clops is festive and mischievous, taking great joy in the holiday season by playing lighthearted pranks on his fellow Skylanders with his candy-coated missiles.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Every Skylander celebrates the holiday season in their own special way. For some, it means giving and receiving presents. For others, it means stuffing their face with festive food. For Dive-Clops it means hiding beneath the Academy archways to shoot candy-coated missiles at fellow Skylanders that pass by. To be fair, he does hang a sign that reads: 'Ho-Ho-Ho...Look Out Below!'",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Look Out Below!"
+      ]
+    },
+    {
+      "quote_type": "Signage",
+      "content": [
+        "Ho-Ho-Ho...Look Out Below!"
+      ]
+    }
+  ],
   "trivia": [
-    "The first half of his name, \"Missle-Tow\" is a pun of \"mistletoe\" and \"missile\"."
+    "The first half of his name, 'Missile-Tow' is a pun of 'mistletoe' and 'missile'."
   ],
   "trailers": [],
-  "gameplay": "",
+  "gameplay": "In Skylanders: SuperChargers, Missile-Tow Dive-Clops fights using holiday-themed weaponry, specifically shooting candy-coated missiles at his opponents. He is known to use his environment to hide and ambush enemies with projectiles.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Missile-Tow_Dive-Clops",
   "abilities": {
     "basic": [
       {
         "name": "Waterpedo",
-        "imgPath": "",
-        "content": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Missile_Toe_Dive_Clops_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20151118070120",
+        "content": "Dive-Clops launches a powerful torpedo at enemies.",
         "is_primary": true,
         "is_secondary": false,
         "price": 0,
@@ -42,8 +62,8 @@
       },
       {
         "name": "Sonar",
-        "imgPath": "",
-        "content": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Missile_Toe_Dive_Clops_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20151118070120",
+        "content": "Dive-Clops uses his eye to emit sonar waves to detect and damage enemies.",
         "is_primary": true,
         "is_secondary": false,
         "price": 0,
@@ -54,8 +74,8 @@
       },
       {
         "name": "Put the Eye in Geyser",
-        "imgPath": "",
-        "content": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Missile_Toe_Dive_Clops_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20151118070120",
+        "content": "Dive-Clops creates a massive geyser to launch enemies into the air.",
         "is_primary": true,
         "is_secondary": false,
         "price": 0,
@@ -66,8 +86,8 @@
       },
       {
         "name": "Torpeslow",
-        "imgPath": "",
-        "content": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Missile_Toe_Dive_Clops_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20151118070120",
+        "content": "Dive-Clops releases a slow-moving but high-impact torpedo.",
         "is_primary": true,
         "is_secondary": false,
         "price": 0,
@@ -78,8 +98,8 @@
       },
       {
         "name": "Sonar Smarts",
-        "imgPath": "",
-        "content": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Missile_Toe_Dive_Clops_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20151118070120",
+        "content": "Dive-Clops uses his intelligence to enhance his sonar capabilities.",
         "is_primary": true,
         "is_secondary": false,
         "price": 0,
@@ -96,7 +116,7 @@
   },
   "variants": [
     {
-      "id": "missile-tow-dive-clops",
+      "id": "missile-tow-dive-clops-s1",
       "variant_name": "Missile-Tow Dive-Clops",
       "edition": "Series 1",
       "type": "SuperCharger",
