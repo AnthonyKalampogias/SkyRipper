@@ -14,15 +14,15 @@
     "Skylands"
   ],
   "description": "Light Jet-Vac provides battle support for his allies using the Light element. He was a Light element alter-ego of the Air Skylander Jet-Vac in the beta and 1.0 version of Skylanders: Ring of Heroes. Though he had the same stats as his regular counterpart, he had an extra skill for a more aggressive approach to healing.",
-  "biography": "Light Jet-Vac was a Light element alter-ego of the Air Skylander Jet-Vac in the beta and 1.0 version of Skylanders: Ring of Heroes. Though he had the same stats as his regular counterpart, he had an extra skill for a more aggressive approach to healing. Light Jet-Vac provides battle support for his allies using the Light element.",
+  "biography": "Light Jet-Vac was a Light element alter-ego of the Air Skylander Jet-Vac in the beta and 1.0 version of Skylanders: Ring of Heroes. Though he had the same stats as his regular counterpart, he had an extra skill for a more aggressive approach to healing. He was the only male Light elemental counterpart of a Skylander from another element. He provided battle support for his allies using the Light element and was known for a notorious laugh, which was distinct from his regular counterpart.",
   "quote": "Hawk and Awe!",
-  "personality": "Noble and brave, Light Jet-Vac is a dedicated Sky Baron who adheres to a strict sense of duty. While typically serious, this version is known for a notorious laugh when idling, showcasing a slightly more aggressive and confident persona compared to his Air counterpart.",
+  "personality": "Noble and brave, Light Jet-Vac is a dedicated Sky Baron who adheres to a strict sense of duty. While typically serious, this version is known for a notorious laugh when idling, showcasing a slightly more aggressive and confident persona compared to his Air counterpart. He blurs the line between support and offense with his vacuum technology.",
   "story": [
     {
       "story_name": "Light Alter-Ego",
-      "content": "Light Jet-Vac was a Light element alter-ego of the Air Skylander Jet-Vac in the beta and 1.0 version of Skylanders: Ring of Heroes. Though he had the same stats as his regular counterpart, he had an extra skill for a more aggressive approach to healing. He was the only male Light elemental counterpart of a Skylander from another element.",
+      "content": "Light Jet-Vac was a Light element alter-ego of the Air Skylander Jet-Vac in the beta and 1.0 version of Skylanders: Ring of Heroes. Though he had the same stats as his regular counterpart, he had an extra skill for a more aggressive approach to healing. He was the only male Light elemental counterpart of a Skylander from another element. He and Shadow Spitfire are the only Skylanders from the beta and 1.0 version of ROH absent in the revamp.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e3/Light_Jet_Vac.png/revision/latest/scale-to-width-down/268?cb=20180617154112"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e3/Light_Jet_Vac.png/revision/latest?cb=20180617154112"
     }
   ],
   "quotes": [
@@ -41,7 +41,7 @@
     "He and Shadow Spitfire are the only Skylanders from the beta and 1.0 version of ROH absent in the revamp."
   ],
   "trailers": [],
-  "gameplay": "Light Jet-Vac provides battle support for his allies using the Light element. He features a mix of offensive shielding and high-utility team healing, utilizing his vacuum technology to harness Light energy.",
+  "gameplay": "Light Jet-Vac provides battle support for his allies using the Light element. He features a mix of defensive shielding with his Vac Blaster and powerful team healing with Shoot the Breeze!, allowing for a more aggressive support role. His passive gear allows him to recover HP and restore endurance to allies after taking hits.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Light_Jet-Vac",
   "abilities": {
     "basic": [
@@ -91,12 +91,27 @@
   },
   "variants": [
     {
-      "id": "light-jet-vac",
+      "id": "light-jet-vac-standard",
       "variant_name": "Light Jet-Vac",
-      "edition": "Series 1",
+      "edition": "Standard",
       "type": "Core",
       "game": "Skylanders: Ring of Heroes (Beta and 1.0)",
       "image": "https://static.wikia.nocookie.net/skylanders/images/e/e3/Light_Jet_Vac.png/revision/latest?cb=20180617154112",
+      "attacks": [
+        "Vac Blaster",
+        "Shoot the Breeze!",
+        "Eagle-Air Gear"
+      ],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Light_Jet-Vac"
+    },
+    {
+      "id": "awakened-light-jet-vac",
+      "variant_name": "Awakened Light Jet-Vac",
+      "edition": "Awakened",
+      "type": "Awakened",
+      "game": "Skylanders: Ring of Heroes (Beta and 1.0)",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/60/RoH_Awakened_Light_Jet-Vac.png/revision/latest?cb=20180617154112",
       "attacks": [
         "Vac Blaster",
         "Shoot the Breeze!",
