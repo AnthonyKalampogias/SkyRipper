@@ -38,10 +38,10 @@
   ],
   "trivia": [
     "If Love Potion Pop Fizz is played in Skylanders: Giants, he will appear as Punch Pop Fizz.",
-    "In Skylanders: SuperChargers and Skylanders: Imaginators, Love Potion Pop Fizz in his beast form appears with eyes much like his normal beast form, along with the bottom of his feet, which are indigo.",
+    "In Skylanders: SuperChargers and Skylanders: Imaginators, Love Potion Pop Fizz in his beast form appears with eyes much like his normal beast form, along with the bottom of his feet, which are indigo. His regular form uses the intended eyes for the beast form, instead of the flat cyan coloured ones intended for him.",
     "This is the only alt deco Pop Fizz whose figure is in his beast form.",
-    "He is the only Valentine alt deco Skylander to have a released figure.",
-    "His figure render depicts his gauntlets and footwear to be rose gold, but they are brown in-game."
+    "He is the only Valentine alt deco Skylander to have a released figure. Heartbreaker Buckshot's release was cancelled and the other two Valentine counterparts (Charming Cobra Cadabra and Cupid Flameslinger) are Lost Islands exclusives.",
+    "His figure render depicts his gauntlets and footwear to be rose gold, and the straps of his backpack to be white, however they are actually brown in reality and in-game."
   ],
   "trailers": [
     {
@@ -53,10 +53,99 @@
   "gameplay": "Love Potion Pop Fizz shares the same move set as Fizzy Frenzy Pop Fizz. He can throw potions with varying effects including acid pools and explosions, or drink his concoction to transform into a powerful beast with melee capabilities.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Love_Potion_Pop_Fizz",
   "abilities": {
-    "basic": [],
-    "basic_upgrades": [],
-    "soulgems": [],
-    "wow_pows": [],
+    "basic": [
+      {
+        "name": "Potion Lob",
+        "imgPath": "",
+        "content": "Lobs a potion that has different effects depending on the color.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Beast Form",
+        "imgPath": "",
+        "content": "Pop Fizz drinks a potion to transform into a large, powerful beast.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "New Concoctions",
+        "imgPath": "",
+        "content": "Allows Pop Fizz to mix new and more powerful potion types.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Puddle of Pain",
+        "imgPath": "",
+        "content": "Potions leave behind a damaging puddle on the ground.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      },
+      {
+        "name": "Raging Beast",
+        "imgPath": "",
+        "content": "Increases the damage and duration of the Beast Form.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Shake It!",
+        "imgPath": "",
+        "content": "Shake the potion bottle to increase the power of the next potion thrown.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 3,
+        "name": "Double Trouble",
+        "imgPath": "",
+        "content": "Allows for two beast forms to be active at once or one beast and one mini.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
     "upgrade_paths": []
   },
   "variants": [
@@ -66,7 +155,7 @@
       "edition": "Special Edition",
       "type": "Core",
       "game": "Skylanders: Trap Team",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7c/LPPopFizz.png",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7c/LPPopFizz.png/revision/latest?cb=20170304031733",
       "attacks": [
         "Potion Lob",
         "Beast Form",
@@ -76,24 +165,20 @@
       ],
       "stats": [
         {
-          "stat_name": "Health",
-          "stat_value": "270"
+          "stat_name": "Strength",
+          "stat_value": "100"
         },
         {
-          "stat_name": "Speed",
+          "stat_name": "Defense",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Agility",
           "stat_value": "60"
         },
         {
-          "stat_name": "Armor",
-          "stat_value": "12"
-        },
-        {
-          "stat_name": "Critical Hit",
-          "stat_value": "50"
-        },
-        {
-          "stat_name": "Elemental Power",
-          "stat_value": "25"
+          "stat_name": "Luck",
+          "stat_value": "200"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Love_Potion_Pop_Fizz"
