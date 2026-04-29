@@ -5,7 +5,7 @@
   "gender": "Male",
   "element": "Tech",
   "role": "Skylander",
-  "primary_game": "Skylanders: Lost Islands (March 2013)",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
@@ -16,7 +16,7 @@
   "description": "Lucky Boomer is a St. Patrick's Day version of Boomer who is available only on Skylanders: Lost Islands.",
   "biography": "Lucky Boomer is a St. Patrick's Day version of Boomer who is available only on Skylanders: Lost Islands.",
   "quote": "Lucky Boomer is here spreading the luck of the Skylanders!",
-  "personality": "Lucky Boomer is described as spreading the luck of the Skylanders.",
+  "personality": "Lucky Boomer is known for spreading the luck of the Skylanders.",
   "story": [
     {
       "story_name": "Overview",
@@ -34,10 +34,11 @@
     }
   ],
   "trivia": [
-    "Lucky Boomer, Hoppity Pop Fizz, Admiral Thumpback and Holiday Wash Buckler are the only Lost Islands exclusive Skylanders of 2013 without a specific house of their own."
+    "Lucky Boomer, Hoppity Pop Fizz, Admiral Thumpback and Holiday Wash Buckler are the only Lost Islands exclusive Skylanders of 2013 without a specific house of their own.",
+    "Lucky Boomer's English voice actor is Joey Camen."
   ],
   "trailers": [],
-  "gameplay": "Lucky Boomer is a St. Patrick's Day version of Boomer who is available only on Skylanders: Lost Islands.",
+  "gameplay": "Lucky Boomer is a seasonal Alter Ego of Boomer available only in Skylanders: Lost Islands. He features unique idle and poke animations within the game.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Lucky_Boomer",
   "abilities": {
     "basic": [],
@@ -48,11 +49,11 @@
   },
   "variants": [
     {
-      "id": "lucky-boomer",
+      "id": "lucky-boomer-lost-islands",
       "variant_name": "Lucky Boomer",
-      "edition": "Series 1",
+      "edition": "St. Patrick's Day",
       "type": "Alter Ego",
-      "game": "Skylanders: Lost Islands (March 2013)",
+      "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/8/84/Lucky_Boomer.png/revision/latest?cb=20130301210327",
       "attacks": [],
       "stats": [],
