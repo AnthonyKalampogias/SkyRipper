@@ -9,7 +9,7 @@
   "appearances": [
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
-    "Skylander: SuperChargers (Racing)",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
@@ -91,26 +91,29 @@
     }
   ],
   "trivia": [
-    "He is the second snake Skylander in the series, after Rattle Shake and before Pit Boss. He is currently the only snake Skylander who is not in the Undead element.",
+    "He is the second snake Skylander in the series, after Rattle Shake and before Pit Boss.",
+    "He is currently the only snake Skylander who is not in the Undead element.",
     "Cobra Cadabra's name is a play on the magic word 'Abracadabra.'",
     "His eyes constantly shrink and grow, a reference to snake hypnotism.",
     "He is one of the few playable characters to use a musical instrument as a weapon (the others being Wolfgang, Fiesta, Pain-Yatta, and Turbo Charge Donkey Kong). Additionally, each of the characters' weapons come from the four main instrument groups; Cobra Cadabra's flute: Woodwinds, Wolfgang's bone harp: Strings, Fiesta's trumpet: Brass, and Donkey Kong's bongo drums: Percussion.",
-    "Oddly, Cobra Cadabra does not hiss whenever he says the letter 'S.' As of Imaginators, he is the only snake character to not do so.",
+    "Oddly, Cobra Cadabra does not hiss whenever he says the letter 'S.'",
+    "As of Imaginators, he is the only snake character to not do so.",
     "Not counting the variants, guests or SuperCharger versions of previous Skylanders, Cobra Cadabra has the highest amount of syllables in his name, specifically five.",
     "Cobra Cadabra is bugged in Trap Team so that, if a cinematic or dialogue scene interrupts him while playing the flute, he will remain in his flute-playing position until the attack is used again.",
     "If Cobra Cadabra is wearing a trinket which goes in his mouth, when he goes to play his flute, the trinket will temporarily disappear, only to reappear when he finishes playing.",
-    "In SuperChargers and Imaginators, when he plays his snake charmer's solo, his flute tune and music sounds different from how it did in Trap Team. It sounds like ordinary flute music instead of hypnotic flute music."
+    "In SuperChargers and Imaginators, when he plays his snake charmer's solo, his flute tune and music sounds different from how it did in Trap Team.",
+    "It sounds like ordinary flute music instead of hypnotic flute music."
   ],
   "trailers": [
     {
       "name": "Meet the Skylanders Cobra Cadabra",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylands_Cobra_Cadabra"
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Cobra_Cadabra"
     },
     {
       "name": "Skylanders Trap Team - Cobra Cadabra's Soul Gem Preview (Charmed and Ready)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Cobra_Cadabra%27s_Soul_Gem_Preview_(Charmed_and_Ready)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Cobra_Cadabra's_Soul_Gem_Preview_(Charmed_and_Ready)"
     }
   ],
   "gameplay": "Cobra Cadabra can play his magical pungi flute, which launches magic notes that attack his enemies, or cast various spells through songs, one can put enemies under his control. His secondary attack allows him to launch cobra baskets which have cobra allies to attack his enemies. His third attack lets Cobra Cadabra launch himself out of his basket which damages enemies in his way, and land into other cobra baskets.",
@@ -335,7 +338,7 @@
       "id": "king-cobra-cadabra",
       "variant_name": "King Cobra Cadabra",
       "edition": "Special Edition",
-      "type": "Core",
+      "type": "Core Special Edition",
       "game": "Skylanders: Trap Team",
       "image": "Cobra_Cadabra_Promo.jpg",
       "attacks": [
@@ -373,7 +376,7 @@
       "id": "charming-cobra-cadabra",
       "variant_name": "Charming Cobra Cadabra",
       "edition": "Alter Ego",
-      "type": "Core",
+      "type": "Alter Ego",
       "game": "Skylanders: Lost Islands",
       "image": "CobraCadabraLostIslands.gif",
       "attacks": [
