@@ -269,7 +269,7 @@
           },
           {
             "name": "Call and Response",
-            "imgPath": "Cobra_Cadabrapath2upgrade2.png",
+            "imgPath": "Cobra_Cadabrapath2upgrade2.png,",
             "content": "Shoot Cobra Baskets with your Magic Flute to power them up.",
             "is_primary": false,
             "is_secondary": true,
