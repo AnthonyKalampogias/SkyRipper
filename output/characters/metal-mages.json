@@ -14,7 +14,7 @@
     "Mystic Mill"
   ],
   "description": "Metal Mage is a scrapped Skylander turned support enemy in Skylanders: Trap Team. He is a wizard troll with an Air-themed headdress and metal staves who can create protective barriers and manipulate metal balls to form weapons.",
-  "biography": "Metal Mage is a scrapped Skylander, turned single use enemy, in Skylanders: Trap Team. He is a wizard troll with an Air themed headdress and metal staves, with the ability to create barriers around its allies, and like Broccoli Guys and Rage Mages, holds treasure over his head. Though they first started as inspired by Boomer, the developer received the concept art for Rocky Roll instead and worked Metal Mage's abilities into them.",
+  "biography": "Metal Mage is a scrapped Skylander, turned single use enemy, in Skylanders: Trap Team. He is a wizard troll with an Air themed headdress and metal staves, with the ability to create barriers around its allies, and like Broccoli Guys and Rage Mages, holds treasure over his head.",
   "quote": "None",
   "personality": "As a support-focused wizard, the Metal Mage is dedicated to the protection of his comrades, utilizing defensive magic to control the battlefield.",
   "story": [
@@ -77,7 +77,7 @@
       {
         "name": "Metal Ball Conjuration",
         "imgPath": "",
-        "content": "Creating metal balls that he could combine into various weapons.",
+        "content": "Creating metal balls that he could combine into various weapons such as a giant metal hammer or a metal battering ram.",
         "is_primary": false,
         "is_secondary": true,
         "price": 0,
