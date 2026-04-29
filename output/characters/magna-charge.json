@@ -19,7 +19,7 @@
   "world": [
     "Skylands"
   ],
-  "description": "Magna Charge is a Tech element robot and member of the SWAP Force. Born with a unique magnetic head, he was initially exiled by his metallic peers before mastering his powers and joining the Skylanders.",
+  "description": "Magna Charge is a Tech element robot and member of the SWAP Force. Born with a unique magnetic head, he was initially exiled by his metallic peers before mastering his powers and joining the Skylanders. He is characterized by his scientific mind and wheel-based mobility.",
   "biography": "Magna Charge came from the great race of Ultron robots, but was mysteriously created with a giant magnet head. This proved problematic, as his peers were all made of metal and were constantly being pulled towards him. As a result, Magna Charge was exiled to a faraway island, where he eventually learned to control his magnetic powers. After years of training, he returned to his home to demonstrate his abilities, but found everything completely destroyed. In searching for answers, Magna Charge caught the attention of Master Eon, who realized the unique Ultron soldier was a perfect candidate for the Skylanders.",
   "quote": "Attract to Attack!",
   "personality": "Magna Charge is a disciplined and highly confident Ultron robot. He often views himself as superior in efficiency and skill, describing his actions as 'MAGnificent' and 'superior in all areas.' He possesses a scientific mind, frequently referencing magnetic force density and affector fields during combat.",
@@ -28,7 +28,7 @@
       "story_name": "Biography",
       "content": "Magna Charge came from the great race of Ultron robots, but was mysteriously created with a giant magnet head. This proved problematic, as his peers were all made of metal and were constantly being pulled towards him. As a result, Magna Charge was exiled to a faraway island, where he eventually learned to control his magnetic powers. After years of training, he returned to his home to demonstrate his abilities, but found everything completely destroyed. In searching for answers, Magna Charge caught the attention of Master Eon, who realized the unique Ultron soldier was a perfect candidate for the Skylanders.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Magna_Charge_Art.jpg/revision/latest/scale-to-width-down/268?cb=20130908180141"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Magna_Charge_Art.jpg/revision/latest?cb=20130908180141"
     }
   ],
   "quotes": [
@@ -57,13 +57,17 @@
   ],
   "trivia": [
     "He is the only SWAP Force Skylander to have a hand on only one arm.",
-    "The original concept designs for Magna Charge included a massive gatling gun on his left arm, which was later included as his Soul Gem upgrade.",
-    "He is one of the only Skylanders with one eye, along with Shroomboom, Rocky Roll, Eye-Brawl, Dive-Clops, and Ro-Bow.",
-    "During early development, Magna Charge's eye and wheel were both yellow instead of green.",
-    "Pressing the primary attack while charging allows him to perform a damaging backflip.",
+    "The original concept designs for Magna Charge included a massive gatling gun on his left arm. This was later included as his Soul Gem upgrade.",
+    "He, Shroomboom, Rocky Roll, Eye-Brawl, Dive-Clops and Ro-Bow are the only Skylanders with one eye.",
+    "During earlier development, Magna Charge's eye and wheel were yellow instead of green.",
+    "When you fully upgrade Magna Charge's bottom half, his wheel turns blue.",
+    "If you press the primary attack button while charging, Magna Charge will do a damaging backflip not mentioned in his upgrades.",
     "Magna Charge resembles Rocket from Robot on Wheels.",
-    "He is one of the only Swap Force Skylanders without any true legs, along with Doom Stone, Rattle Shake, and Night Shift.",
-    "Gregg Berger, his voice actor, is well-known for voicing Grimlock in Transformers and Hunter and Ripto in the original Spyro the Dragon games."
+    "He is one of the only Swap Force Skylanders without true legs, along with Doom Stone, Rattle Shake, and Night Shift.",
+    "In Trap Team, a glitch allows Polarized Pickup to remove training dummies at the Academy.",
+    "He and Freeze Blade are the only Skylanders with Nitro variants with the Speed ability.",
+    "His voice actor, Gregg Berger, is well-known for voicing Grimlock in Transformers and Hunter and Ripto in the original Spyro the Dragon games.",
+    "The name of his species is possibly a reference to the Marvel Comics character, Ultron."
   ],
   "trailers": [
     {
@@ -77,13 +81,13 @@
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Magna_Charge_Soul_Gem_Preview_(Attract_to_Attack)"
     }
   ],
-  "gameplay": "Magna Charge is a high-speed Speed-type Skylander. He uses a Magnet Cannon for rapid-fire ranged attacks and his magnetic head to lift and throw enemies with Polarized Pickup. His wheel-based lower half allows for exceptional mobility and the ability to drag and launch enemies across the battlefield.",
+  "gameplay": "Magna Charge is a high-speed Speed-type Skylander. He uses a Magnet Cannon for rapid-fire ranged attacks and his magnetic head to lift and throw enemies with Polarized Pickup. His wheel-based lower half allows for exceptional mobility and the ability to drag and launch enemies across the battlefield. He can also use magnetic abilities to gather gold and food.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Magna_Charge",
   "abilities": {
     "basic": [
       {
         "name": "Magnet Cannon",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a6/Magna_Chargetopprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170310024413",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a6/Magna_Chargetopprimarypower.png/revision/latest?cb=20170310024413",
         "content": "Hold Attack 1 to rapidly fire energy projectiles. Firing for too long will cause the cannon to overheat.",
         "is_primary": true,
         "is_secondary": false,
@@ -95,7 +99,7 @@
       },
       {
         "name": "Magneto Ball",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Magna_Chargebottomprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170310033214",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Magna_Chargebottomprimarypower.png/revision/latest?cb=20170310033214",
         "content": "Press Attack 2 to drag an enemy around. Press Attack 2 again to launch them forward. Large enemies cannot be dragged.",
         "is_primary": true,
         "is_secondary": false,
@@ -109,7 +113,7 @@
     "basic_upgrades": [
       {
         "name": "Polarized Pickup",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Magna_Chargetopbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170310024539",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Magna_Chargetopbasicupgrade1.png/revision/latest?cb=20170310024539",
         "content": "Press Attack 3 to pick up enemies. Press Attack 3 again to slam them. While active, loot will be drawn in from a distance!",
         "is_primary": false,
         "is_secondary": true,
@@ -121,7 +125,7 @@
       },
       {
         "name": "Eject",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b9/Magna_Chargebottombasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170310033450",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b9/Magna_Chargebottombasicupgrade1.png/revision/latest?cb=20170310033450",
         "content": "Press Attack 1 while dragging an object or enemy to throw it behind to boost forward.",
         "is_primary": false,
         "is_secondary": true,
@@ -133,7 +137,7 @@
       },
       {
         "name": "Plasma Shots",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Magna_Chargetopbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170310024609",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c9/Magna_Chargetopbasicupgrade2.png/revision/latest?cb=20170310024609",
         "content": "Hold Attack 1 to rapidly shoot a Magnet Cannon that does increased damage. Projectiles heat up after a short time, dealing extra fire damage.",
         "is_primary": false,
         "is_secondary": true,
@@ -145,7 +149,7 @@
       },
       {
         "name": "Rad Wheels",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Magna_Chargebottombasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170310033543",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Magna_Chargebottombasicupgrade2.png/revision/latest?cb=20170310033543",
         "content": "Speed is increased. Brand new developments in magnet wheels!",
         "is_primary": false,
         "is_secondary": true,
@@ -157,7 +161,7 @@
       },
       {
         "name": "Magnetic Buildup",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Magna_Chargetopbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170310024704",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Magna_Chargetopbasicupgrade3.png/revision/latest?cb=20170310024704",
         "content": "Hold an object with Polarized Pickup for a short time, release it to deal extra damage.",
         "is_primary": false,
         "is_secondary": true,
@@ -169,7 +173,7 @@
       },
       {
         "name": "Drag Capacity",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/60/Magna_Chargebottombasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170310033659",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/60/Magna_Chargebottombasicupgrade3.png/revision/latest?cb=20170310033659",
         "content": "Two enemies can be dragged at once while dashing.",
         "is_primary": false,
         "is_secondary": true,
@@ -183,7 +187,7 @@
     "soulgems": [
       {
         "name": "Multi Barrelled",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/92/Magna_Chargetopsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170310024452",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/92/Magna_Chargetopsoulgempower.png/revision/latest?cb=20170310024452",
         "content": "Upgraded Magnet Cannon that shoots 3 projectiles at once!",
         "is_primary": false,
         "is_secondary": false,
@@ -195,7 +199,7 @@
       },
       {
         "name": "Super Repulsor",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Magna_Chargebottomsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170310033305",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Magna_Chargebottomsoulgempower.png/revision/latest?cb=20170310033305",
         "content": "A new wheel makes thrown objects gain increased damage, range and speed.",
         "is_primary": false,
         "is_secondary": false,
@@ -213,7 +217,7 @@
         "abilities": [
           {
             "name": "Discharge Recharge",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Magna_Chargetoppath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170310024809",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Magna_Chargetoppath1upgrade1.png/revision/latest?cb=20170310024809",
             "content": "Hold Attack 1 to overheat the Magnet Cannon, release to shoot a large fireball.",
             "is_primary": false,
             "is_secondary": true,
@@ -225,7 +229,7 @@
           },
           {
             "name": "Heavy Blaster",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/13/Magna_Chargetoppath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170310024843",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/13/Magna_Chargetoppath1upgrade2.png/revision/latest?cb=20170310024843",
             "content": "Magnet cannon does even more damage.",
             "is_primary": false,
             "is_secondary": true,
@@ -242,7 +246,7 @@
         "abilities": [
           {
             "name": "Burst Pickup",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2f/Magna_Chargetoppath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170310024908",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2f/Magna_Chargetoppath2upgrade1.png/revision/latest?cb=20170310024908",
             "content": "Picking up enemies with Polarized Pickup will knock back nearby enemies.",
             "is_primary": false,
             "is_secondary": true,
@@ -254,7 +258,7 @@
           },
           {
             "name": "Magnetic Personality",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/27/Magna_Chargetoppath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170310024939",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/27/Magna_Chargetoppath2upgrade2.png/revision/latest?cb=20170310024939",
             "content": "Magnet attacks do increased damage. Two-Ton's Law states: if it has mass, it can be slammed.",
             "is_primary": false,
             "is_secondary": true,
@@ -271,7 +275,7 @@
         "abilities": [
           {
             "name": "Shock Stop",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Magna_Chargebottompath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20131107121517",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Magna_Chargebottompath1upgrade1.png/revision/latest?cb=20131107121517",
             "content": "Press (X) while dragging an enemy to drop it in front of you and shock it.",
             "is_primary": false,
             "is_secondary": true,
@@ -283,7 +287,7 @@
           },
           {
             "name": "Crash Test",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6f/Magna_Chargebottompath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20131107121621",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6f/Magna_Chargebottompath1upgrade2.png/revision/latest?cb=20131107121621",
             "content": "Shock Stop and Eject do increased damage.",
             "is_primary": false,
             "is_secondary": true,
@@ -300,7 +304,7 @@
         "abilities": [
           {
             "name": "Rapid Repel",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b2/Magna_Chargebottompath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20131107121711",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b2/Magna_Chargebottompath2upgrade1.png/revision/latest?cb=20131107121711",
             "content": "Press (X) while dragging an object or enemy to shoot it without stopping.",
             "is_primary": false,
             "is_secondary": true,
@@ -312,7 +316,7 @@
           },
           {
             "name": "Opposites Repel",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Magna_Chargebottompath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20131107121752",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Magna_Chargebottompath2upgrade2.png/revision/latest?cb=20131107121752",
             "content": "Rapid Repel does increased damage. Repulsive!",
             "is_primary": false,
             "is_secondary": true,
@@ -333,7 +337,7 @@
       "edition": "Series 1",
       "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Magna_Charge_Art.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Magna_Charge_Art.jpg/revision/latest?cb=20130908180141",
       "attacks": [
         "Magnet Cannon",
         "Polarized Pickup",
@@ -344,26 +348,64 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "280"
+          "stat_value": "280 (max. 560)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "50"
+          "stat_value": "50 (max. 98)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "18"
+          "stat_value": "18 (max. 48)"
         },
         {
           "stat_name": "Critical Hit",
-          "stat_value": "6"
+          "stat_value": "6 (max. 56)"
         },
         {
           "stat_name": "Elemental Power",
-          "stat_value": "25"
+          "stat_value": "25 (max. 75)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Magna_Charge"
+    },
+    {
+      "id": "nitro-magna-charge",
+      "variant_name": "Nitro Magna Charge",
+      "edition": "Nitro",
+      "type": "SWAP Force",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Magna_Charge_Art.jpg/revision/latest?cb=20130908180141",
+      "attacks": [
+        "Magnet Cannon",
+        "Polarized Pickup",
+        "Magneto Ball",
+        "Eject",
+        "Plasma Shots"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 (max. 560)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6 (max. 56)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Magna_Charge"
     }
   ]
 }
