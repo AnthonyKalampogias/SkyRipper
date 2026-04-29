@@ -18,11 +18,17 @@
   "description": "The Minis are miniature versions of existing Skylanders that were introduced in Skylanders: Trap Team. They take after their bigger counterparts, in both personality and abilities. In the IDW comics, they are depicted as Skylanders with personalities to that of children.",
   "biography": "The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
   "quote": "Small but mighty!",
-  "personality": "Playful and courageous, the Minis possess child-like personalities and a strong determination to prove themselves as full-fledged heroes alongside their larger counterparts.",
+  "personality": "Playful and courageous, the Minis possess child-like personalities and a strong determination to prove themselves as full-fledged heroes alongside their larger counterparts. Despite their small size, they are noted for having courage that more than makes up for their stature.",
   "story": [
     {
       "story_name": "Biography",
       "content": "The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Character Development",
+      "content": "Gameplay designer Nat Loh and his team were tasked to bring back all the Sidekicks from Skylanders: Spyro's Adventure and Skylanders: Giants, as well as creating new ones as fully playable characters. This work required a lot of file organization and general porting. The team would each pitch in whenever one of them had time for the various tasks required for 16 different minis.",
       "hasImage": false,
       "imgPath": ""
     }
@@ -38,7 +44,7 @@
     "All of Minis are counterparts of Skylanders who first appeared in Skylanders: Spyro's Adventure and Giants (except for Small Fry who is a counterpart of Fryno, a Swap Force-debut Skylander)."
   ],
   "trailers": [],
-  "gameplay": "Minis play identically to their full-sized counterparts, possessing the same movesets, upgrades, and power levels. Their primary differences are their smaller physical scale, higher-pitched voices, and unique animations for certain actions.",
+  "gameplay": "Minis play identically to their full-sized counterparts, possessing the same movesets, upgrades, and power levels. Their primary differences are their smaller physical scale, higher-pitched voices, and unique animations for certain actions. Giant Minis also share some large effects with their full-size counterparts, such as the ability to destroy bomb-able obstacles. Unlike their normal counterparts, the Minis have different defeated animations.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Minis",
   "abilities": {
     "basic": [],
@@ -58,6 +64,39 @@
       "attacks": [],
       "stats": [],
       "wiki_url": "https://skylanders.fandom.com/wiki/Minis"
+    },
+    {
+      "id": "gnarly_barkley",
+      "variant_name": "Gnarly Barkley",
+      "edition": "Special Edition",
+      "type": "Mini Variant",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/32/Gnarly_Barkley_Icon.png/revision/latest/scale-to-width-down/45?cb=20170306065810",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Gnarly_Barkley"
+    },
+    {
+      "id": "power_punch_pet_vac",
+      "variant_name": "Power Punch Pet-Vac",
+      "edition": "Special Edition",
+      "type": "Mini Variant",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/60/Power_Punch_Pet-Vac_Icon.png/revision/latest/scale-to-width-down/45?cb=20170306065815",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Power_Punch_Pet-Vac"
+    },
+    {
+      "id": "eggsellent_weeruptor",
+      "variant_name": "Eggsellent Weeruptor",
+      "edition": "Special Edition",
+      "type": "Mini Variant",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/27/Eggsellent_Weeruptor_Icon.png/revision/latest/scale-to-width-down/45?cb=20170306065811",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Eggsellent_Weeruptor"
     }
   ]
 }
