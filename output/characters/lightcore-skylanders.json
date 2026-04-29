@@ -19,7 +19,7 @@
   "world": [
     "Skylands"
   ],
-  "description": "LightCore Skylanders are special versions of characters that glow when placed on the Portal of Power. They possess a unique shockwave ability that triggers upon entering the game, clearing nearby enemies.",
+  "description": "LightCore Skylanders are special versions of characters introduced in Skylanders: Giants that call upon the power of the Core of Light to ignite their own light from within, causing them to glow when placed on the Portal of Power.",
   "biography": "LightCore Skylanders are playable characters introduced in Skylanders: Giants. The Skylanders are protectors of the Core of Light, and in times of peril, they can call upon its power to ignite their own light from within and radiate with magic, becoming known as LightCore Skylanders. These characters light up without batteries when placed near the Portal of Power. They have a LightCore shockwave attack that defeats all surrounding enemies when placed in the game. This attack can be used once per level for each LightCore Skylander the player owns.",
   "quote": "Ignite their own light from within!",
   "personality": "As a group, LightCore Skylanders are characterized by their dedication to protecting the Core of Light and their ability to channel its power in times of peril. Their individual personalities match their base character counterparts.",
@@ -40,11 +40,17 @@
     }
   ],
   "trivia": [
-    "LightCore Figures of Skylanders introduced in Skylanders: Spyro's Adventure are compatible with Skylanders: Spyro's Adventure but will not light up in game or create a shockwave.",
+    "LightCore Figures of Skylanders introduced in Skylanders: Spyro's Adventure are compatible with Skylanders: Spyro's Adventure but will not light up in game or create a shockwave, due to LightCore being a concept introduced after the game's release.",
     "No new LightCore Skylanders were introduced after Swap Force.",
+    "The Sunscraper Spire and Midnight Museum Expansion Packs from Trap Team light up when placed on the Traptanium Portal.",
     "Light and Dark are the only elements without any LightCore Skylanders.",
     "LightCore Hex is the only variant of this kind used in Skylanders: Ring of Heroes, replacing her default appearance.",
-    "Flashwing, Wham-Shell and Warnado are the only LightCore Skylanders without an additional counterpart in the Swap Force toyline."
+    "Despite not being a LightCore character, Light Hex has an ability that uses its power.",
+    "None of the Skylanders from Spyro's Adventure in the Magic or Life elements have a LightCore counterpart.",
+    "With the exception of Hot Dog, Fright Rider and Sprocket, each of the core Skylanders who first appeared in Giants had a LightCore counterpart.",
+    "In Ring of Heroes, the Light elemental versions of Skylanders from other elements (Light Hex, Light Jet-Vac and Light Flashwing) seem to be based on the LightCore Skylanders.",
+    "Flashwing, Wham-Shell and Warnado are the only LightCore Skylanders without an additional counterpart in the Swap Force toyline.",
+    "They are also the only Swap Force-debut LightCore counterparts of Skylanders who had appeared in previous games."
   ],
   "trailers": [],
   "gameplay": "LightCore Skylanders light up without batteries when placed near the Portal of Power. They feature a unique LightCore shockwave attack that defeats all surrounding enemies when placed in the game, usable once per level. Additionally, they often feature different poses from their regular character models.",
@@ -69,7 +75,7 @@
       {
         "name": "Core of Light Radiance",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Lightcore_Logo.png",
-        "content": "These characters light up without batteries when placed near the Portal of Power, calling upon the power of the Core of Light to ignite their own light from within.",
+        "content": "These characters light up without batteries when placed near the Portal of Power, calling upon the power of the Core of Light to ignite their own light from within and radiate with magic.",
         "is_primary": false,
         "is_secondary": true,
         "price": 0,
@@ -79,7 +85,21 @@
         }
       }
     ],
-    "wow_pows": [],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "LightCore shockwave",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Lightcore_Logo.png",
+        "content": "A powerful shockwave attack that defeats all surrounding enemies when the Skylander is placed on the Portal of Power. This attack can be used once per level for each LightCore figure owned.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#BEE",
+          "bg_content": "#0BF"
+        }
+      }
+    ],
     "upgrade_paths": []
   },
   "variants": [
@@ -100,6 +120,45 @@
       "id": "lightcore-swapforce-series",
       "variant_name": "LightCore (Swap Force)",
       "edition": "LightCore",
+      "type": "Core",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Lightcore_Logo.png",
+      "attacks": [
+        "LightCore shockwave"
+      ],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/LightCore_Skylanders"
+    },
+    {
+      "id": "legendary-lightcore-giants",
+      "variant_name": "Legendary LightCore (Giants)",
+      "edition": "Legendary",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Lightcore_Logo.png",
+      "attacks": [
+        "LightCore shockwave"
+      ],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/LightCore_Skylanders"
+    },
+    {
+      "id": "legendary-lightcore-swapforce",
+      "variant_name": "Legendary LightCore (Swap Force)",
+      "edition": "Legendary",
+      "type": "Core",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Lightcore_Logo.png",
+      "attacks": [
+        "LightCore shockwave"
+      ],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/LightCore_Skylanders"
+    },
+    {
+      "id": "enchanted-lightcore-swapforce",
+      "variant_name": "Enchanted LightCore (Swap Force)",
+      "edition": "Enchanted",
       "type": "Core",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Lightcore_Logo.png",
