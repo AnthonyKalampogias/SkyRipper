@@ -21,7 +21,7 @@
   "description": "Night Shift is an Undead vampire boxer who is one of the SWAP Force Skylanders in Skylanders: Swap Force. His SWAP Force Ability is Teleport.",
   "biography": "From high up in the gloomy Batcrypt Mountains, Night Shift was a full-fledged baron and heir to a great fortune. But one day, he decided to leave it all behind to pursue his dream as a prizefighter. It wasn’t long before Night Shift became the undefeated phantom-weight champion of Skylands famous for his massive uppercut and for having once bitten an opponent in the ring. Unfortunately, a rule change made teleportation illegal and Night Shift was forced to give up his belt, officially ending his career as a boxer. Crestfallen over being disqualified from a sport he loved so dearly, his spirits picked up when he was sought out by Master Eon, who told him that his skill as a fighter could be put to great use as a member of the Skylanders.",
   "quote": "Roll with the Punches!",
-  "personality": "Night Shift can come off a bit grumpy, due to being an Undead character. He values boxing, and is commonly considered by others as old-school. Whenever he hears the sound of a boxing bell however, he goes into a wild frenzy, punching anyone and anything around him. Night Shift always plays by the rules, so when the Skylands Boxing Federation banned Teleportation, he had to give up the sport he loved. [1]",
+  "personality": "Night Shift can come off a bit grumpy, due to being an Undead character. He values boxing, and is commonly considered by others as old-school. Whenever he hears the sound of a boxing bell however, he goes into a wild frenzy, punching anyone and anything around him. Night Shift always plays by the rules, so when the Skylands Boxing Federation banned Teleportation, he had to give up the sport he loved.",
   "story": [
     {
       "story_name": "Champions",
@@ -78,14 +78,14 @@
   ],
   "trivia": [
     "Night Shift is the first Skylander to have the ability to return to life after getting defeated.",
-    "In early concept art, Night Shift was designed as a vampire bat.[2]",
+    "In early concept art, Night Shift was designed as a vampire bat.",
     "Night Shift has the smallest base health out of all SWAP Force Skylanders.",
-    "Night Shift exemplified the need to make Swap Force's animation system work flawlessly for Swap Force characters, as the developers had to maintain his boxer attitude no matter how he was swapped.[3]",
+    "Night Shift exemplified the need to make Swap Force's animation system work flawlessly for Swap Force characters, as the developers had to maintain his boxer attitude no matter how he was swapped.",
     "In his magic moment, a boxing match bell ring is heard.",
     "His teleporting differs from that of Hoot Loop, as he can only teleport a set distance in front of him, while Hoot Loop can choose where he teleports. However, Night Shift can teleport faster than Hoot Loop, especially in Teleport Zones.",
     "He and Stink Bomb are seen in most of the commercials of Swap Force so far, including the intro of the game. They're always seen swapping with each other.",
-    "Night Shift, Bat Spin and Roller Brawl are all vampires. However, he is the only one whose attack involves biting his enemies.\nThe way he bites is similar to a fiasco at the 2014 FIFA World Cup match between Italy and Uruguay, where Luis Suarez bit Giorgio Chiellini.\nHis bite is a reference to boxer Mike Tyson’s infamous 1997 incident where he bit off Evander Holyfield’s ear.\nLike most vampires, he speaks with a stereotypical Transylvanian accent.\nSo far, Night Shift is the only male vampire in Skylanders.",
-    "Night Shift's voice actor, Maurice LaMarche, is best known for his voicework in Futurama as Kif Kroker, The Brain in Animaniacs and Pinky And The Brain, Horace Badun in 101 Dalmatians: Patch's London Adventure and Dr. Victor Fries/Mr. Freeze in the Batman: Arkham games. LaMarche is also the current voice actor for Doctor Nitrus Brio from Crash Bandicoot as of Crash: Mind over Mutant in 2008.\nHe is also known as one of the most prolific soundalike artists in the industry, be famous for his impression of Orson Welles, and flawlessly imitating Sean Connery's voice for the character Athair in Sonic Underground.",
+    "Night Shift, Bat Spin and Roller Brawl are all vampires. However, he is the only one whose attack involves biting his enemies. The way he bites is similar to a fiasco at the 2014 FIFA World Cup match between Italy and Uruguay, where Luis Suarez bit Giorgio Chiellini. His bite is a reference to boxer Mike Tyson’s infamous 1997 incident where he bit off Evander Holyfield’s ear. Like most vampires, he speaks with a stereotypical Transylvanian accent. So far, Night Shift is the only male vampire in Skylanders.",
+    "Night Shift's voice actor, Maurice LaMarche, is best known for his voicework in Futurama as Kif Kroker, The Brain in Animaniacs and Pinky And The Brain, Horace Badun in 101 Dalmatians: Patch's London Adventure and Dr. Victor Fries/Mr. Freeze in the Batman: Arkham games. LaMarche is also the current voice actor for Doctor Nitrus Brio from Crash Bandicoot as of Crash: Mind over Mutant in 2008. He is also known as one of the most prolific soundalike artists in the industry, be famous for his impression of Orson Welles, and flawlessly imitating Sean Connery's voice for the character Athair in Sonic Underground.",
     "If you look closely in the Just Like Swap Force trailer, Night Shift's fangs are slightly drenched with blood.",
     "As stated in his Short Cut, Night Shift is older than school itself.",
     "He can heal himself with his Vampire Bite by biting sheep.",
@@ -94,19 +94,19 @@
     "Like Hood Sickle, in Skylanders: Trap Team, there is a glitch that allows you to Teleport through certain Mystery Traptanium Gates (in Know-It-All Island, Chompy Mountain and The Future of Skylands).",
     "Night Shift was one of the many Skylanders planned to appear in Skylanders: Ring of Heroes. Before the game's closure, only concept art of his Awakened Form was released.",
     "If Night Shift has the Batty Coach upgrade and falls during a Ring Out challenge, his health boost will appear on-screen although it will not revive him.",
-    "Night Shift's name references a \"night shift,\" a period of time when an employee works at night.",
+    "Night Shift's name references a 'night shift,' a period of time when an employee works at night.",
     "Night Shift's habit of punching everything upon hearing a bell is similar to a trope used in the classic Looney Tunes cartoons: every time a character trained as a boxer (or bred as one, in the case of the boxer dog breed) would do the exact same thing (often with painful results for bystanders)."
   ],
   "trailers": [
     {
       "name": "Meet the Skylanders Night Shift",
-      "isValid": false,
+      "isValid": true,
       "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Night_Shift"
     },
     {
       "name": "Skylanders Swap Force - Night Shift Soul Gem Preview (Roll with the Punches)",
-      "isValid": false,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Night_Shift_Soul_Gem_Preview_%28Roll_with_the_Punches%29"
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Night_Shift_Soul_Gem_Preview_(Roll_with_the_Punches)"
     }
   ],
   "gameplay": "As a former boxing champion, Night Shift can throw heavy punches as his enemies, and can even charge up an enormous uppercut that deals heavy damage. Night Shift can teleport very quickly, and shoot out ghostly bat allies to attack enemies. Night Shift can even bite his enemies with his huge vampire fangs and regain health.",
@@ -396,6 +396,44 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Night_Shift"
+    },
+    {
+      "id": "legendary-night-shift",
+      "variant_name": "Legendary Night Shift",
+      "edition": "Legendary",
+      "type": "SWAP Force",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Night_Shift_Art.jpg",
+      "attacks": [
+        "One-Two Punch",
+        "Ethereal Shift",
+        "Vampire’s Bite",
+        "Float Like a Vampire",
+        "Infectious Smile"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "200 (max. 400)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "38 (max. 86)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "4 (max. 34)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Night_Shift"
     }
   ]
 }
