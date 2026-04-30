@@ -25,13 +25,13 @@
   "story": [
     {
       "story_name": "Secret Agent Secrets",
-      "content": "Nightfall, along with Spitfire and Stormblade, were assigned by Spyro their first mission to find Buzz's elite Skylander team. Upon arrival at Motleyville, the SuperChargers were ambushed by Spell Punks. They were held prisoner by Spellslamzer. Nightfall found a way for her fellow Skylanders to escape by using one of Stormblade's feather blades. Eventually, the SuperChargers were freed and discovered that Ghost Roaster and the others had gone undercover. Nightfall eventually acknowledged Stormblade as a teammate and apologized for her previous behavior.",
+      "content": "Nightfall, along with Spitfire and Stormblade, were assigned by Spyro their first mission to find Buzz's elite Skylander team, Boomer, Ghost Roaster and Voodood. Upon arrival at Motleyville, they were ambushed by Spell Punks and later held prisoner by Spellslamzer. Nightfall found a way for her fellow Skylanders to escape by using one of Stormblade's feather blades. After a series of confrontations, the SuperChargers were freed and assisted the elite team, who had been undercover. Impressed by Stormblade's determination, Nightfall apologized to her teammate, finally acknowledging her as a fellow Skylander.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/28/Secret_Agent_Secrets_SuperChargers.png/revision/latest?cb=20160301064944"
     },
     {
       "story_name": "Skylanders: Ring of Heroes",
-      "content": "In Story of Nightfall, the Dreadwalker left the team for some time to investigate villain attacks at Fogshadow Tower. When she returned, she defended the team from a Lob Goblin poisoned by a strange crystalline powder. She later explained the events that transpired at Fogshadow Tower.",
+      "content": "In Story of Nightfall, the Dreadwalker investigated villain attacks at Fogshadow Tower. Returning to the Poison Sea, she defended Stormblade, Spitfire, and the Earth Portal Master from a Lob Goblin poisoned by crystalline powder. Although aggressive initially due to her mission's outcome, she eventually calmed down to explain the events at her home.",
       "hasImage": false,
       "imgPath": ""
     }
@@ -44,28 +44,56 @@
         "My fate is before me!",
         "Without a shadow of a doubt!",
         "Triumphant!",
+        "Let's do this!",
         "Onward to victory!",
-        "Mission accomplished!"
+        "My strength knows no equal!",
+        "Mission accomplished!",
+        "One of many victories!",
+        "Utterly unstoppable!",
+        "Shall we go on?",
+        "Nothing stands in my way!",
+        "Money!",
+        "Treasure!",
+        "Unfathomable wealth!",
+        "Treasures of the deep!",
+        "My power swells!",
+        "Power flows through me!",
+        "Let's strap in.",
+        "Ready for action!",
+        "The choice is made!",
+        "I race to win.",
+        "More where that came from!",
+        "Tough break!",
+        "Looks can be deceiving.",
+        "How mysterious.",
+        "My power knows no limit.",
+        "The numbers don't lie."
       ]
     },
     {
       "quote_type": "Quest Quotes",
       "content": [
         "I am made of secrets, Buzz...",
+        "Was I ever on the hook?",
         "The Sea Shadow. It is your worst nightmare.",
-        "The ocean retakes everything someday."
+        "Naturally. All of Kaos' forces should fear what's lurking in the darkest depths.",
+        "She who walks in shadows is prepared to meet the fates.",
+        "The ocean retakes everything someday. I'm just hurrying things along."
       ]
     }
   ],
   "trivia": [
     "Nightfall and Astroblast are the only SuperChargers of their respective elements.",
-    "Nightfall's toy was recalled due to a faulty RFID chip causing connection issues.",
-    "She is the second Skylander to have 'and Dangerous' in her catchphrase.",
-    "Nightfall's long hair and metal mask resemble The Predator."
+    "She is the only figure between the light and dark element SuperChargers that did not get a special variant.",
+    "Both Nightfall and Snap Shot were monster hunters before becoming Skylanders.",
+    "Nightfall's toy was recalled due to a faulty RFID chip. Recalled shipments feature the typo 'Night Fall' on the packaging.",
+    "She is the second Skylander to have the words 'and Dangerous' in her catchphrase.",
+    "Despite floating, she is held up by her hair in several animations and her figure pose.",
+    "Her hair is described in the Clutch artbook as being 'designed exclusively to make the FX artists cry.'"
   ],
   "trailers": [
     {
-      "name": "Skylanders SuperChargers - Nightfall Soul Gem Preview",
+      "name": "Skylanders SuperChargers - Nightfall Soul Gem Preview (Dark and Dangerous)",
       "isValid": true,
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Nightfall_Soul_Gem_Preview_(Dark_and_Dangerous)"
     },
@@ -75,7 +103,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_SuperChargers_Nightfall_and_Sea_Shadow"
     }
   ],
-  "gameplay": "Using the power of her mysterious shadowy hair, Nightfall can use it to attack at a distance by burrowing it into the ground, and releasing floating strands of it that seek out enemies. She can also manipulate shadows to hide and move unseen. Her hooks also allow her to fight in close range with great speed.",
+  "gameplay": "Using the power of her mysterious shadowy hair, Nightfall can use it to attack at a distance by burrowing it into the ground, and releasing flating strands of it that seek out enemies. She can also manipulate shadows to hide and move unseen; and as a less offensive ability, it is also used to propel Nightfall forward when she pushes objects. Her hooks also allow her to fight in close range with great speed if charged.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Nightfall",
   "abilities": {
     "basic": [
@@ -108,7 +136,7 @@
       {
         "name": "Whip Lash",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Nightfallbasicupgrade1.png/revision/latest?cb=20170504001729",
-        "content": "Press Attack 3 to unleash a strand of dark energy that whips enemies.",
+        "content": "Press Attack 3 to unleash a strand of dark energy that whips enemies and knocks them into the air. Using Whip Lash in the air knocks enemies down.",
         "is_primary": false,
         "is_secondary": false,
         "price": 500,
@@ -128,13 +156,37 @@
           "header": "#568",
           "bg_content": "#BBD"
         }
+      },
+      {
+        "name": "Hair Today, Gone Now",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/Nightfallbasicupgrade3.png/revision/latest?cb=20170504001936",
+        "content": "Damage enemies at the start of Ambrush and move faster during it.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
+      },
+      {
+        "name": "Scape-Goat",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/80/Nightfallbasicupgrade4.png/revision/latest?cb=20170504002036",
+        "content": "The first hook melee attack after an Ambrush is guaranteed to critically strike.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#568",
+          "bg_content": "#BBD"
+        }
       }
     ],
     "soulgems": [
       {
         "name": "Bad Hair Day",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2f/Nightfallsoulgempower.png/revision/latest?cb=20170504001534",
-        "content": "Tap Attack 3 repeatedly to knock all enemies into the air in an area.",
+        "content": "Tap Attack 3 repeatedly to knock all enemies into the air in an area. Continue taping Attack 3 to increase the area and knock all enemies down to the ground.",
         "is_primary": false,
         "is_secondary": false,
         "price": 4000,
@@ -152,10 +204,34 @@
           {
             "name": "Splitting Hairs",
             "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4d/Nightfallpath1upgrade1.png/revision/latest?cb=20170504002302",
-            "content": "Hold Attack 1 and release to unleash a devastating combo.",
+            "content": "Hold Attack 1 and release to unleash a devastating combo of hook and dark energy attacks.",
             "is_primary": false,
             "is_secondary": false,
             "price": 1700,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Comb-O",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/37/Nightfallpath1upgrade2.png/revision/latest?cb=20170504002339",
+            "content": "Every fourth attack in the basic melee combo does more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Playing Hooky",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Nightfallpath1upgrade3.png/revision/latest?cb=20170504002431",
+            "content": "Press Attack 1 during Ambrush to deal more damage in a larger area on exit.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
             "colors": {
               "header": "#568",
               "bg_content": "#BBD"
@@ -169,10 +245,34 @@
           {
             "name": "Ambrush Rush",
             "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/94/Nightfallpath2upgrade1.png/revision/latest?cb=20170504002840",
-            "content": "Hold Attack 2 to Ambrush longer and shoot strands of dark energy.",
+            "content": "Hold Attack 2 to Ambrush longer and shoot strands of dark energy towards enemies.",
             "is_primary": false,
             "is_secondary": false,
             "price": 1700,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Up-Sweep",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/59/Nightfallpath2upgrade2.png/revision/latest?cb=20170504002933",
+            "content": "Knock enemies into the air at the end of Ambrush.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#568",
+              "bg_content": "#BBD"
+            }
+          },
+          {
+            "name": "Vast Volume",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Nightfallpath2upgrade3.png/revision/latest?cb=20170504003000",
+            "content": "Press Attack 3 to send three strands of dark energy out to knock more enemies into the air during Whip Lash.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
             "colors": {
               "header": "#568",
               "bg_content": "#BBD"
@@ -205,6 +305,18 @@
         {
           "stat_name": "Speed",
           "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "6 (max. 36)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "10 (max. 60)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Nightfall"
