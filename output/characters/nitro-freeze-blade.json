@@ -27,26 +27,23 @@
     {
       "story_name": "Biography",
       "content": "When he was young, Freeze Blade's family moved from the Frozen Wastelands of Vesh to the Great Lava Lakes. As it turned out, this was a very difficult adjustment for Freeze Blade. Not only was he the sole one of his kind, it was also incredibly hot and there was no ice to skate on whatsoever. But over the years, he learned to fit in with the other fire-like creatures and even discovered he had a magical ability to ice skate on any surface... even bubbling lava. One day, while out setting a new frozen lava speed record, he came across Blast Zone, who had just been ambushed by some nasty Spell Punks. After Freeze Blade stepped in to defend him, Blast Zone was so impressed by his skill in battle that he introduced him to Master Eon, who invited him to join the Skylanders.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9d/Nitro_Freeze_Blade.png/revision/latest?cb=20140315012421"
     }
   ],
   "quotes": [
     {
       "quote_type": "Battle Cries",
       "content": [
-        "Keeping it Cool!",
-        "Ice to meet you!",
-        "Chakram-a-ding-dong!",
-        "Slip sliding away!"
+        "Keeping it Cool!"
       ]
     }
   ],
   "trivia": [
-    "He, Nitro Magna Charge, Nitro Head Rush, and Nitro Krypt King are the only Nitro Skylanders.",
-    "Unlike his normal counterpart, Nitro Freeze Blade's fur is lighter, silvery and shiny.",
-    "He is the only Water Skylander with the Nitro variant.",
-    "His design includes a checkered pattern, often associated with racing and the term 'Nitro'."
+    "He, Nitro Magna Charge, Nitro Head Rush and Nitro Krypt King are the only Nitro Skylanders.",
+    "Nitro Freeze Blade and Nitro Magna Charge are also counterparts of SWAP Force Skylanders with the Speed ability.",
+    "This is probably more than a coincidence as Nitro is a term used for a chemical makes cars move faster than normal and both Nitro variants have checkered patterns in their design, a symbol for racing.",
+    "Unlike his normal counterpart, Nitro Freeze Blade's fur is lighter, silvery and shiny."
   ],
   "trailers": [
     {
@@ -108,6 +105,18 @@
           "header": "#00CCFF",
           "bg_content": "#003366"
         }
+      },
+      {
+        "name": "Shaved Ice",
+        "imgPath": "shaved_ice.png",
+        "content": "An advanced ice attack that deals high damage to surrounding enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#00CCFF",
+          "bg_content": "#003366"
+        }
       }
     ],
     "soulgems": [
@@ -147,7 +156,7 @@
   },
   "variants": [
     {
-      "id": "nitro-freeze-blade",
+      "id": "nitro-freeze-blade-s1",
       "variant_name": "Nitro Freeze Blade",
       "edition": "Nitro",
       "type": "SWAP Force",
