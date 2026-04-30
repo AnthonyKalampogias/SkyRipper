@@ -17,9 +17,9 @@
     "Skylands"
   ],
   "description": "Nitro Krypt King is the Nitro counterpart of Krypt King in Skylanders: Trap Team.",
-  "biography": "",
+  "biography": "Nitro Krypt King is the Nitro counterpart of Krypt King in Skylanders: Trap Team. He is a Knight Spirit possessing Arkeyan Armor who serves as a Trap Master of the Undead element.",
   "quote": "I've Got the Edge!",
-  "personality": "",
+  "personality": "As a powerful Knight Spirit in Arkeyan Armor, Nitro Krypt King is a disciplined and formidable warrior dedicated to defending Skylands.",
   "story": [
     {
       "story_name": "Background",
@@ -43,15 +43,77 @@
   "trailers": [
     {
       "name": "Meet the Skylanders Nitro Krypt King",
-      "isValid": false,
-      "url": ""
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Nitro_Krypt_King"
     }
   ],
-  "gameplay": "",
+  "gameplay": "Nitro Krypt King is a Trap Master who utilizes a massive Traptanium Broadsword for close-quarters combat. He can also summon a swarm of insects to damage enemies from a distance and possesses upgrades that enhance his armor and sword with haunted properties.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Krypt_King",
   "abilities": {
-    "basic": [],
-    "basic_upgrades": [],
+    "basic": [
+      {
+        "name": "Traptanium Broadsword",
+        "imgPath": "",
+        "content": "Nitro Krypt King wields his massive Traptanium Broadsword to deliver powerful melee strikes to enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#9999AA",
+          "bg_content": "#211921"
+        }
+      },
+      {
+        "name": "The Swarm",
+        "imgPath": "",
+        "content": "Summons a swarm of insects to plague and damage nearby foes.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#9999AA",
+          "bg_content": "#211921"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Haunted Sword",
+        "imgPath": "",
+        "content": "Enhances the Broadsword with haunted energy for increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#9999AA",
+          "bg_content": "#211921"
+        }
+      },
+      {
+        "name": "Enchanted Armor",
+        "imgPath": "",
+        "content": "Provides additional defense and protection during battle.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#9999AA",
+          "bg_content": "#211921"
+        }
+      },
+      {
+        "name": "Stunning Sting",
+        "imgPath": "",
+        "content": "Adds a stunning effect to sword attacks, momentarily dazing enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#9999AA",
+          "bg_content": "#211921"
+        }
+      }
+    ],
     "soulgems": [],
     "wow_pows": [],
     "upgrade_paths": []
