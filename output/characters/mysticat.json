@@ -16,8 +16,8 @@
   ],
   "description": "Mysticat is a sphinx Magic Sensei in Skylanders: Imaginators who trains Imaginators of the Sorcerer Battle Class.",
   "biography": "For centuries, Mysticat and the great Sphinxes guarded the entrance to the Enchanted Desert with their famous riddles, which few could solve. Mysticat was a curious creature, and had his own question that even he could not answer. He was puzzled as to why others wanted to enter the Enchanted Desert so badly. So he decided to venture himself to find the answer. But instead of finding answers, he was attacked by wandering gypsies and evil sand raiders that scoured the desert for lost treasure. After fighting them off with his impressive sorcery skills, he returned to the elders and explained what happened. It was then that they revealed the true nature of the desert to him. They told him that what he saw was a vision of his own destiny - and that he was meant to protect all of Skylands, not just the Enchanted Desert. Master Eon was then invited to enter the desert to meet Mysticat to see if their two destinies were intertwined. When Eon emerged the next day, it was clear to him that Mysticat was meant to be one of his best Senseis... and that he would one day shave his beard. But he kept that part to himself.",
-  "quote": "“The Master of Mystery!”",
-  "personality": "",
+  "quote": "'The Master of Mystery!'",
+  "personality": "Curious",
   "story": [
     {
       "story_name": "Physical Traits",
@@ -32,7 +32,7 @@
       "content": [
         "The Master of Mystery!",
         "Here's a riddle - who can make all of your Imaginators stronger? Me! - Sensei Training Bonus",
-        "And oh yeah, I'sve got another one for you - who's got a secret technique to teach the Sorcerer Class? Me, again! - Secret Technique Bonus",
+        "And oh yeah, I've got another one for you - who's got a secret technique to teach the Sorcerer Class? Me, again! - Secret Technique Bonus",
         "Here today, gong tomorrow.",
         "Magical!",
         "Meow you see me!",
@@ -64,7 +64,8 @@
     "One of his quotes \"Cat's all, folks!\" may have been a play on the Looney Tunes quote, \"That's all, folks!\"",
     "Mysticat hisses loudly while he is jumping.",
     "Like real life cats, one of his idle animations is also suddenly jumping with surprise despite no obvious threat.",
-    "Mysticat has a feminine voice despite being a male. This is because he is voiced by a female voice actress. This would make him the first playable character to have a voice actor of the opposite gender.",
+    "Mysticat has a feminine voice despite being a male. This is because he is voiced by a female voice actress.",
+    "This would make him the first playable character to have a voice actor of the opposite gender.",
     "The name of his Sky Chi is a reference to the song “Mister Roboto” by the band Styx.",
     "Though he did appear in the original version of the game, he didn't appear in the revamped version of Ring of Heroes until a few weeks later."
   ],
@@ -175,7 +176,7 @@
     ],
     "wow_pows": [
       {
-        "season": 1,
+        "season": 0,
         "name": "Domo Arigato Hisster Rift-boto",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Mysticatskychipower.png/revision/latest?cb=20170506055229",
         "content": "The ultimate Sensei attack! Hold Special Attack to create a Sensei-tional yarnball rift that shoots out Cat's Familiars. Move around with Left Stick.",
