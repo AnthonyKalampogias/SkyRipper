@@ -15,7 +15,7 @@
   ],
   "description": "Obsidian Hot Head is a card counterpart of Hot Head in Skylanders: Battlecast.",
   "biography": "Obsidian Hot Head is a card counterpart of Hot Head in Skylanders: Battlecast.",
-  "quote": "Hey! I'm on fire!",
+  "quote": "I'm on fire!",
   "personality": "As an alternate counterpart of Hot Head, he likely shares the same explosive and enthusiastic personality as his original version.",
   "story": [
     {
@@ -25,7 +25,20 @@
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Fiery_Outburst_-_Special_Abilitycard.png/revision/latest?cb=20160801164959"
     }
   ],
-  "quotes": [],
+  "quotes": [
+    {
+      "quote_type": "English Voice Actor",
+      "content": [
+        "Patrick Seitz"
+      ]
+    },
+    {
+      "quote_type": "Catchphrase",
+      "content": [
+        "I'm on fire!"
+      ]
+    }
+  ],
   "trivia": [
     "He is the second alternate counterpart of a Giant to be released after Skylanders: Giants, the first being Admiral Thumpback in Skylanders: Lost Islands.",
     "Unlike High Noon Trigger Happy, Obsidian Hot Head does not appear in other media."
