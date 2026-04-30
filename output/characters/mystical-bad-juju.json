@@ -36,9 +36,9 @@
   ],
   "trivia": [
     "Though her blades are red in the figure and official artwork, they have their original cyan color in the game.",
-    "Possibly because they share the same palette and outfit, Juju Junior has the same color changes as his mother.",
-    "She and Mystical Tae Kwon Crow are the only Mystical counterparts of the franchise.",
-    "A villainous variant appears as an Undead enemy in Skylanders: Ring of Heroes."
+    "Possibly because they share the same palette and outfit, Juju Junior has the same color changes as his mother, which rarely happens with alternate counterparts of Skylanders that can summon helpers.",
+    "She and Mystical Tae Kwon Crow are the only Mystical counterparts of the franchise. Both are Senseis, and their original counterparts are both former villains.",
+    "A villainous variant appears as an Undead enemy in Skylanders: Ring of Heroes, though her black outfit has a slightly more brownish tone and several black and white areas are swapped around."
   ],
   "trailers": [],
   "gameplay": "As a Swashbuckler Sensei, Mystical Bad Juju utilizes rapid-fire blade strikes and air-based magic. She can summon Juju Junior to the field to create whirlwinds and knock back enemies, providing a mix of melee and area-of-effect damage.",
@@ -165,6 +165,17 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Mystical_Bad_Juju"
+    },
+    {
+      "id": "villainous-bad-juju",
+      "variant_name": "Villainous Bad Juju",
+      "edition": "",
+      "type": "Enemy",
+      "game": "Skylanders: Ring of Heroes",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b4/UndeadBadJuju.jpeg/revision/latest?cb=20220106002812",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Bad_Juju_(character)"
     }
   ]
 }
