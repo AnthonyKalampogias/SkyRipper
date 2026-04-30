@@ -4,7 +4,7 @@
   "species": "Ultron Robot",
   "gender": "Male",
   "element": "Tech",
-  "role": "Nitro SWAP Force",
+  "role": "SWAP Force",
   "primary_game": "Skylanders: Swap Force",
   "appearances": [
     "Skylanders: Swap Force",
@@ -13,20 +13,22 @@
     "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
-  "cameos": [],
+  "cameos": [
+    "Return of the Dragon King"
+  ],
   "world": [
     "Skylands"
   ],
   "description": "Nitro Magna Charge is a special Nitro-themed variant of the Tech element Skylander Magna Charge. He features a distinctive gold and checkered racing aesthetic, representing the high-speed 'Nitro' theme.",
-  "biography": "Magna Charge comes from the race of Ultron robots, who were the creators of the great machines of Skylands. When the Arkeyans took over, the Ultrons were destroyed, leaving Magna Charge as the only survivor. After being found by a group of Mabu and learning about the world, he put his magnetic powers to use for good. As a member of the SWAP Force, he can detach his top half and combine with other heroes to stop Evil.",
+  "biography": "Magna Charge came from the great race of Ultron robots, but was mysteriously created with a giant magnet head. This proved problematic, as his peers were all made of metal and were constantly being pulled towards him. As a result, Magna Charge was exiled to a faraway island, where he eventually learned to control his magnetic powers. After years of training, he returned to his home to demonstrate his abilities, but found everything completely destroyed. In searching for answers, Magna Charge caught the attention of Master Eon, who realized the unique Ultron soldier was a perfect candidate for the Skylanders.",
   "quote": "Attract to Attack!",
-  "personality": "Magna Charge is incredibly focused, calculating, and efficient, as expected of a high-tech Ultron robot. Despite his mechanical nature, he shows great loyalty to the Skylanders and possesses a heroic drive to protect the innocent from Arkeyan-level threats.",
+  "personality": "Magna Charge is incredibly focused, calculating, and efficient, as expected of a high-tech Ultron robot. Despite his mechanical nature, he shows great loyalty to the Skylanders and possesses a heroic drive to protect the innocent from Arkeyan-level threats. He considers himself superior in all areas, which is rarely a surprise given his advanced construction.",
   "story": [
     {
-      "story_name": "The Last Ultron",
-      "content": "Hailing from a race of highly advanced robotic creators, Magna Charge survived the purge of his kind. He spent years wandering until he found his calling among the Skylanders.",
-      "hasImage": false,
-      "imgPath": ""
+      "story_name": "Biography",
+      "content": "Magna Charge came from the great race of Ultron robots, but was mysteriously created with a giant magnet head. This proved problematic, as his peers were all made of metal and were constantly being pulled towards him. As a result, Magna Charge was exiled to a faraway island, where he eventually learned to control his magnetic powers. After years of training, he returned to his home to demonstrate his abilities, but found everything completely destroyed. In searching for answers, Magna Charge caught the attention of Master Eon, who realized the unique Ultron soldier was a perfect candidate for the Skylanders.",
+      "hasImage": true,
+      "imgPath": "Magna_Charge_Art.jpg"
     }
   ],
   "quotes": [
@@ -37,111 +39,296 @@
       ]
     },
     {
-      "quote_type": "Battle Cry",
+      "quote_type": "Battle Cries",
       "content": [
-        "Fully Charged!",
-        "Polarizing!",
-        "Negative Attraction!"
+        "Attract to Attack!",
+        "Full of energy!",
+        "That was a polarizing outcome!",
+        "I am positively victorious!",
+        "Another success.",
+        "MAGnificent!",
+        "Powered up.",
+        "I guess you could say I'm in.... Charge.",
+        "The magnetic force density is an affector field.",
+        "This place fills me with excitement.",
+        "Keeping momentum.",
+        "Precious metals!",
+        "I am superior in all areas. Not surprisingly.",
+        "These are positive numbers.",
+        "I now have an attractive quality.",
+        "There is no denying my magnetism.",
+        "Into the air!"
       ]
     }
   ],
   "trivia": [
-    "He is one of the few Nitro variants in the series, alongside Nitro Freeze Blade, Nitro Krypt King, and Nitro Head Rush.",
-    "His design is inspired by racing culture, featuring a checkered flag pattern and a gold finish.",
-    "He shares a physical resemblance to Crow T. Robot from Mystery Science Theater 3000.",
-    "In the Wii version of SWAP Force, some of his projectile upgrades appear red rather than the standard yellow."
+    "He is the only SWAP Force Skylander to have a hand on only one arm.",
+    "The original concept designs for Magna Charge included a massive gatling gun on his left arm, which was eventually included as his Soul Gem upgrade.",
+    "He is one of the few Skylanders with only one eye, alongside Shroomboom, Rocky Roll, and Eye-Brawl.",
+    "During early development, his eye and wheel were both yellow instead of green.",
+    "When his bottom half is fully upgraded, his wheel turns blue.",
+    "He can perform a secret backflip that damages enemies by pressing the primary attack while charging.",
+    "Magna Charge resembles Rocket from Robot on Wheels.",
+    "He is one of the few Swap Force Skylanders without true legs, alongside Doom Stone, Rattle Shake, and Night Shift.",
+    "His voice actor, Gregg Berger, also voiced Hunter and Ripto in the original Spyro the Dragon games.",
+    "The name of his species is a reference to the Marvel Comics character, Ultron.",
+    "The magnet theme is a reference to how the real-world SWAP Force figures use magnets to swap parts."
   ],
   "trailers": [
     {
-      "name": "Skylanders SWAP Force: Nitro Magna Charge Trailer",
+      "name": "Skylanders Swap Force - Meet the Skylanders - Magna Charge (Attract to Attack)",
       "isValid": true,
-      "url": "https://www.youtube.com/watch?v=R0R0R0R0R0R"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Magna_Charge_(Attract_to_Attack)"
+    },
+    {
+      "name": "Skylanders Swap Force - Magna Charge Soul Gem Preview (Attract to Attack)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Magna_Charge_Soul_Gem_Preview_(Attract_to_Attack)"
     }
   ],
-  "gameplay": "Nitro Magna Charge is a speed-based character who uses magnetism to manipulate enemies. He can pick up enemies and throw them, or use his bottom half to dash through groups of foes at incredible speeds. His top half focuses on projectile magnetic blasts.",
+  "gameplay": "Nitro Magna Charge is a speed-based character who uses magnetism to manipulate enemies. He can pick up enemies and throw them, or use his bottom half to dash through groups of foes at incredible speeds. His top half focuses on projectile magnetic blasts. He is capable of gathering gold and food around him while using Polarized Pickup and can stop enemies from spinning by using his magnetic abilities.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Magna_Charge",
   "abilities": {
     "basic": [
       {
         "name": "Magnet Cannon",
-        "imgPath": "magnet_cannon.png",
-        "content": "Shoots magnetic pulses at enemies.",
+        "imgPath": "Magna_Chargetopprimarypower.png",
+        "content": "Hold Attack 1 to rapidly fire energy projectiles. Firing for too long will cause the cannon to overheat.",
         "is_primary": true,
         "is_secondary": false,
         "price": 0,
         "colors": {
-          "header": "#FFD700",
-          "bg_content": "#222222"
+          "header": "#FB5",
+          "bg_content": "#FEB"
         }
       },
       {
-        "name": "Polarized Pickup",
-        "imgPath": "polarized_pickup.png",
-        "content": "Picks up an enemy with magnetic force and throws them.",
+        "name": "Magneto Ball",
+        "imgPath": "Magna_Chargebottomprimarypower.png",
+        "content": "Press Attack 2 to drag an enemy around. Press Attack 2 again to launch them forward. Large enemies cannot be dragged.",
         "is_primary": false,
         "is_secondary": true,
         "price": 0,
         "colors": {
-          "header": "#FFD700",
-          "bg_content": "#222222"
+          "header": "#FB5",
+          "bg_content": "#FEB"
         }
       }
     ],
     "basic_upgrades": [
       {
-        "name": "Multi-Barrelled",
-        "imgPath": "multi_barrelled.png",
-        "content": "Fires two Magnet Cannon pulses at once.",
-        "is_primary": true,
+        "name": "Polarized Pickup",
+        "imgPath": "Magna_Chargetopbasicupgrade1.png",
+        "content": "Press Attack 3 to pick up enemies. Press Attack 3 again to slam them. While active, loot will be drawn in from a distance!",
+        "is_primary": false,
         "is_secondary": false,
-        "price": 500,
+        "price": 300,
         "colors": {
-          "header": "#FFD700",
-          "bg_content": "#222222"
+          "header": "#FB5",
+          "bg_content": "#FEB"
         }
       },
       {
-        "name": "Magneto Ball",
-        "imgPath": "magneto_ball.png",
-        "content": "Hold the primary attack to charge a large magnetic orb.",
-        "is_primary": true,
+        "name": "Eject",
+        "imgPath": "Magna_Chargebottombasicupgrade1.png",
+        "content": "Press Attack 1 while dragging an object or enemy to throw it behind to boost forward.",
+        "is_primary": false,
         "is_secondary": false,
-        "price": 700,
+        "price": 300,
         "colors": {
-          "header": "#FFD700",
-          "bg_content": "#222222"
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Plasma Shots",
+        "imgPath": "Magna_Chargetopbasicupgrade2.png",
+        "content": "Hold Attack 1 to rapidly shoot a Magnet Cannon that does increased damage. Projectiles heat up after a short time, dealing extra fire damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Rad Wheels",
+        "imgPath": "Magna_Chargebottombasicupgrade2.png",
+        "content": "Speed is increased. Brand new developments in magnet wheels!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Magnetic Buildup",
+        "imgPath": "Magna_Chargetopbasicupgrade3.png",
+        "content": "Hold an object with Polarized Pickup for a short time, release it to deal extra damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Drag Capacity",
+        "imgPath": "Magna_Chargebottombasicupgrade3.png",
+        "content": "Two enemies can be dragged at once while dashing.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#FEB"
         }
       }
     ],
     "soulgems": [
       {
-        "name": "Shooting Stars",
-        "imgPath": "shooting_stars.png",
-        "content": "Attracted enemies are hit by falling magnetic stars.",
+        "name": "Multi Barrelled",
+        "imgPath": "Magna_Chargetopsoulgempower.png",
+        "content": "Upgraded Magnet Cannon that shoots 3 projectiles at once!",
         "is_primary": false,
         "is_secondary": false,
-        "price": 4000,
+        "price": 3500,
         "colors": {
-          "header": "#FFD700",
-          "bg_content": "#222222"
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
+        }
+      },
+      {
+        "name": "Super Repulsor",
+        "imgPath": "Magna_Chargebottomsoulgempower.png",
+        "content": "A new wheel makes thrown objects gain increased damage, range and speed.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#FEB"
         }
       }
     ],
     "wow_pows": [],
     "upgrade_paths": [
       {
-        "path_name": "Magnetic Menace",
+        "path_name": "Magnetic Armaments",
         "abilities": [
           {
-            "name": "Plasma Shots",
-            "imgPath": "plasma_shots.png",
-            "content": "Magnet Cannon shots deal increased damage.",
-            "is_primary": true,
+            "name": "Discharge Recharge",
+            "imgPath": "Magna_Chargetoppath1upgrade1.png",
+            "content": "Hold Attack 1 to overheat the Magnet Cannon, release to shoot a large fireball.",
+            "is_primary": false,
             "is_secondary": false,
-            "price": 1200,
+            "price": 1500,
             "colors": {
-              "header": "#FFD700",
-              "bg_content": "#222222"
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Heavy Blaster",
+            "imgPath": "Magna_Chargetoppath1upgrade2.png",
+            "content": "Magnet cannon does even more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Magnet Tuner",
+        "abilities": [
+          {
+            "name": "Burst Pickup",
+            "imgPath": "Magna_Chargetoppath2upgrade1.png",
+            "content": "Picking up enemies with Polarized Pickup will knock back nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Magnetic Personality",
+            "imgPath": "Magna_Chargetoppath2upgrade2.png",
+            "content": "Magnet attacks do increased damage. Two-Ton's Law states: if it has mass, it can be slammed.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Static Buildup",
+        "abilities": [
+          {
+            "name": "Shock Stop",
+            "imgPath": "Magna_Chargebottompath1upgrade1.png",
+            "content": "Press (X) while dragging an enemy to drop it in front of you and shock it.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Crash Test",
+            "imgPath": "Magna_Chargebottompath1upgrade2.png",
+            "content": "Shock Stop and Eject do increased damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Drag Racer",
+        "abilities": [
+          {
+            "name": "Rapid Repel",
+            "imgPath": "Magna_Chargebottompath2upgrade1.png",
+            "content": "Press (X) while dragging an object or enemy to shoot it without stopping.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
+            }
+          },
+          {
+            "name": "Opposites Repel",
+            "imgPath": "Magna_Chargebottompath2upgrade2.png",
+            "content": "Rapid Repel does increased damage. Repulsive!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#FB5",
+              "bg_content": "#FEB"
             }
           }
         ]
@@ -150,12 +337,12 @@
   },
   "variants": [
     {
-      "id": "nitro-magna-charge-v1",
-      "variant_name": "Nitro Magna Charge",
+      "id": "magna-charge-s1",
+      "variant_name": "Magna Charge",
       "edition": "Series 1",
-      "type": "Nitro",
+      "type": "Normal",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/7/78/Nitro_Magna_Charge.png",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d0/Magna_Charge_Art.jpg",
       "attacks": [
         "Magnet Cannon",
         "Polarized Pickup",
@@ -166,15 +353,61 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "280"
+          "stat_value": "280 (max. 560)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "50"
+          "stat_value": "50 (max. 98)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "18"
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6 (max. 56)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Magna_Charge"
+    },
+    {
+      "id": "nitro-magna-charge-s1",
+      "variant_name": "Nitro Magna Charge",
+      "edition": "Series 1",
+      "type": "Nitro",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/de/Magna_Swap_15.png",
+      "attacks": [
+        "Magnet Cannon",
+        "Polarized Pickup",
+        "Magneto Ball",
+        "Eject",
+        "Plasma Shots"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "280 (max. 560)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6 (max. 56)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Magna_Charge"
