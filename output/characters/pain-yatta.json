@@ -15,9 +15,21 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": [],
+  "cameos": [
+    "The Unocorn",
+    "The Doom Raiders",
+    "Master Eon",
+    "Kaos",
+    "Spotlight",
+    "Blackout",
+    "Knight Light",
+    "Knight Mare"
+  ],
   "world": [
-    "Skylands"
+    "Skylands",
+    "Telescope Towers",
+    "Secret Sewers of Supreme Stink",
+    "Rainbow Valley"
   ],
   "description": "Pain-Yatta is a piñata monster who is one of the Magic villains in Skylanders: Trap Team. After changing his ways in Skylanders: Imaginators, he is now a Sensei that trains Imaginators of the Smasher Class.",
   "biography": "Growing up, Pain-Yatta's best friend was the legendary Unocorn, a unicorn with a churro-horn that sprinkles magical cinnamon from time to time. While the cinnamon donuts for breakfast were incredible, being so sweet and delicious made them both easy targets for those looking for yummy treats. But Pain-Yatta had no problem protecting the both of them with his giant sucker! One day, however, the Unocorn went missing, and Pain-Yatta was beside himself. He tried desperately to find his buddy, but to no avail. That's when the Doom Raiders tricked him into thinking that the Skylanders were behind it all, and Pain-Yatta fell for it. He joined up with the band of villains and ventured out to get revenge on the Skylanders, but was eventually captured by the Trap Masters. Master Eon explained that the Skylanders had nothing to do with the Unocorn's disappearance and said he would help Pain-Yatta find his friend, if he became a Skylander Sensei and trained new Imaginators in the ways of smashing! Pain-Yatta agreed and the search for the missing Unocorn continues.",
@@ -38,7 +50,19 @@
     },
     {
       "story_name": "Skylanders: SuperChargers and Skylanders: SuperChargers Racing",
-      "content": "Pain-Yatta makes an appearance in both the SuperVillain Cup of Skylanders: SuperChargers and the Wicked Tour of Skylanders: SuperChargers Racing, where he drives two near-identical piñata-based vehicles with a hippopotamus-like design.",
+      "content": "Pain-Yatta makes an appearance in both the SuperVillain Cup of Skylanders: SuperChargers and the Wicked Tour of Skylanders: SuperChargers Racing, where he drives two near-identical piñata-based vehicles with a hippopotamus-like design. He uses a Land vehicle in the SuperVillain Cup, and a Sky vehicle in the Wicked Tour, where he replaces Lord Stratosfear as a playable Villain. Unlike his Land vehicle, his Sky vehicle is comically small, and has additional pig-like piñata rockets attached to its sides in order to achieve flight.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Imaginators",
+      "content": "Tricked by the Doom Raiders into thinking the Skylanders stole his best friend, the Unocorn, Pain-Yatta joined the villains. After being captured by the Trap Masters, Master Eon explained the truth and offered him a chance to become a Sensei. He now trains Smashers while continuing the search for the Unocorn.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Ring of Heroes",
+      "content": "After fleeing to Rainbow Valley, Pain-Yatta was controlled by Kaos to guard a portal. He was eventually freed and persuaded by Spotlight and Blackout to join the side of good. He revealed the location of the Book of Dark Magic before leaving. Despite being empowered by the darkness of the portal, Pain-Yatta was defeated and lamented on how he lost again. Spotlight healed his wounds and suggested he join the side of good if he wanted to become stronger.",
       "hasImage": false,
       "imgPath": ""
     }
@@ -68,6 +92,7 @@
         "Be careful, I'm getting that kid-with-the-blindfold feeling again.",
         "We might be getting into a sticky situation here...",
         "You know, it's not that bad really being filled with candy except for when its hot, or really cold, or there are blindfolded kids around.",
+        "Since the Dreamcatcher has no stomach, she can eat as much candy as she wants! You can imagine how many problems that caused us.",
         "You lookin' a little sour there, Skylander. Why not bring me in?",
         "Ha ha haaaa! That busts me up!",
         "Aww, no, we're out of time!",
@@ -157,12 +182,17 @@
     "His name is a combination of 'pain' and 'piñata'.",
     "His voice was originally deeper in early stages of development.",
     "In his Meet the Villains video, Pain-Yatta speaks with a Spanish accent, provided by John DiMaggio.",
-    "He is the only villain in Telescope Towers not to say 'Heads up!'. Bomb-Shell replaces him on this occasion.",
+    "He is the only villain in Telescope Towers not to say 'Heads up!'. Bomb-Shell, who is from the same element, replaces him on this occasion.",
     "Pain-Yatta, Bad Juju, and Blaster-Tron are the only non-Doom Raider characters to not have major changes in Imaginators, be it color scheme or element.",
     "Each of Pain-Yatta's lollipops have different effects: Traditional lollipops create a shockwave, candy canes freeze enemies, cake pops slow enemies, sour suckers shock enemies, and rock candies temporarily increase armor.",
     "His quotes in Trap Team show him to be terrified of blindfolded children.",
     "He's the only Smasher Sensei without an alt deco, though he has a chase variant.",
-    "Pain-Yatta is technically the only Skylanders character to own and drive two signature vehicles, one for land and another for sky."
+    "Pain-Yatta is technically the only Skylanders character to own and drive two signature vehicles, one for land and another for sky.",
+    "Both he and Trail Blazer have come across the Unocorn once, with the latter freeing it not long after the piñata lost his friend.",
+    "His Soul Gem attack, 'Everybody Dance Now' is a reference to the song of the same name.",
+    "During a Grind Challenge, he and the Chompy Mage are the only Skylanders to slide on their behinds instead of their feet.",
+    "Pain-Yatta's theme is 'Mexico City' from APM Music.",
+    "He's the only Magic Villain who doesn't escape from the Skylanders."
   ],
   "trailers": [
     {
