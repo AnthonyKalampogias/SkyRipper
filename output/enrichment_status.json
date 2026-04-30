@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-04-30T09:08:51.106Z",
+  "last_run": "2026-04-30T15:29:01.669Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -719,7 +719,7 @@
     },
     {
       "name": "Knight Light",
-      "sha": "05ff55b270aa5a55156584879b4a63e256b5d26932fb6c2bebbcd35f4c00da86"
+      "sha": "00d6e24446c536e14a5382fa617cb8c6356002bf345f6d4f94e47bac39f7ad21"
     },
     {
       "name": "Knight Mare",
@@ -912,6 +912,50 @@
     {
       "name": "New Year's Countdown",
       "sha": "2dd143c65ae5a38cf283ca802f0f6f54d36018af8b9cb6e05b4ae50558dd8479"
+    },
+    {
+      "name": "Night Shift",
+      "sha": "b50d9d0cf0c4abe23fcb304db246aa36a87791a21620979bde5f16165f4c9d1e"
+    },
+    {
+      "name": "Nightfall",
+      "sha": "1bb6a2065a13e1f430ab410251319c2c1a60be54c2fa44697a7e4822d039f910"
+    },
+    {
+      "name": "Ninjini",
+      "sha": "d668e48d538b4954163491738ece39be70349d02478a1197aaf00b9d365e97b1"
+    },
+    {
+      "name": "Nitro Freeze Blade",
+      "sha": "daa85f58996627d3f650fb2c2874c71c4ab3b52e7d7ee4df6d1e6f7d2969ddcf"
+    },
+    {
+      "name": "Nitro Head Rush",
+      "sha": "a914f7ae5c3316db776d90593a1969d27f8ffdfadc5d7d233eeb09f67586bc70"
+    },
+    {
+      "name": "Nitro Krypt King",
+      "sha": "87f8ddb44b942e0e402690aaac204520b1cf63640c6973e4231d9594e1cd1c4a"
+    },
+    {
+      "name": "Nitro Magna Charge",
+      "sha": "1c0894b317cb2c124eb8c97a8e2eb7f5b5bc82ea389f147694d2cf6a53c29c43"
+    },
+    {
+      "name": "Nitro Skylanders",
+      "sha": "745d8f9b64a64d195fccc4ea08632167ebdd7980e5f151324345989b8dc616e0"
+    },
+    {
+      "name": "Obsidian Hot Head",
+      "sha": "3cd5f9b22d5b608491f637a3a531b97e7926bea94ebe8c777c1091cd003b6460"
+    },
+    {
+      "name": "Pain-Yatta",
+      "sha": "b1c3b01ce3b1fdb546ee39f9016a35f57841be040a85f861710c418c2224c42f"
+    },
+    {
+      "name": "Pet-Vac",
+      "sha": "ab0805f9f07b64b1ccefda78cbecb840f4f0bbb7be4ae154b07154750ef394f7"
     }
   ]
 }
