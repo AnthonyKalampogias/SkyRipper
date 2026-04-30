@@ -5,7 +5,7 @@
   "gender": "Male",
   "element": "Air",
   "role": "Enemy",
-  "primary_game": "Skylanders: Trap Team (Console)",
+  "primary_game": "Skylanders: Trap Team",
   "appearances": [
     "Skylanders: Trap Team (Console)"
   ],
@@ -13,7 +13,7 @@
   "world": [
     "Mystic Mill"
   ],
-  "description": "Metal Mage is a scrapped Skylander turned support enemy in Skylanders: Trap Team. He is a wizard troll with an Air-themed headdress and metal staves who can create protective barriers and manipulate metal balls to form weapons.",
+  "description": "Metal Mage is a scrapped Skylander turned single use enemy in Skylanders: Trap Team. He is a wizard troll with an Air themed headdress and metal staves who can create protective barriers and manipulate metal balls to form weapons.",
   "biography": "Metal Mage is a scrapped Skylander, turned single use enemy, in Skylanders: Trap Team. He is a wizard troll with an Air themed headdress and metal staves, with the ability to create barriers around its allies, and like Broccoli Guys and Rage Mages, holds treasure over his head.",
   "quote": "None",
   "personality": "As a support-focused wizard, the Metal Mage is dedicated to the protection of his comrades, utilizing defensive magic to control the battlefield.",
@@ -22,13 +22,13 @@
       "story_name": "Character Development",
       "content": "Vimeo demo reels and Skylanders: Giants behind-the-scenes footage were the only hints that this character had a bigger role for some time, until Nat Loh's character design portfolio had more details. Though they first started as inspired by Boomer, the developer received the concept art for Rocky Roll instead and worked Metal Mage's abilities into them.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/I-wei-huang-newtornado1-metalmage.jpg/revision/latest/scale-to-width-down/185?cb=20210707195204"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/I-wei-huang-newtornado1-metalmage.jpg/revision/latest?cb=20210707195204"
     },
     {
       "story_name": "Trap Team Appearance",
-      "content": "In the final release of Skylanders: Trap Team, Metal Mage makes a brief appearance in Mystic Mill, where he provides magical shielding support for the Evilikin in one of the gates.",
+      "content": "In the final game of Trap Team, Metal Mage appears only once, in Mystic Mill, to briefly provide support for the Evilikin in one of the gates.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/92/Mystic_Mill_Unknown_Enemy.jpg/revision/latest/scale-to-width-down/185?cb=20160108135018"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/92/Mystic_Mill_Unknown_Enemy.jpg/revision/latest?cb=20160108135018"
     }
   ],
   "quotes": [
@@ -121,7 +121,7 @@
   },
   "variants": [
     {
-      "id": "metal-mage",
+      "id": "metal-mage-s1",
       "variant_name": "Metal Mage",
       "edition": "Series 1",
       "type": "Enemy",
