@@ -19,8 +19,15 @@
   "description": "Nitro Head Rush is the Nitro counterpart of the Earth Trap Master, Head Rush in Skylanders: Trap Team.",
   "biography": "Head Rush was raised in a small village that had fallen under the spell of a powerful Harvest Sphinx who forced the frightened villagers to plow the vast fields of golden grass for his own benefit. Although there were many villagers, no individual was brave enough to confront the Sphinx and put an end to its rule. But Head Rush believed there was a chance to fight back if she could somehow inspire her people to stand together. Charging through her village, Head Rush shouted a mighty yodel that woke the villagers from their spell! With the village behind her, she then led the charge to drive the Sphinx from the island for good. For her leadership and bravery, she was made part of the Trap Team, where she uses her giant Traptanium Horns to take charge of evil!",
   "quote": "Taking Charge!",
-  "personality": "",
-  "story": [],
+  "personality": "Head Rush is a brave and inspirational leader who is not afraid to confront powerful foes to protect her people. Her determination and powerful yodel allow her to rally others and take charge of any situation.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Head Rush was raised in a small village that had fallen under the spell of a powerful Harvest Sphinx who forced the frightened villagers to plow the vast fields of golden grass for his own benefit. Although there were many villagers, no individual was brave enough to confront the Sphinx and put an end to its rule. But Head Rush believed there was a chance to fight back if she could somehow inspire her people to stand together. Charging through her village, Head Rush shouted a mighty yodel that woke the villagers from their spell! With the village behind her, she then led the charge to drive the Sphinx from the island for good. For her leadership and bravery, she was made part of the Trap Team, where she uses her giant Traptanium Horns to take charge of evil!",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
   "quotes": [
     {
       "quote_type": "Official Catchphrase",
@@ -29,7 +36,11 @@
       ]
     }
   ],
-  "trivia": [],
+  "trivia": [
+    "The species 'Elf' was confirmed for Head Rush in an interview with designer I-Wei Huang on the Starter Pack Podcast.",
+    "Nitro Head Rush is the Nitro variant of the Earth Trap Master, Head Rush.",
+    "She is one of the few Skylanders capable of yodeling as a form of attack."
+  ],
   "trailers": [
     {
       "name": "Meet the Skylanders Nitro Head Rush",
@@ -37,12 +48,75 @@
       "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Nitro_Head_Rush"
     }
   ],
-  "gameplay": "",
+  "gameplay": "In Skylanders: Trap Team, Nitro Head Rush is an Earth Trap Master who utilizes her Traptanium Horns and shockwave-inducing stomps. Her console statistics start at 340 Health and 60 Speed, making her a durable front-line fighter capable of charging through enemy ranks.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Head_Rush",
   "abilities": {
-    "basic": [],
-    "basic_upgrades": [],
-    "soulgems": [],
+    "basic": [
+      {
+        "name": "Traptanium Horns",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/MAIN-IMAGE_NitroHeadRush.png/revision/latest?cb=20170304031814",
+        "content": "Nitro Head Rush uses her Traptanium Horns to take charge of evil, dealing damage to enemies in her path.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#F4E7D7"
+        }
+      },
+      {
+        "name": "Stomp",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/MAIN-IMAGE_NitroHeadRush.png/revision/latest?cb=20170304031814",
+        "content": "Head Rush performs a powerful stomp to create shockwaves that damage nearby enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#F4E7D7"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Mega Stomp",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/MAIN-IMAGE_NitroHeadRush.png/revision/latest?cb=20170304031814",
+        "content": "An enhanced stomp attack that covers a larger area and deals increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#F4E7D7"
+        }
+      },
+      {
+        "name": "High Note",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/MAIN-IMAGE_NitroHeadRush.png/revision/latest?cb=20170304031814",
+        "content": "A powerful yodel attack that can stun or damage enemies in front of Head Rush.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#F4E7D7"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "A Stomp To Remember",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/MAIN-IMAGE_NitroHeadRush.png/revision/latest?cb=20170304031814",
+        "content": "A massive finishing move that combines all of Head Rush's strength for a final, devastating blow.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#C95",
+          "bg_content": "#F4E7D7"
+        }
+      }
+    ],
     "wow_pows": [],
     "upgrade_paths": []
   },
@@ -81,6 +155,22 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "250"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "90"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Head_Rush"
