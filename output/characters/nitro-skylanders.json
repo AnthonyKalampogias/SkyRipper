@@ -60,8 +60,8 @@
   },
   "variants": [
     {
-      "id": "nitro-skylanders-variant-group",
-      "variant_name": "Nitro Skylanders Group",
+      "id": "nitro-freeze-blade",
+      "variant_name": "Nitro Freeze Blade",
       "edition": "Series 1",
       "type": "Nitro Variant",
       "game": "Skylanders: Swap Force",
@@ -75,7 +75,97 @@
           "stat_value": "Associated with speed"
         }
       ],
-      "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Skylanders"
+      "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Freeze_Blade"
+    },
+    {
+      "id": "nitro-magna-charge",
+      "variant_name": "Nitro Magna Charge",
+      "edition": "Series 1",
+      "type": "Nitro Variant",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a3/NitroSymbol.png/revision/latest?cb=20141120153942",
+      "attacks": [
+        "Various"
+      ],
+      "stats": [
+        {
+          "stat_name": "Characteristics",
+          "stat_value": "Associated with speed"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Magna_Charge"
+    },
+    {
+      "id": "nitro-head-rush",
+      "variant_name": "Nitro Head Rush",
+      "edition": "Series 1",
+      "type": "Nitro Variant",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a3/NitroSymbol.png/revision/latest?cb=20141120153942",
+      "attacks": [
+        "Various"
+      ],
+      "stats": [
+        {
+          "stat_name": "Characteristics",
+          "stat_value": "Associated with speed"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Head_Rush"
+    },
+    {
+      "id": "nitro-krypt-king",
+      "variant_name": "Nitro Krypt King",
+      "edition": "Series 1",
+      "type": "Nitro Variant",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a3/NitroSymbol.png/revision/latest?cb=20141120153942",
+      "attacks": [
+        "Various"
+      ],
+      "stats": [
+        {
+          "stat_name": "Characteristics",
+          "stat_value": "Associated with speed"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Krypt_King"
+    },
+    {
+      "id": "nitro-soda-skimmer",
+      "variant_name": "Nitro Soda Skimmer",
+      "edition": "Series 1",
+      "type": "Nitro Variant",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a3/NitroSymbol.png/revision/latest?cb=20141120153942",
+      "attacks": [
+        "Various"
+      ],
+      "stats": [
+        {
+          "stat_name": "Type",
+          "stat_value": "Vehicle"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Soda_Skimmer"
+    },
+    {
+      "id": "nitro-stealth-stinger",
+      "variant_name": "Nitro Stealth Stinger",
+      "edition": "Series 1",
+      "type": "Nitro Variant",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a3/NitroSymbol.png/revision/latest?cb=20141120153942",
+      "attacks": [
+        "Various"
+      ],
+      "stats": [
+        {
+          "stat_name": "Type",
+          "stat_value": "Vehicle"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Nitro_Stealth_Stinger"
     }
   ]
 }
