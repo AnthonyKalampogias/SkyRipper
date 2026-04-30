@@ -55,39 +55,39 @@
       "quote_type": "Battle Cries",
       "content": [
         "See the light!",
-        "Rise and shine!",
+        "Rise and shine! - when entering battle",
         "Time to shine!",
         "For Skylands!",
-        "Outshining the rest!",
+        "Outshining the rest! - when exiting battle",
         "The light in the night!",
         "A clear victory!",
-        "Spreading my wings!",
+        "Spreading my wings! - when solving puzzles",
         "Another triumph!",
         "Shining bright!",
         "Illuminating!",
         "A guiding light!",
         "Look on the bright side!",
-        "At the ready!",
+        "At the ready! - when switched in",
         "Ready to serve!",
         "Clear the way!",
-        "Feeling stronger!",
+        "Feeling stronger! - when Traptanium Scimitar glows",
         "Ready for battle!",
-        "Unstoppable!",
+        "Unstoppable! - when he destroys a Traptanium cluster",
         "A worthy feat!",
-        "Up and away!",
+        "Up and away! - when using a bounce pad",
         "Away I go!",
         "Skyward!",
-        "Lighting the way!",
+        "Lighting the way! - when opening a gate",
         "Shining through!",
-        "Of gold and glory!",
+        "Of gold and glory! - when opening a treasure chest",
         "Fortune favors the brave!",
-        "Power burst!",
+        "Power burst! - when leveling up",
         "More power!",
-        "My future is looking bright!",
+        "My future is looking bright! - when checking stats",
         "A cut above all others!",
-        "I look rather distinguished!",
+        "I look rather distinguished! - when wearing a hat",
         "A choice beyond reason!",
-        "Hm, a name for the ages!",
+        "Hm, a name for the ages! - when given a nickname",
         "Let my new name be known!"
       ]
     }
@@ -113,7 +113,7 @@
     {
       "name": "Skylanders Trap Team - Knight Light's Soul Gem Preview (See the Light)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Knight_Light%27s_Soul_Gem_Preview_(See_the_Light)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Knight_Light's_Soul_Gem_Preview_(See_the_Light)"
     },
     {
       "name": "Skylanders Power Play Knight Light",
@@ -121,9 +121,9 @@
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Knight_Light"
     },
     {
-      "name": "Official Skylanders Trap Team \"Knight Light\" Trailer",
+      "name": "Official Skylanders Trap Team 'Knight Light' Trailer",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Trap_Team_%22Knight_Light%22_Trailer"
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Trap_Team_ 'Knight_Light'_Trailer"
     }
   ],
   "gameplay": "Starting Powers: Bringer of Light (Primary Attack): Press (Y) to strike with your mighty sword of light. Pacification (Secondary Attack): Press (X) to unleash a devastating leaping blow onto your enemies. Upgrades: Righteous Blade (requires level: 3): Use your power of your new sword! After a minimum of two strikes of the Bringer of Light combo, press (X) to execute a smiting blow. Light Traveller (requires level: 6): Hold (X) to summon a trail of holy light which damages your opponent. Hold it long enough to teleport and punish them more. If (X) is released, Knight Light will leap onto them just like he does with Pacification. Aura of Serenity (requires level: 9): At the end of Pacification, Knight Life creates a magic circle of serenity that slows enemies. Press (X) to use Pacification. Trap Attack Preview: Fill up the Trap Attack gauge by defeating enemies and collecting TRAPTANIUM shards. Once the gauge is full, press [L] to unleash a devastating attack, unique to each Trap Master!",
