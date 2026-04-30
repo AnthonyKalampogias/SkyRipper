@@ -16,17 +16,16 @@
   ],
   "cameos": [],
   "world": [
-    "Skylands",
-    "Miniverse"
+    "Skylands Miniverse"
   ],
-  "description": "Pet-Vac is the Mini version of the Air Skylander, Jet-Vac. He made his debut in Skylanders: Trap Team as a fully playable Skylander.",
+  "description": "Pet-Vac is the Mini version of the Air Skylander, Jet-Vac. He made his debut in Skylanders: Trap Team.",
   "biography": "The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
   "quote": "Hawk and Awe!",
-  "personality": "Pet-Vac is an honorable soldier who gladly puts the needs of others before himself. His bravery and heroism earned him the respect of his teammates, eventually leading to his appointment as the leader of the Minis.",
+  "personality": "Pet Vac is an honorable soldier who gladly puts the needs of others before himself. His bravery and heroism earned him the respect of his teammates.",
   "story": [
     {
       "story_name": "Skylanders Issue #12",
-      "content": "During their graduation, Pet-Vac was placed as team leader of the Minis by Master Eon. Despite failing a training simulation, Pet-Vac proved his worth when the Doom Raiders took over the Academy. He formulated a plan to trap Wolfgang and Dr. Krankcase and eventually outsmarted the Golden Queen by stealing her staff and turning the massive Gulper into a gold statue. For his leadership and bravery, the Minis were officially declared full-fledged Skylanders.",
+      "content": "During the day of their graduation, Pet-Vac was placed as team leader of the Minis by Master Eon. During a training simulation test, Pet Vac was stuck at the decision between saving Gill Runt or stopping a virtual Super Evil Kaos, losing Gill Runt in the process. Because of this hesitation, they failed the test when Kaos overwhelmed them with magical lava. Master Eon ended the training and reassured Pet Vac that Skylanders aren't always expected to win, but the young Sky Baron would have to make hard decisions one day. The Minis tried to help Pet Vac by going through the books in the Academy Library to boost his confidence in being team leader, but stopped when Mini Jini alerted her friends that the Doom Raiders have taken over the Academy and turned all the adult faculty into gold statues. Thanks to the Minis' encouragement, Pet Vac formulated a plan by having half of the Minis lead Wolfgang and Dr. Krankcase into a trap while the young Sky Baron secretly went after the Golden Queen. He managed to swipe the Queen's golden egg and evade her, but was forced to come out of hiding when The Gulper, in his massive size, had captured all of the other Minis. Not wanting to bring harm to his friends, Pet Vac willingly gave the Golden Queen back her golden egg, but used his vacuum gun to suck the Queen's staff into his possession, using it to turn The Gulper to a golden statue and freeing the Minis. The Golden Queen was forced to surrender when Pet Vac threatened to turn her into a statue, ending the Doom Raider threat. During the graduation ceremony, the Minis, including Pet Vac, were officially declared full-fledged Skylanders for their efforts.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Pet_Vac_Issue_12.png"
     }
@@ -43,21 +42,21 @@
     }
   ],
   "trivia": [
-    "Pet-Vac is the only Mini who is the counterpart of a core Skylander from Giants.",
+    "Pet Vac is the only Mini who is the counterpart of a core Skylander from Giants.",
     "He and Small Fry are the only Mini counterparts of core Skylanders who didn't appear in Spyro's Adventure.",
     "He and Weeruptor, besides Barkley, are the only Minis who have variants.",
     "Coincidentally, both of their original counterparts are the only Skylanders with Mini counterparts new to Trap Team who have SuperCharger forms in Skylanders: SuperChargers."
   ],
   "trailers": [
     {
-      "name": "Meet the Skylanders Pet-Vac",
+      "name": "Meet the Skylanders Pet Vac",
       "isValid": true,
-      "url": "https://www.youtube.com/watch?v=example1"
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Pet_Vac"
     },
     {
       "name": "Skylanders Power Play Pet-Vac",
       "isValid": true,
-      "url": "https://www.youtube.com/watch?v=example2"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Pet-Vac"
     }
   ],
   "gameplay": "Pet-Vac functions as a projectile-based fighter who uses his vacuum gun to control the battlefield. He can fire high-velocity air blasts to damage enemies from a distance or use his suction ability to pull smaller enemies toward him, leaving them vulnerable. His jetpack provides excellent aerial mobility, allowing him to hover over hazards and reposition quickly during combat.",
@@ -109,6 +108,30 @@
         "is_primary": true,
         "is_secondary": false,
         "price": 700,
+        "colors": {
+          "header": "#78beeb",
+          "bg_content": "#d9effc"
+        }
+      },
+      {
+        "name": "Vac Blaster 9000",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/vac_9000.png",
+        "content": "Further upgrades to the Vac Blaster for maximum efficiency.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#78beeb",
+          "bg_content": "#d9effc"
+        }
+      },
+      {
+        "name": "Fiester Fan",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/fiester_fan.png",
+        "content": "A powerful fan upgrade to enhance air-based attacks.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
         "colors": {
           "header": "#78beeb",
           "bg_content": "#d9effc"
@@ -178,31 +201,63 @@
       "attacks": [
         "Vac Blaster",
         "Suction Gun",
-        "Jet-Vac Jet Pack"
+        "Jet-Vac Jet Pack",
+        "Vac Blaster 9000",
+        "Fiester Fan"
       ],
       "stats": [
         {
-          "stat_name": "Health",
-          "stat_value": "270"
+          "stat_name": "Strength",
+          "stat_value": "80"
         },
         {
-          "stat_name": "Speed",
-          "stat_value": "43"
+          "stat_name": "Defense",
+          "stat_value": "80"
         },
         {
-          "stat_name": "Armor",
-          "stat_value": "18"
+          "stat_name": "Agility",
+          "stat_value": "110"
         },
         {
-          "stat_name": "Critical Hit",
-          "stat_value": "6"
-        },
-        {
-          "stat_name": "Elemental Power",
-          "stat_value": "25"
+          "stat_name": "Luck",
+          "stat_value": "130"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Pet-Vac"
+    },
+    {
+      "id": "power-punch-pet-vac",
+      "variant_name": "Power Punch Pet-Vac",
+      "edition": "Special Edition",
+      "type": "Alt Deco Mini",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/PetVac_Promo.jpg",
+      "attacks": [
+        "Vac Blaster",
+        "Suction Gun",
+        "Jet-Vac Jet Pack",
+        "Vac Blaster 9000",
+        "Fiester Fan"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "80"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "110"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "130"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Power_Punch_Pet-Vac"
     }
   ]
 }
