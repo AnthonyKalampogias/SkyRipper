@@ -18,16 +18,16 @@
   "world": [
     "Skylands"
   ],
-  "description": "Polar Whirlwind is a special winter-themed variant of Whirlwind, released as a Series 2 Skylander in Skylanders: Giants.",
-  "biography": "Whirlwind is an air dragon-unicorn hybrid. Being a hybrid of two very different species, Whirlwind was never truly accepted by either. The unicorns were envious of her ability to fly, and the dragons were jealous of her graceful beauty. But she found peace within the stormy clouds, where she learned to harness the power of the rainbow, making it a powerful force for good. Now, as a Skylander, she protects Skylands with her unique powers.",
+  "description": "Polar Whirlwind is the winter version of the Air Skylander, Series 2 Whirlwind. She was released as a special variant in Skylanders: Giants.",
+  "biography": "Polar Whirlwind is the winter version of the Air Skylander, Series 2 Whirlwind. Being a unicorn/dragon hybrid, Whirlwind was never truly accepted by either species. The unicorns were envious of her ability to fly, and the dragons were jealous of her graceful beauty. But she found peace within the stormy clouds, where she learned to harness the power of the rainbow, making it a powerful force for good. Now, as a Skylander, she protects Skylands with her unique powers.",
   "quote": "Reach for the Sky!",
   "personality": "Whirlwind is known for being graceful, courageous, and determined. Despite being an outcast in her youth, she uses her unique heritage to help others and defend the Skylands.",
   "story": [
     {
       "story_name": "The Winter Variant",
-      "content": "Polar Whirlwind is a rare variant of the Air Skylander, Whirlwind. She has been seen sporting a white and blue coat suited for the frozen peaks of Skylands.",
-      "hasImage": false,
-      "imgPath": "polar_whirlwind_story.png"
+      "content": "Polar Whirlwind is a rare variant of the Air Skylander, Whirlwind. She has been seen sporting a white and blue coat suited for the frozen peaks of Skylands. Unlike the standard Whirlwind, she is specially adapted for winter environments.",
+      "hasImage": true,
+      "imgPath": "Polar_Whirlwind_Transparent_Render.png"
     }
   ],
   "quotes": [
@@ -40,7 +40,7 @@
   ],
   "trivia": [
     "Polar Whirlwind's wings are blue in some occasions in the game but the toy does not show her with blue wings.",
-    "Her colorfully-glowing horn indicates her Wow Pow, Cloudbursting.",
+    "Her colorfully-glowing horn indicates her Wow Pow, Cloudbursting. However in Skylanders: Swap Force, her horn doesn't glow and there is a glitch in which it does if she doesn't fully charge her Rainbow Singularity attack.",
     "She is one of the few variants that has a different color scheme in-game than her standard counterpart."
   ],
   "trailers": [],
@@ -150,35 +150,39 @@
   },
   "variants": [
     {
-      "id": "polar-whirlwind",
+      "id": "polar-whirlwind-s2",
       "variant_name": "Polar Whirlwind",
       "edition": "Special Edition",
       "type": "Alt Deco",
       "game": "Skylanders: Giants",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Polar_Whirlwind1.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Polar_Whirlwind1.jpg/revision/latest?cb=20130408180417",
       "attacks": [
         "Rainbow of Doom",
         "Tempest Cloud",
         "Dragon Flight",
-        "Dual Rainbows",
+        "Duel Rainbows",
         "Atomic Rainbow"
       ],
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "270"
+          "stat_value": "270 (max. 540)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "50"
+          "stat_value": "50 (max. 98)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "18"
+          "stat_value": "18 (max. 48)"
         },
         {
           "stat_name": "Critical Hit",
-          "stat_value": "70"
+          "stat_value": "70 (max. 120)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Polar_Whirlwind"
