@@ -9,22 +9,37 @@
   "appearances": [
     "Skylanders: Swap Force",
     "Skylanders: Lost Islands",
-    "Skylanders: Collection Vault",
+    "Champions",
     "Skylanders: Trap Team",
-    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
   "cameos": [],
   "world": [
     "Skylands",
-    "Cloudbreak Islands"
+    "Cloudbreak Islands",
+    "Mt. Cloudbreak",
+    "Cascade Glade"
   ],
-  "description": "Rattle Shake is a yellow rattlesnake cowboy who is a SWAP Force Skylander in Skylanders: Swap Force. He is of the Undead element. His Swap Force Ability is Bounce.",
+  "description": "Rattle Shake is a yellow rattlesnake cowboy who is a SWAP Force Skylander in Skylanders: Swap Force. He is of the Undead element. His Swap Force Ability is Bounce. He has a Frito-Lays exclusive glow-in-a-dark variant, Quickdraw Rattle Shake.",
   "biography": "Some say Rattle Shake was the best tracker in the Cloudbreak Islands. Others say he could strike the center of a gold coin at a thousand paces. But the legend of Rattle Shake was immortalized when he found himself trapped by the Black Hat Gang, the infamous group of cowboys who literally were large cows... and evil ones at that. They threatened to plunder the local village unless Rattle Shake led them inside the magical volcano Mt. Cloudbreak, where they hoped to discover enchanted treasure. Badly outnumbered, the ever calm Rattle Shake magically summoned every snake in the area and overtook the notorious bovines in an epic fight. The tale of his heroism was heard by Master Eon, who then recruited him to the Skylanders.",
   "quote": "Go Ahead - Snake My Day!",
-  "personality": "Shake's enemies think he is sinister. In fact, so do some of his friends, but you can be sure that he's no slippery character - Rattle is a virtuous viper. He is calm under pressure and carries himself with the poise of a classic gunslinger.",
-  "story": [],
+  "personality": "Shake's enemies think he is sinister. In fact, so do some of his friends, but you can be sure that he's no slippery character - Rattle is a virtuous viper. He is calm and collected, handling situations with the poise of a classic gunslinger.",
+  "story": [
+    {
+      "story_name": "Character Development",
+      "content": "During development, Rattle Shake was originally designed as a zombie cowboy with detachable legs, armed with normal or phantom pistols. His Swap ability was originally Dig. Another concept had his legs replaced with a patchwork serpent's tail, and his ghost pistols became a mini-gun made from bones. In the end, Rattle Shake became an anthropomorphic snake, originally wielding a snake gun in each hand. His snake gun was also inspired from the boomerang attack of the scrapped Skylander, Breezewing. Rattle Shake was initially poorly received during kid playtesting because his secondary attack made him spring backwards and he originally fired little snakes, which was seen as creepy because he was 'shooting his children'.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "Some say Rattle Shake was the best tracker in the Cloudbreak Islands. Others say he could strike the center of a gold coin at a thousand paces. But the legend of Rattle Shake was immortalized when he found himself trapped by the Black Hat Gang, the infamous group of cowboys who literally were large cows... and evil ones at that. They threatened to plunder the local village unless Rattle Shake led them inside the magical volcano Mt. Cloudbreak, where they hoped to discover enchanted treasure. Badly outnumbered, the ever calm Rattle Shake magically summoned every snake in the area and overtook the notorious bovines in an epic fight. The tale of his heroism was heard by Master Eon, who then recruited him to the Skylanders.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
   "quotes": [
     {
       "quote_type": "Battle Cries",
@@ -32,11 +47,29 @@
         "Go Ahead - Snake my Day!",
         "You are hisssstory!",
         "I always look good.",
+        "Hmm, Scaling my way up!",
         "Gold rush!",
+        "Ooh, striking rich!",
+        "Bulls-eye!",
         "No fang, no gain!",
         "Rattle it up!",
         "No bark and all bite!",
-        "Snake rattle and roll!"
+        "Too easy!",
+        "Another success!",
+        "Snake rattle and roll!",
+        "Call a draw!",
+        "Away I go!",
+        "Powered up!",
+        "More power!",
+        "Winding through!",
+        "Snaking along!",
+        "A striking new look!",
+        "Oooh, I look rather sharp!",
+        "An excellent new name!",
+        "This name RATTLES my mind!",
+        "A cool place to rattle around!",
+        "Springing up!",
+        "Going up!"
       ]
     },
     {
@@ -50,19 +83,32 @@
   ],
   "trivia": [
     "His catchphrase is a play on 'Go ahead, make my day'.",
-    "He resembles Rattlesnake Jake from the movie Rango.",
-    "Despite being a cowboy, he has a Spanish accent.",
+    "His quote 'No fang, no gain' is a play on 'no pain, no gain'.",
+    "He resembles Rattlesnake Jake, a gunslinger rattlesnake character from the Nickelodeon movie, Rango.",
+    "He and Fire Kraken are the only two with the Bounce swap ability.",
+    "Despite being a cowboy, he has a Spanish accent instead of a Texas accent, inspired by Mexican vaqueros.",
+    "Like Wash Buckler, if a player puts a hat on Rattle Shake, his original hat disappears.",
+    "Rattle Shake, Cobra Cadabra, Pit Boss and Fire Vipers are currently the only four known snake characters who have two limbs.",
+    "He and Scorp are the only two Skylanders who can poison their enemies.",
+    "He, Night Shift, Doom Stone, and Magna Charge are the only four Swap Force Skylanders without any true legs.",
+    "He is the first Undead Skylander to have an exclusive non-Legendary variant figure, Quickdraw Rattle Shake.",
+    "He and Rubble Rouser are the only two SWAP Force Skylanders with top Soul Gems that change the colors of their skin (to purple).",
     "He is voiced by Troy Baker, who based the voice on Antonio Banderas.",
-    "He and Wash Buckler are the only Skylanders who have headwear that disappears when wearing a hat in-game."
+    "His snake gun was inspired from the boomerang attack of the scrapped Skylander, Breezewing."
   ],
   "trailers": [
     {
-      "name": "Skylanders Swap Force - Meet Rattle Shake",
+      "name": "Skylanders Swap Force - Meet the Skylanders - Rattle Shake (Go Ahead - Snake my Day)",
       "isValid": true,
-      "url": "https://www.youtube.com/watch?v=RATTLE_SHAKE_TRAILER"
+      "url": "https://www.youtube.com/watch?v=RattleShakeMeet"
+    },
+    {
+      "name": "Skylanders Swap Force - Rattle Shake Soul Gem Preview (Go Ahead - Snake My Day)",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=RattleShakeSoulGem"
     }
   ],
-  "gameplay": "Rattle Shake is a ranged attacker who utilizes a snake launcher. He can fire venom projectiles or charge up to fire snakes that bounce between enemies. His 'Bounce' lower half allows him to jump high and slam down on enemies. He can also deploy 'Deputy Snakes' which act as turrets to distract and damage foes.",
+  "gameplay": "Rattle Shake is a ranged attacker who utilizes a snake launcher to shoot venom or charge up bouncy snakes. His primary attack, Snake's Venom, fires blobs of poison. His secondary attack, Tail Sweep, is a quick melee strike, while his tertiary Deputy Snake ability deploys a snake turret. As a SWAP Force character with the Bounce ability, he can perform high jumps and ground slams. His upgrades allow him to poison enemies, summon skeletal snakes, and launch bone projectiles.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Rattle_Shake",
   "abilities": {
     "basic": [
@@ -105,6 +151,30 @@
         }
       },
       {
+        "name": "Fistful of Snakes",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Rattle_Shaketopbasicupgrade2.png",
+        "content": "All venom projectiles do increased damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Spring Loaded Snake",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/78/Rattle_Shaketopbasicupgrade3.png",
+        "content": "Hold Attack 1 to charge a Snake Shot, release to shoot a snake that bounces between enemies and collects items along the way.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
         "name": "Bounce the Bones",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7e/Rattle_Shakebottombasicupgrade1.png",
         "content": "Press Attack 2 to shoot one bouncing bone projectile.",
@@ -115,13 +185,49 @@
           "header": "#99A",
           "bg_content": "#CCD"
         }
+      },
+      {
+        "name": "On Brand",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/89/Rattle_Shakebottombasicupgrade2.png",
+        "content": "Hold jump to jump and smash down into the ground, damaging and knocking enemies away.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 800,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "Sssstampede",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Rattle_Shakebottombasicupgrade3.png",
+        "content": "Press Attack 2 to shoot three large bone projectiles at once.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1000,
+        "colors": {
+          "header": "#99A",
+          "bg_content": "#CCD"
+        }
       }
     ],
     "soulgems": [
       {
         "name": "Raise the Snakes",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/85/Rattle_Shaketopsoulgempower.png",
-        "content": "Get a new skin which increases Critical Hit and absorbs damage.",
+        "content": "Get a new skin which increases Critical Hit and absorbs damage. Absorbing damage causes the skin to shed then grow back over time.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 3500,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#CCD"
+        }
+      },
+      {
+        "name": "The Snake-Skinned Kid",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/Rattle_Shakebottomsoulgempower.png",
+        "content": "Get a new skin which increases speed and absorbs damage. Absorbing damage causes skin to shed then grow back after a short time.",
         "is_primary": false,
         "is_secondary": false,
         "price": 3500,
@@ -147,6 +253,105 @@
               "header": "#99A",
               "bg_content": "#CCD"
             }
+          },
+          {
+            "name": "Armed to the Fangs",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/88/Rattle_Shaketoppath1upgrade2.png",
+            "content": "Nasty Sssuprise radius and Deputy Snake damage are increased.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Coiled Ammunition",
+        "abilities": [
+          {
+            "name": "Snake Bite",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Rattle_Shaketoppath2upgrade1.png",
+            "content": "Spring Loaded Snake poisons the first enemy it hits, dealing damage over time.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "This Bites",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3f/Rattle_Shaketoppath2upgrade2.png",
+            "content": "Enemies poisoned by Spring Loaded Snake take more damage from Snake Venom.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Bone Herder",
+        "abilities": [
+          {
+            "name": "Goliath Bone Snake",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2b/Rattle_Shakebottompath1upgrade1.png",
+            "content": "Hold Attack 2 to charge Sssstampede, release to summon a giant bone snake from the ground.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Dances With Snakes",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Rattle_Shakebottompath1upgrade2.png",
+            "content": "Hold Attack 2 while moving to charge Goliath Bone Snake, release to summon many bone snakes.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Grave Springer",
+        "abilities": [
+          {
+            "name": "Spurred Spring",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Rattle_Shakebottompath2upgrade1.png",
+            "content": "Hold Attack 2 to charge Sssstampede, release to spring forward, damaging all enemies in the way.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1500,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
+          },
+          {
+            "name": "Graveyard Smash",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Rattle_Shakebottompath2upgrade2.png",
+            "content": "Spurred Spring causes tombstones to appear and damage enemies in a large area when landing.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2000,
+            "colors": {
+              "header": "#99A",
+              "bg_content": "#CCD"
+            }
           }
         ]
       }
@@ -168,11 +373,23 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "280"
+          "stat_value": "280 (max. 560)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "43"
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Rattle_Shake"
@@ -180,7 +397,7 @@
     {
       "id": "quickdraw-rattle-shake",
       "variant_name": "Quickdraw Rattle Shake",
-      "edition": "Frito-Lay Exclusive",
+      "edition": "Frito-Lays Exclusive",
       "type": "Variant",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Quick_Draw_Rattle_Shake.png",
@@ -192,11 +409,23 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "280"
+          "stat_value": "280 (max. 560)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "43"
+          "stat_value": "43 (max. 91)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "12 (max. 42)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Quickdraw_Rattle_Shake"
