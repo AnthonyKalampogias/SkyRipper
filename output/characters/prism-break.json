@@ -34,7 +34,7 @@
   "story": [
     {
       "story_name": "History",
-      "content": "Prism Break was a fearsome Rock Golem who inhabited dark, dangerous places deep underground. But embedded in the rocky walls of Prism Break's home was a dragon's hoard of gems, jewels and sparkly stones that no miner could resist. Few returned unscathed. Those that could still speak told of trashed tools and mangled machinery - not to mention the blood-curtling cries and ghastly growls that rang out from the dark depths. A nice place for a relaxing break this was not. Eventually there were no miners left who would brave these perilous passageways. Finally able to rest without interruption, Prism Break retired to his favorite cavern and sank into a silent slumber. He slept through some important events - including the roof collapsing over him. Over 100 years later, Prism Break was rudely roused by a new generation of Mabu miners. One of them had pick-axed him in a place he'd rather not mention. But instead of munching the Mabu and using the pickaxes for toothpicks, Prism Break found himself transformed. His arms had turned from rocks into powerful gems with powerful energy. Feeling much improved, he decided to be a force for good instead of grumpiness. So he joined the Skylanders.",
+      "content": "Prism Break was a fearsome Rock Golem who inhabited dark, dangerous places deep underground. But embedded in the rocky walls of Prism Break's home was a dragon's hoard of gems, jewels and sparkly stones that no miner could resist. Few returned unscathed. Those that could still speak told of trashed tools and mangled machinery - not to mention the blood-curtling cries and ghastly growls that rang out from the dark depths. A nice place for a relaxing break this was not. Eventually there were no miners left who would brave these perilous passageways. Finally able to rest without interruption, Prism Break retired to his favorite cavern and sank into a silent slumber. He slept through some important events - including the roof collapsing over him. Over 100 years later, Prism Break was rudely roused by a new generation of Mabu miners. One of them had pick-axed him in a place he'd rather not mention. But instead of munching the Mabu and using the pickaxes for toothpicks, Prism Break found himself transformed. His arms had turned from rocks into powerful gems that fired pure bolts of energy. Feeling much improved, he decided to be a force for good instead of grumpiness. So he joined the Skylanders.",
       "hasImage": false,
       "imgPath": ""
     },
@@ -55,38 +55,40 @@
     {
       "quote_type": "Battle Cries",
       "content": [
-        "The Beam is Supreme! - When placed on the Portal of Power",
-        "Up I go! - When leaping from a bounce pad",
-        "Woah! - When leaping from a bounce pad",
-        "Right on! - When obtaining a power-up",
-        "Yeah, i'll take it! - When obtaining a power-up",
-        "Alright! - When a task is completed successfully",
-        "Woohoo! - When a task is completed successfully",
-        "Unstoppable! - When all enemies are defeated",
-        "Tough break! - When all enemies are defeated",
-        "A shining victory! - When all enemies are defeated",
-        "Breaking through! - When opening a barrier",
-        "Nothing stops me! - When opening a barrier",
-        "I feel right at home! - When entering an elemental gate",
-        "Oh yeah! - When leveling up",
-        "Prism power! - When leveling up",
-        "Oooh, shiny! - When opening a treasure chest",
-        "Gems are my favorite! -When opening a treasure chest",
-        "Hmm, rock solid! - When viewing stats",
-        "Lookin' strong! - When viewing stats",
-        "A sharp looking hat! - When putting on a hat",
-        "I look good! - When putting on a hat",
-        "I guess that'll do! - When given a nickname",
-        "Ok then! - When given a nickname",
-        "Break's over, let's move! - Unused idle line",
-        "Let's go before I fossilize! - Unused idle line"
+        "'The Beam is Supreme!' - When placed on the Portal of Power",
+        "'Up I go!' - When leaping from a bounce pad",
+        "'Woah!' - When leaping from a bounce pad",
+        "'Right on!' - When obtaining a power-up",
+        "'Yeah, i'll take it!' - When obtaining a power-up",
+        "'Alright!' - When a task is completed successfully",
+        "'Woohoo!' - When a task is completed successfully",
+        "'Unstoppable!' - When all enemies are defeated",
+        "'Tough break!' - When all enemies are defeated",
+        "'A shining victory!' - When all enemies are defeated",
+        "'Breaking through!' - When opening a barrier",
+        "'Nothing stops me!' - When opening a barrier",
+        "'I feel right at home!' - When entering an elemental gate",
+        "'Oh yeah!' - When leveling up",
+        "'Prism power!' - When leveling up",
+        "'Oooh, shiny!' - When opening a treasure chest",
+        "'Gems are my favorite!' -When opening a treasure chest",
+        "'Hmm, rock solid!' - When viewing stats",
+        "'Lookin' strong!' - When viewing stats",
+        "'A sharp looking hat!' - When putting on a hat",
+        "'I look good!' - When putting on a hat",
+        "'I guess that'll do!' - When given a nickname",
+        "'Ok then!' - When given a nickname",
+        "'Break's over, let's move!' - Unused idle line",
+        "'Let's go before I fossilize!' - Unused idle line"
       ]
     }
   ],
   "trivia": [
     "Some fans mistook the jagged texture in Prism Break's mouth in his official artworks as many needle-sharp teeth. However, in game he has an empty, cavernous mouth lacking any teeth at all, exactly like every one of his figures.",
-    "Prism Break's Series 2 figure has green crystals on his arms, but his Series 1 figure has sapphire-colored crystals. His Series 2 figure has also been seen with blue-shaded crystals, though it's most likely a manufacturing error.",
-    "Prism Break, Crusher, and Flashwing are the only Skylanders who can break Tzo Crystals. Whirlwind can also do this, but only in the Xbox 360, PS3, and PC Versions of Spyro's Adventure.",
+    "Prism Break's Series 2 figure has green crystals on his arms, but his Series 1 figure has sapphire-colored crystals.",
+    "His Series 2 figure has also been seen with blue-shaded crystals, though it's most likely a manufacturing error.",
+    "Prism Break, Crusher, and Flashwing are the only Skylanders who can break Tzo Crystals.",
+    "Whirlwind can also do this, but only in the Xbox 360, PS3, and PC Versions of Spyro's Adventure.",
     "His name is a pun on the term 'Prison Break'.",
     "As a LightCore, his arm crystals light up. His shoulder ones do not, however.",
     "In Giants, he holds his arms a bit further apart when he pops up on-screen than in Spyro's Adventure.",
@@ -95,7 +97,8 @@
     "He has an exclusive flocked variant known as Employee Prism Break, who was given to employees at Activision.",
     "In Trap Team, Prism Break's Shard Soul Prisons are now red or purple depending on which upgrade path he takes.",
     "Enemies will get distracted by his crystals on the field, allowing the player to take advantage of their trajectory.",
-    "For reasons unknown, Prism Break's voice actor, Peter Lurie, has been uncredited in Skylanders: SuperChargers. In Skylanders: Battlecast, Lurie was replaced with Brad Abrell as the voice of Prism Break.",
+    "For reasons unknown, Prism Break's voice actor, Peter Lurie, has been uncredited in Skylanders: SuperChargers.",
+    "In Skylanders: Battlecast, Lurie was replaced with Brad Abrell as the voice of Prism Break.",
     "Hyper Beam Prism Break's artwork can be seen in the Season 1 intro of the Skylanders Academy TV series within The Book of Skylanders.",
     "In Skylanders: Giants, Prism Break received an updated design compared to the Wii version of Spyro's Adventure, where he received a more detailed rocky appearance. On the Wii version of Giants however, he was left unchanged.",
     "According to designer I-Wei Huang, Prism Break is 'the MVP of Skylanders' because his figure was used to test so many toy ideas. His arm was the inspiration for the shape of Trap Team's Traps, and he was the first Skylander tested for Lightcore technology.",
@@ -135,7 +138,7 @@
     "basic": [
       {
         "name": "Energy Beam",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Prism_Breakprimarypower.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Prism_Breakprimarypower.png/revision/latest?cb=20120228091505",
         "content": "Fire and sustain a powerful beam of energy.",
         "is_primary": true,
         "is_secondary": false,
@@ -147,7 +150,7 @@
       },
       {
         "name": "Summon Crystal Shard",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8c/Prism_Breaksecondarypower.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8c/Prism_Breaksecondarypower.png/revision/latest?cb=20120228091516",
         "content": "Summon crystal shards to smash enemies and refract Energy Beams.",
         "is_primary": false,
         "is_secondary": true,
@@ -161,7 +164,7 @@
     "basic_upgrades": [
       {
         "name": "Super Crystal Shard",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/08/Prism_Breakbasicupgrade1.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/08/Prism_Breakbasicupgrade1.png/revision/latest?cb=20120228091532",
         "content": "Summoned Crystal Shards do increased damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -173,7 +176,7 @@
       },
       {
         "name": "Crystal Eruption",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/48/Prism_Breakbasicupgrade2.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/48/Prism_Breakbasicupgrade2.png/revision/latest?cb=20120228091538",
         "content": "Summon a damaging ring of crystals around Prism Break.",
         "is_primary": false,
         "is_secondary": false,
@@ -185,7 +188,7 @@
       },
       {
         "name": "Emerald Energy Beam",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/Prism_Breakbasicupgrade3.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/Prism_Breakbasicupgrade3.png/revision/latest?cb=20120228091545",
         "content": "Energy Beam attack does extra damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -197,7 +200,7 @@
       },
       {
         "name": "Chained Refractions",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/23/Prism_Breakbasicupgrade4.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/23/Prism_Breakbasicupgrade4.png/revision/latest?cb=20120228091553",
         "content": "Split Energy Beams split again if they pass through a Crystal Shard.",
         "is_primary": false,
         "is_secondary": false,
@@ -211,7 +214,7 @@
     "soulgems": [
       {
         "name": "Shard Soul Prison",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Prism_Breaksoulgempower.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Prism_Breaksoulgempower.png/revision/latest?cb=20120228091525",
         "content": "Crystal Gems form at defeated enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -226,7 +229,7 @@
       {
         "season": 2,
         "name": "Pulse Power",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Prism_Breakwowpowpower.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/72/Prism_Breakwowpowpower.png/revision/latest?cb=20160724124912",
         "content": "While holding Attack 1, press Attack 2 to send a powerful pulse down the beam.",
         "is_primary": false,
         "is_secondary": false,
@@ -239,7 +242,7 @@
       {
         "season": 3,
         "name": "Crystal Comrade",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c2/Prism_Breakwowpow2power.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c2/Prism_Breakwowpow2power.png/revision/latest?cb=20160724102603",
         "content": "Press Attack 1 to shoot Crystal Shards and gem shrapnel explode out, damaging enemies and looking cool.",
         "is_primary": false,
         "is_secondary": false,
@@ -256,7 +259,7 @@
         "abilities": [
           {
             "name": "Massive Crystal Eruption",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Prism_Breakpath1upgrade1.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Prism_Breakpath1upgrade1.png/revision/latest?cb=20120228091616",
             "content": "Crystal Eruption does increased damage and covers a larger area.",
             "is_primary": false,
             "is_secondary": false,
@@ -268,7 +271,7 @@
           },
           {
             "name": "Triple Crystal Shard",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/77/Prism_Breakpath1upgrade2.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/77/Prism_Breakpath1upgrade2.png/revision/latest?cb=20120228091628",
             "content": "Summon three Crystal Shards at once.",
             "is_primary": false,
             "is_secondary": false,
@@ -280,7 +283,7 @@
           },
           {
             "name": "Crystalline Armor",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Prism_Breakpath1upgrade3.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Prism_Breakpath1upgrade3.png/revision/latest?cb=20120228091634",
             "content": "Makes it harder for enemies to hit Prism Break. +40 armor.",
             "is_primary": false,
             "is_secondary": false,
@@ -297,7 +300,7 @@
         "abilities": [
           {
             "name": "Golden Diamond Energy Beam",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Prism_Breakpath2upgrade1.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Prism_Breakpath2upgrade1.png/revision/latest?cb=20120228091640",
             "content": "Energy Beam attack does even more increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -309,7 +312,7 @@
           },
           {
             "name": "Triple Refracted Beam",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a6/Prism_Breakpath2upgrade2.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a6/Prism_Breakpath2upgrade2.png/revision/latest?cb=20120228091649",
             "content": "Energy Beam splits into 3 beams when refracted through a Crystal Shard.",
             "is_primary": false,
             "is_secondary": false,
@@ -321,7 +324,7 @@
           },
           {
             "name": "Focused Energy",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Prism_Breakpath2upgrade3.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Prism_Breakpath2upgrade3.png/revision/latest?cb=20120228091657",
             "content": "Energy Beam attack has increased range.",
             "is_primary": false,
             "is_secondary": false,
@@ -342,7 +345,7 @@
       "edition": "Series 1",
       "type": "Core Skylander",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/d/da/Prism_Break.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/da/Prism_Break.jpg/revision/latest?cb=20130716165215",
       "attacks": [
         "Energy Beams",
         "Shard Summon",
@@ -396,7 +399,7 @@
       "edition": "Series 2",
       "type": "Core Skylander",
       "game": "Skylanders: Giants",
-      "image": "",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f5/LightCore_Prism_Break_promo.jpg/revision/latest?cb=20130227040541",
       "attacks": [
         "Energy Beams",
         "Shard Summon",
@@ -449,8 +452,8 @@
       "variant_name": "LightCore Prism Break",
       "edition": "LightCore",
       "type": "LightCore Skylander",
-      "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f5/LightCore_Prism_Break_promo.jpg",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/b9/Lightcore_Prism_Break.png/revision/latest?cb=20151218132640",
       "attacks": [
         "Energy Beams",
         "Shard Summon",
@@ -504,7 +507,7 @@
       "edition": "Series 3",
       "type": "Core Skylander",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/3/39/S3_Prism_Break_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/39/S3_Prism_Break_Promo.jpg/revision/latest?cb=20140106184324",
       "attacks": [
         "Energy Beams",
         "Shard Summon",
