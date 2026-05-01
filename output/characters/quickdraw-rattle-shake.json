@@ -20,11 +20,18 @@
   "description": "Quickdraw Rattle Shake is an alter ego of the SWAP Force Skylander, Rattle Shake. Originally, he was available exclusively in a Frito-Lays promo, then later became available in selected stores.",
   "biography": "Some say Rattle Shake was the best tracker in the Cloudbreak Islands. Others say he could strike the center of a gold coin at a thousand paces. But the legend of Rattle Shake was immortalized when he found himself trapped by the Black Hat Gang, the infamous group of cowboys who literally were large cows... and evil ones at that. They threatened to plunder the local village unless Rattle Shake led them inside the magical volcano Mt. Cloudbreak, where they hoped to discover enchanted treasure. Badly outnumbered, the ever calm Rattle Shake magically summoned every snake in the area and overtook the notorious bovines in an epic fight. The tale of his heroism was heard by Master Eon, who then recruited him to the Skylanders.",
   "quote": "Go Ahead - Snake My Day!",
-  "personality": "",
-  "story": [],
+  "personality": "ever calm",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "Some say Rattle Shake was the best tracker in the Cloudbreak Islands. Others say he could strike the center of a gold coin at a thousand paces. But the legend of Rattle Shake was immortalized when he found himself trapped by the Black Hat Gang, the infamous group of cowboys who literally were large cows... and evil ones at that. They threatened to plunder the local village unless Rattle Shake led them inside the magical volcano Mt. Cloudbreak, where they hoped to discover enchanted treasure. Badly outnumbered, the ever calm Rattle Shake magically summoned every snake in the area and overtook the notorious bovines in an epic fight. The tale of his heroism was heard by Master Eon, who then recruited him to the Skylanders.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Quickdraw_Rattle_Shake.png/revision/latest/scale-to-width-down/268?cb=20170304031847"
+    }
+  ],
   "quotes": [
     {
-      "quote_type": "Catch Phrase",
+      "quote_type": "Catchphrase",
       "content": [
         "Go Ahead - Snake My Day!"
       ]
@@ -38,12 +45,74 @@
     "Unlike previous games, when you play as Quickdraw Rattle Shake in SuperChargers and Imaginatiors (unless he has a different hat put on his head), his regular hat is missing."
   ],
   "trailers": [],
-  "gameplay": "",
+  "gameplay": "Quickdraw Rattle Shake is the first non-Legendary Undead variant. In Swap Force, his ammo snake was the same color as his original counterpart's. However, in Trap Team, the color has been corrected to match with his artwork. He is mainly glow-in-the-dark green, but his lost islands model shows him as being white. There is a glitch in Trap Team, when the player puts a hat on Quickdraw Rattle Shake's head, it fits over his regular cowboy hat. In the next shots, his regular hat disappears like his regular counterpart. Unlike previous games, when you play as Quickdraw Rattle Shake in SuperChargers and Imaginatiors (unless he has a different hat put on his head), his regular hat is missing.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Quickdraw_Rattle_Shake",
   "abilities": {
-    "basic": [],
+    "basic": [
+      {
+        "name": "Deputy Snake",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Quickdraw_Rattle_Shake.png/revision/latest/scale-to-width-down/268?cb=20170304031847",
+        "content": "Deputy Snake",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#444444",
+          "bg_content": "#9999AA"
+        }
+      },
+      {
+        "name": "Fistful of Snake",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Quickdraw_Rattle_Shake.png/revision/latest/scale-to-width-down/268?cb=20170304031847",
+        "content": "Fistful of Snake",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#444444",
+          "bg_content": "#9999AA"
+        }
+      },
+      {
+        "name": "Spring Loaded Snake",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Quickdraw_Rattle_Shake.png/revision/latest/scale-to-width-down/268?cb=20170304031847",
+        "content": "Spring Loaded Snake",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#444444",
+          "bg_content": "#9999AA"
+        }
+      },
+      {
+        "name": "Snake Bite",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Quickdraw_Rattle_Shake.png/revision/latest/scale-to-width-down/268?cb=20170304031847",
+        "content": "Snake Bite",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#444444",
+          "bg_content": "#9999AA"
+        }
+      }
+    ],
     "basic_upgrades": [],
-    "soulgems": [],
+    "soulgems": [
+      {
+        "name": "Nasty Sssurprise",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Quickdraw_Rattle_Shake.png/revision/latest/scale-to-width-down/268?cb=20170304031847",
+        "content": "Nasty Sssurprise",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#444444",
+          "bg_content": "#9999AA"
+        }
+      }
+    ],
     "wow_pows": [],
     "upgrade_paths": []
   },
@@ -52,7 +121,7 @@
       "id": "quickdraw-rattle-shake",
       "variant_name": "Quickdraw Rattle Shake",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/8/8f/Quickdraw_Rattle_Shake.png/revision/latest?cb=20170304031847",
       "attacks": [
@@ -82,6 +151,22 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "85"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "145"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "130"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Quickdraw_Rattle_Shake"
