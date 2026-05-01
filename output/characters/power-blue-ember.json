@@ -1,7 +1,7 @@
 {
   "id": "power-blue-ember",
   "name": "Power Blue Ember",
-  "species": "Fire Elf",
+  "species": "Unknown",
   "gender": "Female",
   "element": "Fire",
   "role": "Sensei",
@@ -13,16 +13,16 @@
   "world": [
     "Dragonfire Dojo"
   ],
-  "description": "Power Blue Ember is a scrapped variant of Ember intended for the Power Blue special edition line.",
-  "biography": "Power Blue Ember was planned as a special variant for the Power Blue series, a partnership between Activision and Autism Speaks. Like other Power Blue Skylanders, she would have featured a distinct blue and white color scheme. However, the variant was never officially released and remains a piece of cut content from Skylanders: Imaginators.",
+  "description": "Power Blue Ember is the scrapped Power Blue counterpart of Ember.",
+  "biography": "Power Blue Ember is the scrapped Power Blue counterpart of Ember. She was planned as a special variant for the Power Blue series, a partnership between Activision and Autism Speaks. Like other Power Blue Skylanders, she would have featured a distinct blue and white color scheme. However, the variant was never officially released and remains a piece of cut content from Skylanders: Imaginators.",
   "quote": "Train for the Flame!",
   "personality": "Determined and disciplined, Ember is a master of the dual blades who treats her role as a Sensei with the utmost respect and focus.",
   "story": [
     {
       "story_name": "The Scrapped Variant",
-      "content": "Power Blue Ember was discovered through game files and prototype images. She was intended to represent the Samurai Class in the Power Blue lineup.",
-      "hasImage": false,
-      "imgPath": ""
+      "content": "Power Blue Ember was discovered through game files and prototype illustrations. She was intended to represent the Sentinel Class in the Power Blue lineup, as evidenced by her concept art and scrapped assets.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Phillip-worobey-ember-power-blue.jpg/revision/latest?cb=20230109004455"
     }
   ],
   "quotes": [
@@ -37,17 +37,99 @@
   "trivia": [
     "She is one of the few scrapped Sensei variants known to exist.",
     "The Power Blue line was created to support autism awareness.",
-    "Her design replaces her usual red and gold armor with blue and white."
+    "Her design replaces her usual red and gold armor with blue and white.",
+    "Her existence was confirmed via Artstation on December 22, 2022."
   ],
   "trailers": [],
-  "gameplay": "As a Samurai Sensei, Power Blue Ember would have utilized dual-wielding katana attacks, fire geysers, and explosive dash moves to control the battlefield.",
+  "gameplay": "As a Sentinel Sensei, Power Blue Ember would have utilized dual-wielding katana attacks, fire geysers, and explosive dash moves to control the battlefield. Her combat style focuses on the Sentinel battle class.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Power_Blue_Ember",
   "abilities": {
-    "basic": [],
-    "basic_upgrades": [],
-    "soulgems": [],
+    "basic": [
+      {
+        "name": "Samurai Combo",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Phillip-worobey-ember-power-blue.jpg/revision/latest?cb=20230109004455",
+        "content": "Swing the dual blades in a series of powerful strikes.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      },
+      {
+        "name": "Flame Geyser",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Phillip-worobey-ember-power-blue.jpg/revision/latest?cb=20230109004455",
+        "content": "Summon a geyser of fire from the ground to burn enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Immolation",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Phillip-worobey-ember-power-blue.jpg/revision/latest?cb=20230109004455",
+        "content": "Surround yourself in a cloak of fire to damage nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      },
+      {
+        "name": "Inner Fire",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Phillip-worobey-ember-power-blue.jpg/revision/latest?cb=20230109004455",
+        "content": "Channel your energy to increase attack power and speed.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Living Bomb Path",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Phillip-worobey-ember-power-blue.jpg/revision/latest?cb=20230109004455",
+        "content": "Unleash a devastating path of explosive living fire bombs.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1500,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
     "wow_pows": [],
-    "upgrade_paths": []
+    "upgrade_paths": [
+      {
+        "path_name": "Living Bomb Path",
+        "abilities": [
+          {
+            "name": "Living Bomb Path Upgrade",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Phillip-worobey-ember-power-blue.jpg/revision/latest?cb=20230109004455",
+            "content": "Enhance the power of your living fire bomb attacks.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1000,
+            "colors": {
+              "header": "#00BFFF",
+              "bg_content": "#B0E0E6"
+            }
+          }
+        ]
+      }
+    ]
   },
   "variants": [
     {
@@ -56,12 +138,13 @@
       "edition": "Power Blue",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/Phillip-worobey-ember-power-blue.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/45/Phillip-worobey-ember-power-blue.jpg/revision/latest?cb=20230109004455",
       "attacks": [
         "Samurai Combo",
         "Flame Geyser",
         "Immolation",
-        "Inner Fire"
+        "Inner Fire",
+        "Living Bomb Path"
       ],
       "stats": [
         {
