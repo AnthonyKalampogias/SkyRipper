@@ -19,31 +19,110 @@
   "description": "Power Punch Pet Vac is an alter ego of the Air Mini, Pet Vac, in Skylanders: Trap Team.",
   "biography": "This year, Pet Vac is aiming to reign supreme in the Annual Dragon Egg Hunt and break the all-time Skylander record for number of eggs collected (currently held by Sonic Boom). Some say that having a suction gun gives Pet Vac an unfair advantage. But everyone knows better than to say that directly to the little Sky Baron, because despite being small, he packs a big punch!",
   "quote": "Hawk and Awe!",
-  "personality": "",
-  "story": [],
-  "quotes": [],
+  "personality": "Despite being small, Power Punch Pet Vac is highly competitive and determined, especially regarding the Annual Dragon Egg Hunt. He is known for packing a big punch and isn't afraid to use his suction gun to gain an advantage.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "This year, Pet Vac is aiming to reign supreme in the Annual Dragon Egg Hunt and break the all-time Skylander record for number of eggs collected (currently held by Sonic Boom). Some say that having a suction gun gives Pet Vac an unfair advantage. But everyone knows better than to say that directly to the little Sky Baron, because despite being small, he packs a big punch!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/Power_Punch_Pet-Vac_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20150212014821"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "Hawk and Awe!"
+      ]
+    }
+  ],
   "trivia": [
-    "His appearance resembles Full Blast Jet-Vac. This is exemplified by his figure, whose colour combinations are effectively identical to Full Blast Jet-Vac.",
+    "His appearance resembles Full Blast Jet-Vac.",
+    "This is exemplified by his figure, whose colour combinations are effectively identical to Full Blast Jet-Vac.",
     "He, Eggsellent Weeruptor, and Gnarly Barkley are the only Minis to be available in single packs instead of double packs.",
-    "The coloration of his figure is actually different than the coloration of his official art and in game model. His figure is black and red, but his in game model and official art are gold and red. Interestingly, the figure shown on the official Skylanders website shows it with the in game colouration, despite this never being released.",
+    "The coloration of his figure is actually different than the coloration of his official art and in game model. His figure is black and red, but his in game model and official art are gold and red.",
+    "Interestingly, the figure shown on the official Skylanders website shows it with the in game colouration, despite this never being released.",
     "The color of the suit resembles Iron Man."
   ],
   "trailers": [],
-  "gameplay": "",
+  "gameplay": "Power Punch Pet Vac is a Mini Skylander with a moveset identical to Pet Vac. His gameplay focuses on vacuum-based attacks, utilizing the Vac Blaster for range and the Suction Gun for crowd control. While his in-game console stats are mostly unknown, his promotional power stats show a strong emphasis on Agility and Luck. Notably, his physical figure's black and red color scheme differs from his in-game gold and red model.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Power_Punch_Pet-Vac",
   "abilities": {
-    "basic": [],
-    "basic_upgrades": [],
-    "soulgems": [],
+    "basic": [
+      {
+        "name": "Vac Blaster",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/AirSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223423",
+        "content": "Uses a vacuum-powered blaster to shoot air projectiles at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Suction Gun",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/AirSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223423",
+        "content": "Uses suction to pull in enemies or objects.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Jet Vac Jet Pack",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/AirSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223423",
+        "content": "Utilizes a jet pack for enhanced mobility and aerial attacks.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Vac Blaster 9000",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/AirSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223423",
+        "content": "An upgraded version of the Vac Blaster with increased power.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Fiester Fan",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/AirSymbolSkylanders.png/revision/latest/scale-to-width-down/22?cb=20160925223423",
+        "content": "A powerful upgrade that enhances Pet Vac's fan-based abilities.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      }
+    ],
     "wow_pows": [],
     "upgrade_paths": []
   },
   "variants": [
     {
-      "id": "power-punch-pet-vac",
+      "id": "power-punch-pet-vac-s1",
       "variant_name": "Power Punch Pet Vac",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Mini",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/6/69/Power_Punch_Pet-Vac_Promo.jpg/revision/latest?cb=20150212014821",
       "attacks": [
