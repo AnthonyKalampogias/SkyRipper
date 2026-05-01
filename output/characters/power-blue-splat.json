@@ -4,7 +4,7 @@
   "species": "Faun",
   "gender": "Female",
   "element": "Magic",
-  "role": "SuperCharger",
+  "role": "Power Blue SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers",
@@ -15,18 +15,32 @@
   "world": [
     "Skylands"
   ],
-  "description": "Power Blue Splat is a special edition variant of Splat in Skylanders: SuperChargers, released in partnership with Autism Speaks to promote awareness.",
+  "description": "Power Blue Splat is the Power Blue counterpart of Splat in Skylanders: SuperChargers. She is a special edition variant released in partnership with Autism Speaks to promote awareness.",
   "biography": "Splat grew up in a typical faun village which was perfectly manicured and orderly. Every day in school, she and her classmates would recite the same poems, play the same music, and paint the same picture – which was always a portrait of their great ancestor, Fluty Hoofdancer. But this didn’t suit Splat. The only art she wanted to learn was the art of war! After school, she would sneak off to the river and practice her own free form fighting technique against Chompies and other creatures that were causing trouble. When the elder fauns learned of this, they were outraged. But soon thereafter, a band of Drow attacked the village to steal their valuable art, and while the other fauns cowered in fear, Splat stood her ground. Unleashing her self-taught fighting style, she defended her village and sent the Drow running. Now as a member of the Skylanders, Splat makes quite the impression wherever she goes!",
   "quote": "The Art of War!",
   "personality": "Splat is a rebellious and creative soul who finds beauty in combat. Unlike the rest of her village, she values self-expression through martial arts and is fiercely protective of her home and fellow Skylanders.",
-  "story": [],
-  "quotes": [],
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Splat grew up in a typical faun village which was perfectly manicured and orderly. Every day in school, she and her classmates would recite the same poems, play the same music, and paint the same picture – which was always a portrait of their great ancestor, Fluty Hoofdancer. But this didn’t suit Splat. The only art she wanted to learn was the art of war! After school, she would sneak off to the river and practice her own free form fighting technique against Chompies and other creatures that were causing trouble. When the elder fauns learned of this, they were outraged. But soon thereafter, a band of Drow attacked the village to steal their valuable art, and while the other fauns cowered in fear, Splat stood her ground. Unleashing her self-taught fighting style, she defended her village and sent the Drow running. Now as a member of the Skylanders, Splat makes quite the impression wherever she goes!",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c2/PB_Splat.jpg/revision/latest?cb=20160302194748"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "The Art of War!"
+      ]
+    }
+  ],
   "trivia": [
     "While Power Blue Splat's eyes are blue in her promotional art, her eyes are green in the game and in toy form. This error is the same as her original counterpart's.",
     "The Power Blue series was created in partnership with Autism Speaks."
   ],
   "trailers": [],
-  "gameplay": "Power Blue Splat uses her staff and magical ink to fight. She can splash enemies with paint, create ink-based hazards, and use her artistic movements to dodge attacks and strike with precision.",
+  "gameplay": "Power Blue Splat uses her staff and magical ink to fight. She makes quite the impression wherever she goes, utilizing her self-taught fighting style to defend Skylands. Her attacks include Artisan Arts, Heave Hue, Have an Inkling, Wet Paint, and Running Colors.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Power_Blue_Splat",
   "abilities": {
     "basic": [
@@ -38,7 +52,7 @@
         "is_secondary": false,
         "price": 0,
         "colors": {
-          "header": "#3498db",
+          "header": "#A7B",
           "bg_content": "#ecf0f1"
         }
       },
@@ -50,12 +64,49 @@
         "is_secondary": true,
         "price": 0,
         "colors": {
-          "header": "#3498db",
+          "header": "#A7B",
           "bg_content": "#ecf0f1"
         }
       }
     ],
-    "basic_upgrades": [],
+    "basic_upgrades": [
+      {
+        "name": "Have an Inkling",
+        "imgPath": "have_an_inkling.png",
+        "content": "An artistic new attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#ecf0f1"
+        }
+      },
+      {
+        "name": "Wet Paint",
+        "imgPath": "wet_paint.png",
+        "content": "Covers enemies in wet paint.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#ecf0f1"
+        }
+      },
+      {
+        "name": "Running Colors",
+        "imgPath": "running_colors.png",
+        "content": "Dodge and move with style through combat.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#ecf0f1"
+        }
+      }
+    ],
     "soulgems": [],
     "wow_pows": [],
     "upgrade_paths": []
@@ -64,10 +115,10 @@
     {
       "id": "power-blue-splat-v1",
       "variant_name": "Power Blue Splat",
-      "edition": "Special Edition",
+      "edition": "Power Blue",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c2/PB_Splat.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/c/c2/PB_Splat.jpg/revision/latest?cb=20160302194748",
       "attacks": [
         "Artisan Arts",
         "Heave Hue",
@@ -78,23 +129,39 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "240"
+          "stat_value": "240 (max. 480)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "43"
+          "stat_value": "43 (max. 91)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "6"
+          "stat_value": "6 (max. 36)"
         },
         {
           "stat_name": "Critical Hit",
-          "stat_value": "4"
+          "stat_value": "4 (max. 54)"
         },
         {
           "stat_name": "Elemental Power",
-          "stat_value": "25"
+          "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "260"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "200"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Power_Blue_Splat"
