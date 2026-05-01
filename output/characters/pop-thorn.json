@@ -20,9 +20,22 @@
   ],
   "description": "Pop Thorn is a pufferthorn who is one of the two Air Core Skylanders in Skylanders: Swap Force. He is part of the Tower of Time Adventure Pack, but is also available in a single pack.",
   "biography": "Pop Thorn hails from a race of creatures known as Pufferthorns. Often considered one of the cutest creatures in all of Skylands, they are generally quite timid and puff out sharp spines when scared. It is this ability that long ago led to the unfortunate legacy of being used as combs by giant trolls everywhere, being the sharp spines are perfect for brushing out tangles from their long, matted hair. But not long ago, one Pufferthorn took a stand. Tired of his race being used for nothing more than good grooming, Pop Thorn used his naturally thorny abilities to stand up and fight back against the giant trolls. Soon after, Master Eon made Pop Thorn a Skylander. And to this day, no trolls dare to comb their hair.",
-  "quote": "Straight to the Point!",
+  "quote": "'Straight to the Point!'",
   "personality": "Pop Thorn is sweetness and light until something ruffles his spines. Nothing needles him more than being taken for granted. He doesn't let anyone walk all over him, and ensures that his foes get the point.",
-  "story": [],
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Pop Thorn hails from a race of creatures known as Pufferthorns. Often considered one of the cutest creatures in all of Skylands, they are generally quite timid and puff out sharp spines when scared. It is this ability that long ago led to the unfortunate legacy of being used as combs by giant trolls everywhere, being the sharp spines are perfect for brushing out tangles from their long, matted hair. But not long ago, one Pufferthorn took a stand. Tired of his race being used for nothing more than good grooming, Pop Thorn used his naturally thorny abilities to stand up and fight back against the giant trolls. Soon after, Master Eon made Pop Thorn a Skylander. And to this day, no trolls dare to comb their hair.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Pop_Thorn.jpg/revision/latest?cb=20131019000653"
+    },
+    {
+      "story_name": "Character Development",
+      "content": "In early concept art, Pop Thorn had a long tail that ended in an anchor, which kept him from floating away when inflated. Pop Thorn was very popular with the younger demographic during the development of Skylanders: Swap Force. Because of this, Vicarious Visions had to preserve his theme and play style while making him very easy to play.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
   "quotes": [
     {
       "quote_type": "Battle Cries",
@@ -60,9 +73,9 @@
   "trivia": [
     "Pop Thorn resembles a pufferfish.",
     "When not puffed, he looks similar to a dragon.",
-    "He and Pop Fizz are the only Skylanders that have \"Pop\" in their names. Coincidentally, they both also have two changeable forms and were voiced by two American stand-up comedians.",
-    "His name is a play on the popular movie snack food \"popcorn.\" Coincidentally, his Lost Islands alter ego, Buttered Pop Thorn, is based on popcorn.",
-    "Developer Dan Wallace remarks, \"From the first time I saw Pop Thorn I knew he was going to be a character people love.\"",
+    "He and Pop Fizz are the only Skylanders that have 'Pop' in their names. Coincidentally, they both also have two changeable forms and were voiced by two American stand-up comedians.",
+    "His name is a play on the popular movie snack food 'popcorn.' Coincidentally, his Lost Islands alter ego, Buttered Pop Thorn, is based on popcorn.",
+    "Developer Dan Wallace remarks, 'From the first time I saw Pop Thorn I knew he was going to be a character people love.'",
     "Soon after Pop Thorn was born, the Pufferthorns held a competition to find the cutest baby. The entries were all so adorable that every single one of them tied for first place except for Pop Thorn, who came second. Even back then, it seems, there was a hint of danger about him that was not present in other Pufferthorns.",
     "Pop Thorn's single pack toy figure has a completely different mold and is more vibrant in color compared his toy figure in the Tower of Time adventure pack.",
     "He makes squeaky noises whenever he walks.",
@@ -74,20 +87,20 @@
     "Pop Thorn, Blades and Free Ranger are the only Air Skylanders who can't fly in-game.",
     "As seen in the Skylanders Short Cuts, Pop Thorn puffs up when he bluffs.",
     "On the 3DS, the art of Puffed Pop Thorn will switch to a picture of his Popped form, not seen anywhere else, when switched.",
-    "His Soul Gem Ability title, \"To Puff or Not to Puff,\" is a joke on \"To be or not to be\", a popular quote from William Shakespeare's Hamlet.",
+    "His Soul Gem Ability title, 'To Puff or Not to Puff,' is a joke on 'To be or not to be', a popular quote from William Shakespeare's Hamlet.",
     "Pop Thorn and Blades share some similarities with each other: They are both Air element Skylanders. They are both quadrupedal creatures. They both have protection on their bodies (Pop Thorn's spikes and Blades' bladed armor). Both of their Soul Gems are found in the first level of their respective games. They both come in Adventure Packs (Tower of Time for Pop Thorn and Nightmare Express for Blades) that are available in the first wave.",
     "In his HUD artwork in Swap Force, Pop Thorn's eyes are blue, but they appear yellow everywhere else."
   ],
   "trailers": [
     {
       "name": "Skylanders Swap Force - Meet the Skylanders - Pop Thorn (Straight to the Point)",
-      "isValid": false,
-      "url": ""
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Pop_Thorn_(Straight_to_the_Point)"
     },
     {
       "name": "Skylanders Swap Force - Pop Thorn Soul Gem Preview (Straight to the Point)",
-      "isValid": false,
-      "url": ""
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Pop_Thorn_Soul_Gem_Preview_(Straight_to_the_Point)"
     }
   ],
   "gameplay": "Pop Thorn can inflate himself to a large size, and shoot homing spikes at enemies while inflated. Pop Thorn can also deflate himself and shoot blasts of wind while popped. While deflated, Pop Thorn's third attack allows him to create wind traps which explode when enemies are near, when he is deflated. While inflated, Pop Thorn's third attack lets him smash enemies with his spiky body.",
@@ -274,7 +287,7 @@
       "id": "pop-thorn",
       "variant_name": "Pop Thorn",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Pop_Thorn.jpg/revision/latest?cb=20131019000653",
       "attacks": [
