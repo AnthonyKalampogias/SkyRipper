@@ -4,7 +4,7 @@
   "species": "Gremlin",
   "gender": "Male",
   "element": "Tech",
-  "role": "SuperCharger",
+  "role": "Power Blue SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
     "Skylanders: SuperChargers",
@@ -19,7 +19,14 @@
   "biography": "Power Blue Trigger Happy is the special Power Blue version of Double Dare Trigger Happy. Like all Power Blue Skylanders, he was created to help raise awareness for autism through the Power Blue initiative. Despite his blue and white exterior, he remains the same hyperactive gold-loving Gremlin that Portal Masters have come to know and love.",
   "quote": "No Gold, No Glory!",
   "personality": "Trigger Happy is the solution to every problem, and that solution is usually 'shoot it'. He is hyperactive, easily excited, and has a near-obsessive love for gold and firepower. He is never seen without a manic grin on his face.",
-  "story": [],
+  "story": [
+    {
+      "story_name": "Power Blue Counterpart",
+      "content": "Power Blue Trigger Happy is the Power Blue counterpart of Double Dare Trigger Happy in Skylanders: SuperChargers. He is part of the special Power Blue initiative to support autism awareness.",
+      "hasImage": true,
+      "imgPath": "PB_Double_Dare_Trigger_Happy.jpg"
+    }
+  ],
   "quotes": [
     {
       "quote_type": "Official Catchphrase",
@@ -29,8 +36,9 @@
     }
   ],
   "trivia": [
-    "He is the only alternate counterpart of a SuperCharger repose who does not keep his SuperCharger title. If he had kept it, his name would have been slightly longer than that of Birthday Bash Big Bubble Pop Fizz.",
-    "His in-game colors don't match his artwork and figure. The flaming rings in front of his Firecracker pistols are yellow instead of blue, and his eyes are yellow instead of white.",
+    "He is the only alternate counterpart of a SuperCharger repose who does not keep his SuperCharger title.",
+    "If he had kept it, his name would have been slightly longer than that of Birthday Bash Big Bubble Pop Fizz, who currently has the longest name of any Skylander.",
+    "His in-game colors don't match his artwork and figure. The flaming rings in front of his Firecracker pistols are yellow instead of blue, and his eyes are yellow instead of white. The wing flaps on his arms are partially blue, instead of all white.",
     "The Power Blue figures were released to support Autism Speaks."
   ],
   "trailers": [],
@@ -40,7 +48,7 @@
     "basic": [
       {
         "name": "Fire Cracker",
-        "imgPath": "",
+        "imgPath": "PB_Double_Dare_Trigger_Happy.jpg",
         "content": "Shoot gold-flinging pistols at enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -52,7 +60,7 @@
       },
       {
         "name": "Crowd-Pleaser",
-        "imgPath": "",
+        "imgPath": "SSC_Power_Blue_TriggerHappy.jpg",
         "content": "Deploy a golden cannon that blasts enemies away.",
         "is_primary": false,
         "is_secondary": true,
@@ -63,8 +71,46 @@
         }
       }
     ],
-    "basic_upgrades": [],
-    "soulgems": [],
+    "basic_upgrades": [
+      {
+        "name": "Breaking Cannon",
+        "imgPath": "Power_Blue_Trigger_Happy_toy_package.jpg",
+        "content": "An improved golden cannon with increased firepower.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#004a99",
+          "bg_content": "#e0f0ff"
+        }
+      },
+      {
+        "name": "Hoop N' Holler",
+        "imgPath": "PowerBlue_TriggerHappy_toy.jpg",
+        "content": "A rhythmic attack that deals damage to surrounding enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#004a99",
+          "bg_content": "#e0f0ff"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Can On and On",
+        "imgPath": "SSC_Power_Blue_TriggerHappy.jpg",
+        "content": "A powerful, continuous cannon attack that shreds through enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#004a99",
+          "bg_content": "#e0f0ff"
+        }
+      }
+    ],
     "wow_pows": [],
     "upgrade_paths": []
   },
@@ -75,7 +121,7 @@
       "edition": "Power Blue",
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a9/PB_Double_Dare_Trigger_Happy.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a9/PB_Double_Dare_Trigger_Happy.jpg/revision/latest?cb=20160308221955",
       "attacks": [
         "Fire Cracker",
         "Crowd-Pleaser",
