@@ -14,7 +14,11 @@
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
-  "cameos": [],
+  "cameos": [
+    "Gill Grunt",
+    "Snow Trolls",
+    "Krayken"
+  ],
   "world": [
     "Wondrous Waters"
   ],
@@ -73,7 +77,7 @@
     "Most of her upgrade names are water and electricity puns.",
     "Her face slightly resembles Gill Grunt's Mermaid Girlfriend. They also both met Gill Grunt in their history.",
     "Punk Shock is noticeably similar to Zap: Both are Water Skylanders. Both are from royalty. Both have electrical powers. Both can mix their electrical secondary abilities with their primary abilities.",
-    "Like Stink Bomb after obtaining \"Sporting Stripes\" in Trap Team, Punk Shock can literally move faster after \"Hypercharged\" is purchased.",
+    "Like Stink Bomb after obtaining 'Sporting Stripes' in Trap Team, Punk Shock can literally move faster after 'Hypercharged' is purchased.",
     "She is voiced by Tara Platt, who voices Ester in Ben 10: Omniverse, Mitsuru Kirijo in Persona 3, and Edelgard in Fire Emblem: Three Houses. She is married to Yuri Lowenthal, who voices Fright Rider, Softpaw, and Trail Blazer. Tara Platt also voices Dreamcatcher in Skylanders: Trap Team.",
     "She and Cross Crow are the only playable characters to wield a crossbow. Coincidentally, they are both of the Water element.",
     "Her catchphrase is the same name as an attack upgrade for Wolfgang.",
@@ -82,13 +86,13 @@
   "trailers": [
     {
       "name": "Skylanders Swap Force - Meet The Skylanders - Punk Shock (Amp It Up)",
-      "isValid": false,
-      "url": ""
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_The_Skylanders_-_Punk_Shock_(Amp_It_Up)"
     },
     {
       "name": "Skylanders Swap Force - Punk Shock Soul Gem Preview (Amp It Up)",
-      "isValid": false,
-      "url": ""
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Punk_Shock_Soul_Gem_Preview_(Amp_It_Up)"
     }
   ],
   "gameplay": "Punk Shock can fire electrical arrows from her electric crossbow. She can also throw water bombs that can be electrified with her Spark Shots. Being an electric eel, she can also shock her enemies.",
