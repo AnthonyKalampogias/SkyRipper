@@ -23,7 +23,7 @@
       "story_name": "Physical Traits",
       "content": "Pit Boss is a green pit viper dressed in black robes held up by the sensei gold belt and holds a golden staff with a green jewel in the middle.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b0/Pit_Boss_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20160914194009"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b0/Pit_Boss_Promo.jpg/revision/latest?cb=20160914194009"
     },
     {
       "story_name": "Personality",
@@ -42,25 +42,25 @@
     {
       "quote_type": "Battle Cries",
       "content": [
-        "\"The Scales of Justice!\"",
-        "\"Greetingsss, Portal Massster, are your Imaginators ready to ssstudy the ways of the sssnake?\" - Sensei Training Bonus",
-        "\"And for the Sssorcerer classs, I will teach them the most awesome Sssecret Technique!\" - Secret Technique Bonus",
-        "\"The snake summons!\" - ringing a Battle Gong",
-        "\"Right on!\"",
-        "\"Python power!\"",
-        "\"Snake pit!\"",
-        "\"Anaconda!\"",
-        "\"Watch thisss.\" - Sorcerer Sensei Shrine",
-        "\"These enemies are about to be hissstory!\" - before a battle",
-        "\"Who daresss challenge the sssnake?!\"",
-        "\"They got served!\" - after a battle",
-        "\"Hope you like the tassste of venom and defeat!\"",
-        "\"Let that be a lesson to all my enemies: the sssnake reigns sssupreme!\"",
-        "\"Witness the power of the snake, witness it!\" - leveling up",
-        "\"Statistics are my fourth favorite 'S' word, behind snake, serpent, and slither, of course.\" - checking stats",
-        "\"These myssstical runes are tessstimony to my mysticalnesss!\"",
-        "\"Tassste the venom!\" - activating Sky-chi",
-        "\"Sssky-chi is ssso sssweet!\" - after Sky-chi"
+        "'The Scales of Justice!'",
+        "'Greetingsss, Portal Massster, are your Imaginators ready to ssstudy the ways of the sssnake?' - Sensei Training Bonus",
+        "'And for the Sssorcerer classs, I will teach them the most awesome Sssecret Technique!' - Secret Technique Bonus",
+        "'The snake summons!' - ringing a Battle Gong",
+        "'Right on!'",
+        "'Python power!'",
+        "'Snake pit!'",
+        "'Anaconda!'",
+        "'Watch thisss.' - Sorcerer Sensei Shrine",
+        "'These enemies are about to be hissstory!' - before a battle",
+        "'Who daresss challenge the sssnake?!'",
+        "'They got served!' - after a battle",
+        "'Hope you like the tassste of venom and defeat!'",
+        "'Let that be a lesson to all my enemies: the sssnake reigns sssupreme!'",
+        "'Witness the power of the snake, witness it!' - leveling up",
+        "'Statistics are my fourth favorite 'S' word, behind snake, serpent, and slither, of course.' - checking stats",
+        "'These myssstical runes are tessstimony to my mysticalnesss!'",
+        "'Tassste the venom!' - activating Sky-chi",
+        "'Sssky-chi is ssso sssweet!' - after Sky-chi"
       ]
     }
   ],
@@ -79,12 +79,12 @@
     {
       "name": "Official Skylanders Imaginators Meet Master Pit Boss",
       "isValid": true,
-      "url": "/wiki/File:Official_Skylanders_Imaginators_Meet_Master_Pit_Boss"
+      "url": "https://skylanders.fandom.com/wiki/File:Official_Skylanders_Imaginators_Meet_Master_Pit_Boss"
     },
     {
       "name": "Skylanders Imaginators - Pit Boss Soul Gem Preview",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Imaginators_-_Pit_Boss_Soul_Gem_Preview"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Imaginators_-_Pit_Boss_Soul_Gem_Preview"
     }
   ],
   "gameplay": "Pit Boss can blast ghostly snakes at his foes, as well as summon a swirling pit of vipers that damage foes. Pit Boss can also transform into a giant beastly snake, and even drag enemies along with him. His Soul Gem allows him to summon a colossal undead snake from the ground when in his snake form. His Sky-Chi power allows him to summon a rain of snakes from above which damages enemies in a wide range.",
@@ -93,7 +93,7 @@
     "basic": [
       {
         "name": "Snake Attack",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Pit_Bossprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170408165657",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/03/Pit_Bossprimarypower.png/revision/latest?cb=20170408165657",
         "content": "Press Attack 1 to launch ghostly snake attacks.",
         "is_primary": true,
         "is_secondary": false,
@@ -105,7 +105,7 @@
       },
       {
         "name": "Slithering Soul Snake",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Pit_Bosssecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170408165717",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Pit_Bosssecondarypower.png/revision/latest?cb=20170408165717",
         "content": "Press and hold Attack 2 to turn into a Snake.",
         "is_primary": false,
         "is_secondary": true,
@@ -119,7 +119,7 @@
     "basic_upgrades": [
       {
         "name": "Viper Pits",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Pit_Bossbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170408165740",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Pit_Bossbasicupgrade1.png/revision/latest?cb=20170408165740",
         "content": "Press Attack 3 to create Viper Pits that damage enemies, and make your primary attacks do more damage and travel faster.",
         "is_primary": false,
         "is_secondary": false,
@@ -131,7 +131,7 @@
       },
       {
         "name": "Besst for Lasst",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Pit_Bossbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170408165802",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Pit_Bossbasicupgrade2.png/revision/latest?cb=20170408165802",
         "content": "Do damage around you when releasing Attack 2.",
         "is_primary": false,
         "is_secondary": false,
@@ -143,7 +143,7 @@
       },
       {
         "name": "Pit Master",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b3/Pit_Bossbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170408165836",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b3/Pit_Bossbasicupgrade3.png/revision/latest?cb=20170408165836",
         "content": "Viper Pits slow enemies down, and they will always take critical hits. You can also make one more Viper Pit.",
         "is_primary": false,
         "is_secondary": false,
@@ -155,7 +155,7 @@
       },
       {
         "name": "Slither Away",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Pit_Bossbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170408165856",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Pit_Bossbasicupgrade4.png/revision/latest?cb=20170408165856",
         "content": "Carry enemies with you when turning into a Snake with Attack 2.",
         "is_primary": false,
         "is_secondary": false,
@@ -169,7 +169,7 @@
     "soulgems": [
       {
         "name": "The Undersnaker",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Pit_Bosssoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170408172938",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Pit_Bosssoulgempower.png/revision/latest?cb=20170408172938",
         "content": "Release Attack 2 while coiled in Slithering Soul Snake to unleash a giant undead Snake.",
         "is_primary": false,
         "is_secondary": false,
@@ -184,7 +184,7 @@
       {
         "season": 1,
         "name": "Viper Volley",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Pit_Bossskychipower.png/revision/latest/scale-to-width-down/148?cb=20170408173122",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Pit_Bossskychipower.png/revision/latest?cb=20170408173122",
         "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power! It's raining snakes!",
         "is_primary": false,
         "is_secondary": false,
@@ -201,7 +201,7 @@
         "abilities": [
           {
             "name": "Superior Slithering",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/Pit_Bosspath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170408170209",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/Pit_Bosspath1upgrade1.png/revision/latest?cb=20170408170209",
             "content": "You can carry one more enemy during the secondary attack.",
             "is_primary": false,
             "is_secondary": false,
@@ -213,7 +213,7 @@
           },
           {
             "name": "The More the Snake-ier",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Pit_Bosspath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170408170243",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Pit_Bosspath1upgrade2.png/revision/latest?cb=20170408170243",
             "content": "The more enemies you carry with Attack 2, the more damage you do.",
             "is_primary": false,
             "is_secondary": false,
@@ -225,7 +225,7 @@
           },
           {
             "name": "Shedding",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0a/Pit_Bosspath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170408170304",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0a/Pit_Bosspath1upgrade3.png/revision/latest?cb=20170408170304",
             "content": "Leave your remains behind as a barrier when transforming back from Attack 2.",
             "is_primary": false,
             "is_secondary": false,
@@ -242,7 +242,7 @@
         "abilities": [
           {
             "name": "Restless Reptiles",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Pit_Bosspath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170408171341",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Pit_Bosspath2upgrade1.png/revision/latest?cb=20170408171341",
             "content": "Vipers will shoot out of Viper Pits when they expire and damage enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -254,7 +254,7 @@
           },
           {
             "name": "Viper Pit Pounce",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Pit_Bosspath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170408171415",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Pit_Bosspath2upgrade2.png/revision/latest?cb=20170408171415",
             "content": "Jumping while in Snake Form creates a Viper Pit. You can now make up to three of them.",
             "is_primary": false,
             "is_secondary": false,
@@ -266,7 +266,7 @@
           },
           {
             "name": "Really Restless Reptiles",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Pit_Bosspath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170408172057",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Pit_Bosspath2upgrade3.png/revision/latest?cb=20170408172057",
             "content": "Vipers will continuously escape the Viper Pits and damage enemies.",
             "is_primary": false,
             "is_secondary": false,
