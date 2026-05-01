@@ -19,15 +19,29 @@
     "Skylands"
   ],
   "description": "Punch Pop Fizz is a red variation of Pop Fizz, available in the Nintendo 3DS version of Skylanders: Giants. He is now available in a single pack in the United Kingdom.",
-  "biography": "Some of Pop Fizz's experiments end with a new potion to throw at his enemies. Others change the color of his fur completely, such as the one responsible for his red color. Sporting a new red coat, the change hasn't stopped Pop Fizz from continuing to mix his strange brews. The zany Skylander rushes into battle without hesitation, tossing his concoctions at his foes or drinking them to unleash the Berserker. ",
+  "biography": "Some of Pop Fizz's experiments end with a new potion to throw at his enemies. Others change the color of his fur completely, such as the one responsible for his red color. Sporting a new red coat, the change hasn't stopped Pop Fizz from continuing to mix his strange brews. The zany Skylander rushes into battle without hesitation, tossing his concoctions at his foes or drinking them to unleash the Berserker.",
   "quote": "The Motion Of The Potion!",
-  "personality": "",
-  "story": [],
-  "quotes": [],
+  "personality": "Punch Pop Fizz is a zany Skylander who rushes into battle without hesitation, driven by his eccentric passion for alchemy and strange brews.",
+  "story": [
+    {
+      "story_name": "Biography",
+      "content": "Some of Pop Fizz's experiments end with a new potion to throw at his enemies. Others change the color of his fur completely, such as the one responsible for his red color. Sporting a new red coat, the change hasn't stopped Pop Fizz from continuing to mix his strange brews. The zany Skylander rushes into battle without hesitation, tossing his concoctions at his foes or drinking them to unleash the Berserker.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e7/Punch_pop_fizz.png/revision/latest?cb=20130414110714"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Battle Cries",
+      "content": [
+        "The Motion Of The Potion!"
+      ]
+    }
+  ],
   "trivia": [
     "In the trailer, he is called Red Pop Fizz.",
     "He resembles the Press Your Luck mascot, the Whammy as both do crazy things and have red fur.",
-    "He resembles Ickys from the Nickelodeon series \"Aaaaaah! Real Monsters!\"",
+    "He resembles Ickys from the Nickelodeon series 'Aaaaaah! Real Monsters!'",
     "Initially, Punch Pop Fizz did not have a unique backstory, but eventually when he was released as part of a Trap Team promotion at GameStop for trading in an older portal, a backstory was written.",
     "Using Love Potion Pop Fizz in Skylanders: Giants will cause him to appear as Punch Pop Fizz.",
     "His cufflinks are silver instead of gold.",
@@ -35,90 +49,98 @@
   ],
   "trailers": [
     {
-      "name": "Meet The Skylanders - Punch Pop Fizz \"The Motion Of The Potion!\" Official Trailer",
-      "isValid": false,
-      "url": ""
+      "name": "Meet The Skylanders - Punch Pop Fizz 'The Motion Of The Potion!' Official Trailer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_The_Skylanders_-_Punch_Pop_Fizz_%22The_Motion_Of_The_Potion!%22_Official_Trailer"
     }
   ],
-  "gameplay": "",
+  "gameplay": "Punch Pop Fizz rushes into battle without hesitation, tossing his concoctions at his foes or drinking them to unleash the Berserker. His primary combat involves lobbing various potions or transforming into a beast form for melee destruction.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Punch_Pop_Fizz",
   "abilities": {
     "basic": [
       {
         "name": "Potion Lob",
         "imgPath": "",
-        "content": "",
-        "is_primary": false,
+        "content": "Punch Pop Fizz tosses potions at his enemies with various effects.",
+        "is_primary": true,
         "is_secondary": false,
         "price": 0,
         "colors": {
-          "header": "",
-          "bg_content": ""
+          "header": "#A7B",
+          "bg_content": "#EBF"
         }
       },
       {
         "name": "Beast Form",
         "imgPath": "",
-        "content": "",
+        "content": "Punch Pop Fizz drinks a potion to transform into a powerful Berserker beast.",
         "is_primary": false,
-        "is_secondary": false,
+        "is_secondary": true,
         "price": 0,
         "colors": {
-          "header": "",
-          "bg_content": ""
+          "header": "#A7B",
+          "bg_content": "#EBF"
         }
-      },
+      }
+    ],
+    "basic_upgrades": [
       {
         "name": "New Concoctions",
         "imgPath": "",
-        "content": "",
+        "content": "Allows for more complex potion mixtures and effects.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
         "colors": {
-          "header": "",
-          "bg_content": ""
+          "header": "#A7B",
+          "bg_content": "#EBF"
         }
       },
       {
         "name": "Puddle of Pain",
         "imgPath": "",
-        "content": "",
+        "content": "Creates a hazardous puddle on the ground that damages enemies.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
         "colors": {
-          "header": "",
-          "bg_content": ""
-        }
-      },
-      {
-        "name": "Raging Beast",
-        "imgPath": "",
-        "content": "",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 0,
-        "colors": {
-          "header": "",
-          "bg_content": ""
+          "header": "#A7B",
+          "bg_content": "#EBF"
         }
       }
     ],
-    "basic_upgrades": [],
-    "soulgems": [],
+    "soulgems": [
+      {
+        "name": "Raging Beast",
+        "imgPath": "",
+        "content": "Unleashes the full fury of the beast form for maximum destruction.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A7B",
+          "bg_content": "#EBF"
+        }
+      }
+    ],
     "wow_pows": [],
     "upgrade_paths": []
   },
   "variants": [
     {
-      "id": "punch-pop-fizz",
+      "id": "punch-pop-fizz-s1",
       "variant_name": "Punch Pop Fizz",
       "edition": "Variant",
       "type": "Giant Variant",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/e/e7/Punch_pop_fizz.png/revision/latest?cb=20130414110714",
-      "attacks": [],
+      "attacks": [
+        "Potion Lob",
+        "Beast Form",
+        "New Concoctions",
+        "Puddle of Pain",
+        "Raging Beast"
+      ],
       "stats": [
         {
           "stat_name": "Health",
@@ -139,6 +161,22 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "65"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "105"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Punch_Pop_Fizz"
