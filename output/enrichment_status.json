@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-02T03:27:03.719Z",
+  "last_run": "2026-05-02T09:34:20.498Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -179,7 +179,7 @@
     },
     {
       "name": "Cobra Cadabra",
-      "sha": "b0e60646ebfde52674c138c7df0b06c39bbdcd73cbc944a7c2e5ffa008f8598f"
+      "sha": "275e6777f36612009b4108335f0ddadae6956d9fb9adedb4d717f64af17ed752"
     },
     {
       "name": "Core Skylanders",
@@ -719,7 +719,7 @@
     },
     {
       "name": "Knight Light",
-      "sha": "3bcb940a6294e51bc7be31470f0b9fbbc204ff3d0b622df6360bb1ac9d52a737"
+      "sha": "4114255def43a89dd0a9a8a8bac55ea077e964d4b18c7760af706128e35ea8a5"
     },
     {
       "name": "Knight Mare",
@@ -875,7 +875,7 @@
     },
     {
       "name": "Metal Mage",
-      "sha": "726859ab1084233450fc74cd18a06709f22c9b59da193e0cb3b475a1cce7d271"
+      "sha": "3bbd25346ed5ea034aa02efc2b9a11b2fc704a2a3c3c35ffe0fdf3b413e6fcf5"
     },
     {
       "name": "Mini-Jini",
@@ -1052,6 +1052,66 @@
     {
       "name": "Scratch",
       "sha": "669a65a08bccded7eafdbeeaa36f7c11f7bcd92b769d499308bff4202ff01695"
+    },
+    {
+      "name": "Senseis",
+      "sha": "43118a6bc033c951c02c8eb2b01b5833c3cbaebdd24c3b6e7199213e8e3cd51a"
+    },
+    {
+      "name": "Shark Shooter Terrafin",
+      "sha": "78f54109f5add8d8344c9ac6fc44e7c3cb566f5575fb506f14376f81e02242e6"
+    },
+    {
+      "name": "Short Cut",
+      "sha": "f315b0736a0cb0b0b295be3a1f0a0f5d813769aca4a129fd0e46de11cf9cd852"
+    },
+    {
+      "name": "Shroomboom",
+      "sha": "718b538cc6738d8a8a0fbcbe44eea7a34a4c2cb6ecf58cd099db1774e7f3c81c"
+    },
+    {
+      "name": "Sir Hoodington",
+      "sha": "b11573094dcf81c983fd980e18d725729648b3e6c3587b521ba14e2f92079c3f"
+    },
+    {
+      "name": "Skeletal Cynder",
+      "sha": "2e52617a436e1ca4e59d9a6afa22bb0190cdb4953c6da0c1e76f3ccbf14a2e4e"
+    },
+    {
+      "name": "Skylanders",
+      "sha": "1c41c9c4b345a99d5a49f19a161cfcaa43f869f8082edebe1a3f220228459262"
+    },
+    {
+      "name": "Slam Bam",
+      "sha": "0501e8634d6459f85900bf3d9cc697dd720e30bdf4194d8706a140acabd7c4b6"
+    },
+    {
+      "name": "Slobber Tooth",
+      "sha": "bb693bba2843b756af2b207d47532ee8aa7458048b215988bcdc54c214da18a3"
+    },
+    {
+      "name": "Small Fry",
+      "sha": "7346896406bfb12b50de24737247c12da5926920da72b9821e7d6eec12dc2771"
+    },
+    {
+      "name": "Smash Hit",
+      "sha": "64e1fc0dd67d5ddf0bc87f8e81d1ca02373c53fbaf8aa06712d45e273b374908"
+    },
+    {
+      "name": "Smolderdash",
+      "sha": "6c923722773e981cff974497e7b3af45221deaac512bcdcebc97c7244a7758b3"
+    },
+    {
+      "name": "Snap Shot",
+      "sha": "27b464f96d42d5f60d695f78010a6f0c0c64505e29bd87790d1df7ea24752687"
+    },
+    {
+      "name": "Snowler Brawl",
+      "sha": "54af4c076b431020436058d0a24d5216180730fe7266326796c918e6b711b609"
+    },
+    {
+      "name": "Solar Flare Aurora",
+      "sha": "1e5f222fb45c3a895af8222539fcef0803eaad5c93807621149751b469b1d5b0"
     }
   ]
 }
