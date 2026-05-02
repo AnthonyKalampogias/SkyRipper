@@ -8,7 +8,7 @@
   "primary_game": "Skylanders: Imaginators",
   "appearances": [
     "Skylanders: Imaginators",
-    "Skylanders: Ring of Heroes"
+    "Skylands: Ring of Heroes"
   ],
   "cameos": [],
   "world": [
@@ -80,8 +80,8 @@
     "He, Wild Storm, Crash Bandicoot, and Dr. Neo Cortex are the only Skylanders figures to also double as Adventure or Level Pack figures.",
     "He resembles Robin Hood, a legendary heroic outlaw in English folklore who was a highly skilled archer, usually depicted using a traditional medieval cloak and hood.",
     "During a Grind Challenge, Ro-Bow curls up into a ball and rolls instead of sliding on his two feet.",
-    "He is the second Skylander to tuck and roll every time he jumps while Stink Bomb is the first.",
-    "His Sky-Chi 'Ctrl-Alt-Defeat' is a pun on 'Ctrl+Alt+Delete', a computer keyboard command on IBM PC compatible computers.",
+    "Also, he is the second Skylander to tuck and roll every time he jumps while Stink Bomb is the first.",
+    "His Sky-Chi 'Ctrl-Alt-Defeat' is a pun on 'Ctrl+Alt+Delete', a computer keyboard command on IBM PC compatible computers, invoked by pressing the Delete key while holding the Control and Alt keys.",
     "Strangely, Ro-Bow's name is stylized in all capital letters in-game.",
     "Ro-Bow shares some design characteristics with a flash game character named GunBot, both are one eyed robots that wear cloaks and use ranged weapons.",
     "If Ro-Bow presses attack 1 in the air before Havoc Orb is purchased, he will fire an explosive arrow diagonally downwards.",
@@ -310,7 +310,7 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "210"
+          "stat_value": "210 (max. 420)"
         },
         {
           "stat_name": "Strength",
