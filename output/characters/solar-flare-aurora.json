@@ -10,7 +10,8 @@
     "Skylanders: Imaginators"
   ],
   "cameos": [
-    "Aurora"
+    "Aurora",
+    "Master Eon"
   ],
   "world": [
     "Skylands"
@@ -18,13 +19,13 @@
   "description": "Solar Flare Aurora is a counterpart of Aurora in Skylanders: Imaginators.",
   "biography": "Aurora is the niece of Master Eon. For years, he tried to keep her identity a secret so that she would remain safe from harm. But as she grew older, Aurora wanted nothing more than to become a Skylander, but Eon would not permit it. So without telling him, she wore a disguise and studied swordplay and combat arts under the name 'Boss Blades McSlashinator.' Soon, everyone was talking about this new mysterious hero and her amazing abilities. Even Master Eon was notably impressed, but when he learned the skilled fighter was none other than his own niece, he once again refused her entry into the Skylanders team. However, before she could protest, Eon smiled and told her it was because he was immediately promoting her to his Sensei program, where she would train the Swashbuckler Class under her true name and identity. Although he did later admit that 'Boss Blades McSlashinator' sounded pretty cool.",
   "quote": "The Speed of Light",
-  "personality": "Determined and resourceful, Aurora was willing to adopt a secret persona to prove her skills to her uncle. She is dedicated to the combat arts and takes her role as a Sensei seriously, despite her uncle's initial overprotectiveness.",
+  "personality": "Determined and resourceful, Aurora adopted a secret persona to prove her skills. She is dedicated to the combat arts and takes her role as a Sensei seriously, showing great persistence in pursuing her dream of becoming a Skylander.",
   "story": [
     {
       "story_name": "Biography",
       "content": "Aurora is the niece of Master Eon. For years, he tried to keep her identity a secret so that she would remain safe from harm. But as she grew older, Aurora wanted nothing more than to become a Skylander, but Eon would not permit it. So without telling him, she wore a disguise and studied swordplay and combat arts under the name 'Boss Blades McSlashinator.' Soon, everyone was talking about this new mysterious hero and her amazing abilities. Even Master Eon was notably impressed, but when he learned the skilled fighter was none other than his own niece, he once again refused her entry into the Skylanders team. However, before she could protest, Eon smiled and told her it was because he was immediately promoting her to his Sensei program, where she would train the Swashbuckler Class under her true name and identity. Although he did later admit that 'Boss Blades McSlashinator' sounded pretty cool.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest/scale-to-width-down/268?cb=20161112131916"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest?cb=20161112131916"
     }
   ],
   "quotes": [
@@ -38,8 +39,9 @@
   "trivia": [
     "Solar Flare Aurora is a counterpart of Aurora in Skylanders: Imaginators.",
     "She is the niece of Master Eon.",
-    "She used the alias 'Boss Blades McSlashinator' to study swordplay.",
-    "Her English voice actor is Britt Baron, credited as Brittany Uomoleale."
+    "She used the alias 'Boss Blades McSlashinator' to study swordplay and combat arts in secret.",
+    "Her English voice actor is Britt Baron, credited as Brittany Uomoleale.",
+    "Master Eon eventually admitted that her secret alias, 'Boss Blades McSlashinator', sounded 'pretty cool'."
   ],
   "trailers": [
     {
@@ -54,7 +56,7 @@
     "basic": [
       {
         "name": "Double Sword Strike",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest/scale-to-width-down/268?cb=20161112131916",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest?cb=20161112131916",
         "content": "Perform a series of strikes with dual swords.",
         "is_primary": true,
         "is_secondary": false,
@@ -66,7 +68,7 @@
       },
       {
         "name": "Flash Dash",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest/scale-to-width-down/268?cb=20161112131916",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest?cb=20161112131916",
         "content": "A quick dash attack moving at the speed of light.",
         "is_primary": false,
         "is_secondary": true,
@@ -80,7 +82,7 @@
     "basic_upgrades": [
       {
         "name": "Light Burst",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest/scale-to-width-down/268?cb=20161112131916",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest?cb=20161112131916",
         "content": "Release a burst of light energy to damage nearby enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -92,7 +94,7 @@
       },
       {
         "name": "Sword Techniques",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest/scale-to-width-down/268?cb=20161112131916",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest?cb=20161112131916",
         "content": "Advanced sword combat techniques for increased damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -104,7 +106,7 @@
       },
       {
         "name": "Forever Runner",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest/scale-to-width-down/268?cb=20161112131916",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest?cb=20161112131916",
         "content": "Enhanced movement speed and dash capabilities.",
         "is_primary": false,
         "is_secondary": false,
@@ -118,7 +120,7 @@
     "soulgems": [
       {
         "name": "Solar Flare Sky Chi",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest/scale-to-width-down/268?cb=20161112131916",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest?cb=20161112131916",
         "content": "Aurora's ultimate Sky Chi power, unleashing a massive solar flare.",
         "is_primary": false,
         "is_secondary": false,
@@ -136,7 +138,7 @@
     {
       "id": "solar-flare-aurora",
       "variant_name": "Solar Flare Aurora",
-      "edition": "Series 1",
+      "edition": "Special Edition",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/7/74/Solar_Flare_Aurora.jpg/revision/latest?cb=20161112131916",
