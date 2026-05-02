@@ -7,8 +7,11 @@
   "role": "Mini",
   "primary_game": "Skylanders: Trap Team",
   "appearances": [
+    "The Kaos Trap",
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
+    "Skylanders Issue 3",
+    "Skylanders Issue 12",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
@@ -19,32 +22,52 @@
   "description": "Small Fry is the Mini counterpart of the Fire Skylander Fryno in Skylanders: Trap Team.",
   "biography": "The Skylander Minis started off as regular 'Sidekicks,' assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
   "quote": "Crash and Burn!",
-  "personality": "Small Fry has a short temper, just like his mentor Fryno. He always tells the truth, even when it is uncomfortable, and he absolutely despises lying and cheating.",
+  "personality": "Small Fry has a short temper. It makes him a little hot under the collar. Like his mentor, Fryno, Small Fry always tells the truth, even when others don't want to hear it. He hates it when people lie and cheat.",
   "story": [
     {
-      "story_name": "Academy Training",
-      "content": "Determined to be more than just sidekicks, Small Fry and the other Minis trained relentlessly at the Skylands Academy to prove their worth as heroes.",
+      "story_name": "Personality",
+      "content": "Small Fry has a short temper. It makes him a little hot under the collar. Like his mentor, Fryno, Small Fry always tells the truth, even when others don't want to hear it. He hates it when people lie and cheat.",
+      "hasImage": false,
+      "imgPath": "none"
+    },
+    {
+      "story_name": "Biography",
+      "content": "The Skylander Minis started off as regular 'Sidekicks,' assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
       "hasImage": false,
       "imgPath": "none"
     }
   ],
   "quotes": [
     {
+      "quote_type": "Official Catchphrase Irish",
+      "content": [
+        "Crash and Burn!"
+      ]
+    },
+    {
       "quote_type": "Battle Cries",
       "content": [
-        "Crash and Burn!",
-        "I'm no small fry!",
-        "Feeling the heat!"
+        "I'm no small fry!"
       ]
     }
   ],
   "trivia": [
     "He is the only Mini Skylander who is a counterpart of a character from Skylanders: Swap Force.",
-    "Some of his upgrades in the game code mistakenly refer to him as Fryno.",
-    "His name is a play on the idiom 'small fry', which refers to something insignificant or a young fish."
+    "He and Pet-Vac are the only Mini counterparts of core Skylanders who didn't appear in Spyro's Adventure.",
+    "Small Fry makes an appearance in Skystones Overdrive as a Skystone of the Magic element, strangely. He is also the only Skylander to appear as a Skystone before Creation Clash.",
+    "Despite his nickname, he'll say Fryno's line of 'I'm no small fry!' when checking his stats.",
+    "His name is actually a play on the name for what you would call a little 'newly hatched fish'. 'A small fry'.",
+    "Some of his upgrades mistakenly refer to him as Fryno.",
+    "Small Fry's (and Fryno's) The Horn and The Hog attack makes him one of the fastest Skylanders in the series, even surpassing Drobot's Thruster Flight."
   ],
-  "trailers": [],
-  "gameplay": "Small Fry plays identically to Fryno, utilizing fast melee punches and a high-speed motorcycle charge that allows him to zip across the battlefield.",
+  "trailers": [
+    {
+      "name": "Meet the Skylanders Small Fry",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Small_Fry"
+    }
+  ],
+  "gameplay": "Small Fry plays identically to Fryno, utilizing fast melee punches and a high-speed motorcycle charge. His 'The Horn and The Hog' attack makes him one of the fastest Skylanders in the series, even surpassing Drobot's Thruster Flight.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Small_Fry",
   "abilities": {
     "basic": [
@@ -75,7 +98,7 @@
     ],
     "basic_upgrades": [
       {
-        "name": "The Horn and The Hog",
+        "name": "The Horn And The Hog",
         "imgPath": "horn_hog_icon.png",
         "content": "Summon a flaming motorcycle to charge through enemies.",
         "is_primary": false,
@@ -129,20 +152,30 @@
       "edition": "Standard",
       "type": "Mini",
       "game": "Skylanders: Trap Team",
-      "image": "small_fry_toy.png",
+      "image": "Small_Fry_Promo.jpg",
       "attacks": [
         "Brawl",
         "Heated",
-        "The Horn and The Hog"
+        "The Horn And The Hog",
+        "Hot Hands",
+        "Born to Ride"
       ],
       "stats": [
         {
-          "stat_name": "Power",
+          "stat_name": "Strength",
           "stat_value": "90"
         },
         {
-          "stat_name": "Speed",
+          "stat_name": "Defense",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Agility",
           "stat_value": "130"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "70"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Small_Fry"
