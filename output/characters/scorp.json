@@ -70,7 +70,7 @@
     {
       "name": "Skylanders Swap Force - Meet the Skylanders - Scorp (King of the Sting)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Scorp_(King_of_the_Sting)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylands_-_Scorp_(King_of_the_Sting)"
     },
     {
       "name": "Skylanders Swap Force - Scorp Soul Gem Preview (King of the Sting)",
@@ -84,7 +84,7 @@
     "basic": [
       {
         "name": "Emerald Crystal",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Scorpprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170504145914",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Scorpprimarypower.png",
         "content": "Press Attack 1 to throw a sticky explosive ball.",
         "is_primary": true,
         "is_secondary": false,
@@ -96,7 +96,7 @@
       },
       {
         "name": "Tail Sting",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/35/Scorpsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170504145918",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/35/Scorpsecondarypower.png",
         "content": "Press Attack 2 to sting the ground nearby and poison enemies.",
         "is_primary": false,
         "is_secondary": true,
@@ -110,7 +110,7 @@
     "basic_upgrades": [
       {
         "name": "Shoulder Roll",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/Scorpbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504145924",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/36/Scorpbasicupgrade1.png",
         "content": "Hold Attack 3 to curl up into a ball and roll around, damaging enemies in the way.",
         "is_primary": false,
         "is_secondary": false,
@@ -122,7 +122,7 @@
       },
       {
         "name": "Chrome Carapace",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/68/Scorpbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504145930",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/68/Scorpbasicupgrade2.png",
         "content": "Armor is increased. New stone plating causes enemies' attacks to do less damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -134,7 +134,7 @@
       },
       {
         "name": "Crystal Ball",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Scorpbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504145934",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d1/Scorpbasicupgrade3.png",
         "content": "Hold Attack 1 to charge a crystal attack, release to smash two crystals together and throw a massive sticky ball.",
         "is_primary": false,
         "is_secondary": false,
@@ -146,7 +146,7 @@
       },
       {
         "name": "Earthly Power",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Scorpbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170504145940",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Scorpbasicupgrade4.png",
         "content": "Press Attack 1 to throw a sticky explosive crystal that now does increased damage to an enemy.",
         "is_primary": false,
         "is_secondary": false,
@@ -160,7 +160,7 @@
     "soulgems": [
       {
         "name": "Avalanche Dash",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Scorpsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170504145948",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0c/Scorpsoulgempower.png",
         "content": "Hold Attack 3 to curl up into a ball and roll around. Dashing now lasts as long as Attack 3 is held.",
         "is_primary": false,
         "is_secondary": false,
@@ -178,7 +178,7 @@
         "abilities": [
           {
             "name": "Fuming Fissure",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b6/Scorppath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504150145",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/b6/Scorppath1upgrade1.png",
             "content": "Press Attack 2 to strike the ground with a poison tail and cause a shock wave that shoots toward enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -190,7 +190,7 @@
           },
           {
             "name": "Scorpion Strike",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Scorppath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504150150",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Scorppath1upgrade2.png",
             "content": "Poison from tail strike does increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -202,7 +202,7 @@
           },
           {
             "name": "Potent Poisons",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Scorppath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504150155",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Scorppath1upgrade3.png",
             "content": "Press Attack 2 to strike with a poison tail that does damage to enemies over a longer amount of time.",
             "is_primary": false,
             "is_secondary": false,
@@ -219,7 +219,7 @@
         "abilities": [
           {
             "name": "Cracked Crystal",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7d/Scorppath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504150522",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7d/Scorppath2upgrade1.png",
             "content": "Press Attack 1 to throw a powerful, sticky explosive that now does damage to enemies in a larger area.",
             "is_primary": false,
             "is_secondary": false,
@@ -231,7 +231,7 @@
           },
           {
             "name": "Crystal Shards",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Scorppath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504150527",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/00/Scorppath2upgrade2.png",
             "content": "Emerald Crystal attacks now do even more damage. So pretty, yet so painful!",
             "is_primary": false,
             "is_secondary": false,
@@ -243,7 +243,7 @@
           },
           {
             "name": "Venomous Crystals",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Scorppath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504150529",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Scorppath2upgrade3.png",
             "content": "When Crystal Ball explodes, it splits into two smaller crystals.",
             "is_primary": false,
             "is_secondary": false,
@@ -264,7 +264,45 @@
       "edition": "Series 1",
       "type": "Core",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Scorp-promo.jpg/revision/latest?cb=20140617030938",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Scorp-promo.jpg",
+      "attacks": [
+        "Emerald Crystal",
+        "Tail Sting",
+        "Shoulder Roll",
+        "Fuming Fissure",
+        "Cracked Crystal"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "260 (max. 520)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 (max. 83)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8 (max. 58)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Scorp"
+    },
+    {
+      "id": "translucent_green_scorp",
+      "variant_name": "Translucent Green Scorp",
+      "edition": "Special",
+      "type": "Core",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/22/Green_Scorp.png",
       "attacks": [
         "Emerald Crystal",
         "Tail Sting",
