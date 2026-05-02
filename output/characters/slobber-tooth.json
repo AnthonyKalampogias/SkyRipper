@@ -11,12 +11,12 @@
     "Skylanders: Lost Islands",
     "Skylanders: Trap Team",
     "Trigger Happy Targets the Evil Kaos",
-    "Skylanders: SuperChargers",
-    "Skylanders: SuperChargers Racing",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
   "cameos": [
-    "Short Cuts: Fire Kraken"
+    "Short Cuts: Fire Kraken",
+    "Short Cuts: Slobber Tooth"
   ],
   "world": [
     "Skylands"
@@ -30,13 +30,13 @@
       "story_name": "History",
       "content": "An ancient earth beast, Slobber Tooth slumbered for thousands of years until he was awakened by two volcanic islands crashing into each other. The evil Portal Master Kaos sought him out and offered Slobber Tooth a place among his minions with the promise of great power. The turtle dinosaur rejected the offer, and in response, Kaos attacked Slobber Tooth's homeland that still housed the rest of his hibernating race. This caused Slobber Tooth to clobber Kaos and his minions into next week; his heroic deed earning him a place among the Skylanders.",
       "hasImage": false,
-      "imgPath": ""
+      "imgPath": "Slobber_Tooth_Promo_Art.jpg"
     },
     {
       "story_name": "Trigger Happy Targets the Evil Kaos",
       "content": "Slobber Tooth took part in the desperate attempt to protect the Core of Light from Kaos, who absorbed the powers of the Skylanders using the Mask of Power.",
       "hasImage": false,
-      "imgPath": ""
+      "imgPath": "Slobber_Tooth_Promo_Art.jpg"
     }
   ],
   "quotes": [
@@ -106,7 +106,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Short_Cuts_Slobber_Tooth"
     }
   ],
-  "gameplay": "Slobber Tooth attacks his enemies with his armored head and slamming his spiked tail to create a shockwave. He can also bite his opponents with his slobbery mouth, even grab them and spit them out at other enemies. Further upgrades regarding Food Fighter path will allow Slobber Tooth to swallow enemies to recover health.",
+  "gameplay": "Slobber Tooth attacks his enemies with his armored head and slamming his spiked tail to create a shockwave. He can also bite his opponents with his slobbery mouth, even grab them and spit them out at other enemies. Further upgrades regarding Food Fighter path will allow Slobber Tooth to swallow enemies to recover health. In the 3DS version, he can also use Prehistoric Chomp to inhale enemies and Tail Slam to create powerful ground-based attacks.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Slobber_Tooth",
   "abilities": {
     "basic": [
@@ -259,7 +259,7 @@
           },
           {
             "name": "Weight Gain",
-            "imgPath": "Slobber_Toothpath2upgrade2.png,is_primary:false,is_secondary:false,name:",
+            "imgPath": "Slobber_Toothpath2upgrade2.png",
             "content": "Gain a new spikey tail causing Shock wave attacks to do increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -287,7 +287,7 @@
   },
   "variants": [
     {
-      "id": "slobber-tooth",
+      "id": "slobber-tooth-s1",
       "variant_name": "Slobber Tooth",
       "edition": "Series 1",
       "type": "Core",
@@ -323,6 +323,82 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Slobber_Tooth"
+    },
+    {
+      "id": "dark-slobber-tooth",
+      "variant_name": "Dark Slobber Tooth",
+      "edition": "Dark",
+      "type": "Core",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Slobber_Tooth_Promo_Art.jpg/revision/latest?cb=20130821081127",
+      "attacks": [
+        "Horn Swipe",
+        "Chomp & Chunk",
+        "Unstoppable Force",
+        "Snot Rocket",
+        "Fling"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300 (600)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "33 (81)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30 (60)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "2 (52)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Slobber_Tooth"
+    },
+    {
+      "id": "sundae-slobber-tooth",
+      "variant_name": "Sundae Slobber Tooth",
+      "edition": "Alter Ego",
+      "type": "Core",
+      "game": "Skylanders: Lost Islands",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/3c/Slobber_Tooth_Promo_Art.jpg/revision/latest?cb=20130821081127",
+      "attacks": [
+        "Horn Swipe",
+        "Chomp & Chunk",
+        "Unstoppable Force",
+        "Snot Rocket",
+        "Fling"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "300 (600)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "33 (81)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30 (60)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "2 (52)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Sundae_Slobber_Tooth"
     }
   ]
 }
