@@ -10,11 +10,11 @@
     "Skylanders: Swap Force",
     "Skylanders: Lost Islands",
     "Skylanders: Trap Team",
-    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
   "cameos": [
-    "Skylanders: Rift into Overdrive"
+    "Rift into Overdrive"
   ],
   "world": [
     "Deep Mountain"
@@ -55,32 +55,37 @@
   ],
   "trivia": [
     "His Soul Gem Obsidian Skin changes his color to black.",
-    "His name is a play on 'rabble rouser', which can also be based on the fact that he summons angry miner allies.",
+    "His name is a play on 'rabble rouser', which can also be based on the fact that he summons angry miner allies. It might also be based on the term 'rebel rouser'.",
     "One of his upgrades, 'Miner Craft', is a reference to the game Minecraft.",
     "Occasionally, a glitch occurs where Rubble Rouser digs down and doesn't go back up.",
     "Most of the times, in Battle Mode, his Miners don't attack the other Skylander.",
     "With Tunnel Expedition, Rubble Rouser's bottom half allows him or other SWAP Force Skylanders to avoid damage while underground.",
     "He, Drill Sergeant, Ro-Bow and Grilla Drilla are the only Skylanders with drilling abilities.",
-    "He is one of the few Skylanders with a hammer for a weapon.",
-    "Despite his artwork and figure form, Rubble Rouser is actually right-handed instead of being a lefty.",
+    "He is one of the few Skylanders with a hammer for a weapon (others include Crusher, Stump Smash and Wallop).",
+    "Despite his artwork and figure form, Rubble Rouser is actually right-handed instead of being a lefty. Other Skylanders have the same situation, such as Double Trouble (Series 1), and Rattle Shake.",
     "His bottom Soul Gem, Pop Rock, may be a reference to the candy Pop Rocks.",
-    "Rubble Rouser is noticeably similar to Doom Stone.",
+    "Rubble Rouser is noticeably similar to Doom Stone: Both are Earth Skylanders. Both are SWAP Force Skylanders. Both are made of stone. Both their names are a play on different phrases.",
     "Rubble Rouser was one of the many Skylanders planned to appear in Skylanders: Ring of Heroes."
   ],
   "trailers": [
     {
-      "name": "Meet the Skylanders - Rubble Rouser",
+      "name": "Skylanders Swap Force - Meet the Skylanders - Rubble Rouser (Brace for Impact)",
       "isValid": true,
       "url": "https://www.youtube.com/watch?v=J98l_mB4qWk"
+    },
+    {
+      "name": "Skylanders Swap Force - Rubble Rouser Soul Gem Preview (Brace for Impact)",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=H7S86t6509s"
     }
   ],
-  "gameplay": "Going Clubbing (Primary Attack): Press Attack 1 to perform a hammer melee attack. Can combo up to 3 times.; Hammer Slammer (Secondary Attack): Press Attack 2 to launch a powerful overhead slam in front of you.; Dig (SWAP Force Power): Press Attack 3 to perform the Dig SWAP power. While digging, enemies cannot harm you and you can go underneath certain obstacles. When the Dig SWAP power ends, you will burst from the ground and damage nearby enemies.",
+  "gameplay": "Rubble Rouser's primary attacks include Hammer Swing (Press Attack 1 to swing a massive hammer, hold to charge more powerful swings) and Deep Dig (Press Attack 2 to quickly dig then come out of the ground, damaging nearby enemies). His SWAP Force ability is Dig, allowing him to dig underground to avoid damage and surprise enemies.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Rubble_Rouser",
   "abilities": {
     "basic": [
       {
         "name": "Hammer Swing",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d6/Rubble_Rousertopprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170504143411",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d6/Rubble_Rousertopprimarypower.png/revision/latest?cb=20170504143411",
         "content": "Press Attack 1 to swing a massive hammer. Hold to charge up more powerful swings!",
         "is_primary": true,
         "is_secondary": false,
@@ -92,7 +97,7 @@
       },
       {
         "name": "Deep Dig",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Rubble_Rouserbottomprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170504144042",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Rubble_Rouserbottomprimarypower.png/revision/latest?cb=20170504144042",
         "content": "Press Attack 2 to quickly dig then come out of the ground, damaging nearby enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -106,7 +111,7 @@
     "basic_upgrades": [
       {
         "name": "Tools of the Trade",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Rubble_Rousertopbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504143412",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/50/Rubble_Rousertopbasicupgrade1.png/revision/latest?cb=20170504143412",
         "content": "Press Attack 3 to smash nearby enemies with the hammer.",
         "is_primary": false,
         "is_secondary": true,
@@ -118,7 +123,7 @@
       },
       {
         "name": "Happy Hammering",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/Rubble_Rousertopbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504143420",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/Rubble_Rousertopbasicupgrade2.png/revision/latest?cb=20170504143420",
         "content": "All hammer attacks do increased damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -130,7 +135,7 @@
       },
       {
         "name": "Drill Head",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/32/Rubble_Rousertopbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504143418",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/32/Rubble_Rousertopbasicupgrade3.png/revision/latest?cb=20170504143418",
         "content": "Hold Attack 3 to drill into the ground, causing an earthquake!",
         "is_primary": false,
         "is_secondary": false,
@@ -142,7 +147,7 @@
       },
       {
         "name": "Minor Miners",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f8/Rubble_Rouserbottombasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504144047",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f8/Rubble_Rouserbottombasicupgrade1.png/revision/latest?cb=20170504144047",
         "content": "Press Attack 2 to dig into the ground, burst out of the ground a short time later damaging nearby enemies and summoning small angry miner allies.",
         "is_primary": false,
         "is_secondary": true,
@@ -154,7 +159,7 @@
       },
       {
         "name": "Earthy Fortitude",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Rubble_Rouserbottombasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504144053",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ad/Rubble_Rouserbottombasicupgrade2.png/revision/latest?cb=20170504144053",
         "content": "Health is increased. Tough as stone!",
         "is_primary": false,
         "is_secondary": false,
@@ -166,7 +171,7 @@
       },
       {
         "name": "Tunnel Expedition",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/24/Rubble_Rouserbottombasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504144058",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/24/Rubble_Rouserbottombasicupgrade3.png/revision/latest?cb=20170504144058",
         "content": "Hold Attack 2 to continue drilling while underground, release to surprise enemies from below with a devastating attack.",
         "is_primary": false,
         "is_secondary": false,
@@ -180,7 +185,7 @@
     "soulgems": [
       {
         "name": "Obsidian Skin",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Rubble_Rousertopsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170504143421",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Rubble_Rousertopsoulgempower.png/revision/latest?cb=20170504143421",
         "content": "Rubble's skin becomes harder than stone, decreasing damage taken.",
         "is_primary": false,
         "is_secondary": false,
@@ -192,7 +197,7 @@
       },
       {
         "name": "Pop Rock",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Rubble_Rouserbottomsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170504144104",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Rubble_Rouserbottomsoulgempower.png/revision/latest?cb=20170504144104",
         "content": "Hold Attack 2 to drill underground, release to toss a huge boulder into the sky which comes down on enemies nearby a short time later.",
         "is_primary": false,
         "is_secondary": false,
@@ -210,7 +215,7 @@
         "abilities": [
           {
             "name": "Nailed it!",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Rubble_Rousertoppath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504145131",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Rubble_Rousertoppath1upgrade1.png/revision/latest?cb=20170504145131",
             "content": "Press Attack 1 Attack 1 and then hold and release Attack 1 to throw a charged hammer attack!",
             "is_primary": false,
             "is_secondary": false,
@@ -222,7 +227,7 @@
           },
           {
             "name": "Sledgehammer",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/63/Rubble_Rousertoppath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504145247",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/63/Rubble_Rousertoppath1upgrade2.png/revision/latest?cb=20170504145247",
             "content": "Throwing the hammer does increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -239,7 +244,7 @@
         "abilities": [
           {
             "name": "Rock Shards",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/08/Rubble_Rousertoppath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504144516",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/08/Rubble_Rousertoppath2upgrade1.png/revision/latest?cb=20170504144516",
             "content": "Press Attack 3 to send shards of rock flying out of the ground damaging nearby enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -251,7 +256,7 @@
           },
           {
             "name": "Gem Quality",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/28/Rubble_Rousertoppath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504144521",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/28/Rubble_Rousertoppath2upgrade2.png/revision/latest?cb=20170504144521",
             "content": "Press Attack 3 to unearth more powerful rock shards that damage nearby enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -268,7 +273,7 @@
         "abilities": [
           {
             "name": "Boulder Toss",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/da/Rubble_Rouserbottompath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504145315",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/da/Rubble_Rouserbottompath1upgrade1.png/revision/latest?cb=20170504145315",
             "content": "Hold Attack 2 to drill underground, while underground boulders will rapidly shoot out.",
             "is_primary": false,
             "is_secondary": false,
@@ -280,7 +285,7 @@
           },
           {
             "name": "So Bold",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Rubble_Rouserbottompath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504145341",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Rubble_Rouserbottompath1upgrade2.png/revision/latest?cb=20170504145341",
             "content": "Boulders do increased damage. Getting hit with rocks really hurts.",
             "is_primary": false,
             "is_secondary": false,
@@ -297,7 +302,7 @@
         "abilities": [
           {
             "name": "Miner Craft",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/04/Rubble_Rouserbottompath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504144525",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/04/Rubble_Rouserbottompath2upgrade1.png/revision/latest?cb=20170504144525",
             "content": "Call up to four miner allies to help you defeat enemies!",
             "is_primary": false,
             "is_secondary": false,
@@ -309,7 +314,7 @@
           },
           {
             "name": "On Strike",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Rubble_Rouserbottompath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504144529",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f9/Rubble_Rouserbottompath2upgrade2.png/revision/latest?cb=20170504144529",
             "content": "Miner allies do increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -330,7 +335,7 @@
       "edition": "Series 1",
       "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Rubble_Rouser_%282%29.png/revision/latest/scale-to-width-down/268?cb=20140131013705",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Rubble_Rouser_%282%29.png/revision/latest?cb=20140131013705",
       "attacks": [
         "Hammer Swing",
         "Deep Dig",
@@ -341,23 +346,23 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "280"
+          "stat_value": "280 (max. 560)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "35"
+          "stat_value": "35 (max. 83)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "24"
+          "stat_value": "24 (max. 54)"
         },
         {
           "stat_name": "Critical Hit",
-          "stat_value": "6"
+          "stat_value": "6 (max. 56)"
         },
         {
           "stat_name": "Elemental Power",
-          "stat_value": "25"
+          "stat_value": "25 (max. 75)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Rubble_Rouser"
