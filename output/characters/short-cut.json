@@ -70,10 +70,10 @@
     {
       "name": "Skylanders Trap Team - Short Cut's Soul Gem Preview (Cut to the Chase)",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Trap_Team_-_Short_Cut%27s_Soul_Gem_Preview_(Cut_to_the_Chase)"
+      "url": "/wiki/File:Skylanders_Trap_Team_-_Short_Cut's_Soul_Gem_Preview_(Cut_to_the_Chase)"
     }
   ],
-  "gameplay": "Short Cut's playstyle revolves around his Traptanium Scissors and puppet manipulation. He can deliver quick snips or enter a cutting frenzy, and even open rifts into other dimensions. His tactical options include using a Nether Needle to pull enemies close or summoning Phantom Puppets that can be upgraded to explode or heal him. His Soul Gem ability, Scissor Stilts, provides a unique movement-based attack.",
+  "gameplay": "Short Cut is a seamster who uses magical Traptanium Shears. His playstyle focuses on close-range scissor attacks and summoning Phantom Puppets to assist him. He can upgrade his abilities to include a Nether Needle for crowd control and a powerful Soul Gem move called Scissor Stilts. In the 3DS version, he also utilizes a Scissors Charge and Needle Throw. His starting statistics are 280 Health, 70 Speed, 18 Armor, 80 Critical Hit, and 39 Elemental Power.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Short_Cut",
   "abilities": {
     "basic": [
@@ -254,7 +254,7 @@
   },
   "variants": [
     {
-      "id": "short-cut",
+      "id": "short-cut-s1",
       "variant_name": "Short Cut",
       "edition": "Series 1",
       "type": "Trap Master",
