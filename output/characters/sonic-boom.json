@@ -118,7 +118,7 @@
     "While on promotional art she looks dark blue, Sonic Boom looks black and navy blue in toy form.",
     "She is missing her armour in most of her upgrade pictures in Spyro's Adventure.",
     "Sonic Boom is one of the few mothers in the Skylanders series (another includes Kaos' Mom).",
-    "She is one of the few Skylanders to have 'Boom' in her name.",
+    "Sonic Boom is one of the few Skylanders to have 'Boom' in her name (others include Boom Bloom, Boomer, Boom Jet, Ka-Boom and Shroomboom).",
     "Sonic Boom and Black Canary from the DC Universe share the same power: Ultrasonic Scream.",
     "Sonic Boom's babies are programmed as enemies in Spyro's Adventure, which means that they count toward levels' enemy goals when defeated. Additionally, the babies can be squashed by a pushblock like other foes, and if they touch a candlestick in the crypt levels, they will take 100 damage and die."
   ],
@@ -136,10 +136,10 @@
     {
       "name": "Skylanders Giants - Meet the Skylanders - Series 2 Sonic Boom (Full Scream Ahead)",
       "isValid": false,
-      "url": "/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Series_2_Sonic_Boom_(Full_Scream_Ahead)"
+      "url": "/wiki/File:Skylanders_Giants_-_Meet_the_Skylands_-_Series_2_Sonic_Boom_%28Full_Scream_Ahead%29"
     }
   ],
-  "gameplay": "Sonic Boom has the ability to shoot sonic waves from her mouth at her enemies. She can also toss out her eggs and her hatchlings will emerge out of their eggshells to attack surrounding enemies and follow Sonic Boom around for a short while, and they can also grow over time, improving their damage output, and a later upgrade lets them develop wings to help their movement speed increase. After a while, they magically return to their eggshells due to the wizard's curse and must be released from their eggs again before repeating the attacking process. The babies also return to their eggshells when damaged enough, ready to be hatched again. Enemies will also try to target the babies as well, so Sonic Boom can use them to set them up for a roar attack. With the Medea Griffin path, her babies become more powerful. Her first upgrade, Sunny Side Up, allows her to summon all three babies at once and also use the actual eggs to knock away opponents, making it easier for her roar to damage them. The second upgrade, Sibling Rivalry, allows her to summon a fourth baby, further increasing the possible damage output. Her final upgrade, Terrible Twos, has her babies hatch at their maximum strength, giving them the speed benefit in the beginning, as well as giving them a faster attack speed. With the Siren Griffin path, her roar becomes more effective. Her first upgrade, Echolocation, creates a sound wave wherever a roar hits an enemy, damaging nearby opponents. Since she can move while roaring, she can create multiple shockwaves that can hit clustered enemies multiple times. Her second upgrade, Egg Shocker, has her create a shockwave that knocks opponents away if her roar hits an egg. Finally, her third upgrade, More Boom!, lets her charge up a massive sound wave that hits all around her for massive damage.",
+  "gameplay": "Sonic Boom has the ability to shoot sonic waves from her mouth at her enemies. She can also toss out her eggs and her hatchlings will emerge out of their eggshells to attack surrounding enemies and follow Sonic Boom around for a short while, and they can also grow over time, improving their damage output, and a later upgrade lets them develop wings to help their movement speed increase. After a while, they magically return to their eggshells due to the wizard's curse and must be released from their eggs again before repeating the attacking process. The babies also return to their eggshells when damaged enough, ready to be hatched again. Enemies will also try to target the babies as well, so Sonic Boom can use them to set them up for a roar attack. With the Medea Griffin path, her babies become more powerful. Her first upgrade, Sunny Side Up, allows her to summon all three babies at once and also use the actual eggs to knock away opponents, making it easier for her roar to damage them. The second upgrade, Sibling Rivalry, allows her to summon a fourth baby, further increasing the possible damage output. Her final upgrade, Terrible Twos, has her babies hatch at their maximum strength, giving them the speed benefit in the beginning, as well as giving them a faster attack speed. In summary, this path makes her babies much effective at distracting or even defeating opponents, letting her deal with individual enemies more easily. With the Siren Griffin path, her roar becomes more effective. Her first upgrade, Echolocation, creates a sound wave wherever a roar hits an enemy, damaging nearby opponents. Since she can move while roaring, she can create multiple shockwaves that can hit clustered enemies multiple times. Her second upgrade, Egg Shocker, has her create a shockwave that knocks opponents away if her roar hits an egg. Finally, her third upgrade, More Boom!, lets her charge up a massive sound wave that hits all around her for massive damage. In summary, this path increases Sonic Boom's crowd control ability; she not only gains a relatively quick attack that can clear opponents surrounding her, but her roar allows her defeat entire clusters of enemies more easily. Her Wow Pow allows her hatchlings to merge into a larger, and more powerful griffin baby which can exist at the same time as the other babies if they are thrown out afterward, while her Soul Gem allows her to increase the damage output and range of her hatchlings. In Terrafin Battles the Boom Brothers, it is stated that Sonic Boom's roar is powerful enough to knock down trees and even dislodge mountains.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Sonic_Boom",
   "abilities": {
     "basic": [
@@ -339,7 +339,7 @@
       "edition": "Series 1",
       "type": "Core Skylander",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Sonic_Boom_shot.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/d8/Sonic_Boom_shot.jpg/revision/latest?cb=20111229144309",
       "attacks": [
         "Sonic Roar",
         "Egg Toss",
@@ -367,6 +367,22 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "55"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Sonic_Boom"
@@ -377,7 +393,7 @@
       "edition": "Series 2",
       "type": "Core Skylander",
       "game": "Skylanders: Giants",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/5/55/Sonic_Boom_Series_2.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/5/55/Sonic_Boom_Series_2.jpg/revision/latest?cb=20121213185630",
       "attacks": [
         "Sonic Roar",
         "Egg Toss",
@@ -405,6 +421,22 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "65"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "85"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "70"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Sonic_Boom"
