@@ -11,7 +11,7 @@
     "Skylanders: Lost Islands",
     "Skylanders: Trap Team",
     "Rift into Overdrive",
-    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Battlecast",
     "Biting Back",
     "Skylanders: Imaginators",
@@ -179,7 +179,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Roller_Brawl_Soul_Gem_Preview_(Let%27s_Roll)"
     }
   ],
-  "gameplay": "Roller Brawl can use the claws on her gloves to slash at enemies. She can also launch her skate blades as well as use them to travel at high speeds. After dashing, she headbutts enemies to deliver a high amount of damage. She can even closeline enemies while dashing and - when her Soul Gem is purchased - create a cursed energy link between herself and an enemy. Regardless of which upgrade path is chosen, Roller Brawl focuses exclusively on offense, though with different benefits and through different methods.",
+  "gameplay": "Roller Brawl can use the claws on her gloves to slash at enemies. She can also launch her skate blades as well as use them to travel at high speeds. After dashing, she headbutts enemies to deliver a high amount of damage. She can even closeline enemies while dashing and - when her Soul Gem is purchased - create a cursed energy link between herself and an enemy. Should a Portal Master choose the Shadow Skater path, Roller Brawl gains enhanced Derby Dash abilities. With the Pirouette and Bullrush abilities, she can extend her dash attack in several ways, by either repeatedly spinning or by charging an enemy and then continuing her dash with absolute aggression. With the Hardened Helm, she gains more Armor. Should a Portal Master choose the Skateblade Siren path, Roller Brawl gains enhanced Skateblade abilities. While the attack itself doesn't get any more powerful, she can use them in more ways, such as creating a protective field around her that slices through enemies or dropping them behind her during a Derby Dash to immobolize her enemies. With the Critical Claws, she gains a boost in her Critical Hit chance. Regardless of which upgrade path is chosen, Roller Brawl - rather appropriately - focuses exclusively on offense, though with different benefits and through different methods. In Skylanders: Battlecast, Roller Brawl is a rare Skylander card with high damage output and many abilities relating to moving from sidelines to the front. Her Special Ability is Fearsome Charge, which allows her to deal extra damage to the opponent in the one turn, dealing more if she switched in that turn. Her signature Gear are the Blades of Gory, which damage the active enemy when she switches.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Roller_Brawl",
   "abilities": {
     "basic": [
@@ -211,7 +211,7 @@
     "basic_upgrades": [
       {
         "name": "Skateblades",
-        "imgPath": "Roller_Brawlbasic_upgrade1.png",
+        "imgPath": "Roller_Brawlbasicupgrade1.png",
         "content": "Press Attack 3 to shoot Skateblades that travel along the ground towards enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -223,7 +223,7 @@
       },
       {
         "name": "Impact Skater",
-        "imgPath": "Roller_Brawlbasic_upgrade2.png",
+        "imgPath": "Roller_Brawlbasicupgrade2.png",
         "content": "All attacks while dashing do increased damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -235,7 +235,7 @@
       },
       {
         "name": "Deadly Clothesline",
-        "imgPath": "Roller_Brawlbasic_upgrade3.png",
+        "imgPath": "Roller_Brawlbasicupgrade3.png",
         "content": "Hold Attack 2 to charge a dash, release to dash forward and clothesline any enemies in the way.",
         "is_primary": false,
         "is_secondary": false,
@@ -247,7 +247,7 @@
       },
       {
         "name": "Aggression",
-        "imgPath": "Roller_Brawlbasic_upgrade4.png",
+        "imgPath": "Roller_Brawlbasicupgrade4.png",
         "content": "New sharpened blades make claw attacks do increased damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -365,7 +365,7 @@
       "edition": "Series 1",
       "type": "Core Skylander",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/8/8c/Roller_Brawl2.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/8c/Roller_Brawl2.jpg/revision/latest?cb=20130821200659",
       "attacks": [
         "Roller Claws",
         "Derby Dash",
@@ -376,7 +376,7 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "260"
+          "stat_value": "260 (Lv. 20: 780)"
         },
         {
           "stat_name": "Speed",
@@ -396,6 +396,28 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Roller_Brawl"
+    },
+    {
+      "id": "snowler-brawl",
+      "variant_name": "Snowler Brawl",
+      "edition": "Variant",
+      "type": "Core Skylander",
+      "game": "Skylanders: Lost Islands",
+      "image": "",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Snowler_Brawl"
+    },
+    {
+      "id": "bone-bash-roller-brawl",
+      "variant_name": "Bone Bash Roller Brawl",
+      "edition": "Variant",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "",
+      "attacks": [],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Bone_Bash_Roller_Brawl"
     }
   ]
 }
