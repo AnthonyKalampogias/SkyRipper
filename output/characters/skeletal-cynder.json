@@ -16,8 +16,15 @@
   "description": "Skeletal Cynder has risen from the darkness to join the Skylands!",
   "biography": "Skeletal Cynder is the Halloween 2013 counterpart of Cynder in Skylanders: Lost Islands.",
   "quote": "Skeletal Cynder has risen from the darkness to join the Skylands!",
-  "personality": "",
-  "story": [],
+  "personality": "Not much is known about Skeletal Cynder's personality, though she has risen from the darkness to join the Skylanders.",
+  "story": [
+    {
+      "story_name": "Halloween 2013",
+      "content": "Skeletal Cynder is the Halloween 2013 counterpart of Cynder in Skylanders: Lost Islands.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
   "quotes": [
     {
       "quote_type": "Description",
@@ -31,7 +38,7 @@
     "She is also the first female Lost Islands exclusive, the second being Snowler Brawl."
   ],
   "trailers": [],
-  "gameplay": "",
+  "gameplay": "Skeletal Cynder is a Halloween 2013 Alter Ego counterpart of Cynder exclusive to Skylanders: Lost Islands.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Skeletal_Cynder",
   "abilities": {
     "basic": [],
@@ -44,8 +51,8 @@
     {
       "id": "skeletal-cynder",
       "variant_name": "Skeletal Cynder",
-      "edition": "Series 1",
-      "type": "Core",
+      "edition": "Halloween 2013",
+      "type": "Alter Ego",
       "game": "Skylanders: Lost Islands (October 2013)",
       "image": "https://static.wikia.nocookie.net/skylanders/images/6/6f/Skeletal_Cynder.jpg/revision/latest?cb=20131114033837",
       "attacks": [],
