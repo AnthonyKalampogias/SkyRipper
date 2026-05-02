@@ -36,14 +36,21 @@
     }
   ],
   "trivia": [
-    "Songs played with Asian instruments play when Senseis enter the game or use their Sky-Chi.",
+    "Songs played with Asian instruments play when Senseis enter the game or use their Sky-Chi, while villains play the start of their Trap Team Villain Themes, with the exception of Golden Queen, who only plays it during her Sky-Chi.",
     "Three of the former Villains have changed Elements between games (Grave Clobber, Hood Sickle, and Tae Kwon Crow).",
-    "The icon for Senseis is a stylized version of Ember's helmet, known in real life as a Kabuto, a traditional helmet for Japanese warriors.",
+    "The icon for Senseis is a stylized version of Ember's helmet lacking the fire symbol, known in real life as a type of Kabuto, a traditional helmet for Japanese warriors.",
     "King Pen and Grave Clobber are both Brawler Senseis of the Water Element.",
-    "Most Elements and Battle Classes have three Senseis each, with Kaos being the exception as the only Sensei of the Kaos Element.",
+    "Hood Sickle, Chain Reaction and Dr. Krankcase are the only male Senseis of their Battle Classes.",
+    "Tri-Tip and Blaster-Tron are the only male Senseis of their Elements.",
+    "Barbella's Element and class contain more female Senseis than males.",
+    "The Dark, Magic and Tech elements do not have any female Senseis.",
+    "There are no female Bazookers, Bowslingers, Brawlers or Knights.",
+    "The Chompy Mage is the only villain Sensei not to originate from Trap Team (Kaos's Clone does not count). He first appeared in Skylanders: Giants.",
     "Senseis are currently the only Skylanders incapable of changing upgrade paths without resetting.",
     "Senseis are the only Skylanders who cannot wear hats.",
-    "All Master Senseis wear a golden belt around their waists."
+    "All Master Senseis wear a golden belt around their waists.",
+    "Heartbreaker Buckshot was planned to be released, but was scrapped at the last minute due to looking 'too evil'.",
+    "The Senseis have the most bird Skylanders out of all non-Core Skylander classifications, having King Pen, Tae Kwon Crow, and Birdie, Air Strike's partner."
   ],
   "trailers": [
     {
@@ -58,7 +65,7 @@
     "basic": [
       {
         "name": "Battle Class Mastery",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Senseis.png/revision/latest?cb=20160902002408",
         "content": "Each Sensei is a master of one of the ten fighting styles, or Battle Classes, and can use unique weapons and techniques associated with their discipline.",
         "is_primary": true,
         "is_secondary": false,
@@ -70,7 +77,7 @@
       },
       {
         "name": "Secret Techniques",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Senseis.png/revision/latest?cb=20160902002408",
         "content": "Senseis provide access to special areas in the game and bestow Secret Techniques across the Battle Classes to Imaginators.",
         "is_primary": false,
         "is_secondary": true,
@@ -85,7 +92,7 @@
     "soulgems": [
       {
         "name": "Sky-Chi",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Senseis.png/revision/latest?cb=20160902002408",
         "content": "The ultimate Battle Class super move. This extraordinary ability is unique to Senseis and allows them to perform a devastating attack that can clear the battlefield.",
         "is_primary": false,
         "is_secondary": false,
