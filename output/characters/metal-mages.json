@@ -20,7 +20,7 @@
   "story": [
     {
       "story_name": "Character Development",
-      "content": "Vimeo demo reels and Skylanders: Giants behind-the-scenes footage were the only hints that this character had a bigger role for some time, until Nat Loh's character design portfolio had more details. Though they first started as inspired by Boomer, the developer received the concept art for Rocky Roll instead and worked Metal Mage's abilities into them. His abilities involved creating metal balls that he could combine into various weapons such as a giant metal hammer or a metal battering ram.",
+      "content": "Vimeo demo reels and Skylanders: Giants behind-the-scenes footage were the only only hints that this character had a bigger role for some time, until Nat Loh's character design portfolio had more details. Though they first started as inspired by Boomer, the developer received the concept art for Rocky Roll instead and worked Metal Mage's abilities into them. His abilities involved creating metal balls that he could combine into various weapons such as a giant metal hammer or a metal battering ram.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/I-wei-huang-newtornado1-metalmage.jpg/revision/latest?cb=20210707195204"
     },
@@ -31,14 +31,7 @@
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/92/Mystic_Mill_Unknown_Enemy.jpg/revision/latest?cb=20160108135018"
     }
   ],
-  "quotes": [
-    {
-      "quote_type": "Character Development",
-      "content": [
-        "His abilities involved creating metal balls that he could combine into various weapons such as a giant metal hammer or a metal battering ram."
-      ]
-    }
-  ],
+  "quotes": [],
   "trivia": [
     "Had Metal Mage actually been playable, he would've been the first character with metal abilities not in Tech.",
     "He would have also been the second Troll to be a Skylander.",
