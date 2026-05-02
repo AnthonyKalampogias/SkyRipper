@@ -80,15 +80,15 @@
         "Back in the game!",
         "I'll take it from here!",
         "Up high!",
-        "Feeling the power surge!",
-        "Power blast!",
+        "Feeling the power surge! - when Traptanium Bow & Arrow glows",
+        "Power blast! - when leveling up",
         "Croc-tastic!",
-        "A fine bounty!",
-        "Looking solid as a croc!",
-        "Even more amazing than I thought!",
-        "A big name for a big hero!",
+        "A fine bounty! - when opening a treasure chest",
+        "Looking solid as a croc! - when checking out stats",
+        "Even more amazing than I thought! - when checking out stats",
+        "A big name for a big hero! - when given a nickname",
         "I could get used to this name.",
-        "I look good in any hat!",
+        "I look good in any hat! - when given a hat",
         "This hat should tide me over from air!",
         "Croc-a-bye baby!"
       ]
@@ -153,7 +153,7 @@
     }
   ],
   "trivia": [
-    "Throughout the main series, IDW comics and commericals, Snap Shot seems to be ambidextrous, switching between left and right hands to hold his bow and traptanium arrows.",
+    "Throughout the main series, IDW comics and commercials, Snap Shot seems to be ambidextrous, switching between left and right hands to hold his bow and traptanium arrows.",
     "Both Snap Shot and Dino-Rang are reptilian Skylanders that use a projectile weapon. Both Skylanders also speak with an Australian accent.",
     "He is similar to King Pen, the leader of the Senseis, as both are of the Water element and lead an elite team of Skylanders.",
     "Prior to Imaginators, he and Flameslinger were the only two Skylanders to wield an archery set.",
@@ -404,6 +404,120 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Snap_Shot"
+    },
+    {
+      "id": "dark-snap-shot",
+      "variant_name": "Dark Snap Shot",
+      "edition": "Dark",
+      "type": "Trap Master",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Dark_Snap_Shot.jpg",
+      "attacks": [
+        "Traptanium Arrows",
+        "Crystal Slam",
+        "Sure Shot Croc",
+        "Arrowsplosion",
+        "Big Wave Torrent"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (max. 580)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 (max. 118)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46 (max. 96)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Snap_Shot"
+    },
+    {
+      "id": "instant-snap-shot",
+      "variant_name": "Instant Snap Shot",
+      "edition": "Instant",
+      "type": "Trap Master",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/26/Snap_Shot_Promo.jpg",
+      "attacks": [
+        "Traptanium Arrows",
+        "Crystal Slam",
+        "Sure Shot Croc",
+        "Arrowsplosion",
+        "Big Wave Torrent"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (max. 580)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 (max. 118)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46 (max. 96)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Snap_Shot"
+    },
+    {
+      "id": "merry-snap-shot",
+      "variant_name": "Merry Snap Shot",
+      "edition": "Holiday",
+      "type": "Trap Master",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Merry_Snap_Shot.png",
+      "attacks": [
+        "Traptanium Arrows",
+        "Crystal Slam",
+        "Sure Shot Croc",
+        "Arrowsplosion",
+        "Big Wave Torrent"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "290 (max. 580)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "70 (max. 118)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "46 (max. 96)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Merry_Snap_Shot"
     }
   ]
 }
