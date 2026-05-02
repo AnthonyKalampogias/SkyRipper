@@ -24,7 +24,14 @@
   "biography": "Scarlet Ninjini is the red variant of the Magic Giant, Ninjini.",
   "quote": "Any last wishes?",
   "personality": "Not explicitly mentioned in source.",
-  "story": [],
+  "story": [
+    {
+      "story_name": "Overview",
+      "content": "Scarlet Ninjini is the red variant of the Magic Giant, Ninjini.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
   "quotes": [],
   "trivia": [
     "Scarlet Ninjini resembles Eden from the Aladdin TV series. Both are female genies, green-skinned and have black ponytail hair.",
