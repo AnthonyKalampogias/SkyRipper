@@ -7,7 +7,8 @@
   "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Battlecast",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
@@ -29,7 +30,7 @@
     },
     {
       "story_name": "Background",
-      "content": "Personality: As his name suggests, Smash Hit loves demolishing objects (particularly remnants of the Arkeyans that were too dangerous to leave rusting). However when not battling evil, he tends to destroy old objects at the Skylanders Academy that no longer prove useful to its inhabitants (Buzz in particular). He is also a real chatterbox when having a conversation, as revealed in his interactions with Buzz during his Quests in SuperChargers. Biography: Smash Hit came from a long line of Warsupials - a rare species widely renowned for their skills in combat. But in more peaceful times, his people were responsible for locating and demolishing any remaining artifacts from the Arkeyan Empire that were deemed too dangerous to leave standing. Smash Hit liked his job because it allowed him to do what he loved most - break things! He was so skillful with his wrecking ball that he could single-handedly dismantle an entire Arkeyan Conquertron in under an hour and still have time for a snack. When Master Eon noticed his skill, he enlisted the talented Warsupial into a new wrecking crew he was forming to take on Kaos - the SuperChargers!",
+      "content": "Smash Hit loves demolishing objects (particularly remnants of the Arkeyans that were too dangerous to leave rusting). He came from a long line of Warsupials - a rare species widely renowned for their skills in combat. In more peaceful times, his people were responsible for locating and demolishing any remaining artifacts from the Arkeyan Empire that were deemed too dangerous to leave standing. Smash Hit was so skillful with his wrecking ball that he could single-handedly dismantle an entire Arkeyan Conquertron in under an hour. When Master Eon noticed his skill, he enlisted the talented Warsupial into a new wrecking crew formed to take on Kaos - the SuperChargers!",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e7/Smash_Hit_Promo.jpg/revision/latest?cb=20151006092205"
     }
@@ -103,7 +104,7 @@
         "What's up?",
         "Somebody's looking for trouble!",
         "I'm here!",
-        "Hey, take a break,pal!",
+        "Hey, take a break, pal!",
         "C'mooon, really?",
         "Easy there!",
         "Breaking new ground!"
@@ -112,8 +113,7 @@
   ],
   "trivia": [
     "Smash Hit's voice actor, Rob Paulsen, is best known for his voice work in the 1987 and 2012 versions of Teenage Mutant Ninja Turtles as Raphael and Donatello, respectively, Yakko Warner and Dr. Otto Scratchansniff from Animaniacs, Pinky from Pinky and the Brain and Animaniacs, Carl Wheezer from Jimmy Neutron, Broccoli Overlord from The High Fructose Adventures of the Annoying Orange, Arthur from The Tick, and the announcer for Funniest Pets & People.",
-    "He, Shroomboom, Eye-Brawl, Magna Charge, Rocky Roll (Rocky part), Eye-Small, Dive-Clops and Ro-Bow are the only Skylanders with one eye.",
-    "Smash Hit is the only one among them who is not a cyclops.",
+    "He, Shroomboom, Eye-Brawl, Magna Charge, Rocky Roll (Rocky part), Eye-Small, Dive-Clops and Ro-Bow are the only Skylanders with one eye. Smash Hit is the only one among them who is not a cyclops.",
     "His face resembles Conker the squirrel from the Rare video games Conker's Pocket Tales and Conker's Bad Fur Day.",
     "He and Ghost Roaster have spiked balls at the end of their chains.",
     "Both Smash Hit and Buzz have eyepatches over their right eye.",
@@ -129,7 +129,7 @@
     {
       "name": "Skylanders SuperChargers - Smash Hit Soul Gem Preview (Let's Rock)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Smash_Hit_Soul_Gem_Preview_(Let%27s_Rock)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Smash_Hit_Soul_Gem_Preview_(Let's_Rock)"
     },
     {
       "name": "Meet the Skylanders SuperChargers Smash Hit and Thump Truck",
@@ -137,7 +137,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_SuperChargers_Smash_Hit_and_Thump_Truck"
     }
   ],
-  "gameplay": "Smash Hit can use his large ball and chain to crush enemies in various ways, and detach them to attack with the chain and leave the ball attacking on its own. In Skylanders: Battlecast, he can also summon the Thump Truck via rift to run over enemies quickly, and cause a shockwave that temporarily immobilizes enemies. His special ability is Ground Pound, ensnaring an enemy, and his signature gear is the Rip Chain.",
+  "gameplay": "Smash Hit can use his large ball and chain to crush enemies in various ways, and detach them to attack with the chain and leave the ball attacking on its own. In Skylanders: Battlecast, he can also summon the Thump Truck via rift to run over enemies quickly, and cause a shockwave that temporarily immobilizes enemies. His special ability is Ground Pound, ensnaring an enemy, and his signature gear is the Rip Chain, which only gives him a small boost in attack but also makes him retaliate when he is attacked directly. His scrapped signature Relic is the Cement Slinger, which adds up to debuffs by damaging the targets.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Smash_Hit",
   "abilities": {
     "basic": [
@@ -354,6 +354,44 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Smash_Hit"
+    },
+    {
+      "id": "steel-plated-smash-hit",
+      "variant_name": "Steel Plated Smash Hit",
+      "edition": "Special Edition",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e7/Smash_Hit_Promo.jpg/revision/latest?cb=20151006092205",
+      "attacks": [
+        "Demolisher",
+        "Crushinator",
+        "Connect and Disconnect",
+        "Heap",
+        "G'Day"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "350 (max. 700)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "35 (max. 83)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "24 (max. 54)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "2 (max. 52)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Steel_Plated_Smash_Hit"
     }
   ]
 }
