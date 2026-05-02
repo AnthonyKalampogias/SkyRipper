@@ -38,11 +38,30 @@
     "An indirect reference to Sir Hoodington's 'mascot' role is made in the book A Portal Master's Guide to Skylands, where he is identified as 'one of the most prominent Imaginators'.",
     "Additionally, he is stated to have proved himself invaluable in the fight against Kaos and his Doomlanders."
   ],
-  "trailers": [],
-  "gameplay": "Sir Hoodington is a Knight of the Fire element who uses a Laserblade as his weapon.",
+  "trailers": [
+    {
+      "name": "Official Skylanders Imaginators Create Your Own Fire Skylander",
+      "isValid": true,
+      "url": "https://www.youtube.com/watch?v=_PAueFllRTI"
+    }
+  ],
+  "gameplay": "Sir Hoodington is a Knight of the Fire element who uses a Laserblade as his weapon. He was featured as the main example character for the Fire Knight class during the promotion of Skylanders: Imaginators.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Sir_Hoodington",
   "abilities": {
-    "basic": [],
+    "basic": [
+      {
+        "name": "Laserblade",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/59/Sir_Hoodington.png/revision/latest/scale-to-width-down/268?cb=20161231001521",
+        "content": "Sir Hoodington wields a Laserblade as his primary weapon, striking down enemies with fiery precision.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#ff4500",
+          "bg_content": "#ffebcd"
+        }
+      }
+    ],
     "basic_upgrades": [],
     "soulgems": [],
     "wow_pows": [],
