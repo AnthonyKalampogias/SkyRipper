@@ -25,7 +25,7 @@
   "story": [
     {
       "story_name": "Background",
-      "content": "Shark Shooter Terrafin is the SuperChargers counterpart of Terrafin in Skylanders: SuperChargers. His signature vehicle is the Shark Tank.",
+      "content": "Shark Shooter Terrafin is the SuperChargers counterpart of Terrafin in Skylanders: SuperChargers. His signature vehicle is the Shark Tank. Having once been a prize-fighter in the Dirt Seas, he now uses his boxing expertise and shark-rocket artillery to defend Skylands.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Shark_Shooter_Terrafin.jpg/revision/latest?cb=20150619191845"
     }
@@ -60,8 +60,9 @@
   "trivia": [
     "Shark Shooter Terrafin's name is a play on 'sharpshooter'.",
     "All of Shark Shooter Terrafin's Ring of Heroes abilities start with the letter S.",
-    "The latest known concept art of Shark Shooter Terrafin depicts him with orange goggles. Alternate concepts include him wearing orange boxing gloves, wielding a shovel, and wearing a safari hat.",
+    "The latest known concept art of Shark Shooter Terrafin depicts him with orange goggles. At one point he is also depicted riding a shark-toothed rocket while holding a remote, suggesting that this ability was one considered for his moveset. Alternate concepts include him wearing orange boxing gloves, wielding a shovel, and wearing a safari hat, leather jacket, and dog tags around his neck.",
     "He and Super Shot Stealth Elf are the only two SuperCharger versions of previous Skylanders to appear in Skylanders: Ring of Heroes.",
+    "Unlike Super Shot Stealth Elf, Shark Shooter Terrafin's regular counterpart does not make an appearance in the game.",
     "There was a planned chase variant of Shark Shooter Terrafin with a green camo-print look that never made it into production."
   ],
   "trailers": [
@@ -73,16 +74,16 @@
     {
       "name": "Skylanders SuperChargers - Shark Shooter Terrafin's Soul Gem Preview (It's Feeding Time)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Shark_Shooter_Terrafin%27s_Soul_Gem_Preview_(It%27s_Feeding_Time)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Shark_Shooter_Terrafin's_Soul_Gem_Preview_(It's_Feeding_Time)"
     }
   ],
-  "gameplay": "Shark Shooter Terrafin focuses on ranged artillery and subterranean mobility. He fires rockets that burrow and emerge under enemies, and his Earth Swim ability allows him to traverse the battlefield safely underground before surfacing with powerful splash attacks or calling upon his shark squadron for support.",
+  "gameplay": "Shark Shooter Terrafin focuses on ranged artillery and subterranean mobility. He fires shark rockets using Ballistic Frenzy and can burrow underground with Earth Swim Blast. His Slam Support allows him to knock back enemies or launch shark allies while submerged. He can further specialize in the Shark Team Squadron path to summon Land Sharks or the All Terrain Trooper path to enhance his underground speed and perform Mega Boomflops.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Shark_Shooter_Terrafin",
   "abilities": {
     "basic": [
       {
         "name": "Ballistic Frenzy",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Shark_Shooter_Terrafinprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170504164549",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Shark_Shooter_Terrafinprimarypower.png/revision/latest?cb=20170504164549",
         "content": "Press Attack 1 to fire shark rockets that burrow into the ground.",
         "is_primary": true,
         "is_secondary": false,
@@ -94,7 +95,7 @@
       },
       {
         "name": "Earth Swim Blast",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Shark_Shooter_Terrafinsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170504164550",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Shark_Shooter_Terrafinsecondarypower.png/revision/latest?cb=20170504164550",
         "content": "Press Attack 2 to burrow into the ground. Press Attack 1 to emerge and shoot a rocket at the ground.",
         "is_primary": false,
         "is_secondary": true,
@@ -108,7 +109,7 @@
     "basic_upgrades": [
       {
         "name": "Slam Support",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Shark_Shooter_Terrafinbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504164553",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Shark_Shooter_Terrafinbasicupgrade1.png/revision/latest?cb=20170504164553",
         "content": "Press Attack 3 to slam the gun on the ground and knockback nearby enemies. Press Attack 3 during Earth Swim Blast to launch a shark ally that will attack nearby enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -120,7 +121,7 @@
       },
       {
         "name": "Seek or Swim",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/48/Shark_Shooter_Terrafinbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504164556",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/48/Shark_Shooter_Terrafinbasicupgrade2.png/revision/latest?cb=20170504164556",
         "content": "Ballistic Frenzy rockets do more damage to enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -132,7 +133,7 @@
       },
       {
         "name": "Surface to Air to Surface Missiles",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Shark_Shooter_Terrafinbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504164603",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Shark_Shooter_Terrafinbasicupgrade3.png/revision/latest?cb=20170504164603",
         "content": "Hold Attack 3 to fire rockets into the ground that emerge and land on enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -144,7 +145,7 @@
       },
       {
         "name": "Seconds, Please",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Shark_Shooter_Terrafinbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170504164606",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/58/Shark_Shooter_Terrafinbasicupgrade4.png/revision/latest?cb=20170504164606",
         "content": "Ballistic Frenzy rockets now hit enemies twice.",
         "is_primary": false,
         "is_secondary": false,
@@ -158,7 +159,7 @@
     "soulgems": [
       {
         "name": "Sand Snare",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/eb/Shark_Shooter_Terrafinsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170504164609",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/eb/Shark_Shooter_Terrafinsoulgempower.png/revision/latest?cb=20170504164609",
         "content": "During Earth Swim Blast, press Jump to create a sand whirlpool to trap enemies in.",
         "is_primary": false,
         "is_secondary": false,
@@ -176,7 +177,7 @@
         "abilities": [
           {
             "name": "Three Best Fins",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Shark_Shooter_Terrafinpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504165442",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Shark_Shooter_Terrafinpath1upgrade1.png/revision/latest?cb=20170504165442",
             "content": "Press Attack 3 during Earth Swim Blast to launch three sharks.",
             "is_primary": false,
             "is_secondary": false,
@@ -188,7 +189,7 @@
           },
           {
             "name": "What Goes Up...",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Shark_Shooter_Terrafinpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504165444",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/30/Shark_Shooter_Terrafinpath1upgrade2.png/revision/latest?cb=20170504165444",
             "content": "S.A.S missiles do more damage on the way up and on the way down.",
             "is_primary": false,
             "is_secondary": false,
@@ -200,7 +201,7 @@
           },
           {
             "name": "Land Shark",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cb/Shark_Shooter_Terrafinpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504165447",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cb/Shark_Shooter_Terrafinpath1upgrade3.png/revision/latest?cb=20170504165447",
             "content": "Hold Attack 1 and release to fire a mortar that summons a sand whirlpool and a large land shark.",
             "is_primary": false,
             "is_secondary": false,
@@ -217,7 +218,7 @@
         "abilities": [
           {
             "name": "Mentor Program",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Shark_Shooter_Terrafinpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170504165448",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Shark_Shooter_Terrafinpath2upgrade1.png/revision/latest?cb=20170504165448",
             "content": "Press Attack 3 during Earth Swim Blast to make a bigger shark ally that lasts longer, can hit enemies multiple times and does more damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -229,7 +230,7 @@
           },
           {
             "name": "Finesse",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/41/Shark_Shooter_Terrafinpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170504165452",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/41/Shark_Shooter_Terrafinpath2upgrade2.png/revision/latest?cb=20170504165452",
             "content": "Earth Swim Blast speed is increased and enemies are damaged by the fancy new fin.",
             "is_primary": false,
             "is_secondary": false,
@@ -241,7 +242,7 @@
           },
           {
             "name": "Mega Boomflop",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2f/Shark_Shooter_Terrafinpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170504165458",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2f/Shark_Shooter_Terrafinpath2upgrade3.png/revision/latest?cb=20170504165458",
             "content": "During Earth Swim Blast, press Attack 1 to fire rockets and perform a powerful bellyflop that knocks back enemies.",
             "is_primary": false,
             "is_secondary": false,
