@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-03T03:12:34.368Z",
+  "last_run": "2026-05-03T09:36:08.880Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -179,7 +179,7 @@
     },
     {
       "name": "Cobra Cadabra",
-      "sha": "9b2b8cb9452bf80e7a8eac569414c52a570f45b0da6be376559bab2c07e0926e"
+      "sha": "c24fe211a7be302ba6c3921c4f8033e22a9bcb4ad9d9028dd1c97b93deef7ca8"
     },
     {
       "name": "Core Skylanders",
@@ -719,7 +719,7 @@
     },
     {
       "name": "Knight Light",
-      "sha": "c4f7aee6ba82d947474e2e94d7c25082bd42bfd4344c22a60ecf92f5f0946003"
+      "sha": "4400c60591e9c367b2f651ad664f90040404d0f65d18d1fc143cc3d5a5be4e9f"
     },
     {
       "name": "Knight Mare",
@@ -875,7 +875,7 @@
     },
     {
       "name": "Metal Mage",
-      "sha": "6b23f19c5fbb2947f071d72a0f5b66f8aa12d99a554f99d58c8ce299446e66b2"
+      "sha": "9a83c3aaf2fcb58e7d8ba117ccfe7b0076984c8f5cea70cb3109184e73ba11b4"
     },
     {
       "name": "Mini-Jini",
@@ -1116,6 +1116,66 @@
     {
       "name": "Sonic Boom",
       "sha": "1c5875066c5a4232c361bb6432d7c63ff05c0c5777faa4f99a4db0d1be2e1b49"
+    },
+    {
+      "name": "Spitfire",
+      "sha": "21907e6b27259feb6f89c9cbde3bba11ecf7316f7f218a49b1dd243a58456097"
+    },
+    {
+      "name": "Splat",
+      "sha": "402251410ff644e4d979519532875d8fb84e5ece28f5da2bbdaeee33231560fb"
+    },
+    {
+      "name": "Spotlight",
+      "sha": "a7d55e9fe6a81f612f9087948d59c76168b7d92a8de793a96818490100589652"
+    },
+    {
+      "name": "Springtime Trigger Happy",
+      "sha": "3e5779afa2eaf3619598ade34e05593dfc322dc468266cc1e1f22bf4a434f25a"
+    },
+    {
+      "name": "Sprocket",
+      "sha": "73f259e9f5f719a834f636a0f86e2e7510a3e39b815e7fbcd1128200a52d21cf"
+    },
+    {
+      "name": "Spry",
+      "sha": "eb6195443a36d06c15e8b1c40cd7650da6892ade837f0aa24babf0e67853d37f"
+    },
+    {
+      "name": "Spy Rise",
+      "sha": "2f5fb9ba0be92580d6aa178784f43634bcadc3c5f0fbbf9e8123497c427a6777"
+    },
+    {
+      "name": "Spyro",
+      "sha": "6873fda0f0fa8729f51a277decc6848e3a0f316536e93ee00f42f28a8268a7fc"
+    },
+    {
+      "name": "Star Strike",
+      "sha": "56dd321b9e6d19b13bc0c91f2a174ddd47eead1ce2e499c1c1487535bf3d8efb"
+    },
+    {
+      "name": "Starcast",
+      "sha": "4ba84e610bfe408768b21a0d727c886df4c304ae2526fcfa107fa81f5d85286b"
+    },
+    {
+      "name": "Stealth Elf",
+      "sha": "b7caf40f48e35e78121721a01c142c950a68306cae3edfaa06a4d9e3a1e615a5"
+    },
+    {
+      "name": "Steel Plated Hood Sickle",
+      "sha": "0e381316f65952385613b2a22154fc27f44bfa9ba06292f07bf7d3fdb4953b31"
+    },
+    {
+      "name": "Steel Plated Smash Hit",
+      "sha": "4232703684a71744b1efcdf7fdd579fd8680251488cc97010eda864ae677348c"
+    },
+    {
+      "name": "Stink Bomb",
+      "sha": "8efab8ee9dc65a9d55304de4035a3e37472a8a2a2c5fb04212f9ce99b37604b2"
+    },
+    {
+      "name": "Stormblade",
+      "sha": "24ae96437ad8fd2a4b1ae7500fde94c4a7f592b91eab02a4940a0c7a8f3e400b"
     }
   ]
 }
