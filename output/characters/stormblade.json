@@ -7,13 +7,13 @@
   "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
+    "Rift into Overdrive",
     "Skylanders: SuperChargers",
     "Skylanders: SuperChargers Racing",
+    "Secret Agent Secrets",
     "Skylanders: Battlecast",
     "Skylanders: Imaginators",
-    "Skylanders: Ring of Heroes",
-    "Rift into Overdrive",
-    "Secret Agent Secrets"
+    "Skylanders: Ring of Heroes"
   ],
   "cameos": [
     "Dive, Dive, Dive!"
@@ -24,17 +24,17 @@
   "description": "With speed as her friend, Stormblade can dash about the battlefield hurling feathered blades and strike enemies like a moving torpedo.",
   "biography": "From the moment she left the nest, Stormblade had always pushed the boundaries, seeking to travel further than anyone had ever gone. At a young age, she made the bold leap off of her home island and plummeted through the deep blue sky in an attempt to find the bottom of Skylands – only to find no such bottom existed. This did not fulfill her curiosity, nor did it sway her belief there was something else beyond the limits of her world. Soon she built a custom ship, the Sky Slicer, and raced to the furthest reaches of Skylands in search of its end – but no end could be found. She wanted answers, and so she came to the one person that could help her – Master Eon. The Portal Master instantly saw the unquenchable thirst for exploration that resided in Stormblade, and asked her to join the Skylanders on a very special mission that would take her through the uncharted rifts between worlds!",
   "quote": "Feather the Storm!",
-  "personality": "Stormblade is a fearless daredevil with an unquenchable thirst for adventure. She is naturally excited about things, including participating in missions and dedicating herself to training. She is optimistic and maintains a belief in the good within others, even when they appear to have turned to the dark side.",
+  "personality": "Stormblade is a fearless daredevil with an unquenchable thirst for adventure. She is naturally excited about things, including participating in missions and dedicating herself to training. Stormblade is also very confident in the good in people she looks up to, as seen in her attempts to redeem Ghost Roaster in Secret Agent Secrets. However, her tendency to not stick to one thought also makes her somewhat slow on the uptake, as seen on Story of Nightfall where she mistakes Nightfall's story about traumatized citizens to be about mind attacks from Leviathans.",
   "story": [
     {
       "story_name": "Rift into Overdrive",
-      "content": "Stormblade first met Spitfire while the flame spirit was outrunning the rifts around Skylands. After they both helped evacuated the royal family of Stormy Stronghold, the grateful residents pointed them to Know-It-All Island. Eventually, Stormblade and the other SuperChargers were invited to become full-fledged Skylanders to stop Kaos.",
+      "content": "Stormblade first met Spitfire while the flame spirit was outrunning the rifts around Skylands. After they both help evacuated the royal family of Stormy Stronghold, the grateful residents pointed Stormblade and Spitfire to Know-It-All Island where the Stone Heads might know what was causing the rifts. Instead they arrived in time to save Flynn, Blobbers, and the Skylanders, Stealth Elf, Jet-Vac, Gill Grunt and Terrafin from a rift that consumed the entire Island. After taking the group to safety, Spitfire and Stormblade introduced themselves, Dive-Clops and Fiesta to the Skylanders. Although they are non-Skylanders, the SuperChargers insisted on helping the Skylanders find the Rift Engines with their vehicles since the Skylanders' mode of transportation was swallowed by the rift back at Know-It-All Island. Now having enough Rift Engines to stop Kaos and his latest plan, the Skylanders invited Stormblade and the other SuperChargers to become full-fledged Skylanders, to which they eagerly accepted.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7d/Spitfire_Stormblade2.png"
     },
     {
       "story_name": "Secret Agent Secrets",
-      "content": "Stormblade, Spitfire, and Nightfall were assigned to find missing Skylanders. Despite facing betrayal from corrupt Elite Skylanders, Stormblade's unwavering belief in her comrades helped redeem Ghost Roaster and defeat the villain Spellslamzer.",
+      "content": "Stormblade, Spitfire and Nightfall were assigned their first mission as Skylanders by Spyro to find the missing Skylanders, Boomer, Ghost Roaster, and Voodood. While the three SuperChargers were imprisoned and brought back to Spellhold, Spellslamzer announced his plan to raid the Mabu Radiance mines. Stormblade hesitated to take Voodood out as she knew that she didn't become a Skylander to fight other Skylanders. However in her moment of hesitation, Stormblade was struck and knocked unconscious by Ghost Roaster. One of the minions of Spellslamzer came to the imprisoned SuperChargers and revealed himself to be special agent Softpaw. The fox spy revealed that he, Voodood, Ghost Roaster and Boomer had gone undercover. When Ghost Roaster demanded that he be taken down like any other bad guy, Stormblade refused, reminding Ghost Roaster that he was a hero and someone who held a special kind of courage to risk so much for no reward. Stormblade's lingering belief in Ghost Roaster helped save the day, as well earned her Nightfall's respect, sparking a friendship between the two Skylanders at last.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/86/Stormblade_comic.jpg"
     }
@@ -46,31 +46,109 @@
         "Feather the Storm!",
         "Better take shelter!",
         "Here comes the storm!",
+        "Let's do this!",
+        "That's more like it!",
+        "Oh yeah!",
+        "Yeah!",
+        "Alright!",
+        "Mission accomplished",
+        "Woohoo!",
+        "Stronger than ever!",
+        "Finders keepers!",
+        "Cha-ching!",
+        "That's more like it!",
+        "A storm unlike any other!",
+        "The forecast calls for more awesome!",
         "Stunning!",
-        "Looking sharp!"
+        "Looking sharp!",
+        "Easy breezie!"
       ]
     },
     {
       "quote_type": "Quest Quotes",
       "content": [
+        "I sure was! I've been to almost every one! But I'm looking for a new challenge, Buzz. I really want to spread my wings.",
+        "Haha, thanks Buzz. But, like you always say, Rule Number 17 in the Ninja Commando Handbook. 'There's always room for improvement! Hoo-ah!'",
+        "You better believe it. With the right Mods, she can break the sound barrier, but I want to get her up past the speed of light!",
+        "Why else would I be back? But, I was wondering if you had any, you know, harder challenges?",
         "I was hatched ready, Buzz. Let's get into some trouble!",
         "I couldn't have done it without you, Buzz."
+      ]
+    },
+    {
+      "quote_type": "Battlecast Quotes",
+      "content": [
+        "Sunnyside up!",
+        "Here comes the storm!",
+        "Ready to go!",
+        "Forecast calls for awesome!",
+        "Blades to battle!",
+        "Feather the storm!",
+        "Storm rolling in!",
+        "I'm on it!",
+        "Checking out!",
+        "Back to the nest!",
+        "Flying high!",
+        "Spreading my wings!",
+        "Just what I needed!",
+        "I'll take it!",
+        "Good call!",
+        "Kick up a storm!",
+        "Awesome!",
+        "Perfect!",
+        "Right on the beam!",
+        "Splitting the difference!",
+        "Keep your eye on the beam!",
+        "Beam blast!",
+        "Raining down!",
+        "Air strike!",
+        "Perfect technique!",
+        "Incoming!",
+        "Look sharp!",
+        "Knockout strike!",
+        "Another goes down!",
+        "Lucky shot!",
+        "I've lost my edge!",
+        "Wait until next time!",
+        "Victory is mine!",
+        "A gale-force win!",
+        "You're tempting fate!",
+        "Yeah?",
+        "Consider this a storm warning.",
+        "I'm here!",
+        "Hey!",
+        "Stop ruffling the feathers.",
+        "To the skies!",
+        "The wind at my back!"
       ]
     }
   ],
   "trivia": [
     "Stormblade is the first female Air Skylander who is bipedal.",
-    "She is one of the few Skylanders who can soften her landing when falling.",
-    "Her voice actress, Stephanie Lemelin, also voices Artemis Crock in Young Justice."
+    "Stormblade is one of only two Skylanders to soften their landing when falling, with the other Skylander being Dune Bug.",
+    "Her ability to shoot feathered blades from her wings is similar to Falcon from Marvel.",
+    "She is the third Skylander to have the word 'blade' in her name, after Freeze Blade and Blades.",
+    "Stormblade's voice actress, Stephanie Lemelin, is known for voicing Artemis Crock, Green Arrow's niece and sidekick, in Young Justice.",
+    "One of her upgrades is named exactly the same as her catchphrase, namely 'Feather the Storm.'"
   ],
   "trailers": [
     {
-      "name": "Stormblade Character Trailer",
+      "name": "Stormblade",
       "isValid": true,
-      "url": "https://www.youtube.com/watch?v=example1"
+      "url": "https://skylanders.fandom.com/wiki/File:Stormblade"
+    },
+    {
+      "name": "Skylanders SuperChargers - Stormblade's Soul Gem Preview (Feather the Storm)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Stormblade%27s_Soul_Gem_Preview_%28Feather_the_Storm%29"
+    },
+    {
+      "name": "Meet the Skylanders SuperChargers Stormblade and Sky Slicer",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_SuperChargers_Stormblade_and_Sky_Slicer"
     }
   ],
-  "gameplay": "Stormblade uses her speed to dash across the arena while throwing sharp feather blades. She excels at hit-and-run tactics and can take to the air for devastating aerial strikes.",
+  "gameplay": "In Skylanders: Battlecast, she can also summon the Sky Slicer for a Strafing Run, assume the Lightning Claw Stance to gain power and intimidate her enemies, and shoot blade beams randomly. Her Special Ability are the Feather Blades to randomly attack an enemy, and her signature gear is the Beam Splitter, a cubic prism that adds damage to previous attacks. Stormblade is also notable in that, like Jet-Vac, her special abilities are cheap to use and very powerful if the random numbers favor the player. Her scrapped signature relic is the Slicer Beacon, which can call upon the Sky Slicer when they obtain cards.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Stormblade",
   "abilities": {
     "basic": [
@@ -89,7 +167,7 @@
       {
         "name": "Steeled Winds",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2b/Stormbladesecondarypower.png",
-        "content": "Press Attack 2 to perform a twirling blade dash forward.",
+        "content": "Press Attack 2 to perform a twirling blade dash forward damaging enemies in your path. Hold Attack 2 to continue dashing.",
         "is_primary": false,
         "is_secondary": true,
         "price": 0,
@@ -111,13 +189,49 @@
           "header": "#6DF",
           "bg_content": "#BFF"
         }
+      },
+      {
+        "name": "Storm Dive",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Stormbladebasicupgrade2.png",
+        "content": "Press Attack 2 while in the air to dive down and damage enemies underneath you.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Fan of Feathers",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/Stormbladebasicupgrade3.png",
+        "content": "Press Attack 3 to jump into the air and throw a spread of feather blades at nearby enemies.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
+      },
+      {
+        "name": "Feather Barrage",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bb/Stormbladebasicupgrade4.png",
+        "content": "Hold Attack 1 until fully charged, then release to throw multiple feather blades out in front of you.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
+        "colors": {
+          "header": "#6DF",
+          "bg_content": "#BFF"
+        }
       }
     ],
     "soulgems": [
       {
         "name": "Feather Weather",
         "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a7/Stormbladesoulgempower.png",
-        "content": "Hold Attack 1 while in the air to rain down hundreds of blades.",
+        "content": "Hold Attack 1 while in the air to create a blade storm and rain down hundreds of blades on nearby enemies.",
         "is_primary": false,
         "is_secondary": false,
         "price": 4000,
@@ -135,10 +249,75 @@
           {
             "name": "Wind Wall",
             "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Stormbladepath1upgrade1.png",
-            "content": "Steeled Winds now destroys projectiles.",
+            "content": "Steeled Winds and Cyclone Surge now destroys projectiles. Wind powered!",
             "is_primary": false,
             "is_secondary": false,
             "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Sharpened Winds",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Stormbladepath1upgrade2.png",
+            "content": "Steeled Winds now do more damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Down Draft",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/16/Stormbladepath1upgrade3.png",
+            "content": "Steeled Winds now slows enemies that are hit with it.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Blade Dancer",
+        "abilities": [
+          {
+            "name": "Fist Full of Feathers",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8c/Stormbladepath2upgrade1.png",
+            "content": "Press Attack 1, Attack 1, Attack 1 while in the air to throw out a feathered blades at enemies below you.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Storm Sais",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/78/Stormbladepath2upgrade2.png",
+            "content": "Feathered Blades become upgraded Storm Sais that do more damage!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#6DF",
+              "bg_content": "#BFF"
+            }
+          },
+          {
+            "name": "Feather the Storm",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Stormbladepath2upgrade3.png",
+            "content": "Tap Attack 3 repeatedly to cause a hurricane underneath you that damages nearby enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
             "colors": {
               "header": "#6DF",
               "bg_content": "#BFF"
@@ -158,12 +337,15 @@
       "image": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Stormblade.jpg",
       "attacks": [
         "Feather Blade Throw",
-        "Steeled Winds"
+        "Steeled Winds",
+        "Cyclone Surge",
+        "Wind Wall",
+        "Fist Full of Feathers"
       ],
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "230"
+          "stat_value": "230 (Lv. 20: 690)"
         },
         {
           "stat_name": "Speed",
@@ -172,6 +354,14 @@
         {
           "stat_name": "Armor",
           "stat_value": "6"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "6"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Stormblade"
