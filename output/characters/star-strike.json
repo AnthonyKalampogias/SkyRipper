@@ -23,7 +23,7 @@
   "description": "Star Strike is a Magic core Skylander who first appeared in Skylanders: Swap Force. She is a mysterious alien from the distant cosmos who possesses the ability to harness cosmic energy and reflect projectiles with her magical fans.",
   "biography": "Looking for a way to magically banish the Skylanders, Kaos poured through every dusty scroll and ancient tome he could find. Upon stumbling across a rare and extremely powerful spell, he began to recite its words. However, he sneezed midway through the incantation. As a result, instead of sending the Skylanders far away, Star Strike was plucked from her home in the distant cosmos and brought into Skylands. Surprised, Kaos thought he’d won a powerful new ally in the mysterious and reserved Star Strike. But she knew evil when she saw it and promptly unleashed her fierce magical powers on him. Word of her victory over Kaos spread quickly and she was soon asked by Master Eon to join the Skylanders.",
   "quote": "Shoot For the Stars!",
-  "personality": "You can't pull the wool over this bewitching alien's eyes. She's most likely to send evil into orbit with her star fall blast. She is described as reserved and mysterious.",
+  "personality": "You can't pull the wool over this bewitching alien's eyes. She's most likely to send evil into orbit with her star fall blast. She is also described as reserved and mysterious.",
   "story": [
     {
       "story_name": "The Kaos Trap",
@@ -66,8 +66,7 @@
         "Ah! A rising star!",
         "Fit for the stars!",
         "Looking stellar!",
-        "Worthy of a star!",
-        "A stellar name!"
+        "Worthy of a star!"
       ]
     },
     {
@@ -81,12 +80,23 @@
   "trivia": [
     "Star Strike is the one Skylander who can perform her secondary attack, the Cosmic Twirl, while jumping or after stepping on the bounce pad in Swap Force.",
     "Star Strike was originally called Fan Girl.",
-    "Despite being the second female Magic Skylander while Ninjini was the first, Star Strike is the first female core Magic Skylander.",
-    "When she shoots her star at the sheep, their wool changes colors. She is the second Magic Skylander to possess this ability, while Double Trouble was the first.",
+    "Despite being the second female Magic Skylander while Ninjini was the first, Star Strike is the first female core Magic Skylander (second one being Déjà Vu).",
+    "Coincidentally, they all have featureless eyes.",
+    "When she shoots her star at the sheep, their wool changes colors. She is the second Magic Skylander to possess this ability, while Double Trouble was the first with his Eldritch Beam.",
+    "Star Strike was a character that people loved instantly, and when the developers showed them that she could reflect her own projectiles, players would just lose their minds.",
     "She slightly resembles Raven from Teen Titans (but only when Raven has her hood on).",
-    "She also has similarities with Starfire from Teen Titans as both are female, aliens, protagonists, can fly, have energy attacks and have the word 'star' as the first syllable of their names.",
+    "She also has similarities with Starfire from \"Teen Titans\" as both are female, aliens, protagonists, can fly (Star Strike hovers above the ground due to her not having visible legs.), have energy attacks and have the word \"star\" as the first syllable of their names.",
+    "She also resembles Architect from Battle Camp as both have color black in their hoods and outfits, color white and fan shape in their blades, and a shadowy face (Star Strike's face is shadowy except her eyes).",
+    "She and Blastermind are both alien based creatures of the Magic Element.",
+    "She has the Magic symbol on her tessons (when put together), her dress, and her cape button.",
+    "Both Star Strike's cape and hood seem to be held by her golden button, have the same color scheme, and don't match the rest of her outfit. This could mean that her cape and hood are the same piece of cloth.",
     "Star Strike's voice actress, Misty Lee, is known as a professional magician.",
-    "She, Gearshift, and Rocky Roll are the only Skylanders that has the same number in all their stats (80 for Strength, Defense, Agility, and Luck)."
+    "Star Strike is noticeably similar to Spotlight: Their attacks are both linked with light, they both have featureless eyes, they are both voiced by Misty Lee, and they both share the same quote, \"Time to Shine!\"",
+    "As a LightCore figure, her eyes light up. Also, after she purchases her Soul Gem ability, \"Shooting Star\", her face almost lights up completely blocking her glowing eyes within the game.",
+    "She, Gearshift, and Rocky Roll are the only Skylanders that has the same number in all their stats.",
+    "Her and Enigma's faces are covered by their hoods. Coincidentally, they are both of the Magic element. However Star Strike's eyes can be seen, while Enigma's head is invisible.",
+    "Her quote \"Starlight, star fight!\" is the base for the pun of Lob-Star's official catchphrase \"Star Bright, Star Fight!\"",
+    "At the beginning of her Soul Gem preview, her cape is missing."
   ],
   "trailers": [
     {
@@ -291,7 +301,7 @@
       "edition": "Series 1",
       "type": "Core",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/0/03/Star_Strike.jpg/revision/latest",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/0/03/Star_Strike.jpg/revision/latest?cb=20140321200849",
       "attacks": [
         "Star Gate",
         "Cosmic Twirl",
@@ -301,23 +311,23 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "260 (520)"
+          "stat_value": "260 (max. 520)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "43 (91)"
+          "stat_value": "43 (max. 91)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "12 (42)"
+          "stat_value": "12 (max. 42)"
         },
         {
           "stat_name": "Critical Hit",
-          "stat_value": "8 (58)"
+          "stat_value": "8 (max. 58)"
         },
         {
           "stat_name": "Elemental Power",
-          "stat_value": "25 (75)"
+          "stat_value": "25 (max. 75)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Star_Strike"
@@ -328,7 +338,7 @@
       "edition": "LightCore",
       "type": "Core",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Star_Strike_Art.jpg/revision/latest",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Star_Strike_Art.jpg/revision/latest?cb=20130819001448",
       "attacks": [
         "Star Gate",
         "Cosmic Twirl",
@@ -338,23 +348,23 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "260 (520)"
+          "stat_value": "0 (max. 0)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "43 (91)"
+          "stat_value": "0 (max. 48)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "12 (42)"
+          "stat_value": "0 (max. 30)"
         },
         {
           "stat_name": "Critical Hit",
-          "stat_value": "8 (58)"
+          "stat_value": "0 (max. 50)"
         },
         {
           "stat_name": "Elemental Power",
-          "stat_value": "25 (75)"
+          "stat_value": "0 (max. 50)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Star_Strike"
