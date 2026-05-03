@@ -20,7 +20,7 @@
     "Prismatic Palace"
   ],
   "description": "Spotlight is a white dragon who is the Light Core Skylander in Skylanders: Trap Team.",
-  "biography": "Spotlight was discovered by Master Eon in the Prismatic Palace, where the Portal Master had ventured seeking the Crystal Orb of Light. Upon finding the Orb, Eon reached out and gently touched it – causing a brilliant light to emanate in all directions. Having been infused with Eon's magic, the Orb glowed magnificently. And when Eon slowly lowered his hand from his shielded eyes, Spotlight stood before him in a respectful bow. Her power of Light was unknown to him, for it was not of the eight common Elements in Skylands. But sensing that the Ancients sent Spotlight to him for a reason, he took her to the Core of Light and trained her to defend it as a member of the Skylanders. And when none other than evil Portal Master Kaos destroyed it – Spotlight vanished!",
+  "biography": "Spotlight was discovered by Master Eon in the Prismatic Palace, where the Portal Master had ventured seeking the Crystal Orb of Light. Upon finding the Orb, Eon reached out and gently touched it - causing a brilliant light to emanate in all directions. Having been infused with Eon's magic, the Orb glowed magnificently. And when Eon slowly lowered his hand from his shielded eyes, Spotlight stood before him in a respectful bow. Her power of Light was unknown to him, for it was not of the eight common Elements in Skylands. But sensing that the Ancients sent Spotlight to him for a reason, he took her to the Core of Light and trained her to defend it as a member of the Skylanders. And when none other than evil Portal Master Kaos destroyed it - Spotlight vanished!",
   "quote": "Time to Shine!",
   "personality": "Spotlight is a respectful and loyal dragon who was chosen by the Ancients to defend the Core of Light. She carries herself with dignity, showing a deep sense of duty toward Master Eon and the safety of Skylands.",
   "story": [
@@ -48,34 +48,34 @@
       "quote_type": "Battle Cries",
       "content": [
         "Time to Shine!",
-        "Rise and shine!",
+        "Rise and shine! - when entering battle",
         "See the light!",
         "Step into the light!",
-        "Outshining the rest!",
+        "Outshining the rest! - when exiting battle",
         "Beware my glare!",
         "The light to fight!",
-        "Razzle dazzle!",
+        "Razzle dazzle! - when switched in.",
         "On the spot!",
         "Go time!",
         "Light it up!",
         "Into the light!",
-        "Stellar performance!",
+        "Stellar performance! - when solving puzzles",
         "Quick as a flash!",
         "Brilliant!",
-        "Up high!",
+        "Up high! - when using the Bounce Pad",
         "Rising up!",
         "Oh yeah!",
-        "Lighting the way!",
+        "Lighting the way! - opening a gate.",
         "Shine on!",
-        "X marks the spot!",
+        "X marks the spot! - when opening a treasure chest",
         "All that glitters!",
-        "Full bloom!",
+        "Full bloom! - when leveled up.",
         "Brighter than the sun!",
-        "My future is looking bright!",
+        "My future is looking bright! - when viewing stats",
         "Illuminating numbers!",
-        "A true vision!",
+        "A true vision! - when selecting a hat",
         "Looking quite radiant!",
-        "This name is spot on!",
+        "This name is spot on! - when given a nickname",
         "A brilliant-sounding name!"
       ]
     }
@@ -103,7 +103,7 @@
     {
       "name": "Skylanders Trap Team - Spotlight's Soul Gem Preview (Time to Shine)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Spotlight%27s_Soul_Gem_Preview_(Time_to_Shine)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Spotlight's_Soul_Gem_Preview_(Time_to_Shine)"
     },
     {
       "name": "Skylanders Power Play Spotlight",
@@ -292,7 +292,7 @@
   },
   "variants": [
     {
-      "id": "spotlight",
+      "id": "spotlight-s1",
       "variant_name": "Spotlight",
       "edition": "Series 1",
       "type": "Core Skylander",
