@@ -70,16 +70,20 @@
   "trivia": [
     "Stink Bomb is similar to Stealth Elf, notably due to both Skylanders being ninjas, turn invisible and possess similar clothing.",
     "He's also the second ninja Skylander (first being Stealth Elf, third being Lob-Star).",
-    "Whenever his top half is placed on the Portal of Power, a classic ninja theme with an ancient Japanese flute can be heard playing in the background.",
+    "Whenever his top half is placed on the Portal of Power, a classic ninja theme with an ancient Japanese flute can be heard playing in the background, (which sounds similar to the flute theme being played in Ultrabeat's 2003 hit 'Pretty Green Eyes') along with a gong crashing at the end. When his bottom half is placed on the portal, it sprays a visible stinky smell from the tail's end.",
     "Developer Rob Gallerani comments, 'I love Stink Bomb for the sheer number of meetings we had to have about the sound of his fart attack.'",
-    "His voice actor, Tom Kenny, is best known for portraying SpongeBob SquarePants, The Ice King from Adventure Time, and is the current voice of Spyro in his main video game series.",
+    "His voice actor, Tom Kenny, is best known for portraying SpongeBob SquarePants, The Ice King from Adventure Time, Doctor Ocotpus in Ultimate Spider-Man, and is also the current voice of Spyro in his main video game series - first performing the role in Spyro 2: Ripto's Rage.",
     "He and Night Shift are seen in most of the commercials of Swap Force, including the intro of the game. They're always seen swapping with each other.",
-    "Stink Bomb can stay invisible longer than Trap Shadow even after attacking.",
+    "Tom Kenny also voices Arbo and Shield Shredder, who are also Life-elemental creatures.",
+    "He and Trap Shadow are the only Sneak SWAP Force Skylanders. However, Stink Bomb can stay invisible longer than Trap Shadow even after pressing the second attack button once.",
     "Everytime Stink Bomb disappears while wearing a hat, his headwear vanishes as well.",
     "Unlike real skunks, his stinky smell is portrayed as farting.",
     "Whenever his bottom half gets upgraded, the color of his belt changes, which is a reference to the martial arts ranking.",
     "His One-Inch Palm ability is a pun of Bruce Lee's One-Inch Punch.",
-    "His Soul Gem description states his top half ability is 'Tri-Star Technique' in some media, though in-game it is 'Master-Star Technique'."
+    "While battling Evil Glumshanks, the boss is unable to locate Stink Bomb while he is invisible. However, Evilized Whiskers is able to locate Stink Bomb even if he is unseen.",
+    "When collected, his Soul Gem states that his top half's ability is Tri-Star Technique which allows him to throw three stars at a time. In actuality, his Soul Gem ability only makes his stars have a higher critical hit ratio.",
+    "In Trap Team, 'Sporting Stripes' now makes any Swap Force Skylander using Stink Bomb's lower half move faster.",
+    "His only appearance in Skylanders: Battlecast is in one of Wash Buckler's cards called 'Stink or Swim.'"
   ],
   "trailers": [
     {
@@ -93,13 +97,13 @@
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Stink_Bomb_Soul_Gem_Preview_(Clear_the_Air)"
     }
   ],
-  "gameplay": "Stink Bomb utilizes stealth and status effects to control the battlefield. He can vanish into a skunk cloud, leaving enemies confused while he strikes from the shadows with ninja stars or his powerful One-Inch Palm. His upgrades allow him to specialize in either his martial arts and projectiles or his deceptive cloud-based abilities, including the use of poison-tipped acorns.",
+  "gameplay": "Being a skunk, Stink Bomb can really 'light the fuse' on his enemies, releasing a cloud of smelly vapor which damages enemies and renders him invisible. He can also throw ninja stars and perform a devastating One-Inch Palm which knocks back and poisons his foes. With certain upgrades, he can also launch nauseous acorns at enemies. Nauseated enemies turn green and take damage over a short period of time. In Skylanders: Ring of Heroes, he functions as a debuff specialist using poison and accuracy-reducing effects.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Stink_Bomb",
   "abilities": {
     "basic": [
       {
         "name": "Skunk-Fu Stars",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/77/Stink_Bombtopprimarypower.png/revision/latest/scale-to-width-down/148?cb=20150617204033",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/77/Stink_Bombtopprimarypower.png/revision/latest?cb=20150617204033",
         "content": "Press Attack 1 to throw small stars that can damage enemies at a long range.",
         "is_primary": true,
         "is_secondary": false,
@@ -111,7 +115,7 @@
       },
       {
         "name": "Skunk Cloud",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Stink_Bombbottomprimarypower.png/revision/latest/scale-to-width-down/148?cb=20150617205554",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/82/Stink_Bombbottomprimarypower.png/revision/latest?cb=20150617205554",
         "content": "Press Attack 2 to go invisible and damage enemies with a large obscuring cloud.",
         "is_primary": true,
         "is_secondary": false,
@@ -125,7 +129,7 @@
     "basic_upgrades": [
       {
         "name": "One-Inch Palm",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Stink_Bombtopbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20150617204217",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Stink_Bombtopbasicupgrade1.png/revision/latest?cb=20150617204217",
         "content": "Press Attack 3 to deliver a powerful palm attack that knocks away enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -137,7 +141,7 @@
       },
       {
         "name": "Noxious Ninja",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Stink_Bombtopbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20150617204416",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Stink_Bombtopbasicupgrade2.png/revision/latest?cb=20150617204416",
         "content": "Press (Attack 1) to throw Skunk-Fu Stars that do increased damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -149,7 +153,7 @@
       },
       {
         "name": "Sweeping Skunk Fu",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d9/Stink_Bombtopbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20150617204535",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d9/Stink_Bombtopbasicupgrade3.png/revision/latest?cb=20150617204535",
         "content": "Hold (Attack 1) to charge handfuls of Skunk-Fu Stars, release to damage enemies in all directions.",
         "is_primary": false,
         "is_secondary": false,
@@ -161,7 +165,7 @@
       },
       {
         "name": "Hidden Tail",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Stink_Bombbottombasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20150617205730",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Stink_Bombbottombasicupgrade1.png/revision/latest?cb=20150617205730",
         "content": "Press Attack 2 while invisible to perform a tail attack that does a large amount of damage to enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -173,7 +177,7 @@
       },
       {
         "name": "Sporting Stripes",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0a/Stink_Bombbottombasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20150617205816",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0a/Stink_Bombbottombasicupgrade2.png/revision/latest?cb=20150617205816",
         "content": "Speed is increased. The sport edition is always faster.",
         "is_primary": false,
         "is_secondary": false,
@@ -185,7 +189,7 @@
       },
       {
         "name": "Skunking Around",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ac/Stink_Bombbottombasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20150617205906",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ac/Stink_Bombbottombasicupgrade3.png/revision/latest?cb=20150617205906",
         "content": "Press Attack 2 to go invisible and leave a skunk cloud on the ground that damages enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -199,7 +203,7 @@
     "soulgems": [
       {
         "name": "Master-Star Technique",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/14/Stink_Bombtopsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20150617205133",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/14/Stink_Bombtopsoulgempower.png/revision/latest?cb=20150617205133",
         "content": "Press Attack 1 to throw Master Stars that have a higher chance to critically hit!",
         "is_primary": false,
         "is_secondary": false,
@@ -211,7 +215,7 @@
       },
       {
         "name": "Stealth Skunk",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Stink_Bombbottomsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20150617211041",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/de/Stink_Bombbottomsoulgempower.png/revision/latest?cb=20150617211041",
         "content": "Remain invisible even after attacking enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -229,7 +233,7 @@
         "abilities": [
           {
             "name": "Skunk-Fu Shield",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Stink_Bombtoppath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20150617204824",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Stink_Bombtoppath1upgrade1.png/revision/latest?cb=20150617204824",
             "content": "Sweeping Skunk-Fu creates a whirling shield that damages nearby enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -241,7 +245,7 @@
           },
           {
             "name": "Skunk-Fu Master",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/32/Stink_Bombtoppath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20150617204908",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/32/Stink_Bombtoppath1upgrade2.png/revision/latest?cb=20150617204908",
             "content": "Skunk-Fu Shield does increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -258,7 +262,7 @@
         "abilities": [
           {
             "name": "Acorn Accuracy",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/Stink_Bombtoppath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20150617204950",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9c/Stink_Bombtoppath2upgrade1.png/revision/latest?cb=20150617204950",
             "content": "Hold Attack 3 to charge a powerful poisoned acorn, release to shoot it at enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -270,7 +274,7 @@
           },
           {
             "name": "Skunk Eye",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ee/Stink_Bombtoppath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20150617205033",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ee/Stink_Bombtoppath2upgrade2.png/revision/latest?cb=20150617205033",
             "content": "An ancient aiming technique makes acorn attacks do increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -287,7 +291,7 @@
         "abilities": [
           {
             "name": "Rolling Fog",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Stink_Bombbottompath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20150617210457",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Stink_Bombbottompath1upgrade1.png/revision/latest?cb=20150617210457",
             "content": "Up to two skunk clouds can be active at one time.",
             "is_primary": false,
             "is_secondary": false,
@@ -299,7 +303,7 @@
           },
           {
             "name": "Cloudy Concoction",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Stink_Bombbottompath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20150617211000",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/49/Stink_Bombbottompath1upgrade2.png/revision/latest?cb=20150617211000",
             "content": "Skunk cloud does increased damage. What a funky skunk!",
             "is_primary": false,
             "is_secondary": false,
@@ -316,7 +320,7 @@
         "abilities": [
           {
             "name": "Sneaky Tactics",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cb/Stink_Bombbottompath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170505140127",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cb/Stink_Bombbottompath2upgrade1.png/revision/latest?cb=20170505140127",
             "content": "Move forward slowly to cause pointy objects to be left that slow and damage enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -328,7 +332,7 @@
           },
           {
             "name": "Pain in the Foot",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Stink_Bombbottompath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170505140144",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9b/Stink_Bombbottompath2upgrade2.png/revision/latest?cb=20170505140144",
             "content": "Sneaky Tactics does increased damage. Tough acting sneaking action!",
             "is_primary": false,
             "is_secondary": false,
@@ -344,12 +348,12 @@
   },
   "variants": [
     {
-      "id": "stink-bomb",
+      "id": "stink-bomb-s1",
       "variant_name": "Stink Bomb",
       "edition": "Series 1",
       "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/f/ff/Stink_Bomb_Promo_Art.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/ff/Stink_Bomb_Promo_Art.jpg/revision/latest?cb=20130819172838",
       "attacks": [
         "Skunk-Fu Stars",
         "Skunk Cloud",
@@ -360,23 +364,23 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "270 (540)"
+          "stat_value": "270 (max. 540)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "43 (91)"
+          "stat_value": "43 (max. 91)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "12 (42)"
+          "stat_value": "12 (max. 42)"
         },
         {
           "stat_name": "Critical Hit",
-          "stat_value": "6 (56)"
+          "stat_value": "6 (max. 56)"
         },
         {
           "stat_name": "Elemental Power",
-          "stat_value": "25 (75)"
+          "stat_value": "25 (max. 75)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Stink_Bomb"
