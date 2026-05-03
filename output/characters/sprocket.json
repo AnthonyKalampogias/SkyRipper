@@ -74,13 +74,14 @@
     "If Sprocket sets up a turret near Octavius in The Oracle, it will fire at him.",
     "In the alpha version of Skylanders: Giants, Sprocket went by the placeholder names of Engineer and Spark. She originally appeared as an elf instead of a Goldling, and therefore had green skin, pointed ears, and pupilless white eyes.",
     "Activision ordered her original catchphrase 'Fear the gear!' to be cut, as it sounded too much like Fright Rider's catchphrase.",
-    "Sprocket is voiced by E.G. Daily, best known for the voice of Buttercup in The Powerpuff Girls and Tommy Pickles in Rugrats.",
+    "Sprocket is voiced by E.G. Daily, best known for the voice of Buttercup in The Powerpuff Girls, Tommy Pickles in Rugrats, and Julius in Julius Jr.",
     "She and Chill are the only Skylanders so far who don't have any basic upgrades for their primary attacks.",
     "Her Monkey Wrench upgrade adds +6 to damage in Swap Force.",
     "In her first artwork, Sprocket wore green goggles. But in both Giants and Swap Force, her goggles are black.",
-    "Sprocket is one of the few Skylanders to use a vehicle for an attack.",
-    "She is the first female Tech Skylander in the series.",
-    "She, Fright Rider and Hot Dog are the only Giants-debut core Skylanders without any LightCore counterparts."
+    "Sprocket is one of the few Skylanders to use a vehicle for an attack (others include Fryno, Starcast, and Tread Head).",
+    "She is the first female Tech Skylander in the series (the second being Gearshift).",
+    "She, Fright Rider and Hot Dog are the only Giants-debut core Skylanders without any LightCore counterparts.",
+    "During Giants's early development, Sprocket's abilities/upgrades were differently named, such as 'Wrench Whack' being called 'Wrench Attack' and 'Turret Gun-O-Matic' being called 'Auto Turret'."
   ],
   "trailers": [
     {
@@ -89,7 +90,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Sprocket_(The_Fix_Is_In)"
     },
     {
-      "name": "Skylanders Giants - Sprocket's Soul Gem Preview (The Fix is In)",
+      "name": "Skylanders Giants - Sprocket's Soul Gem Previw (The Fix is In)",
       "isValid": true,
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Sprocket's_Soul_Gem_Previw_(The_Fix_is_In)"
     },
@@ -105,7 +106,7 @@
     "basic": [
       {
         "name": "Wrench Whack",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7d/Sprocketprimarypower.png/revision/latest/scale-to-width-down/148?cb=20121117215836",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7d/Sprocketprimarypower.png/revision/latest?cb=20121117215836",
         "content": "Press the Attack 1 button to swing the big wrench.",
         "is_primary": true,
         "is_secondary": false,
@@ -117,7 +118,7 @@
       },
       {
         "name": "Turret Gun-O-Matic",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Sprocketsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20121117215919",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Sprocketsecondarypower.png/revision/latest?cb=20121117215919",
         "content": "Press Attack 2 to build a turret that shoots enemies. Climb inside by facing the turret and pressing Attack 2.",
         "is_primary": false,
         "is_secondary": true,
@@ -131,7 +132,7 @@
     "basic_upgrades": [
       {
         "name": "Auto Turret V2",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Sprocketbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20121117215944",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Sprocketbasicupgrade1.png/revision/latest?cb=20121117215944",
         "content": "Turret Gun-o-Matic does increased damage and has more HP.",
         "is_primary": false,
         "is_secondary": false,
@@ -143,7 +144,7 @@
       },
       {
         "name": "Bouncing Betty Mines",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/56/Sprocketbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20121117220031",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/56/Sprocketbasicupgrade2.png/revision/latest?cb=20121117220031",
         "content": "Press Attack 3 to toss mines that explode when enemies are near.",
         "is_primary": false,
         "is_secondary": false,
@@ -155,7 +156,7 @@
       },
       {
         "name": "2 Times The Turrets",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Sprocketbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20121117220149",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Sprocketbasicupgrade3.png/revision/latest?cb=20121117220149",
         "content": "Can have 2 active turrets at once.",
         "is_primary": false,
         "is_secondary": false,
@@ -181,7 +182,7 @@
     "soulgems": [
       {
         "name": "Landmine Golf",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/Sprocketsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20121113062123",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/69/Sprocketsoulgempower.png/revision/latest?cb=20121113062123",
         "content": "Facing a mine, press Attack 1 to send it flying towards enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -213,7 +214,7 @@
         "abilities": [
           {
             "name": "Sprocket Combos",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9d/Sprocketpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506062734",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9d/Sprocketpath1upgrade1.png/revision/latest?cb=20170506062734",
             "content": "Press Attack 1, Hold Attack 2 for Power Surge. Press Attack 1, Attack 1, Hold Attack 3 for Mines O' Plenty",
             "is_primary": false,
             "is_secondary": false,
@@ -225,7 +226,7 @@
           },
           {
             "name": "Monkey Wrench",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/42/Sprocketpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506062741",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/42/Sprocketpath1upgrade2.png/revision/latest?cb=20170506062741",
             "content": "Better wrench does increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -237,7 +238,7 @@
           },
           {
             "name": "All Mines",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/05/Sprocketpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506062750",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/05/Sprocketpath1upgrade3.png/revision/latest?cb=20170506062750",
             "content": "Sprocket can now deploy three Bouncing Betty mines at once.",
             "is_primary": false,
             "is_secondary": false,
@@ -266,7 +267,7 @@
           },
           {
             "name": "Exploding Shells",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Sprocketpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20121117220249",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Sprocketpath2upgrade2.png/revision/latest?cb=20121117220249",
             "content": "Turret and Tank shells now explode on contact, doing extra damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -278,7 +279,7 @@
           },
           {
             "name": "Self Destruct System",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Sprocketpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20121117220347",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Sprocketpath2upgrade3.png/revision/latest?cb=20121117220347",
             "content": "When a Turret or Tank expires, it detonates and damages anything nearby.",
             "is_primary": false,
             "is_secondary": false,
