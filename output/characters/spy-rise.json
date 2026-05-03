@@ -34,32 +34,32 @@
     {
       "quote_type": "Battle Cries",
       "content": [
-        "“It’s classified!”",
-        "“Excellent.”",
-        "“Perfect.”",
-        "“Right on.”",
-        "“On the case!” - success",
-        "“Rising above!” - success",
-        "“Splendid!” - success",
-        "“I spy...victory!” - victory",
-        "“Dropping like flies!” - victory",
-        "“Net profit!” - finding treasure chests",
-        "“Fortune favors the brave!” - finding treasure chests",
-        "“Slipping through!” - unlocking barriers",
-        "“Moving on!” - unlocking barriers",
-        "“Ah-hah, time to infiltrate.” - unlocking barriers",
-        "“Rising up!”- using a Bounce Pad",
-        "“Going up!”- using a Bounce Pad",
-        "“Into the air!”- using a Bounce Pad",
-        "“Power surge!” - levelling up",
-        "“More power!” - levelling up",
-        "“Rising to the top!” - levelling up",
-        "“Going incognito!” - equipping a hat",
-        "“A master of disguise!” - equipping a hat",
-        "“Codename accepted!” - nickname",
-        "“An excellent new alias!” - nickname",
-        "“You know, this is classified information.” - checking stats",
-        "“For your eyes only.” - checking stats"
+        "'It’s classified!'",
+        "'Excellent.'",
+        "'Perfect.'",
+        "'Right on.'",
+        "'On the case!' - success",
+        "'Rising above!' - success",
+        "'Splendid!' - success",
+        "'I spy...victory!' - victory",
+        "'Dropping like flies!' - victory",
+        "'Net profit!' - finding treasure chests",
+        "'Fortune favors the brave!' - finding treasure chests",
+        "'Slipping through!' - unlocking barriers",
+        "'Moving on!' - unlocking barriers",
+        "'Ah-hah, time to infiltrate.' - unlocking barriers",
+        "'Rising up!'- using a Bounce Pad",
+        "'Going up!'- using a Bounce Pad",
+        "'Into the air!'- using a Bounce Pad",
+        "'Power surge!' - levelling up",
+        "'More power!' - levelling up",
+        "'Rising to the top!' - levelling up",
+        "'Going incognito!' - equipping a hat",
+        "'A master of disguise!' - equipping a hat",
+        "'Codename accepted!' - nickname",
+        "'An excellent new alias!' - nickname",
+        "'You know, this is classified information.' - checking stats",
+        "'For your eyes only.' - checking stats"
       ]
     }
   ],
@@ -84,21 +84,21 @@
     {
       "name": "Skylanders Swap Force - Meet the Skylanders - Spy Rise (It's Classified)-0",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Spy_Rise_(It%27s_Classified)-0"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Spy_Rise_(It's_Classified)-0"
     },
     {
       "name": "Skylanders Swap Force - Spy Rise Soul Gem Preview (It's Classified)",
       "isValid": true,
-      "url": "/wiki/File:Skylanders_Swap_Force_-_Spy_Rise_Soul_Gem_Preview_(It%27s_Classified)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Spy_Rise_Soul_Gem_Preview_(It's_Classified)"
     }
   ],
-  "gameplay": "These are the starting and maximum Statistics for this Skylander in the Skylanders games. Health: 270 (max. 540), Speed: 43 (max. 91), Armor: 18 (max. 48), Critical Hit: 8 (max. 58), Elemental Power: 25 (max. 75). In the 3DS version, Skylanders can use abilities depending on their level, including Starting Powers like Web Blaster, Super Spy Scanner, and the Climb SWAP Power.",
+  "gameplay": "Spy Rise's gameplay revolves around his unique spider-like mechanical body. His top half utilizes a 'Spyder Blaster' for ranged combat and a 'Spyder Scanner' to identify enemy weaknesses, while his bottom half provides high mobility through the 'Climb' ability and the use of 'Spyder Mines' and foot-mounted lasers/flamethrowers. In the console version, his stats start with 270 Health, 43 Speed, 18 Armor, 8 Critical Hit, and 25 Elemental Power.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Spy_Rise",
   "abilities": {
     "basic": [
       {
         "name": "Spyder Blaster",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Spy_Risetopprimarypower.png/revision/latest?cb=20170506063136",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Spy_Risetopprimarypower.png/revision/latest",
         "content": "Press Attack 1 to shoot 3 Spyder projectiles that slow any enemies it hits.",
         "is_primary": true,
         "is_secondary": false,
@@ -110,7 +110,7 @@
       },
       {
         "name": "Spyder Climb",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/Spy_Risebottomprimarypower.png/revision/latest?cb=20170506063346",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d5/Spy_Risebottomprimarypower.png/revision/latest",
         "content": "Press Attack 2 to climb into the air with electro web, dropping back down will damage nearby enemies.",
         "is_primary": false,
         "is_secondary": true,
@@ -124,7 +124,7 @@
     "basic_upgrades": [
       {
         "name": "Spyder Scanner S3",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/Spy_Risetopbasicupgrade1.png/revision/latest?cb=20170506063141",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/Spy_Risetopbasicupgrade1.png/revision/latest",
         "content": "Hold Attack 3 for a short time to scan enemies, release to shoot a high-powered laser. Fully scanned enemies take additional damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -136,7 +136,7 @@
       },
       {
         "name": "Spyder Sting",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/60/Spy_Risetopbasicupgrade2.png/revision/latest?cb=20170506063148",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/60/Spy_Risetopbasicupgrade2.png/revision/latest",
         "content": "Press Attack 1 next to an enemy with low health to sting them and steal some health!",
         "is_primary": false,
         "is_secondary": false,
@@ -148,7 +148,7 @@
       },
       {
         "name": "Future Tech",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Spy_Risetopbasicupgrade3.png/revision/latest?cb=20170506063153",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Spy_Risetopbasicupgrade3.png/revision/latest",
         "content": "Super Spy Scanner S3 and Spyder Blaster do increased damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -160,7 +160,7 @@
       },
       {
         "name": "Spyder Mine",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/37/Spy_Risebottombasicupgrade1.png/revision/latest?cb=20170506063357",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/37/Spy_Risebottombasicupgrade1.png/revision/latest",
         "content": "Press Attack 2 to climb into the air and drop a Spyder mine that will seek out and explode on nearby enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -172,7 +172,7 @@
       },
       {
         "name": "Spyder Mine 002",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Spy_Risebottombasicupgrade2.png/revision/latest?cb=20170506063402",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e6/Spy_Risebottombasicupgrade2.png/revision/latest",
         "content": "Press Attack 2 to climb into the air, dropping two Spyder mines at once.",
         "is_primary": false,
         "is_secondary": false,
@@ -184,7 +184,7 @@
       },
       {
         "name": "Rapid Laser Legs V17",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/80/Spy_Risebottombasicupgrade3.png/revision/latest?cb=20170506063426",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/80/Spy_Risebottombasicupgrade3.png/revision/latest",
         "content": "Press Attack 2 to climb into the air, Hold Attack 2 while in the air to drop down and shoot electric bolts at enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -198,7 +198,7 @@
     "soulgems": [
       {
         "name": "Spy with a Golden Hand",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Spy_Risetopsoulgempower.png/revision/latest?cb=20170506063200",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Spy_Risetopsoulgempower.png/revision/latest",
         "content": "Gain a new golden blaster that shoots five projectiles at once.",
         "is_primary": false,
         "is_secondary": false,
@@ -210,7 +210,7 @@
       },
       {
         "name": "Omega Sky Laser",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/90/Spy_Risebottomsoulgempower.png/revision/latest?cb=20170506063415",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/90/Spy_Risebottomsoulgempower.png/revision/latest",
         "content": "Hold Attack 1 while in the sky to shoot down a massive laser that stuns enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -228,7 +228,7 @@
         "abilities": [
           {
             "name": "Cocoon Spinner",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/Spy_Risetoppath1upgrade1.png/revision/latest?cb=20170506063716",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f3/Spy_Risetoppath1upgrade1.png/revision/latest",
             "content": "Hold Attack 1 to shoot a stream of web projectiles that slow and cocoon enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -240,7 +240,7 @@
           },
           {
             "name": "Experimental Webs",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Spy_Risetoppath1upgrade2.png/revision/latest?cb=20170506063721",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Spy_Risetoppath1upgrade2.png/revision/latest",
             "content": "Cocoon Spinner does increased damage. The experiment seems to be going well!",
             "is_primary": false,
             "is_secondary": false,
@@ -257,7 +257,7 @@
         "abilities": [
           {
             "name": "Electroweb Pulse Bomb",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Spy_Risetoppath2upgrade1.png/revision/latest?cb=20170506063935",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Spy_Risetoppath2upgrade1.png/revision/latest",
             "content": "Hold Attack 1 to charge a web bomb, release to throw it which damages and slows enemies in a larger area.",
             "is_primary": false,
             "is_secondary": false,
@@ -269,7 +269,7 @@
           },
           {
             "name": "Improved EPB",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/aa/Spy_Risetoppath2upgrade2.png/revision/latest?cb=20170506063946",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/aa/Spy_Risetoppath2upgrade2.png/revision/latest",
             "content": "Electroweb Pulse Bomb does increased damage and has a larger explosion.",
             "is_primary": false,
             "is_secondary": false,
@@ -286,7 +286,7 @@
         "abilities": [
           {
             "name": "Foot-Mounted Flame",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/Spy_Risebottompath1upgrade1.png/revision/latest?cb=20170506063726",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/09/Spy_Risebottompath1upgrade1.png/revision/latest",
             "content": "Hold Attack 2 to shoot flames from the feet, damaging any enemies that come too close.",
             "is_primary": false,
             "is_secondary": false,
@@ -298,7 +298,7 @@
           },
           {
             "name": "Blue Flame",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Spy_Risebottompath1upgrade2.png/revision/latest?cb=20170506063731",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Spy_Risebottompath1upgrade2.png/revision/latest",
             "content": "Flamethrower deals increased damage. Experimental feet fuel turns flames blue!",
             "is_primary": false,
             "is_secondary": false,
@@ -315,7 +315,7 @@
         "abilities": [
           {
             "name": "Pulse Cannon",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Spy_Risebottompath2upgrade1.png/revision/latest?cb=20170506063956",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cc/Spy_Risebottompath2upgrade1.png/revision/latest",
             "content": "Hold Attack 2 to charge a laser blast, release to shoot a massive wave of energy at enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -327,7 +327,7 @@
           },
           {
             "name": "Advanced Pulse Cannon",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/33/Spy_Risebottompath2upgrade2.png/revision/latest?cb=20170506064005",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/33/Spy_Risebottompath2upgrade2.png/revision/latest",
             "content": "Increase damage of pulse cannon. At least this one isn't experimental, right?",
             "is_primary": false,
             "is_secondary": false,
@@ -343,12 +343,12 @@
   },
   "variants": [
     {
-      "id": "spy-rise",
+      "id": "spy-rise-s1",
       "variant_name": "Spy Rise",
       "edition": "Series 1",
       "type": "SWAP Force",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Spyrise.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Spyrise.jpg/revision/latest",
       "attacks": [
         "Spyder Blaster",
         "Spyder Climb",
