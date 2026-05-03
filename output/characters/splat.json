@@ -23,6 +23,12 @@
   "personality": "Although Splat was in boredom of doing repetitive work at school, she is still a colorful character and admires her various artwork. She also encourages others to break free of their comfort zones and express themselves with paintings. She also knows how to make an excellent impression on her peers. She is the definition of spunky; she's got a lot of fight in her and rarely backs down from a ruckus. Splat is also known to be quite brave when duty calls.",
   "story": [
     {
+      "story_name": "Character Development",
+      "content": "In her original adaption, Splat was originally called Oil Pan and was planned to be in the Dark element. She had no artistic attacks; instead her staff was a tool used to spread oil around. During play testing, children noted that her staff looked like a brush, and they asked Vicarious Visions why Oil Pan's brush could only paint in one color. This led to Vicarious reimagining Oil Pan into Splat, making her into a more bright and colorful character, resonating more fully with kids.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4c/Splat_Concept_Dark.jpg"
+    },
+    {
       "story_name": "Personality",
       "content": "Although Splat was in boredom of doing repetitive work at school, she is still a colorful character and admires her various artwork. She also encourages others to break free of their comfort zones and express themselves with paintings. She also knows how to make an excellent impression on her peers. She is the definition of spunky; she's got a lot of fight in her and rarely backs down from a ruckus. Splat is also known to be quite brave when duty calls.",
       "hasImage": false,
@@ -39,42 +45,42 @@
     {
       "quote_type": "Battle Cries",
       "content": [
-        "The Art of War!",
-        "A new landscape!",
-        "Exquisite!",
-        "Don't worry, it'll wash out.",
-        "I know how to make an impression!",
-        "Yes!",
-        "Alright!",
-        "Yeah!",
-        "Oh yeah!",
-        "Silence the critics!",
-        "Let's make some magic!",
-        "Splat attack!",
-        "Better luck next time!",
-        "Gotcha good!",
-        "Here we go!",
-        "This is surreal!",
-        "Mint condition!",
-        "Fame & fortune!",
-        "Treasure!",
-        "Money!",
-        "A new coat of paint!",
-        "Picture perfect!",
-        "Paint by numbers!",
-        "How abstract!",
-        "One of my finest performances!"
+        "\"The Art of War!\"",
+        "\"A new landscape!\"",
+        "\"Exquisite!\"",
+        "\"Don't worry, it'll wash out.\" - When entering a vehicle",
+        "\"I know how to make an impression!\"",
+        "\"Yes!\"",
+        "\"Alright!\"",
+        "\"Yeah!\"",
+        "\"Oh yeah!\"",
+        "\"Silence the critics!\"",
+        "\"Let's make some magic!\"",
+        "\"Splat attack!\" - When exiting a vehicle",
+        "\"Better luck next time!\"",
+        "\"Gotcha good!\"",
+        "\"Here we go!\"",
+        "\"This is surreal!\"",
+        "\"Mint condition!\"",
+        "\"Fame & fortune!\"",
+        "\"Treasure!\"",
+        "\"Money!\"",
+        "\"A new coat of paint!\" - Upon leveling up",
+        "\"Picture perfect!\" - When checking stats",
+        "\"Paint by numbers!\" - When checking stats",
+        "\"How abstract!\" - When putting on a hat",
+        "\"One of my finest performances!\" - Victory in Racing"
       ]
     },
     {
       "quote_type": "Quest Quotes",
       "content": [
-        "You bet. It never hurts to brush up.",
-        "Thank you, Buzz. An artist likes to be appreciated.",
-        "No sweat, Buzz. With Kaos out there, I have all the inspiration I need.",
-        "Hehe, thanks Buzz... Um, but I wouldn't say 'draw' the line. It was really more of a barrage...",
-        "Yup, I think this one's going to be a real masterpiece, Buzz...",
-        "I'm glad to have made such a strong impression."
+        "\"You bet. It never hurts to brush up.\"",
+        "\"Thank you, Buzz. An artist likes to be appreciated.\"",
+        "\"No sweat, Buzz. With Kaos out there, I have all the inspiration I need.\"",
+        "\"Hehe, thanks Buzz... Um, but I wouldn't say 'draw' the line. It was really more of a barrage...\"",
+        "\"Yup, I think this one's going to be a real masterpiece, Buzz...\"",
+        "\"I'm glad to have made such a strong impression.\""
       ]
     }
   ],
@@ -295,7 +301,7 @@
       "image": "https://static.wikia.nocookie.net/skylanders/images/4/44/Splat_Promo.jpg/revision/latest?cb=20150907034326",
       "attacks": [
         "Artisan Arts",
-        "Heave Hue",
+        "Heave Hue!",
         "Have an Inkling",
         "Wet Paint",
         "Running Colors"
