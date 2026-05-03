@@ -24,7 +24,7 @@
   "story": [
     {
       "story_name": "Character Development",
-      "content": "Gameplay designer Nat Loh came up with Cobra Cadabra's name, having designed the Skylander to be deeply rooted in music. Cobra Cadabra has some of the most complex mechanics of any Skylander made but Nat made them optional so that players could opt into the added challenge for added damage. Simply put, if the player pressed the attack button to the beat of the music, they would get a different colored double damage projectile. Nat would also have Cobra's animations bounce to the beat of the music as well as these snake baskets that he is able to summon pulse damage with the beat of the music. This was done by accessing the BPM of each level's music. \\n\\nCobra Cadabra's tertiary attack definitely has some Donkey Kong Country vibes (which would come to full realization with Donkey Kong's appearance in Skylanders: SuperChargers) as he flies from basket to basket. A developer anecdote, Cobra Cadabra's Master of Baskets path was originally meant to have 15 baskets at once but after much number crunching, it was deemed unsuitable for the GPU to allow 2 players to have 30 baskets at once.",
+      "content": "Gameplay designer Nat Loh came up with Cobra Cadabra's name, having designed the Skylander to be deeply rooted in music. Cobra Cadabra has some of the most complex mechanics of any Skylander made but Nat made them optional so that players could opt into the added challenge for added damage. Simply put, if the player pressed the attack button to the beat of the music, they would get a different colored double damage projectile. Nat would also have Cobra's animations bounce to the beat of the music as well as these snake baskets that he is able to summon pulse damage with the beat of the music. This was done by accessing the BPM of each level's music. \n\nCobra Cadabra's tertiary attack definitely has some Donkey Kong Country vibes (which would come to full realization with Donkey Kong's appearance in Skylanders: SuperChargers) as he flies from basket to basket. A developer anecdote, Cobra Cadabra's Master of Baskets path was originally meant to have 15 baskets at once but after much number crunching, it was deemed unsuitable for the GPU to allow 2 players to have 30 baskets at once.",
       "hasImage": false,
       "imgPath": ""
     }
@@ -97,7 +97,7 @@
     "basic": [
       {
         "name": "Magic Flute",
-        "imgPath": "Cobra_Cadabraprimarypower.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/84/Cobra_Cadabraprimarypower.png/revision/latest?cb=20141221085107",
         "content": "Press Attack 1 to magically blast enemies with your Magic Pungi Flute.",
         "is_primary": true,
         "is_secondary": false,
@@ -109,7 +109,7 @@
       },
       {
         "name": "Cobra Basket",
-        "imgPath": "Cobra_Cadabrasecondarypower.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d2/Cobra_Cadabrasecondarypower.png/revision/latest?cb=20141221085240",
         "content": "Press Attack 2 to lob Cobra Baskets, which damage nearby enemies to the beat.",
         "is_primary": false,
         "is_secondary": true,
@@ -123,7 +123,7 @@
     "basic_upgrades": [
       {
         "name": "Keep The Beat!",
-        "imgPath": "Cobra_Cadabrabasicupgrade1.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/55/Cobra_Cadabrabasicupgrade1.png/revision/latest?cb=20141221085603",
         "content": "Magic Flute attack does more damage when played to the beat of the music.",
         "is_primary": true,
         "is_secondary": false,
@@ -135,7 +135,7 @@
       },
       {
         "name": "Launch Cobra!",
-        "imgPath": "Cobra_Cadabrabasicupgrade2.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/02/Cobra_Cadabrabasicupgrade2.png/revision/latest?cb=20141221090020",
         "content": "Press Attack 3 to launch forward out of the basket, damaging anything in your path.",
         "is_primary": false,
         "is_secondary": false,
@@ -147,7 +147,7 @@
       },
       {
         "name": "Basket Party",
-        "imgPath": "Cobra_Cadabrabasicupgrade3.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6b/Cobra_Cadabrabasicupgrade3.png/revision/latest?cb=20141221090136",
         "content": "Can have up to 10 Cobra Baskets active at once.",
         "is_primary": false,
         "is_secondary": true,
@@ -159,7 +159,7 @@
       },
       {
         "name": "Pungi Power",
-        "imgPath": "Cobra_Cadabrabasicupgrade4.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e9/Cobra_Cadabrabasicupgrade4.png/revision/latest?cb=20141221090240",
         "content": "Magic Flute attack travels further and does more damage.",
         "is_primary": true,
         "is_secondary": false,
@@ -173,7 +173,7 @@
     "soulgems": [
       {
         "name": "Big Basket Bomb",
-        "imgPath": "Cobra_Cadabrasoulgempower.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Cobra_Cadabrasoulgempower.png/revision/latest?cb=20170506013812",
         "content": "Press Attack 3 to launch into active Cobra Baskets to create a massive explosion.",
         "is_primary": false,
         "is_secondary": false,
@@ -191,7 +191,7 @@
         "abilities": [
           {
             "name": "Reverb Riff",
-            "imgPath": "Cobra_Cadabrapath1upgrade1.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Cobra_Cadabrapath1upgrade1.png/revision/latest?cb=20170506013726",
             "content": "Magic Flute music notes bounce off walls and enemies and can do extra damage.",
             "is_primary": true,
             "is_secondary": false,
@@ -203,7 +203,7 @@
           },
           {
             "name": "Ultimate Flute Rock",
-            "imgPath": "Cobra_Cadabrapath1upgrade2.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Cobra_Cadabrapath1upgrade2.png/revision/latest?cb=20170506013731",
             "content": "Magic Flute attack does maximum damage.",
             "is_primary": true,
             "is_secondary": false,
@@ -215,7 +215,7 @@
           },
           {
             "name": "Snake Charmer's Solo",
-            "imgPath": "Cobra_Cadabrapath1upgrade3.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Cobra_Cadabrapath1upgrade3.png/revision/latest?cb=20170506013737",
             "content": "Hold Attack 1 to play an enchanting song that charms enemies to fight for your cause.",
             "is_primary": true,
             "is_secondary": false,
@@ -232,7 +232,7 @@
         "abilities": [
           {
             "name": "Basket Quintet",
-            "imgPath": "Cobra_Cadabrapath2upgrade1.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Cobra_Cadabrapath2upgrade1.png/revision/latest?cb=20170506013745",
             "content": "Throw five Cobra Baskets at once.",
             "is_primary": false,
             "is_secondary": true,
@@ -244,7 +244,7 @@
           },
           {
             "name": "Call and Response",
-            "imgPath": "Cobra_Cadabrapath2upgrade2.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/2c/Cobra_Cadabrapath2upgrade2.png/revision/latest?cb=20170506013751",
             "content": "Shoot Cobra Baskets with your Magic Flute to power them up.",
             "is_primary": false,
             "is_secondary": true,
@@ -256,7 +256,7 @@
           },
           {
             "name": "A Tisket, A Tasket",
-            "imgPath": "Cobra_Cadabrapath2upgrade3.png",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Cobra_Cadabrapath2upgrade3.png/revision/latest?cb=20170506013757",
             "content": "Hold Attack 2 to detonate all active Cobra Baskets.",
             "is_primary": false,
             "is_secondary": true,
@@ -277,7 +277,7 @@
       "edition": "Main Edition",
       "type": "Core",
       "game": "Skylanders: Trap Team",
-      "image": "Cobra_Cadabra_toy.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Cobra_Cadabra_toy.jpg/revision/latest?cb=20141221085002",
       "attacks": [
         "Magic Flute",
         "Cobra Basket",
@@ -315,7 +315,7 @@
       "edition": "Special Edition",
       "type": "Core Special Edition",
       "game": "Skylanders: Trap Team",
-      "image": "Cobra_Cadabra_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Cobra_Cadabra_Promo.jpg/revision/latest?cb=20141001165633",
       "attacks": [
         "Magic Flute",
         "Cobra Basket",
@@ -353,7 +353,7 @@
       "edition": "Alter Ego",
       "type": "Alter Ego",
       "game": "Skylanders: Lost Islands",
-      "image": "CobraCadabraLostIslands.gif",
+      "image": "https://skylanders.fandom.com/wiki/File:CobraCadabraLostIslands.gif",
       "attacks": [
         "Magic Flute",
         "Cobra Basket",
