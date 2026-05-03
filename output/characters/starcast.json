@@ -17,13 +17,13 @@
   "description": "Starcast is a black alien with four arms, each holding a star. He wears a gold helmet and the sensei gold belt. He is a Dark Sensei who trains Imaginators of the Ninja Battle Class.",
   "biography": "No one knows where Starcast came from, including Starcast himself! He was first seen falling out of the sky and landing directly on top of Master Eon, after he had made a wish for a Ninja Master to train the new generation of Skylanders. While it appeared that Eon's wish had come true, it was later revealed that Pop Fizz had simultaneously made a wish to get out of anger management lessons with the old Portal Master. Therefore, it was impossible to determine if Starcast was the result of one wish or the other. But after a brief martial arts display, it was clear to all that the mysterious Starcast was a very skilled ninja warrior. And seeing as how Master Eon had to walk around in crutches for the next few weeks, it was also clear that anger management class would have to be postponed – so it was a win-win!",
   "quote": "A Shot in the Dark!",
-  "personality": "Starcast is a mysterious and very skilled ninja warrior who fell from the sky to train the next generation of Skylanders.",
+  "personality": "A mysterious and very skilled ninja warrior who fallen from the sky to train the next generation of Skylanders.",
   "story": [
     {
       "story_name": "Physical Traits",
       "content": "Starcast is a black alien with four arms, each holding a star. He wears a gold helmet and the sensei gold belt.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/SI_Ilus_Starcast_FINAL.png/revision/latest/scale-to-width-down/268?cb=20160817073729"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f2/SI_Ilus_Starcast_FINAL.png/revision/latest?cb=20160817073729"
     },
     {
       "story_name": "Biography",
@@ -84,7 +84,7 @@
     "While on a rail in a grind challenge, he is seen running on it instead of actually sliding.",
     "If Starcast uses his Interdimensional Shurikens while jumping, he will shoot down four shurikens and somersault when he hits the ground.",
     "Like Stealth Elf, Starcast employs the decoy based ninjutsu art known as the Bushin No Justu, by deploying a decoy that distracts or fools enemies, allowing him to escape or otherwise confuse the enemy.",
-    "Starcast's shurikens are shaped just like the Hira Shaken, which were shuriken that commonly had a hole in them, and were of many different shapes. They were aerodynamic and easy to carry as they could be placed on one's belt.",
+    "Starcast's shurikens are shaped just like the Hira Shaken, which were shuriken that commonly had a hole in them, and were of many different shapes. They were aerodynamic and easy to carry as they could be placed on one's belt. However, the manner in which Starcast deploys the shurikens are much more combat oriented and fictionalized rather then the much more tactical and defensive real life appliances.",
     "One of his upgrades, 'Get over here!' is a reference to a quote from Scorpion, a character from the Mortal Kombat franchise.",
     "Starcast bears multiple similarities to Hidden Phantom, one of the Four Guardians in the Mega Man Zero series. Both of them are ninja with dark or shadow elementality, both use shuriken in combat and even ride a bigger one, and use clones in combat to distract enemies.",
     "Starcast, Spyro, Dino-Rang, Star Strike, Enigma, Hammer Slam Bowser, Turbo Charge Donkey Kong, Crash Bandicoot, and Dr. Neo Cortex are the only Skylanders who do not originate from Skylands.",
@@ -296,6 +296,74 @@
       "id": "starcast",
       "variant_name": "Starcast",
       "edition": "Series 1",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f2/SI_Ilus_Starcast_FINAL.png/revision/latest?cb=20160817073729",
+      "attacks": [
+        "Interdimensional Shurikens",
+        "Megastar Surfer",
+        "Shadow Form Decoy",
+        "Star Stomp",
+        "Star of the Show"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "300"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "280"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "150"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Starcast"
+    },
+    {
+      "id": "starcast-clear",
+      "variant_name": "Clear Starcast",
+      "edition": "Chase Variant",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f2/SI_Ilus_Starcast_FINAL.png/revision/latest?cb=20160817073729",
+      "attacks": [
+        "Interdimensional Shurikens",
+        "Megastar Surfer",
+        "Shadow Form Decoy",
+        "Star Stomp",
+        "Star of the Show"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "300"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "280"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "150"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Starcast"
+    },
+    {
+      "id": "starcast-ben",
+      "variant_name": "Happy Birthday Ben Starcast",
+      "edition": "Chase Variant",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
       "image": "https://static.wikia.nocookie.net/skylanders/images/f/f2/SI_Ilus_Starcast_FINAL.png/revision/latest?cb=20160817073729",
