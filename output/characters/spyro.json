@@ -47,21 +47,39 @@
   "story": [
     {
       "story_name": "Character Development",
-      "content": "While looking for new ideas for the Spyro the Dragon license in 2007, Activision and Toys for Bob explored many concepts with Spyro, including a 'realistic, gritty Spyro', a 'tiny Spyro', and an 'Origami Spyro'. Eventually the toys-to-life idea of Spyro's Kingdom came into light.",
+      "content": "While looking for new ideas for the Spyro the Dragon license in 2007, Activision and Toys for Bob explored many concepts with Spyro, including a 'realistic, gritty Spyro', a 'tiny Spyro', and an 'Origami Spyro'. Eventually the toys-to-life idea of Spyro's Kingdom came into light. Spyro was going to be a full-grown dragon and the king of Spyro's Kingdom, but it was felt they couldn't have a game called Spyro's Kingdom without Spyro as a playable character, so Fire Dragon became Spyro.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d3/SpyrosKingdom_KingSpyro.jpg"
     },
     {
       "story_name": "History",
-      "content": "Spyro is the great, stout-hearted hero of legend, not to mention the number one defender of Skylands. Hailing from a rare race of magic purple dragons, Spyro was born in a land far away from Skylands' furthest frontiers. From a young age, Spyro became a battler for good; a warrior against evil and protector of the peace. One of the many Portal Masters who watched Spyro's success with acclaim and applause was the bearded legend himself, Master Eon. Eon found Spyro playing in the Summer Forest and asked for his help in protecting Skylands from evil. When Spyro agreed to help, Eon transported him through the Portal of Power to his citadel at the Core of Light.",
+      "content": "Spyro is the great, stout-hearted hero of legend, hailing from a rare race of magic purple dragons. From a young age, Spyro became a warrior against evil and protector of the peace. Master Eon found Spyro playing in the Summer Forest and asked for his help in protecting Skylands. During his time as a Skylander, Spyro defeated the evil dragon Cynder, freeing her from the sinister control of Malefor, and later convinced Eon to sign her up as a Skylander. He also learned to control focused dark magic to become Dark Spyro.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/93/Spyro_Comic2.png"
     },
     {
       "story_name": "The Machine of Doom",
-      "content": "Spyro, Gill Grunt, Eruptor and Boomer were on Eon's island with the other Skylanders listening to Gill Grunt's concert. Shortly afterwards, Flynn and Hugo crash landed in their hot air balloon nearby. Hugo informed the Skylanders and Master Eon urgent news of flying sheep attacking the Mabu Market. The Skylanders decided to get the Chattering Key before Kaos does. Using Flynn to transport them, Spyro led the team to the Forest of Fear. After a hallucination trap and a Wyvern pursuit, Kaos used Flynn as a hostage to steal the key. Spyro eventually saved Kaos from being buried alive in the pyramid, showing the values Master Eon taught him.",
+      "content": "Spyro, Gill Grunt, Eruptor and Boomer were on Eon's island when Hugo informed them of flying sheep attacking the Mabu Market. They discovered the sheep were being carried by invisible trolls led by a Spell Punk. The Skylanders journeyed to the Forest of Fear to find the Chattering Key. Despite facing hallucinations and the stone Wyvern Fido, they retrieved the key, only for Kaos to steal it to unlock the Machine of Doom. Spyro ultimately saved Kaos from being buried alive in the crumbling pyramid, remembering the lessons Master Eon taught him.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7a/Machine_of_Doom_Illustration5.jpg"
+    },
+    {
+      "story_name": "Spyro versus The Mega Monsters",
+      "content": "While training his Daybringer Flame attack, Spyro was tasked with finding a monster in Stinky Swamp. After encountering Kaos, who claimed to have turned over a new leaf, Spyro remained suspicious. When Kaos attempted to blackmail the Eternal Archives curator, Stealth Elf used Kaos's magic staff to enlarge Spyro to giant size, allowing him to defeat Kaos's mega-sized Chompies. Spyro realized Kaos's true plan was to attack the Archive and steal the Book of Power.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7c/Giant_Spyro_and_Stealth_Elf.jpg"
+    },
+    {
+      "story_name": "Return of the Dragon King",
+      "content": "After Malefor returned and stole the powers of the Skylanders, Spyro, Cynder, Hex, and Wallop pursued the villain to the Skylanders Academy. Despite being weakened, Spyro challenged Malefor. With the help of Calliope and Persephone, Spyro destroyed Malefor's chestplate and the crystal inside, releasing the stolen powers. The Skylanders then used full strength to tie Malefor's tail to a ship's anchor, dragging him away from the Academy.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c6/Malefor_Skylanders9.jpg"
+    },
+    {
+      "story_name": "Skylanders: Imaginators",
+      "content": "Spyro and Stealth Elf were engaged in a friendly race when a Doomlander emerged and stole a book of Imaginite. Spyro tracked the creature to the Cradle of Creation and met with the new Portal Master and their Imaginator. When Kaos and the Brain used Mind Magic to control all of Skylands, Spyro was immune because he is a dragon. He journeyed to the Dragon Temple and used dragon magic to undo the brainwashing spell across Skylands.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/59/Spyro_Imaginators.png"
     }
   ],
   "quotes": [
@@ -91,7 +109,18 @@
         "You want some of this?",
         "Yeah, I'm all fired up!",
         "I knew I could do it!",
-        "Suh-weet!"
+        "Suh-weet!",
+        "Ready or not!",
+        "Chargin' through!",
+        "Let's do this!",
+        "That's what I'm talking about!",
+        "Er, every bit helps.",
+        "Making Skylands proud!",
+        "Getting stronger!",
+        "Uh, are my horns sticking out?",
+        "I'm gonna look good!",
+        "A new name? Sweet!",
+        "Alright, change is good!"
       ]
     },
     {
@@ -100,32 +129,88 @@
         "You told us not to underestimate him. I won't do it again.",
         "Just trying to save your life, that's all.",
         "Kaos is as evil as they come. This is a man who would give candy to a baby just so he could steal it back again.",
-        "It was a team effort, Master. It's always a team effort."
+        "It's time you three picked on someone your own size!",
+        "It was a team effort, Master. It's always a team effort.",
+        "We're Skylanders! We're never helpless and we never give up!"
+      ]
+    },
+    {
+      "quote_type": "Comic Quotes",
+      "content": [
+        "The biggest part of succeeding anything... is believing in yourself.",
+        "Let's see how you like surprises, Frightbeard! Skylanders! Clear the decks!",
+        "Look, I know some Skylanders have given you a hard time in the past, but I've never doubted your loyalties.",
+        "His name is Malefor, the self-crowned Undead Dragon King of Skylands.",
+        "Malefor might be powerful, Cynder, but we're Skylanders. That makes us more than a team, that makes us family. And that makes us unstoppable!"
+      ]
+    },
+    {
+      "quote_type": "Mobile Game Quotes",
+      "content": [
+        "Dragon time!",
+        "Here we go!",
+        "Born to battle!",
+        "All fired up!",
+        "Let's do this!",
+        "Ready to fight!",
+        "Time to recharge!",
+        "Flying high!",
+        "Fit for a dragon!",
+        "Oh yeah!",
+        "No stopping me now!",
+        "You're playing with fire!",
+        "Coming through!",
+        "Heads up!",
+        "Dragon down..!",
+        "Victory!"
+      ]
+    },
+    {
+      "quote_type": "Misc Quotes",
+      "content": [
+        "Skylanders! To battle!",
+        "Zook's gotta get through that gate.",
+        "What do you say we teach Big Head a little lesson?",
+        "Game on!",
+        "Let's rock and roll!",
+        "This fish ain't flopping around!"
       ]
     }
   ],
   "trivia": [
     "Throughout the games, Spyro's design features differ in gameplay and media, such as his horns, spines, and claw color.",
-    "In Spyro's Adventure, while Spyro's CGI version and toy form have two colors on his wings, his in-game version doesn't possess that detail.",
-    "In the Ruins of Skylanders: Spyro's Adventure there is a young Mabu named Quigley who asks Spyro 'Haven't I seen you somewhere before?'.",
-    "According to the novel The Machine of Doom, Spyro was first found by Master Eon in Summer Forest.",
-    "Out of all the Skylanders, Spyro has the most variants - Series 1, Dark, Legendary, Series 2, Series 3, Series 3 Dark, Mini, and Eon's Elite."
+    "In the Ruins of Skylanders: Spyro's Adventure, the young Mabu Quigley will say 'Haven't I seen you somewhere before?' if you use Spyro to talk to him.",
+    "According to the novel The Machine of Doom, Spyro was first found by Master Eon in Summer Forest, a homeworld from Spyro 2: Ripto's Rage!.",
+    "Spyro has the most variants of any Skylander, including Series 1, Dark, Legendary, Series 2, Series 3, Series 3 Dark, Mini, and Eon's Elite.",
+    "He is the only Console Starter Pack Skylander in Spyro's Adventure not to wield a weapon.",
+    "Spyro was one of the original four Skylanders made for the game's first prototype, Spyro's Kingdom.",
+    "In Imaginators, he is voiced by Matthew Mercer, taking over from Josh Keaton."
   ],
   "trailers": [
     {
       "name": "Skylanders Spyro's Adventure Spyro Trailer",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_Spyro_Trailer"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_Spyro_Trailer"
     },
     {
-      "name": "Meet the Skylanders- Spyro l Skylanders Spyro’s Adventure l Skylanders",
+      "name": "Meet the Skylanders- Spyro l Skylanders Spyro's Adventure l Skylanders",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders-_Spyro_l_Skylanders_Spyro%E2%80%99s_Adventure_l_Skylanders"
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders-_Spyro_l_Skylanders_Spyro's_Adventure_l_Skylanders"
+    },
+    {
+      "name": "Meet the Skylanders Spyro (extended)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Spyro_(extended)"
     },
     {
       "name": "Skylanders Giants - Meet the Skylanders - Series 2 Spyro (All Fired Up)",
       "isValid": true,
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Series_2_Spyro_(All_Fired_Up)"
+    },
+    {
+      "name": "Skylanders Swap Force - Meet the Skylanders - Mega Ram Spyro (All Fired Up)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Mega_Ram_Spyro_(All_Fired_Up)"
     }
   ],
   "gameplay": "As a magical purple dragon, Spyro has the ability to harness the power of the other elements, though he prefers to master fire. He can also charge at his enemies with his horns and knock down obstacles, even lighting them ablaze with the element of fire. Being a dragon, Spyro has the ability to fly. When energies of darkness are nearby, Spyro can use their power to transform into his dark alter ego - Dark Spyro. In Skylanders: Battlecast, Spyro's abilities mostly stay the same, though with debuffing effects to some of them; however, he also gains the ability to brand enemies magically with the Sigil of the Dragon. His Special Ability is Dragon Breath, which attacks all enemies, and his signature Gear is the Ampli-fier, steel enhancements with engraved runes for his wings that power him and his allies up.",
@@ -337,7 +422,7 @@
   "variants": [
     {
       "id": "spyro-s1",
-      "variant_name": "Spyro",
+      "variant_name": "Spyro S1",
       "edition": "Series 1",
       "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
@@ -368,6 +453,70 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "25 / 100"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Spyro"
+    },
+    {
+      "id": "spyro-s2",
+      "variant_name": "Spyro S2",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Series_2_Spyro_Promo.jpg",
+      "attacks": [
+        "Dragon's Fire",
+        "Charge",
+        "Fireslam!"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "75"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "65"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Spyro"
+    },
+    {
+      "id": "spyro-s3",
+      "variant_name": "Mega Ram Spyro S3",
+      "edition": "Series 3",
+      "type": "Core (Mega Ram)",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/d/db/Megaramspyroart.jpg",
+      "attacks": [
+        "Dragon's Fire",
+        "Charge",
+        "Head Start!"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "75"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "60"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "110"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "65"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Spyro"
