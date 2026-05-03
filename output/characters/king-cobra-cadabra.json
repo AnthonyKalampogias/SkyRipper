@@ -24,7 +24,7 @@
   "story": [
     {
       "story_name": "Character Development",
-      "content": "Gameplay designer Nat Loh came up with Cobra Cadabra's name, having designed the Skylander to be deeply rooted in music. Cobra Cadabra has some of the most complex mechanics of any Skylander made but Nat made them optional so that players could opt into the added challenge for added damage. Simply put, if the player pressed the attack button to the beat of the music, they would get a different colored double damage projectile. Nat would also have Cobra's animations bounce to the beat of the music as well as these snake baskets that he is able to summon pulse damage with the beat of the music. This was done by accessing the BPM of each level's music.\n\nCobra Cadabra's tertiary attack definitely has some Donkey Kong Country vibes (which would come to full realization with Donkey Kong's appearance in Skylanders: SuperChargers) as he flies from basket to basket. A developer anecdote, Cobra Cadabra's Master of Baskets path was originally meant to have 15 baskets at once but after much number crunching, it was deemed unsuitable for the GPU to allow 2 players to have 30 baskets at once.",
+      "content": "Gameplay designer Nat Loh came up with Cobra Cadabra's name, having designed the Skylander to be deeply rooted in music. Cobra Cadabra has some of the most complex mechanics of any Skylander made but Nat made them optional so that players could opt into the added challenge for added damage. Simply put, if the player pressed the attack button to the beat of the music, they would get a different colored double damage projectile. Nat would also have Cobra's animations bounce to the beat of the music as well as these snake baskets that he is able to summon pulse damage with the beat of the music. This was done by accessing the BPM of each level's music. \\n\\nCobra Cadabra's tertiary attack definitely has some Donkey Kong Country vibes (which would come to full realization with Donkey Kong's appearance in Skylanders: SuperChargers) as he flies from basket to basket. A developer anecdote, Cobra Cadabra's Master of Baskets path was originally meant to have 15 baskets at once but after much number crunching, it was deemed unsuitable for the GPU to allow 2 players to have 30 baskets at once.",
       "hasImage": false,
       "imgPath": ""
     }
@@ -51,40 +51,15 @@
         "A champion by any stretch!",
         "A snake in the grassss!",
         "Sssso far, sssso good!",
-        "Charmed...and dangerous!"
-      ]
-    },
-    {
-      "quote_type": "When opening a treasure chest",
-      "content": [
+        "Charmed...and dangerous!",
         "A basketful of treasure!",
-        "Treasure on a grand scale!"
-      ]
-    },
-    {
-      "quote_type": "After levelling up",
-      "content": [
+        "Treasure on a grand scale!",
         "Scaling up!",
-        "Tune up!"
-      ]
-    },
-    {
-      "quote_type": "When viewing stats",
-      "content": [
+        "Tune up!",
         "My stats are creeping up.",
-        "On a scale of one to ten, I'm an eleven!"
-      ]
-    },
-    {
-      "quote_type": "When wearing a hat",
-      "content": [
+        "On a scale of one to ten, I'm an eleven!",
         "A sleek new look for me!",
-        "Urgh, I look like a...basket case!"
-      ]
-    },
-    {
-      "quote_type": "When given a nickname",
-      "content": [
+        "Urgh, I look like a...basket case!",
         "An enchanting new name!",
         "This name sounds a bit out of tune..."
       ]
