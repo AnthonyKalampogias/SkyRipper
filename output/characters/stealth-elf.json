@@ -7,28 +7,29 @@
   "role": "Core Skylander",
   "primary_game": "Skylanders: Spyro's Adventure",
   "appearances": [
+    "Spyro's Kingdom (Cancelled)",
     "Skylanders: Spyro's Adventure",
     "Skylanders: Universe",
     "Skylanders: Cloud Patrol",
     "Skylanders: Giants",
     "Skylanders: Battlegrounds",
+    "Spyro versus The Mega Monsters",
     "Skylanders: Swap Force",
+    "The Kaos Trap",
     "Skylanders: Trap Team",
+    "Rift into Overdrive",
     "Skylanders: SuperChargers",
     "Skylanders: Battlecast",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
   "cameos": [
-    "Spyro versus The Mega Monsters",
-    "The Kaos Trap",
-    "Rift into Overdrive",
-    "Skylanders Academy"
+    "Skylanders Academy (TV Series)"
   ],
   "world": [
     "Skylands"
   ],
-  "description": "Stealth Elf is an elven ninja who is one of the playable Skylanders in the Skylanders series. She is a core member of the Skylanders and a master of stealth combat.",
+  "description": "Stealth Elf is an elven ninja who is one of the playable Skylanders in the Skylanders series. Her Legendary counterpart is Legendary Stealth Elf, who is a Toys R Us exclusive. She has a Series 3 counterpart called Ninja Stealth Elf, and she is also one of the three starter Skylanders in Skylanders: Ring of Heroes.",
   "biography": "As a small child, Stealth Elf awoke one morning inside the hollow of an old tree with no memory of how she got there. She was taken in by an unusually stealthy, ninja-like forest creature in the deep forest. Under his tutelage, she has spent the majority of her life training in the art of stealth fighting. After completing her training, she became a Skylander and set out into the world to uncover the mystery behind her origins.",
   "quote": "Silent, But Deadly!",
   "personality": "Stealth Elf, like all elves, adores nature. She is considered to be a guardian protector of the forests and of Skylands. She may be a highly trained ninja, but sometimes Stealth Elf is known to have a sense of a rampaging Cyclops Mammoth. She speaks her mind, whether others want to hear it or not. She can sneak her way into any enemy's territory, but can also be tactless. Like all Life Skylanders, Stealth Elf prefers to keep her feet on the ground. Stealth Elf is also known to use trickery to get out of situations she doesn't feel like doing herself, using her decoys. She also appears to be tomboyish as well.",
@@ -41,15 +42,33 @@
     },
     {
       "story_name": "Spyro versus The Mega Monsters",
-      "content": "During the struggle against Kaos and the giant Chompies, Stealth Elf stole Kaos' staff and uses its magic to grow Spyro to mega-size for him to battle the Chompies. However, Kaos stole back his staff and shrunk Stealth Elf down to the size of an ant. As revenge, the tiny elf stabbed one of her daggers into Kaos' ankle like a splinter, causing the evil Portal Master to painfully drop his staff and allowing Drill Sergeant the chance to destroy it, returning Spyro and Stealth Elf back to normal size. The Skylanders soon defeated the giant Chompies and successfully drove away Kaos from the Eternal Archive.",
+      "content": "After investigating Stinky Swamp, Stealth Elf returned to Eon's Citadel to inform the veteran Portal Master of a terrible monster lurking within the swamp. She was then accompanied by Spyro to search out this monster, saving a Mabu named Snuckles from Chompies along the way. During the struggle against Kaos and the giant Chompies, Stealth Elf stole Kaos' staff and uses its magic to grow Spyro to mega-size for him to battle the Chompies. However, Kaos stole back his staff and shrunk Stealth Elf down to the size of an ant. As revenge, the tiny elf stabbed one of her daggers into Kaos' ankle like a splinter, causing the evil Portal Master to painfully drop his staff and allowing Drill Sergeant the chance to destroy it, returning Spyro and Stealth Elf back to normal size.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3e/Spyro_and_Stealth_Elf.jpg/revision/latest?cb=20130215091343"
     },
     {
-      "story_name": "Rift into Overdrive",
-      "content": "While searching for Kaos after his escape from the Villain Vault, Stealth Elf was with Head Rush, Fling Kong, Cali and Sharpfin at Kaos's old fortress in the Cloudbreak Islands in search of the evil Portal Master. On their way out, they were ambushed by a group of dark elite Drow Warriors lead by Count Moneybone and weren't prepared for a rift created by Kaos' Sky Eater. The three Skylanders, Sharpfin and Cali were able to escape and returned to the Academy to report what happened. After learning of the Rift Engines that may reconnect the connection between Portals, Stealth Elf, Terrafin, Jet-Vac, and Gill Grunt were assigned by Spyro to head for Know-It-All Island to discover the whereabouts of the Rift Engines.",
+      "story_name": "Skylanders: Giants",
+      "content": "Stealth Elf, along with Spyro, Gill Grunt, Stump Smash, and Eruptor, are still frozen as toys on Earth and were put in a toy display inside a toy store called Super Toy Planet. They were few of the Skylanders who witnessed Kaos breaking free of his statue-like form due to his power as a Portal Master. When Kaos noticed the frozen Skylanders and taunted them, Stealth Elf, along with the Skylanders, agreed with Stump Smash when the tree creature angrily declared that if he could move, he'd be 'dropping the hammer' on Kaos right there and then.",
       "hasImage": false,
       "imgPath": ""
+    },
+    {
+      "story_name": "The Kaos Trap",
+      "content": "Stealth Elf was one of the three Skylanders assigned to deliver supplies to a Mabu mining expedition digging for Radiance Crystals. While travelling there by Flynn's Dread-Yacht, the elven ninja was training herself by attacking training dummies on the deck. Wash Buckler insisted that she relax and enjoy the ride to the expedition, only to be intimidated when Stealth Elf asked if he had a problem with her way of relaxing. They soon encountered Wolfgang and the trolls, eventually defeating them with the help of Trap Masters Snap Shot and Wallop.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ca/Stealth_Elf_Comic.png/revision/latest?cb=20140726065929"
+    },
+    {
+      "story_name": "Rift into Overdrive",
+      "content": "While searching for Kaos after his escape from the Villain Vault, Stealth Elf was with Head Rush, Fling Kong, Cali and Sharpfin at Kaos's old fortress. After learning of the Rift Engines that may reconnect the connection between Portals, Stealth Elf, Terrafin, Jet-Vac, and Gill Grunt were assigned by Spyro to head for Know-It-All Island. After discovering the Rift Engines in an underwater city, Stealth Elf, Terrafin, and Jet-Vac were granted the powers of SuperChargers which transformed them.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Skylanders: Imaginators",
+      "content": "Stealth Elf and Spyro competed with each other in a friendly race around the Skylanders Academy, ending with Stealth Elf being the victor with the help of her decoy. Suddenly, a streak of magic shot into the academy library and out emerged a Doomlander stealing a book regarding Imaginite. Later, in the Enchanted Elven Forest, Stealth Elf and the Skylander discover that mutant plants have overrun the great forest as a result of Grandmaster Cami Flage's experimental fertilizer. Stealth Elf made several attempts to calm her old master down.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e3/ElfSpyroGill_Imaginators.jpg/revision/latest?cb=20171107231721"
     }
   ],
   "quotes": [
@@ -79,7 +98,26 @@
         "This'll be our little secret!",
         "Just keep the new name quiet.",
         "We must keep moving...",
-        "Silent but deadly!"
+        "Silent but deadly! (different tone)"
+      ]
+    },
+    {
+      "quote_type": "Cutscenes",
+      "content": [
+        "Yeah!"
+      ]
+    },
+    {
+      "quote_type": "Commercial Quotes",
+      "content": [
+        "I am Stealth Elf! Tag Team!",
+        "Now he has to get over that wall!",
+        "Is that your answer for everything?",
+        "We're surrounded.",
+        "When you go double... You cause more trouble!",
+        "We get to hide? That's kind of my thing.",
+        "Ya, I told you I was good at this. Guys? GUYS!",
+        "Now, that's silent but deadly!"
       ]
     },
     {
@@ -154,11 +192,13 @@
   "trivia": [
     "In her Series 1 and Series 2 toy form, her daggers and eyes glow in the dark.",
     "She, Chill, Deja Vu, and Roller Brawl are currently the only female Skylanders with a Legendary counterpart.",
-    "Her original catchphrase was 'Now You See Me. Now You Don't'.",
+    "Her original catchphrase was 'Now You See Me. Now You Don't'. But it eventually became, 'Silent, But Deadly!'.",
     "It is implied that Stealth Elf had trained under numerous masters, including King Pen, Grandmaster Cami Flage, and her original master, Forester.",
-    "She is the only Skylander to be in a starter pack five times.",
+    "She is the only Life Skylander to be in a starter pack five times.",
     "Her battle cry, 'Knock knock... too late!' would later be used as the catchphrase for Fist Bump.",
-    "In her prototype toy model, Stealth Elf originally had red eyes."
+    "She and Spyro are the only Skylanders to both have Dark, Legendary and Elite versions of themselves.",
+    "In her prototype toy model, Stealth Elf originally had red eyes.",
+    "In early 2025, Stealth Elf was the first character revealed for a collaboration between Skylanders and collectibles brand YouTooz."
   ],
   "trailers": [
     {
@@ -400,12 +440,13 @@
       "edition": "Series 1",
       "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Stealth_Elf_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/b/bc/Stealth_Elf_Promo.jpg/revision/latest?cb=20120221220626",
       "attacks": [
         "Blade Slash",
-        "Stealthier Decoy",
-        "Dragonfang Dagger",
-        "Arboreal Acrobatics"
+        "Stealth",
+        "Dragonfang Daggers",
+        "Arboreal Acrobatics",
+        "Elf Jitsu"
       ],
       "stats": [
         {
@@ -433,11 +474,11 @@
     },
     {
       "id": "stealth-elf-s2",
-      "variant_name": "Stealth Elf",
+      "variant_name": "Stealth Elf S2",
       "edition": "Series 2",
       "type": "Core",
       "game": "Skylanders: Giants",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/1/16/Series_2_Stealth_Elf_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/16/Series_2_Stealth_Elf_Promo.jpg/revision/latest?cb=20130130072036",
       "attacks": [
         "Blade Slash",
         "Stealthier Decoy",
@@ -473,7 +514,7 @@
       "edition": "Series 3",
       "type": "Core",
       "game": "Skylanders: Swap Force",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/1/16/Series_3_Stealth_Elf_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/1/16/Series_3_Stealth_Elf_Promo.jpg/revision/latest?cb=20130609225707",
       "attacks": [
         "Blade Slash",
         "Stealthier Decoy",
