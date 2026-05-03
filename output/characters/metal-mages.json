@@ -16,11 +16,11 @@
   "description": "Metal Mage is a scrapped Skylander, turned single use enemy, in Skylanders: Trap Team. He is a wizard troll with an Air themed headdress and metal staves, with the ability to create barriers around its allies, and like Broccoli Guys and Rage Mages, holds treasure over his head.",
   "biography": "Metal Mage is a scrapped Skylander, turned single use enemy, in Skylanders: Trap Team. He is a wizard troll with an Air themed headdress and metal staves, with the ability to create barriers around its allies, and like Broccoli Guys and Rage Mages, holds treasure over his head. Vimeo demo reels and Skylanders: Giants behind-the-scenes footage were the only hints that this character had a bigger role for some time, until Nat Loh's character design portfolio had more details. Though they first started as inspired by Boomer, the developer received the concept art for Rocky Roll instead and worked Metal Mage's abilities into them. His abilities involved creating metal balls that he could combine into various weapons such as a giant metal hammer or a metal battering ram.",
   "quote": "None",
-  "personality": "As a support-focused wizard, the Metal Mage is dedicated to the protection of his comrades, utilizing defensive magic to control the battlefield.",
+  "personality": "N/A",
   "story": [
     {
       "story_name": "Character Development",
-      "content": "Vimeo demo reels and Skylanders: Giants behind-the-scenes footage were the only only hints that this character had a bigger role for some time, until Nat Loh's character design portfolio had more details. Though they first started as inspired by Boomer, the developer received the concept art for Rocky Roll instead and worked Metal Mage's abilities into them. His abilities involved creating metal balls that he could combine into various weapons such as a giant metal hammer or a metal battering ram.",
+      "content": "Vimeo demo reels and Skylanders: Giants behind-the-scenes footage were the only hints that this character had a bigger role for some time, until Nat Loh's character design portfolio had more details. Though they first started as inspired by Boomer, the developer received the concept art for Rocky Roll instead and worked Metal Mage's abilities into them. His abilities involved creating metal balls that he could combine into various weapons such as a giant metal hammer or a metal battering ram.",
       "hasImage": true,
       "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/I-wei-huang-newtornado1-metalmage.jpg/revision/latest?cb=20210707195204"
     },
@@ -81,35 +81,8 @@
       }
     ],
     "basic_upgrades": [],
-    "soulgems": [
-      {
-        "name": "Giant Metal Hammer",
-        "imgPath": "",
-        "content": "A giant metal hammer created from combined metal balls.",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 0,
-        "colors": {
-          "header": "#1390FF",
-          "bg_content": "#B0E0E6"
-        }
-      }
-    ],
-    "wow_pows": [
-      {
-        "season": 1,
-        "name": "Metal Battering Ram",
-        "imgPath": "",
-        "content": "A metal battering ram created from combined metal balls.",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 0,
-        "colors": {
-          "header": "#1390FF",
-          "bg_content": "#B0E0E6"
-        }
-      }
-    ],
+    "soulgems": [],
+    "wow_pows": [],
     "upgrade_paths": []
   },
   "variants": [
