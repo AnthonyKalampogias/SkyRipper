@@ -7,7 +7,8 @@
   "role": "SuperCharger",
   "primary_game": "Skylanders: SuperChargers",
   "appearances": [
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
   "cameos": [],
@@ -22,8 +23,8 @@
     {
       "story_name": "Biography",
       "content": "It is widely known that few Skylanders enjoy demolition more that Smash Hit. But after finishing runner-up to Crusher in last year's annual Destruct-o-Thon, Smash Hit decided to enter this year's competition better prepared. Now reinforced with indestructible Skytanium steel, the young Warsupial is primed and ready to smash anything and everything the competition can throw his way!",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/26/Steel_Plated_Smash_Hit_Promo.jpg/revision/latest?cb=20150916001718"
     }
   ],
   "quotes": [
@@ -34,7 +35,11 @@
       ]
     }
   ],
-  "trivia": [],
+  "trivia": [
+    "Few Skylanders enjoy demolition more that Smash Hit.",
+    "Smash Hit finished runner-up to Crusher in an annual Destruct-o-Thon.",
+    "He is reinforced with indestructible Skytanium steel."
+  ],
   "trailers": [],
   "gameplay": "Steel Plated Smash Hit's attacks include Demolisher, Crushinator, Connect and Disconnect, Heap, and G'Day. He focuses on high-impact demolition and flail-based combat.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Steel_Plated_Smash_Hit",
@@ -42,7 +47,7 @@
     "basic": [
       {
         "name": "Demolisher",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/26/Steel_Plated_Smash_Hit_Promo.jpg/revision/latest?cb=20150916001718",
         "content": "Smash Hit swings his massive flail to demolish enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -54,7 +59,7 @@
       },
       {
         "name": "Crushinator",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/26/Steel_Plated_Smash_Hit_Promo.jpg/revision/latest?cb=20150916001718",
         "content": "Smash Hit uses his flail to crush everything in his path.",
         "is_primary": false,
         "is_secondary": true,
@@ -68,7 +73,7 @@
     "basic_upgrades": [
       {
         "name": "Connect and Disconnect",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/26/Steel_Plated_Smash_Hit_Promo.jpg/revision/latest?cb=20150916001718",
         "content": "A tactical move involving the connection and disconnection of his flail.",
         "is_primary": false,
         "is_secondary": false,
@@ -80,7 +85,7 @@
       },
       {
         "name": "Heap",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/26/Steel_Plated_Smash_Hit_Promo.jpg/revision/latest?cb=20150916001718",
         "content": "A powerful move to pile on the damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -94,7 +99,7 @@
     "soulgems": [
       {
         "name": "G'Day",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/26/Steel_Plated_Smash_Hit_Promo.jpg/revision/latest?cb=20150916001718",
         "content": "A powerful finishing move and Smash Hit's signature Soul Gem ability.",
         "is_primary": false,
         "is_secondary": false,
