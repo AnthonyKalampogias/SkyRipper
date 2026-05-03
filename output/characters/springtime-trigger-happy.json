@@ -26,7 +26,7 @@
       "story_name": "Biography",
       "content": "Every year the residents of Skylands gather together for the annual Dragon Egg Hunt, celebrating the arrival of spring time. In his enthusiasm for the event, Trigger Happy has dyed himself and his rocket in the pastel colors of the season. Now disguised as a dragon egg, his new mission is to end up in the basket of a lucky kid... and not a dragon!",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest/scale-to-width-down/267?cb=20140311183832"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest?cb=20140311183832"
     }
   ],
   "quotes": [
@@ -58,7 +58,7 @@
     "basic": [
       {
         "name": "Gold Coin Shooters",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest/scale-to-width-down/267?cb=20140311183832",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest?cb=20140311183832",
         "content": "Shoots gold coins at enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -70,7 +70,7 @@
       },
       {
         "name": "Safe Cracker Bomb",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest/scale-to-width-down/267?cb=20140311183832",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest?cb=20140311183832",
         "content": "Throws safe cracker bombs that explode on impact.",
         "is_primary": false,
         "is_secondary": true,
@@ -83,20 +83,8 @@
     ],
     "basic_upgrades": [
       {
-        "name": "Pot O' Gold",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest/scale-to-width-down/267?cb=20140311183832",
-        "content": "Throws a pot of gold that causes significant damage.",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 0,
-        "colors": {
-          "header": "#FB5",
-          "bg_content": "#523112"
-        }
-      },
-      {
         "name": "Golden Super Charge",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest/scale-to-width-down/267?cb=20140311183832",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest?cb=20140311183832",
         "content": "A powerful super-charged attack using golden energy.",
         "is_primary": false,
         "is_secondary": false,
@@ -110,7 +98,7 @@
     "soulgems": [
       {
         "name": "Coinsplosion",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest/scale-to-width-down/267?cb=20140311183832",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest?cb=20140311183832",
         "content": "A massive explosion of coins that damages all nearby enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -121,7 +109,21 @@
         }
       }
     ],
-    "wow_pows": [],
+    "wow_pows": [
+      {
+        "season": 3,
+        "name": "Pot O' Gold",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest?cb=20140311183832",
+        "content": "Throws a pot of gold that causes significant damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#FB5",
+          "bg_content": "#523112"
+        }
+      }
+    ],
     "upgrade_paths": []
   },
   "variants": [
@@ -130,6 +132,40 @@
       "variant_name": "Springtime Trigger Happy",
       "edition": "Spring Edition",
       "type": "Special Edition",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest?cb=20140311183832",
+      "attacks": [
+        "Gold Coin Shooters",
+        "Safe Cracker Bomb",
+        "Pot O' Gold",
+        "Golden Super Charge",
+        "Coinsplosion"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "100"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Springtime_Trigger_Happy"
+    },
+    {
+      "id": "flocked-springtime-trigger-happy",
+      "variant_name": "Flocked Springtime Trigger Happy",
+      "edition": "Flocked Edition",
+      "type": "Flocked Variant",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/a/a1/Springtime_Trigger_Happy_Promo.jpg/revision/latest?cb=20140311183832",
       "attacks": [
