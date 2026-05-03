@@ -141,8 +141,8 @@
     "As seen in Battlecast, Spitfire can drink vehicle fuel.",
     "He is one of the three Skylanders to have 'Fire' (his element) in his name (the other two are Fire Kraken and Wildfire).",
     "He shares the lowest HP stat of the series with Trigger Happy.",
-    "Spitfire is the only new SuperChargers Skylander to appear in the starter pack.",
-    "The term spitfire refers to someone who has a fiery temperament.",
+    "Spitfire is the only new SuperChargers Skylander to appear in the starter pack. The other Starter Pack Skylanders appeared in previous games (Stealth Elf from Skylanders: Spyro's Adventure and Donkey Kong and Bowser from their own decades-old franchises).",
+    "The term spitfire refers to someone who has a fiery temperament. This name was also used for a plant in Skylanders: Universe.",
     "Mighty Magiswords creator, Kyle A. Carrozza, was once asked to design some prototype swords for possible commercial tie-ins, including a Skylanders/Spitfire-inspired Magisword.",
     "Early in development, Spitfire went through a number of alternate concept designs, including a version without armor, a feminine-looking counterpart, and a version in which his body was colored gold."
   ],
@@ -155,7 +155,7 @@
     {
       "name": "Skylanders SuperChargers - Spitfire's Soul Gem Preview (Fuel the Fire)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Spitfire%27s_Soul_Gem_Preview_(Fuel_the_Fire)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_SuperChargers_-_Spitfire's_Soul_Gem_Preview_(Fuel_the_Fire)"
     }
   ],
   "gameplay": "Spitfire can punch enemies with his flaming claws, spin quickly to summon a Flamenado, and dash forward with a flash of his fire at great speeds. In Skylanders: Battlecast, he is shown to have some additional skills. Spitfire can direct his tornado of fire forward through his claws as a Torchnado, summon the Hot Streak set on Auto Fire temporarily and a burning wheel that costs less the more he cast beforehand, and drink Nitromethane for a temporary attack and spell boost.",
@@ -323,7 +323,7 @@
           },
           {
             "name": "Volcanic Armor",
-            "imgPath": "Spitfirepath2upgrade3.png",
+            "imgPath": "Spitfirepath2upgrade3.png,",
             "content": "Become resistant to damage by having super tough lava like armor.",
             "is_primary": false,
             "is_secondary": false,
@@ -391,6 +391,114 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Spitfire"
+    },
+    {
+      "id": "dark-spitfire",
+      "variant_name": "Dark Spitfire",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Spitfire_Promo.jpg/revision/latest?cb=20150603211841",
+      "attacks": [
+        "Butane Brawling",
+        "Flash Fire",
+        "Flamenado",
+        "Mega Marathon",
+        "Flamenado 2"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "160"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "290"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "100"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Dark_Spitfire"
+    },
+    {
+      "id": "instant-spitfire",
+      "variant_name": "Instant Spitfire",
+      "edition": "Series 1",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Spitfire_Promo.jpg/revision/latest?cb=20150603211841",
+      "attacks": [
+        "Butane Brawling",
+        "Flash Fire",
+        "Flamenado",
+        "Mega Marathon",
+        "Flamenado 2"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "200"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "8"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "160"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "150"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "290"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "100"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Instant_Spitfire"
     }
   ]
 }
