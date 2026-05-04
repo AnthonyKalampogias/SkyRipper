@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-03T21:09:43.183Z",
+  "last_run": "2026-05-04T03:13:34.460Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -179,7 +179,7 @@
     },
     {
       "name": "Cobra Cadabra",
-      "sha": "2bab06a4da5d284389666650d4b5c58f21eda5936cd6541d10c33420640d4823"
+      "sha": "8c37b890e5abae8960c4ab206a9b05ebc67e83bd9e91d03ded034f94fa6d567e"
     },
     {
       "name": "Core Skylanders",
@@ -719,7 +719,7 @@
     },
     {
       "name": "Knight Light",
-      "sha": "b075c3a7e59e6267ec9038f0970d9e4a60577a56e9de1d80738725e5595349c2"
+      "sha": "a7c70e20a5f56e2a0ca6f90603c77b7634b2d3cee8b53c66dca6c495c13f0408"
     },
     {
       "name": "Knight Mare",
@@ -875,7 +875,7 @@
     },
     {
       "name": "Metal Mage",
-      "sha": "9a83c3aaf2fcb58e7d8ba117ccfe7b0076984c8f5cea70cb3109184e73ba11b4"
+      "sha": "802d75643e360548d86e384d2d8098ffc3569ad1395b8617ba66c98ab472be61"
     },
     {
       "name": "Mini-Jini",
@@ -1180,6 +1180,18 @@
     {
       "name": "Stump Smash",
       "sha": "c1a2ea0e0b5076dc1a0fec1092e245ab65e91f0b96e61b6d6d72070aa1d02339"
+    },
+    {
+      "name": "Sun Dragon",
+      "sha": "2e30c82007e6891a919a0c172e3ed50b0646beb5bbf506d6e8fbed314163a300"
+    },
+    {
+      "name": "Sunburn",
+      "sha": "fc86063ea4e98fd949d3ecfaace0f735ae235384035b25057f2be1ec40175493"
+    },
+    {
+      "name": "Sundae Slobber Tooth",
+      "sha": "0d75cff0ef575645e5e6ff00c88323a0839e8713fc9c66d80322152b2391a483"
     }
   ]
 }
