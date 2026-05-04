@@ -5,7 +5,7 @@
   "gender": "Male",
   "element": "Earth",
   "role": "Skylander",
-  "primary_game": "Skylanders: Lost Islands (July 2014)",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
@@ -13,11 +13,18 @@
   "world": [
     "Skylands"
   ],
-  "description": "Sundae Slobber Tooth has come to celebrate savory summer sundaes in Skylands!",
-  "biography": "Sundae Slobber Tooth is an ice cream counterpart of Slobber Tooth in Skylanders: Lost Islands, introduced in July 2014 as an Alter Ego variant to celebrate the summer season.",
-  "quote": "Slobber and Chomp!",
-  "personality": "Sundae Slobber Tooth is a festive and sweet-toothed version of the original Slobber Tooth, known for his persistence and love for frozen treats.",
-  "story": [],
+  "description": "'Sundae Slobber Tooth has come to celebrate savory summer sundaes in Skylands!'",
+  "biography": "'Sundae Slobber Tooth is an ice cream counterpart of Slobber Tooth in Skylanders: Lost Islands, introduced in July 2014 as an Alter Ego variant to celebrate the summer season.'",
+  "quote": "'Slobber and Chomp!'",
+  "personality": "'Sundae Slobber Tooth is a festive and sweet-toothed version of the original Slobber Tooth, known for his persistence and love for frozen treats.'",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "'Sundae Slobber Tooth is an ice cream counterpart of Slobber Tooth in Skylanders: Lost Islands, introduced in July 2014 as an Alter Ego variant to celebrate the summer season.'",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
   "quotes": [],
   "trivia": [
     "He is an Alter Ego variant specifically released for the mobile game Skylanders: Lost Islands.",
@@ -25,7 +32,7 @@
     "He was released in July 2014."
   ],
   "trailers": [],
-  "gameplay": "As an Alter Ego in Skylanders: Lost Islands, Sundae Slobber Tooth provides players with a unique visual variant of Slobber Tooth that maintains the base character's mechanics and utility within the game.",
+  "gameplay": "'As an Alter Ego in Skylanders: Lost Islands, Sundae Slobber Tooth provides players with a unique visual variant of Slobber Tooth that maintains the base character's mechanics and utility within the game.'",
   "wiki_url": "https://skylanders.fandom.com/wiki/Sundae_Slobber_Tooth",
   "abilities": {
     "basic": [],
