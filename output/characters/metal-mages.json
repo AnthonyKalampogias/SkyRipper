@@ -15,7 +15,7 @@
   ],
   "description": "Metal Mage is a scrapped Skylander, turned single use enemy, in Skylanders: Trap Team. He is a wizard troll with an Air themed headdress and metal staves, with the ability to create barriers around its allies, and like Broccoli Guys and Rage Mages, holds treasure over his head.",
   "biography": "Metal Mage is a scrapped Skylander, turned single use enemy, in Skylanders: Trap Team. He is a wizard troll with an Air themed headdress and metal staves, with the ability to create barriers around its allies, and like Broccoli Guys and Rage Mages, holds treasure over his head. Vimeo demo reels and Skylanders: Giants behind-the-scenes footage were the only hints that this character had a bigger role for some time, until Nat Loh's character design portfolio had more details. Though they first started as inspired by Boomer, the developer received the concept art for Rocky Roll instead and worked Metal Mage's abilities into them. His abilities involved creating metal balls that he could combine into various weapons such as a giant metal hammer or a metal battering ram. In the final game of Trap Team, Metal Mage appears only once, in Mystic Mill, to briefly provide support for the Evilikin in one of the gates.",
-  "quote": "None",
+  "quote": "N/A",
   "personality": "N/A",
   "story": [
     {
@@ -57,7 +57,7 @@
     "basic": [
       {
         "name": "Electric Shield",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Metal_Mage_Mystic_Mill_Troll.png/revision/latest?cb=20200513170339",
         "content": "The ability to create barriers around its allies.",
         "is_primary": true,
         "is_secondary": false,
@@ -69,7 +69,7 @@
       },
       {
         "name": "Metal Ball Conjuration",
-        "imgPath": "",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/I-wei-huang-newtornado1-metalmage.jpg/revision/latest?cb=20210707195204",
         "content": "Creating metal balls that he could combine into various weapons such as a giant metal hammer or a metal battering ram.",
         "is_primary": false,
         "is_secondary": true,
@@ -81,7 +81,20 @@
       }
     ],
     "basic_upgrades": [],
-    "soulgems": [],
+    "soulgems": [
+      {
+        "name": "Metal Weapon Forging",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d4/I-wei-huang-newtornado1-metalmage.jpg/revision/latest?cb=20210707195204",
+        "content": "His ultimate potential: forging powerful weapons like hammers and battering rams from his metal spheres.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#1390FF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
     "wow_pows": [],
     "upgrade_paths": []
   },
