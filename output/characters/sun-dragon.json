@@ -15,38 +15,35 @@
   "world": [
     "Skylands"
   ],
-  "description": "Sun Dragon is a scrapped character and the original design for the Skylander Camo. He briefly appeared in the early promotional trailer 'Skylanders: The Beginning' as a member of the Life element.",
-  "biography": "Sun Dragon was one of the earliest Skylanders designed during the development of 'Spyro's Kingdom'. He was originally intended to be a more menacing Life-elemental dragon. However, during the transition into 'Skylanders: Spyro's Adventure', his design was overhauled and softened, eventually becoming the character Camo. Despite being replaced, he remains a notable part of Skylanders history due to his appearance in early trailers.",
+  "description": "Sun Dragon is a scrapped character and the original design of Camo. He only appeared briefly in the Skylanders: The Beginning trailer, taking part in the battle against Kaos' army.",
+  "biography": "Sun Dragon was one of the earliest Skylanders designed, present during the initial pitch of a Toy-themed Spyro game as a playable dragon, and as a Life Skylander during the Spyro's Kingdom phase. At this point, Sun Dragon had a more menacing design with a larger head. Despite being present in early trailers, the Sun Dragon design was eventually replaced with Camo's current design seemingly late in development. The two have an identical moveset.",
   "quote": "Unknown",
   "personality": "Sun Dragon was designed with a more intimidating and menacing appearance compared to the final version of Camo. While he was never given a spoken personality in the final games, his early concept art suggests a fiercer, more primal nature.",
   "story": [
     {
       "story_name": "Development History",
-      "content": "Sun Dragon was present during the initial pitch of the game. He was intended to represent the Life element as a playable dragon. Late in the development cycle, the team decided to redesign him, leading to the creation of Camo. The two share an identical moveset, indicating that Camo is a direct evolution of the Sun Dragon concept.",
+      "content": "Sun Dragon was one of the earliest Skylanders designed, present during the initial pitch of a Toy-themed Spyro game as a playable dragon, and as a Life Skylander during the Spyro's Kingdom phase. At this point, Sun Dragon had a more menacing design with a larger head. Despite being present in early trailers, the Sun Dragon design was eventually replaced with Camo's current design seemingly late in development. The two have an identical moveset.",
       "hasImage": false,
       "imgPath": ""
     }
   ],
-  "quotes": [
-    {
-      "quote_type": "Generic",
-      "content": [
-        "Roar!"
-      ]
-    }
-  ],
+  "quotes": [],
   "trivia": [
-    "Sun Dragon, Fire Kraken, and Flare Wolf are the only Skylanders who use fireworks to fight.",
-    "The dragon heads on the door archways around the Creepy Citadel are modelled after Sun Dragon.",
-    "He can be seen in the background of 'The Beginning' trailer near Slam Bam and Wrecking Ball.",
-    "Sun Dragon bears a resemblance to Shenron from the Dragon Ball series.",
-    "He appears in a flashback in Skylanders: SuperChargers using footage from the original teaser."
+    "Interestingly, he, Fire Kraken and Flare Wolf are the only Skylanders who used fireworks to fight. However because Sun Dragon was scrapped, Fire Kraken and Flare Wolf are the only ones.",
+    "Coincidentally, both Fire Kraken and Sun Dragon are chinese dragons.",
+    "Although Sun Dragon is a scrapped version of Camo, Camo also appears independently in The Beginning trailer, charging into battle just under Spyro's wing.",
+    "The Sun Dragon can only ever be seen twice in 'The Beginning' trailer.",
+    "The first time is when Slam Bam is fighting some Cyclops Choppers. Sun Dragon can be seen in the background to the left of Slam Bam.",
+    "The second and final time is when the Skylanders are being blasted away. He can again be seen in the background, this time to the left of Wrecking Ball as the grub worm says 'Not good.'",
+    "The dragon heads on the door archways around the Creepy Citadel are modelled after Sun Dragon. The dragon torches around the Quicksilver Vault are also modeled after him.",
+    "Sun Dragon bears a slight resemblance to Shenron of the Dragon Ball franchise.",
+    "He is seen in the first cutscene of Skylanders: SuperChargers, in the flashback with footage from The Beginning trailer when Kaos talks about the Skylanders defeating him for years."
   ],
   "trailers": [
     {
       "name": "Skylanders: The Beginning",
-      "isValid": true,
-      "url": "https://www.youtube.com/watch?v=S38W_y6Y10I"
+      "isValid": false,
+      "url": ""
     }
   ],
   "gameplay": "Sun Dragon's gameplay was centered around life-based magic and explosive pyrotechnics. Like Camo, he would have summoned firecracker vines to trap enemies and fired sun bursts to deal ranged damage.",
