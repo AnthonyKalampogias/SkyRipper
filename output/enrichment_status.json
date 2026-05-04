@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-04T09:09:03.185Z",
+  "last_run": "2026-05-04T15:14:37.557Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -179,7 +179,7 @@
     },
     {
       "name": "Cobra Cadabra",
-      "sha": "6fb0ca6793cac4549a1f24fddc239b190cad439fee81fa95d8af34ecbd826f0b"
+      "sha": "74a0466bd8f9edd8bf6f5fd0fc003c45dcbd3e5778749a33fd67d9f83ad931c5"
     },
     {
       "name": "Core Skylanders",
@@ -719,7 +719,7 @@
     },
     {
       "name": "Knight Light",
-      "sha": "a7c70e20a5f56e2a0ca6f90603c77b7634b2d3cee8b53c66dca6c495c13f0408"
+      "sha": "5679686abbb501e80c11ae0c345f59ecfddd96142c963d6e7abc3adecb448b37"
     },
     {
       "name": "Knight Mare",
