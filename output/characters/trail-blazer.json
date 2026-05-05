@@ -10,7 +10,7 @@
     "Skylanders: Trap Team",
     "Skylanders: Lost Islands",
     "Champions",
-    "Skylanders: SuperChargers (Racing)",
+    "Skylanders: SuperChargers Racing",
     "Skylanders: Imaginators"
   ],
   "cameos": [],
@@ -58,8 +58,8 @@
     }
   ],
   "trivia": [
-    "His catchphrase is a play on the phrase, \"The main event\".",
-    "One of his battle cries is shared by Spyro's catchphrase, \"All Fired Up!\" Meanwhile, one of his basic upgrades is the same with Spitfire's catchphrase, \"Fuel the Fire!\"",
+    "His catchphrase is a play on the phrase, 'The main event'.",
+    "One of his battle cries is shared by Spyro's catchphrase, 'All Fired Up!' Meanwhile, one of his basic upgrades is the same with Spitfire's catchphrase, 'Fuel the Fire!'",
     "He, Knight Mare and Whirlwind are currently the only equestrian-based Skylanders. He and Whirlwind are the only ones to be unicorn-based. Oddly enough, in the Tall Tales trailer for Giants, it implies that unicorns don't exist in Skylands, despite the fact that Trail Blazer is a unicorn.",
     "Trail Blazer is voiced by Yuri Lowenthal, who also voiced Fright Rider and Softpaw in the series.",
     "When driving in SuperChargers, he grabs the wheel with his mouth to drive.",
@@ -75,10 +75,10 @@
     {
       "name": "Skylanders Trap Team - Trail Blazer's Soul Gem Preview (The Mane Event)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Trail_Blazer%27s_Soul_Gem_Preview_(The_Mane_Event)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Trail_Blazer's_Soul_Gem_Preview_(The_Mane_Event)"
     }
   ],
-  "gameplay": "",
+  "gameplay": "Trail Blazer is a Fire element Skylander whose playstyle combines fast fire projectiles with powerful melee kicks. On console, he uses 'Fireball' and 'Roundhouse Kick', which can be upgraded into a 'Stampede!' or 'Bucking Bronco' mode. His Soul Gem, 'Heat Wave', allows for a powerful charged wave attack. In the 3DS version, his moveset differs slightly, featuring 'Mane of Fire' and 'Bad Bronco', with the ability to summon spectral fire stallions. His stats highlight high agility and speed, making him a mobile offensive threat.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Trail_Blazer",
   "abilities": {
     "basic": [
@@ -267,7 +267,7 @@
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/11/Trail_Blazier_Promo.png/revision/latest?cb=20150527220904",
       "attacks": [
         "Fireball",
-        "Roundhose Kick",
+        "Roundhouse Kick",
         "Burning The Heat",
         "Flaming Forms",
         "Kick It Up A Notch"
