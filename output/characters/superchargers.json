@@ -16,11 +16,24 @@
   "world": [
     "Skylands"
   ],
-  "description": "The SuperChargers are a group of Skylanders in Skylanders: SuperChargers that are trained to pilot the most powerful Vehicles in Skylands, using the power of the Rift Engines to enhance their own powers and their Vehicles'. Certain SuperChargers are previous Skylanders that, upon coming into contact with Rift Engines, were given new appearances and abilities.",
-  "biography": "When a SuperCharger hops into their signature Vehicle, it becomes SuperCharged, gaining a new appearance, a damage boost and other perks. Master Eon assembled this special team of heroes to pilot the Rift Engine-powered vehicles and stop Kaos from using the Sky Eater to consume the world.",
+  "description": "Master Eon assembled this special team of heroes to pilot the Rift Engine-powered vehicles and stop Kaos from using the Sky Eater to consume the world. The team consists of both new recruits and legendary veterans whose powers were enhanced by the Rift Engines.",
+  "biography": "The SuperChargers are a group of Skylanders in Skylanders: SuperChargers that are trained to pilot the most powerful Vehicles in Skylands, using the power of the Rift Engines to enhance their own powers and their Vehicles'. When a SuperCharger hops into their signature Vehicle, it becomes SuperCharged, gaining a new appearance, a damage boost and other perks. Certain SuperChargers are previous Skylanders that, upon coming into contact with Rift Engines, were given new appearances and abilities.",
   "quote": "Drive to Survive!",
   "personality": "The SuperChargers are a courageous and mechanically gifted group of heroes. Comprising both legendary veterans and new recruits, they are characterized by their determination to master the terrains of land, sea, and sky to protect the Skylands.",
-  "story": [],
+  "story": [
+    {
+      "story_name": "The SuperChargers",
+      "content": "The SuperChargers are a group of Skylanders in Skylanders: SuperChargers that are trained to pilot the most powerful Vehicles in Skylands, using the power of the Rift Engines to enhance their own powers and their Vehicles'. Certain SuperChargers are previous Skylanders that, upon coming into contact with Rift Engines, were given new appearances and abilities.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/db/SuperChargers_intro.jpg"
+    },
+    {
+      "story_name": "SuperCharging the Fight",
+      "content": "When a SuperCharger hops into their signature Vehicle, it becomes SuperCharged, gaining a new appearance, a damage boost and other perks. Master Eon assembled this special team of heroes to pilot the Rift Engine-powered vehicles and stop Kaos from using the Sky Eater to consume the world.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Supercharger_Skylanders_(Superchargers_Racing).png"
+    }
+  ],
   "quotes": [
     {
       "quote_type": "Group Catchphrase",
@@ -38,7 +51,7 @@
     "Except for Bone Bash Roller Brawl, all the reposed SuperChargers have had at least one Wow Pow reposed figure in the previous games.",
     "Turbo Charge Donkey Kong and Hammer Slam Bowser are the only SuperChargers whose elements don't match with their respective Vehicles.",
     "In addition, they're the only ones with words that don't have matching first letters in their name unlike the returning Skylanders as SuperChargers, not counting variants.",
-    "The new characters introduced as Superchargers are all Skylanders recruited after the events of Skylanders: Trap Team, including as a direct result of events that happened in previous games.",
+    "The new characters introduced as Superchargers are all Skylanders recruited after the events of Skylanders: Trap Team, including as a direct result of events that happened in previous games. They are also part of the first namesake group to have been recruited after the events of Skylanders: Spyro's Adventure.",
     "In very early concepts of SuperChargers and their vehicles, Magna Charge, Free Ranger and Spyro were possible candidates before the vehicle types were decided on.",
     "With exception of Thrillipede, the guest characters and almost all the reposed Skylanders, all the SuperChargers were playable in Skylanders: Ring of Heroes.",
     "Earth is the only Element where all of its SuperChargers were playable in Ring of Heroes."
@@ -47,10 +60,49 @@
   "gameplay": "In Skylanders: SuperChargers, these characters are unique for their ability to pilot vehicles. When a SuperCharger is paired with their specific signature vehicle, the vehicle becomes 'SuperCharged,' which alters its appearance, boosts its stats, and provides a unique weapon upgrade. This allows for diverse combat strategies across Land, Sea, and Sky zones.",
   "wiki_url": "https://skylanders.fandom.com/wiki/SuperChargers",
   "abilities": {
-    "basic": [],
+    "basic": [
+      {
+        "name": "Pilot Vehicles",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/db/SuperChargers_intro.jpg",
+        "content": "SuperChargers are uniquely trained to pilot the most powerful Vehicles in Skylands using the power of the Rift Engines.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#BEE"
+        }
+      },
+      {
+        "name": "Rift Engine Enhancement",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/db/SuperChargers_intro.jpg",
+        "content": "Using the power of Rift Engines, SuperChargers can enhance their own inherent powers as well as those of their Vehicles.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#BEE"
+        }
+      }
+    ],
     "basic_upgrades": [],
     "soulgems": [],
-    "wow_pows": [],
+    "wow_pows": [
+      {
+        "season": 1,
+        "name": "SuperCharged",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/db/SuperChargers_intro.jpg",
+        "content": "When a SuperCharger hops into their signature Vehicle, it becomes SuperCharged, gaining a new appearance, a damage boost, and other perks.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#BEE"
+        }
+      }
+    ],
     "upgrade_paths": []
   },
   "variants": [
