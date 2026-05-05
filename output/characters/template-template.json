@@ -15,10 +15,10 @@
   "world": [
     "Skylands"
   ],
-  "description": "Template Template is used as a debug character and can be found in various Vicarious Visions titles, first seen in Skylanders: Swap Force. He is a humanoid character with no particular details aside from large hands and a tail.",
-  "biography": "Template Template is used as a debug character and can be found in various Vicarious Visions titles, first seen in Skylanders: Swap Force. He is a humanoid character with no particular details aside from large hands and a tail. In Skylanders: Swap Force, using a glitch, he can be seen in-game. He has three attacks (two tail spin moves and ineffective slaps) and a full, though placeholder, upgrade tree. He cannot attack enemies but can be attacked and swapped with. His element HUD is not rendered, revealing parts of the health and XP gauges. His movement type is Climb (or Rocket on Player 2), but he cannot participate in SWAP Force Zones. His portrait is a 'PLACEHOLDER' puff of smoke, except during battle results where he uses Magna Charge's portrait. During summoning, he's incorrectly described as Fire element. In Skylanders: SuperChargers, he appears in the mainline version with a generic placeholder icon and lacks a 3D preview. In Skylanders: Imaginators, his summon animation causes a crash, though his bottom half can be summoned with another Skylander's top half without crashing (except in racing mode where he can participate). If taken from racing mode to the main game without a summoning sequence, the game won't crash. His icon is Stink Bomb's, except in racing setup where it's a red exclamation mark. In the Nintendo Switch version, he remains in files but cannot be summoned without modification due to the lack of racing mode.",
-  "quote": "null",
-  "personality": "null",
+  "description": "Template Template is a debug character used in various Vicarious Visions titles, characterized as a simple humanoid figure with large hands and a tail.",
+  "biography": "Template Template is used as a debug character and can be found in various Vicarious Visions titles, first seen in Skylanders: Swap Force. He is a humanoid character with no particular details aside from large hands and a tail. In Skylanders: Swap Force, using a glitch, he can be seen in-game. He has three attacks (two tail spin moves and ineffective slaps) and a full, though placeholder, upgrade tree. He cannot attack enemies but can be attacked and swapped with. His element HUD is not rendered, revealing parts of the health and XP gauges. His movement type is Climb (or Rocket on Player 2), but he cannot participate in SWAP Force Zones. His portrait is a 'PLACEHOLDER' puff of smoke, except during battle results screen where he instead uses Magna Charge's portrait. During the summoning sequence or 'Magic Moment', Template Template is incorrectly described as a Fire element Skylander. In Skylanders: SuperChargers, he appears in the mainline version with a generic placeholder icon and lacks a 3D preview. In Skylanders: Imaginators, his summon animation causes a crash, though his bottom half can be summoned with another Skylander's top half without crashing (except in racing mode where he can participate). If taken from racing mode to the main game without a summoning sequence, the game won't crash. His icon is Stink Bomb's, except in racing setup where it's a red exclamation mark. In the Nintendo Switch version, he remains in files but cannot be summoned without modification due to the lack of racing mode.",
+  "quote": "PLACEHOLDER",
+  "personality": "As a debug character, Template Template lacks a distinct narrative personality, serving primarily as a functional placeholder for testing game mechanics, animations, and facial expressions.",
   "story": [
     {
       "story_name": "Swap Force",
@@ -36,22 +36,23 @@
       "story_name": "Imaginators",
       "content": "In Skylanders: Imaginators, Template Template is able to appear during his summon animation, but once it ends, the game will crash. Only Template Template's bottom half can be summoned in this game without crashing, as long as the top half is of another Skylander - this is with the exception of the game's racing mode, where he is able to participate. If he is taken out of the racing mode and into the main game without a summoning sequence, the game will not crash. Unlike prior games which use generic placeholder icons to represent him, his icon is that of Stink Bomb, except when in the racing setup menu where he shows as a red exclamation mark. In the Nintendo Switch version of Imaginators, he is not able to be summoned without modification, due to the lack of a racing mode, but does remain in the files of the game.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Template_Template_Swap_Force.png"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/37/Template_Template_Wii.png"
     }
   ],
   "quotes": [],
   "trivia": [
-    "His name refers to his use as the base for Swap Force Skylanders, indicating both of his top and bottom half. Though he doesn't seem to be a placeholder for any particular Swap Force character, his overall body shape and movement most resembles that of the officially released Skylander, Fire Kraken.",
+    "His name refers to his use as the base for Swap Force Skylanders, indicating both of his top and bottom half.",
+    "Though he doesn't seem to be a placeholder for any particular Swap Force character, his overall body shape and movement most resembles that of the officially released Skylander, Fire Kraken.",
     "Template Template's head most resembles that of an earless Greeble.",
-    "They share some animations with Free Ranger (such as his primary attack)",
+    "They share some animations with Free Ranger (such as his primary attack).",
     "Template Template's traversal animations are used by the Jet swapper half when it is dismounted from the board.",
     "Template Template slides around if any attacks are done whilst moving, due to the lack of any partial/alternative animations for them.",
-    "Template Template is also used as a placeholder in Vicarious Visions's storyboards, representing the in-engine Skylander.",
+    "Template Template is also used as a placeholder in Vicarious Visions' storyboards, representing the in-engine Skylander.",
     "Template Template possesses happy, angry, and goofy facial animations. However, he is missing a sad animation (which typically appears on other Skylanders from Swap Force), causing his emotion to reset back to normal when pressed.",
     "His victory animation for Battle Mode uses the idle animation for another template character, Template Legacy, causing his body to shrink down considerably.",
     "Template Template's materials are not present in the Wii version of Swap Force, resulting in a fully white appearance.",
-    "Template Template can be seen as part of two development screenshots present in the files for Swap Force, SuperChargers, and Imaginators. Rather noteworthily, these images aren't stored in any archives like all other image files, and are instead stored as raw PNG files. Additionally, both screenshots also contain the Utah Teapot, a common test geometry used in rendering.",
-    "Template Template was originally fully blue instead of green, as seen in an GDC Vault Representation"
+    "Template Template can be seen as part of two development screenshots present in the files for Swap Force, SuperChargers, and Imaginators. These images are stored as raw PNG files rather than in archives. Both screenshots also contain the Utah Teapot, a common test geometry used in rendering.",
+    "Template Template was originally fully blue instead of green, as seen in a GDC Vault Presentation."
   ],
   "trailers": [],
   "gameplay": "Template Template has three attacks: two different tail spin moves and a series of ineffective slaps. He possesses five of the normal nine quests and a full upgrade tree, which is placeholder and grants no upgrades. He is unable to attack enemies but can be attacked. Other Skylanders with the Swap ability can swap with him. His element HUD is not rendered due to lacking an element. His movement type is Climb (or Rocket on Player 2), but he cannot participate in SWAP Force Zones. In Imaginators, his summon animation crashes the game unless only his bottom half is summoned with another Skylander's top half, or if he's taken from racing mode to the main game without a summoning sequence. He is able to participate in racing mode in Imaginators.",
@@ -61,7 +62,7 @@
       {
         "name": "Tackle",
         "imgPath": "",
-        "content": "(null)",
+        "content": "A standard tackle attack used for debug testing.",
         "is_primary": true,
         "is_secondary": false,
         "price": 0,
@@ -73,7 +74,7 @@
       {
         "name": "Spin Attack",
         "imgPath": "",
-        "content": "(null)",
+        "content": "A tail spin move that Template Template uses to attack.",
         "is_primary": false,
         "is_secondary": true,
         "price": 0,
@@ -85,7 +86,7 @@
       {
         "name": "Slap",
         "imgPath": "",
-        "content": "(null)",
+        "content": "A series of ineffective slaps.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
@@ -111,7 +112,7 @@
       {
         "name": "Basic_Skills_BaseAbility1",
         "imgPath": "",
-        "content": "(null)",
+        "content": "Placeholder basic skill ability 1.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
@@ -123,7 +124,7 @@
       {
         "name": "Basic_Skills_BaseStat1",
         "imgPath": "",
-        "content": "(null)",
+        "content": "Placeholder basic skill stat upgrade 1.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
@@ -135,7 +136,7 @@
       {
         "name": "Basic_Skills_BaseAbility2",
         "imgPath": "",
-        "content": "(null)",
+        "content": "Placeholder basic skill ability 2.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
@@ -147,7 +148,7 @@
       {
         "name": "Basic_Skills_BaseStat2",
         "imgPath": "",
-        "content": "(null)",
+        "content": "Placeholder basic skill stat upgrade 2.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
@@ -161,7 +162,7 @@
       {
         "name": "SoulGem",
         "imgPath": "",
-        "content": "(null)",
+        "content": "Placeholder Soul Gem ability.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
@@ -179,7 +180,7 @@
           {
             "name": "Tier1_Skills_Ability1",
             "imgPath": "",
-            "content": "(null)",
+            "content": "Placeholder tier 1 ability.",
             "is_primary": false,
             "is_secondary": false,
             "price": 0,
@@ -191,7 +192,7 @@
           {
             "name": "Tier1_Skills_Stat1",
             "imgPath": "",
-            "content": "(null)",
+            "content": "Placeholder tier 1 stat.",
             "is_primary": false,
             "is_secondary": false,
             "price": 0,
@@ -203,7 +204,7 @@
           {
             "name": "Tier1_Skills_Ability2",
             "imgPath": "",
-            "content": "(null)",
+            "content": "Placeholder tier 1 ability 2.",
             "is_primary": false,
             "is_secondary": false,
             "price": 0,
@@ -220,7 +221,7 @@
           {
             "name": "Tier2_Skills_Ability1",
             "imgPath": "",
-            "content": "(null)",
+            "content": "Placeholder tier 2 ability.",
             "is_primary": false,
             "is_secondary": false,
             "price": 0,
@@ -232,7 +233,7 @@
           {
             "name": "Tier2_Skills_Stat1",
             "imgPath": "",
-            "content": "(null)",
+            "content": "Placeholder tier 2 stat.",
             "is_primary": false,
             "is_secondary": false,
             "price": 0,
@@ -244,7 +245,7 @@
           {
             "name": "Tier2_Skills_Ability2",
             "imgPath": "",
-            "content": "(null)",
+            "content": "Placeholder tier 2 ability 2.",
             "is_primary": false,
             "is_secondary": false,
             "price": 0,
@@ -259,12 +260,27 @@
   },
   "variants": [
     {
-      "id": "template-template",
+      "id": "template-template-sf",
       "variant_name": "Template Template",
-      "edition": "Unknown",
+      "edition": "Standard",
       "type": "Debug",
       "game": "Skylanders: Swap Force",
       "image": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Template_Template_Swap_Force.png",
+      "attacks": [
+        "Tackle",
+        "Spin Attack",
+        "Slap"
+      ],
+      "stats": [],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Template_Template"
+    },
+    {
+      "id": "template-template-wii",
+      "variant_name": "Template Template (Wii)",
+      "edition": "Wii Version",
+      "type": "Debug",
+      "game": "Skylanders: Swap Force Wii",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/37/Template_Template_Wii.png",
       "attacks": [
         "Tackle",
         "Spin Attack",
