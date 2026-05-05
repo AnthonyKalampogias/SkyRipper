@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-04T21:06:42.051Z",
+  "last_run": "2026-05-05T03:16:50.873Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -1192,6 +1192,18 @@
     {
       "name": "Sundae Slobber Tooth",
       "sha": "0d75cff0ef575645e5e6ff00c88323a0839e8713fc9c66d80322152b2391a483"
+    },
+    {
+      "name": "Super Shot Stealth Elf",
+      "sha": "4ca71d09c7d2395544f18e13e8925e65caaf2c56e5b7b318bc8b1c8d0715d924"
+    },
+    {
+      "name": "SuperChargers",
+      "sha": "c93b0c21ee356f0c4431be8e2c4aab318a1a0154f5cccd98c132ed46521c22be"
+    },
+    {
+      "name": "Surfer Slam Bam",
+      "sha": "2ec57922bdffb0a24c0aabae551fe87f78066c84756bac067749fb66658c9553"
     }
   ]
 }
