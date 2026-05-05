@@ -1,7 +1,7 @@
 {
   "id": "thumpback",
   "name": "Thumpback",
-  "species": "Whale",
+  "species": "Whale-like Behemoth",
   "gender": "Male",
   "element": "Water",
   "role": "Giant",
@@ -10,7 +10,8 @@
     "Skylanders: Giants",
     "Skylanders: Swap Force",
     "Skylanders: Trap Team",
-    "Skylanders: SuperChargers",
+    "Rift into Overdrive",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
   ],
@@ -20,14 +21,14 @@
   "world": [
     "Skylands"
   ],
-  "description": "Thumpback is a whale-like behemoth who is one of the eight Giants in Skylanders: Giants. He was a former pirate whose passion for fishing led him to the Skylanders.",
-  "biography": "Thumpback was once a crew member of The Phantom Tide, the most fearsome pirate ship in all of Skylands. But the actual pirating part about being a pirate didn't interest Thumpback so much as the benefits that came with traveling on a large ship. After all, his real passion was fishing. But when his chance came to finally ensnare the most elusive creature in the sky - the Leviathan Cloud Crab - he was pulled over board and carried off into the horizon. This was actually quite fortunate, because sometime later The Phantom Tide and its entire crew were banished to the Chest of Exile. Thumpback's pirating days were over, but his legend as one of the first Skylanders had only just begun.",
+  "description": "Thumpback is a large blue whale-like creature, with small white eyes, a blowhole on the top of his head and a large mouth with small pointed teeth inside. He also has muscular arms with coral and barnacle growing on them, and white claws on his fingers and feet. He wears a brown belt around his waist, with a small boat navigator as the buckle, and silver shoulder pads. He even carries a large anchor as his weapon.",
+  "biography": "Thumpback was once a crew member of The Phantom Tide, the most fearsome pirate ship in all of Skylands. But the actual pirating part about being a pirate didn't interest Thumpback so much as the benefits that came with traveling on a large ship. After all, his real passion was fishing. But when his chance came to finally ensnare the most elusive creature in the sky - the Leviathan Cloud Crab - he was pulled over board and carried off into the horizon. This was actually quite fortunate, because sometime later The Phantom Tide and its entire crew were banished to the Chest of Exile. Thumpback’s pirating days were over, but his legend as one of the first Skylanders had only just begun.",
   "quote": "Hail to the whale!",
-  "personality": "Thumpback is steadfast, dependable, trustworthy, and gifted with the patience of an angler. He is a jolly but formidable ally.",
+  "personality": "Thumpback is steadfast, dependable, trustworthy, and gifted with the patience of an angler.",
   "story": [
     {
       "story_name": "History",
-      "content": "Thumpback was once a fearsome member of a pirate crew on board a very large ship. They sailed the seas, shivering their timbers and looking for treasure. But Thumpback's real passion was fishing. When he tried to catch the legendary Leviathan Cloud Crab, he was dragged across the sky and separated from his crew. This saved him from being banished with them. He eventually joined the Giants to protect Skylands from the Arkeyans.",
+      "content": "Thumpback was once a fearsome member of a pirate crew on board a very large ship (and it had to be large, what with him being a Giant Whale). They sailed the seas, shivering their timbers, saying \"aargh\" and mucking about with treasure. But Thumpback wasn't happy. The pirate stuff was all well and good, but the big whale monster's real passion was fishing. When the opportunity arose to snag the biggest catch of his life - the legendary Leviathan Cloud Crab - Thumpback couldn't pass it up. Things didn't quite go according to plan, however, and Thumpback was carried off by the cloud crab. He refused to let go, and the rest of the pirate crew could only watch as he was dragged across the sky and over the distant horizon. The cloud crab eventually got away, and Thumpback never found his ship again. His days as a pirate were over, but when he joined the other Giants to help fend off the Arkeyans, his days as a Skylander had only just begun.",
       "hasImage": false,
       "imgPath": ""
     }
@@ -39,46 +40,63 @@
         "Hail to the Whale!",
         "Water ho!",
         "Heave ho!",
+        "Whoo-hoo!",
         "Drop anchor!",
         "Sea spin!",
+        "Riptide!",
+        "Whirlpool!",
         "Let's make some waves!",
         "Let's turn the tide!",
         "You're in the splash zone!",
-        "Time to drop anchor!"
+        "Time to drop anchor!",
+        "Make the wave!",
+        "A sea of strength!",
+        "Whoo-hoo! Oh, big and mighty numbers!",
+        "An interesting look for me.",
+        "Ooh! Not bad. I hope it fits my big head.",
+        "Not bad!",
+        "Sounds big. I like it!"
       ]
     },
     {
-      "quote_type": "Other Quotes",
+      "quote_type": "Commercial Quotes",
       "content": [
-        "A sea of strength!",
-        "Whoo-hoo! Oh, big and mighty numbers!",
-        "Ooh! Not bad. I hope it fits my big head."
+        "Uh-oh! We got company.",
+        "Let's dance... Turtle!",
+        "Yeesh. This is taking forever.",
+        "Hail to the Mail!"
       ]
     }
   ],
   "trivia": [
-    "It is rumored that six fully grown Skylanders could fit inside Thumpback's mouth.",
-    "Thumpback is based on a Humpback Whale, but has pointed teeth unlike real ones.",
-    "His name is a portmanteau of 'Thump' and 'Humpback'.",
-    "He speaks with a thick Scottish accent in the game.",
-    "Thumpback, Ninjini, and Crusher are the only three Giants with external weapons.",
-    "In early development, he was tentatively named 'Big Mouth Whale'."
+    "It is rumored that six fully grown Skylanders could fit inside Thumpback's mouth, not that they'd want to.",
+    "Thumpback, Ninjini, and Crusher are the only three Giants to have weapons that are not a part of their bodies.",
+    "Thumpback and Wash Buckler are the only two Skylanders who were once part of a gang of pirates.",
+    "Thumpback's name is a combination of \"Thump\" and \"Humpback\".",
+    "According to Lou Studdert, Thumpback was originally called Big Mouth Whale.",
+    "He speaks with a Thick Scottish accent in gameplay. But on most trailers and commercials he spoke in an American accent.",
+    "Thumpback is based on a Humpback Whale. But he instead has pointed teeth in his mouth, while real humpback whales have baleen."
   ],
   "trailers": [
     {
-      "name": "Meet the Skylanders: Thumpback",
+      "name": "Skylanders Giants - Meet the Skylanders - Thumpback (Hail to the Whale)",
       "isValid": true,
-      "url": "https://www.youtube.com/watch?v=example1"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Meet_the_Skylanders_-_Thumpback_(Hail_to_the_Whale)"
+    },
+    {
+      "name": "Skylanders Giants - Thumpback's Soul Gem Preview (Hail to the Whale)",
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Thumpback%27s_Soul_Gem_Preview_(Hail_to_the_Whale)"
     }
   ],
-  "gameplay": "Thumpback is a powerful, slow-moving Giant who excels at area-of-effect attacks using his massive anchor. His Anchor Assault allows for sweeping strikes, while his Belly Flop provides a mobility option that doubles as an attack. He can also bite enemies and spray water using his blowhole. His high health and reach make him a formidable tank.",
+  "gameplay": "Thumpback is a Water Giant who focuses on heavy anchor attacks and belly-sliding maneuvers. In the console version, his primary Anchor Assault can be executed in various combos, while his Belly Flop allows him to slide across the battlefield, damaging enemies in his path. His Chomp ability allows for high-damage melee bites. On the 3DS, he possesses a grappling iron ability to pull enemies toward him and a \"Whalecopter\" move for extra air time.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Thumpback",
   "abilities": {
     "basic": [
       {
         "name": "Anchor Assault",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/anchor_assault.png",
-        "content": "Press Attack 1 to swing Thumpback's anchor at enemies. Press Attack 1, Attack 1, Hold Attack 1 for a special combo!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/62/Thumpbackprimarypower.png/revision/latest?cb=20130127023319",
+        "content": "Press the Attack 1 button to swing Thumpback's anchor at enemies. Press Attack 1, Attack 1, Hold Attack 1 for a special combo!",
         "is_primary": true,
         "is_secondary": false,
         "price": 0,
@@ -89,7 +107,7 @@
       },
       {
         "name": "Belly Flop",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/belly_flop.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fc/Thumpbacksecondarypower.png/revision/latest?cb=20130127023356",
         "content": "Press Attack 2 to dive into a belly flop, damaging enemies.",
         "is_primary": false,
         "is_secondary": true,
@@ -103,7 +121,7 @@
     "basic_upgrades": [
       {
         "name": "A Whale Of A Chomp",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/whale_chomp.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Thumpbackbasicupgrade1.png/revision/latest?cb=20130127061851",
         "content": "Press Attack 3 for a big, whale-sized chomp.",
         "is_primary": false,
         "is_secondary": false,
@@ -115,11 +133,35 @@
       },
       {
         "name": "Slippery Belly",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/slippery_belly.png",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/43/Thumpbackbasicupgrade2.png/revision/latest?cb=20130127061909",
         "content": "Slide longer after a belly flop and do increased damage.",
         "is_primary": false,
         "is_secondary": false,
         "price": 700,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "The Whalest Chomp",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/95/Thumpbackbasicupgrade3.png/revision/latest?cb=20130127061932",
+        "content": "Bigger, most powerful Whale Chomp attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Now There's An Anchor!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/64/Thumpbackbasicupgrade4.png/revision/latest?cb=20130127062005",
+        "content": "Increases Anchor Assault's damage.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
         "colors": {
           "header": "#48D",
           "bg_content": "#BDF"
@@ -129,8 +171,8 @@
     "soulgems": [
       {
         "name": "Blowhard",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/blowhard.png",
-        "content": "While belly sliding, press Attack 1 to spray water and starfish.",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e4/Thumpbacksoulgempower.png/revision/latest/scale-to-width-down/148?cb=20121113065156",
+        "content": "While belly sliding, press the Attack 1 button to spray water and starfish.",
         "is_primary": false,
         "is_secondary": false,
         "price": 4000,
@@ -147,11 +189,76 @@
         "abilities": [
           {
             "name": "Thumpback Combos",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/thumpback_combos.png",
-            "content": "Unlock Power Swing and Whirlpool Ripper combos.",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c0/Thumpbackpath1upgrade1.png/revision/latest?cb=20130127062251",
+            "content": "Press Attack 1, Attack 1, and Hold attack 2 for Power Swing. Press Attack 1, Attack 1, and Hold Attack 3 for Whirlpool Ripper.",
             "is_primary": false,
             "is_secondary": false,
             "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Bermuda Triangle",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Thumpbackpath1upgrade2.png/revision/latest?cb=20130127062312",
+            "content": "Increases the power of the Whirlpool Ripper combo attack.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Ultimate Anchor",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/27/Thumpbackpath1upgrade3.png/revision/latest?cb=20130127062335",
+            "content": "Best anchor you can find! Does maximum damage.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          }
+        ]
+      },
+      {
+        "path_name": "Up Close And Personal",
+        "abilities": [
+          {
+            "name": "Breakfast in Bed",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a5/Thumpbackpath2upgrade1.png/revision/latest?cb=20130207021658",
+            "content": "While Belly sliding, press Attack 3 to chomp enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Armor Of The Sea",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1a/Thumpbackpath2upgrade2.png/revision/latest?cb=20130207021720",
+            "content": "Seashells make for better armor.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Bad Sushi",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1c/Thumpbackpath2upgrade3.png/revision/latest?cb=20130207021733",
+            "content": "Hold the Attack 3 button to release a stream of projectile water vomit, damaging enemies.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
             "colors": {
               "header": "#48D",
               "bg_content": "#BDF"
@@ -163,15 +270,16 @@
   },
   "variants": [
     {
-      "id": "thumpback-standard",
+      "id": "thumpback-s1",
       "variant_name": "Thumpback",
       "edition": "Series 1",
       "type": "Giant",
       "game": "Skylanders: Giants",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/3/36/Thumpback_-_.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/36/Thumpback_-_.jpg/revision/latest/scale-to-width-down/268?cb=20130220165740",
       "attacks": [
         "Anchor Assault",
-        "Belly Flop"
+        "Belly Flop",
+        "A Whale Of A Chomp"
       ],
       "stats": [
         {
@@ -181,6 +289,18 @@
         {
           "stat_name": "Speed",
           "stat_value": "20"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "30"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Thumpback"
