@@ -1,7 +1,7 @@
 {
   "id": "tidepool",
   "name": "Tidepool",
-  "species": "Unknown (Humanoid Marine)",
+  "species": "Unknown",
   "gender": "Female",
   "element": "Water",
   "role": "Sensei",
@@ -17,17 +17,17 @@
   "description": "Tidepool is a marine Water Sensei of the Quickshot Battle Class in Skylanders: Imaginators.",
   "biography": "Long before she became a Sensei, Tidepool was an undercover agent for a top secret organization known as the Aqua Marines. However, one day she was betrayed by her superiors, who were part of an even more top secret organization intent on destroying Skylands. Using her spy training, Tidepool made it her personal mission to seek out every member of this evil shadow group and bring them to justice. This did not go unnoticed by Master Eon, who felt that someone of her caliber would be perfect to train new Skylanders as a Sensei of the Quickshot class. However, Tidepool was not easily convinced that she could even trust Eon and the Skylanders after being deceived by her last organization. To earn her trust, she requested that everyone pass a truth test that she would conduct. Thankfully, all of the members of the Skylanders Academy passed with flying colors... except for Flynn, who insisted that he was 50% Mabu and 50% enchilada sauce. Tidepool felt that he was 100% meathead.",
   "quote": "In a League of My Own!",
-  "personality": "Initially untrusting, discerning, and a skilled undercover agent. She is professional, disciplined, and slightly cynical due to her past experiences.",
+  "personality": "Initially untrusting, discerning, and a skilled undercover agent. She is professional, disciplined, and slightly cynical due to her past experiences. She value truth and credentials after being betrayed in her past.",
   "story": [
     {
       "story_name": "Physical Traits",
       "content": "Tidepool is a humanoid blue-skinned creature with seaweed hair and spots on her face. She wears a black helmet and large matching footwear and arm guards, as well as chainmail armor made of fish scales and a black chestplate with the signature Sensei gold belt, and lastly, a tasset made of large shells. Her weapons, the Tidepool Pistols, are fashioned out of striped blue cephalopods.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Tidepool_Promo.jpg/revision/latest?cb=20161112054952"
     },
     {
-      "story_name": "History",
-      "content": "Tidepool's origin as a spy for the Aqua Marines defined her combat style. After her betrayal, she became a vigilante seeking justice across the Skylands before Eon recruited her. Her transition to a Sensei allowed her to pass on her Quickshot expertise to a new generation of Imaginators.",
+      "story_name": "Biography",
+      "content": "Long before she became a Sensei, Tidepool was an undercover agent for a top secret organization known as the Aqua Marines. However, one day she was betrayed by her superiors, who were part of an even more top secret organization intent on destroying Skylands. Using her spy training, Tidepool made it her personal mission to seek out every member of this evil shadow group and bring them to justice. This did not go unnoticed by Master Eon, who felt that someone of her caliber would be perfect to train new Skylanders as a Sensei of the Quickshot class. However, Tidepool was not easily convinced that she could even trust Eon and the Skylanders after being deceived by her last organization. To earn her trust, she requested that everyone pass a truth test that she would conduct. Thankfully, all of the members of the Skylanders Academy passed with flying colors... except for Flynn, who insisted that he was 50% Mabu and 50% enchilada sauce. Tidepool felt that he was 100% meathead.",
       "hasImage": false,
       "imgPath": ""
     }
@@ -42,15 +42,50 @@
         "Attacking me? How bold.",
         "Over so soon? Things were just getting interesting.",
         "I spy with my little eye a sudden lack of enemies!",
+        "Pity they couldn't stick around any longer.",
+        "More of a grand entrance than I'm used to making, but it'll do.",
+        "A smashing success!",
+        "Well done!",
+        "Brilliant!",
+        "Perfect!",
         "Squid kick!",
-        "Suckers!"
+        "Suckers!",
+        "Whale Tale!"
       ]
     },
     {
       "quote_type": "Sensei Training",
       "content": [
         "The name is Tidepool, and along with my own unique set of skills, I offer training to all Imaginators.",
-        "And for those fortunate enough to be a Quickshot such as myself, I can show you a Secret Technique that is really quite brilliant."
+        "And for those fortunate enough to be a Quickshot such as myself, I can show you a Secret Technique that is really quite brilliant.",
+        "Provided you are satisfied with my credentials, let's get to work!"
+      ]
+    },
+    {
+      "quote_type": "Sky-Chi",
+      "content": [
+        "Watch this!",
+        "That certainly was fun - for me, I mean."
+      ]
+    },
+    {
+      "quote_type": "Level Up",
+      "content": [
+        "Well it's about time, isn't it?",
+        "Suppose I've been promoted."
+      ]
+    },
+    {
+      "quote_type": "Checking Stats",
+      "content": [
+        "I think I can make these numbers work."
+      ]
+    },
+    {
+      "quote_type": "Miscellaneous",
+      "content": [
+        "Bang a gong.",
+        "Hope I'm not late for the party."
       ]
     }
   ],
@@ -58,18 +93,29 @@
     "Tidepool's name refers to the bodies of water formed by sea tides.",
     "Tidepool's super spy motif, combined with her British accent is very likely a direct reference to James Bond.",
     "Tidepool's catchphrase is very likely inspired by the Jules Verne novel '20,000 Leagues Under the Sea'.",
-    "Her pistols can be obtained for Imaginators by opening the Quickshot Shrine in Sky Fortress.",
+    "Her pistols can be obtained for Imaginators by opening the Quickshot Shrine in Sky Fortress. She also grants her shell helmet when first placed on the portal.",
+    "Her whale companions share the same character model as the dream whale floating around the outside Telescope Towers in Skylanders: Trap Team.",
+    "She is the second Water Skylander to use ink-based attacks whereas Wash Buckler is the first. Splat also uses ink, but a different kind (specifically, the ink used by artists instead of cephalopods).",
     "Whenever she pushes blocks or other movable objects, Tidepool pushes with her pistols, which usually leaves temporary ink stains on them.",
-    "She is the only Water Sensei who is not a Brawler."
+    "She is the only Water Sensei who is not a Brawler.",
+    "She is the only Quickshot Sensei who was not previously a Villain.",
+    "Tidepool and Spy Rise both have a motivation as secret agents.",
+    "Tidepool's Soul Gem cutscene shows a different icon to the Quickshot Battle Class, possibly a prototype design."
   ],
-  "trailers": [],
+  "trailers": [
+    {
+      "name": "Skylanders 10 Year Anniversary Collaboration Celebration Part 1: OG's and Masterminds",
+      "isValid": true,
+      "url": "https://youtu.be/WV1R5QazZYU?t=71"
+    }
+  ],
   "gameplay": "Tidepool's gameplay centers on her dual Squid Pistols, which fire ink-based projectiles at a distance. As a Quickshot, she excels at rapid fire and keeping enemies at bay. Her abilities allow her to summon whale tails and toss squids that attack enemies independently, providing both direct damage and crowd control. Her Soul Gem ability provides defensive capabilities using her shell helmet.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Tidepool",
   "abilities": {
     "basic": [
       {
         "name": "Squid Pistols",
-        "imgPath": "img_squid_pistols",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/63/Tidepoolprimarypower.png/revision/latest?cb=20170506215612",
         "content": "Press Attack 1 to shoot Ink Bullets.",
         "is_primary": true,
         "is_secondary": false,
@@ -81,7 +127,7 @@
       },
       {
         "name": "Squid Toss",
-        "imgPath": "img_squid_toss",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/5/57/Tidepoolsecondarypower.png/revision/latest?cb=20170506215623",
         "content": "Press Attack 2 to toss a squid!",
         "is_primary": false,
         "is_secondary": true,
@@ -95,7 +141,7 @@
     "basic_upgrades": [
       {
         "name": "Whale Tale",
-        "imgPath": "img_whale_tale",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/19/Tidepoolbasicupgrade1.png/revision/latest?cb=20170506215252",
         "content": "Press Attack 3 to summon a Whale Tale attack!",
         "is_primary": false,
         "is_secondary": false,
@@ -107,8 +153,8 @@
       },
       {
         "name": "Spin Shot",
-        "imgPath": "img_spin_shot",
-        "content": "Hold Attack 1 in the air for a spinning shoot attack.",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Tidepoolbasicupgrade2.png/revision/latest?cb=20170506215312",
+        "content": "Hold Attack 1 in the air for a spinning shoot attack. Try it from high heights!",
         "is_primary": false,
         "is_secondary": false,
         "price": 700,
@@ -119,11 +165,23 @@
       },
       {
         "name": "Blinding Ink",
-        "imgPath": "img_blinding_ink",
-        "content": "Squid Pistols bullets blind enemies, which slows them down.",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Tidepoolbasicupgrade3.png/revision/latest?cb=20170506215342",
+        "content": "Squid Pistols bullets blind enemies, which slows them down and can sometimes cause them to miss attacks!",
         "is_primary": false,
         "is_secondary": false,
         "price": 900,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
+        "name": "Whale Breach",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Tidepoolbasicupgrade4.png/revision/latest?cb=20170506215358",
+        "content": "Whale Tale ends with a spectacular Whale Breach!",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 1200,
         "colors": {
           "header": "#48D",
           "bg_content": "#BDF"
@@ -133,7 +191,7 @@
     "soulgems": [
       {
         "name": "Emergency Shell-met Defense",
-        "imgPath": "img_soulgem",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Tidepoolsoulgempower.png/revision/latest?cb=20170506215640",
         "content": "Hold Attack 2 to enter a defensive Shell-met mode! While in Shell-met, press Attack 1 to charge forward!",
         "is_primary": false,
         "is_secondary": false,
@@ -148,7 +206,7 @@
       {
         "season": 1,
         "name": "Water you waiting for?",
-        "imgPath": "img_sky_chi",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1e/Tidepoolskychipower.png/revision/latest?cb=20170506215632",
         "content": "The ultimate Sensei attack! Hold Special Attack to perform your Sky-Chi Power!",
         "is_primary": false,
         "is_secondary": false,
@@ -165,11 +223,35 @@
         "abilities": [
           {
             "name": "I'll ink to that",
-            "imgPath": "img_ink_to_that",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/78/Tidepoolpath1upgrade1.png/revision/latest?cb=20170506215417",
             "content": "Squid Pistols cause damage over time!",
             "is_primary": false,
             "is_secondary": false,
             "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Inking Big",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a9/Tidepoolpath1upgrade2.png/revision/latest?cb=20170506215510",
+            "content": "Hold Attack 1 for a huge big ink blob shot!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Squid Pistol Kata",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/40/Tidepoolpath1upgrade3.png/revision/latest?cb=20170506215520",
+            "content": "After an Inking Big shot, press Attack 1 three times for Squid Pistol Kata.",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
             "colors": {
               "header": "#48D",
               "bg_content": "#BDF"
@@ -182,11 +264,35 @@
         "abilities": [
           {
             "name": "Squid Squabble",
-            "imgPath": "img_squid_squabble",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f1/Tidepoolpath2upgrade1.png/revision/latest?cb=20170506215534",
             "content": "Squids from Squid Toss attack MUCH more frequently!",
             "is_primary": false,
             "is_secondary": false,
             "price": 1700,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Three's a pod!",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Tidepoolpath2upgrade2.png/revision/latest?cb=20170506215546",
+            "content": "Whale Tale gets some more whale friends for a wider attack that does more damage!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 2200,
+            "colors": {
+              "header": "#48D",
+              "bg_content": "#BDF"
+            }
+          },
+          {
+            "name": "Deep end",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/77/Tidepoolpath2upgrade3.png/revision/latest?cb=20170506215556",
+            "content": "Create a powerful whirlpool when using Whale Tale!",
+            "is_primary": false,
+            "is_secondary": false,
+            "price": 3000,
             "colors": {
               "header": "#48D",
               "bg_content": "#BDF"
@@ -203,7 +309,7 @@
       "edition": "Series 1",
       "type": "Sensei",
       "game": "Skylanders: Imaginators",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Tidepool_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/6/6e/Tidepool_Promo.jpg/revision/latest?cb=20161112054952",
       "attacks": [
         "Squid Pistols",
         "Squid Toss",
