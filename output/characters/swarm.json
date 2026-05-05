@@ -77,16 +77,16 @@
     "Swarm speaks in a Spanish accent, though the original inspiration was an Italian voice actor, who couldn't be hired due to SAG-AFTRA restrictions.",
     "He has the lowest health out of the other Giants.",
     "During Giants's early development, Swarm's abilities/upgrades were differently named.",
-    "\"Barb Blades\" was called \"Barb Blade / Barb Bullets.\"",
-    "\"Sharpened Barbs\" was called \"Wasp Blade.\" \"Wingin' It\" was called \"Aerial Throttle.\"",
-    "\"Swarm Form\" was called \"Insect Shroud Form.\"",
-    "\"Stinger Shot\" was called \"Air Cutter.\"",
-    "\"Better Barb Blast\" was called \"Barb Blast.\"",
-    "\"Ultimate Barbs\" was called \"Fury Barbs.\"",
-    "\"Swarm Storm\" was called \"Wasp Shroud Storm.\"",
-    "\"Insectsplosion\" was called \"Wasp Shroud Shockwave.\"",
-    "\"Bee Cleaver\" was called \"Wasp Shroud Axe.\"",
-    "\"Bee is for Butt Stinger\" was called \"Butt Stinger Missile.\"",
+    "'Barb Blades' was called 'Barb Blade / Barb Bullets.'",
+    "'Sharpened Barbs' was called 'Wasp Blade.' 'Wingin' It' was called 'Aerial Throttle.'",
+    "'Swarm Form' was called 'Insect Shroud Form.'",
+    "'Stinger Shot' was called 'Air Cutter.'",
+    "'Better Barb Blast' was called 'Barb Blast.'",
+    "'Ultimate Barbs' was called 'Fury Barbs.'",
+    "'Swarm Storm' was called 'Wasp Shroud Storm.'",
+    "'Insectsplosion' was called 'Wasp Shroud Shockwave.'",
+    "'Bee Cleaver' was called 'Wasp Shroud Axe.'",
+    "'Bee is for Butt Stinger' was called 'Butt Stinger Missile.'",
     "Unlike most flying Skylanders, Swarm (and Gill Grunt) flies in a standing position rather than in a quadruped stance. However, Swarm can slightly turn during the process of flight.",
     "He and Drobot are the only two Skylanders who can damage enemies by just flying.",
     "There is a glitch where if Swarm enters a cutscene or is otherwise interrupted whilst flying, he will land but will still be showing the animation of his wings buzzing.",
@@ -97,30 +97,30 @@
     "Swarm is the only giant who can fly, although Ninjini can float.",
     "Having 8,999 other insect siblings makes it hard to wrap presents and write birthday cards for each of them everyday. But on the bright side, on Swarm's birthday, he gets a whole pile of presents and cards.",
     "Swarm is one of the Skylanders who appear to be based upon insects (others being Dune Bug and High Five).",
-    "Despite being called a \"Giant Hornet\", it is unclear whether or not Swarm is more of a bee or wasp, as his moves and voice dialogue contain references to both bees and wasps. Examples being the \"Flight of the Wasp\" ability, the \"Wasp Stormer\" Path, \"Bee is for Butt-Stinger\" Soul Gem power, and his \"Bee Cleaver\" attack.",
+    "Despite being called a 'Giant Hornet', it is unclear whether or not Swarm is more of a bee or wasp, as his moves and voice dialogue contain references to both bees and wasps.",
     "He resembles more of a bombardier beetle than a bee or wasp.",
     "Some of his prototype names indicate he is most likely a wasp.",
-    "The name of his secondary ability \"Flight of the Wasp\", is perhaps a reference to the orchestral interlude, Flight of the Bumblebee.",
+    "The name of his secondary ability 'Flight of the Wasp', is perhaps a reference to the orchestral interlude, Flight of the Bumblebee.",
     "Swarm is voiced by Danny Jacobs, best known for voicing Victor Zsasz in Batman: Arkham Asylum and being the second voice of King Julien XIII in the Madagascar series."
   ],
   "trailers": [
     {
       "name": "Meet the Skylanders Swarm (Giant) Extended cut",
-      "isValid": false,
-      "url": "/wiki/File:Meet_the_Skylanders_Swarm_(Giant)_Extended_cut"
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Swarm_(Giant)_Extended_cut"
     },
     {
       "name": "Meet the Skylanders Swarm",
-      "isValid": false,
-      "url": "/wiki/File:Meet_the_Skylanders_Swarm"
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Swarm"
     },
     {
       "name": "Skylanders Giants - Swarm's Soul Gem Preview (Bring the Sting)",
-      "isValid": false,
-      "url": "/wiki/File:Skylanders_Giants_-_Swarm%27s_Soul_Gem_Preview_(Bring_the_Sting)"
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Swarm%27s_Soul_Gem_Preview_(Bring_the_Sting)"
     }
   ],
-  "gameplay": "",
+  "gameplay": "Swarm uses his Barb Blades for melee slashes and can take flight with Flight of the Wasp to rain down stingers from above. He can transform into a Swarm Form to damage enemies on contact. His upgrades allow him to sharpen his barbs, fly faster, and fire tracking butt stinger missiles. In the 3DS version, he gains unique moves like Charged Air Blades and Explosive Stingers as he levels up.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Swarm",
   "abilities": {
     "basic": [
@@ -132,7 +132,7 @@
         "is_secondary": false,
         "price": 0,
         "colors": {
-          "header": "black",
+          "header": "#6DF",
           "bg_content": "#BFF"
         }
       },
@@ -144,7 +144,7 @@
         "is_secondary": true,
         "price": 0,
         "colors": {
-          "header": "black",
+          "header": "#6DF",
           "bg_content": "#BFF"
         }
       }
@@ -158,7 +158,7 @@
         "is_secondary": false,
         "price": 500,
         "colors": {
-          "header": "black",
+          "header": "#6DF",
           "bg_content": "#BFF"
         }
       },
@@ -170,7 +170,7 @@
         "is_secondary": false,
         "price": 700,
         "colors": {
-          "header": "black",
+          "header": "#6DF",
           "bg_content": "#BFF"
         }
       },
@@ -182,7 +182,7 @@
         "is_secondary": false,
         "price": 900,
         "colors": {
-          "header": "black",
+          "header": "#6DF",
           "bg_content": "#BFF"
         }
       },
@@ -194,7 +194,7 @@
         "is_secondary": false,
         "price": 1200,
         "colors": {
-          "header": "black",
+          "header": "#6DF",
           "bg_content": "#BFF"
         }
       }
@@ -208,7 +208,7 @@
         "is_secondary": false,
         "price": 4000,
         "colors": {
-          "header": "black",
+          "header": "#d04c8e",
           "bg_content": "#BFF"
         }
       }
@@ -226,7 +226,7 @@
             "is_secondary": false,
             "price": 1700,
             "colors": {
-              "header": "black",
+              "header": "#6DF",
               "bg_content": "#BFF"
             }
           },
@@ -238,7 +238,7 @@
             "is_secondary": false,
             "price": 2200,
             "colors": {
-              "header": "black",
+              "header": "#6DF",
               "bg_content": "#BFF"
             }
           },
@@ -250,7 +250,7 @@
             "is_secondary": false,
             "price": 3000,
             "colors": {
-              "header": "black",
+              "header": "#6DF",
               "bg_content": "#BFF"
             }
           }
@@ -267,7 +267,7 @@
             "is_secondary": false,
             "price": 1700,
             "colors": {
-              "header": "black",
+              "header": "#6DF",
               "bg_content": "#BFF"
             }
           },
@@ -279,7 +279,7 @@
             "is_secondary": false,
             "price": 2200,
             "colors": {
-              "header": "black",
+              "header": "#6DF",
               "bg_content": "#BFF"
             }
           },
@@ -291,7 +291,7 @@
             "is_secondary": false,
             "price": 3000,
             "colors": {
-              "header": "black",
+              "header": "#6DF",
               "bg_content": "#BFF"
             }
           }
