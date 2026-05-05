@@ -5,7 +5,7 @@
   "gender": "Male",
   "element": "Water",
   "role": "Skylander",
-  "primary_game": "Skylanders: Lost Islands (June 2013)",
+  "primary_game": "Skylanders: Lost Islands",
   "appearances": [
     "Skylanders: Lost Islands"
   ],
@@ -16,16 +16,30 @@
   "description": "Surfer Slam Bam has ridden a huge wave into the Kingdom.",
   "biography": "Surfer Slam Bam is the Summer counterpart of Slam Bam. He was available exclusively on Skylanders: Lost Islands during the month of June 2013.",
   "quote": "Surfer Slam Bam has ridden a huge wave into the Kingdom.",
-  "personality": "",
-  "story": [],
-  "quotes": [],
+  "personality": "Not much is known about Surfer Slam Bam's personality, other than his association with summer and surfing themes.",
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "Surfer Slam Bam is the Summer counterpart of Slam Bam. He was available exclusively on Skylanders: Lost Islands during the month of June 2013.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Surfer_Slam_Bam_Promo.jpg/revision/latest/scale-to-width-down/268?cb=20130604000016"
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Surfer Slam Bam's description",
+      "content": [
+        "Surfer Slam Bam has ridden a huge wave into the Kingdom."
+      ]
+    }
+  ],
   "trivia": [
     "Surfer Slam Bam is the first summer themed variant.",
     "He is the first non-Legendary variant of a Water elemental Skylander.",
     "He is the first Alter Ego to have exclusive character artwork."
   ],
   "trailers": [],
-  "gameplay": "",
+  "gameplay": "Surfer Slam Bam was available exclusively on Skylanders: Lost Islands during the month of June 2013. As an Alter Ego, he is a non-playable character in the main console games and does not possess a traditional move set.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Surfer_Slam_Bam",
   "abilities": {
     "basic": [],
@@ -38,9 +52,9 @@
     {
       "id": "surfer-slam-bam",
       "variant_name": "Surfer Slam Bam",
-      "edition": "Series 1",
-      "type": "Core",
-      "game": "Skylanders: Lost Islands (June 2013)",
+      "edition": "Alter Ego",
+      "type": "Alter Ego",
+      "game": "Skylanders: Lost Islands",
       "image": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Surfer_Slam_Bam_Promo.jpg/revision/latest?cb=20130604000016",
       "attacks": [
         "None"
