@@ -25,8 +25,8 @@
     {
       "story_name": "Physical Traits",
       "content": "Thunderbolt's body is made up of swirling dark clouds. His back and his stomach both are equipped with a steel plate embedded with the Trap Master logo. His face is light blue with yellow eyes that have red pupils, blue lightning streak eyebrows, and a steel head plating embroidered with the Air element that reaches across his forehead and steel shoulder guards. His hands have four fingers and they are light blue with steel arm guards.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a4/Thunderbolt.jpg/revision/latest?cb=20150901011301"
     },
     {
       "story_name": "Biography",
@@ -63,7 +63,7 @@
         "A flurry of treasure! - after opening a treasure chest",
         "Downpour! - after opening a treasure chest",
         "Power blast! - when leveling up",
-        "Super storm! - when leveling up",
+        "Super storm! - when leveling up ",
         "The wind is at my back! - when checking stats",
         "The sky's the limit! - when checking stats",
         "This could be a natural disaster! - when wearing a hat",
@@ -75,19 +75,19 @@
     "He is similar to Lightning Rod in the following characteristics: Both are Air Skylanders. Both have lower torsos composed of clouds. Both use storm and electrical type attacks. Both of their names are based on electricity.",
     "The name of Thunderbolt's home, Mount Cloudpierce, is similar to Mount Cloudbreak.",
     "His Soul Gem ability has the same name as Cynder's Wow Pow from Skylanders: Giants.",
-    "There is a glitch that removes Thunderbolt's cloud and makes him appear without any legs. To perform this, the player must approach the Mirror of Mystery next to the vortex. Pressing the button will allow Glumshanks to come and talk to the Skylander. The player has to press \"NO\" when the prompt appears to make the cloud disappear.",
-    "In Skylanders: SuperChargers Racing, instead of his regular catchphrase, he says \"Taking the World by Storm\"."
+    "There is a glitch that removes Thunderbolt's cloud and makes him appear without any legs. To perform this, the player must approach the Mirror of Mystery next to the vortex. Pressing the button will allow Glumshanks to come and talk to the Skylander. The player has to press 'NO' when the prompt appears to make the cloud disappear.",
+    "In Skylanders: SuperChargers Racing, instead of his regular catchphrase, he says 'Taking the World by Storm'."
   ],
   "trailers": [
     {
       "name": "Meet the Skylanders Thunderbolt",
-      "isValid": false,
-      "url": "/wiki/File:Meet_the_Skylanders_Thunderbolt"
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Thunderbolt"
     },
     {
       "name": "Skylanders Trap Team - Thunderbolt's Soul Gem Preview (A Storm Is Coming)",
-      "isValid": false,
-      "url": "/wiki/File:Skylanders_Trap_Team_-_Thunderbolt's_Soul_Gem_Preview_(A_Storm_Is_Coming)"
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Thunderbolt%27s_Soul_Gem_Preview_(A_Storm_Is_Coming)"
     }
   ],
   "gameplay": "Thunderbolt can use his enormous Traptanium Storm Sword, which causes lightning to blast out with every swing, he can also use it to create a tornado that pulls in enemies. Thunderbolt can even shoot storm clouds from his own cloudy body which can shock enemies.",
@@ -96,7 +96,7 @@
     "basic": [
       {
         "name": "Traptanium Thundersword",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Thunderboltprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170503155534",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3b/Thunderboltprimarypower.png/revision/latest?cb=20170503155534",
         "content": "Press Attack 1 to swing the Traptanium Thundersword.",
         "is_primary": true,
         "is_secondary": false,
@@ -108,7 +108,7 @@
       },
       {
         "name": "Storm Clouds",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Thunderboltsecondarypower.png/revision/latest/scale-to-width-down/148?cb=20170503155601",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Thunderboltsecondarypower.png/revision/latest?cb=20170503155601",
         "content": "Press Attack 2 to summon a cloud that rains pain down on enemies.",
         "is_primary": false,
         "is_secondary": true,
@@ -122,7 +122,7 @@
     "basic_upgrades": [
       {
         "name": "Lightning Clouds",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/28/Thunderboltbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170503155723",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/2/28/Thunderboltbasicupgrade1.png/revision/latest?cb=20170503155723",
         "content": "Charge up Storm Clouds with the Thunderbolt, causing them to shoot lightning.",
         "is_primary": false,
         "is_secondary": false,
@@ -134,7 +134,7 @@
       },
       {
         "name": "Hurricane Pain",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/96/Thunderboltbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170503155747",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/96/Thunderboltbasicupgrade2.png/revision/latest?cb=20170503155747",
         "content": "Press Attack 3 to summon a Twister.",
         "is_primary": false,
         "is_secondary": false,
@@ -146,7 +146,7 @@
       },
       {
         "name": "More Thunder",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Thunderboltbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170503155810",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Thunderboltbasicupgrade3.png/revision/latest?cb=20170503155810",
         "content": "Traptanium Thundersword does more damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -158,7 +158,7 @@
       },
       {
         "name": "Hurricane Pain Remains",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Thunderboltbasicupgrade4.png/revision/latest/scale-to-width-down/148?cb=20170503155850",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Thunderboltbasicupgrade4.png/revision/latest?cb=20170503155850",
         "content": "Twister lasts longer, does more damage, and sucks in clouds.",
         "is_primary": false,
         "is_secondary": false,
@@ -172,7 +172,7 @@
     "soulgems": [
       {
         "name": "Lightning Rain",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8a/Thunderboltsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170503155909",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/8a/Thunderboltsoulgempower.png/revision/latest?cb=20170503155909",
         "content": "Hold Attack 1 and then press Attack 2 to call in a lightning storm.",
         "is_primary": false,
         "is_secondary": false,
@@ -190,7 +190,7 @@
         "abilities": [
           {
             "name": "Direct Current",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Thunderboltpath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170503160030",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Thunderboltpath1upgrade1.png/revision/latest?cb=20170503160030",
             "content": "Press Attack 1, Attack 1 HOLD Attack 2 for Power Conductor combo.",
             "is_primary": false,
             "is_secondary": false,
@@ -202,7 +202,7 @@
           },
           {
             "name": "Thunder Thrust",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/be/Thunderboltpath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170503160100",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/be/Thunderboltpath1upgrade2.png/revision/latest?cb=20170503160100",
             "content": "Press Attack 1, Attack 1, HOLD Attack 3 for a Thunder Thrust combo.",
             "is_primary": false,
             "is_secondary": false,
@@ -214,7 +214,7 @@
           },
           {
             "name": "Just Add Lightning",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/76/Thunderboltpath1upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170503160147",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/76/Thunderboltpath1upgrade3.png/revision/latest?cb=20170503160147",
             "content": "Press Attack 1, Attack 1, HOLD Attack 1 to add some lightning power to your sword slam.",
             "is_primary": false,
             "is_secondary": false,
@@ -231,7 +231,7 @@
         "abilities": [
           {
             "name": "Stormier and Stormier",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Thunderboltpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170503160416",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Thunderboltpath2upgrade1.png/revision/latest?cb=20170503160416",
             "content": "All lightning attacks have extra range and do increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -243,7 +243,7 @@
           },
           {
             "name": "Charge It Up!",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Thunderboltpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170503160453",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/e8/Thunderboltpath2upgrade2.png/revision/latest?cb=20170503160453",
             "content": "Charge up Storm Clouds with the Thundersword with extra power.",
             "is_primary": false,
             "is_secondary": false,
@@ -255,7 +255,7 @@
           },
           {
             "name": "Exploding Clouds",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Thunderboltpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20170503160517",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Thunderboltpath2upgrade3.png/revision/latest?cb=20170503160517",
             "content": "Storm Clouds can be overcharge with lightning and explode for maximum damage.",
             "is_primary": false,
             "is_secondary": false,
