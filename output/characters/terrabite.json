@@ -25,11 +25,33 @@
   "biography": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
   "quote": "It's Feeding Time!",
   "personality": "Terrabite is pretty persistent. If he gets knocked down, he gets right back up again in true hero style.",
-  "story": [],
-  "quotes": [],
+  "story": [
+    {
+      "story_name": "Background",
+      "content": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/37/Terrabite_promo.jpg"
+    },
+    {
+      "story_name": "Biography",
+      "content": "The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+      "hasImage": false,
+      "imgPath": ""
+    }
+  ],
+  "quotes": [
+    {
+      "quote_type": "Official Catchphrase",
+      "content": [
+        "It's Feeding Time!"
+      ]
+    }
+  ],
   "trivia": [
     "Terrabite's name is a play on the word Terabyte, referring to a unit of information that is equal to one million million bytes (or 2^40).",
-    "As a sidekick in Spyro's Adventure to Swap Force, Terrabite had spikes on his head. As a Mini Skylander in Trap Team onward, his spikes are not featured. Strangely, in his promo art and toy figure, Terrabite's spikes are black. In-game, they are orange."
+    "As a sidekick in Spyro's Adventure to Swap Force, Terrabite had spikes on his head. As a Mini Skylander in Trap Team onward, his spikes are not featured.",
+    "Strangely, in his promo art and toy figure, Terrabite's spikes are black. In-game, they are orange.",
+    "Terrabite was voiced by Joey Camen in 2012."
   ],
   "trailers": [
     {
@@ -43,21 +65,83 @@
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play-_Terrabite"
     }
   ],
-  "gameplay": "null",
+  "gameplay": "Terrabite acts as a miniature version of Terrafin. Originally introduced as a Sidekick that followed the player's character, he transitioned into a fully playable Mini Skylander in Skylanders: Trap Team. His moveset mirrors Terrafin's, focusing on physical brawling and earth-based maneuvers like burrowing underground to evade enemies and launch surprise attacks.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Terrabite",
   "abilities": {
-    "basic": [],
-    "basic_upgrades": [],
+    "basic": [
+      {
+        "name": "Shark Punch",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/37/Terrabite_promo.jpg",
+        "content": "Terrabite punches enemies with his fists.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#A0522D",
+          "bg_content": "#FFF8DC"
+        }
+      },
+      {
+        "name": "Earth Swim",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/37/Terrabite_promo.jpg",
+        "content": "Terrabite dives into the ground and swims through the earth to avoid damage and strike from below.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#A0522D",
+          "bg_content": "#FFF8DC"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "Brass Knuckles",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/37/Terrabite_promo.jpg",
+        "content": "Provides increased damage for the Shark Punch attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#A0522D",
+          "bg_content": "#FFF8DC"
+        }
+      },
+      {
+        "name": "Mega Bellyflop",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/37/Terrabite_promo.jpg",
+        "content": "While earth swimming, jump out of the ground to perform a powerful belly flop.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#A0522D",
+          "bg_content": "#FFF8DC"
+        }
+      },
+      {
+        "name": "Razorfin",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/37/Terrabite_promo.jpg",
+        "content": "Terrabite's fin deals damage to enemies while he is earth swimming.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 900,
+        "colors": {
+          "header": "#A0522D",
+          "bg_content": "#FFF8DC"
+        }
+      }
+    ],
     "soulgems": [],
     "wow_pows": [],
     "upgrade_paths": []
   },
   "variants": [
     {
-      "id": "terrabite",
-      "variant_name": "Terrabite",
+      "id": "terrabite_sidekick",
+      "variant_name": "Terrabite (Sidekick)",
       "edition": "Series 1",
-      "type": "Mini",
+      "type": "Sidekick",
       "game": "Skylanders: Spyro's Adventure",
       "image": "https://static.wikia.nocookie.net/skylanders/images/3/37/Terrabite_promo.jpg",
       "attacks": [
@@ -87,6 +171,76 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "110"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Terrabite"
+    },
+    {
+      "id": "terrabite_mini",
+      "variant_name": "Terrabite (Mini)",
+      "edition": "Series 4",
+      "type": "Mini",
+      "game": "Skylanders: Trap Team",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/37/Terrabite_promo.jpg",
+      "attacks": [
+        "Shark Punch",
+        "Earth Swim",
+        "Brass Knuckles",
+        "Mega Bellyflop",
+        "Razorfin"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "310 (max. 620)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "30 (max. 80)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "50"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "90"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "110"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Terrabite"
