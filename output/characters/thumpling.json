@@ -4,7 +4,7 @@
   "species": "Whale-like Behemoth",
   "gender": "Male",
   "element": "Water",
-  "role": "Sidekick",
+  "role": "Mini",
   "primary_game": "Skylanders: Giants",
   "appearances": [
     "Skylanders: Giants",
@@ -13,6 +13,7 @@
     "The Kaos Trap",
     "Skylanders: Trap Team",
     "Skylanders Issue 12",
+    "Skylanders Issue 3",
     "Skylanders: SuperChargers (Racing)",
     "Skylanders: Imaginators"
   ],
@@ -21,27 +22,27 @@
     "Skylands Miniverse"
   ],
   "description": "Thumpling is one of the four Sidekicks in Skylanders: Giants. He is the miniature version of the giant Thumpback, eventually becoming a Mini Skylander in Skylanders: Trap Team.",
-  "biography": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+  "biography": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
   "quote": "Hail to the Whale!",
   "personality": "Thumpling is a dedicated hero who will always be there whenever his teammates need him. He shares Thumpback's love for fishing.",
   "story": [
     {
       "story_name": "Biography",
-      "content": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-      "hasImage": false,
-      "imgPath": ""
+      "content": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Thumpling.jpg/revision/latest?cb=20140813160158"
     }
   ],
   "quotes": [
     {
-      "quote_type": "Catchphrase",
+      "quote_type": "Official Catchphrase",
       "content": [
         "Hail to the Whale!"
       ]
     }
   ],
   "trivia": [
-    "His name is most likely a pun on the food \"dumpling\".",
+    "His name is most likely a pun on the food 'dumpling'.",
     "His pedestal has a small wavy splash in front of him, while most Water pedestals have a uniform wave pattern around the character.",
     "He is the second Skylander to named after a food; the first being Hot Dog and the third being Pop Thorn.",
     "In Skylanders: Lost Islands, Thumpling seems to be much smaller than Barkley, Eye-Small, and Mini Jini despite being the Mini version of a Giant. Because of the way the game's Skylander section worked, it was easier to select him through the list than to try and pick him up on the overworld.",
@@ -54,21 +55,84 @@
       "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Thumpling"
     }
   ],
-  "gameplay": "",
+  "gameplay": "Thumpling's statistics in-game for health and speed are often unlisted, but his official Power Stats are high, with 90 Strength and 90 Defense, and a perfect 100 in Agility and Luck. These Power Stats are provided for completeness and are not actively used in the gameplay mechanics of the series.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Thumpling",
   "abilities": {
-    "basic": [],
-    "basic_upgrades": [],
-    "soulgems": [],
+    "basic": [
+      {
+        "name": "Anchor Assault",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Thumpling.jpg/revision/latest?cb=20140813160158",
+        "content": "Swing your anchor at enemies.",
+        "is_primary": true,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      },
+      {
+        "name": "Belly Flop",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Thumpling.jpg/revision/latest?cb=20140813160158",
+        "content": "Jump and slam down on enemies.",
+        "is_primary": false,
+        "is_secondary": true,
+        "price": 0,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "basic_upgrades": [
+      {
+        "name": "A Whale Of A Chomp",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Thumpling.jpg/revision/latest?cb=20140813160158",
+        "content": "An enhanced chomp attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 500,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      },
+      {
+        "name": "The Whalest Chomp",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Thumpling.jpg/revision/latest?cb=20140813160158",
+        "content": "The most powerful version of the chomp attack.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 700,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
+    "soulgems": [
+      {
+        "name": "Now There's An Anchor!",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Thumpling.jpg/revision/latest?cb=20140813160158",
+        "content": "Unleash the ultimate power of the anchor.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#00BFFF",
+          "bg_content": "#B0E0E6"
+        }
+      }
+    ],
     "wow_pows": [],
     "upgrade_paths": []
   },
   "variants": [
     {
-      "id": "thumpling",
+      "id": "thumpling_s1",
       "variant_name": "Thumpling",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Mini",
       "game": "Skylanders: Giants",
       "image": "https://static.wikia.nocookie.net/skylanders/images/c/ce/Thumpling.jpg/revision/latest?cb=20140813160158",
       "attacks": [
