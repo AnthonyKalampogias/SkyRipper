@@ -20,9 +20,9 @@
     "Skylands"
   ],
   "description": "Torch is one of the Fire core Skylanders in Skylanders: Trap Team.",
-  "biography": "Torch’s childhood was spent working with her grandfather as a dragon keeper, where she helped tend to a stable of dragons that protected her village. One year, an evil Snow Dragon unleashed a terrible blizzard that trapped her entire homeland inside a massive ice glacier! Torch was the only one to escape. Having always been fearless, she set out at once to rescue the villagers and her dragons from their chilly fate. Armed with her Firespout Flamethrower, she fought hard through the treacherous conditions and bravely defeated the Snow Dragon in an epic battle. After the village was free from its icy doom, Torch returned home to find her grandfather missing. The only token left behind was his lucky flaming horseshoe. Now as a member of the Skylanders, Torch wields her powerful flamethrower as well as her lucky horseshoe in hopes it will one day lead her to the grandfather she had lost.",
+  "biography": "Torch's childhood was spent working with her grandfather as a dragon keeper, where she helped tend to a stable of dragons that protected her village. One year, an evil Snow Dragon unleashed a terrible blizzard that trapped her entire homeland inside a massive ice glacier! Torch was the only one to escape. Having always been fearless, she set out at once to rescue the villagers and her dragons from their chilly fate. Armed with her Firespout Flamethrower, she fought hard through the treacherous conditions and bravely defeated the Snow Dragon in an epic battle. After the village was free from its icy doom, Torch returned home to find her grandfather missing. The only token left behind was his lucky flaming horseshoe. Now as a member of the Skylanders, Torch wields her powerful flamethrower as well as her lucky horseshoe in hopes it will one day lead her to the grandfather she had lost.",
   "quote": "Fire It Up!",
-  "personality": "Torch is pretty fearless. Some might say she is hotheaded. [2]",
+  "personality": "Torch is pretty fearless. Some might say she is hotheaded.",
   "story": [
     {
       "story_name": "Champions",
@@ -67,30 +67,30 @@
   "trivia": [
     "She is the second Fire Skylander to be female, the first being Smolderdash.",
     "Her Soul Gem upgrade, The Incinerator, has many similarities with the Incinerator from Ratchet & Clank Future: Tools of Destruction, as they're both the maximum upgrade, have dual flame jets coming out of the flamethrower, and have similar names.",
-    "Torch is one of the few Skylanders who are currently searching for their loved ones while fighting evil (others being Gill Grunt, Chill, Sprocket, and Roller Brawl).However, Roller Brawl reunited with her brothers in Biting Back by freeing them from Kaos, who ordered trolls to control them by magical puppets.",
+    "Torch is one of the few Skylanders who are currently searching for their loved ones while fighting evil (others being Gill Grunt, Chill, Sprocket, and Roller Brawl). However, Roller Brawl reunited with her brothers in Biting Back by freeing them from Kaos, who ordered trolls to control them by magical puppets.",
     "Torch's voice actor, Salli Saffioti, also voiced Whirlwind and Eye Scream.",
-    "Torch claims that the villain Hood Sickle 'gives her the creeps'.[3]",
+    "Torch claims that the villain Hood Sickle 'gives her the creeps'.",
     "During Gamescom 2014, some of the game's developers mispronounced her name as 'Forge'.",
     "A skin texture map of Torch was leaked in the 1.0 version of Skylanders: Ring of Heroes, but she never appeared in the final game."
   ],
   "trailers": [
     {
       "name": "Meet the Skylanders Torch",
-      "isValid": false,
-      "url": ""
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Torch"
     },
     {
       "name": "Skylanders Trap Team - Torch's Soul Gem Preview (Fire It Up)",
-      "isValid": false,
-      "url": ""
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Trap_Team_-_Torch%27s_Soul_Gem_Preview_(Fire_It_Up)"
     },
     {
       "name": "Skylanders Power Play Torch",
-      "isValid": false,
-      "url": ""
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Torch"
     }
   ],
-  "gameplay": "",
+  "gameplay": "Torch uses her Firespout Flamethrower to roast enemies with primary attacks and tosses Flaming Horseshoes as secondary attacks. She also possesses a unique Flaming Hair Whip to knock back enemies. On console, her upgrades allow her to set the ground on fire or breathe blue flames. In the 3DS version, her horse shoes catch fire on the ground and she delivers powerful hits when enemies get close.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Torch",
   "abilities": {
     "basic": [
@@ -271,10 +271,10 @@
   },
   "variants": [
     {
-      "id": "torch",
+      "id": "torch-s1",
       "variant_name": "Torch",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Trap Team",
       "image": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Torch_Promo.jpg/revision/latest?cb=20140610214032",
       "attacks": [
