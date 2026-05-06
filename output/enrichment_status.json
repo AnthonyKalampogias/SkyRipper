@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-05T21:04:52.124Z",
+  "last_run": "2026-05-06T03:07:12.895Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -1264,6 +1264,18 @@
     {
       "name": "Trail Blazer",
       "sha": "dd81baf453c56b631dc8e74e050e480120219e41cc75e8e44bacf5b5b1552e61"
+    },
+    {
+      "name": "Trap Shadow",
+      "sha": "b88ae7e3cc8a4de2ad2cc73305bd2b8f77c3801abb61d139635f89cb858645d2"
+    },
+    {
+      "name": "Trap Team",
+      "sha": "14a60303a8fcc0936e9c3d0e552f56dbbf71682898c828799cd1d2c029a01226"
+    },
+    {
+      "name": "Tread Head",
+      "sha": "5b8f6fa0af3451bf28c761a91fa93acc2990297358a2891bc4f7dccb10d61158"
     }
   ]
 }
