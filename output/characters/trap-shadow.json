@@ -70,18 +70,18 @@
   "trailers": [
     {
       "name": "Skylanders Swap Force - Meet the Skylanders - Trap Shadow",
-      "isValid": false,
-      "url": "/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Trap_Shadow"
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Meet_the_Skylanders_-_Trap_Shadow"
     },
     {
       "name": "Skylanders Swap Force - Trap Shadow Soul Gem Preview (Hide and Sleek)",
-      "isValid": false,
-      "url": "/wiki/File:Skylanders_Swap_Force_-_Trap_Shadow_Soul_Gem_Preview_(Hide_and_Sleek)"
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Trap_Shadow_Soul_Gem_Preview_(Hide_and_Sleek)"
     },
     {
       "name": "Meet the SWAP Force Trap Shadow",
-      "isValid": false,
-      "url": "/wiki/File:Meet_the_SWAP_Force_Trap_Shadow"
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_SWAP_Force_Trap_Shadow"
     }
   ],
   "gameplay": "Trap Shadow attacks by slashing enemies with his shadowy claws, and can kick waves of shadows at foes. He can also throw magical traps that snap and damage enemies, and even turn invisible by using shadows, and create an explosion of shadows when reappearing.",
