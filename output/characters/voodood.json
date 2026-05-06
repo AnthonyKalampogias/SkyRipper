@@ -38,7 +38,7 @@
       "story_name": "Secret Agents Secrets",
       "content": "Voodood, Boomer, and Ghost Roaster were Buzz's elite team of Skylanders when they mysteriously disappeared while on a mission at Motleyville and hadn't returned for months. SuperChargers Spitfire, Stormblade and Nightfall, were assigned to find the lost Skylanders at their last known location. Upon getting ambushed by Spell Punks lead by Spellslamzer, the SuperChargers were suddenly defeated and knocked unconscious by Voodood, Boomer and Ghost Roaster, who were now working for Spellslamzer. With the three SuperChargers imprisoned, Spellslamzer announced his plan to raid the Mabu Radiance mines of its rare and powerful minerals, controlling the crystal supply to become the supreme power in all of Skylands. As Stormblade wondered why Voodood, Ghost Roaster, and Boomer would turn their backs on Skylands and Master Eon, Ghost Roaster revealed that he and the other two Elites grew tired of being tossed aside and forgotten while the Skylanders such as the SuperChargers, SWAP Force and the Giants were more appreciated. Voodood later caught Spitfire, Stormblade and Nightfall when they attempted to escape, and Spellslamzer had the three SuperChargers strapped helplessly to the front of their own vehicles as the evil Spell Punk and his army rode out towards the Mabu mines. During their attack on the Radiance Mines, Voodood and Boomer turned against Spellslamzer, revealing that all three Elites were pretending to be evil from the start. However, Ghost Roaster remained on Spellslamzer's side, holding onto the belief that he and the Elites would simply be tossed aside and forgotten even if they turned in Spellslamzer. The remaining Elites and the freed SuperChargers would then engage Spellslamzer, his minions, and Ghost Roaster in battle. When it seemed that Ghost Roaster would destroy Stormblade, he instead threw his explosive ball and chain at the Radiance crystals under Spellslamzer, blowing them up and knocking Spellslamzer unconscious. The Skylanders welcomed Ghost Roaster back to the side of good and the SuperChargers as full-fledged Skylanders.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/Elites_Issue_2.png/revision/latest/scale-to-width-down/282?cb=20151217081140"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cd/Elites_Issue_2.png/revision/latest?cb=20151217081140"
     }
   ],
   "quotes": [
@@ -100,22 +100,22 @@
     {
       "name": "Skylanders Spyro's Adventure - Voodood Preview (Axe First, Questions Later)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_-_Voodood_Preview_(Axe_First,_Questions_Later)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Voodood_Preview_%28Axe_First%2C_Questions_Later%29"
     },
     {
       "name": "Skylanders Spyro's Adventures Extraction- Voodood (Wii)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventures_Extraction-_Voodood"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventures_Extraction-_Voodood"
     },
     {
       "name": "Voodood Soul Gem (Spyro's Adventure) (PlayStation 3 & Xbox 360)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Voodood_Soul_Gem_(Spyro's_Adventure)"
+      "url": "https://skylanders.fandom.com/wiki/File:Voodood_Soul_Gem_%28Spyro%27s_Adventure%29"
     },
     {
       "name": "Voodood Soul Gem (Giants)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Voodood_Soul_Gem_(Giants)"
+      "url": "https://skylanders.fandom.com/wiki/File:Voodood_Soul_Gem_%28Giants%29"
     }
   ],
   "gameplay": "Using his axe, Voodood can attack enemies using magical energy that channels through his weapon, he can even create magical tripwires with it. He can also use his axe as a grappling hook to latch onto his opponents, stunning them while he pulls himself towards their location to finish them off in close combat. In 'Secret Agent Secrets' it was also shown that Voodood's axe can unleash magical blasts.",
@@ -304,12 +304,12 @@
       "edition": "Series 1",
       "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/3/38/Voodood_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/3/38/Voodood_Promo.jpg/revision/latest?cb=20111215014110",
       "attacks": [
         "Axe Reaver",
         "Zipline Axe",
-        "Magical Tripwire Bomb",
-        "Roadblock Tripwire",
+        "Magical Tripwire",
+        "Extended Blade",
         "Electro Axe"
       ],
       "stats": [
