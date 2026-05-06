@@ -111,7 +111,7 @@
     "basic": [
       {
         "name": "Spin Attack",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cb/Warnadoprimarypower.png/revision/latest?cb=20241018175753",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cb/Warnadoprimarypower.png",
         "content": "Spin in your shell to take out enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -123,7 +123,7 @@
       },
       {
         "name": "Summon Tornado",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Warnadosecondarypower.png/revision/latest?cb=20241018175905",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/6c/Warnadosecondarypower.png",
         "content": "A high velocity spin generates a tornado that picks up enemies.",
         "is_primary": false,
         "is_secondary": true,
@@ -137,7 +137,7 @@
     "basic_upgrades": [
       {
         "name": "Sharp Shell",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Warnadobasicupgrade1.png/revision/latest?cb=20241018180113",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Warnadobasicupgrade1.png",
         "content": "Spin Attack does increased damage.",
         "is_primary": false,
         "is_secondary": false,
@@ -149,7 +149,7 @@
       },
       {
         "name": "Extended Tornado",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Warnadobasicupgrade2.png/revision/latest?cb=20241018180328",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/c1/Warnadobasicupgrade2.png",
         "content": "Extend the range of your Tornado attack.",
         "is_primary": false,
         "is_secondary": false,
@@ -161,7 +161,7 @@
       },
       {
         "name": "High Winds",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dd/Warnadobasicupgrade3.png/revision/latest?cb=20241018180528",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/dd/Warnadobasicupgrade3.png",
         "content": "Tornadoes can damage multiple enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -173,7 +173,7 @@
       },
       {
         "name": "Whirlwind Flight",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Warnadobasicupgrade4.png/revision/latest?cb=20241018180708",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Warnadobasicupgrade4.png",
         "content": "This upgrade provides increased speed and armor while flying.",
         "is_primary": false,
         "is_secondary": false,
@@ -187,7 +187,7 @@
     "soulgems": [
       {
         "name": "Thick Shelled",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Warnadosoulgempower.png/revision/latest?cb=20241018180021",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/17/Warnadosoulgempower.png",
         "content": "A thicker shell provides better armor. Grants +40 armor.",
         "is_primary": false,
         "is_secondary": false,
@@ -205,7 +205,7 @@
         "abilities": [
           {
             "name": "Low Friction Shell",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/86/Warnadopath1upgrade1.png/revision/latest?cb=20241018180909",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/86/Warnadopath1upgrade1.png",
             "content": "Spin attack strikes faster.",
             "is_primary": false,
             "is_secondary": false,
@@ -217,7 +217,7 @@
           },
           {
             "name": "Flying Mini Turtles",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Warnadopath1upgrade2.png/revision/latest?cb=20241018181052",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/1/1b/Warnadopath1upgrade2.png",
             "content": "Mini-Warnados fly with you and you can launch them at your enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -229,7 +229,7 @@
           },
           {
             "name": "Turtle Slam",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/73/Warnadopath1upgrade3.png/revision/latest?cb=20241018181158",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/73/Warnadopath1upgrade3.png",
             "content": "While flying, slam down on your enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -246,7 +246,7 @@
         "abilities": [
           {
             "name": "Guided Twister",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9f/Warnadopath2upgrade1.png/revision/latest?cb=20241018181435",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9f/Warnadopath2upgrade1.png",
             "content": "Manually control the direction of your tornado attack.",
             "is_primary": false,
             "is_secondary": false,
@@ -258,7 +258,7 @@
           },
           {
             "name": "Summon Cyclone",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Warnadopath2upgrade2.png/revision/latest?cb=20241018181538",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a0/Warnadopath2upgrade2.png",
             "content": "Tornadoes are super-sized and do increased damage.",
             "is_primary": false,
             "is_secondary": false,
@@ -270,7 +270,7 @@
           },
           {
             "name": "Wind Elemental",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/eb/Warnadopath2upgrade3.png/revision/latest?cb=20241018181713",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/eb/Warnadopath2upgrade3.png",
             "content": "Tornadoes will attack enemies on their own.",
             "is_primary": false,
             "is_secondary": false,
