@@ -21,14 +21,26 @@
   "world": [
     "Skylands Miniverse"
   ],
-  "description": "Trigger Snappy is the miniature counterpart of Trigger Happy. Originally appearing as a Sidekick, he eventually became a playable Mini Skylander.",
+  "description": "Trigger Snappy is one of the four Sidekicks in Skylanders: Spyro's Adventure. He is the miniature counterpart of Trigger Happy, eventually becoming a Mini Skylander in Skylanders: Trap Team.",
   "biography": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular 'Sidekicks,' assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
   "quote": "No Gold, No Glory!",
-  "personality": "Trigger Snappy is a ball of positive energy. He's funny and happy, and his teammates love being around him. When trouble blows into town, he blows it right back out, like his mentor Trigger Happy. Trigger Snappy can be a pretty antsy sometimes. [1]",
+  "personality": "Trigger Snappy is a ball of positive energy. He's funny and happy, and his teammates love being around him. When trouble blows into town, he blows it right back out, like his mentor Trigger Happy. Trigger Snappy can be a pretty antsy sometimes.",
   "story": [
     {
       "story_name": "Background",
-      "content": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular 'Sidekicks,' assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
+      "content": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Personality",
+      "content": "Trigger Snappy is a ball of positive energy. He's funny and happy, and his teammates love being around him. When trouble blows into town, he blows it right back out, like his mentor Trigger Happy. Trigger Snappy can be a pretty antsy sometimes.",
+      "hasImage": false,
+      "imgPath": ""
+    },
+    {
+      "story_name": "Biography",
+      "content": "The Skylander Minis started off as regular 'Sidekicks,' assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
       "hasImage": false,
       "imgPath": ""
     }
@@ -58,7 +70,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Power_Play_Trigger_Snappy"
     }
   ],
-  "gameplay": "Trigger Snappy functions as a miniature counterpart to Trigger Happy. Originally a Sidekick who assisted other Skylanders, he became a fully playable Mini Skylander starting in Trap Team. He shares a similar move set with Trigger Happy, utilizing gold-based weaponry. In later titles like SuperChargers and Imaginators, his health scaling is notably high, even surpassing that of his full-sized mentor.",
+  "gameplay": "Trigger Snappy functions as a miniature counterpart to Trigger Happy. Originally a Sidekick who assisted other Skylanders, he became a fully playable Mini Skylander starting in Trap Team. As a Mini Skylander, he has unique summoning poses: in Trap Team, he jumps while exclaiming his catchphrase, while in SuperChargers and Imaginators, he pretend fires his guns. In later titles, his health scaling is exceptionally high, even surpassing that of Trigger Happy in SuperChargers and Imaginators.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Trigger_Snappy",
   "abilities": {
     "basic": [
