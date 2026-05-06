@@ -23,8 +23,8 @@
     {
       "story_name": "Physical Traits",
       "content": "Tri-Tip is an anthropomorphic triceratops wearing black and gold armor with the golden Sensei belt tied around his waist. He wields a massive mace in his hand.",
-      "hasImage": false,
-      "imgPath": ""
+      "hasImage": true,
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/99/Tri_Tip_Promo.jpg/revision/latest?cb=20160601125516"
     },
     {
       "story_name": "Biography",
@@ -280,7 +280,7 @@
   },
   "variants": [
     {
-      "id": "tri-tip",
+      "id": "tri-tip-s1",
       "variant_name": "Tri-Tip",
       "edition": "Series 1",
       "type": "Sensei",
@@ -312,6 +312,40 @@
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Tri-Tip"
+    },
+    {
+      "id": "legendary-tri-tip",
+      "variant_name": "Legendary Tri-Tip",
+      "edition": "Legendary",
+      "type": "Sensei",
+      "game": "Skylanders: Imaginators",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/99/Tri_Tip_Promo.jpg/revision/latest?cb=20160601125516",
+      "attacks": [
+        "Mace Smash",
+        "Dino Dash",
+        "Summon Fossil Traps",
+        "Mightier Mace",
+        "Historic Preservation"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "300"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "350"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "130"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Legendary_Tri-Tip"
     }
   ]
 }
