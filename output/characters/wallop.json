@@ -21,7 +21,7 @@
     "Mount Scorch"
   ],
   "description": "Wallop is a Unique brown-furred, Bear-like Creature. He is one of the Earth Trap Masters in Skylanders: Trap Team and Snap Shot's best friend.",
-  "biography": "For generations, Wallop’s people used the volcanic lava pits of Mount Scorch to forge the most awesome weapons in all of Skylands. And Wallop was the finest apprentice any of the masters had ever seen. Using hammers in both of his mighty hands, he could tirelessly pound and shape the incredibly hot metal into the sharpest swords or the hardest axes. But on the day he was to demonstrate his skills to the masters of his craft, a fierce fire viper awoke from his deep sleep in the belly of the volcano. The huge snake erupted forth, attacking Wallop’s village. But, bravely charging the beast with his two massive hammers, Wallop was able to bring down the creature and save his village. Now with his Traptanium-Infused Hammers, he fights with the Skylanders to protect the lands from any evil that rises to attack!",
+  "biography": "For generations, Wallop's people used the volcanic lava pits of Mount Scorch to forge the most awesome weapons in all of Skylands. And Wallop was the finest apprentice any of the masters had ever seen. Using hammers in both of his mighty hands, he could tirelessly pound and shape the incredibly hot metal into the sharpest swords or the hardest axes. But on the day he was to demonstrate his skills to the masters of his craft, a fierce fire viper awoke from his deep sleep in the belly of the volcano. The huge snake erupted forth, attacking Wallop's village. But, bravely charging the beast with his two massive hammers, Wallop was able to bring down the creature and save his village. Now with his Traptanium-Infused Hammers, he fights with the Skylanders to protect the lands from any evil that rises to attack!",
   "quote": "Hammer It Home!",
   "personality": "Wallop is the best friend of Snap Shot, and is the hardest-working hero this side of Mount Scorch. His inventive mind is always looking for new ways to create.",
   "story": [
@@ -317,23 +317,23 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "300 / 600"
+          "stat_value": "300 (max. 600)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "60 / 108"
+          "stat_value": "60 (max. 108)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "18 / 48"
+          "stat_value": "18 (max. 48)"
         },
         {
           "stat_name": "Critical Hit",
-          "stat_value": "50 / 100"
+          "stat_value": "50 (max. 100)"
         },
         {
           "stat_name": "Elemental Power",
-          "stat_value": "25 / 75"
+          "stat_value": "25 (max. 75)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Wallop"
