@@ -15,7 +15,7 @@
   "world": [
     "Skylands"
   ],
-  "description": "The Trap Team, individually referred to as Trap Masters, are a group of Skylanders who use special crystallized weapons to weaken Villains in Skylanders: Trap Team. Their weaponry is crafted from Traptanium, allowing them to harness the power of the crystals to defeat the most notorious criminals in Skylands.",
+  "description": "The Trap Team, individually referred to as Trap Masters, are a group of Skylanders who use special crystallized weapons to weaken Villains in Skylanders: Trap Team. Their weaponry is crafted from Traptanium, allowing them to harness the power of the crystals to defeat the most notorious criminals in Skylands. When near a Traptanium crystal cluster or when facing a trappable Villain, their Traptanium weaponry glows brightly.",
   "biography": "The Trap Masters were the ones who originally caught and imprisoned the villains, including the notorious Doom Raiders, in Cloudcracker Prison. They were the original guardians of the prison until Kaos blew up the walls with a blast of concentrated Evil, which caused the Trap Masters to be banished to Earth alongside the shards of Traptanium. On Earth, they wait for a Portal Master to help them return to Skylands and recapture the escaped villains.",
   "quote": "The Trap Masters use special crystallized weapons to weaken Villains.",
   "personality": "The Trap Team is a group of dedicated and powerful protectors of Skylands. As the former wardens of Cloudcracker Prison, they are unified by their duty to capture escaped villains. While the team consists of various individuals with unique traits, they are characterized by their natural leadership—with Snap Shot often acting as their primary leader—and their commitment to using their Traptanium weapons for the greater good.",
@@ -43,10 +43,11 @@
     "Gearshift, Head Rush, Tuff Luck, and Knight Mare are the only female Trap Masters.",
     "Out of all the Trap Masters, Blastermind and Short Cut are the shortest.",
     "When used with Villains, they get a timer that drains slower, but recharges faster.",
-    "Trap Masters are the only Skylanders that can open Elemental Gates in Skylanders: Trap Team (this does not apply to the 3DS version).",
+    "Trap Masters are the only Skylanders that can open Elemental Gates in Skylanders: Trap Team. This does not apply to the 3DS version.",
     "Snap Shot, Lob-Star, Gearshift, Gusto, and Ka-Boom are the only Trap Masters to use long-range weaponry.",
-    "The Trap Attack from the Nintendo 3DS version is similar to the Sky-Chi from Skylanders: Imaginators. Both are unique powerful attacks tied to a gauge.",
-    "Wallop is shown to serve as the leader in most trailers and commercials, but Snap Shot is the natural leader of the Trap Masters."
+    "The Trap Attack from the Nintendo 3DS version is similar to the Sky-Chi from Skylanders: Imaginators. Both are unique powerful attacks for every Skylander, which are tied to an gauge.",
+    "Jawbreaker and Snap Shot are the only Trap Masters to have more than one alternate counterpart. Each one having an Alt Deco figure and an Alter Ego, and Snap Shot having an Instant counterpart.",
+    "Strangely, Wallop is shown to serve as the leader in most trailers, commercials and in the introduction of the game. This isn't true however, as Snap Shot is really the natural leader of the Trap Masters."
   ],
   "trailers": [
     {
@@ -78,8 +79,8 @@
       {
         "season": 4,
         "name": "Trap Attack",
-        "imgPath": "",
-        "content": "A unique powerful attack used in the 3DS version of the game. It is activated by filling a trap gauge with Traptanium shards collected from defeated enemies or destroyed objects.",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Trap_Team.png/revision/latest?cb=20141010205626",
+        "content": "A unique powerful attack used in the 3DS version of the game. It is activated by filling a trap gauge with Traptanium shards collected from defeated enemies or destroyed objects. It is similar to the Sky-Chi from Skylanders: Imaginators.",
         "is_primary": false,
         "is_secondary": true,
         "price": 0,
