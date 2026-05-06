@@ -21,7 +21,7 @@
   "description": "Turbo Charge Donkey Kong, otherwise known as Donkey Kong, is a Kong who is the main protagonist of the Donkey Kong series. He is a special Skylander-amiibo hybrid, along with Hammer Slam Bowser, who is one of the Life SuperChargers in Skylanders: SuperChargers. His signature vehicle is the Barrel Blaster.",
   "biography": "Donkey Kong is a fun-loving powerhouse gifted with great strength and incredible agility. His insatiable curiosity and easy-going attitude led him to explore the rift that appeared in his native jungle and brought him to exciting new adventures in this world called Skylands. Donkey Kong's fearlessness and reflexes made him a welcome addition to the SuperChargers and also the perfect driver for the stunt-tacular Barrel Blaster vehicle.",
   "quote": "None",
-  "personality": "Being one of Nintendo's most iconic protagonists, Donkey Kong is a carefree, lazy, intelligence-lacking, yet trustworthy hero on Donkey Kong Island. However on various occasions, he was forced to take action with his sidekick and best friend, Diddy Kong and other members of the Kong Family to reclaim their main priority, the Banana Hoard, from their common enemies, the Kremling Krew. Now as a SuperCharger, Donkey Kong is very competitive and agile on the battlefield; because he isn't as fast as Spitfire, Stormblade, or Stealth Elf, he tends to revert to Super Donkey Kong mode to keep up. He is also now deeply concerned for the safety of his fellow Skylanders and loved ones. Like all Life Skylanders, Donkey Kong prefers to keep his feet on the ground. At certain times, he can act a bit immature in the midst of battle, but is very protective of the defenseless. Despite his generally relaxed demeanor, he can easily get irritated when one mistakes him for a monkey, which is evidenced when Blubberbeard was introducing himself to the former and Bowser.",
+  "personality": "Being one of Nintendo's most iconic protagonists, Donkey Kong is a carefree, lazy, intelligence-lacking, yet trustworthy hero on Donkey Kong Island. However on various occasions, he was forced to take action with his sidekick and best friend, Diddy Kong and other members of the Kong Family to reclaim their main priority, the Banana Hoard, from their common enemies, the Kremling Krew. Now as a SuperCharger, Donkey Kong is very competitive and agile on the battlefield; because he isn't as fast as Spitfire, Stormblade, or Super Shot Stealth Elf, he tends to revert to Super Donkey Kong mode to keep up. He is also now deeply concerned for the safety of his fellow Skylanders and loved ones. Like all Life Skylanders, Donkey Kong prefers to keep his feet on the ground. At certain times, he can act a bit immature in the midst of battle, but is very protective of the defenseless. Despite his generally relaxed demeanor, he can easily get irritated when one mistakes him for a monkey, which is evidenced when Blubberbeard was introducing himself to the former and Bowser.",
   "story": [
     {
       "story_name": "Unexpected Allies",
@@ -33,18 +33,15 @@
   "quotes": [],
   "trivia": [
     "Skylanders: SuperChargers marks one of Donkey Kong's appearances outside of his original gaming franchise and the Mario franchise behind the Punch-Out!! and Super Smash Bros. franchises.",
-    "Unlike most bipedal Skylanders and other characters with either three or four digits on each of their hands and feet, Turbo Charge Donkey Kong and Diddy Kong have five on each hand and foot.",
-    "They were the only characters to have five digits until the introduction of the Portal Masters from Skylanders: Ring of Heroes.",
+    "Unlike most bipedal Skylanders and other characters with either three or four digits on each of their hands and feet, Turbo Charge Donkey Kong and Diddy Kong have five on each hand and foot. They were the only characters to have five digits until the introduction of the Portal Masters from Skylanders: Ring of Heroes.",
     "He is the third simian Skylander, with the first being Grilla Drilla and the second being Fling Kong.",
-    "Turbo Charge Donkey Kong was originally going to belong to a new Element called Banana, but this idea was scrapped.",
+    "Turbo Charge Donkey Kong was originally going to belong to a new Element called Banana, but this idea was scrapped.[1]",
     "Turbo Charge Donkey Kong's first basic ability, the Primate Punch, has the same name as Chunky Kong's special ability in Donkey Kong 64.",
     "His ability to heal himself (only with the Pointy Preparations path and the Healthy Kong upgrade purchased) can restore his health by +136, which makes him the fastest self-healing Skylander in the game series.",
-    "He and Bowser are the only two SuperChargers with vehicles not of their respective Elements.",
-    "They are also the only Guest Star Skylanders that have dark versions of themselves.",
+    "He and Bowser are the only two SuperChargers with vehicles not of their respective Elements. They are also the only Guest Star Skylanders that have dark versions of themselves.",
     "When compared to the other SuperChargers in game, Donkey Kong and Bowser appear to be taller than the rest of them.",
     "He, Spyro, Dino-Rang, Flashwing, Star Strike, Enigma, Hammer Slam Bowser, Crash Bandicoot, Dr. Neo Cortex, and Starcast are the only Skylanders who do not originate from Skylands.",
-    "Donkey Kong, Bowser, and Crash Bandicoot are the only Skylanders without catchphrases due to none of them actually able to talk. Dr. Neo Cortex also lacks a catchphrase, but is fully capable of speech.",
-    "Crash, however, is able to say some short words and phrases, although for full communication, Aku Aku serves as his translator.",
+    "Donkey Kong, Bowser, and Crash Bandicoot are the only Skylanders without catchphrases due to none of them actually able to talk. Dr. Neo Cortex also lacks a catchphrase, but is fully capable of speech. Crash, however, is able to say some short words and phrases, although for full communication, Aku Aku serves as his translator.",
     "Coincidentally, Donkey Kong and Crash are currently the only guest characters of the Life element.",
     "He and Smash Hit are tied for having the highest amount of health out of all the SuperChargers.",
     "Donkey Kong, Bowser, Spyro, Cynder, Sparx, Malefor, Crash Bandicoot, and Dr. Neo Cortex are the only characters to appear in franchises before the series.",
@@ -245,6 +242,44 @@
       "type": "SuperCharger",
       "game": "Skylanders: SuperChargers",
       "image": "https://static.wikia.nocookie.net/skylanders/images/9/92/DonkeyKong_Skylanders.jpg/revision/latest?cb=20150909223215",
+      "attacks": [
+        "Primate Punch",
+        "Barrel Toss",
+        "Bongo Barrel",
+        "Super Donkey Kong",
+        "Barrels of Fun"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "370 (1110)"
+        },
+        {
+          "stat_name": "Attack",
+          "stat_value": "8 (58)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "4 (29)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "15 (45)"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "8 (28)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Turbo_Charge_Donkey_Kong"
+    },
+    {
+      "id": "dark-turbo-charge-donkey-kong",
+      "variant_name": "Dark Turbo Charge Donkey Kong",
+      "edition": "Dark Edition",
+      "type": "SuperCharger",
+      "game": "Skylanders: SuperChargers",
+      "image": "",
       "attacks": [
         "Primate Punch",
         "Barrel Toss",
