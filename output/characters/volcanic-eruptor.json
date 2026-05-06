@@ -55,7 +55,7 @@
     "basic": [
       {
         "name": "Lava Lob",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Volcanic_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20170304031915",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Volcanic_Eruptor.png/revision/latest?cb=20170304031915",
         "content": "Volcanic Eruptor hurls a ball of lava that explodes on impact.",
         "is_primary": true,
         "is_secondary": false,
@@ -67,7 +67,7 @@
       },
       {
         "name": "Eruption",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Volcanic_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20170304031915",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Volcanic_Eruptor.png/revision/latest?cb=20170304031915",
         "content": "Eruptor erupts, creating a pool of lava around him that damages nearby enemies.",
         "is_primary": false,
         "is_secondary": true,
@@ -81,20 +81,8 @@
     "basic_upgrades": [
       {
         "name": "Mega Magma Balls",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Volcanic_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20170304031915",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Volcanic_Eruptor.png/revision/latest?cb=20170304031915",
         "content": "Enhances the lava projectiles for greater damage.",
-        "is_primary": false,
-        "is_secondary": false,
-        "price": 0,
-        "colors": {
-          "header": "#f15a24",
-          "bg_content": "#fde6d8"
-        }
-      },
-      {
-        "name": "Heavy Duty Plasma",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Volcanic_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20170304031915",
-        "content": "Increases the intensity and range of Eruption attacks.",
         "is_primary": false,
         "is_secondary": false,
         "price": 0,
@@ -107,7 +95,7 @@
     "soulgems": [
       {
         "name": "Super Eruption",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Volcanic_Eruptor.png/revision/latest/scale-to-width-down/268?cb=20170304031915",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Volcanic_Eruptor.png/revision/latest?cb=20170304031915",
         "content": "A powerful blast that causes a massive volcanic explosion.",
         "is_primary": false,
         "is_secondary": false,
@@ -118,7 +106,21 @@
         }
       }
     ],
-    "wow_pows": [],
+    "wow_pows": [
+      {
+        "season": 3,
+        "name": "Heavy Duty Plasma",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/0b/Volcanic_Eruptor.png/revision/latest?cb=20170304031915",
+        "content": "Increases the intensity and range of Eruption attacks.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 0,
+        "colors": {
+          "header": "#f15a24",
+          "bg_content": "#fde6d8"
+        }
+      }
+    ],
     "upgrade_paths": []
   },
   "variants": [
@@ -156,6 +158,22 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "25"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "110"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "95"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "35"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "70"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Volcanic_Eruptor"
