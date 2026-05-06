@@ -38,7 +38,7 @@
       "story_name": "The Kaos Trap",
       "content": "When Hugo called for any available Skylander teams to help Stealth Elf, Pop Fizz and Wash Buckler against an army of trolls, Gill Grunt's team, which consisted of Star Strike and Tree Rex, were unable to help as they were busy evacuating the inhabitants of Stonetown from a flood released from a cracked dam. Tree Rex was holding back a stone slab to keep the rushing waters at bay, while ushering his two companions to hurry before it gave way.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/GillGrunt_Team.png/revision/latest/scale-to-width-down/290?cb=20140801000912"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f6/GillGrunt_Team.png/revision/latest?cb=20140801000912"
     },
     {
       "story_name": "Return of the Dragon King",
@@ -152,7 +152,7 @@
   "trivia": [
     "Tree Rex's name is a pun on the giant dinosaur, T. Rex, also known as Tyrannosaurus Rex.",
     "Tree Rex's soul gem is a woodpecker nested on his back that pecks nearby enemies to death.",
-    "Tree Rex is voiced by Kevin Michael Richardson, who also voices Stump Smash.",
+    "Tree Rex is voiced by Kevin Michael Richardson, who also voices Stump Smash. Coincidentally, both Skylanders are trees of the Life element.",
     "Despite the rumors, counting his rings will not tell you Tree Rex's age.",
     "His catchphrase is a pun on 'Be Afraid of the Dark!'.",
     "Tree Rex was the first Giant revealed for Skylanders: Giants.",
@@ -162,6 +162,7 @@
     "His name was first used for 3DS versions of Stump Demons.",
     "In early versions of Giants, Tree Rex has green eyes, but in concept art and the final version his eyes are blue.",
     "Tree Rex's attacks all use his right arm, except for his Soul Gem.",
+    "There is a glitch in the Wii version of SWAP Force where his Woodpecker Pal will sometimes not appear.",
     "Tree Rex was planned for the second season of Skylanders Academy, but he was cut for budget reasons."
   ],
   "trailers": [
@@ -178,10 +179,10 @@
     {
       "name": "Skylanders Giants - Tree Rex's Soul Gem Preview (Be Afraid of the Bark)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Tree_Rex%27s_Soul_Gem_Preview_%28Be_Afraid_of_the_Bark%29"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Tree_Rex's_Soul_Gem_Preview_(Be_Afraid_of_the_Bark)"
     }
   ],
-  "gameplay": "Tree Rex can smash his arm against the ground to crush enemies, and create massive shockwaves. When upgraded further, he can make his arm grow thorns, and cause even larger shockwaves. He can also charge at enemies and crush enemies with his elbow, and shoot solar beams at opponents. In Skylanders: Battlecast, he is able to grow roots to restore his own health while increasing his maximum amount, being a formidable tank.",
+  "gameplay": "Tree Rex can smash his arm against the ground to crush enemies, and create massive shockwaves. When upgraded further, he can make his arm grow thorns, and cause even larger shockwaves. He can also charge at enemies and crush enemies with his elbow, and shoot solar beams at opponents. In Skylanders: Battlecast, he is able to grow roots to restore his own health while increasing his maximum amount, being a formidable tank. His Special Ability is Overgrowth, increasing his max health, and his signature Gear is the Thorncaster, randomly increasing the cost of enemy spells.",
   "wiki_url": "https://skylanders.fandom.com/wiki/Tree_Rex",
   "abilities": {
     "basic": [
@@ -263,7 +264,7 @@
     "soulgems": [
       {
         "name": "Woodpecker Pal",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Tree_Rexsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20121119042102",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/f7/Tree_Rexsoulgempower.png/revision/latest?cb=20121119042102",
         "content": "A woodpecker buddy joins Tree Rex in battle. Damage = 16. Crit = 24.",
         "is_primary": false,
         "is_secondary": false,
@@ -322,7 +323,7 @@
         "abilities": [
           {
             "name": "Super-Charged Vaporizer",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Tree_Rexpath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20121118014628",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/bd/Tree_Rexpath2upgrade1.png/revision/latest?cb=20121118014628",
             "content": "Hold down Attack 3 to charge up the Photosynthesis Cannon for more damage. Damage = 100. Crit = 150.",
             "is_primary": false,
             "is_secondary": false,
@@ -334,7 +335,7 @@
           },
           {
             "name": "Sun Skewer",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/af/Tree_Rexpath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20121118014643",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/af/Tree_Rexpath2upgrade2.png/revision/latest?cb=20121118014643",
             "content": "Photosynthesis Cannon blasts through enemies and explodes for more damage. Damage = 12x3=36. Crit = 18x3=54.",
             "is_primary": false,
             "is_secondary": false,
@@ -346,7 +347,7 @@
           },
           {
             "name": "The Pod Maker",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/92/Tree_Rexpath2upgrade3.png/revision/latest/scale-to-width-down/148?cb=20121118014829",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/92/Tree_Rexpath2upgrade3.png/revision/latest?cb=20121118014829",
             "content": "Vaporized enemies turn into exploding plant pods. Damage = 40. Crit = ???.",
             "is_primary": false,
             "is_secondary": false,
@@ -378,23 +379,23 @@
       "stats": [
         {
           "stat_name": "Health",
-          "stat_value": "430"
+          "stat_value": "430 (max. 1075)"
         },
         {
           "stat_name": "Speed",
-          "stat_value": "20"
+          "stat_value": "20 (max. 48)"
         },
         {
           "stat_name": "Armor",
-          "stat_value": "24"
+          "stat_value": "24 (max. 57)"
         },
         {
           "stat_name": "Critical Hit",
-          "stat_value": "40"
+          "stat_value": "40 (max. 95)"
         },
         {
           "stat_name": "Elemental Power",
-          "stat_value": "25"
+          "stat_value": "25 (max. 80)"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Tree_Rex"
