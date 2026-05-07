@@ -23,19 +23,19 @@
   "world": [
     "Skylands Miniverse"
   ],
-  "description": "Whisper Elf is a Life element Mini and Sidekick Skylander. She is the miniature version of Stealth Elf and shares her legendary ninja skills and stealthy combat style.",
+  "description": "Whisper Elf is a Life element Mini and Sidekick Skylander. She is the miniature version of Stealth Elf, eventually becoming a Mini Skylander in Skylanders: Trap Team.",
   "biography": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures. The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
   "quote": "Silent but Deadly!",
   "personality": "Whisper Elf is a ninja who knows her way around an enchanted forest or two. Like her mentor Stealth Elf, she will always tell you how she's feeling. That can be really awkward sometimes.",
   "story": [
     {
-      "story_name": "The Miniverse Origin",
+      "story_name": "Background",
       "content": "Within the Skylands, a realm of infinite possibilities, there is in fact an alternate reality known as the Skylands Miniverse. Everything there is smaller, including the Skylanders. The Skylanders Sidekicks come from that Miniverse and have traveled to the Skylands to meet their regular-sized alter egos and tag along with them on adventures.",
       "hasImage": false,
       "imgPath": ""
     },
     {
-      "story_name": "Rise of the Minis",
+      "story_name": "Biography",
       "content": "The Skylander Minis started off as regular 'Sidekicks', assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
       "hasImage": false,
       "imgPath": ""
@@ -43,7 +43,7 @@
   ],
   "quotes": [
     {
-      "quote_type": "Official Catchphrase",
+      "quote_type": "Official catchphrase",
       "content": [
         "Silent but Deadly!"
       ]
