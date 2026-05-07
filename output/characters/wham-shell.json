@@ -31,7 +31,7 @@
       "story_name": "Gill Grunt and the Curse of the Fish Master",
       "content": "Wham-Shell and Zap were called by Master Eon to assist Gill Grunt when a Gillman was about to be eaten alive by a rampaging Cloud Kraken. They both saved Gill Grunt and attempted to stop the Cloud Kraken, only to make the beast turn its blind fury upon a pirate ship called the Fearsome Fang and its crew. The ship's captain, Grimslobber, mysteriously scared off the Cloud Kraken without having to do a thing, confusing Gill Grunt, Zap, and Wham-Shell.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Zap%2C_Gill%2C_Wham-Shell%2C_and_Grimslobber.jpg/revision/latest/scale-to-width-down/172?cb=20130412195955"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4b/Zap%2C_Gill%2C_Wham-Shell%2C_and_Grimslobber.jpg/revision/latest?cb=20130412195955"
     },
     {
       "story_name": "Gill Grunt and the Curse of the Fish Master",
@@ -55,7 +55,7 @@
       "story_name": "Gill Grunt and the Curse of the Fish Master",
       "content": "Wham-Shell was later revealed to be under the control of Captain Grimslobber, who was using the Fish Master's Crown to force the merfolk into digging out the gem-eels and hauling them to the surface so that he could become rich. Gill Grunt was able to free himself from the curse with the help of Zap, causing Grimslobber to lose control over a portion of his hypnotized victims. During the confusion, Wham-Shell was freed from the curse and released the Gem-Eels, causing Grimslobber to lose his hold on the Crown, and it shattered on the ocean floor into two pieces, fully freeing the merfolk. As the pirate captain made a hasty retreat, Wham-Shell followed after Gill Grunt back onto the deck of the Fearsome Fang along with Zap. With the help of the freed merfolk and even Spyro, the Water Skylanders bested Grimslobber and his pirate crew.",
       "hasImage": true,
-      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Wham-Shell_and_Grimslobber.jpg/revision/latest/scale-to-width-down/222?cb=20130412195955"
+      "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/61/Wham-Shell_and_Grimslobber.jpg/revision/latest?cb=20130412195955"
     },
     {
       "story_name": "Gill Grunt and the Curse of the Fish Master",
@@ -106,10 +106,10 @@
     "Wham Shell has the least amount of blue on his body out of any Water Skylander, with it only being on his eyes.",
     "His razor-sharp teeth don't stay so perfectly white by themselves. Wham-Shell brushes them up to fourteen times a day with a toothbrush carved from coral and toothpaste made from mashed fish scales.",
     "His weapon, the Malacostracan Mace, is named after the scientific class of crustaceans where crabs are part of.",
-    "Despite referring to his weapon as a mace, his weapon is actually a morning star.",
-    "When he enters the water, he rides on his morning star like a witch riding on a broomstick.",
+    "His weapon as a morning star, which is a type of mace with a spiked ball in its end that was used for blunt force damage and piercing armor in medieval times.",
+    "When he enters the water, he rides on his mace like a witch riding on a broomstick.",
     "Wham-Shell is one of the eight Skylanders without a Series 2 figure in Giants (the others being Voodood, Dino-Rang, Warnado, Boomer, Sunburn, Camo and Ghost Roaster). However, he and Warnado return in Swap Force as LightCore figures and Camo returns as a Series 2 in Swap Force as well.",
-    "In Giants, the spikes on Wham Shell's morning star are red instead of gold.",
+    "In Giants, the spikes on Wham Shell's mace are red instead of gold.",
     "He, Flashwing and Warnado are the only LightCore Skylanders without an additional counterpart as part of the Swap Force toyline.",
     "As a LightCore figure, the head of his mace lights up when placed on the Portal of Power.",
     "According to the Spyro's Adventure Sticker Book, Wham-Shell is the son of King Roland and is therefore the prince of said kingdom.",
@@ -128,17 +128,17 @@
     {
       "name": "Skylanders Spyro's Adventure - Wham-Shell Trailer (Brace for the Mace)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Wham-Shell_Trailer_(Brace_for_the_Mace)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_-_Wham-Shell_Trailer_(Brace_for_the_Mace)"
     },
     {
       "name": "Skylanders Spyro's Adventure - Wham-Shell Preview Trailer (Brace for the Mace)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventure_-_Wham-Shell_Preview_Trailer_(Brace_for_the_Mace)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_-_Wham-Shell_Preview_Trailer_(Brace_for_the_Mace)"
     },
     {
       "name": "Skylanders Giants - Wham-Shell's Soul Gem Preview (Brace for the Mace)",
       "isValid": true,
-      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Wham-Shell%27s_Soul_Gem_Preview_(Brace_for_the_Mace)"
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Giants_-_Wham-Shell's_Soul_Gem_Preview_(Brace_for_the_Mace)"
     },
     {
       "name": "Skylanders Swap Force - Meet the Skylanders - LightCore Wham Shell",
@@ -327,16 +327,16 @@
   },
   "variants": [
     {
-      "id": "wham-shell",
+      "id": "wham-shell-s1",
       "variant_name": "Wham-Shell",
       "edition": "Series 1",
-      "type": "SuperCharger",
+      "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/e/ee/300px-Wham-Shell_03.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/ee/300px-Wham-Shell_03.jpg/revision/latest?cb=20170326190042",
       "attacks": [
         "Malacostracan Mace",
         "Starfish Bullets",
-        "King’s Mace",
+        "King's Mace",
         "Poseidon Strike",
         "Mega Trident"
       ],
@@ -360,6 +360,40 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "39 (max. 89)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Wham-Shell"
+    },
+    {
+      "id": "wham-shell-lc",
+      "variant_name": "LightCore Wham-Shell",
+      "edition": "LightCore",
+      "type": "Core",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/84/LC_Wham-Shell_Promo.jpg/revision/latest?cb=20140115005053",
+      "attacks": [
+        "Malacostracan Mace",
+        "Starfish Bullets",
+        "King's Mace",
+        "Poseidon Strike",
+        "Mega Trident"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "100"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "120"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "25"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "100"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Wham-Shell"
