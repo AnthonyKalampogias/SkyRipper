@@ -13,7 +13,7 @@
     "Skylanders: Trap Team",
     "Return of the Dragon King",
     "Rift into Overdrive",
-    "Skylanders: SuperChargers Racing",
+    "Skylanders: SuperChargers (Racing)",
     "Skylanders: Battlecast",
     "Skylanders: Imaginators",
     "Skylanders: Ring of Heroes"
@@ -167,7 +167,7 @@
     "basic": [
       {
         "name": "Sword Slash",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Wash_Bucklertopprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506193319",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Wash_Bucklertopprimarypower.png/revision/latest?cb=20170506193319",
         "content": "Press Attack 1 to swing a bubbly cutlass at nearby enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -179,7 +179,7 @@
       },
       {
         "name": "Bubble Blaster",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Wash_Bucklertopbasicupgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506193323",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/c/cf/Wash_Bucklertopbasicupgrade1.png/revision/latest?cb=20170506193323",
         "content": "Press Attack 3 to shoot a bubble that will trap an enemy for a short time.",
         "is_primary": false,
         "is_secondary": true,
@@ -191,7 +191,7 @@
       },
       {
         "name": "Somersaulty",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/35/Wash_Bucklerbottomprimarypower.png/revision/latest/scale-to-width-down/148?cb=20170506193543",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/35/Wash_Bucklerbottomprimarypower.png/revision/latest?cb=20170506193543",
         "content": "Press Attack 2 to dash forward and roll over enemies with powerful tentacles.",
         "is_primary": true,
         "is_secondary": false,
@@ -205,7 +205,7 @@
     "basic_upgrades": [
       {
         "name": "Bladesail",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a6/Wash_Bucklertopbasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506193427",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a6/Wash_Bucklertopbasicupgrade2.png/revision/latest?cb=20170506193427",
         "content": "Sword attacks do increased damage. Hold Attack 1 to charge the sword, release to perform a dash attack.",
         "is_primary": false,
         "is_secondary": false,
@@ -217,7 +217,7 @@
       },
       {
         "name": "Dangerous Waters",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3f/Wash_Bucklertopbasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506193430",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3f/Wash_Bucklertopbasicupgrade3.png/revision/latest?cb=20170506193430",
         "content": "Press Attack 3 to shoot a piranha filled bubble at an enemy. Warning: these little fish are angry!",
         "is_primary": false,
         "is_secondary": false,
@@ -228,8 +228,20 @@
         }
       },
       {
+        "name": "Octolash",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/8/89/Wash_Bucklerbottombasicupgrade1.png/revision/latest?cb=20170506193949",
+        "content": "Hold Attack 2 to slap enemies with two tentacles.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 300,
+        "colors": {
+          "header": "#48D",
+          "bg_content": "#BDF"
+        }
+      },
+      {
         "name": "Deep Skin",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/60/Wash_Bucklerbottombasicupgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506193604",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/6/60/Wash_Bucklerbottombasicupgrade2.png/revision/latest?cb=20170506193604",
         "content": "Health is increased. All of the deep sea treasure hunts have really paid off!",
         "is_primary": false,
         "is_secondary": false,
@@ -241,7 +253,7 @@
       },
       {
         "name": "Ink Jet",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a8/Wash_Bucklerbottombasicupgrade3.png/revision/latest/scale-to-width-down/148?cb=20170506193611",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/a/a8/Wash_Bucklerbottombasicupgrade3.png/revision/latest?cb=20170506193611",
         "content": "Octolash now shoots ink that damages and temporarily causes enemies to have difficulties seeing.",
         "is_primary": false,
         "is_secondary": false,
@@ -255,7 +267,7 @@
     "soulgems": [
       {
         "name": "On Stormy Seas",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/Wash_Bucklertopsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506193517",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/46/Wash_Bucklertopsoulgempower.png/revision/latest?cb=20170506193517",
         "content": "Hold Attack 1 to charge Bladesail even further, release to summon a watery pirate ship that rams into enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -267,7 +279,7 @@
       },
       {
         "name": "Tentacle Carousel",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9f/Wash_Bucklerbottomsoulgempower.png/revision/latest/scale-to-width-down/148?cb=20170506193616",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9f/Wash_Bucklerbottomsoulgempower.png/revision/latest?cb=20170506193616",
         "content": "Press Attack 2 rapidly to perform a spin attack that damages all nearby enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -285,7 +297,7 @@
         "abilities": [
           {
             "name": "Parley Popper",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/79/Wash_Bucklertoppath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506200840",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/7/79/Wash_Bucklertoppath1upgrade1.png/revision/latest?cb=20170506200840",
             "content": "Popping bubbles with sword attacks will create a bubble shield that reduces damage and explodes when attacked.",
             "is_primary": false,
             "is_secondary": false,
@@ -297,7 +309,7 @@
           },
           {
             "name": "First Mate Cutlass",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/91/Wash_Bucklertoppath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506200845",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/91/Wash_Bucklertoppath1upgrade2.png/revision/latest?cb=20170506200845",
             "content": "Sword attacks do even more damage. The most trusty first mate a pirate could have.",
             "is_primary": false,
             "is_secondary": false,
@@ -314,7 +326,7 @@
         "abilities": [
           {
             "name": "Marooned",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/08/Wash_Bucklertoppath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506203054",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/0/08/Wash_Bucklertoppath2upgrade1.png/revision/latest?cb=20170506203054",
             "content": "Bubble attacks do increased damage. Hold attack 3 to charge the Bubble Blaster, release to shoot two mega bubbles that can trap many enemies.",
             "is_primary": false,
             "is_secondary": false,
@@ -326,7 +338,7 @@
           },
           {
             "name": "Captain of Piranha Bay",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Wash_Bucklertoppath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506203102",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Wash_Bucklertoppath2upgrade2.png/revision/latest?cb=20170506203102",
             "content": "Piranhas do increased damage. More dangerous than your average piranha!",
             "is_primary": false,
             "is_secondary": false,
@@ -343,7 +355,7 @@
         "abilities": [
           {
             "name": "Tentacleaver",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Wash_Bucklerbottompath1upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506200850",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/4f/Wash_Bucklerbottompath1upgrade1.png/revision/latest?cb=20170506200850",
             "content": "Hold Attack 2 to slap enemies repeatedly.",
             "is_primary": false,
             "is_secondary": false,
@@ -355,7 +367,7 @@
           },
           {
             "name": "Sea Legs",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Wash_Bucklerbottompath1upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506200854",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Wash_Bucklerbottompath1upgrade2.png/revision/latest?cb=20170506200854",
             "content": "Tentacles do increase damage. Whip those enemies into shape!",
             "is_primary": false,
             "is_secondary": false,
@@ -372,7 +384,7 @@
         "abilities": [
           {
             "name": "Ink Trail",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Wash_Bucklerbottompath2upgrade1.png/revision/latest/scale-to-width-down/148?cb=20170506203106",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/d/d7/Wash_Bucklerbottompath2upgrade1.png/revision/latest?cb=20170506203106",
             "content": "Press Attack 2 to leave behind a cloud of ink.",
             "is_primary": false,
             "is_secondary": false,
@@ -384,7 +396,7 @@
           },
           {
             "name": "This Will Never Come Out!",
-            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Wash_Bucklerbottompath2upgrade2.png/revision/latest/scale-to-width-down/148?cb=20170506203111",
+            "imgPath": "https://static.wikia.nocookie.net/skylanders/images/f/fb/Wash_Bucklerbottompath2upgrade2.png/revision/latest?cb=20170506203111",
             "content": "Ink attacks do increased damage.",
             "is_primary": false,
             "is_secondary": false,
