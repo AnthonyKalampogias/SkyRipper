@@ -1,7 +1,7 @@
 {
   "id": "whirlwind",
   "name": "Whirlwind",
-  "species": "Unicorn Dragon \\\"Unidragon\\\"",
+  "species": "Unicorn Dragon 'Unidragon'",
   "gender": "Female",
   "element": "Air",
   "role": "Core Skylander",
@@ -67,6 +67,8 @@
         "Throw caution to the wind!",
         "Gale force!",
         "Felt the wind on my back!",
+        "The wind whispers my name!",
+        "A name worthy of me!",
         "Yeah!",
         "Whoo-hoo!",
         "Ahahahahahaha!"
@@ -394,7 +396,7 @@
       "edition": "Series 1",
       "type": "Core",
       "game": "Skylanders: Spyro's Adventure",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Whirlwind.png",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/e/e0/Whirlwind.png/revision/latest?cb=20230209030741",
       "attacks": [
         "Rainbow of Doom",
         "Tempest Cloud",
@@ -422,6 +424,94 @@
         {
           "stat_name": "Elemental Power",
           "stat_value": "25 (max. 75)"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Whirlwind"
+    },
+    {
+      "id": "whirlwind-s2",
+      "variant_name": "Whirlwind Series 2",
+      "edition": "Series 2",
+      "type": "Core",
+      "game": "Skylanders: Giants",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Series_2_Whirlwind_Promo.jpg/revision/latest?cb=20121117064906",
+      "attacks": [
+        "Rainbow of Doom",
+        "Tempest Cloud",
+        "Dragon Flight",
+        "Dual Rainbows",
+        "Cloudbursting"
+      ],
+      "stats": [
+        {
+          "stat_name": "Strength",
+          "stat_value": "70"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "65"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "95"
+        }
+      ],
+      "wiki_url": "https://skylanders.fandom.com/wiki/Whirlwind"
+    },
+    {
+      "id": "whirlwind-s3",
+      "variant_name": "Horn Blast Whirlwind",
+      "edition": "Series 3",
+      "type": "Core",
+      "game": "Skylanders: Swap Force",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/8/85/S3_Whirlwind_Promo.jpg/revision/latest?cb=20140103064526",
+      "attacks": [
+        "Rainbow of Doom",
+        "Tempest Cloud",
+        "Dragon Flight",
+        "Dual Rainbows",
+        "Rainbow Rush"
+      ],
+      "stats": [
+        {
+          "stat_name": "Health",
+          "stat_value": "270 (max. 540)"
+        },
+        {
+          "stat_name": "Speed",
+          "stat_value": "50 (max. 98)"
+        },
+        {
+          "stat_name": "Armor",
+          "stat_value": "18 (max. 48)"
+        },
+        {
+          "stat_name": "Critical Hit",
+          "stat_value": "10 (max. 60)"
+        },
+        {
+          "stat_name": "Elemental Power",
+          "stat_value": "25 (max. 75)"
+        },
+        {
+          "stat_name": "Strength",
+          "stat_value": "75"
+        },
+        {
+          "stat_name": "Defense",
+          "stat_value": "40"
+        },
+        {
+          "stat_name": "Agility",
+          "stat_value": "65"
+        },
+        {
+          "stat_name": "Luck",
+          "stat_value": "150"
         }
       ],
       "wiki_url": "https://skylanders.fandom.com/wiki/Whirlwind"
