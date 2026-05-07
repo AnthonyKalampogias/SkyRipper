@@ -87,16 +87,16 @@
   "trailers": [
     {
       "name": "Meet the Skylanders Wind-Up",
-      "isValid": false,
+      "isValid": true,
       "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Wind-Up"
     },
     {
       "name": "Skylanders Swap Force - Wind-Up Soul Gem Preview (All Wound Up)",
-      "isValid": false,
+      "isValid": true,
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Swap_Force_-_Wind-Up_Soul_Gem_Preview_(All_Wound_Up)"
     }
   ],
-  "gameplay": "",
+  "gameplay": "Skylanders can use abilities depending on their level. Starting Powers: Spark Punch (Primary Attack): Press (Y) to perform meelee punch. When the character is wound up, this creates an extra spark that does more damage. Wind up by holding (A). Gear Summon (Secondary Attack): Press (X) to summon a gear under enemies that will damage them. When wound up, gears will do more damage and throw enemies into the air. Wind up by holding (A). Upgrades: Boxing Glove (requires level: 3): Hold and release (Y) to attack with a giant boxing glove. When the character is wound up, this does more damage and has a large knockback. Wind up by holding (A). Wacky Wind (requires level: 6): While sprinting (A), Wind-Up will spin his top half around, damaging enemies that come too close. 3DSupgrade3 (requires level: 9): 3DSupgrade3desc",
   "wiki_url": "https://skylanders.fandom.com/wiki/Wind-Up",
   "abilities": {
     "basic": [
