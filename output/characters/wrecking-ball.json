@@ -24,7 +24,7 @@
     "Skylands"
   ],
   "description": "Wrecking Ball is a grub worm Skylander in Skylanders: Spyro's Adventure. He is in the Magic element.",
-  "biography": "Wrecking Ball was once a tiny grub worm about to become the main ingredient in an old wizard’s cauldron of magic stew. But when he was dropped in, the wizard was shocked to see the little grub devour all of the soup and emerge from the cauldron 20 times larger and with a long, sticky tongue. The poor old wizard was even more surprised seconds later, when Wrecking Ball proceeded to swallow him whole. Eventually he ran, quite literally, into the powerful Portal Master Eon, who was intrigued by how he came to be and impressed with his unique abilities.",
+  "biography": "Wrecking Ball was once a tiny grub worm about to become the main ingredient in an old wizard's cauldron of magic stew. But when he was dropped in, the wizard was shocked to see the little grub devour all of the soup and emerge from the cauldron 20 times larger and with a long, sticky tongue. The poor old wizard was even more surprised seconds later, when Wrecking Ball proceeded to swallow him whole. Eventually he ran, quite literally, into the powerful Portal Master Eon, who was intrigued by how he came to be and impressed with his unique abilities.",
   "quote": "Wreck-N-Roll!",
   "personality": "Possibly the most reckless of all the Skylanders, Wrecking Ball rolls into danger without thought for his own personal safety. This lively larva smashes anything in his path (often) by accident, and is always hungry, even when he's just eaten! In some media, he possesses dog-like qualities.",
   "story": [
@@ -42,7 +42,7 @@
     },
     {
       "story_name": "Stump Smash Crosses the Bone Dragon",
-      "content": "Wrecking Ball was assigned with Countdown and Flameslinger to accompany Stump Smash to the Giggling Forest to investigate why the trees had stopped giggling. There, they discover that several of the living trees and Kaos' trolls were turned to stone by an unknown force, which soon revealed itself to be an angry Bone Dragon... [Event continued through the Fort attack and final confrontation in the Forest]. With the help of Wrecking Ball's gassy indigestion from eating General Disaster, the Skylanders were able to escape the Troll Bastion on Flynn's balloon.",
+      "content": "Wrecking Ball was assigned with Countdown and Flameslinger to accompany Stump Smash to the Giggling Forest to investigate why the trees had stopped giggling. There, they discover that several of the living trees and Kaos' trolls were turned to stone by an unknown force, which soon revealed itself to be an angry Bone Dragon. During the attack, Flameslinger's bow was turned to stone by the Dragon's petrifying breath and Flynn's hot air balloon was petrified as well. The beast cornered the Skylanders, but Wrecking Ball quickly expelled a Power Belch at the Bone Dragon to drive it away, allowing the Skylanders to escape with a partially petrified Glumshanks. Upon learning more about the Bone Dragon at the Eternal Archives, Wrecking Ball once again went with Stump Smash and Countdown to Troll Bastion to attack the fort and find Kaos. They fought against many trolls, eventually coming into contact with General Disaster. When the troll general readied two dozen missiles to fire at Wrecking Ball, the grub worm simply lashed out his tongue and swallowed General Disaster whole before he could fire his weapons. The Skylanders found the petrified forms of Kaos and Master Eon, and Wrecking Ball cried out to Stump Smash in alarm when he saw the ent Skylander was about to smash Kaos's statue to pieces as retribution for Eon's petrification but stopped. With the help of Wrecking Ball's gassy indigestion from eating General Disaster, the Skylanders were able to escape the Troll Bastion on Flynn's balloon. Back in the Giggling Forest, Wrecking Ball, Stump Smash and Countdown discovered the other Skylanders had been petrified by the rampaging Bone Dragon. They were able to bring the beast down and calm him, and the Bone Dragon restored all those petrified. Kaos however, immediately began attacking the Skylanders upon being unpetrified, intending to capture the Bone Dragon for the Life segment to the Mask of Power. He was stopped and driven away by Master Eon and his spells, allowing the Skylanders to secure victory.",
       "hasImage": false,
       "imgPath": ""
     },
@@ -109,10 +109,16 @@
     "His missing teeth is the price all good grubs pay for eagerness in battle.",
     "He is so energetic, he never stands still and constantly bounces from one leg to the other.",
     "Wrecking Ball reminded Master Eon of his favorite childhood pet. The old Portal Master was also the one who named Wrecking Ball after the grub worm wrecked a few of Eon's statues.",
-    "Since Jawbreakers seem to be affected by moves that don't work on large enemies, Wrecking Ball is able to eat them.",
+    "Since Jawbreakers seem to be affected by moves that don't work on large enemies, Wrecking Ball is able to eat them. When he eats Brute, the cutscene with him still plays, but Wrecking Ball will get 10+ health.",
+    "If you eat an enemy or food item before using his regular Power Belch, the burp will have increased range and do more damage. If he eats two enemies or food items the burp will become red and it does more damage than the long-range green burp.",
+    "When Wrecking Ball eats the Armored Chompies, they don't lose any health even though Wrecking Ball gains 10+ health. Wrecking Ball can get an extra 10+ health by finishing it off. When Wrecking Ball eats the Armored Cyclopses, they will sink to the ground and die, making Wrecking Ball the only Skylander who can actually take out the Armored Cyclopses with a single hit.",
+    "In games after Spyro's Adventure, the length of his Forcefield Ball attack has been considerably decreased.",
+    "He's one of the playable characters that can eat their enemies. The others are Gusto, Thumpback, Thumpling, Slobber Tooth, and The Gulper.",
     "Once his Soul Gem ability has been obtained, Wrecking Ball can eat treasure in Spyro's Adventure to gain +10 health.",
     "In Swap Force, Superchargers, and Imaginators, there is a mistake in Wrecking Ball’s Digestive Detonation upgrade image where the image for his Tongue Whap ability can be seen in the top-left corner.",
-    "He's named after a big heavy metal round object on a crane usually used to destroy old concrete buildings and rubble.",
+    "There are miscellaneous changes to the Force Field Ball in the Alchemy front-end games. The inputs for Forcefield Blast and It’s Gotta Go Somewhere are changed, resulting in the button used for burping not performing a burp-related attack, and the button to create the ball isn’t used to cancel out of it.",
+    "Wrecking Ball can eat the Molekin miners in Molekin Mine. Once they are eaten, these miners can only be collected by the player walking into the space where they used to be. Even the cowering Diggs model that appears near the end of the level can be consumed this way. Wrecking Ball can eat various collectible items throughout Spyro's Adventure in a similar manner, including the statues in Leviathan Lagoon and the security key card in Arkeyan Armory. Wrecking Ball can eat the clams that appear in the Ruins during Spyro's Adventure's story mode, although this will cause them to disappear and remain uncollectable until the Ruins is reloaded.",
+    "He's named after a a big heavy metal round object on a crane usually used to destroy old concrete buildings and rubble.",
     "This name is also the name of a popular song by 'Miley Cyrus'."
   ],
   "trailers": [
@@ -132,7 +138,7 @@
       "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro%27s_Adventures_Extraction-_Wrecking_Ball"
     },
     {
-      "name": "Wrecking Ball Soul Gem (Spyro's Adventure) (PS3 & Xbox 360)",
+      "name": "Wrecking Ball Soul Gem (Spyro's Adventure) (PlayStation 3 & Xbox 360)",
       "isValid": true,
       "url": "https://skylanders.fandom.com/wiki/File:Wrecking_Ball_Soul_Gem_(Spyro%27s_Adventure)"
     },
