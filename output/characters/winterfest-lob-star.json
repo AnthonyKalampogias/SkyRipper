@@ -16,9 +16,9 @@
   "world": [
     "Star City"
   ],
-  "description": "Winterfest Lob-Star is the holiday-themed variant of the Trap Master Lob-Star, released for the 2014 holiday season.",
+  "description": "Winterfest Lob-Star is the Christmas counterpart of Lob-Star in Skylanders: Trap Team.",
   "biography": "Winter is here and the Skylanders are gearing up for the Great Annual Winterfest! Every year, the citizens of Skylands come together to celebrate the holiday season by participating in the most popular seasonal events including Sheep Skating, Bobbing for Chompies, and Angry Yeti Tipping. This year, Lob-Star plans on leveraging his legendary culinary skills to take home the coveted first place trophy in the Costume Baking Competition – with his licorice flavored suit and candy-coated frosted beard!",
-  "quote": "Star Bright, Star Fight!",
+  "quote": "“Star Bright, Star Fight!”",
   "personality": "Winterfest Lob-Star is as disciplined and focused as any master chef, bringing a culinary precision to his combat style. He is festive yet fierce, always ready to defend Skylands during the holidays with the same passion he uses in the kitchen.",
   "story": [
     {
@@ -32,29 +32,26 @@
     {
       "quote_type": "Catchphrase",
       "content": [
-        "Star Bright, Star Fight!"
-      ]
-    },
-    {
-      "quote_type": "Battle",
-      "content": [
-        "Coming through!",
-        "Freshly caught!",
-        "A recipe for disaster!"
+        "“Star Bright, Star Fight!”"
       ]
     }
   ],
   "trivia": [
     "He, Merry Snap Shot, Holiday Wash Buckler, Jolly Bumble Blast, Missile-Tow Dive-Clops and Jingle Bell Chompy Mage are the only Christmas Skylanders.",
     "Coincidentally, He and Merry Snap Shot are Christmas counterparts of Water Trap Masters.",
-    "Unlike his original counterpart, he turns gold whenever he uses Boiling Temper in Trap Team.",
+    "Unlike his original counterpart, he turns gold whenever he uses Boiling Temper. But in Skylanders: SuperChargers, he doesn't and only appears to be glowing red instead.",
     "He is the first variant to get a Power Play video segment."
   ],
   "trailers": [
     {
       "name": "Skylanders Power Play Winterfest Lob-Star",
-      "isValid": true,
-      "url": "https://www.youtube.com/watch?v=0k1L4Z2"
+      "isValid": false,
+      "url": ""
+    },
+    {
+      "name": "Meet the Skylanders Winterfest Lob-Star",
+      "isValid": false,
+      "url": ""
     }
   ],
   "gameplay": "As a Trap Master, Winterfest Lob-Star uses his Traptanium Throwing Stars to deal massive damage to enemies and can open Water Elemental Gates. His secondary attack, Boiling Temper, allows him to heat up the water around him to create a steam-based area of effect attack.",
@@ -146,7 +143,8 @@
       "attacks": [
         "Starshooter",
         "Boiling Temper",
-        "Lob-Star Roll"
+        "Lob-Star Roll",
+        "Super Stars"
       ],
       "stats": [
         {
