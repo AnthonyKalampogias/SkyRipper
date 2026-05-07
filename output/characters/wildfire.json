@@ -21,7 +21,7 @@
   "description": "Wildfire is a golden lion who is one of the Trap Masters in Skylanders: Trap Team. He is of the Fire element.",
   "biography": "Wildfire was once a young lion of the Fire Claw Clan, about to enter into the Rite of Infernos – a test of survival in the treacherous fire plains. However, because he was made of gold, he was treated as an outcast and not allowed to participate. But this didn’t stop him. That night, Wildfire secretly followed the path of the other lions, carrying only his father’s enchanted shield. Soon he found them cornered by a giant flame scorpion. Using the shield, he protected the group from the beast’s enormous stinging tail, giving them time to safely escape. And though Wildfire was injured in the fight, his father’s shield magically changed him – magnifying the strength that was already in his heart – making him the mightiest of his clan. Now part of the Trap Team, Wildfire uses his enormous Traptanium-bonded shield to defend any and all who need it!",
   "quote": "Bringing The Heat!",
-  "personality": "Wildfire is a loyal lion with a heart of gold, but he can be fierce in battle. He's very protective of the Fire Claw Clan and is always ready to lend them a magical hand when they need it. [2]",
+  "personality": "Wildfire is a loyal lion with a heart of gold, but he can be fierce in battle. He's very protective of the Fire Claw Clan and is always ready to lend them a magical hand when they need it.",
   "story": [
     {
       "story_name": "The Kaos Trap",
@@ -40,53 +40,53 @@
     {
       "quote_type": "Battle Cries",
       "content": [
-        "\"Bringing The Heat!\"",
-        "\"Inferno claw!\"",
-        "\"Flash fire!\"",
-        "\"Let's get started!\"",
-        "\"In the line of fire!\"",
-        "\"Fuel the fire!\"",
-        "\"Lion time!\"",
-        "\"Turn up the heat!\"",
-        "\"My turn to burn!\"",
-        "\"The heat is on!\"",
-        "\"Hot streak!\"",
-        "\"Fire away!\"",
-        "\"Can't be contained!\"",
-        "\"Hear me roar!\"",
-        "\"Flyin lion!\"",
-        "\"Power streak!\"",
-        "\"Unstoppable!\"",
-        "\"Fire blast!\" - when levelled up",
-        "\"Full power!\" - when levelled up",
-        "\"Hmm, feeling hot!\" - when Traptanium weapon glows",
-        "\"Heating up!\" - when Traptanium weapon glows",
-        "\"Hm, I'll take it\" - when opening a treasure chest",
-        "\"A lion's share!\" - when opening a treasure chest",
-        "\"The pride of the wild!\" - when opening the stats",
-        "\"Let’s face the truth? I’m Awesome!\" - when opening the stats",
-        "\"Dare I say, the 'mane' attraction!\" - when putting on a hat",
-        "\"Nice hat. Is it fireproof?\"",
-        "\"This name gives me...paws.\" - when changing name",
-        "\"An honorary title!\""
+        "'Bringing The Heat!'",
+        "'Inferno claw!'",
+        "'Flash fire!'",
+        "'Let's get started!'",
+        "'In the line of fire!'",
+        "'Fuel the fire!'",
+        "'Lion time!'",
+        "'Turn up the heat!'",
+        "'My turn to burn!'",
+        "'The heat is on!'",
+        "'Hot streak!'",
+        "'Fire away!'",
+        "'Can't be contained!'",
+        "'Hear me roar!'",
+        "'Flyin lion!'",
+        "'Power streak!'",
+        "'Unstoppable!'",
+        "'Fire blast!' - when levelled up",
+        "'Full power!' - when levelled up",
+        "'Hmm, feeling hot!' - when Traptanium weapon glows",
+        "'Heating up!' - when Traptanium weapon glows",
+        "'Hm, I'll take it' - when opening a treasure chest",
+        "'A lion's share!' - when opening a treasure chest",
+        "'The pride of the wild!' - when opening the stats",
+        "'Let’s face the truth? I’m Awesome!' - when opening the stats",
+        "'Dare I say, the 'mane' attraction!' - when putting on a hat",
+        "'Nice hat. Is it fireproof?'",
+        "'This name gives me...paws.' - when changing name",
+        "'An honorary title!'"
       ]
     },
     {
       "quote_type": "Book Quotes",
       "content": [
-        "\"Totally Bringing The Heat!\"",
-        "\"I was thinking of crushing your ships into useless scrap with you still in 'em... but my pal here is feeling generous. He's offering you a chance to retreat, before he decides to get really nasty. So what's it gonna be?\""
+        "'Totally Bringing The Heat!'",
+        "'I was thinking of crushing your ships into useless scrap with you still in 'em... but my pal here is feeling generous. He's offering you a chance to retreat, before he decides to get really nasty. So what's it gonna be?'"
       ]
     }
   ],
   "trivia": [
     "Wildfire is one of the few Skylanders who are felines (the others are Freeze Blade, Trap Shadow, Scratch, Tuff Luck and Mysticat).",
-    "He is the second Trap Master capable of becoming a quadruped after his Soul Gem ability, \"Lion Form\", is purchased, the first being Knight Mare.",
+    "He is the second Trap Master capable of becoming a quadruped after his Soul Gem ability, 'Lion Form', is purchased, the first being Knight Mare.",
     "Being made entirely out of gold, Wildfire's footsteps are metallic.",
     "Wildfire's voice sounded much like that of Eruptor, who Keythe Fairly also voiced since Skylanders: Giants. Coincidentally, they are both Fire Skylanders.",
     "He bears a slight resemblance and is similar to Lionizer from Power Rangers In Space. Both are bipedal, golden lions. Both wield weapons relating to fire.",
-    "He, Fire Kraken and Spitfire are the only Skylanders to have \"Fire\" (their element) in their names.",
-    "Wildfire shares some similarities with Wild Storm. Both have the word \"Wild\" in their name, both have many lion-like features, both can channel their element through roaring, and both are traditionally bipedal but move around on all-fours in certain circumstances."
+    "He, Fire Kraken and Spitfire are the only Skylanders to have 'Fire' (their element) in their names.",
+    "Wildfire shares some similarities with Wild Storm. Both have the word 'Wild' in their name, both have many lion-like features, both can channel their element through roaring, and both are traditionally bipedal but move around on all-fours in certain circumstances."
   ],
   "trailers": [
     {
@@ -123,7 +123,7 @@
       },
       {
         "name": "Chains of Fire",
-        "imgPath": "https://wikia.nocookie.net/skylanders/images/4/45/Wildfiresecondarypower.png/revision/latest?cb=20170505121646",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/45/Wildfiresecondarypower.png/revision/latest?cb=20170505121646",
         "content": "Summon Chains of Fire that not only burn but also pull enemies closer.",
         "is_primary": false,
         "is_secondary": true,
