@@ -66,7 +66,7 @@
     "basic": [
       {
         "name": "Lava Lob",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg/revision/latest?cb=20140813084344",
         "content": "Lobs a ball of lava at enemies.",
         "is_primary": true,
         "is_secondary": false,
@@ -78,7 +78,7 @@
       },
       {
         "name": "Eruption",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg/revision/latest?cb=20140813084344",
         "content": "An eruption of lava from the ground to burn nearby foes.",
         "is_primary": false,
         "is_secondary": true,
@@ -92,7 +92,7 @@
     "basic_upgrades": [
       {
         "name": "Quick Eruption",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg/revision/latest?cb=20140813084344",
         "content": "Allows for faster and more frequent eruption attacks.",
         "is_primary": false,
         "is_secondary": false,
@@ -104,7 +104,7 @@
       },
       {
         "name": "Heavy Duty Plasma",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg/revision/latest?cb=20140813084344",
         "content": "Enhances the intensity and damage of fire-based plasma attacks.",
         "is_primary": false,
         "is_secondary": false,
@@ -118,7 +118,7 @@
     "soulgems": [
       {
         "name": "Big Blob Lava Throw",
-        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg/revision/latest?cb=20140813084344",
         "content": "The ultimate lava attack, throwing massive globs of molten rock at enemies.",
         "is_primary": false,
         "is_secondary": false,
@@ -139,7 +139,7 @@
       "edition": "Series 1",
       "type": "Mini",
       "game": "Skylanders: Trap Team",
-      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg",
+      "image": "https://static.wikia.nocookie.net/skylanders/images/9/9a/Weeruptor_Promo.jpg/revision/latest?cb=20140813084344",
       "attacks": [
         "Lava Lob",
         "Eruption",
