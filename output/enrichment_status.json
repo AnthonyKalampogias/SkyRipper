@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-05-06T09:27:57.924Z",
+  "last_run": "2026-05-07T03:33:53.664Z",
   "processed": [
     {
       "name": "Gill Grunt",
@@ -1320,6 +1320,66 @@
     {
       "name": "Warnado",
       "sha": "282ce67e7554b11f971ab66b4b075570249d53b13130c6e4f855940006b07f03"
+    },
+    {
+      "name": "Wash Buckler",
+      "sha": "a0cfbb111206e639e03adee34f7551fb32f9755bc37b38a03ef08b681a5f42af"
+    },
+    {
+      "name": "Weeruptor",
+      "sha": "1aabfef281f446a771032a59802f283c7a3ca7ea4c35d0761b43733f70909e1e"
+    },
+    {
+      "name": "Wham-Shell",
+      "sha": "d29f3c141b1f4a5bed8b36ffd5ffcc2885fab6bd82dc5f84c03dedc7281c8076"
+    },
+    {
+      "name": "Whirlwind",
+      "sha": "c74c30d0c4bf41e503907cbd40db214705e91eab3ddb0068f7072a01bf856f2b"
+    },
+    {
+      "name": "Whisper Elf",
+      "sha": "18b08876321303a081e917845146474786a1460d28031b58f298056374df1ed5"
+    },
+    {
+      "name": "Wild Storm",
+      "sha": "c6ae57bb6b28ee17abb490416a314eb9d374445cd89f251bde13e5a2096336d9"
+    },
+    {
+      "name": "Wildfire",
+      "sha": "df682b05b22909d76c656c31e69a011cd11bf5bed0e3da4c7dbb634276c145a8"
+    },
+    {
+      "name": "Wind-Up",
+      "sha": "cab9fd8687e88d5f0f7f8df6e9f6b9e40a32895101aade6d6ec3e2e49382ce34"
+    },
+    {
+      "name": "Winterfest Lob-Star",
+      "sha": "ecd9e62b6803dc647de094d6ccbe4b27f5da321f4aad9cd3e68f6bcbfaf325c7"
+    },
+    {
+      "name": "Wolfgang",
+      "sha": "14b1ae5d1ca092052503259159aad7ac959d6a46970d2d5e818ad2637cbfe380"
+    },
+    {
+      "name": "Woodenem",
+      "sha": "0ac5bead30e7366234efdaf9af954912c2eac8e1661a6927ba22d8bf856a6671"
+    },
+    {
+      "name": "Wrecking Ball",
+      "sha": "26a32ae90e2a3e8f4c251ccf4bc07b5ff3b3bc82e781a66c327f436f6462eb8d"
+    },
+    {
+      "name": "Zap",
+      "sha": "cae398f0045608edd21dddebcff5c7c610892fbd84a377946ae49e546a4e1519"
+    },
+    {
+      "name": "Zoo Lou",
+      "sha": "eb2f8b57cb6c79918d906ebb25368b96d6394d125a6636ee0fbe8ecd32081b77"
+    },
+    {
+      "name": "Zook",
+      "sha": "8b4af3a459f8173dc08dd5f668fd7b40f0f4e5951685d56138479e0f3a8b09c9"
     }
   ]
 }
