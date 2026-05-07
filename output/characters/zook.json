@@ -104,18 +104,18 @@
   "trailers": [
     {
       "name": "Meet the Skylanders Zook (extended)",
-      "isValid": false,
-      "url": ""
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Zook_(extended)"
     },
     {
       "name": "Skylanders Spyro's Adventure - Zook Trailer (Locked-and-Loaded!)",
-      "isValid": false,
-      "url": ""
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Skylanders_Spyro's_Adventure_-_Zook_Trailer_(Locked-and-Loaded!)"
     },
     {
       "name": "Meet the Skylanders Series 2 Zook",
-      "isValid": false,
-      "url": ""
+      "isValid": true,
+      "url": "https://skylanders.fandom.com/wiki/File:Meet_the_Skylanders_Series_2_Zook"
     }
   ],
   "gameplay": "Zook can fire explosive thorns from his bamboo tube, which not only serves as a bazooka, but can be used as a a dijiridoo, a telescope, and other things. He can also summon a barricade of various plants or fungus to protect himself.",
@@ -197,8 +197,35 @@
         }
       }
     ],
-    "soulgems": [],
-    "wow_pows": [],
+    "soulgems": [
+      {
+        "name": "MIRV Mortar",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/4/42/Zooksoulgempower.png/revision/latest?cb=20241021182430",
+        "content": "Mortar shells explode into 3 smaller shells.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 4000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
+    "wow_pows": [
+      {
+        "season": 2,
+        "name": "Target Lock",
+        "imgPath": "https://static.wikia.nocookie.net/skylanders/images/3/32/Zookwowpowpower.png/revision/latest?cb=20160724125202",
+        "content": "Hold Attack 3 to bring up a targeting reticle, and press Attack 1 to hit that target with a full mortar.",
+        "is_primary": false,
+        "is_secondary": false,
+        "price": 5000,
+        "colors": {
+          "header": "#d04c8e",
+          "bg_content": "#BFB"
+        }
+      }
+    ],
     "upgrade_paths": [
       {
         "path_name": "Artilleryman",
