@@ -214,11 +214,13 @@ This script reads all character files from `output/characters/` and generates an
 
 The dataset currently covers **playable Skylander characters**. Planned future additions:
 
+- [ ] Fix naming mismatches between the index file and the characters/{id}.json
+- [ ] Decide what to do with bad image paths
 - [ ] Villains
 - [ ] Locations
 - [ ] Vehicles (SuperChargers)
 - [ ] Traps (Trap Team)
-- [ ] Missing info on the data
+- [ ] Other missing info on the data
 - [ ] Your call :)
 
 ---
