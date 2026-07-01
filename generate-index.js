@@ -17,6 +17,35 @@ import { fileURLToPath } from "url";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CHARACTERS_DIR = path.join(__dirname, "output", "characters");
 const INDEX_FILE = path.join(__dirname, "output", "index.json");
+const EXCLUDED_ITEMS = [
+  "awakened-forms",
+  "core-skylanders",
+  "dark-edition-skylanders",
+  "eon-s-elite",
+  "festive-edition-skylanders",
+  "figures",
+  "frito-lay-skylanders",
+  "giants",
+  "imaginators",
+  "instant-skylanders",
+  "legendary-skylanders",
+  "lightcore-skylanders",
+  "minis",
+  "nitro-skylanders",
+  "power-blues",
+  "senseis",
+  "skylanders",
+  "superchargers",
+  "swap-force",
+  "trap-team",
+  "user-blog-cookiecake12347-episode-idea-1",
+  // concept characters only!
+  "fire-dragon",
+  "metal-mage",
+  "sun-dragon",
+  "template-template",
+  "woodenem",
+];
 
 async function generateIndex() {
   try {
@@ -38,8 +67,17 @@ async function generateIndex() {
         const character = JSON.parse(content);
 
         // Skip if missing required fields
-        if (!character.id || !character.name) {
-          console.warn(`  ⚠️  Skipping ${file} (missing id or name)`);
+        if (
+          !character.id ||
+          !character.name ||
+          EXCLUDED_ITEMS.includes(character.id)
+        ) {
+          console.warn(
+            `  ⚠️  Skipping ${file} 
+            -> ${!character.id || !character.name ? "(missing id or name)" : ""}
+            -> ${EXCLUDED_ITEMS.includes(character.id) ? "ignored in list" : ""}
+            `,
+          );
           skipped++;
           continue;
         }

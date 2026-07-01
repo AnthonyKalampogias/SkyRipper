@@ -114,23 +114,6 @@
     ]
   },
   {
-    "id": "awakened-forms",
-    "name": "Awakened Forms",
-    "element": "Various",
-    "role": "Upgraded Form",
-    "primary_game": "Skylanders: Ring of Heroes",
-    "species": "Skylander Type",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "awakened-forms-special",
-        "name": "Awakened Form",
-        "type": "Special form",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Awakened_Skylanders.png"
-      }
-    ]
-  },
-  {
     "id": "bad-breath",
     "name": "Bad Breath",
     "element": "Unknown",
@@ -921,41 +904,6 @@
     ]
   },
   {
-    "id": "core-skylanders",
-    "name": "Core Skylanders",
-    "element": "Various",
-    "role": "Playable Characters",
-    "primary_game": "Skylanders: Spyro's Adventure",
-    "species": "Various",
-    "variant_count": 4,
-    "variants": [
-      {
-        "id": "core-skylanders-ssa",
-        "name": "Original 32",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/1/12/Blades_Icon.png"
-      },
-      {
-        "id": "core-skylanders-giants",
-        "name": "Giants Cores",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/1/12/Blades_Icon.png"
-      },
-      {
-        "id": "core-skylanders-swapforce",
-        "name": "Swap Force Cores",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/1/12/Blades_Icon.png"
-      },
-      {
-        "id": "core-skylanders-trapteam",
-        "name": "Trap Team Cores",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/1/12/Blades_Icon.png"
-      }
-    ]
-  },
-  {
     "id": "countdown",
     "name": "Countdown",
     "element": "Tech",
@@ -1118,41 +1066,6 @@
         "name": "Dark Blast Zone",
         "type": "SWAP Force",
         "img": "https://static.wikia.nocookie.net/skylanders/images/8/8b/Dark_Blast_Zone_Promo.jpg/revision/latest?cb=20130819002755"
-      }
-    ]
-  },
-  {
-    "id": "dark-edition-skylanders",
-    "name": "Dark Edition Skylanders",
-    "element": "Various",
-    "role": "Skylanders",
-    "primary_game": "Skylanders: Spyro's Adventure",
-    "species": "Various",
-    "variant_count": 4,
-    "variants": [
-      {
-        "id": "dark-edition-swap-force",
-        "name": "SWAP Force Dark Edition",
-        "type": "Various",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/4/43/Dark_Skylanders_Art.jpg"
-      },
-      {
-        "id": "dark-edition-trap-team",
-        "name": "Trap Team Dark Edition",
-        "type": "Various",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/a/a2/DarkEdition_Final.jpg"
-      },
-      {
-        "id": "dark-edition-superchargers",
-        "name": "SuperChargers Dark Edition",
-        "type": "Various",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/6/69/Dark_Edition_SuperChargers.jpg"
-      },
-      {
-        "id": "dark-edition-imaginators",
-        "name": "Imaginators Dark Edition",
-        "type": "Various",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/d/df/Dark_Edition_Senseis.png"
       }
     ]
   },
@@ -2056,29 +1969,6 @@
     ]
   },
   {
-    "id": "eon-s-elite",
-    "name": "Eon's Elite",
-    "element": "All",
-    "role": "Elite Leaders",
-    "primary_game": "Skylanders: Trap Team",
-    "species": "Skylander Group",
-    "variant_count": 2,
-    "variants": [
-      {
-        "id": "eon-s-elite-trap-team-s1",
-        "name": "Eon's Elite (Trap Team)",
-        "type": "Special",
-        "img": "Spyro_Elite.jpg"
-      },
-      {
-        "id": "eon-s-elite-superchargers-s2",
-        "name": "Eon's Elite (SuperChargers)",
-        "type": "Special",
-        "img": "Eon's_Elite_SuperChargers.jpg"
-      }
-    ]
-  },
-  {
     "id": "eruptor",
     "name": "Eruptor",
     "element": "Fire",
@@ -2148,197 +2038,6 @@
     ]
   },
   {
-    "id": "festive-edition-skylanders",
-    "name": "Festive Edition Skylanders",
-    "element": "Various",
-    "role": "Special Edition Variant",
-    "primary_game": "Various",
-    "species": "Skylander",
-    "variant_count": 30,
-    "variants": [
-      {
-        "id": "jingle-bell-chompy-mage",
-        "name": "Jingle Bell Chompy Mage",
-        "type": "Sensei",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/3/38/Jingle_Bell_Chompy_Mage_Icon.png"
-      },
-      {
-        "id": "jolly-bumble-blast",
-        "name": "Jolly Bumble Blast",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Jolly_Bumble_Blast_Icon.png"
-      },
-      {
-        "id": "missile-tow-dive-clops",
-        "name": "Missile-Tow Dive-Clops",
-        "type": "SuperCharger",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Missile-Tow_Dive-Clops_Icon.png"
-      },
-      {
-        "id": "winterfest-lob-star",
-        "name": "Winterfest Lob-Star",
-        "type": "Trap Master",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Winterfest_Lob-Star_Icon.png"
-      },
-      {
-        "id": "love-potion-pop-fizz",
-        "name": "Love Potion Pop Fizz",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Love_Potion_Pop_Fizz_Icon.png"
-      },
-      {
-        "id": "candy-coated-chopscotch",
-        "name": "Candy-Coated Chopscotch",
-        "type": "Sensei",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Candy-Coated_Chopscotch_Icon.png"
-      },
-      {
-        "id": "frightful-fiesta",
-        "name": "Frightful Fiesta",
-        "type": "SuperCharger",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Frightful_Fiesta_Icon.png"
-      },
-      {
-        "id": "egg-bomber-air-strike",
-        "name": "Egg Bomber Air Strike",
-        "type": "Sensei",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Egg_Bomber_Air_Strike_Icon.png"
-      },
-      {
-        "id": "eggcited-thrillipede",
-        "name": "Eggcited Thrillipede",
-        "type": "SuperCharger",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Eggcited_Thrillipede_Icon.png"
-      },
-      {
-        "id": "eggsellent-weeruptor",
-        "name": "Eggsellent Weeruptor",
-        "type": "Mini",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Eggsellent_Weeruptor_Icon.png"
-      },
-      {
-        "id": "hard-boiled-flare-wolf",
-        "name": "Hard-Boiled Flare Wolf",
-        "type": "Sensei",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Hard-Boiled_Flare_Wolf_Icon.png"
-      },
-      {
-        "id": "power-punch-pet-vac",
-        "name": "Power Punch Pet-Vac",
-        "type": "Mini",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Power_Punch_Pet-Vac_Icon.png"
-      },
-      {
-        "id": "springtime-trigger-happy",
-        "name": "Springtime Trigger Happy",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Springtime_Trigger_Happy_Icon.png"
-      },
-      {
-        "id": "birthday-bash-big-bubble-pop-fizz",
-        "name": "Birthday Bash Big Bubble Pop Fizz",
-        "type": "SuperCharger",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Birthday_Bash_Big_Bubble_Pop_Fizz_Icon.png"
-      },
-      {
-        "id": "kickoff-countdown",
-        "name": "Kickoff Countdown",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Kickoff_Countdown_Icon.png"
-      },
-      {
-        "id": "holiday-wash-buckler",
-        "name": "Holiday Wash Buckler",
-        "type": "Swap Force",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Holiday_Wash_Buckler_Icon.png"
-      },
-      {
-        "id": "merry-snap-shot",
-        "name": "Merry Snap Shot",
-        "type": "Trap Master",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Merry_Snap_Shot_Icon.png"
-      },
-      {
-        "id": "charming-cobra-cadabra",
-        "name": "Charming Cobra Cadabra",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Charming_Cobra_Cadabra_Icon.png"
-      },
-      {
-        "id": "cupid-flameslinger",
-        "name": "Cupid Flameslinger",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Cupid_Flameslinger_Icon.png"
-      },
-      {
-        "id": "hallows-eve-hex",
-        "name": "Hallows' Eve Hex",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Hallows_Eve_Hex_Icon.png"
-      },
-      {
-        "id": "skeletal-cynder",
-        "name": "Skeletal Cynder",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Skeletal_Cynder_Icon.png"
-      },
-      {
-        "id": "hoppity-pop-fizz",
-        "name": "Hoppity Pop Fizz",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Hoppity_Pop_Fizz_Icon.png"
-      },
-      {
-        "id": "rocky-egg-roll",
-        "name": "Rocky Egg Roll",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Rocky_Egg_Roll_Icon.png"
-      },
-      {
-        "id": "fortune-funny-bone",
-        "name": "Fortune Funny Bone",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Fortune_Funny_Bone_Icon.png"
-      },
-      {
-        "id": "lucky-boomer",
-        "name": "Lucky Boomer",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Lucky_Boomer_Icon.png"
-      },
-      {
-        "id": "birthday-bash-eye-small",
-        "name": "Birthday Bash",
-        "type": "Mini",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Birthday_Bash_Icon.png"
-      },
-      {
-        "id": "fireworks-zook",
-        "name": "Fireworks Zook",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Fireworks_Zook_Icon.png"
-      },
-      {
-        "id": "new-years-countdown",
-        "name": "New Year's Countdown",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/New_Year_s_Countdown_Icon.png"
-      },
-      {
-        "id": "heartbreaker-buckshot",
-        "name": "Heartbreaker Buckshot",
-        "type": "Sensei",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Heartbreaker_Buckshot_Icon.png"
-      },
-      {
-        "id": "spring-ahead-dive-bomber",
-        "name": "Spring Ahead Dive Bomber",
-        "type": "Vehicle",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/Spring_Ahead_Dive_Bomber_Icon.png"
-      }
-    ]
-  },
-  {
     "id": "fiesta",
     "name": "Fiesta",
     "element": "Undead",
@@ -2358,112 +2057,6 @@
         "name": "Frightful Fiesta",
         "type": "SuperCharger",
         "img": "https://static.wikia.nocookie.net/skylanders/images/8/8e/Fiesta_Art.jpg"
-      }
-    ]
-  },
-  {
-    "id": "figures",
-    "name": "Figures",
-    "element": "Multi-elemental",
-    "role": "Interactive Game Pieces",
-    "primary_game": "Skylanders: Spyro's Adventure",
-    "species": "Toy",
-    "variant_count": 13,
-    "variants": [
-      {
-        "id": "figures_series_1",
-        "name": "Series 1 Core",
-        "type": "Core",
-        "img": "/wiki/File:Series1_Base.png"
-      },
-      {
-        "id": "figures_series_2_4",
-        "name": "Series 2-4 Core",
-        "type": "Core Repose",
-        "img": "/wiki/File:Series2_Base.png"
-      },
-      {
-        "id": "figures_lightcore",
-        "name": "LightCore Figure",
-        "type": "LightCore",
-        "img": "/wiki/File:LightCore_Base.png"
-      },
-      {
-        "id": "figures_giant",
-        "name": "Giant Figure",
-        "type": "Giant",
-        "img": "/wiki/File:Giant_Base.png"
-      },
-      {
-        "id": "figures_swap_force",
-        "name": "SWAP Force Figure",
-        "type": "Swap Force",
-        "img": "/wiki/File:SwapForce_Base.png"
-      },
-      {
-        "id": "figures_trap_master",
-        "name": "Trap Master Figure",
-        "type": "Trap Master",
-        "img": "/wiki/File:TrapMaster_Base.png"
-      },
-      {
-        "id": "figures_mini",
-        "name": "Mini Figure",
-        "type": "Mini",
-        "img": "/wiki/File:Mini_Base.png"
-      },
-      {
-        "id": "figures_eons_elite",
-        "name": "Eon's Elite",
-        "type": "Elite",
-        "img": "/wiki/File:EonsElite_Base.png"
-      },
-      {
-        "id": "figures_supercharger",
-        "name": "SuperCharger Figure",
-        "type": "SuperCharger",
-        "img": "/wiki/File:SuperCharger_Base.png"
-      },
-      {
-        "id": "figures_sensei",
-        "name": "Sensei Figure",
-        "type": "Sensei",
-        "img": "/wiki/File:Sensei_Base.png"
-      },
-      {
-        "id": "figures_dark_edition",
-        "name": "Dark Edition",
-        "type": "Alt Deco",
-        "img": "/wiki/File:Dark_Base.png"
-      },
-      {
-        "id": "figures_legendary",
-        "name": "Legendary Figure",
-        "type": "Alt Deco",
-        "img": "/wiki/File:Legendary_Base.png"
-      },
-      {
-        "id": "figures_nitro",
-        "name": "Nitro Figure",
-        "type": "Alt Deco",
-        "img": "/wiki/File:Nitro_Base.png"
-      }
-    ]
-  },
-  {
-    "id": "fire-dragon",
-    "name": "Fire Dragon",
-    "element": "Fire",
-    "role": "Skylander",
-    "primary_game": "Spyro's Kingdom (scrapped)",
-    "species": "Dragon",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "fire-dragon-prototype",
-        "name": "Fire Dragon",
-        "type": "Scrapped",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/9/94/Red_Spyro.png/revision/latest?cb=20200805210818"
       }
     ]
   },
@@ -2736,23 +2329,6 @@
     ]
   },
   {
-    "id": "frito-lay-skylanders",
-    "name": "Frito-Lay Skylanders",
-    "element": "Various",
-    "role": "Skylanders",
-    "primary_game": "Skylanders: Trap Team",
-    "species": "Various",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "frito-lay-skylanders",
-        "name": "Frito-Lay Skylanders",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/3/3b/FritoLayTrio.png/revision/latest?cb=20140520215012"
-      }
-    ]
-  },
-  {
     "id": "frosted-food-fight",
     "name": "Frosted Food Fight",
     "element": "Life",
@@ -2846,23 +2422,6 @@
         "name": "Ghost Roaster",
         "type": "Core Skylander",
         "img": "https://static.wikia.nocookie.net/skylanders/images/1/1d/Ghost_Roaster.jpg/revision/latest?cb=20120921212240"
-      }
-    ]
-  },
-  {
-    "id": "giants",
-    "name": "Giants",
-    "element": "Various",
-    "role": "Skylanders",
-    "primary_game": "Skylanders: Giants",
-    "species": "Various",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "giants-standard",
-        "name": "Giants (Group)",
-        "type": "Giant",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/7/76/Giants.jpg/revision/latest?cb=20230202022624"
       }
     ]
   },
@@ -3461,23 +3020,6 @@
     ]
   },
   {
-    "id": "imaginators",
-    "name": "Imaginators",
-    "element": "Various",
-    "role": "Skylanders",
-    "primary_game": "Skylanders: Imaginators",
-    "species": "Various",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "imaginators",
-        "name": "Imaginators",
-        "type": "Imaginator",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/3/38/Imaginator_Example.jpg/revision/latest?cb=20160602084212"
-      }
-    ]
-  },
-  {
     "id": "instant-dive-clops",
     "name": "Instant Dive-Clops",
     "element": "Water",
@@ -3508,47 +3050,6 @@
         "name": "Instant Food Fight",
         "type": "Instant",
         "img": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Instant_Food_Fight_Artwork.png/revision/latest?cb=20170303181311"
-      }
-    ]
-  },
-  {
-    "id": "instant-skylanders",
-    "name": "Instant Skylanders",
-    "element": "Various",
-    "role": "Digital Characters",
-    "primary_game": "Skylanders: Trap Team",
-    "species": "Various (Skylanders)",
-    "variant_count": 5,
-    "variants": [
-      {
-        "id": "instant-dive-clops",
-        "name": "Instant Dive-Clops",
-        "type": "Digital-Only",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/d/de/Instant_Dive_Clops.jpg/revision/latest/scale-to-width-down/185?cb=20151109183637"
-      },
-      {
-        "id": "instant-food-fight",
-        "name": "Instant Food Fight",
-        "type": "Digital-Only",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Instant_Food_Fight_Icon.png/revision/latest/scale-to-width-down/90?cb=20170306082827"
-      },
-      {
-        "id": "instant-snap-shot",
-        "name": "Instant Snap Shot",
-        "type": "Digital-Only",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/e/e2/Instant_Snap_Shot_Icon.png/revision/latest/scale-to-width-down/90?cb=20170306082822"
-      },
-      {
-        "id": "instant-spitfire",
-        "name": "Instant Spitfire",
-        "type": "Digital-Only",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/7/7d/Instant_Spitfire_Icon.png/revision/latest/scale-to-width-down/90?cb=20170306083655"
-      },
-      {
-        "id": "instant-super-shot-stealth-elf",
-        "name": "Instant Super Shot Stealth Elf",
-        "type": "Digital-Only",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Instant_Stealth_Elf.png/revision/latest/scale-to-width-down/185?cb=20160129094820"
       }
     ]
   },
@@ -4202,155 +3703,6 @@
     ]
   },
   {
-    "id": "legendary-skylanders",
-    "name": "Legendary Skylanders",
-    "element": "Various (excluding Dark)",
-    "role": "Legendary variant group",
-    "primary_game": "Skylanders: Spyro's Adventure",
-    "species": "Various",
-    "variant_count": 23,
-    "variants": [
-      {
-        "id": "legendary-bash",
-        "name": "Legendary Bash",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/7/70/Legendary_Bash_Icon.png"
-      },
-      {
-        "id": "legendary-blades",
-        "name": "Legendary Blades",
-        "type": "Core",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Blades_Icon.png"
-      },
-      {
-        "id": "legendary-chill",
-        "name": "Legendary Chill",
-        "type": "Core",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Chill_Icon.png"
-      },
-      {
-        "id": "legendary-chop-chop",
-        "name": "Legendary Chop Chop",
-        "type": "Core",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Chop_Chop_Icon.png"
-      },
-      {
-        "id": "legendary-deja-vu",
-        "name": "Legendary Déjà Vu",
-        "type": "Core",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_D%C3%A9j%C3%A0_Vu_Icon.png"
-      },
-      {
-        "id": "legendary-grim-creeper",
-        "name": "Legendary Grim Creeper",
-        "type": "LightCore",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Grim_Creeper_Icon.png"
-      },
-      {
-        "id": "legendary-ignitor",
-        "name": "Legendary Ignitor",
-        "type": "Core",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Ignitor_Icon.png"
-      },
-      {
-        "id": "legendary-jet-vac",
-        "name": "Legendary Jet-Vac",
-        "type": "Core",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Jet-Vac_Icon.png"
-      },
-      {
-        "id": "legendary-slam-bam",
-        "name": "Legendary Slam Bam",
-        "type": "Core",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Slam_Bam_Icon.png"
-      },
-      {
-        "id": "legendary-spyro",
-        "name": "Legendary Spyro",
-        "type": "Core",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Spyro_Icon.png"
-      },
-      {
-        "id": "legendary-stealth-elf",
-        "name": "Legendary Stealth Elf",
-        "type": "Core",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Stealth_Elf_Icon.png"
-      },
-      {
-        "id": "legendary-trigger-happy",
-        "name": "Legendary Trigger Happy",
-        "type": "Core",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Trigger_Happy_Icon.png"
-      },
-      {
-        "id": "legendary-zoo-lou",
-        "name": "Legendary Zoo Lou",
-        "type": "Core",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Zoo_Lou_Icon.png"
-      },
-      {
-        "id": "legendary-bouncer",
-        "name": "Legendary Bouncer",
-        "type": "Giant",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Bouncer_Icon.png"
-      },
-      {
-        "id": "legendary-free-ranger",
-        "name": "Legendary Free Ranger",
-        "type": "SWAP Force",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Free_Ranger_Icon.png"
-      },
-      {
-        "id": "legendary-night-shift",
-        "name": "Legendary Night Shift",
-        "type": "SWAP Force",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Night_Shift_Icon.png"
-      },
-      {
-        "id": "legendary-bushwhack",
-        "name": "Legendary Bushwhack",
-        "type": "Trap Master",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Bushwhack_Icon.png"
-      },
-      {
-        "id": "legendary-jawbreaker",
-        "name": "Legendary Jawbreaker",
-        "type": "Trap Master",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Jawbreaker_Icon.png"
-      },
-      {
-        "id": "legendary-astroblast",
-        "name": "Legendary Astroblast",
-        "type": "SuperChargers",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Astroblast_Icon.png"
-      },
-      {
-        "id": "legendary-bone-bash-roller-brawl",
-        "name": "Legendary Bone Bash Roller Brawl",
-        "type": "SuperChargers",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Bone_Bash_Roller_Brawl_Icon.png"
-      },
-      {
-        "id": "legendary-hurricane-jet-vac",
-        "name": "Legendary Hurricane Jet-Vac",
-        "type": "SuperChargers",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Hurricane_Jet-Vac_Icon.png"
-      },
-      {
-        "id": "legendary-pit-boss",
-        "name": "Legendary Pit Boss",
-        "type": "Sensei",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/4/4e/Legendary_Pit_Boss_Icon.png"
-      },
-      {
-        "id": "legendary-tri-tip",
-        "name": "Legendary Tri-Tip",
-        "type": "Sensei",
-        "img": "https://skylanders.fandom.com/wiki/Special:FilePath/Legendary_Tri-Tip_Icon.png"
-      }
-    ]
-  },
-  {
     "id": "legendary-slam-bam",
     "name": "Legendary Slam Bam",
     "element": "Water",
@@ -4516,47 +3868,6 @@
     ]
   },
   {
-    "id": "lightcore-skylanders",
-    "name": "LightCore Skylanders",
-    "element": "Various",
-    "role": "Playable Character",
-    "primary_game": "Skylanders: Giants",
-    "species": "Skylander",
-    "variant_count": 5,
-    "variants": [
-      {
-        "id": "lightcore-giants-series",
-        "name": "LightCore (Giants)",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Lightcore_Logo.png"
-      },
-      {
-        "id": "lightcore-swapforce-series",
-        "name": "LightCore (Swap Force)",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Lightcore_Logo.png"
-      },
-      {
-        "id": "legendary-lightcore-giants",
-        "name": "Legendary LightCore (Giants)",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Lightcore_Logo.png"
-      },
-      {
-        "id": "legendary-lightcore-swapforce",
-        "name": "Legendary LightCore (Swap Force)",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Lightcore_Logo.png"
-      },
-      {
-        "id": "enchanted-lightcore-swapforce",
-        "name": "Enchanted LightCore (Swap Force)",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/4/4a/Lightcore_Logo.png"
-      }
-    ]
-  },
-  {
     "id": "lightning-rod",
     "name": "Lightning Rod",
     "element": "Air",
@@ -4677,23 +3988,6 @@
     ]
   },
   {
-    "id": "metal-mage",
-    "name": "Metal Mage",
-    "element": "Air",
-    "role": "Enemy",
-    "primary_game": "Skylanders: Trap Team",
-    "species": "Troll",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "metal-mage-s1",
-        "name": "Metal Mage",
-        "type": "Enemy",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/e/ed/Metal_Mage_Mystic_Mill_Troll.png/revision/latest?cb=20200513170339"
-      }
-    ]
-  },
-  {
     "id": "mini-jini",
     "name": "Mini-Jini",
     "element": "Magic",
@@ -4707,41 +4001,6 @@
         "name": "Mini-Jini",
         "type": "Mini",
         "img": "https://static.wikia.nocookie.net/skylanders/images/a/a3/Mini_jini.jpg/revision/latest?cb=20140813160310"
-      }
-    ]
-  },
-  {
-    "id": "minis",
-    "name": "Minis",
-    "element": "Various",
-    "role": "Ally",
-    "primary_game": "Skylanders: Trap Team",
-    "species": "Various",
-    "variant_count": 4,
-    "variants": [
-      {
-        "id": "minis_series1",
-        "name": "Minis",
-        "type": "Mini",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/a/ab/Minis_Comic.jpg/revision/latest?cb=20160531051131"
-      },
-      {
-        "id": "gnarly_barkley",
-        "name": "Gnarly Barkley",
-        "type": "Mini Variant",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/3/32/Gnarly_Barkley_Icon.png/revision/latest/scale-to-width-down/45?cb=20170306065810"
-      },
-      {
-        "id": "power_punch_pet_vac",
-        "name": "Power Punch Pet-Vac",
-        "type": "Mini Variant",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/6/60/Power_Punch_Pet-Vac_Icon.png/revision/latest/scale-to-width-down/45?cb=20170306065815"
-      },
-      {
-        "id": "eggsellent_weeruptor",
-        "name": "Eggsellent Weeruptor",
-        "type": "Mini Variant",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/2/27/Eggsellent_Weeruptor_Icon.png/revision/latest/scale-to-width-down/45?cb=20170306065811"
       }
     ]
   },
@@ -5002,53 +4261,6 @@
     ]
   },
   {
-    "id": "nitro-skylanders",
-    "name": "Nitro Skylanders",
-    "element": "Various",
-    "role": "Skylanders",
-    "primary_game": "Skylanders: Swap Force",
-    "species": "Various",
-    "variant_count": 6,
-    "variants": [
-      {
-        "id": "nitro-freeze-blade",
-        "name": "Nitro Freeze Blade",
-        "type": "Nitro Variant",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/a/a3/NitroSymbol.png/revision/latest?cb=20141120153942"
-      },
-      {
-        "id": "nitro-magna-charge",
-        "name": "Nitro Magna Charge",
-        "type": "Nitro Variant",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/a/a3/NitroSymbol.png/revision/latest?cb=20141120153942"
-      },
-      {
-        "id": "nitro-head-rush",
-        "name": "Nitro Head Rush",
-        "type": "Nitro Variant",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/a/a3/NitroSymbol.png/revision/latest?cb=20141120153942"
-      },
-      {
-        "id": "nitro-krypt-king",
-        "name": "Nitro Krypt King",
-        "type": "Nitro Variant",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/a/a3/NitroSymbol.png/revision/latest?cb=20141120153942"
-      },
-      {
-        "id": "nitro-soda-skimmer",
-        "name": "Nitro Soda Skimmer",
-        "type": "Nitro Variant",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/a/a3/NitroSymbol.png/revision/latest?cb=20141120153942"
-      },
-      {
-        "id": "nitro-stealth-stinger",
-        "name": "Nitro Stealth Stinger",
-        "type": "Nitro Variant",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/a/a3/NitroSymbol.png/revision/latest?cb=20141120153942"
-      }
-    ]
-  },
-  {
     "id": "obsidian-hot-head",
     "name": "Obsidian Hot Head",
     "element": "Fire",
@@ -5239,29 +4451,6 @@
         "name": "Power Blue Trigger Happy",
         "type": "SuperCharger",
         "img": "https://static.wikia.nocookie.net/skylanders/images/a/a9/PB_Double_Dare_Trigger_Happy.jpg/revision/latest?cb=20160308221955"
-      }
-    ]
-  },
-  {
-    "id": "power-blues",
-    "name": "Power Blues",
-    "element": "Various",
-    "role": "SuperCharger",
-    "primary_game": "Skylanders: SuperChargers",
-    "species": "Various",
-    "variant_count": 2,
-    "variants": [
-      {
-        "id": "power-blue-splat",
-        "name": "Power Blue Splat",
-        "type": "SuperCharger",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/0/0e/Splat-powerblue.png"
-      },
-      {
-        "id": "power-blue-trigger-happy",
-        "name": "Power Blue Trigger Happy",
-        "type": "SuperCharger",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/0/0d/Triggerhappy-powerblue.png"
       }
     ]
   },
@@ -5580,23 +4769,6 @@
     ]
   },
   {
-    "id": "senseis",
-    "name": "Senseis",
-    "element": "Various",
-    "role": "Skylanders",
-    "primary_game": "Skylanders: Imaginators",
-    "species": "Various",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "senseis_base",
-        "name": "Senseis",
-        "type": "Sensei",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/1/1f/Senseis.png/revision/latest?cb=20160902002408"
-      }
-    ]
-  },
-  {
     "id": "shark-shooter-terrafin",
     "name": "Shark Shooter Terrafin",
     "element": "Earth",
@@ -5690,23 +4862,6 @@
         "name": "Skeletal Cynder",
         "type": "Alter Ego",
         "img": "https://static.wikia.nocookie.net/skylanders/images/6/6f/Skeletal_Cynder.jpg/revision/latest?cb=20131114033837"
-      }
-    ]
-  },
-  {
-    "id": "skylanders",
-    "name": "Skylanders",
-    "element": "Various",
-    "role": "Protagonists",
-    "primary_game": "Skylanders: Spyro's Adventure",
-    "species": "Various Creatures",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "skylanders_s1",
-        "name": "Skylanders",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/5/5d/Skylanders.jpg/revision/latest?cb=20170212184928"
       }
     ]
   },
@@ -6268,23 +5423,6 @@
     ]
   },
   {
-    "id": "sun-dragon",
-    "name": "Sun Dragon",
-    "element": "Life",
-    "role": "Skylander",
-    "primary_game": "Spyro's Kingdom (scrapped)",
-    "species": "Dragon",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "sun-dragon-prototype",
-        "name": "Sun Dragon (Prototype)",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/d/d4/SunDragon_PrototypeToy.png"
-      }
-    ]
-  },
-  {
     "id": "sunburn",
     "name": "Sunburn",
     "element": "Fire",
@@ -6342,23 +5480,6 @@
     ]
   },
   {
-    "id": "superchargers",
-    "name": "SuperChargers",
-    "element": "Various",
-    "role": "Skylanders",
-    "primary_game": "Skylanders: SuperChargers",
-    "species": "Various",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "superchargers_team",
-        "name": "SuperChargers",
-        "type": "Team",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/d/db/SuperChargers_intro.jpg"
-      }
-    ]
-  },
-  {
     "id": "surfer-slam-bam",
     "name": "Surfer Slam Bam",
     "element": "Water",
@@ -6372,23 +5493,6 @@
         "name": "Surfer Slam Bam",
         "type": "Alter Ego",
         "img": "https://static.wikia.nocookie.net/skylanders/images/d/dc/Surfer_Slam_Bam_Promo.jpg/revision/latest?cb=20130604000016"
-      }
-    ]
-  },
-  {
-    "id": "swap-force",
-    "name": "SWAP Force",
-    "element": "Various",
-    "role": "Skylanders",
-    "primary_game": "Skylanders: Swap Force",
-    "species": "Various",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "swap-force-standard",
-        "name": "SWAP Force Standard",
-        "type": "SWAP Force",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/3/3a/Swap_Force.png/revision/latest?cb=20210405015831"
       }
     ]
   },
@@ -6429,29 +5533,6 @@
         "name": "Mystical Tae Kwon Crow",
         "type": "Sensei",
         "img": "https://static.wikia.nocookie.net/skylanders/images/5/5e/Tae_Kown_Crow.png"
-      }
-    ]
-  },
-  {
-    "id": "template-template",
-    "name": "Template Template",
-    "element": "Non-Elemental",
-    "role": "Debug Skylander",
-    "primary_game": "Skylanders: Swap Force",
-    "species": "Unknown",
-    "variant_count": 2,
-    "variants": [
-      {
-        "id": "template-template-sf",
-        "name": "Template Template",
-        "type": "Debug",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/9/9e/Template_Template_Swap_Force.png"
-      },
-      {
-        "id": "template-template-wii",
-        "name": "Template Template (Wii)",
-        "type": "Debug",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/3/37/Template_Template_Wii.png"
       }
     ]
   },
@@ -6650,23 +5731,6 @@
     ]
   },
   {
-    "id": "trap-team",
-    "name": "Trap Team",
-    "element": "Various",
-    "role": "Skylanders",
-    "primary_game": "Skylanders: Trap Team",
-    "species": "Various",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "trap-team",
-        "name": "Trap Team",
-        "type": "Trap Master",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/7/7f/Trap_Team.png/revision/latest?cb=20141010205626"
-      }
-    ]
-  },
-  {
     "id": "tread-head",
     "name": "Tread Head",
     "element": "Tech",
@@ -6805,23 +5869,6 @@
         "id": "dark-turbo-charge-donkey-kong",
         "name": "Dark Turbo Charge Donkey Kong",
         "type": "SuperCharger",
-        "img": ""
-      }
-    ]
-  },
-  {
-    "id": "user-blog-cookiecake12347-episode-idea-1",
-    "name": "User blog:Cookiecake12347/episode idea 1",
-    "element": "None",
-    "role": "User Blog",
-    "primary_game": "Skylanders Academy",
-    "species": "Fan Content",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "user-blog-cookiecake12347-episode-idea-1",
-        "name": "User blog:Cookiecake12347/episode idea 1",
-        "type": "Core",
         "img": ""
       }
     ]
@@ -7097,23 +6144,6 @@
         "name": "Wolfgang",
         "type": "Sensei",
         "img": "https://static.wikia.nocookie.net/skylanders/images/9/97/Wolfgang_Sensei_Promo.jpg/revision/latest?cb=20161108223522"
-      }
-    ]
-  },
-  {
-    "id": "woodenem",
-    "name": "Woodenem",
-    "element": "Life",
-    "role": "Scrapped Skylander",
-    "primary_game": "Skylanders: Spyro's Adventure",
-    "species": "Tree Monster",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "woodenem_concept",
-        "name": "Woodenem",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/7/7b/Woodenem_awe.png/revision/latest?cb=20121016113846"
       }
     ]
   },
