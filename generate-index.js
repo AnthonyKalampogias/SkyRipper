@@ -50,6 +50,7 @@ const EXCLUDED_ITEMS = [
 async function generateIndex() {
   try {
     console.log("📋 Reading character files...\n");
+    let PARSED_ITEMS = [];
 
     const files = await fs.readdir(CHARACTERS_DIR);
     const jsonFiles = files.filter((f) => f.endsWith(".json"));
@@ -65,16 +66,17 @@ async function generateIndex() {
         const filePath = path.join(CHARACTERS_DIR, file);
         const content = await fs.readFile(filePath, "utf-8");
         const character = JSON.parse(content);
-
         // Skip if missing required fields
         if (
           !character.id ||
           !character.name ||
-          EXCLUDED_ITEMS.includes(character.id)
+          EXCLUDED_ITEMS.includes(character.id) ||
+          PARSED_ITEMS.includes(character.id)
         ) {
           console.warn(
             `  ⚠️  Skipping ${file} 
             -> ${!character.id || !character.name ? "(missing id or name)" : ""}
+            -> ${PARSED_ITEMS.includes(character.id) ? "ALREADY PARSED !!!" : ""}
             -> ${EXCLUDED_ITEMS.includes(character.id) ? "ignored in list" : ""}
             `,
           );
@@ -111,6 +113,7 @@ async function generateIndex() {
 
         index.push(indexEntry);
         processed++;
+        PARSED_ITEMS.push(indexEntry);
 
         if (processed % 50 === 0) {
           console.log(`  ✓ Processed ${processed} characters...`);

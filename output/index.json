@@ -875,35 +875,6 @@
     ]
   },
   {
-    "id": "cobra-cadabra",
-    "name": "Cobra Cadabra",
-    "element": "Magic",
-    "role": "Core Skylander",
-    "primary_game": "Skylanders: Trap Team",
-    "species": "King Cobra",
-    "variant_count": 3,
-    "variants": [
-      {
-        "id": "cobra-cadabra-s1",
-        "name": "Cobra Cadabra",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Cobra_Cadabra_Promo.jpg/revision/latest?cb=20141001165633"
-      },
-      {
-        "id": "king-cobra-cadabra",
-        "name": "King Cobra Cadabra",
-        "type": "Core Special Edition",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Cobra_Cadabra_Promo.jpg/revision/latest?cb=20141001165633"
-      },
-      {
-        "id": "charming-cobra-cadabra",
-        "name": "Charming Cobra Cadabra",
-        "type": "Alter Ego",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/2/2c/CobraCadabraLostIslands.gif"
-      }
-    ]
-  },
-  {
     "id": "countdown",
     "name": "Countdown",
     "element": "Tech",
@@ -3294,6 +3265,35 @@
     ]
   },
   {
+    "id": "king-cobra-cadabra",
+    "name": "King Cobra Cadabra",
+    "element": "Magic",
+    "role": "Core Skylander",
+    "primary_game": "Skylanders: Trap Team",
+    "species": "King Cobra",
+    "variant_count": 3,
+    "variants": [
+      {
+        "id": "cobra-cadabra-s1",
+        "name": "Cobra Cadabra",
+        "type": "Core",
+        "img": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Cobra_Cadabra_Promo.jpg/revision/latest?cb=20141001165633"
+      },
+      {
+        "id": "king-cobra-cadabra",
+        "name": "King Cobra Cadabra",
+        "type": "Core Special Edition",
+        "img": "https://static.wikia.nocookie.net/skylanders/images/2/2d/Cobra_Cadabra_Promo.jpg/revision/latest?cb=20141001165633"
+      },
+      {
+        "id": "charming-cobra-cadabra",
+        "name": "Charming Cobra Cadabra",
+        "type": "Alter Ego",
+        "img": "https://static.wikia.nocookie.net/skylanders/images/2/2c/CobraCadabraLostIslands.gif"
+      }
+    ]
+  },
+  {
     "id": "king-pen",
     "name": "King Pen",
     "element": "Water",
@@ -3737,6 +3737,23 @@
     ]
   },
   {
+    "id": "legendary-stealth-elf",
+    "name": "Legendary Stealth Elf",
+    "element": "Life",
+    "role": "Legendary Skylander",
+    "primary_game": "Skylanders: Giants",
+    "species": "Elf",
+    "variant_count": 1,
+    "variants": [
+      {
+        "id": "legendarystealth-elf",
+        "name": "Legendary Stealth Elf",
+        "type": "Legendary",
+        "img": "https://static.wikia.nocookie.net/skylanders/images/6/69/L-StealthElf_Promo.jpg/revision/latest?cb=20170304031802"
+      }
+    ]
+  },
+  {
     "id": "legendary-tri-tip",
     "name": "Legendary Tri-Tip",
     "element": "Earth",
@@ -3784,23 +3801,6 @@
         "name": "Legendary Zoo Lou",
         "type": "Legendary",
         "img": "https://static.wikia.nocookie.net/skylanders/images/b/b8/Legendary-zoo-lou.png/revision/latest?cb=20170304031657"
-      }
-    ]
-  },
-  {
-    "id": "legendary-stealth-elf",
-    "name": "Legendary Stealth Elf",
-    "element": "Life",
-    "role": "Legendary Skylander",
-    "primary_game": "Skylanders: Giants",
-    "species": "Elf",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "legendarystealth-elf",
-        "name": "Legendary Stealth Elf",
-        "type": "Legendary",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/6/69/L-StealthElf_Promo.jpg/revision/latest?cb=20170304031802"
       }
     ]
   },
