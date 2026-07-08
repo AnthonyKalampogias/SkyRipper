@@ -18,6 +18,17 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const CHARACTERS_DIR = path.join(__dirname, "output", "characters");
 const INDEX_FILE = path.join(__dirname, "output", "index.json");
 const EXCLUDED_ITEMS = [
+  // not in games
+  "bad-breath",
+  "cy",
+  "cyclops-snail",
+  "instant-food-fight",
+  "instant-snap-shot",
+  "instant-dive-clops",
+  "instant-spitfire",
+  "instant-super-shot-stealth-elf",
+  "sir-hoodington",
+  // items
   "awakened-forms",
   "core-skylanders",
   "dark-edition-skylanders",

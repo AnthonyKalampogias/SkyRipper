@@ -114,23 +114,6 @@
     ]
   },
   {
-    "id": "bad-breath",
-    "name": "Bad Breath",
-    "element": "Unknown",
-    "role": "Skylander",
-    "primary_game": "Skylanders Academy",
-    "species": "Grumblebum",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "bad-breath",
-        "name": "Bad Breath",
-        "type": "TV Series Character",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/c/c7/Bad_Breath.png/revision/latest?cb=20161031102516"
-      }
-    ]
-  },
-  {
     "id": "bad-juju",
     "name": "Bad Juju",
     "element": "Air",
@@ -951,46 +934,6 @@
         "name": "Cupid Flameslinger",
         "type": "Alter Ego",
         "img": "https://static.wikia.nocookie.net/skylanders/images/1/19/Cupid_Flameslinger.jpg/revision/latest?cb=20130203075030"
-      }
-    ]
-  },
-  {
-    "id": "cy",
-    "name": "Cy",
-    "element": "Undead",
-    "role": "Skylander",
-    "primary_game": "Skylanders Academy",
-    "species": "Imaginator",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "cy-s1",
-        "name": "Cy",
-        "type": "Imaginator",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/f/f4/Imaginator_Cy.png/revision/latest?cb=20161028195916"
-      }
-    ]
-  },
-  {
-    "id": "cyclops-snail",
-    "name": "Cyclops Snail",
-    "element": "Water",
-    "role": "Skylander",
-    "primary_game": "Spyro's Kingdom (scrapped)",
-    "species": "Unknown",
-    "variant_count": 2,
-    "variants": [
-      {
-        "id": "cyclops-snail-original",
-        "name": "Cyclops Snail",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/a/a8/Spyro%27sKingdom_CyclopsSnail_Selection.jpg/revision/latest?cb=20211013035523"
-      },
-      {
-        "id": "tarclops-prototype",
-        "name": "Tarclops",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/f/f6/Early_Tarclops.jpg/revision/latest/scale-to-width-down/185?cb=20190730080710"
       }
     ]
   },
@@ -2991,91 +2934,6 @@
     ]
   },
   {
-    "id": "instant-dive-clops",
-    "name": "Instant Dive-Clops",
-    "element": "Water",
-    "role": "SuperCharger",
-    "primary_game": "Skylanders: SuperChargers",
-    "species": "Eyeball",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "instant-dive-clops-s1",
-        "name": "Instant Dive-Clops",
-        "type": "SuperCharger",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/d/de/Instant_Dive_Clops.jpg/revision/latest?cb=20151109183637"
-      }
-    ]
-  },
-  {
-    "id": "instant-food-fight",
-    "name": "Instant Food Fight",
-    "element": "Life",
-    "role": "Skylander",
-    "primary_game": "Skylanders: Trap Team (Tablet version)",
-    "species": "Anthropomorphic Artichoke",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "instant-food-fight-tablet",
-        "name": "Instant Food Fight",
-        "type": "Instant",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/e/e1/Instant_Food_Fight_Artwork.png/revision/latest?cb=20170303181311"
-      }
-    ]
-  },
-  {
-    "id": "instant-snap-shot",
-    "name": "Instant Snap Shot",
-    "element": "Water",
-    "role": "Trap Master",
-    "primary_game": "Skylanders: Trap Team",
-    "species": "Crocagator",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "instant-snap-shot-v1",
-        "name": "Instant Snap Shot",
-        "type": "Digital",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/e/ef/Instant_Snap_Shot_Artwork.png/revision/latest?cb=20170303181309"
-      }
-    ]
-  },
-  {
-    "id": "instant-spitfire",
-    "name": "Instant Spitfire",
-    "element": "Fire",
-    "role": "SuperCharger",
-    "primary_game": "Skylanders: SuperChargers",
-    "species": "Flame Spirit",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "instant-spitfire-v1",
-        "name": "Instant Spitfire",
-        "type": "SuperCharger",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/e/e5/Instant_Spitfire.jpg"
-      }
-    ]
-  },
-  {
-    "id": "instant-super-shot-stealth-elf",
-    "name": "Instant Super Shot Stealth Elf",
-    "element": "Life",
-    "role": "SuperCharger",
-    "primary_game": "Skylanders: SuperChargers (iOS) (in the game files of the console versions)",
-    "species": "Elf",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "instant-super-shot-stealth-elf",
-        "name": "Instant Super Shot Stealth Elf",
-        "type": "SuperCharger",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/b/ba/Instant_Stealth_Elf.png/revision/latest?cb=20160129094820"
-      }
-    ]
-  },
-  {
     "id": "jade-fire-kraken",
     "name": "Jade Fire Kraken",
     "element": "Fire",
@@ -4828,23 +4686,6 @@
         "name": "Sure Shot Shroomboom",
         "type": "Core",
         "img": "https://static.wikia.nocookie.net/skylanders/images/d/d6/S2_Shroomboom_Promo.jpg/revision/latest?cb=20141001184514"
-      }
-    ]
-  },
-  {
-    "id": "sir-hoodington",
-    "name": "Sir Hoodington",
-    "element": "Fire",
-    "role": "Imaginator",
-    "primary_game": "Skylanders: Creator",
-    "species": "Unknown",
-    "variant_count": 1,
-    "variants": [
-      {
-        "id": "sir-hoodington",
-        "name": "Sir Hoodington",
-        "type": "Core",
-        "img": "https://static.wikia.nocookie.net/skylanders/images/5/59/Sir_Hoodington.png/revision/latest?cb=20161231001521"
       }
     ]
   },
